@@ -1,0 +1,403 @@
+{
+    "metadata": {
+        "title": "Hearing Loss, Conductive, in Children  Effects on Speech and Language",
+        "synonyms": [
+            "conductive hearing loss in children  effects on speech and language",
+            "hearing disorders",
+            "conductive in children: effects on speech and language"
+        ],
+        "anatomical location body part affected": [
+            "Conductive hearing loss  external or middle ear"
+        ],
+        "area of specialty": [
+            "child speech and language disorders",
+            "hearing impairment"
+        ],
+        "description": [
+            "Conductive hearing loss is caused by dysfunction in the process of sound transmission through the outer ear canal, through the tiny bones (ossicles) of the middle ear and/or through the eardrum (tympanic membrane), resulting in a reduction in the ability to hear sound(1)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "H90.0": "conductive hearing loss, bilateral",
+            "H90.11": "conductive hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side",
+            "H90.12": "conductive hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side",
+            "H90.2": "conductive hearing loss, unspecified",
+            "H90.6": "mixed conductive and sensorineural hearing loss, bilateral",
+            "H90.71": "mixed conductive and sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side",
+            "H90.72": "mixed conductive and sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side",
+            "H90.8": "mixed conductive and sensorineural hearing loss, unspecified",
+            "H90.A11": "conductive hearing loss, unilateral, right ear with restricted hearing on the contralateral side",
+            "H90.A12": "conductive hearing loss, unilateral, left ear with restricted hearing on the contralateral side",
+            "H90.A31": "mixed conductive and sensorineural hearing loss, unilateral, right ear with restricted hearing on the contralateral side",
+            "H90.A32": "mixed conductive and sensorineural hearing loss, unilateral, left ear with restricted hearing on the contralateral side (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "A child has a mild, moderate, or profound hearing loss in one or both ears; in some cases, the child will exhibit delayed speech and language abilities due to conductive hearing loss  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Conductive hearing loss is caused by dysfunction in the process of sound transmission through the outer ear canal, throughthe tiny bones (ossicles) of the middle ear and/or through the eardrum (tympanic membrane), resulting in a reduction in theability to hear sound.(1) Chronic otitis media with effusion (OME, \u201cglue ear\u201d) occurs when the Eustachian tube becomesblocked and the middle ear becomes filled with fluid, and is the most common cause of acquired conductive hearing loss inchildren.(2,3) Accumulation of fluid in the middle ear impedes the normal transmission of sound, resulting in a hearing lossof 15 to 40 dB.(2) Chronic supportive otitis media refers to a persistent infection and resultant perforation of the tympanicmembrane (eardrum).(2)Congenital causes of conductive loss include anomalies of the pinna, external ear canal, tympanicmembrane (eardrum), and ossicles.(3) Other conditions associated with middle ear pathology and conductive hearing lossinclude:\u2013Poor Eustachian tube function(3)\u2013Perforated eardrum(3)\u2013Benign tumors(3)\u2013Ossicular injury caused by trauma to the ear or head (e.g., temporal bone fracture)(3)\u2013Impacted earwax (cerumen)(3)\u2013Infection in the ear canal (external otitis)(3)\u2013Presence of a foreign body(3)\u2013Tympanosclerosis(3)\u2013Congenital cholesteatoma(3)\u2013Skeletal dysplasia(44)\u2013Congenital aural atresia (abnormal or incomplete formation of the outer or middle ear)(48)\u2013High jugular bulb (a venous outpouching that develops in the jugular vein) that encroaches on the ossicles(51)"
+        ],
+        "pathogenesis": [
+            "Pathogenesis will vary depending on the underlying cause"
+        ],
+        "risk factors": [
+            "Recurrent or persistent OME, anatomic deformities (e.g., cleft palate, Apert syndrome), and other disorders that affectEustachian tube function; neurodegenerative disorders(3,4,5)\u2013For detailed information on cleft palate, see Clinical Review\u2026Cleft Lip and Palate ; CINAHL Topic ID Number: T708577",
+            "Age, genetic, infectious, immunologic, and environmental factors might predispose a child to ear infections(2,6)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Contact a physician if there are signs of an ear infection (e.g., ear pain, drainage, irritability)",
+        "Monitor hearing in both ears to determine if overall hearing ability is getting worse",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Questions regarding medical history are intended to identify the etiology of the hearing loss and any medical factors that have affected speech and language development. Information regarding hearing history and audiological management may include age of first hearing assessment, age of onset of hearing loss, age at the time of hearing loss identification, age of amplification, and extent of hearing loss in each ear (i.e., mild, moderate, severe, profound)Parental/caregiver questions about communication should establish parents/caregivers\u2019 specific concerns for the child\u2019s listening, speech, and/or language development, his or her social-emotional  reaction, and the child\u2019s level of frustration with communication. In addition, a communication history should identify the languages spoken at home, at daycare or school, and within the community by the child and parents/caregivers ",
+                "course of treatment": {
+                    "medical management": "Generally the testing sequence involves a hearing screening (which can be performed by a speechlanguage  pathologist [SLP] or at the child\u2019s pediatrician\u2019s office) with referral for audiology/medical assessments as indicated(1)",
+                    "surgical management": [],
+                    "medications": "Determine what medications, if any, the physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Audiological assessment: An audiologist will provide the following tests to diagnose the extent and cause of",
+                        "conductive hearing loss: pneumatic otoscopy, measurement of pure tone airconduction and bone-conduction  threshold, discrimination score, tympanometry, wideband reflectance, acoustic reflexes, and acoustic reflex decay(7,8,9,43)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had speech therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Document any noted aggravating or alleviating factors (e.g., presence of a sensorineural hearing loss, presence of pain associated with ear infections)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms. Does the child have frequent ear infections? Does the child have ear pain or fluid draining from the ear? Does the child respond to noises of various degrees of loudness? Does the child respond when his or her name is called? Is the child frequently inattentive? Does the child have limited or poor speech? Does the child have difficulty understanding spoken language?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night related to the condition, if any",
+                "other symptoms": "Document other symptoms patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness)",
+                "respiratory status": "Is there any known respiratory compromise?Document any behavioral symptoms that could indicate psychosocial disturbances -Children with conductive hearing loss might appear to have behavioral problems (such as attention-deficit/hyperactivity disorder [ADHD]) or demonstrate emotional outbursts due to frustration over the inability to properly hear and respond to speech or the frustration of difficulty communicating; referral for psychological evaluation is important to diagnose or rule out comorbid psychosocial disorders(10,11)Document extent of conductive hearing loss following review of the audiologist\u2019s report. An audiologistpneumatic otoscopy, measurement of pure tone air-conduction  and bone-conduction  threshold, discrimination score, tympanometry, acoustic reflexes, and acoustic reflex decay.(9) Document whether the child uses a hearing aid or other assistive technology for amplification/sound conduction (e.g., middle ear implant, FM system, hearing coil); document if the child is compliant with wearing/using the assistive device and if there is perceived benefit with respect to communication(45) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any prior history of hearing impairment or related conditions? Any history of developmental delays or communication impairment? Any history of hearing loss within the family?",
+                    "comorbid diagnoses": "Ask the patient/caregiver about other problems, including diabetes, cancer, head injury, ADHD, and learning disabilities",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs), paying close attention to drugs that are known to be ototoxic (e.g., salicylate pain relievers, quinine) ",
+                    "other symptoms": "Ask the patient/caregiver about other symptoms the patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Does the patient participate in activities that may aggravate condition (e.g., swimming)? Inquire about the child\u2019s educational environment. If the child is school-aged,  are there classroom modifications? Does the child socialize appropriately with peers?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient utilize any assistive or adaptive devices?",
+                "living environment": "With whom patient lives (e.g., family members, caregivers). Document the noise level of the home, language(s) used in the home and community, communication mode used in the home (e.g., signed vs. oral)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "Universal hearing screening is provided at birth in most states in the United States, as well as \u203aRelevant tests and measures:  Universal hearing screening is provided at birth in most states in the United States, as well as Australia, United Kingdom, and many other developed countries.(8,41,49) Once an infant is screened and identified as having a hearing loss, it is recommended that a complete audiological evaluation be completed.(8) Children who pass a hearing screening at birth but have risk factors for hearing loss will be followed at regular intervals as determined by the pediatrician and audiologist.(49) Hearing screenings also typically take place at the time a child enters elementary school.(49) Assessments will vary depending on the age of the child",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisStandardized parent-report  measures that include information about the communication abilities of toddlers and preschoolers can provide information on the child\u2019s language abilities that might not easily be obtained through other measures in the laboratory and clinical environment",
+            "speech and language examination": " Speech and language examination (including reading) \u2013SpeechTo assess speech perception and production, it is important to consult with the audiologist and refer to the child\u2019s audiogram to understand the extent of the hearing loss and the sounds that are more difficult for the child to perceive(12) -In a study conducted in the United States in which researchers simulated a conductive hearing loss, speech recognition scores decreased as the level of simulated conductive hearing loss increased; speech recognition in the face of a conductive hearing loss is less affected for adults than it is for children(13) -In another study conducted in the United States, researchers found that children with early conductive hearing loss due to repeated OME (between ages 7 and 39 months) had reduced hearing sensitivity and higher-level  auditory processing difficulties by the time they reached school age when compared to children who did not experience frequent OME with conductive hearing loss(14)Using a 100-word  sample (e.g., picture naming) and/or a conversational sample, take a consonant and vowel inventory to assess the distribution of sounds across word positions, syllable and word shape inventories, and word-level stress patterns. A minimum of two productions of a sound is required before the sound can be credited to the phonetic inventoryStandardized tests or informal (nonstandardized) analyses can be used to determine speech errors that have a high frequency of occurrence, are early developing, and are functionally important for the child and the child\u2019s family. For specific sounds, the percentage of omissions, substitutions, distortions, and additions can be completed. A conversational sample can be used to record any difficulties in prosody, fluency, or resonance (e.g., hypernasality)Scales to measure speech intelligibility in children with hearing loss have been found to be quick to administer, discriminative, and reliable. In one method, children are asked to name pictures, and an unfamiliar listener can rate the intelligibility of each word on a scale (e.g., poor, pass, fair, good). Scales can also be analogue for quick numerical calculations (e.g., 1\u201310,  \u201cSpeech is completely intelligible\u201d[1] to \u201cSpeech is completely unintelligible\u201d[10])(15)Standardized tests can be used to classify and quantify phonological processes (patterns relating to sound errors). Children with hearing impairment often produce predictable error sound patterns (e.g., final consonant deletion)Methods to assess production capacity at the word level can include imitation, key positions (phonetic environment in which the target sound is successfully pronounced), key words (a  word or a limited number of words in which a sound is successfully pronounced), and phonetic placement and shaping (techniques that physically direct a person to the correct production of a target sound) -For detailed information on assessment of speech (articulation) skills in children with conductive hearing loss, seeArticulation Disorder, Organic ; Topic ID Number \u2013Language -If receptive and/or expressive language difficulties are suspected, provide a screening measure or a comprehensive language assessment (language sample and standardized tests) to assess expressive and receptive vocabulary and morphosyntactic language. Recorded and transcribed language samples can also provide information on language pragmatics, mean length of utterance, vocabulary diversity, and syntax -Researchers in the Netherlands evaluated language skills of children with a history of chronic otitis media at age 27 months and again at 7 years to determine long-term  effects of otitis media in the early years. Sixty-five  Dutch children were assessed as part of the study. Authors concluded that there was no evidence of long-term  effects of early otitis media (in the first 2 years of life) and subsequent hearing loss on language skills in the school years. Authors caution that the sample size was limited and suggest a need for further study in this area(47) -Standardized tests can be used to assess phonology, vocabulary, syntax, and phonological awareness. It is important to note the population on which the test was standardized. Tests that are designed specifically for children who are deaf or hard of hearing are often standardized only on children who are also deaf or hard of hearing; therefore, the scores will not reflect the child\u2019s performance with regard to the \u201cmainstream\u201d population(7) -For detailed information on assessment and treatment of language disorders in children, see the series of Clinical Reviews on this topicStandardized and criterion-referenced  tests can be used to assess academic performance in reading and writingIf the child is at risk for reading difficulties and is of appropriate age, assess phonological awareness (knowledge about the sound structure of language at the syllabic, intra-syllabic,  and phonemic levels) by use of a standardized test -For detailed information on reading disabilities in children, see the series of Clinical Reviews on this topic",
+            "neurological examination": "",
+            "oral structure and oral motor function": "Assess the structure and function of the oral mechanism to determine any abnormalities that interfere with speech production",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "To ensure relevance and appropriateness of the treatment program addressing the effects of hearing loss, decisions about goals and course of therapy should be made in collaboration with the patient/caregivers, other healthcare professionals, and educational professionals",
+                "It is important to be aware of and respect the family\u2019s choice of communication modality; some children will be mainly verbal communicators while others will be users of a signed system or combination",
+                "Development of an individualized family service plan (IFSP) or an individual education plan (IEP) in collaboration with the parents and school personnel is essential for children with conductive hearing loss to address learning, speech, and language problems in the home and school environment"
+            ]
+        },
+        "diagnosis need for treatment": "Conductive hearing loss can often be medically or surgically corrected.(2) If the child\u2019s communication development is delayed for his or her age, treatment by an SLP is warranted",
+        "rule out": "Because hearing loss has such a profound impact on language development and learning, it is often difficult to definitively diagnose or rule out other potential issues (e.g., learning disabilities). The communication challenges associated with hearing loss may cause children to behave in ways that appear similar to children with ADHD(10)",
+        "prognosis": [],
+        "referral to other disciplines": "Refer to physician, psychiatrist/psychologist, behavioral specialist, and/or audiologist as indicated ",
+        "other considerations": [],
+        "treatment summary": [
+            "Treatment for hearing loss \u2013Temporary conductive hearing loss due to OME is very common among children and usually resolves spontaneously.(2) Audiological treatment for OME has included early monitoring, use of nasal or oral decongestants, and antibiotics. Surgical treatment might include myringotomy (surgical incision of the eardrum), grommet insertion, or ossicular reconstruction.(50) The optimal treatment for chronic OME remains controversial, with insufficient data to firmly establish the effectiveness of any single surgical or medical treatment.(17) Meta-analyses  have indicated that the effects of grommets (ventilation tubes) on hearing, effusion duration, language development, cognition, and behavior in children are marginal at best.(18) Poor speech perception in noise has been recommended as an indicator of children who would benefit from surgical intervention(53) \u2013There is much controversy regarding the long-term  effects of OME on a child\u2019s speech and language development, with most studies indicating that OME in itself is not a substantial risk factor for speech and language problems.(19) However, OME and resulting conductive hearing loss associated with other disorders might increase the risk for greater speech and language delays than would be expected for a given condition (e.g., Turner\u2019s syndrome, cleft palate)(6) \u2013Other methods of amplification for children with conductive hearing loss might include the use of a bone-anchored hearing aid (BAHA) if the child qualifies.(20) BAHAs, placed while the child is under general anesthesia, involve placing a titanium screw into the mastoid bone. BAHAs are not placed in children younger than age 4 or 5 because the skin is too thin prior to this age(52) -Authors of a systematic review and economic evaluation of BAHAs performed in the United Kingdom concluded that BAHAs were unlikely to be more cost-effective  for adults and children who were bilaterally deaf compared with other available hearing aid options for amplification(42) -In a retrospective study with 17 children in the United Kingdom with unilateral conductive hearing loss, researchers found significant improvement in overall quality of life within this group of children after they received a bone-anchored  hearing aid(46)",
+            "Early intervention \u2013Goal: The first purpose of early intervention is to help families of children with hearing loss understand the implications of hearing loss (e.g., language learning, specialized equipment, educational placement). Several studies conducted in the United Kingdom and the United States have demonstrated the benefits of family-focused early intervention on the development of communication and reading abilities in children with hearing loss.(21,22) An SLP might be involved in an early intervention team for children with conductive hearing loss who also have developmental disabilities and/or delays in speech and language. The following are suggestions for parents to promote their child\u2019s language learning: -Talk to your child about familiar things at face level(6) -Talk to your child throughout the day (e.g., mealtimes, bath time)(6) -Ask simple questions and encourage your child to respond(6) -Use expansions (repeat what your child says and add more words)(6) -Take your child to new places (e.g., supermarket) and talk about the things that you see there(6) -Talk to your child about events in the past, events that are happening in the present, and events that will happen in the future(6) -Read often to your child and make links to the child\u2019s own experiences(6) -Provide your child with books, crayons, and drawing implements(6) -Talk about sounds and names of letters(6)",
+            "Speech/articulation intervention: The primary purpose of speech/articulation intervention is to improve speech intelligibility. Goals might include increasing phonetic and phonemic repertoires, correcting error sounds, establishing clear links between speech perception and speech production, and improving suprasegmental aspects of speech (e.g., prosody).(22) There is also evidence from an Australian study suggesting that training in speech production can result in improvements in vocabulary knowledge(23)  \u2013Intervention (Ling model for speech intervention) -Goal: Increase accuracy of speech production. The Ling speech program provides assessment and instructional techniques for improving speech first at the phonetic level (in nonmeaningful contexts such as sounds and syllables) and then at the phonological level (in meaningful words, phrases, sentences, and discourse). Instruction emphasizes daily drill and practice and follows a hierarchy based on ease of production and ease of speech reading. Strategies emphasize the optimal use of the student\u2019s residual and aided hearing (e.g., cochlear implant or hearing aids) by focusing on listening and auditory discrimination. Kinesthetic or auditory prompts can be used but are eventually faded.(24) The efficacy of the Ling model has been explored in single-group  studies conducted in the United States and Canada, and results from a study in Australia indicate that this method leads to generalization of treated sounds at the phonological level and can lead to improvement of some untreated sounds(25,26,27) \u2013Simultaneous phonological and morphological training -Goal: Increase speech perception, grammatical performance, and phonology. In a two-group  study conducted in Australia, researchers examined the differential effects of phonological training and morphological training. Seventeen students with hearing loss (ages 5\u201311  years), 10 with cochlear implants and 7 with hearing aids, were divided into two groups and were trained daily for 9 weeks (15\u201320 minutes daily) using one method and then the other method for the next 9 weeks. Phonological training focused on the production of four sounds (/s, z, t, d/) in the final position of words. Results indicated that both training methods led to increased morphological knowledge and speech perception but minimal gains in phonology (speech production). Researchers concluded that the training was too short to result in significant changes in speech production and that both types of training were required for maximum benefit(28)",
+            "Comprehension/listening: Children with hearing aids benefit from an environment with reduced background noise. Auditory training has been used as a method to increase residual hearing ability in children who have hearing aids \u2013Environmental modifications -Goal: Reduce adverse acoustic conditions. Classroom modifications that can help to enhance listening include use of barrier walls for small group activities, use of sound-absorbing  materials such as carpet and draperies, acoustic ceiling tiles, tennis balls on chair legs in rooms without carpet, and seating away from noise (e.g., air conditioners, overhead projectors, doorways, windows)(29) \u2013Auditory training -Goal: Improve auditory perception and residual hearing ability. Auditory training is a process for training a person with hearing loss to make use of his or her residual hearing by using activities that focus on increasing the recognition, identification, and interpretation of sound. There is little experimental research on the efficacy of auditory training in children, but the research done in adults and preliminary research in children suggest that auditory training might be beneficial in increasing awareness of acoustic differences and recognizing fine acoustic distinctions(30,31)",
+            "Language: Examples of language goals for children who have delayed language due to hearing loss include increasing understanding of complex units of discourse (such as sentences), building vocabulary and world knowledge, developing verbal reasoning skills, acquisition of pragmatic and syntactic rules of the language, and developing narrative skills(22) \u2013Computer-based  training -Goal: Increase vocabulary knowledge. In a multiple baseline study conducted in the United States, researchers examined the effects of a computer program in teaching vocabulary to 8 participants with hearing loss (ages 6\u201310  years). Seven wore bilateral hearing aids and 1 had a unilateral cochlear implant. Participants were tested and trained 20\u201330  minutes a day, 2 days a week for 10 weeks on 24 words (nouns) that were chosen to suit the needs of individual participants. Results indicated that all 8 participants learned all target words and retained the majority of the words 4 weeks after intervention(32) \u2013Narrative intervention -Goal: Narrative production. In a single-group  study conducted in the United States, researchers examined the effects of a narrative intervention on narrative production on 14 children (ages 7\u201314  years). Two subjects had mild hearing loss and the remaining had moderately severe to profound hearing loss. Four of these children had cochlear implants and the rest used hearing aids. Children listened to repeated readings of two books and were divided into two groups to role-play  one of the two stories. Results indicated that the complexity of the story retellings increased with role-play(33) \u2013Auditory-verbal  approach -Goal: Global language progress. In a single-group study conducted in the United States, researchers examined the language growth of 40 children with moderate to profound hearing loss (mean age, 44 months) who received 1 to 4 years of intensive auditory-verbal  intervention. Auditory-verbal therapy (A VT) emphasizes the development of spoken  language through early identification of hearing loss, amplification, and intensive speech and language therapy in which parents serve as important language models. In this study, parents and children participated in 1 or 2 hours of weekly A VT sessions. Results indicated that mean language receptive and expressive growth rates improved steadily over the 4-year  period, at times at rates faster than expected for chronological age growth(34) -Authors of another study conducted in Australia examined the effects of A VT on language and speech production over 9 months by comparing a treatment group of 29 children with moderate to profound hearing loss who used cochlear implants or hearing aids to a control group of 29 children with normal hearing. Children were matched for language age, receptive vocabulary, sex, and parental education level. Results indicated that both groups made similar gains on standardized speech and language measures after 9 months(35)",
+            "Literacy: There is some evidence that recurrent OME can result in later phonological and reading difficulties.(36) Researchers have suggested that disruption of input in development can result in poorer speech perception, leading to poor phonological awareness. For children with severe and profound hearing loss, literacy goals are often addressed by both the SLP and a deaf education teacher. Specific studies on effective literacy instructional methods for these children with conductive hearing loss are lacking \u2013Phonics-based  reading curriculum and visual phonics -Goal: Increase decoding and reading comprehension. The efficacy of a systematic phonics instruction curriculum used in combination with Visual Phonics, a system of hand cues and written symbols to represent individual phonemes, has been investigated in several studies conducted in Australia and the United States. Results indicate that students from kindergarten to middle school with various degrees of hearing loss showed significant improvements on standardized tests of reading skills using these methods(37,38,39) . Problem Goal Intervention Expected Progression Home Program Language delay or disorder _ _ Speech (articulation) delay or disorder _ _ Poor phonological awareness _ _ Poor reading abilityIncrease family/ caregiver understanding of the effects/ implications of hearing loss and ways to assist children at home _ _ Increase receptive and expressive language ability _ _ Increase articulation ability (speech intelligibility) _ _ Improve phonological awareness _ _ Improve reading ability (See Treatment summary , above)Therapeutic strategies _ Various therapeutic strategies exist; please see Treatment summary , above, for specific examples of interventions and related researchEach unique child and family/caregiver should be progressed as indicated and appropriateImplement a home program as indicated ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "optimization of hearing through medical management or amplification, as desired by patient and family ": [],
+        "improved expressive and receptive language ability": [
+            "Parent report measures"
+        ],
+        "improved articulation ability": [
+            "Speech error analysis",
+            "Phonetic inventory"
+        ],
+        "improved phonological awareness": [],
+        "improved reading ability": [],
+        "improved attention to task": [],
+        "many norm-referenced  standardized language measures do not provide sufficiently specific information to measure gradual progress on language intervention objectives. in addition, standardized tests do not always allow for frequent or repeated": [],
+        "when appropriate, use goals outlined in the child\u2019s ifsp iep to measure outcomes": []
+    },
+    "maintenance or prevention": [
+        "Children who have OME and are receiving speech-language  services should routinely have their hearing and middle ear status monitored.(40) Hearing and language testing is recommended for children who have had recurrent OME that persists for a period of 3 months(40)"
+    ],
+    "patient education": [
+        "Information for the public about conductive hearing loss is available on the American Speech-Language-Hearing Association\u2019s (ASHA) website, https://www.asha.org/public/hearing/conductive-hearing-loss/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "American Speech-Language-Hearing  Association (ASHA). Types of hearing loss. ASHA Web site. http://www.asha.org/public/hearing/disorders/types.htm . Accessed September 10, 2018. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Ramakrishnan K, Sparks RA, Berryhill WE. Diagnosis and treatment of otitis media. Am Fam Physician . 2007;76(11):1650-1658.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Haddad J, Keesecker S. Hearing loss. In: Kliegman RM, St. Geme JW, Schor NF, Stanton BF, Behrman RE, eds. Nelson Textbook of Pediatrics . 20th ed. Philadelphia, PA: Saunders Elsevier; 2017:3071-3080.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Goudy S, Lott D, Canady J, Smith RJ. Conductive hearing loss and otopathology in cleft palate patients. Otolaryngol Head Neck Surg . 2006;134(6):946-948.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Rajenderkumar D, Bamiou D, Sirimanna T. Management of hearing loss in Apert syndrome. J Laryngol Otol . 2005;119(5):385-390.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Zeisel SA, Roberts JE. Otitis media in young children with disabilities. Infants Young Child . 2003;16(2):106-119.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Rhoades EA. Lexical-semantic  and morphosyntactic language assessment in auditory-verbal  intervention: a position paper. Volta Rev . 2001;103(3):169-184.  (G)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Gallagher PA, Easterbrooks S, Malone DG. Universal newborn hearing screening and intervention: assessing the current collaborative environment in service provision. Infants Young Child . 2006;19(1):59-71.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Lalwani AK. Disorders of hearing. In: Fauci AS, Kasper DL, Longo DL, Hauser SL, Jameson JL, Loscalzo J, eds. Harrison's Principles of Internal Medicine . Vol 1. 19th ed. New York, NY: McGraw-Hill  Medical; 2015:217-225.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "O'Connell J, Casale K. Attention deficits and hearing loss: meeting the challenge. Volta Rev . 2004;104(4):257-271.  (G)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Gifford KA, Holmes MG, Bernstein HH. Hearing loss in children. Pediatr Rev . 2009;30(6):207-215.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Aithal S, Yonovitz A, Aithal V. Perceptual consequences of conductive hearing loss: speech perception in Indigenous students learning English as a \"school\" language. Aust NZ J Audiol. 2008;30(1):1-18.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Penn TO, Grantham DW, Gravel JS. Simulated conductive hearing loss in children. J Am Acad Audiol . 2004;15(4):300-310.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Gravel JS, Roberts JE, Roush J. Early otitis media with effusion, hearing loss, and auditory processes at school age. Ear Hear. 2006;27(4):353-368.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Huttunen K, Sorri M. Methodological aspects of assessing speech intelligibility among children with impaired hearing. Acta Otolaryngol . 2004;124(4):490-494.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Geers AE, Nicholas JG, Moog JS. Estimating the influence of cochlear implantation on language development in children. Audiol Med . 2007;5(4):262-273.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Lous J, Burton MJ, Felding J, Ovesen T, Rovers M, Williamson I. Grommets (ventilation tubes) for hearing loss associated with otitis media with effusion in children. Cochrane Database Syst Rev. 2005. Art No: CD001801. doi:10.1002/14651858.CD001801.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Rovers MM, Black N, Browning GG, Maw R, Zielhuis GA, Haggard MP. Grommets in otitis media with effusion: an individual patient data meta-analysis.  Arch Dis Child . 2005;90(5):480-485.  (SR)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Roberts JE, Rosenfeld RM, Zeisel SA. Otitis media and speech and language: a meta-analysis  of prospective studies. Pediatrics . 2004;113(3:pt 1):e238-248.  (SR)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Tjellstr\u00f6m A, H\u00e5kansson B, Granstr\u00f6m G. Bone-anchored  hearing aids: current status in adults and children. Otolaryngol Clin North Am . 2001;34(2):337-364.  (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Watkin P, McCann D, Law C. Language ability in children with permanent hearing impairment: the influence of early management and family participation. Pediatrics . 2007;120(3):e694-701.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Carney AE, Moeller MP. Treatment efficacy: hearing loss in children. J Speech Lang Hear Res . 1998;41(1):S61-S84.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Paatsch LE, Blamey PJ, Sarant JZ, Bow CP. The effects of speech production and vocabulary training on different components of spoken language performance. J Deaf Stud Deaf Educ . 2006;11(1):39-55.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Ling D. Speech and the Hearing-Impaired  Child: Theory and Practice . Washington, DC: Alexander Graham Bell Association for the Deaf; 1976. (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "LeBlanc BM. A public school cued speech program for children with hearing loss and special learning needs. Volta Rev . 2004;104(4):327-338.  (GI)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Perigoe C, Ling D. Generalization of speech skills in hearing-impaired  children. Volta Rev . 1986;88(7):351-366.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Paatsch LE, Blamey PJ, Sarant JZ. Effects of articulation training on the production of trained and untrained phonemes in conversations and formal tests. J Deaf Stud Deaf Educ. 2001;6(1):32-42.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Bow CP, Blamey PJ, Paatsch LE, Sarant JZ. The effects of phonological and morphological training on speech perception scores and grammatical judgments in deaf and hard-of-hearing  children. J Deaf Stud Deaf Educ . 2004;9(3):305-314.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Teagle HF, Moore JA. School-based  services for children with cochlear implants. Lang Speech Hear Serv Sch . 2002;33(3):162-171,  222-228. (GI)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Fu QJ, Galvin JJ, III. Computer-assisted  speech training for cochlear implant patients: feasibility, outcomes, and future directions. Semin Hear . 2007;28(2):142-150,  C1-10. doi:10.1055/s-2007-973440.  (RV)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Ertmer DJ, Leonard JS, Pachuilo ML. Communication intervention for children with cochlear implants: two case studies. Lang Speech Hear Serv Sch . 2002;33(3):205-217, 222-228. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Massaro DW, Light J. Improving the vocabulary of children with hearing loss. Volta Rev . 2004;104(3):141-174.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Pakulski LA, Kaderavek JN. Narrative production by children who are deaf or hard of hearing: the effect of role-play. Volta Rev . 2001;103(3):127-139.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Rhoades EA, Chisolm TH. Global language progress with an auditory-verbal  approach for children who are deaf and hard of hearing. Volta Rev . 2000;102(1):5-25.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Dornan D, Hickson L, Murdoch B, Houston T. Outcomes of an auditory-verbal  program for children with hearing loss: a comparative study with a matched group of children with normal hearing. Volta Rev . 2007;107(1):37-54.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Winskel H. The effects of an early history of otitis media on children's language and literacy skills development. Br J Educ Psychol . 2006;76(pt 4):727-744.  (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Trezek BJ, Wang Y. Implications of utilizing a phonics-based  reading curriculum with children who are deaf or hard of hearing. J Deaf Stud Deaf Educ . 2006;11(2):202-213.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Trezek BJ, Wang Y, Woods DG, Gampp TL, Paul PV. Using visual phonics to supplement beginning reading instruction for students who are deaf or hard of hearing. J Deaf Stud Deaf Educ . 2007;12(3):373-384.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Trezek BJ, Malmgren KW. The efficacy of utilizing a phonics treatment package with middle school deaf and hard-of-hearing  students. J Deaf Stud Deaf Educ . 2005;10(3):256-271.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Roberts J, Hunter L. Otitis media and children's language and learning. ASHA Lead . 2002;7(18):6-7,  18-19. (GI)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Aithal S, Aithal V, Kei J, Driscoll C. Conductive hearing loss and middle ear pathology in young infants referred through a newborn universal hearing screening program in Australia. J Am Acad Audiol . 2012;23(9):673-685.  doi:10.3766/jaaa.23.9.2. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Colquitt JL, Jones J, Harris P. Bone-anchored  hearing aids (BAHAs) for people who are bilaterally deaf: a systematic review and economic evaluation. Health Technol Assess . 2011;15(26):1-200,  iii-iv. doi:10.3310/hta15260. (SR)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Prieve BA, Vander Werff KR, Preston JL, Georgantas L. Identification of conductive hearing loss in young infants using tympanometry and wideband reflectance. Ear Hear. 2013;34(2):168-178.  doi:10.1097/AUD.0b013e31826fe611. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Chen G, Fu S, Dong J, Zhang L. Otologic and audiologic characteristics of children with skeletal dysplasia in central China. Acta Otolaryngol . 2013;133(7):728-732. doi:10.3109/00016489.2013.771408. (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Marino R, Linton N, Eikelboom RH, Statham E, Rajan GP. A comparative study of hearing aids and round window application of the vibrant sound bridge (VSB) for patients with mixed or conductive hearing loss. Int J Audiol . 2013;52(4):209-218.  doi:10.3109/14992027.2012.750431. (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Banga R, Doshi J, Child A, Pendleton E, Reid A, McDermott AL. Bone-anchored  hearing devices in children with unilateral conductive hearing loss: a patient-carer  perspective. Ann Otol Rhinol Laryngol . 2013;122(9):582-587.  (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Zumach A, Gerrits E, Chenault M, Anteunis L. Long-term  effects of early-life otitis media on language development. J Speech Lang Hear Res . 2010;53(1):34-43. doi:10.1044/1092-4388(2009/08-0250).  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Attaway J, Stone CL, Sendor C, Rosario ER. Effect of amplification on speech and language in children with aural atresia. Am J Audiol . 2016;24(3):354-359. doi:10.1044/2015_AJA-15-0021.  (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Rowe A, Gan R, Benton C, Daniel M. Screening for hearing loss in children. Paediatr Child Health . 2015;26(1):26-30.  doi:10.1016/j.paed.2015.09.011. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Kaf WA, Mohamed ES, Elshafiey H. 40-Hz Sinusoidal Auditory Steady-State  Response and Tone Burst Auditory Brainstem Response Using a Kalman Filter to Determine Thresholds Pre- and Post-Myringotomy  With Grommet Tube in Children With Mild, Low-Frequency  Conductive Hearing Loss. Am J Audiol . March 2016;25(1):41-53. doi:10.1044/2015_AJA-15-0052.  (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Barr JG, Singh PK. A rare cause of conductive hearing loss: High lateralized jugular bulb with bony dehiscence. Ear Nose Throat J . June 2016;95(6):227-229.  (C)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Gan R, Rowe A, Benton C, Daniel M. Management of hearing loss in children. Paediatr Child Health . 2016;26(1):15-20.  doi:10.1016/j.paed.2015.10.008. (RV)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Cai T, McPherson B. Hearing loss in children with otitis media with effusion: a systematic review. Int J Audiol . 2017;56(2):65-76.  doi:10.1080/14992027.2016.1250960. (SR) "
+        }
+    ]
+}

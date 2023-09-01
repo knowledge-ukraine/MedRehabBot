@@ -1,0 +1,330 @@
+{
+    "metadata": {
+        "title": "Stuttering  Neurogenic",
+        "synonyms": [
+            "neurogenic stuttering",
+            "disfluency  neurogenic",
+            "stammering  neurogenic",
+            " fluency disorder: neurogenic"
+        ],
+        "anatomical location body part affected": [
+            "There is demonstrable neurological damage that affects the articulators (mouth, lips, tongue) and/or larynx.(1) Neurological damage can be associated with lesions or disease conditions in a wide variety of regions of the brain(2)"
+        ],
+        "area of specialty": [
+            "fluency disorders",
+            "adult neurological disorders"
+        ],
+        "description": [
+            "Stuttering is a disruption in the fluency and flow of speech.(3) In contrast to childhood-onset  fluency disorder, also referred to as developmental stuttering, which begins in early childhood, neurogenic stuttering refers to a stuttering disorder that occurs after speech development that is secondary to demonstrable neurological damage.(1,4) Neurogenic stuttering can occur as a result of lesions at various neuroanatomical sites.(1) For detailed information on assessment and treatment of developmental stuttering, see the series of Clinical Reviews on this topic"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "307.0": "stuttering"
+        },
+        "ICD-10 codes": {
+            "F98.5": "adult onset fluency disorder",
+            "I69.023": "fluency disorder following nontraumatic subarachnoid hemorrhage",
+            "I69.123": "fluency disorder following nontraumatic intracerebral hemorrhage",
+            "I69.223": "fluency disorder following other nontraumatic intracranial hemorrhage",
+            "I69.323": "fluency disorder following cerebral infarction",
+            "I69.823": "fluency disorder following other cerebrovascular disease",
+            "I69.923": "fluency disorder following unspecified cerebrovascular disease _ (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code Set:": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code Set:": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage;no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Patients with neurogenic stuttering often have other communication disorders such as aphasia or dysarthria related to the etiology of the disorder that caused the stuttering.(2) Symptoms will vary with the associated disorder. The following are symptoms of neurogenic stuttering that have been proposed as distinguishing it from developmental stuttering; however, it is important to note that patients with neurogenic stuttering are not a homogeneous group and might not show all, or even most, of these characteristics:(4,5)",
+            "Stuttering occurs on grammatical (e.g., prepositions) as well as substantive words (e.g., nouns, verbs). In developmental stuttering, disfluencies are more common on substantive rather than on grammatical words(4)",
+            "Repetitions, prolongations, and hesitations occur on final consonants. In developmental stuttering, repetitions, prolongations, and hesitations usually are restricted to initial syllables(4)",
+            "Stuttering occurs across a variety of speech tasks(1,4) (e.g., singing, choral reading). In contrast, persons with developmental stuttering tend to stutter less in tasks of reduced propositionality such as swearing, singing, and counting(4)",
+            "Some studies have reported that the adaptation effect does not occur with neurogenic stuttering as often as it does with developmental stuttering.(1,4) Other studies have found that the adaptation effect does occur regularly in neurogenic stuttering and is not a reliable distinguishing characteristic of neurogenic stuttering(5,6)",
+            "The speaker does not usually become anxious about stuttering; however, there are cases in which severe anxiety due to loss of fluency has occurred(4,5,7)",
+            "Some reports of neurogenic stuttering have reported fewer secondary symptoms such as eye blinks, abrupt head movements, or facial grimacing in comparison to developmental stuttering; however, other studies have contradicted these findings, with reports ranging from 33% to 50% of patients with secondary behaviors(4,5,6) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "When conducting the examination, the SLP must be aware of symptoms of the underlying disorder that might affect the speech performance of the patient, such as chronic pain, depression, fatigue, and low level of arousal, as well as impaired cognitive and language ability(2)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Etiologies of neurogenic stuttering include stroke, head trauma, degenerative neurological diseases (e.g., Parkinson disease[PD]), brain infection, dementia, seizure disorder, brain tumors, neurosurgery, and drug toxicity(4,8,9)"
+        ],
+        "pathogenesis": [
+            "Pathogenesis depends on the etiology. Onset can be sudden, as with stroke or head injury, or can be gradual, as withdegenerative conditions such as PD or dementia. Stuttering may persist for a long period or last only for a short periodof time.(2) Neuropathology varies widely, as neurogenic stuttering is not correlated with a lesion in one specific area butinstead can be caused by lesions in a variety of areas of the brain(9)"
+        ],
+        "risk factors": [
+            "Risk factors for neurogenic stuttering include risk factors for the possible underlying conditions listed above"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The speech-language  pathologist (SLP) needs to be aware of cultural considerations when assessing communicative functioning and when developing treatment goals",
+        "Patients with neurogenic stuttering often have concomitant disorders associated with the underlying etiology of the stuttering. Assessment must be highly individualized, with assessments in multiple areas (e.g., fine motor, gross motor, cognitive, language). Adaptations might have to be made for some patients to complete fluency assessment (e.g., a person with aphasia might not be able to complete reading tasks)",
+        "The patient might be at risk for dysphagia; assess swallow function as needed. See the series of Clinical Reviews on dysphagia for further information on assessment and treatment"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "When conducting the examination, the SLP must be aware of symptoms of the underlying disorder that might affect the speech performance of the patient, such as chronic pain, depression, fatigue, and low level of arousal, as well as impaired cognitive and language ability(2)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document when symptoms of stuttering were first noticed. Who referred the individual for an evaluation?",
+                "course of treatment": {
+                    "medical management": "Determine whether or not the individual is receiving medical care for other conditions. Medical management for accompanying disorder/s can affect fluency. For example, in a study of 4 patients with neurogenic stuttering conducted in the United States, implanted electrodes to stimulate the thalamus were used to treat chronic pain as well as chronic headaches and seizures. After treatment, elimination of stuttering was noted in 2 patients and improvement in fluency was observed in the other 2 patients(10)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken? Medications administered for an underlying condition such as PD, depression, or aphasia can affect fluency Authors of a case study described an adolescent with severe depression who developed mild lateralized motor deficits and stuttering after being given the monoamine oxidase inhibitor tranylcypromine.(11) The stuttering disappeared after discontinuation of tranylcypromine In some cases, pharmaceutical intervention is intended for accompanying disorders and can result in changes in fluency Authors of a case study reported on an adult with stuttering, aphasia, and paroxysmal EEG activity secondary to multifocal brain damage caused by a head injury who was given anticonvulsant treatment (phenytoin and phenobarbital). After treatment, the stuttering resolved and spoken and writing wordfinding abilities improved(12) Authors of a case study of a patient who had neurogenic stuttering and psychosis after traumatic brain injury (TBI) found that the antipsychotic olanzapine, which was prescribed to treat his psychosis, also reduced his stuttering(13)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Usual tests for this condition are the following:",
+                        "Fluency evaluation (see Relevant tests and measures , below)",
+                        "Language and/or speech evaluation"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., relaxation techniques, yoga) and whether or not they help",
+                    "previous therapy": "Document whether the patient has had speech therapy or other intervention for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Determine factors that appear to affect fluency in certain situations -Is the patient anxious about stuttering? -Does the patient have any other communication difficulties?  -Is the patient aware of the stuttering? -Does the patient have reduced stuttering in certain situations or with certain persons?",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms -Does the stuttering occur in all situations to the same degree? -Does the patient prolong, repeat, or block on words? -Does the patient have any secondary symptoms such as eye blinks, abrupt head movements, or facial grimacing?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess fluency in different environments(14)",
+                "pattern of symptoms": "Document changes in fluency related to environment and conversational partner",
+                "sleep disturbance": "",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to a physician or psychotherapist (e.g., signs of severe anxiety, language difficulties)Does the patient show anxiety or depression about his or her speech and ability to communicate? Is the patient reluctant to talk? -It is important to measure the impact of stuttering on the patient\u2019s daily activities and quality of life. Examples of(21,30) An assessment of the functional impact of stuttering, including the impact on lifestyle and the cognitive/emotional reactions related to stuttering. Available in both English and Spanish for ages 7 through adulthood(22,30) A 60-item  inventory designed to assess speech struggle, avoidance, and assumptions and beliefs of the individual regarding the ability to speak successfullyTo self-monitor stuttering during therapy, the individual can rate stuttering severity or stuttering naturalness in certain situations. Obtain a baseline measure of the individual's self-rating  on a 9-point  or 10-point  scale.(14) Severity ratings have been found to be reliable and to have good agreement with ratings made by SLPs(14)Document any hearing difficulties Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have a history of other speech and language disorders? Is there a family history of stuttering?",
+                    "comorbid diagnoses": "Many cases of neurogenic stuttering have been grouped into one of two main categories, those cases with aphasia and those with a motor speech condition such as dysarthria.(9) Evaluate the patient for aphasia or motor speech disorders as necessary. For detailed information on assessment and treatment of aphasia and dysarthria, see the series of Clinical Reviews on these topics",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask the patient or caregiver about other symptoms the patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include impact his or her ability to participate in professional or leisure activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient have difficulty with daily functional communication, such as making phone calls or meeting new people?",
+                "living environment": "What language(s) are spoken in the home? Does the patient speak one language better than another? Does the patient prefer one language to another? How does the patient's culture influence his or her views on stuttering?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting) ",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "Assess language skills (including spoken language, pragmatics, reading and writing) through formal and informal measures if there are concerns about expressive or receptive language skills.(30) Many patients with neurogenic stuttering have aphasia and/or a motor speech disorder such as apraxia or dysarthria; however, neurogenic stuttering can occur as an isolated communication disorder following brain damage.(16) It is important to test for other communication deficiencies in addition to stuttering because these disorders may aggravate stuttering or be mistaken for stuttering.(2) For detailed information on assessment and treatment of aphasia, apraxia, or dysarthria, please see the series of Clinical Reviews on these topicsAssess vocal quality and other appropriate voice parameters (e.g., intensity, pitch, range); neurological impairment can affect vocal quality; if necessary, refer to otolaryngologist (ENT) to rule out laryngeal pathologyThe following informal and formal measures can be used to assess fluency -Speech sample -Collect a speech sample that represents the patient\u2019s speech in conversation/everyday use (e.g., interview with the patient about a recent holiday, description of the patient's job or leisure activities) as well as a speech sample in a structured activity (e.g., picture description, reading a passage aloud).(17,18,30) Determine if there is improved or worsened fluency in automatic speech tasks such as counting or saying the days of the week(30) -Calculate the percentage of total disfluencies from a recorded 100-word  speech sample (total number of words containing both stuttering-like and non-stuttering  disfluencies divided by the total number of words that would have been produced if speech were fluent)(18) -Calculate the percentage of stuttering-like disfluencies from a recorded or online 100-word speech sample. To collect an online sample, use a dual-button  press counting device (to collect number of syllables and the percentage of syllables stuttered [%SS]). A language analysis program (e.g., Computerized Language Analysis Softer [CLAN]) can be usedsingle syllable, word and sound repetitions, whole-word repetitions, prolongations, blocks, and broken words(18) -Calculate the percentage of non-stuttering-like disfluencies from a recorded or online 100-word speech sample (phrase repetitions, revisions, and interjections)(17) -Calculate the duration (time) of blockages -Calculate the frequency of secondary stuttering behaviors in a videotaped speech sample(17) -Describe other aspects of fluency such as the observable level of muscular tension, emotional reaction to stuttering behaviors, coping behaviors, avoidance behaviors, or any anomalies in social interaction such as poor eye contact, low speaking volume, low muscle tone, or poor posture(17) -A sample of speech rate (words/per minute or syllables per minute) can be taken.(19) Record a 3-minute  spontaneous speech sample. Divide the number of syllables or words spoken by the total number of minutes(20,30) This instrument quantifies stuttering severity and is intended to supplement information from speech samples and speech and language tests. Speech samples are analyzed for frequency of stuttering, duration of stuttering events, and physical concomitants of stuttering (e.g., nonspeech sounds, abnormal facial movements or tension, head movements, or movements of extremities). This can be used with children aged 2 years, 10 months through adulthood",
+            "neurological examination": "",
+            "oral structure and oral motor function": "Assess the patient\u2019s oral motor skills during speech, imitation of motor movements, diadochokinesis (DDK) tasks, and strength testing tasks(30)",
+            "perception": "",
+            "arousal attention cognition": "Has the patient received cognitive or psychiatric testing by a psychologist or psychiatrist? Document results of any cognitive evaluation.(30) A cognitive function screening tool such as the Mini-Mental  State Examination (MMSE) can be administered(15)",
+            "aac assessment": "",
+            "swallow examination": "Assess swallowing function if there are concerns about swallowing. For detailed information on dysphagia, see the series of Clinical Reviews on this topic",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the  potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Patients with neurogenic stuttering are at risk for dysphagia and aspiration. Provide dysphagia assessment, post feeding guidelines at bedside (as applicable), and educate family/staff about feeding status. Discharge criteria should include patient and/or family independence with feeding strategies"
+            ]
+        },
+        "diagnosis need for treatment": "A comprehensive fluency evaluation in combination with the individual's desire to pursue therapy for stuttering will determine need for treatment",
+        "rule out": " Rule outRule out a reoccurrence of a preexisting stuttering disorder.(2) For detailed information on childhood-onset  fluency disorders, see the series of Clinical Reviews on this topicEtiology of stuttering is attributable to psychological rather than neurological influences (e.g., conversion reaction, anxiety, hysterical neurosis, depression). For detailed information on psychogenic stuttering, see Clinical Review\u2026Stuttering: Psychogenic ; CINAHL Topic ID Number: T709169for detailed information on cluttering, see Clinical Review\u2026Cluttering ; CINAHL Topic ID Number Language-learning  difficulties",
+        "prognosis": [],
+        "referral to other disciplines": "Referral to a psychologist or psychotherapist to assist with frustration or anxiety associated with stuttering as necessary",
+        "other considerations": [],
+        "treatment summary": [
+            "Not all patients with neurogenic stuttering require treatment; stuttering is sometimes transient and will slowly improve over weeks or months(2)",
+            "Very little research has investigated fluency-enhancing  techniques for individuals with neurogenic stuttering. Information regarding treatment is based on single case studies. The symptoms of neurogenic stuttering vary and are most often determined by the underlying disorder and associated cognitive, linguistic, and motor deficits. Treatment should be tailored to the individual and involve trial therapy to determine effective strategies and techniques(2)",
+            "Some fluency-enhancing  techniques that have been shown to be effective in individuals with developmental stuttering do not always reduce stuttering in those with neurogenic stuttering(2)",
+            "Surgical or pharmaceutical treatment for other symptoms of the underlying disorder may improve fluency. Consultation and collaboration with a multidisciplinary team is recommended for treatment(2)",
+            "In a survey of SLPs in Belgium, researchers investigated symptoms of Dutch-speaking  patients with neurogenic stuttering as well as response to therapy. Nine patients who had TBI and neurogenic stuttering received therapy sessions that included instruction in slowing speech rate, fluency shaping, stuttering modification, and cognitive stuttering therapy. Four of the patients improved, but lack of improvement was reported for the other patients(6)",
+            "The following are approaches that have been tried with patients with neurogenic stuttering; however, at this time, there is not a preferred approach for treatment: \u2013Speech modification approaches (fluency shaping):  The goal of speech modification approaches is to teach the patient to speak more fluently.(23) Speech modification techniques include stretched syllables, controlled rate, slow speech, and smooth speech. Smooth speech, or prolonged speech, is the most commonly used fluency-shaping  approach -Smooth speech/prolonged speech: Prolonged speech is a reduced rate of speech (e.g., drawling speech or legato speech) that has been shown effective in replacing stuttered speech. Some skills involved in prolonged speech include gentle voice onsets, continuous vocalization, reduced rate of tongue and lip movements, prolongation of syllables, controlled pausing, good eye contact, and slow and controlled in-breath.(24) These skills are practiced in increasingly difficult situations such as reading aloud, role-playing,  joke telling, playing games (e.g., \"Who Am I?\"), telling stories about books or movies, or giving a speech in front of a group \u2013A few case studies have reported improved fluency with use of speech modification techniques in patients with neurogenic stuttering: -Authors of a case study of 2 patients who were taking anticonvulsant medication reported that both patients had improvements in their fluency after receiving instruction on speech modification techniques; however, it was unclear if it was the treatment or adjustments in their medication that resulted in improved fluency(25) -A patient with multiple sclerosis received therapy consisting of breathing exercises, progressive relaxation, and cognitive reframing.(26) After treatment the patient showed decreased muscle activity and improved fluency  \u2013Altered auditory feedback (AAF) device: An AAF device provides an electronically altered speech signal so that the speaker hears his or her voice differently. Types of AAF used to improve stuttering include delayed auditory feedback (DAF) and frequency-altered  feedback (FAF). Most individuals with developmental stuttering experience fluency enhancement with DAF and/or FAF -In a study conducted in the United States of 2 patients with neurogenic stuttering, researchers found that DAF had no effect on stuttering in 1 patient and actually increased stuttering in another(1) -Authors of a case study of a patient with neurogenic stuttering indicated that neither DAF nor FAF had any effect on fluency(27) -Other case studies with patients with TBI have been mixed, with one case improving to a high level of fluency with DAF but others showing initial improvement but a loss of fluency after termination of treatment. For 1 patient with PD, fluency was maintained for 1 year but declined after adaptation to the DAF and a loss of beneficial effect occurred(2) . Problem Goal Intervention Expected Progression Home Program Stuttering Reduce severity and duration of stuttering behaviorsFunctional training _ Speech modification approaches (fluency shaping) _ _ Prescription, application of devices and equipment _ Altered auditory feedback (AAF) device _ _ See Treatment summary , aboveA progressive hierarchy indicates where the individual will eventually use stuttering techniques (e.g., in the treatment room, with family at home, outside of the home). The hierarchy may be dependent on place, conversational partner, and situation (e.g., oral presentation vs. conversation)The individual will practice techniques and strategies at home ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "a decrease in the severity and duration of stuttering behaviors": [
+            "A criterion of less than 2%SS is often used as an indication of treatment success(28)",
+            "A calculation of the overall mean frequency of disfluencies (syllables stuttered) from at least one 100-word  speech sample.Samples can be taken from in and outside of the clinic environment to accurately reflect outcomes in different situations.For example, the SLP can call the adult on a mobile phone to provide a speech sample. Calls should be initiated by the SLPso that the individual has no time to prepare(29)",
+            "Measure of speech rate",
+            "Measure of speech naturalness (Likert scale)"
+        ],
+        "a decrease in secondary stuttering behaviors  if applicable": [
+            "Frequency of secondary stuttering behaviors(27)"
+        ],
+        "reduced anxiety related to stuttered speech as well as a reduction in escape avoidance behaviors  if applicable": [
+            "SSI-3(20)",
+            "Stuttering severity scale (Likert scale of stuttering severity)(14)",
+            "OASES(21)"
+        ],
+        "all goals should be maintained for significant periods of time and generalized into nontreatment settings ": []
+    },
+    "maintenance or prevention": [
+        "Patients with neurogenic stuttering often experience only transient stuttering.(2) Monitor fluency as necessary"
+    ],
+    "patient education": [
+        "See patient information and downloadable brochures on neurogenic stuttering from the Stuttering Foundation, https://www.stutteringhelp.org/neurogenic-stuttering Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on September 16, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Balasubramanian V, Cronin KL, Max L. Dysfluency levels during repeated readings, choral readings, and readings with altered auditory feedback in two cases of acquired neurogenic stuttering. J Neurolinguistics . 2010;23(5):488-500.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "De Nil L, Jokel R, Rochon E. Etiology, symptomatology, and treatment of neurogenic stuttering. In: Conture EG, Curlee RD, eds. Stuttering and Related Disorders of Fluency . 3rd ed. New York, NY: Thieme; 2007:326-343.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Ratner NB. Translating recent research into meaningful clinical practice. Semin Speech Lang . 2010;31(4):236-249.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Ringo C, Dietrich S. Neurogenic stuttering: an analysis and critique. including commentary by Helm-Estabrooks  N and Curlee RF. J Med Speech Lang Pathol . 1995;3(2):111-127.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Jokel R, De Nil L, Sharpe K. Speech disfluencies in adults with neurogenic stuttering associated with stroke and traumatic brain injury. J Med Speech Lang Pathol . 2007;15(3):243-261.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Theys C, van Wieringen A, De Nil LF. A clinician survey of speech and non-speech  characteristics of neurogenic stuttering. J Fluency Disord . 2008;33(1):1-23.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Bijleveld H, Lebrun Y, van Dongen H. A case of acquired stuttering. Folia Phoniatr Logop . 1994;46(5):250-253.  (C)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Balasubramanian V, van Borsel J, Cohen H. The multidimensional nature of acquired neurogenic fluency disorders: Introduction. J Neurolinguistics . 2010;23(5):443-446.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Lundgren K, Helm-Estabrooks  N, Klein R. Stuttering following acquired brain damage: a review of the literature. J Neurolinguistics . 2010;23(5):447-454.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Andy OJ, Bhatnagar SC. Stuttering acquired from subcortical pathologies and its alleviation from thalamic perturbation. Brain Lang . 1992;42(4):385-401.  (C)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Duffy JD. Neurogenic stuttering and lateralized motor deficits induced by tranylcypromine. Behav Neurol . 1994;7(3-4):171-174.  (C)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Baratz R, Mesulam MM. Adult-onset  stuttering treated with anticonvulsants. Arch Neurol . 1981;38(2):132. (C)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Catalano G, Robben DL, Catalano MC, Kahn DA. Olanzapine for the treatment of acquired neurogenic stuttering. J Psychiatr Pract . 2009;15(6):484-488.  (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "O'Brian S, Packman A, Onslow M. Self-rating  of stuttering severity as a clinical tool. Am J Speech Lang Pathol . 2004;13(3):219-226.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Folstein MF, Folstein SE, Fanjiang G. Mini-Mental  State Examination: Clinical Guide . Lutz, FL: Psychological Assessment Resources; 2001. (PP)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Theys C, van Wieringen A, Sunaert S, Thijs V, De Nil LF. A one year prospective study of neurogenic stuttering following stroke: incidence and co-occurring  disorders. J Commun Disord . 2011;44(6):678-687.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Childhood fluency disorders. American Speech-Language-Hearing  Association Practice Portal Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Childhood-Fluency-Disorders/ . Accessed June 4, 2017. (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Byrd CT, Gillam RB. Fluency disorders. In: Gillam RB, Marquardt TP, Martin FN, eds. Communication Sciences and Disorders: From Science to Clinical Practice . 2nd ed. Boston, MA US: Jones and Bartlett; 2011:153-180.  (G)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Ryan BP, Van Kirk Ryan B. Programmed stuttering treatment for children: comparison of two establishment programs through transfer, maintenance, and follow-up.  J Speech Hear Res . 1995;38(1):61-75.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Riley GD. Stuttering Severity Instrument for Children and Adults-3. 3rd ed. Austin, TX: Pro-Ed, Inc; 1994. (PP)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Yaruss JS, Quesal RW, Coleman C. OASES: Overall Assessment of the Speaker's Experience of Stuttering . San Antonio, TX: Pearson; 2010. (PP)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Woolf G. The assessment of stuttering as struggle, avoidance and expectancy. Br J Disord Comm . 1967;2(2):158-171.  (PP)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Blomgren M. Stuttering treatment for adults: an update on contemporary approaches. Semin Speech Lang . 2010;31(4):272-282.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Onslow M, Costa L, Andrews C, Harrison E, Packman A. Speech outcomes of a prolonged-speech  treatment for stuttering. J Speech Hear Res . 1996;39(4):734-749.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Nowack WJ, Stone RE. Acquired stuttering and bilateral cerebral disease. J Fluency Disord . 1987;12(2):141-146.  (C)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Rubow RT, Rosenbek JC, Schumacher JG. Stress management in the treatment of neurogenic stuttering. Biofeedback Self Regul . 1986;11:77-78.  (C)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Balasubramanian V, Max L, Van Borsel J, Rayca KO, Richardson D. Acquired stuttering following right frontal and bilateral pontine lesion: a case study. Brain Cogn . 2003;53(2):185-189.  (C)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Blomgren M, Roy N, Callister T, Merrill RM. Intensive stuttering modification therapy: a multidimensional assessment of treatment outcomes. J Speech Lang Hear Res . 2005;48(3):509-523.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Cream A, O'Brian S, Jones M. Randomized controlled trial of video self-modeling  following speech restructuring treatment for stuttering. J Speech Lang Hear Res . 2010;53(4):887-897.  (RCT)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Lundie M, Erasmus Z, Zsilavecz U, van der Linde J. Compilation of a preliminary checklist for the differential diagnosis of neurogenic stuttering. S Afr J Commun Disord . 2014;61(1):1-10.  doi:10.4102/sajcd.v61i1.64. (R)"
+        }
+    ]
+}

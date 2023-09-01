@@ -1,0 +1,500 @@
+{
+    "metadata": {
+        "title": "Communication Disorders  School-Aged  Children with Intellectual Disability",
+        "synonyms": [
+            "intellectual disability, school-aged  children with  communication disorders",
+            " disability, intellectual, school-aged  children with: communication disorders",
+            "school-aged children with intellectual disability"
+        ],
+        "anatomical location body part affected": [
+            "Affected part of the body will vary with etiology; central nervous system"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders",
+            "autism spectrum disorder",
+            "augmentative and alternative communication"
+        ],
+        "description": [
+            "Children with intellectual disability (ID) are a heterogeneous group with varying etiologies of primarily neurodevelopmental origin",
+            "The terms \u201cglobal developmental delay\u201d and \u201cdevelopmental delay\u201d are often used instead of ID to describe delayed development in children under the age of 5 years but have also been used to describe children older than age 5 years.(1) According to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition  (DSM -5), the diagnosis of global developmental delay is only appropriate for children under the age of 5 years who fail to meet expected developmental milestones in several areas of intellectual functioning, but clinical severity level cannot be reliably evaluated during early childhood(2)",
+            "Common characteristics among children with ID include deficits in social skills, memory problems, emotional and cognitive deficits, motor deficits, and frequent comorbid psychopathology and challenging behaviors",
+            "For individuals who are school-aged  and older, the term \u201cintellectual disability\u201d is now preferred over \u201cmental retardation\u201d by the American Association on Intellectual and Developmental Disabilities (AAIDD). The DSM-5  uses the following criteria for a diagnosis of ID: \u2013Significantly subaverage intellectual functioning confirmed by clinical assessment and individualized, standardized intelligence testing \u2013Deficits or impairments in adaptive functioning \u2013Deficits in intellectual and adaptive functioning that are evident during the \u201cdevelopmental period\u201d",
+            "The DSM -5specifies degrees of severity of ID (mild, moderate, severe, profound) based on adaptive functioning, not based on intellectual quotient (IQ), because adaptive functioning determines how much support is needed.(2) According to the DSM -5,adaptive functioning should be assessed with both clinical evaluation and individualized, culturally appropriate, psychometrically sound assessments(2)",
+            "The AAIDD classifies severity in terms of support needed for adaptive skills areas (intermittent, limited, extensive, or pervasive support needed)(3)",
+            "The prevalence of ID in the United States is approximately 1%(3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "F70": "mild intellectual disabilities",
+            "F71": "moderate intellectual disabilities",
+            "F72": "severe intellectual disabilities",
+            "F73": "profound intellectual disabilities",
+            "F78": "other intellectual disabilities",
+            "F79": "unspecified intellectual disabilities",
+            "(ICD": "codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "The speech and language symptoms of children with ID are highly variable and are influenced by the severity of the cognitive impairment, the child\u2019s age, the severity of a child\u2019s motor impairment, and/ or the presence or absence of hearing and/or vision loss.(4) Children with ID can have problems in the areas of producing vocalizations and/or speech, receptive language, expressive language (including the use of gesture), and/or social language (pragmatics).(4) Below are some characteristics of communication impairment associated with the four main causes of ID, Down syndrome, fragile X syndrome, cerebral palsy (CP), and autism spectrum disorder (ASD)",
+            "Down syndrome \u2013Delayed acquisition of spoken language(4) \u2013Delayed speech acquisition due to oral structural abnormalities, hypotonia, and a phonological acquisition disorder(4) \u2013Hearing loss(4) \u2013Attention and short-term  memory deficits(4) \u2013Problem behaviors such as aggression and tantrums(4) \u2013For detailed information on communication disorders in children with Down syndrome, see Clinical Review\u2026Down Syndrome: Communication Disorders ; CINAHL Topic ID Number: T708772",
+            "Fragile X syndrome \u2013Most males with fragile X syndrome have significant ID; females are less severely affected(4) \u2013Echolalia (repetition of sounds, words and phrases)(4) \u2013Good intelligibility for single words but poor intelligibility for conversational speech(4) \u2013Language skills are consistent with cognitive level; both receptive and expressive language skills decline in adolescence and adulthood(4) \u2013Pragmatic language is most severely affected. Patients with fragile X syndrome have difficulty answering direct questions, poor eye contact, and gaze aversion(4) \u2013Behavior problems(4) \u2013For detailed information on communication disorders in children with fragile X syndrome, see Clinical Review\u2026Fragile X Syndrome: Speech Therapy ; CINAHL Topic ID Number: T708981",
+            "CP \u2013Approximately 50% of individuals with CP have some degree of cognitive deficit(4) \u2013Dysarthria(4) \u2013Language delay(4)  \u2013For detailed information on communication disorders in children with CP, see Clinical Review\u2026Cerebral Palsy: Speech Therapy ; CINAHL Topic ID Number: T708777",
+            "ASD \u2013Approximately 50\u201370%  of individuals with an ASD have IQ scores indicating ID(4) \u2013Deficits in joint attention, the ability to coordinate attention between an object and a person within a social context(4) \u2013Deficits in social language(4) \u2013For detailed information on communication disorders in children with ASD, see Clinical Review\u2026Communication Disorders: Autism Spectrum Disorder (ASD) in Children ; CINAHL Topic ID Number: T709148 Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Language deficits in children with ID are often influenced by challenges in nonlinguistic domains such as social anxiety, hearing loss, impaired immunity, and motor difficulties. The speech-language pathologist (SLP) should take into account nonlinguistic domains when assessing the child and evaluating performance(6)",
+            "The child with ID typically has many needs aside from communication difficulties, such as medical and physical needs, oral-motor  and feeding needs, and positioning and seating needs, as well as the need for play and cognitive experiences. The SLP should be sensitive to the fact that parents/caregivers might not consider communication a priority at the time of assessment and be aware of the family\u2019s/caregivers\u2019 concerns, priorities, and resources(7,8)",
+            "Family members/caregivers should be involved in both assessment and treatment. They have a unique perspective and can provide information on the child that cannot be obtained through formal or informal measures(9)",
+            "The SLP needs to be aware of cultural considerations when assessing communicative functioning as well as during assessment and when developing treatment goals.(9) Communication needs of the child should be considered with respect to the cultural, familial, and community setting(9)",
+            "The evaluation should be performed in all of the languages to which the child is exposed. For children with severe ID, assessment should focus on preverbal behaviors such as play, gesture, and other forms of nonverbal communication(8)",
+            "Standardized assessment measures should be used in conjunction with ecologically valid measures, such as play-based observation(10)",
+            "When assessing the language skills of children, it is imperative to use developmentally appropriate contexts, content, and procedures. This includes an observation of the child in his or her natural environment during typical or daily activities(10)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  there are numerous causes of id; however, in approximately half of patients, the cause is unknown.   it is important for the physician to determine the cause in order to recognize and treat health issues associated with the etiology,": [],
+        "pathogenesis:  pathogenesis of id will vary with the cause": [],
+        "risk factors:  see causes , above": []
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Many children with ID have feeding or swallowing deficits. See the series of Clinical Reviews on pediatric swallowing disorders for further information on assessment and treatment",
+        "Development of an individual education plan (IEP) in collaboration with the parents/guardians and school personnel for children with ID is essential to address potential communication and learning problems as well as swallowing problems in the home and school environment "
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Language deficits in children with ID are often influenced by challenges in nonlinguistic domains such as social anxiety, hearing loss, impaired immunity, and motor difficulties. The speech-language pathologist (SLP) should take into account nonlinguistic domains when assessing the child and evaluating performance(6)",
+            "The child with ID typically has many needs aside from communication difficulties, such as medical and physical needs, oral-motor  and feeding needs, and positioning and seating needs, as well as the need for play and cognitive experiences. The SLP should be sensitive to the fact that parents/caregivers might not consider communication a priority at the time of assessment and be aware of the family\u2019s/caregivers\u2019 concerns, priorities, and resources(7,8)",
+            "Family members/caregivers should be involved in both assessment and treatment. They have a unique perspective and can provide information on the child that cannot be obtained through formal or informal measures(9)",
+            "The SLP needs to be aware of cultural considerations when assessing communicative functioning as well as during assessment and when developing treatment goals.(9) Communication needs of the child should be considered with respect to the cultural, familial, and community setting(9)",
+            "The evaluation should be performed in all of the languages to which the child is exposed. For children with severe ID, assessment should focus on preverbal behaviors such as play, gesture, and other forms of nonverbal communication(8)",
+            "Standardized assessment measures should be used in conjunction with ecologically valid measures, such as play-based observation(10)",
+            "When assessing the language skills of children, it is imperative to use developmentally appropriate contexts, content, and procedures. This includes an observation of the child in his or her natural environment during typical or daily activities(10)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Does the child have a diagnosis? When was the diagnosis made and by whom? ID is often diagnosed over a period of time, rather than during a single clinical encounter(1)",
+                "course of treatment": {
+                    "medical management": "Medical management will vary with respect to the etiology of the ID and presenting symptoms. Does the child have a history of prolonged hospitalization? What kind of medical management has the child received, including surgeries and rehabilitation?",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Diagnostic tests will vary with the etiology and might include:",
+                        "Physical examination: The physician may evaluate height and weight, any dysmorphic features, and head circumference(1)",
+                        "Neurologic examination: Cranial nerve examination will reveal any visual field defects, papillary abnormalities, fundus abnormalities, nystagmus, facial paresis, excessive drooling, dysphasia, dysarthria, or head tilt",
+                        "Hearing and vision screening: Due to the high incidence of sensory impairments in children with ID, hearing screening",
+                        "and vision screening are recommended prior to speechlanguage  testing. Hearing screening requires auditory evoked response testing or a formal audiometric assessment by an audiologist.(1) Hearing should be regularly monitored in children with hearing impairment or high risk of hearing impairment due to the potential for change in hearing over"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": " timeCases in which an MRI might be recommended include CP, motor asymmetry, abnormal head size or shape, craniofacial malformation, loss or plateau of developmental skills, multiple somatic anomalies, or seizures(11)Cytogenetic studies, or chromosomal analyses, may be warranted in cases of microcephaly, family history of ID, multiple somatic anomalies, skin pigment anomalies, and suspected contiguous gene syndromes (e.g., Prader-Willi  syndrome)(11)Metabolic studies are sometimes ordered by the physician if the patient has poor growth, episodic vomiting or lethargy, seizures, unusual body odor, loss or plateau of developmental skills, sensory loss, or movement disorder(11)Screening questionnaires are used by pediatricians and psychologists to identify children with ID who have ASD. Examples include the Developmental Behavior Checklist (DBC) and the Checklist for Autism in Toddlers (CHAT)(12)  -Other diagnostic tests include tests of adaptive behavior skills, tests of overall development functioning, and child behavior checklists(13) -For diagnostic tests performed by the SLP, see Relevant tests and measures , belowDocument any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they helpDocument whether patient has had occupational, physical, or speech therapy for this or other conditions and what specific treatments were helpful or not helpful Aggravating/easing factors -Are there times of the day when the child\u2019s communication is better or worse? -Are there times of the day when the child\u2019s behavior is better or worse? -Does the child communicate more clearly with certain persons? -Are there certain situations in which the child is a more successful communicator?",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "The symptoms of a communication disorder in children with ID are highly variable and may be influenced by the child\u2019s chronological age, the severity of accompanying motor or cognitive impairments, the child\u2019s medical status, and the child\u2019s home environment. Children with ID sometimes have problems in the areas of producing vocalizations and/or speech, receptive language, expressive language (including the use of gesture), and/or social language (pragmatics)(4)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables (e.g., communication partner, level of environmental stimulation/background noise)",
+                "sleep disturbance": "Document number of wakings/night. Sleep disturbances are common among children with ID.(3,47) Factors that contribute to sleep disturbances are obesity, enlarged tonsils, gastroesophageal reflux (GER), and lack of sufficient exercise/activity(3)",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., feeding difficulties, behavior difficulties)",
+                "respiratory status": "Does the patient have respiratory difficulties? Does the patient have a tracheostomy?A family\u2019s needs and priorities should be discussed during an assessment, either formally or informally. Problem behaviors are more common among children with ID(13) -The prevalence of mental illness appears to be higher among individuals with ID as compared to the general population. Diagnosis of mental and emotional disorders in individuals with ID is difficult due to symptoms that overlap and are not associated with only one specific disorder. This overlap can lead to over-diagnosis,  under-diagnosis,  and misdiagnosis of mental illness in individuals with ID(57) -In a study conducted in the United States, researchers found that children with identified or suspected developmental disability (DD) and/or ID are less likely to receive responsive parenting than their typically developing peers, possibly as a result of the disabilities; education and support for the parents of a child with ID is extremely important(14) -Refer to social services and/or psychiatric professional as appropriateHave the child\u2019s hearing and vision been screened? If hearing loss is suspected, refer to an audiologist for a full evaluation. If vision loss is suspected, refer to an ophthalmologist -In a study conducted in India with 241 children with ID (ages 616),  researchers found that 51.45% had problems related to the eyes, including refractive error (which causes reduced visual acuity), strabismus, and cataracts(48) -In a study conducted in the Netherlands with 127 children aged 2 to 14 years with developmental and/or intellectual disability, researchers found that reaction times to fixation (i.e., visual orienting to stimuli) were significantly delayed in 72% of these children (as compared to a control group). Researchers suggested that these children are at increased risk for visual processing dysfunction(51) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________ "
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has the child been seen by any other specialist in any area? Is there a family history of ID?",
+                    "comorbid diagnoses": "Ask the patient\u2019s family/caregivers about other problems, including behavior problems, motor etiology-specific  comorbidities (e.g., children with Down syndrome are at risk for hearing impairment, vision difficulties, celiac disease, and hypothyroidism)(3)20% to 30% of children with ID also have the diagnosis of an ASD(3)ADHD is present in 9% to 15% of children with ID(3)the prevalence of sensory impairments in children with mild ID is 2%; in children with severe ID, it is 11%(3)the prevalence of psychiatric and behavioral disturbances in children with ID is estimated to be as high as 80%(3) speech and language disorders Researchers in Bosnia and Herzegovina assessed the prevalence of speech and language disorders in students with ID. Of the 167 participants with mild to moderate ID, 71.3% had speech and language disorders. Approximately half of the students with mild ID had concurrent speech and language disorders, while almost all (93.9%) of the students with moderate ID had speech and language disorders. The authors state that given the high prevalence of speech and language disorders in students with ID, all students with ID should receive speech/language assessments and treatment(54)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms the child is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include -Does the child currently receive intervention services? If so, are they home, school, or clinic based? -What is the school placement? Classroom, small group, 1-on-1  aide? -Children with ID are at high risk of social exclusion/isolation, especially when they are placed in contained classrooms and given limited opportunities to play and socialize with typically developing peers(58) -What kind of toys or activities is the child most interested in? -How does the child communicate thoughts, wants, and needs in various settings and with various communication partners (e.g., gestures, eye gaze, vocalizations, words)?The absence of functional communication can significantly impact an individual\u2019s ability to participate in ADLs. During an assessment, the SLP should consider ways to support a patient\u2019s participation in ADLs. This should be done in collaboration with the patient, family/caregiver, other medical personnel, and school/work staff(15)  -What ADLs can the child perform? -At what age were developmental milestones reached?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Are there any adaptive or assistive devices used at home and/or in the school for feeding, mobility, or communication?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary? For school-aged children, also consider whether there are barriers to independence in the school setting"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": " Speech and language examination (including reading)If the child uses speech for communication, use a standardized test or an informal (nonstandardized) analysis to determine errors that have a high frequency of occurrence and are early developing, as well as errors that are functionally important for the child and the child\u2019s family. A sound inventory can be completed for children who have severely limited speech. For specific sounds, the number of omissions, substitutions, distortions, and additions can be completedSchool-aged children with severe to profound ID might be in the early stages of communication. The impact of any motor and/or sensory difficulties should be considered when evaluating the child\u2019s -formal and informal measures can be used to assess the child\u2019s early communication skills(20) The CSBS-DP  can be used to assess expressive language social communication and symbolic abilities by means of a parent report and directthe Infant-Toddler Checklist, the Caregiver Questionnaire, and a 30-minute behavior sample of the child. It can be used with all children aged 6 to 24 months and with children up to age 6 years who have a developmental age lower than 24 months (21) Used to assess prelinguistic communication behaviors in individuals with severe developmental and/or physical disabilities. Administered as a questionnaire to be completed by parents, teachers, and therapists. Pragmatic functions that are assessed include social convention, attention to self, rejection/ protestation, request for an object, request for action, request for information, comment, choice making, answer, and imitation(22) Designed to identify how the child currently communicates and assist the assessment team in selecting appropriate communication goals. The assessment covers communication skills that would typically occur from 0 to 24 months of age. It can be used for individuals of all ages who are at the earliest stages of communicationMany standardized language tests include separate standardized scores for children with mild ID. However, a review of standardized tests found that many do not include a large normative sample and that most do not measure a student\u2019s pragmatic communication.(23) No tests included students with more severe ID in the normative sample.(23) SLPs should always supplement standardized tests with informal language assessment procedures to assess students\u2019 pragmatic, social, and functional communication abilities. Some standardized tests that provide standardized scores for students with -Clinical Evaluation of Language Fundamentals, 5th ed. (CELF-5)(24) -Comprehensive Assessment of Spoken Language (CASL)(25) -Expressive One-Word  Picture V ocabulary Test\u20134  (EOWPVT-4)(53) -Oral and Written Language Scales-II (OWLS-II)(26) -Test of Early Language Development, 4th ed. (TELD-4)(27)4)(28)Briefly assess vocal function, including vocal quality, loudness, pitch, and endurance; if there are specific concerns regarding voice, refer to otolaryngologist for complete workup to rule out laryngeal pathologies prior to completing a full",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "The SLP can administer language-related problem-solving  tests, but other cognitive tests will most likely be administered by a school psychologist or special education teacher (e.g., the School Inventory of Problem-Solving  Skills [SIPSS])(16)Children with ID might require the use of augmentative and alternative communication (AAC). AAC can be aided or unaided. Aided AAC requires external equipment such as picture books/cards, communication boards, or computerized speech-generating  devices. Unaided AAC refers to the use of communication techniques that a person can produce without external resources, such as manual signs, gestures, and facial expressions.(17) Many children use a combination of both types, and AAC can be used in addition to oral language. In a study conducted in Ireland with the families of 178 children with ID to identify the range of technology needs of children with complex needs, researchers found that 35% of parents reported using some type of AAC.(46) The AAC utilized voice-, eye-,  or touch-activated  technology.(46) Patients with very little speech and/or oral language would likely benefit from a referral for an AAC evaluation. The most appropriate model for this assessment is a team assessment with participation and \u2013What type of AAC does the child use? \u2013Is he or she comfortable with the AAC being used? \u2013How long has the child used AAC? \u2013Does AAC improve communicative efforts both receptively and expressively? \u2013If the child does not currently use AAC, an AAC evaluation will include an assessment of his or her ability to understand symbols. The Tangible Symbol Systems Levels of Representation Pre-Test  assesses the child\u2019s ability to match objects with symbols(19) \u2013The SLP and communication assessment team should always consider the cultural, linguistic, and economic background of the family during assessment and when making recommendations regarding AAC use(17) \u2013An ecological inventory is recommended as part of the AAC assessment. In an ecological inventory, the communication behaviors of the child are observed in a particular setting such as the classroom. The child\u2019s communicative behaviors are compared with those of peers to illuminate possible discrepancies. In this way, contexts and activities in which the child\u2019s communication skills can be enhanced are identified(18) \u2013Training in and regular use of AAC for children with communication impairments associated with ID results in increased social communication with peers(59,60) \u2013For detailed information on AAC for children with ID, see Clinical Review\u2026Augmentative and AlternativeChildren with Intellectual Disability ; CINAHL Topic ID Number",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Children with ID are at risk for feeding and swallowing disorders; perform a feeding/swallowing evaluation if feeding/swallowing disorders are suspected or if the child exhibits signs of malnourishment",
+                "Children with ID are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. If inpatient, hospital discharge criteria should include independence with fall-prevention  strategies"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Mild ID often goes unrecognized until a child enters school and encounters difficulties in the school setting; when children do not have an identified cause of ID, they should be monitored regularly by a physician because patterns ofatypical development might reveal symptoms of an underlying diagnosis(3) As many as 31 state education departments in the United States require that SLPs consider a child\u2019s IQ score with reference to language performance in determining eligibility for language intervention. This consideration relies on the assumption that language skills cannot improve beyond cognitive ability; however, this assumption, which is based on \u201ccognitive referencing,\u201d has been proven incorrect. At least 2 published studies have indicated that children with cognitive delays made greater gains in response to language intervention than peers who had language deficits and cognitive abilities within the average range. Thus, according to the American Speech-Language-Hearing  Association (ASHA), the cognitive referencing model is inappropriate for determining eligibility for services and prognosis for treatment(31,56)",
+        "rule out": "A progressive neurological disorder should be ruled out by the patient\u2019s physician. Language differences due to second language acquisition should be ruled out",
+        "prognosis": [],
+        "referral to other disciplines": "Several professionals might be involved in the school assessment and treatment team for a child with ID:(3)An OT might assist with fine motor and adaptive skills. Collaborate with the OT on AAC support as necessaryRefer to a PT if the child has significant motor deficits and/or poor/weak posture that negatively affects speech productionA recreational therapist might be involved to assist the child in developing recreational skillsSocial services can assist the family in negotiating assistance systems (e.g., medical services, daycare)Refer to a behavioral psychologist if the child exhibits any challenging behaviors, including self-injurious behaviorsRefer to reading specialist as appropriate based on communication evaluation",
+        "other considerations": [],
+        "treatment summary": [
+            "Milieu teaching (MT) (enhanced milieu treatment):  Features of MT include a) following the child\u2019s attentional lead and establishing joint attention; b) using teaching episodes that are brief, positive, and rewarding and that are included within natural activities that occur throughout the child\u2019s day; c) simultaneous teaching of form (syntax), content (vocabulary), and function (pragmatics); d) targeting general communication forms and function that are on the boundary of the child\u2019s productive communicative competence; and e) using mands (requests), questions, and models to elicit production of targets that are related to the child\u2019s focus of attention.(55)MT is often described in the literature as an intervention for children with developmental delay and disabilities; however, the exact intervention protocols, including frequency and length of sessions, are not well-defined.(55) The effectiveness of MT for improving communication abilities in children with developmental delay is unknown. In a 2012 What Works Clearinghouse (WWC) Intervention Report published by the United States Department of Education, there were many studies found on MT in the literature; however, only one study, from 1991, met the WWC standards to be included as part of the Intervention Report. According to this study, there was no apparent effect of MT on communication abilities.(55) Additional, well-designed  studies are necessary to determine the effectiveness of MT on the communication abilities of children with developmental delay",
+            "Responsive-interaction  strategies:  Adult responsiveness to the behavior of a child has been found to be associated with improved outcomes in the child\u2019s cognitive, language, and social-emotional  functioning.(32) Responsive-interaction strategies include following the child\u2019s lead regarding the pace, focus, and content of interactions; responding to the child\u2019s behavior or communication attempts with exaggerated expressions; providing models for slightly more complex behaviors and communicative acts; and taking turns in interactions. Teachers and parents can use these strategies within the contexts of the classroom and home(33)",
+            "Non-speech  oral-motor  treatments:  Although oral motor treatment has been used by SLPs for many years, there is no strong empirical evidence to support the use of oral motor exercises such as blowing, lip rounding and retraction, and tongue protrusion to improve speech sound disorders(34)",
+            "AAC:  AAC includes manual signs and gestures as well as devices that produce digitized and/or synthesized speech (speech-generating  devices). Research findings support the use of AAC for children with ID to support communication development.(35) AAC has also been shown to be effective in terms of behavior change and generalization for individuals with severe expressive communication impairments.(36) In addition, research has indicated repeatedly that the use of AAC devices does not hinder natural speech development.(35) Furthermore, authors of a systematic review of studies of persons with significant speech impairments reported that many children had an increase in speech production following AAC intervention.(37) Principles of effective AAC intervention are presented in ASHA guidelines regarding the roles and responsibilities of SLPs with AAC: \u2013Family-centered  approaches are recommended(18) \u2013The child should be taught to use AAC with different persons in different settings(18) \u2013The child\u2019s communication partners may have to modify their discourse to converse effectively with the child(18) \u2013Communication partners should have comprehensive instruction on how to use the device(18) \u2013Communication partners should be encouraged to provide many opportunities and reasons for the child to communicate(18) \u2013The child\u2019s use of the device should be monitored regularly in multiple contexts(18) \u2013The child might require an extensive trial (several months) with the device to determine if the device meets his or her communicative needs(18) \u2013The following are some research-based  programs and examples of AAC that may be used for early communicators: -First Things First: A program designed to teach children practical strategies for requesting events, gaining attention, and making choices through use of presymbolic behaviors such as gestures, facial expressions, vocalizations, and/or microswitches(38) -Tangible Symbol Systems: Tangible Symbol Systems is a method of communication that uses concrete rather than abstract symbols and was designed for persons who are unable to understand abstract symbols.(39) The symbols can include objects or pictures (e.g., whole objects, parts of objects, associated objects, textures or shapes, line drawings,  photographs). Information on constructing and using tangible symbols is available from the Oregon Institute on Disability and Development(39) -Picture Exchange Communication System (PECS): PECS is an instructional system for teaching beginning symbol use in which children are taught to exchange, or give, symbols rather than point to symbols(17) -Microswitches: A microswitch is a tool that allows for activation of an electrical device (e.g., device that plays music, device that lights up) by means of pressure applied by a part of the body. A single microswitch or a series of microswitches can allow children to make choices between desired items (e.g., food and drink)(17) -Speech-generating  devices (SGDs): SGDs allow the child to communicate using prerecorded phrases or synthetic speech. Most studies with SGDs and persons with ID have focused on teaching communicative requests. SGDs can also be used for other purposes, including basic social interactions and conversational repairs. There is preliminary research indicating that the use of SGDs has secondary effects, including increased receptive language skills, increased speech production, increased labeling, and decreased problem behavior. Research suggests that SGDs that contain a visual scene display (a drawing, photograph, or scanned image), rather than symbols on a grid, are easier for young children to comprehend(17) -For detailed information on AAC for children with ID, see Clinical Review\u2026Augmentative and Alternative Communication: Children with Intellectual Disability , referenced above",
+            "Speech treatment for dysarthria:  Fifty percent of children with CP have dysarthria with symptoms such as shallow, irregular breathing for speech; low-pitched,  harsh sounding voice; and minimal pitch variation.(30) Direct therapy focusing on controlling breath support, phonation, and rate has been found to increase intelligibility in children with CP.(30) For detailed information on speech assessment with children with CP, please see Clinical Review\u2026Cerebral Palsy: Speech Therapy , referenced above",
+            "Dialogic reading:  Dialogic reading refers to a set of procedures in which a child and adult share a book together. The procedures vary but always involve prompts given by the adult \u2013One set of prompts spells the word CROWD -Completion: The child is asked to fill in the blank at the end of a sentence -Recall: The adult asks questions about a book that the child has read -Open-ended:  The adult encourages the child to talk about what is happening in the picture (e.g., \u201cWhat do you see here?\u201d; \u201cTell me about this picture\u201d; \u201cWhat is happening?\u201d) -Wh-:  The adult asks wh-questions  about the pictures in the book -Distancing: The adult encourages the child to relate the book to the child\u2019s own experiences \u2013Another set of prompts spells PEER -P: The adult prompts the child to say something about the book -E: The adult evaluates the response -E: The adult expands the child\u2019s response -R: The adult repeats the prompt \u2013There is good evidence that dialogic reading has positive effects on oral language in children with language delays who are \u201cat-risk\u201d  or \u201cow-income;  however, there is less research on dialogic reading with children with ID.(40) One descriptive case study included a 9-year-old  child with CP who used AAC. The study described the child as an active participant in the activity with a total of 168 conversational turns(41) \u2013It is important that the child have the developmental abilities to engage in a dialogic reading task (e.g., attention, comprehension). The SLP should also recognize the impact of any social and cultural influences on the child\u2019s motivation and expectations towards shared book reading(42)",
+            "Behaviorally oriented treatment/response prompting and shaping/discrete trial training:  The SLP can be trained in behavioral methods or work with a behavior specialist to provide and instruct teachers or teacher aides in behaviorally oriented treatment. Discrete trial training (DTT) refers to a series of instructional steps that are based on the assumption that behavior is learned and controlled by contingencies in the environment. DTT has been used to teach children skills in all developmental areas, including receptive and expressive language, socialization, pre-academics,  daily living skills, and fine motor skills. There are slight variations in the steps, but there are typically 4\u20135 parts to discrete trial training:(43) \u2013Obtain student attention (e.g., \u201cReady?\u201d) \u2013Discriminative stimulus or cue: The instructor (e.g., SLP, caregiver, behavior specialist) presents a short instruction (e.g., \u201cTouch your ear\u201d)  \u2013Prompt: If necessary, the instructor assists the student in completing the instruction (e.g., guiding hand, modeling correct response). As the child learns, the prompt is gradually faded so that the student responds only to the cue \u2013Response: The student provides the answer to the cue \u2013Consequence: Reinforcement follows correct responses. Reinforcement can include access to toys, verbal praise, sensory stimulation, or edibles. Following an incorrect response, the instructor provides corrective feedback (e.g., \u201cNo\u201d) and withholds reinforcement \u2013Inter-trial  interval: The instructor pauses briefly (1\u20135seconds) before providing the next prompt to ensure that each trial is discrete from the next one",
+            "Activity-based  instruction (ABI):  ABI is an instructional approach that combines elements from multiple types of intervention procedures. It is considered a naturalistic, child-directed  approach because of the emphasis on following the child\u2019s lead and interests. The teacher is considered a facilitator rather than a direct instructor. Key components of this intervention include use of routine, planned, child-directed  activities; embedding the child\u2019s goals into a routine activity; using logical antecedents and consequences; and selecting goals that are functional and generative(33)",
+            "Social interaction interventions:  For children with moderate to severe ID, opportunities to interact with peers may be limited or restricted in the school setting, so the SLP may be involved in promoting social interaction opportunities as well as increasing the social interaction skills of children with ID.(43) Two ways of addressing social goals are promoting social supportive environments and direct teaching of social skills(44) \u2013Promoting social supportive environments -Supporting participation in general education classes: The SLP may be in a supporting role to provide modifications or assist with AAC so that the child can participate in the general education classroom.(44) Authors of a systematic review of intervention studies focusing on increased participation of children with ID published in 2015 reported on 7 intervention studies (in which only 3 studies were identified that used participation as their principal outcome). These studies provided evidence that individually tailored interventions delivered in both group-based  and individual interventions result in improved participation for children with ID. The group-based  intervention focused on improving social skills in natural environments. Review authors report that additional research is needed to find interventions that specifically target increased participation of children with ID(61) -Arranging peer support: Peer support usually involves a peer who adapts activities and facilitates participation of the student with ID. While providing assistance, the peer receives ongoing feedback from the SLP or other professional involved in monitoring the peer pairing. Peers can also be taught certain roles (e.g., teaching the child a board game) when interacting with a child with ID(44) -Cooperative learning groups: In cooperative learning groups, the class is divided into smaller groups to achieve a specified learning goal. The child with ID is given an opportunity to interact with a smaller group of students to refine and practice interaction skills(44) -Teaching peers how to interact socially with children with ID: There is evidence that training peers to interact socially with classmates with ID may result in more frequent peer interactions and increased social acceptance(44) \u2013Interventions to teach social skills -Teaching social interaction skills alone: There is evidence that systematic instruction in social skills can lead to acquisition of social skills in intervention settings; however, there is less evidence that those skills generalize into other settings or are maintained over time(44) -Teaching self-management  and social interaction skills: In a self-management  approach, students take a more active approach in their social skills intervention by goal setting, self-prompting,  and self-evaluation.  These strategies have been found to enhance generalization and maintenance of social skills(44) -Teaching communication system use and social interaction skills: The SLP may be involved in assisting the child to use AAC devices within social interaction settings by assisting to select systems that meet the child\u2019s interaction needs as well as training peers to interact with someone with an AAC device(44)",
+            "Reading intervention:  In the school setting, the special education teacher or reading specialist will most likely be involved in directly teaching reading and writing skills to children with severe ID. However, the SLP may play a supporting role in reading assessment and treatment. Examples of support include: \u2013The SLP can work with a collaborative team in planning literacy instruction. It is recommended that literacy be taught around a thematic unit to provide a more in-depth learning experience for the child. The thematic unit may be linked to the general curriculum or to functional communication (e.g., social language)(45)  \u2013The SLP can also provide assistance in linking the literacy goals to communication goals as specified by the IEP. Examples of activities are pointing or using eye gaze to read vocabulary words, participating in story reading using AAC, following directions to make a recipe, or playing bingo with a grade level vocabulary list(45) . Problem Goal Intervention Expected Progression Home Program Low level of communication and social interaction ability of the childIncrease interaction level of the child _ _ Increase language level of the childNaturalistic/child- centered approaches _ _ Milieu teaching _ _ Response-interaction strategies _ _ Activity-based instruction _ _ Please see Treatment summary , above, for specific strategies and programsLevel of interaction of the child will increase within a natural context (e.g., classroom, home setting)A home program is an essential part of intervention with children with ID and is determined on an individual basis Low level of communication ability; limited ability to use verbal language to communicateIncrease child\u2019s ability to communicateAugmentative and alternative communication (AAC) _ AAC includes manual signs and gestures as well as devices that produce digitized and/or synthesized speech (SGDs). If the child is an appropriate candidate, assessment for and treatment using AAC should begin early and should reflect the motor and language skills of the child as well as the goals of the child\u2019s family _ _ Please see Treatment summary , above, for specific strategies and programsProgression of therapy tasks and hierarchy of appropriate cues and/ or prompting will vary according to patient abilities and goalsAAC should be used in the home and school  Low level of communication abilityIncrease child\u2019s ability to communicateBehavioral methods _ Behavioral methods, such as DTT, have been used to teach children skills in all developmental areas, including receptive and expressive language, socialization, pre- academics, daily living skills, and fine motor skills _ _ Please see Treatment summary , above, for specific strategies and programsProgression of therapy tasks and hierarchy of appropriate cues and/ or prompting will vary according to patient abilities and goalsA home program is an essential part of intervention in children with ID and is determined on an individual basis Low level of communication and social interactionIncrease child\u2019s ability to communicate/ increase level of social interactionSocial interaction interventions _ _ Please see Treatment summary , above, for specific strategies and programsProgression of therapy tasks and hierarchy of appropriate cues and/ or prompting will vary according to patient abilities and goalsSocial interaction interventions are usually implemented within the classroom or small groups but may also include siblings in the home Low level of communication and social interaction in the classroom settingIncrease child\u2019s ability to communicate/ increase level of social interactionEnvironmental arrangement _ _ Please see Treatment summary , above, for specific strategies and programsProgression of therapy tasks and hierarchy of appropriate cues and/ or prompting will vary according to patient abilities and goalsN/A Low level of communicationIncrease child\u2019s ability to communicateDialogic reading _ _ Please see above for specific strategies and programsProgression of therapy tasks and hierarchy of appropriate cues and/ or prompting will vary according to patient abilities and goalsDetermined on an individual basis Low level of reading abilityIncrease child\u2019s reading skillsReading intervention _ _ Please see above for specific strategies and programsProgression of therapy tasks and hierarchy of appropriate cues and/ or prompting will vary according to patient abilities and goalsDetermined on an individual basis ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "increased functional communication": [
+            "CELF-5",
+            "CASL",
+            "EOWPVT-4",
+            "OWLS-II",
+            "TELD-4",
+            "TOLD-I:4"
+        ],
+        "improved prelinguistic communication abilities": [
+            "CSBS-DP",
+            "Inventory of Potential Communicative Acts",
+            "Communication Matrix"
+        ],
+        "increased speech intelligibility": [
+            "Speech sample"
+        ],
+        "improved use of aac in various situations  e.g., school, play, home, therapy": [],
+        "improved social skills": [],
+        "outcome statements outlined in the iep should indicate the context or environment in which the outcomes should occur as well as the level of support needed to achieve goals. for school-aged  children, these outcomes will occur within the context": []
+    },
+    "maintenance or prevention": [
+        "When working with children with ID, it is important to continually monitor their changing needs and status. Due to changing patient needs, it is important to have periodic assessment of articulation, comprehension, expressive language, and pragmatic use of language and to explore the need for AAC when appropriate(3,8,15)"
+    ],
+    "patient education": [
+        "See patient information on support groups, research, conferences, and national resources from the American Association on Intellectual and Developmental Disabilities at http://www.aaidd.org/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Shevell M. Global developmental delay and mental retardation or intellectual disability: conceptualization, evaluation, and etiology. Pediatr Clin North Am . 2008;55(5):1071-1084.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders . 5th ed. Washington, DC: American Psychiatric Publishing; 2013. (PP)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Shea S. Mental retardation in children ages 6 to 16. Semin Pediatr Neurol . 2006;13(4):262-270.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Gerenser J, Forman B. Speech and language deficits in children with developmental disabilities. In: Jacobson JW, Mulick JA, Rojahn J, eds. Handbook of Intellectual and Developmental Disabilities . New York, NY: Springer; 2007:563-579.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "McDermott S, Durkin MS, Schupf N, Stein ZA. Epidemiology and etiology of mental retardation. In: Jacobson JW, Mulick JA, Rojahn J, eds. Handbook of Intellectual and Developmental Disabilities . New York: Springer; 2007:3-40.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Abbeduto L, Evans J, Dolan T. Theoretical perspectives on language and communication problems in mental retardation and developmental disabilities. Ment Retard Dev Disabil Res Rev . 2001;7(1):45-55.  (X)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Cress CJ, Marvin CA. Common questions about AAC services in early intervention. Augment Altern Commun . 2003;19(4):254-272.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Ad Hoc Committee on the Role of the Speech-Language  Pathologist in Early Intervention. Roles and responsibilities of speech-language  pathologists in early intervention: technical report. American Speech-Language-Hearing  Association Web site. http://www.asha.org/policy/TR2008-00290.htm . Accessed September 27, 2018. (G)"
+        },
+        {
+            "number in article": 9,
+            "reference": "American Speech-Language-Hearing  Association Committee on Mental Retardation/Developmental Disabilities. The role of speech-language  pathologists and audiologists in service delivery for persons with mental retardation and developmental disabilities in community settings. ASHA Suppl . 1990;(2):5-6.  (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Paul R. Language Disorders from Infancy Through Adolescence: Assessment & Intervention . 3rd ed. St. Louis, MO: Elsevier Mosby; 2006. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Daily DK, Ardinger HH, Holmes GE. Identification and evaluation of mental retardation. Am Fam Physician . 2000;61(4):1059-1067.  (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Gray KM, Tonge BJ. Screening for autism in infants and preschool children with developmental delay. Aust N Z J Psychiatry . 2005;39(5):378-386.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Eisenhower AS, Baker BL, Blacher J. Preschool children with intellectual disability: syndrome specificity, behavior problems, and maternal well-being.  J Intellect Disabil Res . 2005;49(9):657-671.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Eshbaugh EM, Peterson CA, Wall S, et al. Low-income  parents' warmth and parent-child  activities for children with disabilities, suspected delays and biological risks. Inf Child Dev. 2011;20(5):509-524.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "American Speech-Language-Hearing  Association. Preferred practice patterns for the profession of speech-language  pathology. American Speech-Language-Hearing Association Web site. http://www.asha.org/policy/PP2004-00191.htm . Accessed September 27, 2018. (G)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Rowland C, Schweigert P. The School Inventory of Problem-Solving  Skills (SIPSS) . Portland, OR: Design to Learn Projects; 2002. (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Fossett B, Mirenda P. Augmentative and alternative communication. In: Odom SL, Horner RH, Snell ME, Blacher J, eds. Handbook of Developmental Disabilities . New York, NY: Guilford Press; 2007:330-348.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Augmentative and Alternative Communication. American Speech-Language-Hearing  Association Practice Portal Web site. https://www.asha.org/Practice-Portal/Professional-Issues/Augmentative-and-Alternative-Communication/ . Accessed September 27, 2018. (G)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Rowland C, Schweigert P. Tangible Symbol Systems: Making the Right to Communicate a Reality for Individuals with Severe Disabilities . Portland, OR: Design to Learn Projects; 2000. (PP)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Wetherby AM, Prizant BM. Communication and Symbolic Behavior Scales Developmental Profile: 1st normed ed . Baltimore, MD: Paul H. Brookes; 2002. (PP)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Sigafoos J, Woodyatt G, Keen D. Identifying potential communicative acts in children with developmental and physical disabilities. Commun Disord Q . 2000;21(2):77-86.  (PP)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Rowland C. Communication Matrix. https://www.communicationmatrix.org . Accessed September 27, 2018. (PP)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Cascella P. Standardised speech-language  tests and students with intellectual disability: a review of normative data. J Intellect Dev Disabil . 2006;31(2):120-124.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Semel E, Wiig EH, Secord WA. Clinical Evaluation of Language Fundamentals . 5th ed. San Antonio, TX: The Psychological Corporation; 2013. (PP)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Carrow-Woolfolk  E. Comprehensive Assessment of Spoken Language . Circle Pines, MN: American Guidance Services; 1999. (PP)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Carrow-Woolfolk  E. Oral and Written Language Scales . 26th ed. Circle Pines, MN: American Guidance Service; 2011. (PP)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Hresko WP, Reid DK, Hammill DD. Test of Early Language Development . 3rd ed. Austin, TX: Pro-Ed; 1999. (PP)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Hammill DD, Newcomer PL. Test of Language Development - Intermediate . 3rd ed. Austin, TX: Pro-Ed; 1997. (PP)"
+        },
+        {
+            "number in article": 29,
+            "reference": "National Joint Committee for the Communicative Needs of Persons with Severe Disabilities. Guidelines for Meeting the Communication Needs of Persons with Severe Disabilities. ASHA Suppl . 1992;34(7):1-8.  (G)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Pennington L, Miller N, Robson S, Steen N. Intensive speech and language therapy for older children with cerebral palsy: a systems approach. Dev Med Child Neurol . 2010;52(4):337-344.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Intellectual Disability. American Speech-Language-Hearing  Association (ASHA) Practice Portal. http://www.asha.org/Practice-Portal/Clinical-Topics/Intellectual-Disability/ . Accessed September 27, 2018. (G)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Dunst CJ. Early intervention for infants and toddlers with developmental disabilities. In: Odom SL, Horner RH, Snell ME, Blacher J, eds. Handbook of Developmental Disabilities . New York, NY: Guilford Press; 2007:161-180.  (GI)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Carta JJ, Kong NY. Trends and issues in interventions for preschoolers with developmental disabilities. In: Odom SL, Horner RH, Snell ME, Blacher J, eds. Handbook of Developmental Disabilities . New York, NY: Guilford Press; 2007:181-198.  (RV)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Pennington L, Miller N. [Commentary on] An integrated evaluation of non-speech  oral motor treatments. Child Care Health Dev . 2009;35(2):283. (X)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Romski M, Sevcik RA, Adamson LB. Randomized comparison of augmented and nonaugmented language interventions for toddlers with developmental delays and their parents. J Speech Lang Hear Res . 2010;53(2):350-364.  (RCT)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Schlosser RW, Lee DL. Promoting generalization and maintenance in augmentative and alternative communication: a meta-analysis  of 20 years of effectiveness research. Augment Altern Commun . 2000;16(4):208-226.  (M)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Millar DC, Light JC, Schlosser RW. The impact of augmentative and alternative communication intervention on the speech production of individuals with developmental disabilities: a research review. J Speech Lang Hear Res . 2006;49(2):248-264.  (SR)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Rowland C, Schweigert P. First Things First: Early Communication for the Pre-Symbolic  Child. Portland, OR: Design to Learn Projects; 2004. (GI)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Tangible Symbol Systems. Oregon Health & Science University Web site. http://www.ohsu.edu/xd/research/centers-institutes/institute-on-development-and-disability/design-to-learn/d2l-tangible-symbol-systems.cfm . Accessed September 27, 2018. (GI)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Institute for Education Sciences. What Works Clearinghouse intervention report: early childhood education: dialogic reading. Institute of Education Sciences Web site. Web site. https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/135 . Accessed September 27, 2018. (PGR)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Liboiron N, Soto G. Shared storybook reading with a student who uses alternative and augmentative communication: a description of scaffolding practices. Child Lang Teach Ther. 2006;22(1):69-95.  (C)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Kaderavek J, Justice LM. Shared storybook reading as an intervention context: practices and potential pitfalls. Am J Speech Lang Pathol . 2002;11(4):395-406.  (GI)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Downs A, Downs RC, Fossum M, Rau K. Effectiveness of discrete trial teaching with preschool students with developmental disabilities. Educ Train Dev Disabil . 2008;43(4):443-453.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Carter EW, Hughes C. Social interaction interventions: promoting socially supportive environments and teaching new skills. In: Odom SL, Horner RH, Snell ME, Blacher J, eds. Handbook of Developmental Disabilities . New York, NY: Guilford Press; 2007:310-329.  (GI)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Cooper-Duffy  K, Szedia P, Hyer G. Teaching literacy to students with significant cognitive disabilities. Teach Except Child . 2010;42(3):30-39.  (GI)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Nicholl H, Doyle C, Moran S, Guilfoyle M. Identifying the types of technology that are used by children with intellectual disabilities and associated complex needs living at home in Ireland. Br J Learn Disabil . 2013;41(3):229-236.  doi:10.1111/bld.12045. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Ashworth A, Hill CM, Karmiloff-Smith  A, Dimitriou D. Cross syndrome comparison of sleep problems in children with Down syndrome and Williams syndrome. Res Dev Disabil . 2013;34(5):1572-1580.  doi:10.1016/j.ridd.2013.01.031. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Joshi RS, Somani AA. Ocular disorder in children with mental retardation. Indian J Psychiatry . 2013;55(2):170-172.  doi:10.4103/0019-5545.111457.  (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Poulsen G, Wolke D, Kurinczuk JJ, et al. Gestational age and cognitive ability in early childhood: a population-based  cohort study. Paediatr Perinat Epidemiol . 2013;27(4):371-379.  doi:10.1111/ppe.12058. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Hellgren K, Halberda J, Forsman L, Aden U, Libertus M. Compromised approximate number system acuity in extremely preterm school-aged  children. Dev Med Child Neurol . 2013;55(12):1109-1114.  doi:10.1111/dmcn.12206. (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Boot FH, Pel JJ, Vermaak MP, van der Steen J, Evenhuis HM. Delayed visual orienting responses in children with developmental and/or intellectual disabilities. J Intellect Disabil Res . 2013;57(12):1093-103.  doi:10.1111/j.1365-2788.2012.01610.x.  (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Bath SC, Steer CD, Golding J, Emmett P, Rayman MP. Effect of inadequate iodine status in UK pregnant women on cognitive outcomes in their children: results from the Avon Longitudinal Study of Parents and Children (ALSPAC). Lancet. 2013;382(9889):331-337.  doi:10.1016/S0140-6736(13)60436-5.  (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Gardner M. Expressive One-Word  Picture Vocabulary Test-4: Manual and Forms . Novato, CA: Academic Therapy Publications; 2011. (PP)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Memisevic H, Hadzik S. Speech and Language Disorders in Children with Intellectual Disability in Bosnia and Herzegovina. Disabil CBR Inclusive Dev . 2013;24(2):92-99. doi:10.5463/DCID.v24i1.214. (R)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Institute of Education Sciences. What Works Clearinghouse intervention report: early childhood education interventions for children with disabilities: milieu teaching. Institute of Education Sciences Web site. https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/567 . Accessed September 27, 2018. (RV)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Cognitive referencing. American Speech-Language-Hearing  Association (ASHA) Web site Web site. http://www.asha.org/SLP/schools/prof-consult/Cognitive-Referencing/ . Accessed September 27, 2018. (G)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Munir KM. The co-occurrence  of mental disorders in children and adolescents with intellectual disability/intellectual developmental disorder. Curr Opin Psychiatry . March 2016;29(2):95-102.  doi:10.1097/YCO.0000000000000236. (RV)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Nowicki EA, Brown JD, Dare L. Educators' evaluations of children's ideas on the social exclusion of classmates with intellectual and learning disabilities. J Appl Res Intellect Disabil. January 2018;31(1):e154-e163.  doi:10.1111/jar.12356. (R)"
+        },
+        {
+            "number in article": 59,
+            "reference": "Biggs EE, Carter EW, Gustafson J. Efficacy of Peer Support Arrangements to Increase Peer Interaction and AAC Use. Am J Intellect Dev Disabil . January 2017;122(1):25-48. doi:10.1352/1944-7558-122.1.25.  (R)"
+        },
+        {
+            "number in article": 60,
+            "reference": "Ganz JB, Morin KL, Foster MJ, et al. High-technology  augmentative and alternative communication for individuals with intellectual and developmental disabilities and complex communication needs: a meta-analysis.  Augment Altern Commun . December 2017;33(4):224-238.  doi:10.1080/07434618.2017.1373855. (M)"
+        },
+        {
+            "number in article": 61,
+            "reference": "Adair B, Ullenhag A, Keen D, Granlund M, Imms C. The effect of interventions aimed at improving participation outcomes for children with disabilities: a systematic review. Dev Med Child Neurol . December 2015;57(12):1093-104.  doi:10.1111/dmcn.12809. (SR)"
+        },
+        {
+            "number in article": 62,
+            "reference": "Snell ME, Brady N, McLean L, et al. Twenty years of communication intervention research with individuals who have severe intellectual and developmental disabilities. Am J Intellect Dev Disabil . 2010;115(5):364-380.  doi:10.1352/1944-7558-115-5.364.  (RV)"
+        }
+    ]
+}

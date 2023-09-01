@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "title": "Hydrotherapy  A Focus on Contrast Baths",
+        "synonyms": [
+            "aquatic therapy  a focus on contrast baths",
+            "pool therapy  a focus on contrast baths",
+            "whirlpool therapy: a focus on contrast baths",
+            "contrast baths, a focus on: hydrotherapy",
+            "hydrotherapy: a focus on contrast water therapy"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "aquatic therapy",
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "Theories behind the therapeutic use of contrast baths \u2013Contrast baths lead to a slight rise in skin temperature, thus improving circulation in a treated extremity and, to a lesser extent, in the contralateral extremity(1) \u2013Contrast baths are believed to lead to a vascular pumping action due to cyclical vasoconstriction (cold water) and vasodilation (hot water)(1) \u2013Contrast baths may reduce sensation, thus reducing painful sensations and improving mobility",
+            "Clinicians are cautioned about the use of contrast baths and contrast water therapy. The theories listed above have yet to be substantiated"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "code": "97034",
+            "description": ""
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "The clinician is advised to check with the patient\u2019s specific carrier to obtain reimbursement information",
+            "No specific issues or information regarding reimbursement has been identified Indications for Device/Equipment"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "What is the nature of referral?",
+                "course of treatment": {
+                    "medical management": "What medical procedures, surgeries, and/or hospital stays has the patient had? Medical management will vary widely depending on underlying condition/reason for referral",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Diagnostic tests will vary depending on nature of condition"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Document any noted aggravating or easing factors",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if any",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Is there any history of respiratory compromise? History of supplemental oxygen use or the need for a mechanical ventilator? Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Is there a history of similar injuries or other trauma in the same area currently being treated?",
+                    "comorbid diagnoses": "Ask patient about other health concerns, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? ",
+                "functional limitations assistance with ADLs adaptive equipment": "Include limitations with self-care, home management, work, and/or community leisure",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Does the patient require the use of any assistive or adaptive devices?",
+            "balance": "Complete a static and dynamic balance assessment in sit and stand. Use Berg Balance Scale (BBS) or components of the BBS (tandem stance with eyes open/closed, single limb stance with eyes open/closed)",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess peripheral pulses and compareObserve general body mechanics throughout assessment",
+            "functional mobility": "Complete a full assessment of mobility; use standardized tests as indicated",
+            "gait locomotion": "Evaluate the patient\u2019s gait; note any atypical findingsAssess the integrity of any involved jointsComplete a muscle tone and/or coordination assessment as indicated and appropriate",
+            "muscle strength": "Complete a thorough strength assessment using manual muscle testing as indicated and appropriate",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Complete a general assessment of the patient\u2019s posture",
+            "range of motion": "Complete a full active and passive ROM assessment, as indicated and appropriate",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess reflexes bilaterally and compareAssess ADLs as indicated",
+            "sensory testing": "Complete a sensory assessment to determine ability to perceive hot and cold, etc.",
+            "special tests specific to diagnosis": "Special tests will be diagnosis specific",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess arousal and cognition as indicated and appropriate. Will the patient be able to communicate that he or she is uncomfortable or in pain?",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Patients being treated with contrast baths may have a condition that places them at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies \u203aDiagnosis/need for device/equipment: There are multiple indications for contrast baths; please see Indications for device/ equipment, above"
+            ],
+            "general": "There are multiple indications for contrast baths; please see Indications for device/"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "Refer to other disciplines as indicated and appropriate",
+        "other considerations": [
+            "Blood flow studies \u2013Contrast baths induce transient changes in hemodynamics and oxygenation levels of muscular tissue which may benefit tissue repair(3) -Based on a study in Canada in which10 healthy men and women averaging 29 years of age participated -Contrast bath therapy was provided for the left lower leg of the participants -Contrast bath protocol included a 10 minute baseline, 30 minutes of contrast bath with a hot:cold ratio of 4:1, and 10 minutes of recovery -The gastrocnemius muscle was monitored for oxygenation (O2Hb), deoxygenation (HHb), total hemoglobin (tHb), and tissue saturation index (TSI%) during the protocol -Noted outcomes included increased level of intramuscular oxygenated blood volume in the gastrocnemius muscle post 30 minutes of contrast bath  \u2013Authors concluded that increased oxygenated blood flow may assist in tissue repair; however, further research is warranted to determine the effects of contrast baths in persons with acute and chronic muscle damage and soreness"
+        ],
+        "treatment summary": [
+            "At this time, the available research on the efficacy of contrast baths is poor in overall quality and RCTs with solid methodology on the use of contrast baths are lacking(1)",
+            "Based on a systematic review and meta-analysis,  cold water immersion and contrast water therapy is beneficial for perception of fatigue, when applied at 72 hours and 24 hours post sport, respectively. Neither improved perceptions of muscle soreness following team sport(2)",
+            "Contrast water therapy and cold water therapy do not improve short-term  recovery post resistance training(4) \u2013Thirteen men were assessed for fatigue, soreness, maximal voluntary isometric contraction, weighted/unweighted jumps post resistance training. Training included maximal voluntary isometric contraction of the knee extensors and weighted and unweighted countermovement jumps. Subjects participated in one of three 14-minute  recovery strategies post exercise: contrast water therapy, cold-water  immersion, or a control \u2013Countermovement jump performance and peak torque during maximal voluntary contraction were significantly decreased for at least 4 hours post exercise \u2013The authors concluded that neither contrast water therapy nor cold-water  immersion improves short-term  recovery post resistance training",
+            "Researchers investigated the effects of time ratios and the order of hot/cold application with contrast baths for patients with plantar fasciitis and concluded that no time ratio or order of hot/cold is superior to another(5) \u2013Seventy-five  patients were randomized into three groups in which different ratios and order of hot/cold application for contrast baths were used -Group A \u2013 3 cycles of 3 minutes hot followed by 1 minute cold -Group B \u2013 3 minutes hot, 1 minute cold, 12 minutes hot -Group C \u2013 5 minutes cold, 2.5 minutes hot, 5 minutes cold \u2013Participants in all groups also took part in a simple protocol which included education for shoe wear and plantar fascia and tendo-achilles  stretching exercises \u2013The authors concluded that no ratio or order for hot/cold in contrast baths is superior to another; contrast baths used with a simple plantar fascia protocol result in significant pain relief \u203aSee Description , Indications of device/equipment , and Guidelines for use of device/equipment,  above . Problem Goal Intervention Expected Progression Home Program Ankle sprains _ _ Muscle strains _ _ Contusions _ Muscle spasmsImprove symptoms of musculoskeletal injury; facilitate healingContrast baths _ Please see Treatment summary , above, for summary of research related to contrast baths _ In patients with an ankle sprain, ROM may be completed while immersed in the bathsN/A Develop and implement a home program, as appropriate and indicated, that supports therapeutic goals Pain Reduce pain, swelling, and/or stiffnessContrast baths _ Please see  Treatment summary , above, for summary of research related to contrast bathsN/A Develop and implement a home program, as appropriate and indicated, that supports therapeutic goals  Following exercise to facilitate recovery(3)Facilitate muscle recovery following exerciseContrast baths _ Please see Treatment summary , above, for summary of research related to contrast bathsProgress exercise regimen, as appropriate and indicated, for each unique patientDevelop and implement a home program, as appropriate and indicated, that supports therapeutic goals ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved symptoms of musculoskeletal injury  reduced pain, swelling and or stiffness": [
+            "V AS, MMT, anthropometric measures"
+        ],
+        "facilitated muscle recovery following exercise": [
+            "Patient report, agility tests"
+        ]
+    },
+    "maintenance or prevention": [
+        "The patient is advised to follow his or her home exercise program and follow up with his or her physician as indicated Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bukowski EL, Nolan TP, Jr. Hydrotherapy: the use of water as a therapeutic agent. In: Michlovitz SL, Bellew JW, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:135-163.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Higgins TR, Greene DA, Baker MK. Effects of cold water immersion and contrast water therapy for recovery from team sport: a systematic review and meta-analysis.  J Strength Cond Res . 2017;31(5):1443-1460.  doi:10.1519/JSC.0000000000001559. (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Shadgan B, Pakravan AH, Hoens A, Reid WD. Contrast baths, intramuscular hemodynamics, and oxygenation as monitored by near-infrared  spectroscopy. J Athl Train . 2018;53(8):782-787.  doi:10.4085/1062-6050-127-17.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Argus CK, Broatch JR, Petersen AC, Polman R, Bishop DJ, Halson S. Cold-water  immersion and contrast water therapy: no improvement of short-term  recovery after resistance training. Int J Sports Physiol Perform . 2017;12(7):886-892.  doi:10.1123/ijspp.2016-0127.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Sharma D, Kumar K, Yadav N, Sharma L. To compare the effect of different time ratio of heat and cold in contrast bath on clinical improvement in plantar fasciitis. Int J Orthop Sci. 2017;3(2):146-149.  (RCT)"
+        }
+    ]
+}

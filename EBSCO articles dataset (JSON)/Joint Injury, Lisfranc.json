@@ -1,0 +1,309 @@
+{
+    "metadata": {
+        "title": "Lisfranc Joint Injury",
+        "synonyms": [
+            "injury, lisfranc joint",
+            "joint injury, lisfranc"
+        ],
+        "anatomical location body part affected": [
+            "Foot/Lisfranc ligament; tarsometatarsal joint complex; transverse arch"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "sport rehabilitation"
+        ],
+        "description": [
+            "The Lisfranc ligament is the primary stabilizer of the tarsometatarsal joint complex. It spans the medial cuneiform and the base of the 2nd metatarsal(9)",
+            "\u201cLisfranc injury\u201d is a general term for tarsometatarsal injuries that involve the Lisfranc ligament complex and range from an undisplaced mild sprain to severe fracture and dislocation. The severity of displacement is often underestimated on the initial clinical exam soon after injury",
+            "General classification of Lisfranc sprains and injuries(1) \u2013Grade 1: Tenderness at the joint complex, but minimal swelling and no instability \u2013Grade 2: Tenderness and swelling, mild laxity but no instability \u2013Grade 3: Complete osteo-ligamentous  disruption, possibly including fracture dislocation, with 2 mm or more joint diastasis",
+            "Displacement (often dorsally) of the 1st and 2nd metatarsal bases greater than 2 mm on x-ray  indicates ligamentous instability and the need for surgical fixation to reduce the dislocation",
+            "Restoration and maintenance of the anatomic alignment of the Lisfranc joint is the key to appropriate management(9)",
+            "A severe Lisfranc dislocation has a high potential for chronic disability, even with surgical correction, and for athletes can be a season-  or career-ending  injury"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {
+            "Mobility G-code set": {
+                "G8978": "Mobility: walking & moving around functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8979": "Mobility: walking & moving around functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8980": "Mobility: walking & moving around functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Changing & Maintaining Body Position G-code set": {
+                "G8981": "Changing & maintaining body position functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8982": "Changing & maintaining body position functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8983": "Changing & maintaining body position functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Carrying, Moving & Handling Objects G-code set": {
+                "G8984": "Carrying, moving & handling objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, moving & handling objects functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, moving & handling objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code set": {
+                "G8990": "Other physical or occupational primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other physical or occupational primary functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other physical or occupational primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code set": {
+                "G8993": "Other physical or occupational subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other physical or occupational subsequent functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other physical or occupational subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement have been identified for this condition"
+        ],
+        "presentation signs and symptoms": [
+            "Patients with a nondisplaced sprain may present for therapy able to bear weight, possibly after wearing a short leg cast or walking boot ",
+            "In subacute cases \u2013Unilateral pain primarily in the dorsal midfoot area; aggravated by weight-bearing  (WB) through forefoot \u2013Localized tenderness along the tarsometatarsal articulations \u2013Swelling/edema over the dorsal midfoot \u2013Bruising/ecchymosis in the midfoot and often including the forefoot \u2013Hematoma after trauma \u2013Restricted WB on foot",
+            "In chronic cases \u2013Foot muscle weakness related to pain \u2013Stiffness and reduced forefoot range of motion (ROM) \u2013Limited WB \u2013Antalgic gait: pain and instability are worse during the push-off  phase (especially walking uphill) \u2013Disturbed standing balance due to pain",
+            "Forefoot may abduct into valgus",
+            "Patients with crush injuries may present with repaired soft tissue Causes, Pathogenesis, and Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop the examination and notify physician immediately for possible referral to emergency room if the patient reports no sensation in the affected foot or cannot demonstrate a requested motor response",
+            "Consider postponing the exam in cases with unresolved inflammation, infection/healing of soft tissue, or severe hematoma"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes   ,,": [
+            "Direct high-energy  trauma or impact force (such as in motor vehicle accident, fall from height, or crush injury); associatedwith fracture/dislocation",
+            "Indirect injury resulting from sudden, forced axial (longitudinal) torque on the Lisfranc joint complex",
+            "Activity-related  overuse sprain is uncommon"
+        ],
+        "pathogenesis   ,,": [
+            "1st and 2nd metatarsal-cuneiform  joints are most often dislocated",
+            "Fleck sign: avulsion of Lisfranc ligament at 2nd metatarsal base",
+            "Improper alignment of the tarsometatarsal joints may cause erosion of the dorsal and lateral aspects of the cuneiforms andresult in valgus abduction deformity of forefoot\u2013A possible cause of chronic metatarsalgia\u2013Increases risk of osteoarthritis"
+        ],
+        "risk factors   ,,": [
+            "Pes cavus",
+            "Factors that may weaken the foot bones or longitudinal arch\u2013Obesity (i.e., increased foot stress on WB)\u2013Osteoporosis\u2013Diabetes",
+            "Wearing shoes with toe cleats",
+            "Foot straps used in some sports",
+            "Extreme plantar flexion during pointe position and time spent in pointe position in dancers(11)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Pain associated with obvious physical deformity of the foot",
+        "Inability to bear weight on foot due to severe pain",
+        "Signs of fracture or infection",
+        "Severe swelling of foot in a patient with apparent febrile illness",
+        "Stop the examination or treatment and notify physician immediately if the patient has neurovascular signs and symptoms that indicate lower leg compartment syndrome (often a medical emergency)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop the examination and notify physician immediately for possible referral to emergency room if the patient reports no sensation in the affected foot or cannot demonstrate a requested motor response",
+            "Consider postponing the exam in cases with unresolved inflammation, infection/healing of soft tissue, or severe hematoma"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Ask about any specific trauma, strain, or overuse (see  Causes , above). How have symptoms progressed since onset? Is WB limited or restricted?",
+                "course of treatment": {
+                    "medical management": "Care will vary depending on the severity of injury. Did the patient receive any emergency care?immobilization/bracing, activity modification, WB precautions, etc.)?",
+                    "surgical management": [
+                        "Surgical management:  Was any surgical intervention performed? Different fixation options are used with open reduction to treat Lisfranc injuries. If so, what was date of surgery and what method was used? How well has the incision healed (any infection)? Was the foot immobilized in a plaster cast (for how long?) or was a cam walker used? Unstable Lisfranc injuries typically require surgical management(12)",
+                        "Suture button fixation, or \u201cflexible fixation\u201d, is a surgical option for elite athletes/dancers who cannot tolerate a rigid screw fixation(14)",
+                        "Current standard of surgical care for non-dancers  is ORIF or fusion",
+                        "Arthrodesis is recommended for ligamentous injuries involving the medial and middle columns or comminuted",
+                        "fracturedislocations(15)",
+                        "Return to sport after surgery may take six months to a year(15)"
+                    ],
+                    "medications": "Medications commonly used to treat acute foot pain include acetaminophen, nonsteroidal antiinflammatory  drugs (NSAIDs), and opioid derivatives such as hydrocodone",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Ask about plain radiographs, magnetic resonance imaging (MRI) and bone scintigraphy.",
+                        "Weightbearing  plain radiographs are recommended(12) CT scans may be used when plain radiographs are unable to identify subtleties(13)",
+                        "Lateral radiographs may show a step-off sign(13)",
+                        "In a normal foot there should not be more than 2 mm between the first and second metatarsal, increased distance suggest Lisfranc injury(13)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for other lower extremity injuries/conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased) -Pain of a fracture or stress fracture or displaced joint worsens with WB and increases further with ambulation -Is relief obtained by wearing shoes or taping?",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": " Nature of symptoms -Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Burning pain and numbness are characteristic of nerve entrapment such as in tarsal tunnel syndrome -Does the pain increase with pressure? To what extent is WB tolerated? -Any paresthesia/weakness suggestive of peripheral nerve injury?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess pain",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if applicable",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., lower extremity weakness, dizziness, lumbosacral radicular pain, falls)  Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe __________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in competitive sports? What does the patient\u2019s occupation involve? What do his or her daily activities involve?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document if applicable",
+                "living environment": "Stairs, number floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "If applicable, assess the current ambulatory assistive device for proper fit and use, or evaluate for suitable ambulatory assistive device, as indicated. Determine the need for supportive/protective equipment, footwear, or orthotics",
+            "balance": "Assess standing static and dynamic balance on both feet and, when appropriate, in single-leg  stand and also on toes and heels",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess for palpable foot pulses, i.e., dorsalis pedis and posterior tibialis arteries. The perforating branch of dorsalis pedis courses between the bases of the 1st and 2nd metatarsals and may be damagedAssess foot edema with girth measurements; compare to unaffected foot",
+            "functional mobility": "Assess WB status, ability in transfers (e.g., chair to stand), stair climbing, and walking ability. American Orthopedic Foot and Ankle Society (AOFAS) midfoot scores correlated well with V AS scores in 26 patients with isolated Lisfranc fracture dislocation(4)",
+            "gait locomotion": "If patient is ambulatory, observe for altered/antalgic gait pattern in walking (and running, when appropriate, in athletes). Assess lower extremity/rearfoot alignment and movement of foot in barefooted walking, and width of stance. Reduced forefoot contact time was found at median follow-up  of 76 months after Lisfranc injury(4)Assess forefoot flexibility as tolerated the heel in neutral position. Pain at the base of the 1st and 2nd metatarsals is consistent with Lisfranc injury. Assess for gross instability and crepitus",
+            "muscle strength": "Assess strength as tolerated in ankle plantar flexion, dorsiflexion, inversion, eversion; forefoot adduction/abduction; toe flexion/extension",
+            "observation inspection palpation including skin assessment": [
+                "Observe for forefoot valgus deformity",
+                "Compare swelling to unaffected foot",
+                "Inspect skin for cellulitis or wound infection, if applicable",
+                "Palpate foot and document tenderness. Acute swelling may limit palpation. Expect tenderness at the navicular, medial cuneiform, base of the 1st and 5th metatarsal, and the 1st and 2nd metatarsal interspace",
+                "Assess subtalar neutral in non-WB \u2022Pain:  Assess with V AS (at best, at worst, and at the moment)"
+            ],
+            "posture": "Assess foot and leg alignment in non-WB  and, if tolerated and allowed, in standing bearing weight",
+            "range of motion": "Assess active and passive ROM of foot in plantar flexion, dorsiflexion, inversion, eversion, supination, and pronation. Passive pronation and abduction or dorsiflexion and abduction of the forefoot may elicit pain and/or apprehension. Assess ROM of hallux. Compare bilaterally",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess Achilles tendon reflex ",
+            "sensory testing": "Assess for sensory deficits in affected foot with nylon monofilament test, if indicated",
+            "special tests specific to diagnosis": " Special tests \u2013AOFAS midfoot score(4) \u2013Piano Key Test(15) -Metatarsal is grasped and moved into dorsiflexion and plantarflexion. A positive test elicits pain",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "Subacute or chronic Lisfranc injury/foot pain, swelling, tenderness, stiffness, weakness, reduced tolerance for WB, disability in daily activities Lisfranc joint injuries require a high degree of suspicion in order to make a prompt accurate diagnosis, due to their subtle exam and radiographic presentation. Missed or delayed diagnoses occur in 20-35%  of cases(11)",
+        "rule out": "Cuboid fracture, medial cuneiform fracture, avulsion fracture of the navicular tuberosity, metatarsalgia, Morton\u2019s neuroma, lower leg compartment syndrome, complex regional pain syndrome ",
+        "prognosis": [
+            "In minor and moderate sprains (grades 1 and 2), resolution of pain on standing and recovery of ambulatory function should occur within 6 weeks(3)",
+            "Some Lisfranc injuries treated by closed-reduction  (under fluoroscopy) and internal fixation (CRIF) may have a poor outcome. For example, a case of interposition of the tibialis anterior tendon required revision by open reduction(6)",
+            "Severe soft tissue injury and incomplete reduction after surgery are negative prognostic factors in Lisfranc injuries, based on a retrospective follow-up  study (N = 32; 55 months) in Turkey(10)",
+            "Missed or delayed diagnoses may lead to poor long-term  outcome including premature retirement form athletic activities due to disabling pain, ligamentous instability, and degenerative arthritis(10)",
+            "Return to sport after surgical treatment is expected to take at least 6 months(15)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Orthotist/pedorthist for shoe modifications, orthoses, and orthopedic footwear. An orthotic with a supportive arch is recommended for the first few months after return to athletic activities(3,7) Physician for medical consult regarding pain management Orthopedist for surgical consult for evaluation and possible realignment arthrodesis in cases with chronic (> 6 weeks) pain Acupuncturist for alternative pain management",
+        "other considerations": [
+            "Progressive WB can begin about 3 months after surgery(7)",
+            "Educate athletes that the Lisfranc fracture often requires a long course of recovery and that return to their former level of play may take longer than anticipated(8)"
+        ],
+        "treatment summary": [
+            "Acute and subacute phases: Substitute upper body exercise (e.g., arm cycling, swimming, weight lifting) to maintain fitness during foot healing period",
+            "A grade 1 or 2 sprain is usually treated conservatively with a non-WB cast and/or walking cast for 4-6 wks(3) \u2013A nondisplaced Lisfranc fracture without ligament instability is usually casted for 6 weeks, followed by cam walker for 6 weeks, and no running/jumping for 3 months(3) \u2013Surgical reduction is recommended for ligamentous disruption with joint displacement greater than 2 mm, followed by 3 to 4 months of immobilization in a removable cast(6)",
+            "Functional rehabilitation phase \u2013Exercises to improve foot ROM, strength, and function after surgical reduction(6) -ROM exercises can begin at 6-8 weeks -Progressive WB can begin at 3 months . Problem Goal Intervention Expected Progression Home Program Foot pain; tender and swollen tissuesResolve pain and inflammation of soft tissuesPhysical agents and electrotherapeutic modalities _ Implement cryotherapeutic agents and the PRICE approach for pain and edema management. Studies are lacking on the effectiveness of electrotherapeutic modalities for treating Lisfranc injuriesAllow at least 6 weeks for fracture healing and 6 additional weeks for complete resolution of tenderness and swellingProvide patient with instructions for the PRICE approach to control pain and swelling  Reduced foot ROM, flexibility, strength and enduranceRestore or improve physical fitness for return to full activitiesTherapeutic modalities _ ROM and strengthening exercises as indicated. Modes of aerobic training that match patient\u2019s ability (e.g., arm cycling, aquatics, elliptical trainer, treadmill walking) _ _ Lower extremity resistance training can begin after regaining painless AROM. Manual and assisted stretching exercises to regain full PROMGradually progress intensity of exercises before full WB; therapeutic exercises 3x per week for 4 weeks. The intensity and duration of exercises should be progressed in the final phase to restore fitness for work and sportProvide the patient with simple strengthening. Daily repetition of exercises Abnormal standing posture, nonsymmetrical or antalgic WB and gait; increased risk of fallsRestoration of symmetry in standing posture and WB activities; normal gait mechanicsFunctional training _ Posture and gait reeducationProgress WB as tolerated. Gradual progression of exercises to allow additional WB. Increase speed and complexity of movementsProvide patient and family/ caregivers with written instructions regarding functional activities that can be performed at home Functional decline in performance of affected leg: reduced balance, walking ability, stair climbing; with increased risk of fallsImprove functional balance and walking endurance, with independence in fall prevention strategiesFunctional training (5) _ Sitting balance ball exercises for partial WB, standing balance exercises, full WB activities _ _ Implement proprioception training tools as indicated and when appropriate: pillow, foam pad, BAPS, wobble diskProgress weight- bearing as tolerated. Gradual progression of exercises to allow additional WB. Increase speed and complexity of movementsProvide patient and family/caregivers with written instructions regarding functional activities that can be performed at home  Non- or partial WB. Use of ambulatory assistive device. Improper athletic footwearProtect healing tissues Prescription, application of devices and equipment _ Assistive devices and orthotics, as indicated. Taping and shoe modifications may help support/protect affected tissues. Custom in- shoe foot orthoses are recommended for athletes(3)Wean from ambulatory assistive devices as appropriateCorrect use of assistive devices and/or application of equipment. Compliance with recommended foot wear ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced or resolved pain": [
+            "V AS"
+        ],
+        "resolved edema": [
+            "Circumferential measurements"
+        ],
+        "resolved impairments in strength, proprioception, balance, and mobility": [
+            "Manual muscle testing",
+            "Goniometry for ROM measurements",
+            "Balance assessment"
+        ],
+        "normal wb status and ambulatory function": [
+            "Gait assessment"
+        ],
+        "return to prior regular physical activities": [
+            "AOFAS midfoot score(4)",
+            "Short Form Health-Related  Quality of Life Questionnaire (SF-36)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Maintenance of specific flexibility and agility for sport",
+        "Use of protective equipment and proper footwear"
+    ],
+    "patient education": [
+        "See American College of Foot and Ankle Surgeons Web site, https://www.foothealthfacts.org/conditions/lisfranc-injuries Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Talarico RH, Hamilton GA, Ford LA, Rush SM. Fracture dislocations of the tarsometatarsal joints: analysis of interrater reliability in using the modified Hardcastle classification system. J Foot Ankle Surg . 2006;45(5):300-303.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Coetzee JC. Making sense of Lisfranc injuries. Foot Ankle Clin . 2008;13(4):695-704,  ix. (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Lattermann C, Goldstein JL, Wukich DK, Lee S, Bach BR. Practical management of Lisfranc injuries in athletes. Clin J Sports Med . 2007;17(4):311-315.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Shepers T, Kieboom B, van Diggele P, Patka P, Van Lieshout EMM. Pedobarographic analysis and quality of life after Lisfranc fracture dislocation. Foot Ankle Int . 2010;31(10):857-64.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP. Modalities for Therapeutic Intervention . 5th ed. Philadelphia, PA: FA Davis Company; 2012. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Karaindros K, Arealis G, Papanikolaou A, Mouratidou A, Siakandaris P. Irreducible Lisfranc dislocation due to the interposition of the tibialis anterior tendon: case report and literature review. Foot Ankle Surg . 2010;16(3):e68-e71.  (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "DeOrio M, Erickson M, Usuelli FG, Easley M. Lisfranc injuries in sport. Foot Ankle Clin . 2009;14(2):169-186.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Desmond EA, Chou LB. Current concepts review: Lisfranc injuries. Foot Ankle Int . 2006;27(8):653-660.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Wright MP, Michelson HD. Lisfranc injuries. BMJ. 2013;347:f4561. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Demirkale I, Tecimel O, Celik I, Kilicarslan K, Ocguder A, Dogan M. The effect of the Tscherne injury pattern on the outcome of operatively treated Lisfranc fracture dislocations. Foot Ankle Surg . 2013;19:188-193.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Kriz P, Rafferty J, Evangelista P, Van Valkenburg S, DiGiovanni C. Stress fracture of the second metatarsal and sprain of Lisfranc joint in a pre-professional  ballet dancer. J Dance Med Sci . 2015;19(2):80-85.  doi:10.12678/1089-313X.19.2.80.  (C)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Seybold JD, Coetzee JC. Lisfranc injuries: when to observe, fix, or fuse. Clin Sports Med . 2015;34(4):705-723.  doi:10.1016/j.csm.2015.06.006. (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Welck M, Tudor F. A painful tool: Lisfranc fracture-dislocations.  British Medical JournalA painful tool: Lisfranc fracture-dislocations.  British Medical Journal . 2016;352(8050):502-503.  (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Charlton T, Boe C, Thorarson DB. Suture button fixation treatment of chronic lisfranc injury in professional dancers and high-level  athletes. Journal of Dance Medicine & Science. 2015;19(4):135-139.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Sybold JD, Coetzee JC. Lisfranc Injuries. When to Observe, fix or fuse. Clinics in Sports Medicine . 2015;34(4):705-723.  (GI) "
+        }
+    ]
+}

@@ -1,0 +1,351 @@
+{
+    "metadata": {
+        "title": "Physical Therapy for Animals",
+        "synonyms": [
+            "animal physical therapy",
+            "animal physiotherapy",
+            "veterinary physical therapy,",
+            " veterinary physiotherapy",
+            "animal rehabilitation"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "orthopedic rehabilitation (animal)",
+            "neurological rehabilitation (animal). animal rehabilitation is an identified special interest group in the orthopedic section of the american physical therapy association (apta)"
+        ],
+        "description": [
+            "Animal physical therapy involves using professional assessment and reasoning processes to make functional diagnoses and select appropriate physical interventions or treatments for animals. It is seen as complementary to, but different from, veterinary medicine in that the veterinary approach is to reach a pathoanatomic diagnosis and treat an animal medically or surgically",
+            "Physiotherapy treatments are selected to manage sensory and motor impairments for functional improvement and activity-specific performance",
+            "Animal rehabilitation originated as a way to help animals recover from surgery, as medical and surgical advances in veterinary medicine led to a demand for better care and more expertise",
+            "Physical therapy in veterinary practice still focuses on enhancing surgical recovery and maintaining a comfortable quality of life, but it has grown to include many other types of patients, including older animals with chronic conditions such as arthritis, obese animals with functional limitations, and healthy animals whose owners want them to perform at a higher athletic level",
+            "The practice of animal physical therapy requires specialized skills and training that include animal handling, anatomy, physiology, and pathology(1)",
+            "Many techniques, treatments, and rehabilitation regimens used on humans have been adapted for use in animals. Preliminary studies have shown promising results(2)",
+            "Animal physical therapists are usually licensed physical therapists who want to work with animals, but in some settings veterinarians, veterinary technicians, and physical therapy assistants may also evaluate and treat animals in order to restore and improve functional mobility, strength, and endurance",
+            "Recognized qualifications for the practice of physical therapy on animals are not legally defined in many countries(2)",
+            "In the United States, licensed physical therapists can obtain further education and training through continuing education programs",
+            "Massage therapists who are interested in further training and qualifications for animal acupressure and massage can visit the National Board of Certification for Animal Acupressure & Massage (NBCAAM) at www.nbcaam.org  or the International Association of Animal Massage & Bodywork at https://iaamb.org/",
+            "In the United Kingdom, members of the Association of Chartered Physiotherapists in Animal Therapy (ACPAT) are fully qualified chartered physiotherapists who have obtained further training and qualifications in physiotherapy for animals(1)"
+        ],
+        "indications": [
+            "The primary indications for animal physical therapy are: \u2013Pain \u2013 due to chronic musculoskeletal disorders or a recent surgery or injury  \u2013Tissue damage \u2013 wounds, fractures, soft-tissue  injuries \u2013Functional limitations \u2013 impairments in the animal\u2019s ability to move and function in daily life"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "code": "N/A",
+            "description": ""
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Animal physical therapy is usually an out-of-pocket  expense. Some veterinary insurance companies will cover some of the costs Indications for animal physical therapy"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Monitor for signs of discomfort or pain during examination. Unlike humans, animals cannot report their sensations. Obtain a description of the animal\u2019s pain behaviors to watch for from the client or trainer "
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Monitor for signs of discomfort or pain during examination. Unlike humans, animals cannot report their sensations. Obtain a description of the animal\u2019s pain behaviors to watch for from the client or trainer "
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document the history of the current complaint -Date of injury or surgery if applicable -Was onset sudden or insidious?",
+                "course of treatment": {
+                    "medical management": "What treatment has animal received? Document any veterinary care that has been received, including surgical intervention, if applicable, immobilization, and any complications",
+                    "surgical management": [],
+                    "medications": "Determine what medications the veterinarian has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Depend on the underlying condition being treated and may include the following:",
+                        "Imaging studies such as x-rays,  computerized tomography (CT) scans, and/or magnetic resonance imaging (MRIs)",
+                        "Electromyography (EMG)",
+                        "Ultrasonography (US)",
+                        "Laboratory tests (e.g., blood, serum, urine, feces)",
+                        "Analgesic injections"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, herbal supplements) and whether or not they help",
+                    "previous therapy": "Document whether animal has had physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the signs/symptoms come on or areObtain a detailed description of pain behaviors from the client or trainer",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document whether symptoms are constant or intermittent and any other qualifying features provided by client or trainer",
+                "rating of symptoms": "Variability of heart rate or respiratory rate might suggest presence of pain or discomfort.(3) Patient-specific  signals that might indicate the animal\u2019s pain level can include behaviors, activity level, appetite, tail carriage, facial expression, and vocalizations.(3) Objective assessment is difficult -Tools such as dolorimeters are being investigated to provide more objective measures of pain sensitivity, tolerance, and intensity(3)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (AM, mid-day, PM, night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "",
+                "respiratory status": "Document any respiratory problems"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Document any prior injuries, surgeries, or related conditions",
+                    "comorbid diagnoses": "Ask client about other problems, including diabetes, cancer, heart disease, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the animal a sporting animal? Canine sporting activities include racing (e.g., greyhounds, sled dogs), field trial, hunting, herding, agility, search and rescue, and flyball/ disc.(4) Equine sporting activities include dressage, endurance riding, show jumping, vaulting, polo, racing, driving, and rodeo. Describe the skills and behaviors required for the animal\u2019s particular sport or work",
+                "functional limitations assistance with ADLs adaptive equipment": "Is the animal\u2019s ability to perform functional activities such as eating, drinking, grooming, and eliminating limited? Are any assistive devices in use? Devices can increase an animal\u2019s independence and prevent complications. Examples include booties, slings, two-wheeled and four-wheeled  carts, and prosthetics(5) ",
+                "living environment": "Describe the animal\u2019s living environment and any related limitations. Who is the animal\u2019s primary caretaker?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures  (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting) \u2022Anthropomorphic characteristics: Measure height, length, weight, and girth (e.g., of chest or extremities) as indicated. Calculation of weight: height ratio can be used to determine body composition(3) \u2013Rules for the systematic measurement of various animals should be observed -Specialized measuring sticks, compasses, and tapes may be employed -Animal should be standing on level ground \u2013Morphometric measurement of peripheral edema or joint effusion may be made circumferentially or volumetrically",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Document any use of assistive or adaptive devices and their appropriateness and fit \u2013Boots or booties \u2013 can be used to protect an animal\u2019s feet from trauma (e.g., cold, glass, or debris in working dogs) or repetitive sport injury, or when a neurological deficit affects proprioception \u2013Slings \u2013 aid in transitioning a recumbent animal to a standing position and may be used to assist ambulation \u2013Carts \u2013 can be used to provide full body support (e.g., \u201ccanine wheelchairs\u201d) \u2013Orthotics \u2013can  be used for joint protection, rest, immobilization, movement assistance, and correction -If orthotics are in use, examine them for wear and cleanliness -Examine the underlying soft tissues for breakdown or damage -Reassessment and modification of orthotics should be performed regularly as animal\u2019s status changes \u2013Prosthetics \u2013 not commonly used in quadrupeds that adapt well to 3-legged  gait. One indication would be a bilateral amputation that leaves an animal unable to walk(5) -When present, examine the residual limb and all components of the prosthetic (the suspension system, the socket, the shank, and the ground contact [artificial foot])(5)",
+            "balance": "Assess balance statically and dynamically \u2013Assess animal\u2019s ability to maintain upright position while perturbation is applied",
+            "cardiorespiratory function and endurance": [
+                "Fatigue may be evident if the animal lies down or leaves the area during activity(6)"
+            ],
+            "circulation": "In many animals, gum color is an indicator of circulation. Gums should be pink and moist in horses, dogs, and catsAssess as indicatedFunctional mobility includes all of the postures and movements used in daily function, including maintenance of static lying, sitting, and standing postures and dynamic transitions to and from these positions",
+            "functional mobility": "",
+            "gait locomotion": "Perform a qualitative and quantitative evaluation of static and dynamic gait characteristics in standing, walking, and trotting (galloping, running) as indicated \u2013Kinematic gait analysis may be performed using electrogoniometry or computer-assisted  videography where available \u2013Force plate or pressure sensor assessment of ground reaction forces and contact time may be performed if specialized equipment is available \u2013Most commonly, qualitative gait analysis is performed. Observe and describe deviations of gait patterns using a scheme designed for the animal in question -Note cadence, stance and swing time, weight-bearing quality and frequency, and active ROM (AROM) -EMG can be used to assess muscle activation patterns \u2013A variety of \u201clameness scores\u201d used by veterinary professionals to assess antalgic gait patterns exist(3)Assess the quantity and quality (e.g., crepitation) of and presence of pain during passive ROM (PROM) \u2013Manual testing techniques should be used to detect laxity in the hip joint in dogs. Standard tests are the Barlow, Barden, and Ortolani tests(7) \u2013Early signs of joint disease in horses are subtle and are often confused with behavioral problems(8)Describe movement patterns, making note of any abnormalities in muscle tone or coordination. Observe for signs of learned nonuse  \u2013Subtle changes in muscle tone and mass, symmetry, and reflex movements, especially in the equine back and quarters, may be indicative of (impending) fracture(9) -Based on a retrospective study of records of 513 thoroughbred racehorses(9) -Presence of pelvic bony asymmetry, muscle atrophy of the quarters, reduced reflexive dorsi- and/or ventroflexion, and spasm or tenderness on palpation of gluteal muscles were associated with subsequent fracture diagnosis -Early detection of impending pelvic or hind-limb  fracture may be possible during routine physiotherapy assessment and might reduce the incidence of catastrophic fractures",
+            "muscle strength": "Traditional methods of muscle strength measurement (e.g., manual muscle testing) are not readily applicable to the animal population(3) \u2013Muscle strength can be estimated by measuring muscle mass with diagnostic ultrasound, CT scan, or MRI(3) -Repeat measurements are not economical or feasible in animal rehabilitation -Girth measurements of the muscle belly correlate well with muscle mass in dogs(3) -Diminished muscle mass is a key finding in dogs with dysplastic hips as early as 8 weeks of age(7) \u2013Subjective descriptions of functional strength may also be used",
+            "observation inspection palpation including skin assessment": [
+                "Inspect any wounds, documenting size, color, thickness, edges, and any signs of infection such as swelling, redness, and purulent drainage(10)",
+                "Inspect for pressure sores in immobilized animals(10) -Decubital ulcers have been reported as common complications of prolonged recumbency in horses(11)",
+                "Palpate the musculoskeletal structures to assess tissue temperature, mobility, and tension(8)",
+                "Examine horses\u2019 hooves -The hoof provides the first line of defense against ground-impact  shock(8) -Inadequate hoof integrity can contribute to repetitive microtrauma elsewhere"
+            ],
+            "posture": "Assess for symmetry and alignment \u2013Quantitative assessment of static weight-bearing  and distribution in small animals may be assessed by placing one paw on each of four bathroom weigh scales, or with one paw on a sphygmomanometer cuff inflated to a specific pressure(3) \u2013Quadruped biofeedback systems using pressure -sensing pads may be used where available(3)",
+            "range of motion": "Measure AROM and PROM as indicated using goniometer \u2013When measuring PROM, the clinician should take care to eliminate the effects of passive insufficiency (the inability of a 2-joint  muscle to stretch to allow full ROM of both joints simultaneously)(3)",
+            "self-care activities of daily living": "Assess animal\u2019s ability to perform activities such as eating, drinking, grooming, and eliminating(3) \u2013There are many functional scores and scales available; however, most lack evidence of reliability, validity, or correlation(3) -Canine FIM -Canine Timed Up and Go (TUG) test -Bioarth Functional Evaluation Scale",
+            "reflex testing": "",
+            "sensory testing": "Sensory examination is best done in a quiet room free of distractions. Cutaneous testing may be done with a small pinch applied only to the skin, taking care to avoid deeper structures. A small instrument such as a hemostat can be used. The pinch should be gentle at first and gradually increased until the animal responds. The response may be a reflex (e.g., withdrawal) or an indication of conscious awareness of the stimulus (e.g., growl, cry, bite). Stimulating an area of normal innervation first may allow the clinician to observe the animal\u2019s normal response, before testing the area of suspected abnormality(12)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Manual tests based on the amount of hypo-  or hypermobility and quality of movement at a joint and pain provocation tests similar to those used in humans are supported by research for use in horses(13) and dogs(7) -Pelvis alignment \u2013 simultaneous palpation of ischial tuberosities and iliac crests  -Piriformis pain tolerance and sacrotuberous ligament palpation \u2013 manually strumming over each of the piriformis muscles -Pain provocation stress tests \u2013 a thigh thrust technique modified from human use is hypothesized to stress the dorsal sacroiliac ligaments -Kinematic testing \u2013 passive flexion and extension of the hip while the examiner palpates the quality and quantity of movement of the iliac spines -Trendelenburg testing \u2013 in dogs, this human test is modified by slowly lifting one hind leg off the ground and watching for a hip drop or body shift -Flexibility testing \u2013 evaluation of the passive elongation of the hamstrings, piriformis, sartorius, iliopsoas, adductors, latissimus dorsi, tensor fascia latae, and obliques abdominals should be compared side to side -Shear tests \u2013translatory  movement assessment requiring ability to detect end feels",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Manual therapy is generally contraindicated in the presence of fractures, acute inflammatory or infectious joint disease, osteomyelitis, ankylosis, bleeding disorders, progressive neurologic signs, and primary or metastatic tumors(14)",
+                "Severe articular instability (e.g., joint subluxation) is a contraindication for manipulation(14)",
+                "In horses, static compression caused by vertebral malformation and dynamic lesions caused by vertebral segment hypermobility are contraindications for cervical manipulation; however, adjacent hypomobile regions may be treated with mobilization or manipulation(14)",
+                "Hydrotherapy is contraindicated in the presence of fever, acute joint infections, metabolic diseases, open wounds, or severe skin changes",
+                "No animal should be left unattended during hydrotherapy due to aspiration and drowning risk(2)",
+                "Harnesses or flotation devices(6) should be used",
+                "Hydrotherapy may be an uncommon modality to use with cats, in comparison to dogs and horses, but is not contraindicated and may be achievable and beneficial in some cases(2)",
+                "The therapist should accompany the nervous cat into the water to provide assistance and reassurance",
+                "Duration of hydrotherapy sessions should initially be short (e.g., 5 minutes) and gradually increased as tolerance improves(6)",
+                "Horses are naturally claustrophobic and may require time to adjust to this type of exercise. Mild sedation may be required for the initial underwater sessions(8)",
+                "Horses may overheat if the exercise is too strenuous or the water too warm",
+                "The water supply for underwater treadmills must be filtered, chemically treated, and kept around 62\u00b0C(8)",
+                "The primary precaution for use of cryotherapy is the avoidance of frostbite",
+                "Inspecting the skin every few minutes and avoiding prolonged application is recommended",
+                "It is difficult to check skin color on animals because of pigmentation and hair. Use of a timer is recommended, and ice should never be applied directly on the animal",
+                "Presence of cardiac or respiratory disease",
+                "Uncovered open wounds",
+                "Ischemic areas",
+                "Risk of overheating while immersed in heated whirlpool",
+                "Use caution in areas of decreased sensation",
+                "Skin response is difficult to monitor because of pigmentation and hair",
+                "Open or infected wounds ",
+                "Electric heating pads and infrared lamps pose a higher risk of burns than warm water, and should not be used on sedated, anesthetized, or insensate animals",
+                "Active bleeding",
+                "Acute inflammation",
+                "Cardiac insufficiency",
+                "Impaired circulation in the area to be treated",
+                "Fever",
+                "Malignancy",
+                "Poor body heat regulation",
+                "Avoid direct exposure to cardiac pacemakers, carotid sinus, cervical ganglia, eyes, ears, heart, lumbar and abdominal areas in pregnant animals, testes, and contaminated wounds",
+                "Avoid the physes in immature animals",
+                "Areas with bony prominences, decreased blood circulation, acute injuries, and areas of decreased sensation",
+                "Plastic and metal implants",
+                "Unlike human patients, animals cannot tell the therapist if they begin to feel discomfort or overheating",
+                "Maintain ultrasound equipment according to the standards and regulations of the relevant regulatory agency, such as the Food and Drug Administration (FDA)in the United States",
+                "Avoid exposure to cardiac pacemakers, the carotid sinus, cervical ganglia, eyes, ears, the heart, lumbar and abdominal areas in pregnant animals, areas near malignant growths, areas of decreased sensation, areas of thrombosis or thrombophlebitis, and animals with seizure disorders and any time active movement is contraindicated(15,27)",
+                "Verify output accuracy and timer accuracy of equipment",
+                "Tissue damage by thermal or mechanical mechanisms can occur if energy levels or number of shocks used are too high",
+                "Shock waves should not be delivered over lung, brain, major blood vessels, nerves, tumors, or a gravid uterus",
+                "ESWT is contraindicated in infectious arthritis, immune-mediated  joint disease, neoplastic disease, acute unstable fractures, and neurologic deficits",
+                "To ensure adequate dosage, the animal\u2019s hair should be clipped, because 50-90%  of the light may be absorbed by the hair",
+                "Avoid treatment over fontanelles or growth plates of immature animals, treatment over malignancies, treatment over photosensitive areas of the skin, and treatment directly into the cornea",
+                "Pregnancy is a precaution"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Manual therapy",
+                "Hydrotherapy",
+                "Precautions for use of cryotherapy(15,27)",
+                "Precautions for use of heat(15)",
+                "Contraindications for use of heat(15)",
+                "Contraindications for use of therapeutic ultrasound(15)",
+                "Precautions for use of therapeutic ultrasound(15,27)",
+                "Contraindications and precautions for the use of electrical stimulation",
+                "Contraindications and precautions for use of extracorporeal shock wave therapy (ESWT)(16)",
+                "Precautions for use of low-level  laser therapy (LLLT)(16)"
+            ]
+        },
+        "diagnosis need for treatment": "Physical therapy is appropriate for many conditions, including arthritis, postoperative conditions, healed fractures, neurological impairments, tendinitis, sprains, and strains, and for general conditioning in order to maximize function and improve activity-specific  performance of animals treatment _ _ MassageIntroduce new stimuli as animal\u2019s comfort level increasesInvolve family members in treatment Decreased functional abilityImprove functional abilityTherapeutic exercise _ Functional activities such as walking up and down hills, agility training, jumping from graduated heights, pulling, retrieving, running, and swimmingGradual return to sporting or work activity as indicatedInstruct owner or trainer in home program of exercise .",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "The rehabilitation team may include a veterinarian, veterinary surgeon, physical therapist, veterinary technician, and physical therapy aide Sporting and work animals may have a rider or driver and/or a trainer or handler Referral to a nutritionist is indicated for obese animals Referral to an animal behavior specialist as indicated",
+        "other considerations": [],
+        "treatment summary": [
+            "Therapeutic exercise \u2013An organized exercise regimen can be beneficial for weight management in obese animals -In a small study conducted in the United States, eight obese dogs were put on a 3-month  weight loss program that included dietary restrictions and exercise. Results showed significant decreases in thoracic and abdominal girth and a mean weight loss of 18.9% of starting weight(17)  -Exercise included lead walks and underwater treadmill exercise -Session duration and treadmill speed were tailored to the capabilities of the animal -Median distance walked was 0.6 miles per session to start and increased sequentially over the study -Owners attended weekly education lectures on pet health during the course of the study -The weight loss obtained was greater than had been previously reported from caloric restriction or drug therapy, which suggests that including exercise and client education may improve the rate of weight loss -Activity through play has been found most effective for increasing activity in obese cats(2) \u2013Strengthening and endurance exercises should follow the overload principle(18) \u2013Principles of specificity should be applied to a conditioning program(18) -Exercises should be selected based on the animal\u2019s function and activity (e.g., sled dogs should be trained pulling sleds, not swimming) \u2013Adequate rest is required to reduce the risk of overuse injuries(18) \u2013As it has in humans, immobilization has been shown to lead to loss of joint motion in animals(18) -Early protected activity, including exercises promoting joint ROM, may be beneficial(18)",
+            "Hydrotherapy \u2013Hydrotherapy includes swimming and the use of underwater treadmills for active assisted exercise(8,19) -Water depth may be varied when using aqua-treadmills to make use of buoyancy to encourage walking without full weight-bearing(8,19) -The quantity of water in the treadmill unit is raised or lowered to accommodate horses or dogs of different sizes and to vary the amount of weight-bearing -Controlled clinical studies are needed. There is minimal research evidence on the effectiveness of hydrotherapy for leg injuries(19) -Increased healing speed has been reported in a case series",
+            "Modalities \u2013Physical agent modalities can be used as an adjunctive treatment to reduce swelling, relieve pain, enhance healing, increase muscle strength, and alter the mechanical properties of soft tissues in the rehabilitation of animals(27) \u2013Application of cold can be used for acute soft tissue injuries to reduce inflammation and pain -Cold can be applied in many forms, such as tubs of slush, frozen bandages, and ice massage(8,27) -Studies of the application of cold to reduce body or local tissue temperature have found that prolonged or repeated ice water cooling is the most effective for cooling equine limbs(19) -Studies of the effectiveness of cryotherapy in horses are limited(19) \u2013Cold compresses are effective in reducing soft tissue swelling after ligament repair in dogs(20) -A randomized controlled trial compared use of cold compresses, bandaging, and microcurrent electrical stimulation to reduce postoperative tissue swelling -Use of cold compresses alone or with a bandage, or using microcurrent stimulation with a bandage, were more effective than a bandage alone \u2013More research is needed in dogs to determine the amount and duration of tissue cooling with various forms of cold applications(27) -The recommended method of cold application depends on the therapeutic goal, the stage of healing, and the location and size of the area to be treated \u2013Various heating modalities may be used to increase blood flow, tissue metabolism, and tissue extensibility(19) -Generally gel packs and water baths elevate tissue temperature close to the surface only, with minimal effects more than 1.5-2  cm under the skin(19) -Therapeutic ultrasound is primarily used to produce deeper heating (1.0-3.0  cm depth of penetration with 3.3 MHz US, and 2.0-5.0  cm depth of penetration with 1.0 MHz US)(27) \u2013Therapeutic ultrasound -Therapeutic ultrasound can be used to produce thermal effects such as increased blood flow, decreased pain, and increased flexibility in deep tissue(8,19)  -Studies on the effect of ultrasound on equine tendon healing indicate that treated tendons had better clinical results, less degeneration, and less inflammation than controls(19) -Case studies also report positive results of ultrasound in a variety of musculoskeletal conditions in horses, but no control groups were available(19) -A coupling medium, such as a commercially available coupling gel pad cushion, must be placed between the sound head and the tissue surface(27) \u2013LLLT -There is no evidence for clinical effectiveness of LLLT in horses(19) -In vitro studies have found some thermal effects on cartilage healing(19) -Controlled clinical testing in horses is required \u2013Electrical stimulation can be used for pain control and for muscle strengthening(27) -There are few high-quality  studies of the use of transcutaneous electrical nerve stimulation (TENS) for pain relief in veterinary medicine(27) -A combination of dietary management and intensive physiotherapy that included TENS was effective for reducing disability in a study that involved obese dogs with osteoarthritis -Pain relief from TENS application in dogs is reported to be greatest immediately after treatment -Further study of use of TENS in dogs is needed to establish its effectiveness and appropriate parameters -Electrical stimulation for muscle strengthening (neuromuscular electrical stimulation [NMES]) has numerous applications in small animals, including to prevent atrophy postoperatively(27) -A muzzle may need to be applied to the animal during the initial treatment. In some cases, tranquilization may be necessary -Most dogs tolerate NMES well, but some may find the sensation unpleasant and vocalize or try to run -The current should be turned up very slowly to allow the dog to get used to the sensation gradually \u2013Electro acupuncture has been reported to be effective for pain relief in animals(21,22,23) -Electro acupuncture can reduce postoperative analgesic requirements in dogs(21) -Based on a randomized controlled trial in Brazil involving 30 dogs undergoing mastectomy -Dogs were randomly assigned to receive morphine, electro acupuncture, or sham treatment -Supplemental morphine was administered if postoperative pain was not sufficiently controlled based on a numerical rating scale that incorporated heart rate, respiration rate, arterial blood pressure, salivation, vocalization, agitation, and response to palpation -A combination of conventional medicine and either electro acupuncture or acupuncture may be beneficial for treatment of intervertebral disc herniation in dogs(22) -Based on a study conducted in South Korea that included 80 paraplegic dogs -The combination of electro acupuncture or acupuncture with conventional medicine was more effective than conventional medicine alone in recovering ambulation, relieving back pain, and decreasing relapse in a retrospective study -Conventional medicine consisted of prednisone therapy \u2013ESWT has been used in horses for treating ligament desmitis, tendinopathies, navicular disease, back pain, osteoarthritis, and stress fractures, and in dogs to treat tendinitis, desmitis, spondylosis, nonunion fractures, and osteoarthritis(16) -The animal typically is sedated for treatment with ESWT",
+            "Manual therapy \u2013Most of the current knowledge about equine manual therapy is extrapolated from human techniques and applied to horses \u2013Manual therapy may help in the management of select musculoskeletal injuries in performance horses and in musculoskeletal conditions that are chronic, recurring, or not responding to conventional veterinary care \u2013Manual therapy techniques are considered to produce physiological effects in local tissues, on sensory and motor components of the neuromusculoskeletal system, and at a psychological or behavioral level(14) -Techniques used with horses include therapeutic touch for pain; massage for muscle hypertonicity, soft tissue restriction, and pain; stretching for soft-tissue  restriction and joint stiffness; soft-tissue  mobilization for soft-tissue  restriction and pain; joint mobilization for joint stiffness and pain; and joint manipulation for joint stiffness, pain, and muscle hypertonicity(14)  -In horses, massage therapy has been shown to reduce stress-related  behavior(14) -Joint mobilization typically is applied with oscillatory forces within physiological ROM and graded by the amount of available joint motion used(14) -Tui na , an ancient Chinese form of acupressure, uses techniques of \u201cdredging\u201d or clearing the meridians through grasping, holding, kneading, pressing, pounding, pushing, rolling, and rubbing, to which animals are highly responsive(26) -There are 11 different hand techniques (e.g., Tui Fa, Rou Fa ), similar to massage, each with a subset of at least three different movement patterns, which affect the meridians and specific acupoints -Movement techniques are soothing and repetitive -Manipulation is characterized by application of high-velocity,  low-amplitude  thrusts that move a joint or segment beyond its physiological ROM -Anecdotal and clinical evidence suggests that manipulation is an effective adjunctive treatment for musculoskeletal disorders in horses(14) -Manipulation is thought to be more effective than mobilization for restoring normal joint motion and thus decreasing the risk of reinjury(14) \u2013Both spinal mobilization and spinal manipulation therapy applied to horses have been found to improve spinal flexibility -In a United States study that included 24 actively ridden horses, dorsoventral displacement of the trunk increased after mobilization and manipulation(24) -Spinal mobilization had a delayed effect on increasing flexibility, whereas manipulation had an immediate effect and produced larger increases in displacement",
+            "Neurological rehabilitation \u2013Physiotherapy techniques adapted from those used in humans have been reported to be effective in treating animals with neurological disorders -A case report from Finland reported the successful use of physiotherapy to aid recovery of a 2-week-old foal with generalized tetanus(11) -The foal presented in a recumbent position and demonstrated extension and tetany of all four limbs, the head, and the neck when lifted to a standing position. V oluntary movement was not possible due to the tetany and hyperresponsiveness to tactile and auditory stimuli -Physiotherapy goals included reducing sensitivity to stimuli; treating pain resulting from spasticity and spasms; reducing spasticity and inhibiting extensor tone; preventing abnormal positions in limbs and torso; preventing respiratory complications, skin lesions, and secondary trauma from recumbency; achieving normal ROM; and enabling voluntary movement -Treatment included desensitization through touch and movement, positioning, massage and PROM exercises, weight-bearing  with use of standing frame, proprioceptive neuromuscular facilitation (PNF), stretching, active exercise, respiratory physiotherapy, and manual facilitation techniques -Treatment lasted 6 weeks and was divided into 3 phases: passive phase, assistive phase, and active phase -At 6- and 12-month  follow-up  examinations, the foal had no detectable deficits . Problem Goal Intervention Expected Progression Home Program  Pain Reduce pain Therapeutic modalities _ Positioning _ _ Ice _ _ Heat _ _ TENS(10) _ _ Manual therapy _ Massage, acupressure(27) _ _ PROM and stretchesDepends on underlying conditionInstruct client in home use of modalities and positioning Edema Reduce or prevent edemaPositioning _ (e.g., elevation of limb) _ _ Therapeutic modalities _ Cold (acute) _ _ Heat (residual) _ _ Manual therapy _ Massage, acupressure(27) _ _ Therapeutic exercise _ AROM as indicatedProgress as indicated Instruct client in home use of modalities and positioning  Impaired gait Improve gait Therapeutic exercise _ Weight-bearing exercises _ _ Weight-shifting exercises _ _ Treadmill walking in or out of pool _ _ Controlled walking on a lead with verbal commands(6)Progress as indicated by animal\u2019s condition _ _ Galloping, running, and acceleration and deceleration on different terrains should be introduced gradually _ _ Progression depends on many factors, including age, physical abilities of owner, and resources(6)Instruct owner or trainer in home program of exercise Decreased strength Increase strength Therapeutic exercise _ Core stabilization exercises (e.g., exercise ball) _ _ Active exercises _ _ Resisted exercises (e.g., Theraband)(4) _ _ Electrotherapeutic modalities _ Neuromuscular electrical stimulation(4,8) _ _ HydrotherapyProgress as indicated by the condition. Progression depends on many factors, including age, physical abilities of owner (dogs) and resources(6)Instruct owner or trainer in home program of exercise Obesity Increase physical activityTherapeutic exercise _ Activity through play (cats) _ _ Hydrotherapy with or without treadmill (dogs, horses) _ _ Walking on leadGradual increase in intensity, duration, and frequency of activityInstruct owner or trainer in home program of exercise  Reduced proprioception Improve proprioception Therapeutic exercise (6) _ Proprioceptive retraining _ _ 3-legged standing or diagonal standing done on unstable surface (wobble board, trampoline) _ _ Taping to enhance sensorimotor system(13) and improve control of joint in horsesGradually decrease support (e.g., of harness) and stability of surfaceInstruct owner or trainer in home program of exercise Open wounds Wound healing Electrotherapeutic modalities _ Some small studies found a positive effect of pulsed nonthermal ultrasound on wound healing, but evidence is lacking(10) _ _ Research supports use of electrical stimulation for facilitation of healing(10) _ _ The most effective parameters have not been identified _ _ Protection and pressure reliefProgress as indicated by conditionProvide instructions and equipment for pressure relief and wound protection such as padding, \u201cdonuts\u201d to encircle bony prominences, splints or bandages as indicated Compromised respiratory functionMaintain bronchial hygiene and re-expand atelectasisChest physiotherapy _ Postural drainage, percussion, vibrations, positioning, and active exercise(10)Progress as indicated depending on cause of respiratory complicationsOwners of small animals may be instructed in positioning techniques and active exercises  Anxiety, reduced motivationReduce anxiety, promote confidenceTherapeutic strategies _ Gentle approach to"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes": [
+            "Weight loss",
+            "Increased strength",
+            "Increased ROM",
+            "Improved functional ability",
+            "Decreased pain and edema",
+            "Improved athletic performance",
+            "Quicker recovery and healing"
+        ],
+        "outcome measures": [
+            "There is a void in published literature regarding outcome measures for animal rehabilitation practice",
+            "Modified versions of valid standardized questionnaires commonly used in physical therapy can be applied but should firstbe validated to kinetic, kinematic, diagnostic imaging, and other objective measures(3)"
+        ]
+    },
+    "maintenance or prevention": [
+        "A home program may be beneficial for maintenance of gains obtained",
+        "Pet owners can be trained to apply massage, PROM, and exercises Specialized exercise equipment (e.g., exercise balls) and assistive devices can be purchased for home use",
+        "Obese animals are at increased risk for injuries, orthopedic disease,(25) diabetes,(25) and pressure sores(10) Attaining and maintaining ideal body weight is recommended as a preventive measure Client Education",
+        "Certification programs and continuing education at the Canine Rehabilitation Institute website, http:// caninerehabilitationinstitute.com",
+        "Complementary veterinary medicine. American Animal Hospital Association website,https://www.aaha.org/pet_owner/ pet_health_library/general_health_care/complementary_veterinary_medicine.aspx Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on July 29, 2016.  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Rodwell S. Animal physiotherapy. Vet Rec. 2009;165(4):418. (X)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Sharp B. Feline physiotherapy and rehabilitation: 1. Principles and potential. J Feline Med Surg . 2012;14(9):622-632.  doi:10.1177/1098612X12458209. (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Hesbach AL. Techniques for objective outcome assessment. Clin Tech Small Anim Pract . 2007;22(4):146-154.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Marcellin-Little  DJ, Levine D, Taylor R. Rehabilitation and conditioning of sporting dogs. Vet Clin North Am Small Anim Pract . 2005;35(6):1427-1439.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Adamson C, Levine D, Millis DL, Marcellin-Little  DJ. Assistive devices, orthotics and prosthetics. Vet Clin North Am Small Anim Pract . 2005;35(6):1441-1451.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Saunders DG. Therapeutic exercise. Clin Tech Small Anim Pract . 2007;22(4):155-159.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Edge-Hughes  L. Hip and sacroiliac disease: selected disorders and their management with physical therapy. Clin Tech Small Anim Pract . 2007;22(4):183-194.  doi:10.1053/ j.ctsap.2007.09.007. (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Porter M. Equine rehabilitation therapy for joint disease. Vet Clin North Am Equine Pract . 2005;21(3):599-607.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Hesse KL, Verheyen KL. Associations between physiotherapy findings and subsequent diagnosis of pelvic or hindlimb fracture in racing thoroughbreds. Equine Vet J . 2010;42(3):234-239.  doi:10.2746/042516409X478479. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hanks J, Spodnick G. Wound healing in the veterinary rehabilitation patient. Vet Clin North Am Small Anim Pract . 2005;35(6):1453-1471.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Mykkanen AK, Hyytianen HK, McGowan CM. Generalised tetanus in a 2-week-old  foal: use of physiotherapy to aid recovery. Aust Vet J . 2011;89(11):447-451. doi:10.1111/j.1751-0813.2011.00845.x.  (C)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Bailey CS, Kitchell RL. Cutaneous sensory testing in the dog. J Vet Intern Med . 1987;1(3):128-135.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "McGowan CM, Stubbs NC, Jull GA. Equine physiotherapy: a comparative view of the science underlying the profession. Equine Vet J . 2007;39(1):90-94.  (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Haussler KK. The role of manual therapies in equine pain management. Vet Clin North Am Equine Pract . 2010;26(3):579-601.  doi:10.1016/j.cveq.2010.07.006. (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Steiss JE, Levine D. Physical agent modalities. Vet Clin North Am Small Anim Pract . 2005;35(6):1317-1333.  (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Millis DL, Francis D, Adamson C. Emerging modalities in veterinary rehabilitation. Vet Clin Small Anim . 2005;35:1335-1355.  (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Chauvet A, Laclair J, Elliot DA, German AJ. Incorporation of exercise, using an underwater treadmill, and active client education into a weight management program for obese dogs. Can Vet J . 2011;52(5):491-496.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Marcellin-Little  DJ, Levine D, Canapp SO, Jr. The canine shoulder: selected disorders and their management with physical therapy. Clin Tech Small Anim Pract . 2007;22(4):171-182.  doi:10.1053/j.ctsap.2007.09.006. (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Buchner HHF, Schildboeck U. Physiotherapy applied to the horse: a review. Equine Vet J . 2006;38(6):574-580.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Rexing J, Dunning D, Siegel AM, Knap K, Werbe B. Effects of cold compression, bandaging, and microcurrent electrical therapy after cranial cruciate ligament repair in dogs. Vet Surg. 2010;39(1):54-58.  doi:10.1111/j.1532-950X.2009.00620.x.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Gakiya HH, Silva DA, Gomes J, Stevanin H, Cassu RN. Electroacupuncture versus morphine for the postoperative control pain in dogs. Acta Cir Bras . 2011;26(5):346-351.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Han HJ, Yoon HY, Kim JY, et al. Clinical effect of additional electroacupuncture on thoracolumbar intervertebral disc herniation in 80 paraplegic dogs. Am J Chin Med . 2010;38(6):1015-1025.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Cassu RN, Luna SP, Clark RM, Kronka SN. Electroacupuncture analgesia in dogs: is there a difference between uni- and bi-lateral stimulation? Vet Anaesth Analg . 2008;35(1):52-61.  (RCT)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Haussler KK, Martin CE, Hill AE. Efficacy of spinal manipulation and mobilisation on trunk flexibility and stiffness in horses: a randomised clinical trial. Equine Vet J Suppl . 2010;38:695-702.  doi:10.1111/j.2042-3306.2010.00241.x.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Sharp B. Feline physiotherapy and rehabilitation: 2. Clinical application. J Feline Med Surg . 2012;14(9):633-645.  doi:10.1177/1098612X12458210. (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Jones R. Four-legged  clients\u2026and the body workers who care for them. Massage Bodywork . 2013;28(4):96-101.  (X)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Hanks J, Levine D, Bockstahler B. Physical agent modalities in physical therapy and rehabilitation of small animal. Vet Clin North Am Small Anim Pract . 2015;45(1):29-44. doi:10.1016/jcvsm.2014.09.002. (RV)"
+        }
+    ]
+}

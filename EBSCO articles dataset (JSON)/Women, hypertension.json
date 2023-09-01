@@ -1,0 +1,481 @@
+{
+    "metadata": {
+        "title": "Hypertension in Women -Take at least two readings, one minute apart. Suggested times are in the morning before taking medications and before dinner \u2013Postural changes in blood pressure should be measured in older adults to diagnose postural hypotension (or orthostatic hypotension) -For more information on orthostatic hypotension, see Clinical Review\u2026Orthostatic Hypotension; CINAHL Topic ID Number: T908170    \u2013Assess HR, BP, pulse oximetry, and respiratory rate regularly pre/during/post activity; use Borg Rating of Perceived Exertion (RPE) Scale if indicated -Monitor BP at the start and end of each session (and throughout sessions as indicated) with appropriately sized BP cuff and well-calibrated  sphygmomanometer -Women with low cardiorespiratory fitness levels are likely to have a higher BP response during submaximal exercise than women with higher cardiorespiratory fitness levels \u2022Circulation:  Assess pulse bilaterally in all four extremities; note any discrepancies or abnormalities(3) \u2022Functional mobility  (including transfers, etc.): Assess bed mobility, transfers, and functional tasks to determine the amount of assistance needed for the patient to perform each activity as indicated \u2013Test static and dynamic activities \u2013Timed Up & Go (TUG) test: a measurement of mobility; includes tasks such as standing from a seating position, walking, turning, stopping, and sitting down, all of which are important for independent mobility(12) \u2013FIM\u2013an  18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(13) \u2022Gait/locomotion:  Observe the patient\u2019s gait and ability to climb stairs (assisted or unassisted) \u2013Note use of orthoses or ambulatory aids for walking \u2013Before prescribing a walking exercise program, assess ambulatory function, including synchrony of limb movements, walking posture, and gait speed, to determine patient safety during walking \u2013Dynamic Gait Index (DGI) for an objective measure of safety during walking \u2013Assess walking speed (preferred and maximum)using 10-meter walk test (10MWT) \u2022Joint integrity and mobility \u2013Assess joint integrity and mobility as indicated (e.g., in patients with comorbidities or complications such as edema, fluid retention, or obesity) \u2013HTN is unlikely to affect joint integrity or mobility; refer to the physician if abnormalities or pain in the joints is noted \u2022Motor function (motor control/tone/learning):  Assess fine and gross motor function of the upper and lower extremities; describe the quality of movement \u2022Muscle strength:  Assess muscle strength in functional tasks \u2013Use manual muscle testing (MMT) to evaluate strength in upper and lower extremities provided there are no tone or coordination abnormalities or muscle contractures \u2022Observation/inspection/palpation: Inspect for pedal edema, distended veins, facial flushing \u2022Posture:  Document static/dynamic posture in both sitting/standing throughout a variety of tasks \u2013Note posture with/without adaptive equipment \u2022Range of motion:  Assess AROM and PROM of all extremities; document any limitations in ROM \u2022Special tests specific to the diagnosis \u2013Quality of life -The Short Form Health Survey (SF-36)  evaluates overall independence, emotional and mental health, limitations to previous roles, and social status Assessment/Plan of Care",
+        "synonyms": [
+            "high blood pressure in women",
+            "primary hypertension in women",
+            "essential hypertension in women",
+            "idiopathic hypertension in women"
+        ],
+        "anatomical location body part affected": [
+            "Heart and blood vessels/cardiovascular system, cerebrovascular system, kidneys, optic fundi"
+        ],
+        "area of specialty": [
+            "acute care",
+            "home health",
+            "cardiovascular rehabilitation",
+            "geriatric rehabilitation",
+            "women\u2019s health"
+        ],
+        "description": [
+            "Hypertension (HTN) is persistent elevated arterial blood pressure (BP) (two or more readings of elevated arterial BP),which can go undetected for years.(1,2) Systolic BP and diastolic BP are typically both elevated, although older adults have increased risk for isolated systolic HTN(1,2)",
+            "BP for adults (aged 18 and older) is classified in the following manner by the American Heart Association and the Seventh Joint National Committee (JNC 7): \u2013Normal: systolic BP < 120 mm Hg; diastolic BP < 80 mmHg(1,3) \u2013Prehypertension: systolic BP 120\u2013139  mmHg; diastolic BP 80\u201389 mmHg(1,3) -Prehypertension is not a disease category, but a designation provided to identify those individuals who are at increased risk of developing HTN; these individuals are not candidates for drug therapy and should be advised to practice lifestyle modification to lower risk of HTN(1) \u2013HTN stage 1: systolic BP 140\u2013159  mm Hg; diastolic BP 90\u201399  mm Hg(1,3) \u2013HTN stage 2: systolic BP \u2265 160 mm Hg; diastolic BP \u2265 100 mm Hg(1,3)",
+            "Compared with previous HTN guidelines, the Eighth Joint National Committee (JNC 8) guidelines published in 2014 have higher BP goals(20) \u2013In patients 60 years or older who do not have diabetes or chronic kidney disease, the goal BP level is now < 150/90 mm Hg \u2013In patients 18 to 59 years of age without major comorbidities, and in patients 60 years or older who have diabetes, chronic kidney disease, or both conditions, the new goal BP level is < 140/90 mm Hg",
+            "The difference in the two measures listed above has caused much dissension in the HTN community, with the American Heart Association (AHA) and American College of Cardiology (ACC) not accepting the JNC 8 recommendations(6) \u2013AHA cites a study conducted in the United States that demonstrated that persons aged 60 years and older who achieved a systolic BP < 140 mmHg had significantly better outcomes than persons achieving a systolic BP\u2265140 mmHg(23) \u2013The Working Group on Women\u2019s Cardiovascular Health strongly disagrees with the JNC 8 recommendations to raise the threshold of initiating treatment for older persons, especially because of the effect on women, who are the majority of the older adult population with HTN. They note that the new recommendations put women, especially Black women, at unnecessary excess risk and increase the existing sex and racial/ ethnic cardiovascular disease disparities(27) -This group suggests adhering to a BP goal of < 140/90 for older women ",
+            "HTN increases the risk of cardiovascular disease; the higher an individual\u2019s BP, the greater the risk of myocardial infarction (MI), heart failure, stroke, and kidney diseases(1,2)",
+            "HTN in women \u2013In the past, being female was thought to be protective against HTN(6) -Systolic BP rise is more steep in aging women compared with men, which may be related to the hormonal changes during menopause(6) \u2013Women are more likely than men to be aware that they have HTN,seek treatment for HTN, and have it controlled(1) -Still, many women do not realize that even though they may have had normal BP throughout their lives until menopause, after menopause the chance of developing HTN increases substantially(21)",
+            "HTN in postmenopausal women \u2013HTN that occurs in the early menopausal years is the most important risk factor for coronary heart disease(21) -Nearly half of all adults with HTN are women. At ages 65 and older, women are more likely than men to develop HTN \u2013Menopause and postmenopausal hormone replacement therapy can affect BP in women; however, the exact effects on BP are unknown. Researchers have found that a menopause-related increase in BP can be attributed to several factors, including estrogen withdrawal, overproduction of pituitary hormones, weight gain, and a combination of these factors(1)",
+            "HTN and premenopausal women \u2013Women taking oral contraceptives can experience a small but measurable increase in BP; a small percentage of women on oral contraceptives experience the onset of HTN(1) \u2013There is a lack of research on premenopausal women and HTN other than on HTN in pregnancy(24) -Authors comparing the lifetime risks among different groups for development of HTN concluded that the prevalence of BP of 130/80 mmHg or greater is very high in young adulthood(34) \u2013Hypertensive disorders in pregnancy are a significant cause of maternal, fetal, and neonatal morbidity and mortality and require close monitoring by the patient\u2019s physician. HTN during pregnancy is classified into one of five categories: chronic HTN, preeclampsia, chronic HTN with superimposed preeclampsia, gestational HTN, and transient HTN(1,4,5) \u2013Women with chronic HTN can be at risk for severe postpartum HTN (i.e., an emergency room visit, hospital admission, or clinic visit with a diagnosis of BP 160/110 within 8 weeks of delivery)(28) -Based on a retrospective cohort study conducted in the United States of 235 women with chronic HTN, of whom 13% developed severe postpartum HTN -Those with severe postpartum HTN were more likely to have had severe preeclampsia in their recent pregnancy, a slightly higher systolic BP at discharge from the hospital, and to have been discharged on antihypertensive medications -Most cases of severe postpartum HTN occurred within 7\u201310  days of hospital discharge",
+            "For detailed information on HTN, see Clinical Review\u2026Hypertension: An Overview ; CINAHL Topic ID Number: T709014; for detailed information on HTN in older adults, see Clinical Review\u2026Hypertension in Older Adults; CINAHL Topic ID Number T709016"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "I10": {
+                "base": "essential (primary) hypertension",
+                "I10.0": "benign hypertension",
+                "I10.1": "malignant hypertension"
+            },
+            "I11": {
+                "base": "hypertensive heart disease",
+                "I11.0": "hypertensive heart disease with (congestive) heart failure",
+                "I11.9": "hypertensive heart disease without (congestive) heart failure"
+            },
+            "I11.9": {
+                "base": "hypertensive heart disease without (congestive) heart failure",
+                "I12.0": "hypertensive renal disease with renal failure",
+                "I12.9": "hypertensive renal disease without renal failure"
+            },
+            "I13": {
+                "base": "hypertensive heart and renal disease",
+                "I13.0": "hypertensive heart and renal disease with (congestive) heart failure",
+                "I13.1": "hypertensive heart and renal disease with renal failure",
+                "I13.2": "hypertensive heart and renal disease with both (congestive) heart failure and renal failure",
+                "I13.9": "hypertensive heart and renal disease, unspecified"
+            },
+            "I15": {
+                "base": "secondary hypertension",
+                "I15.0": "renovascular hypertension",
+                "I15.1": "hypertension secondary to other renal disorders",
+                "I15.2": "hypertension secondary to endocrine disorders",
+                "I15.8": "other secondary hypertension",
+                "I15.9": "secondary hypertension, unspecified"
+            },
+            "010-919": "unspecified pre-existing hypertension complicating pregnancy, unspecified trimester",
+            "R03.0": "elevated blood-pressure reading, without diagnosis of hypertension (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this procedure. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "HTN often is asymptomatic,and the physical examination of a patient with HTN typically is unremarkable.(3,6) The following signs and symptoms can be present in some patients with HTN:",
+            "Abnormal appearance of the skin(3) \u2013Caf\u00e9-au-lait  spots associated with neurofibromatosis \u2013Uremic pruritus associated with renal failure \u2013Striae (reddish stretch marks) associated with Cushing\u2019s syndrome",
+            "Carotid bruits (can indicate coronary artery stenosis), distended veins, or enlarged thyroid gland observed during examination of the neck(3)",
+            "Abdominal mass(3)",
+            "Examine arterial pulses \u2013 absent femoral pulses and BP greater in upper extremities than in lower extremities suggest aortic coarctation(3)",
+            "Truncal obesity associated with Cushing\u2019s syndrome(3)",
+            "Pedal edema associated with congestive heart failure (CHF)(3)",
+            "Symptoms of malignant HTN include neurological changes (e.g., vision loss, confusion, headache, seizures, coma), acute kidney injury, nausea, and vomiting; malignant HTN is a medical emergency and requires immediate intervention(6)",
+            "Symptoms associated with secondary HTN (HTN with a known, identifiable cause) include the following:(1) \u2013headache, palpitations, excessive perspiration \u2013 associated with pheochromocytoma \u2013weakness, polyuria \u2013 associated with hyperaldosteronism \u2013claudication of lower extremities \u2013 associated with coarctation of aorta \u2013loud snoring, daytime somnolence, morning confusion \u2013associated with sleep apnea \u2013Also look for abrupt onset of HTN (< 25, > age 60), episodes of hypertensive crisis, sudden worsening of blood pressure control, and unresponsiveness to medical prescription(3)",
+            "Not all women who develop preeclampsia during pregnancy will have noticeable symptoms. When symptoms do occur, they might include the following:(21) \u2013swelling \u2013sudden weight gain \u2013headaches \u2013changes in vision Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop the examination and notify the physician if at any time the patient reports chest pain, shortness of breath, or dizziness ",
+            "It is recommended that a submaximal incremental aerobic exercise test on a treadmill or cycle ergometer be conducted to assess the patient\u2019s BP response to exertion. Terminate the test if systolic BP exceeds 250 mmHg or diastolic BP exceeds 115 mmHg(10)",
+            "Exercise testing should be symptom-limited;  terminate an exercise test if the patient reports cardiorespiratory symptoms such as lightheadedness, chest pain, or dyspnea before reaching a fatigue endpoint"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  in most cases of htn  %   there is no identifiable cause; this type of htn is referred to as primary  or essential  htn. ,, htn with a known, identifiable cause is referred to as secondary htn ,,": [],
+        "pathogenesis": [
+            "Excess sodium chloride and inadequate potassium is fundamental to the pathogenesis of essential HTN(6)\u2013The human kidney conserves sodium and eliminates potassium; the imbalance of sodium and potassium in many dietsresults in vascular smooth-muscle  contraction, increased peripheral vascular resistance, and HTN(6)",
+            "Two primary interconnected mechanisms are felt to contribute the most to age-related  HTN: chronic, low-grade  infectionand increased cellular oxidative stress. Both have been associated with endothelial dysfunction(35)"
+        ],
+        "risk factors": [
+            "Older age(1,6)\u2013The prevalence of HTN increases with age; over 50% of persons aged 60\u201369  years and approximately 75% of personsaged 70 years or older are affected(1)\u2013The incidence of HTN increases more rapidly in women than men after the fifth decade of life; the prevalence of HTN inwomen is equal to or exceeds that in men during the sixth decade of life(1)\u2013The highest prevalence rates of HTN in the United States are observed in older Black women, occurring in > 75% ofthose older than 75 years of age(1)",
+            "Cigarette smoking(1,6,7)",
+            "Ethnicity (non-Hispanic  Blacks have the highest rate of HTN in the United States)(6)",
+            "Excess alcohol intake(1,6,7)",
+            "Excess body weight/obesity(1,2,6)",
+            "Excess dietary sodium intake(1,2,6)",
+            "Excessive psychological stress(2)",
+            "Family history of HTN(2,6)",
+            "Geographical location (higher altitudes and colder weather have been associated with increased risk of HTN)(6)",
+            "Inadequate intake of fruits and vegetables(1,6)",
+            "Inadequate intake of potassium(1,6)",
+            "Physical inactivity/low cardiorespiratory fitness(1,2,6)",
+            "Risk factors for hypertensive emergencies (acute elevation of BP with rapid and progressive end-organ  damage) are havinga history of poorly controlled HTN, drug abuse, and noncompliance with antihypertensive medications(9)",
+            "Adolescent pregnancy increased the likelihood of postmenopausal HTN 1.7 times(29)\u2013Based on a Korean study of 2,538 postmenopausal women",
+            "Risk factors for developing preeclampsia include(21)\u2013high BP before becoming pregnant\u2013high BP or preeclampsia in a previous pregnancy\u2013being obese before pregnancy\u2013under age 20 or over age 40\u2013pregnant with more than one baby\u2013diabetes, kidney disease, rheumatoid arthritis, lupus, or scleroderma",
+            "Risk factors for developing chronic HTN after having developed a hypertensive disorder during pregnancy include(30)\u2013early-onset  HTN with end-organ  dysfunction\u2013smoking\u2013higher pre-pregnancy  BMI",
+            "Postmenopausal women\u2013Vitamin D deficiency (i.e., 25(OH) D < 15 ng/mL) was found to be a risk factor for HTN in postmenopausal women inSouth Korea(31)\u2013Caffeinated coffee, decaffeinated coffee, and caffeine are not risk factors for HTN in postmenopausal women(32)-Based on a large prospective study conducted in the United States of 29,985 postmenopausal women who were nothypertensive at baseline and who were followed up for 3 years"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Notify the physician immediately if the patient has experienced a recent onset of nonspecific symptoms (e.g., headache, fatigue, dizziness, nausea, blurred vision) that could indicate a hypertensive emergency or malignant HTN.(9)Presence of grade III or IV retinopathy (exudates, hemorrhages, and papilledema) indicates the possibility of target organ damage and requires immediate lowering of blood pressure.(1) Exercise is contraindicated in these patients",
+        "Exercise is contraindicated in patients with the following conditions:(10) Unstable angina Resting systolic BP > 200 mmHg or resting diastolic BP > 110 mmHg Orthostatic fall in systolic BP with symptoms Critical aortic stenosis Acute systemic illness or fever Uncontrolled atrial or ventricular arrhythmias Uncontrolled sinus tachycardia > 120 beats/min Uncompensated CHF 3rd-degree  atrioventricular block without pacemaker Active pericarditis or myocarditis Recent embolism Thrombophlebitis Uncontrolled diabetes mellitus (DM) Severe orthopedic conditions that would restrict exercise Uncontrolled metabolic conditions (e.g., acute thyroiditis, hypokalemia, hyperkalemia, hypovolemia)",
+        "Postpone physical activity/exercise therapy and notify the physician if resting systolic BP exceeds 200 mmHg(10) resting diastolic BP exceeds 110 mmHg(10) symptoms such as headache or dizziness occur",
+        "Patients with HTN are at higher risk for exercise-related  adverse cardiopulmonary events. Therefore, a medical evaluation that includes exercise stress testing is highly recommended before initiating a vigorous exercise program, especially for women over 55 years of age. However, most patients with HTN can safely begin a low- to moderate-intensity  aerobic activity program such as walking before having been tested for exercise",
+        "Antihypertensive medications should be taken at the prescribed usual time to control BP during physical activity",
+        "Avoid activities that can result in a Valsalva maneuver (forceful exhalation against a closed airway), as these can increase BP",
+        "A woman with HTN who wishes to become pregnant should be advised to consult her doctor first. High BP can be dangerous for both mother and baby and could result in harm to the mother\u2019s kidneys and other organs, low birth weight, and early delivery of the baby(21)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop the examination and notify the physician if at any time the patient reports chest pain, shortness of breath, or dizziness ",
+            "It is recommended that a submaximal incremental aerobic exercise test on a treadmill or cycle ergometer be conducted to assess the patient\u2019s BP response to exertion. Terminate the test if systolic BP exceeds 250 mmHg or diastolic BP exceeds 115 mmHg(10)",
+            "Exercise testing should be symptom-limited;  terminate an exercise test if the patient reports cardiorespiratory symptoms such as lightheadedness, chest pain, or dyspnea before reaching a fatigue endpoint"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Review medical chart and physician reports to ascertain information about the patient\u2019s medical history, including medications, surgeries, complications related to HTN, and pertinent lifestyle information (e.g., smoker, sedentary, salt intake). Document diagnosis date and stage of HTN at diagnosis.(3) Document family history of HTN(3) -Is the patient pregnant or trying to become pregnant? -Where relevant (dependent on age), inquire about menopause status -Has patient gained weight? How much and how recently? -Does patient experience vasomotor or other menopause symptoms (e.g., hot flashes, headaches,insomnia)?",
+                "course of treatment": {
+                    "medical management": "Document medical management, if any, of the patient\u2019s HTN. Medical management of women with HTN includes antihypertensive medications lifestyle modifications; document physician recommendations regarding physical activity, weight loss, and diet advising women with HTN who become pregnant to gain less weight than the average woman during pregnancy to avoid an increased risk of preeclampsia(33)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken as prescribed? Low adherence is an important cause of poor BP control; those with low adherence may be classified into \u201cdiscontinuers\u201d and \u201cpoor users\u201d (i.e., users who take medications irregularly). Are the current medication(s) effectively controlling the patient\u2019s BP? Most patients with HTN will require two or more medications to successfully manage BP.(1) Typical medications for HTN include diuretics (thiazide, loop, and potassium-sparing)(6) beta blockers (e.g., propranolol, atenolol, acebutolol, carvedilol)(7) renin inhibitors (e.g., aliskiren)(6) angiotensin-converting  enzyme (ACE) inhibitors (e.g., captopril, enalapril, lisinopril, fosinopril)(7) angiotensin-receptor  blockers (ARBs) (e.g., irbesartan, candesartan)(7) aldosterone receptor agonists (e.g., spironolactone, eplerenone)(6) calcium channel blockers (e.g., amlodipine, nicardipine, diltiazem, verapamil)(7) alpha blockers (e.g., phentolamine, prazosin)(7) drugs with central sympatholytic action (e.g., methyldopa, clonidine, guanabenz)(6) arteriolar dilators (e.g., hydralazine, minoxidil)(6) Women typically respond to antihypertensive drugs in the same manner as men; however, ACE inhibitors and ARBs are contraindicated in women who are or intend to become pregnant due to the risk of fetal developmental abnormalities(1)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:(1,3)",
+                        "ECG",
+                        "Cardiac stress test",
+                        "Urinalysis",
+                        "Blood glucose",
+                        "Serum potassium, creatinine, and calcium",
+                        "Hematocrit",
+                        "Lipid profile  HDL cholesterol, LDL cholesterol, triglycerides",
+                        "Urinary albumin/creatinine ratio or urinary albumin excretion "
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies and whether or not they help",
+                    "previous therapy": "Document whether the patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms are aggravated or eased) -Are there activities or situations that elevate or reduce the patient\u2019s BP?",
+                "body chart": "Use body chart to document the location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale or 010  scale to assess symptoms at their best and worst and at the moment (specifically address if  pain   is present now and how much) -Pain (e.g., joint pain, muscle pain) is not typically a symptom of HTN and should be further investigated by the patient\u2019s physician",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night -Sleep apnea can cause secondary HTN(1,7)",
+                "other symptoms": "Document other symptoms the patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to the physician (e.g., dizziness, headache, shortness of breath)",
+                "respiratory status": "Note respiratory status -Does the patient require supplemental oxygen? Tracheostomy tube, nasal cannula, or face mask? -Does the patient require mechanical ventilation? Does the patient use noninvasive ventilation? Describe usage -Does the patient become short of breath? If so, when? Standing? Walking? With exercise? When lying flat? -Does the patient have any history of respiratory compromise? Any chronic respiratory conditions such as COPD or asthma? Any limitations to activity due to respiratory problems? -Any history of smoking? Any environmental allergies? Any wheezing or productive cough? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe  __________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Is there a history of cardiovascular disease, including stroke or arterial stenosis? Any prior treatment for HTN?",
+                    "comorbid diagnoses": "Ask the patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs, herbal supplements, and illicit drugs); some side effects include elevated BP Is the patient taking oral contraceptives? Oral contraceptives can cause HTN(3) A small increase in BP occurs in most women taking oral contraceptives; however, a significant increase (above 140/90 mm Hg) is seen in about 5% of women taking oral contraceptives Typically occurs in obese women over age 35 years who have been taking oral contraceptives more than 5 years(7) Is patient on hormone replacement therapy (HRT)? The age-related  decline in hormones at menopause causes arteries to become less elastic In some women,HRT is known to cause HTN, particularly when synthetic hormones are used A Cochrane meta-analysis  provided strong evidence that the use of HRT by postmenopausal women has little or no benefit in the primary or secondary prevention of cardiovascular disease and causes an increase in the risk of stroke and venous thromboembolic events(25) Some NSAIDs increase BP by an average of 5 mmHg and should be avoided in individuals with borderline or elevated BP(7)",
+                    "other symptoms": "Ask patient about other symptoms she may be experiencing "
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -Document amount of physical activity in which the patient engages daily/weekly -Document the nature of the patient\u2019s job, especially if she is sitting for most of the day -Document levels of stress and anxiety associated with patient\u2019s vocational or avocational activities",
+                "functional limitations assistance with ADLs adaptive equipment": "What current assistive or adaptive equipment is available to the patient at home? Can it still be used based on patient\u2019s current level of functioning? -Document both high-  and low-tech  adaptations and equipment",
+                "living environment": " Living environment -With whom does the patient live (e.g., spouse/partner, parents, children, siblings, grandparents, caregivers)? -Is the patient herself the primary caregiver for others (e.g., young children, spouse, or older adult parent requiring significant care)? -Identify if there are barriers to independence in the home; are any modifications necessary? -Inquire about the levels of the home, including stairs, number of floors, etc."
+            }
+        },
+        "relevant tests and measures": {
+            "general": "While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Measure height and weight and calculate BMI; target BMI for patients with HTN is < 25(3)an increased risk of HTN has been found in women with WC\u226588cm(36)increased risk if \u2265 0.5 -In a study examining the correlation between HTN and measures of BMI, WC, and WHtR, WHtR was found to correlate best with HTN(36)",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or use of assistive and adaptive devices (including mobility aids, toileting equipment, and ADL/IADL aids); incorrect use of devices can increase the risk of falls",
+            "balance": "Evaluate static and dynamic balance functionally during ADL tasks involving weight shifting; determine if balance reactions are improved or diminished by antihypertensive medications \u2013Tinetti Balance Scale(11) \u2013Berg Balance Scale \u2013Functional Reach Test",
+            "cardiorespiratory function and endurance": [
+                "According to the American College of Sports Medicine, exercise testing for patients with HTN will depend on the BP level and the presence of other cardiovascular disease risk factors and target organ damage, as well as the intensity of the exercise(10)",
+                "6-minute  walk for distance test (6MWT) for cardiorespiratory endurance while walking(14)",
+                "Refer to physician orders regarding cardiac and exercise limitations",
+                "The AHA makes the following recommendations for taking blood pressure:(37) -Do not smoke, exercise, or drink caffeinated beverages or alcohol within 30 minutes of measurement -Rest in a chair 5 minutes prior to taking measurement. Arm should be supported and at same level as heart. Do not talk. Sit well-supported  with back straight and both feet on the floor -Make sure cuff is right size and that the lower edge does not cross the elbow joint. Use a calibrated instrument to measure -Take at least two readings, one minute apart. Suggested times are in the morning before taking medications and before dinner",
+                "Postural changes in blood pressure should be measured in older adults to diagnose postural hypotension (or orthostatic hypotension) -For more information on orthostatic hypotension, see Clinical Review\u2026Orthostatic Hypotension; CINAHL Topic ID Number: T908170 ",
+                "Assess HR, BP, pulse oximetry, and respiratory rate regularly pre/during/post activity; use Borg Rating of Perceived Exertion (RPE) Scale if indicated -Monitor BP at the start and end of each session (and throughout sessions as indicated) with appropriately sized BP cuff and well-calibrated  sphygmomanometer -Women with low cardiorespiratory fitness levels are likely to have a higher BP response during submaximal exercise than women with higher cardiorespiratory fitness levels"
+            ],
+            "circulation": "Assess pulse bilaterally in all four extremities; note any discrepancies or abnormalities(3)Assess bed mobility, transfers, and functional tasks to determine the amount of assistance needed for the patient to perform each activity as indicated \u2013Test static and dynamic activitiesa measurement of mobility; includes tasks such as standing from a seating position, walking, turning, stopping, and sitting down, all of which are important for independent mobility(12) \u2013FIM\u2013an  18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(13)",
+            "functional mobility": "",
+            "gait locomotion": "Observe the patient\u2019s gait and ability to climb stairs (assisted or unassisted) \u2013Note use of orthoses or ambulatory aids for walking \u2013Before prescribing a walking exercise program, assess ambulatory function, including synchrony of limb movements, walking posture, and gait speed, to determine patient safety during walking \u2013Dynamic Gait Index (DGI) for an objective measure of safety during walking \u2013Assess walking speed (preferred and maximum)using 10-meter walk test (10MWT) Joint integrity and mobility \u2013Assess joint integrity and mobility as indicated (e.g., in patients with comorbidities or complications such as edema, fluid retention, or obesity) \u2013HTN is unlikely to affect joint integrity or mobility; refer to the physician if abnormalities or pain in the joints is notedAssess fine and gross motor function of the upper and lower extremities; describe the quality of movement",
+            "muscle strength": "Assess muscle strength in functional tasks \u2013Use manual muscle testing (MMT) to evaluate strength in upper and lower extremities provided there are no tone or coordination abnormalities or muscle contractures",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Document static/dynamic posture in both sitting/standing throughout a variety of tasks \u2013Note posture with/without adaptive equipment",
+            "range of motion": "Assess AROM and PROM of all extremities; document any limitations in ROM",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to the diagnosis \u2013Quality of life -The Short Form Health Survey (SF-36)  evaluates overall independence, emotional and mental health, limitations to previous roles, and social status",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Note patient\u2019s ability to communicate and level of arousal as well as memory, attention, problem-solving,  and orientation to person, place, time, and situation. Dementia and cognitive impairment occur more commonly in patients with HTN than in persons without HTN(1,7)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "High-intensity  exercise should not be initiated before a patient has had some exposure to low- or moderate-intensity exercise",
+                "systolic BP exceeds 250 mmHg or diastolic BP exceeds 115 mmHg",
+                "systolic BP fails to rise more than 20 mmHg",
+                "systolic BP falls unexpectedly more than 10 mmHg ",
+                "exertional symptoms such as chest discomfort, palpitations, lightheadedness, or shortness of breath present, as they indicate distress",
+                "< 12 days after acute MI",
+                "Unstable angina",
+                "ECG showing new signs/symptoms of MI",
+                "Oxygen saturation less than 85%",
+                "PaO 2 less than 60 mmHg",
+                "Hemoglobin less than 8 g/dL",
+                "Hematocrit less than 26%",
+                "Severe aortic outflow obstruction",
+                "Suspected/known dissecting aneurysm",
+                "Acute myocarditis, pericarditis",
+                "Uncontrolled complex arrhythmias",
+                "Severe CHF",
+                "Recent pulmonary embolus or thrombophlebitis",
+                "Untreated 3rd degree heart block",
+                "Uncontrolled DM",
+                "Acute infection",
+                "Digoxin toxicity",
+                "Persistent hypotension: systolic BP < 90 mmHg(18)",
+                "Uncontrolled HTN: resting systolic BP > 200 mmHg, resting diastolic BP > 110 mmHg(18)",
+                "Since most antihypertensive medications cause vasodilation, hypotension during or after exercise is common, especially when large muscle groups are used. Patients should be advised to avoid sudden changes of position and to keep their feet moving",
+                "Patients taking beta blockers will have an attenuated HR response to exercise and reduced exercise capacity.(10) It is not recommended to measure exercise intensity using HR. Other measures of exercise intensity such as the Borg RPE Scale and/or the Talk Test are more appropriate",
+                "Beta blockers and diuretics may adversely affect thermoregulation and cause hypoglycemia in some persons. Educate patients on signs and symptoms of heat intolerance and hypoglycemia and appropriate precautions",
+                "Patients on diuretics can also experience hypokalemia and other electrolyte imbalances and cardiac dysrhythmias.(10) Some symptoms might be weakness, nausea and vomiting, and excess thirst",
+                "Patients should be instructed not to lift maximum weights, perform isometric contractions, or hold their breath",
+                "No sustained over the head lifting"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Clinicians should be aware that patients with HTN are at increased risk for exercise-related  adverse cardiopulmonary events. However, lack of exercise can contribute to HTN; individually prescribed and supervised submaximal exercise training is generally safe and well tolerated in most patients with HTN(10,15,16)",
+                "Tailor the exercise prescription to fit each patient\u2019s functional capacity and BP response to exertion",
+                "Monitor BP on a regular basis during exercise. According to standard exercise guidelines,(10,15,16) the exercise session should be terminated,and the patient advised to consult his or her physician, if",
+                "To prevent an exaggerated BP response to therapeutic exercise, provide the patient with a thorough orientation to using the prescribed exercise equipment and adequate warm-up  time",
+                "In addition to monitoring BP, use the patient\u2019s perceived exertion and any other symptoms to manage exercise intensity in both aerobic and resistance training",
+                "Educate the patient about cardiac prodromal symptoms: shortness of breath, dizziness, chest discomfort, palpitations",
+                "Exercise contraindications for cardiac patients(17)",
+                "Effects of medications",
+                "Strength-training  precautions",
+                "Rehabilitation professionals should always use their professional judgment regarding the use of modalities",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "The treating clinician must consider each patient\u2019s risk factors and needs to determine if the patient is an appropriate candidate for therapy before initiating a plan of care",
+        "rule out": "The patient\u2019s medical team should determine if the patient\u2019s HTN is essential HTN or secondary HTN(2)",
+        "prognosis": [
+            "In most cases, proper pharmacologic and/or lifestyle intervention can control HTN, although lifelong monitoring with periodic adjustments in treatment usually is required(15,16) ",
+            "Barriers to BP control continue to be system issues, provider issues, patient issues,and behavior issues. Not all physicians are quick to adopt recommended changes based on evidence-based findings(1)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Referral to primary care physician regarding a medical release for an exercise program Referral to a nutritionist for dietary evaluation and recommendations for dietary changes as indicated Referral to psychiatry, psychology, or social work if the patient has significant issues with stress and anxiety Referral to nurses and/or pharmacists for patient education, behavioral and medication counseling, and assessment of adherence to treatment",
+        "other considerations": [
+            "According to a position statement from the AHA, resistance training at a moderate intensity (40\u201360%  of 1-repetition maximum [1-RM])  is safe and effective for individuals with controlled HTN(16)"
+        ],
+        "treatment summary": [
+            "Aerobic exercise training \u2013Graded aerobic exercise training can lower submaximal exercise systolic BP in sedentary women with HTN(19) -Based on an RCT conducted in Malaysia with 18 women, aged 35 to 60 years, who were randomized to either an exercise group or a control group -The participants in the exercise group participated in treadmill exercise 3 times per week for 8 weeks,and the members of the control group continued their usual routine and activities -Heart-rate  monitors were used to ensure that they exercised at 50% of HR reserve for the first 4 weeks and 70% of HR reserve for the second 4 weeks -Thirteen of the 18 participants completed the study -Both groups experienced a significant reduction in resting BP at the conclusion of the study, but only the exercise group had a significant reduction in submaximal exercise systolic BP \u2013The combination of exercise and betablockers may produce cardiac and autonomic adaptations in women with HTN that are not observed with either treatment alone(22) -Based on a randomized controlled study in Canada involving 40 pre- and postmenopausal women \u2013For more information on exercise for women who are postmenopausal, see Clinical Review\u2026Postmenopause and Exercise ; CINAHL Topic ID Number:T901896 \u2013Authors of a 2017 systematic review and meta-analysis concluded that aerobic exercise during pregnancy for 30\u201360 minutes, 2\u20137 times per week is associated with reduced risk of gestational hypertension when compared to sedentary pregnant women(38) -17 RCTs were included with 5075 pregnant women. Seven RCTs contributed to the meta-analysis -The women who exercised also had lower risk of gestational diabetes and cesarean section \u2013Authors of a 2018 systematic review on the effect of physical activity in pregnant women also concluded that physical activity acted as a protective factor against development of gestational hypertensive syndrome(39) -In the 17 articles that were utilized, a reduction in gestational hypertensive syndrome was seen in 64.7% of the studies",
+            "Combined exercise training and resistance exercise training (COM) \u2013Aerobic and resistance exercise together (i.e., COM) was found to improve cardiovascular health in postmenopausal women with HTN(40) -Based on an RCT conducted in South Korea with 20 postmenopausal women with HTN -COM group performed resistance and aerobic exercise for 12 weeks, 3 times a week. Control group did no exercise -The COM group significantly improved in arterial stiffness, blood pressure, and blood markers for cardiovascular risk when compared to the control group \u2013A combined program of aerobic, resistance, and flexibility exercises was found to be preventive for developing HTN and for excessive weight gain during pregnancy(41) -Based on an RCT conducted in the United States involving 765 pregnant women -Women were randomized into a control group (standard care) or an exercise group. The exercise group trained 3 days/ week from weeks 9\u201311  until weeks 38\u201339  of pregnancy -Pregnant women who did not exercise were 3 times more likely to develop HTN and 1.5x more likely to have excessive weight gain when compared to high attenders of the exercise program  . Problem Goal Intervention Expected Progression Home Program Hypertension To reduce systolic and/ or diastolic BPTherapeutic modalities _ Increase aerobic exercise/daily physical activity(19,26,38,39) _ _ Combined resistance exercise training program _ _ _ See Treatment summary , above _ _ Educate patients regarding the importance of compliance with antihypertensive medications _ _ Functional training _ Provide patients with education regarding necessary lifestyle modifications that can reduce BP and help control HTNPhysical activity is recommended by JNC8 in the form of moderate-to-vigorous activity 3\u20134 days a week averaging 40 min. per session as part of HTN control.(20)The AHA recommends 150 minutes of moderate- to-vigorous activity per week(37) _ _ Gradual progression of the intensity of exercises according to individual patient\u2019s 1- RM and overall level of fitness and healthProvide the patient with simple ROM, strengthening exercises; daily repetition of exercises as recommended by the treating clinician ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "lowered bp and controlled htn": [
+            "BP readings with well-calibrated  sphygmomanometer"
+        ],
+        "increased cardiorespiratory fitness level": [
+            "6MWT"
+        ],
+        "increased quality of life": [
+            "SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "Regular exercise and recreational physical activity typically are effective for lowering BP and/or preventing HTN in sedentary women(26)",
+        "The AHA and AAC have released guidelines regarding physical activity and HTN to reduce cardiovascular risk(26) Aerobic physical activity decreases systolic BP (average 2\u20135 mmHg) and diastolic BP (average 1\u20134 mmHg) in all adults, regardless of sex or BP level  The most effective intervention for lowering BP is aerobic activity at moderate-to-vigorous  intensity, 3 to 4 sessions per week of 40 minutes duration for 12 weeks",
+        "Lifestyle modifications for women to both manage and prevent HTN include the following: Weight reduction(1,3) \u2013For more information on obesity in adults, see the  Clinical Review\u2026Obesity: Adult ; CINAHL Topic ID Number: T708733 Adopt a Dietary Approaches to Stop Hypertension (DASH) diet (a diet rich in fruits, vegetables, and low-fat  dairy products with a limited amount of saturated and total fat)(1,3) \u2013The National Heart, Lung, and Blood Institute\u2019s Joint National Committee recommends weight reduction in overweight and obese patients who are hypertensive by increasing physical activity and using the DASH diet -Combining two or more lifestyle modifications may enhance results Lower sodium intake to < 1.5 g per day(1,3) Ensure adequate potassium intake (> 3,500 mg/day for patients with normal kidney function)(3) Increase physical activity/aerobic exercise(1,3) Limit consumption of alcohol to no more than 1 drink per day(1,3) Smoking cessation(3) Stress management program",
+        "Patients with HTN might be instructed by the physician to take BP readings daily at home to accurately monitor and manage HTN(1,8)"
+    ],
+    "patient education": [
+        "Provide the patient with education about the asymptomatic nature of HTN, lifetime management, and cardiovascular risk factors(2)",
+        "The AHA has a website specifically about women and high blood pressure at https://www.heart.org/en/health-topics/high-blood-pressure/why-high-blood-pressure-is-a-silent-killer/high-blood-pressure-and-women#.WeUndDKWyoL",
+        "National Heart, Lung, and Blood Institute, https://www.nhlbi.nih.gov/health/health-topics/topics/hbp/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC 7). National Heart, Lung, and Blood Institute Web site. http://www.nhlbi.nih.gov/guidelines/hypertension/index.htm . Published August 2004. Accessed August 28, 2018. (PGR)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Schroeder L, Ahmad S. Hypertension, essential. In: Domino FJ, ed. The 5-minute clinical consult standard 2018 . 26th ed. Philadelphia, PA: Wolters Kluwer Health; 2017:504-505.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Babar TB, Basman CL. Hypertension. In: Ferri FF, ed. Ferri\u2019s Clinical Advisor 2018: 5 Books in 1 . Philadelphia, PA: Elsevier; 2018:660-665.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Magee LA, Helewa M, Moutquin JM, von Dadelszen P; Hypertension Guideline Committee, Society of Obstetricians and Gynaecologists of Canada. Treatment of the hypertensive disorders of pregnancy. Diagnosis, evaluation, and management of the hypertensive disorders of pregnancy. J Obstet Gynaecol Can . 2008;30(3 Suppl):S1-S48. (G)"
+        },
+        {
+            "number in article": 5,
+            "reference": "National Collaborating Centre for Women's and Children's Health. Hypertension in pregnancy: The management of hypertensive disorders during pregnancy . London (UK): National Institute for Health and Clinical Excellence (NICE); 2010. (G)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Adrogue HE. Hypertension. In: Bope ET, Kellerman RD, eds. Conn\u2019s Current Therapy 2017 . Philadelphia, PA: Elsevier; 2017:117-128.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Sutters M. Systemic hypertension. In: Papadakis MA, McPhee SJ, eds. Current Medical Diagnosis & Treatment 2018 . 57th ed. New York, NY: McGraw-Hill  Education; 2018:447-478.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Maxted GH. Hypertension, secondary and resistant. In: Domino FJ, ed. The 5-Minute Clinical Consult Standard 2018 . 26th ed. Philadelphia, PA: Wolters Kluwer Health; 2017:506-507.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Guisto JA, Sanders AB. Hypertensive emergencies. In: Domino FJ, ed. The 5-Minute Clinical Consult 2012 . 20th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2012:652-653.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "American College of Sports Medicine. Exercise prescription for individuals with metabolic disease and cardiovascular disease risk. In: ACSM\u2019s Guidelines for Exercise Testing and Prescription . 10th ed. Baltimore, MD; 2018:279-282.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Tinetti ME, Williams TF, Mayewski R. Fall risk index for elderly patients based on number of chronic disabilities. Am J Med . 1986;80(3):429-434.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Podsiadlo D, Richardson S. The timed \"Up & Go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc . 1991;39(2):142-148. doi:10.1111/j.1532-5415.1991.tb01616.x.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "American Thoracic Society Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories. Guidelines for the six-minute  walk test. Am J Resp Crit Care Med. 2002;166(1):111-117.  (G)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Sharman JE, Stowasser M; Australian Association for Exercise and Sports Science. Australian Association for Exercise and Sports Science position statement on exercise and hypertension. J Sci Med Sport . 2009;12(2):252-257.  (PP)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Williams MA, Haskell WL, Ades PA, et al; American Heart Association Council on Clinical Cardiology; American Heart Association Council on Nutrition, Physical Activity, and Metabolism. Resistance exercise in individuals with and without cardiovascular disease: 2007 update: a scientific statement from the American Heart Association Council on Clinical Cardiology and Council on Nutrition, Physical Activity, and Metabolism. Circulation . 2007;116(5):572-584.  (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Goodman CC, Boissonnault WG, Fuller KS. Myocardial infarction. In: Pathology: Implications for the Physical Therapist . 2nd ed. Philadelphia, PA: Saunders; 2003:401-408. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Watchie J. Cardiopulmonary assessment. In: Watchie J, ed. Cardiopulmonary Physical Therapy: A Clinical Manual . Philadelphia, PA: Saunders; 1995:157. (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Aminuddin A, Zakaria Z, Nordin N, et al. Effect of graded aerobic exercise training on blood pressure changes in women with elevated blood pressure. Int Med J. 2011;18(3):207-211.  (RCT)"
+        },
+        {
+            "number in article": 20,
+            "reference": "James PA, Oparil S, Carter BL, et al. 2014 evidence-based  guideline for the management of high blood pressure in adults: Report from the panel members appointed to the Eighth Joint National Committee (JNC 8). JAMA. 2014;311(5):507-520.  doi:10.1001/jama.2013.284427.   (G)"
+        },
+        {
+            "number in article": 21,
+            "reference": "High blood pressure and women. American Heart Association Web site. http://www.heart.org/HEARTORG/Conditions/HighBloodPressure/UnderstandYourRiskforHighBloodPressure/High-Blood-Pressure-and-Women_UCM_301867_Article.jsp . Published August 13, 2014. Accessed August 28, 2018. (GI)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Goldie CL, Brown CA, Hains SMJ, Parlow JL, Birtwhistle R. Synergistic effects of low-intensity  exercise conditioning and #-blockade  on cardiovascular and autonomic adaptation in pre- and postmenopausal women with hypertension. Biol Res Nurs . 2013;15(4):433-442.  doi:10.1177/1099800412461562.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Bangalore S, Gong Y, Cooper-DeHoff  RM, Pepine CJ, Messerli FH. 2014 Eighth Joint National Committee panel recommendation for blood pressure targets revisited: results from the INVEST study. J Am Coll Cardiol . 2014;64(8):784-93.  doi:10.1016/j.jacc.2014.05.044. (RCT)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Ferrucci A, Pignatelli G, Sciarretta S, Tocci G. Hypertension in premenopausal women: is there any difference? High Blood Press Cardiovasc Prev . 2014;21(3):195-199. doi:10.1007/s40292-014-0050-7.  (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Boardman HMP, Hartley L, Eisinga A, et al. Hormone therapy for preventing cardiovascular disease in post-menopausal  women. Cochrane Database Syst Rev . 2015; (3):CD002229. doi:10.1002/14651858.CD002229.pub4.  (M)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Eckel RH, Jakicic JM, Ard JD, et al. 2013 AHA/ACC Guideline on Lifestyle Management to reduce cardiovascular risk: a report of the American College of Cardiology/American Heart Association task force on practice guidelines. J Am Coll Cardiol . 2014;63(25 Pt B):2960-2984.  doi:10.1016/j.jacc.2013.11.003. (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Krakoff LR, Gillespie RL, Ferdinand KC, et al. 2014 hypertension recommendations from the eighth Joint National Committee panel members raise concerns for elderly black and female populations. J Am Coll Cardiol . 2014;64(4):364-402.  doi:10.1016/jacc.2014.06.014. (G)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Glover AV, Tita A, Biggio JR, Tang Y, Anderson SB, Harper LM. 469: Postpartum severe hypertension in women with chronic hypertension. Am J Obstet Gynecol . 2016;214:S257-S258.  doi:10.1016/j.ajog.2015.10.512. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Park JS, Jung I, Youn JC, Cho HY. Impact of adolescent pregnancy on hypertension in postmenopausal women. J Hypertens . 2016;34(1):47-53.  doi:10.1097/ HJH.0000000000000747. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Hwang JW, Park SJ, Oh SY, et al. The risk factors that predict chronic hypertension after delivery in women with a history of hypertensive disorders of pregnancy. Medicine. 2015;94(42):e1747. doi:10.1097/MD.0000000000001747. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Shin JH, Lee HT, Lim YH, et al. Defining vitamin D deficiency and its relationship to hypertension in postmenopausal Korean women. J Womens Health . 2015;24(12):1021-1029.  doi:10.1089/jwh.2015.5358. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Rhee JJ, Qin F, Hedlin HK, et al. Coffee and caffeine consumption and the risk of hypertension in postmenopausal women. Am J Clin Nutr . 2016;103(1):210-217.  doi:10.3945/ ajcn.115.120147. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Siegel AM, Tita A, Machemehl H, Biggio JR, Harper LM. 418: Evaluation of Institute of Medicine guidelines for gestational weight gain in women with chronic hypertension. Am J Obstet Gynecol . 2016;214:S231. doi:10.1016/j.ajog.2015.10.460. (G)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Chen V, Ning H, Allen N, et al. Lifetime risks for hypertension by contemporary guidelines in african american and white men and women. JAMA Cardiol . 2019;4(5):455-459. doi:10.1001/jamacardio.2019.0529. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Buford. Hypertension and aging. Ageing Res Rev . 2016;26:96-111.  doi:10.1016/j.arr.2016.01.007. (RV)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Luz RH, Barbosa AR, d'Orsi E. Waist circumference, body mass index and waist-height  ratio: Are two indices better than one for identifying hypertension risk in older adults? Prev Med . 2016;93:76-81.  doi:10.1016/j.ypmed.2016.09.024. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "American Heart Association. Blood pressure measurement instructions. https://www.heart.org/-/media/files/health-topics/high-blood-pressure/how_to_measure_your_blood_pressure_letter_size.pdf?la=en&hash=58005C0F0AC9C9AACAA3089070B54E0F74695E95."
+        },
+        {
+            "number in article": 2018,
+            "reference": " Accessed November 16, 2019. (GI)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Magro-Malosso  ER, Saccone G, DiTommaso M, Roman A, Berghella V. Exercise during pregnancy and risk of gestational hypertensive disorders: a systematic review and meta-analysis.  Acta Obstet Gynecol Scand . 2017;96(8):921-931.  doi:10.1111/aogs.13151. (M)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Aparecida Gasparin V, Albrecht CC, Favero DC, et al. Physical activity in pregnant women as prevention of gestational hypertensive syndrome. Rev Enfermagem UFPE . 2018;12(4):1017-1026.  doi:10.5205/1981-8963-v12i4a230733p1017-1026-2018.  (SR)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Son W-K, Sung K-D, Cho J-M, Park S-Y. Combined exercise reduces arterial stiffness, blood pressure, and blood markers for cardiovascular risk in postmenopausal women with hypertension. Menopause . 2017;24(3):262-268.  doi:10.1097/GME.0000000000000765. (RCT)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Haas WC, III, Barakat R, Pelaez M, et al. Exercise during pregnancy protects against hypertension and macrosomia: randomized clinical trial. Integr Med Alert . 2016;19(4):37-39.  doi:10.1016/j.ajog.2015.11.039. (RCT)"
+        }
+    ]
+}

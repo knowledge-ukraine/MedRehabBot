@@ -1,0 +1,463 @@
+{
+    "metadata": {
+        "title": "Dry Needling (DN)",
+        "synonyms": [
+            "intramuscular manual therapy",
+            "integrative systemic dry needling (isdn)",
+            " intramuscular stimulation (ims)",
+            "trigger point dry needling (trp-dn)",
+            "myofascial trigger point dry needling (mtrp-dn)",
+            "superficial dry needling (sdn)",
+            "deep dry needling (ddn)",
+            " trigger point acupuncture",
+            "western acupuncture",
+            "needling, dry"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "neurological rehabilitation",
+            "women\u2019s health"
+        ],
+        "description": [
+            "Invasive procedure in which small, solid, filiform (fine filament) needles are inserted directly into skin and muscle without use of saline or other liquid agents in order to relieve myofascial trigger points (1,2,3)",
+            "DN is not acupuncture \u2013This distinction remains controversial, as indicated by the position statement of the American Association of Acupuncture and Oriental Medicine in 2013, which states that TrP needling, intramuscular stimulation, or any other method by which a needle is inserted to effect therapeutic change is by definition acupuncture(19) -There continues to be controversy surrounding this topic, with many challenges to state physical therapy boards, primarily by acupuncture licensing boards(11) -As an example, on September 15, 2015, the North Carolina Acupuncture Licensing Board filed a lawsuit against the North Carolina Board of PT Examiners in Wake County Superior Court to \u201cprotect the public from the unlicensed practice of acupuncture by physical therapists offering \u2018dry needling\u2019\u201d"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "There": "are no CPT codes for DN \u2013Intramuscular manual therapy is a term associated with DN; however, APTA does not endorse the use of the manual therapy CPT code (97140)(4)",
+            "97780": "and 97781 are acupuncture codes and cannot be used by a physical therapist without an acupuncture license"
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "DN is considered medically necessary for conservative treatment of some pathologies by some insurance companies, while others consider it experimental and under investigation. According to the APTA\u2019s published guidelines for billing, \u201cPractitioners who seek to bill any third party payer should first check the payer\u2019s coverage policy to determine if dry needling is a covered service and if the policy specifies which code is used to report the service.\u201d(26) Many PTs provide DN on a cash basis only(27) Indications for procedure"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Evidence of systemic disease",
+            "Evidence of psychoemotional disorder",
+            "Signs of acute illness (e.g., fever, nausea, diarrhea)",
+            "Pain that is not reproduced from musculoskeletal structures ",
+            "Pediatric patient without presence of and consent of parent/guardian",
+            "Findings suggestive of comorbidities requiring physician consultation"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [
+        "An APTA resource paper on the clinical use of DN emphasizes that DN is one tool in a broad treatment approach and should be combined with other techniques (soft tissue mobilization, ROM, exercise, neuromuscular reeducation, etc.)(27)",
+        "DN is used for the treatment of neuromusculoskeletal pain and dysfunction, including MTrP pain and dysfunction, soft tissue pain, muscle tension, and scar tissue(54) ",
+        "An MTrP is defined as a localized, hyperirritable spot in a nodule of skeletal muscle(5,6) consisting of an accumulation of sensitized nociceptors in the end plate zone of muscle fibers. Clinical characteristics of an MTrP are the following:(8) Palpable, taut band that can be snapped or rolled and contains a highly localized tender spot \u2013Stimulation (e.g., compression, palpation, needling) of the band usually elicits a twitch response Limited ROM and increased sensitivity to stretch Characteristic referred pain pattern that is familiar to the patient Painful, weak, easily fatigued muscle with minimal or no measured or observable atrophy Associated sensory(8) (e.g., tenderness, reduced pain threshold, pain referral), autonomic(6) (e.g., local hyperthermia, referred hypothermia), and proprioceptive(6) (e.g., balance disturbance, weight perception, dizziness) phenomena",
+        "MTrP formation and classification(6,8) The generally accepted mechanism of MTrP formation is muscle trauma resulting from low-level,  sustained muscle contraction,(9) direct trauma,(8) or acute, repetitive, or chronic muscle overload from eccentric muscle contraction \u2013The underlying trauma alters the motor endplate, leading to excessive acetylcholine release and local sustained contraction, resulting in ischemic changes and sensitization of peripheral nociceptors. This proposed explanation is called the integrated TrP hypothesis(6,8,10) MTrPs are classified as active or latent(5) \u2013Active MTrPs are associated with spontaneous local or referred pain and/or pain on movement,(7) while latent TrPs require direct stimulation to trigger pain symptoms(8) Both active and latent MTrPs are associated with muscle dysfunction, including weakness, restricted ROM, and fatigability(6,8) Lowered pain threshold in muscle tissue is associated with both active and latent MTrPs MTrPs are associated with most, if not all, chronic pain syndromes(8)"
+    ],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {
+        "contraindications ,": [
+            "Inability to obtain informed consent",
+            "Needle phobia",
+            "Bleeding disorder or current use of anticoagulant (including aspirin) therapy",
+            "Presence of local or systemic infection",
+            "Acute muscle trauma",
+            "Obesity",
+            "Needling in joints",
+            "Needling in vicinity of implanted devices"
+        ],
+        "relative contraindications ,": [
+            "Pregnancy",
+            "Epilepsy",
+            "Frailty or debility",
+            "Compromised immune system",
+            "Diabetes",
+            "Allergy to nickel or stainless steel (components of needle)",
+            "Anatomically sensitive areas\u2013Pleura and lungs\u2013Blood vessels\u2013Organs\u2013Nerves",
+            "Severe hyperalgesia or allodynia(4)\u2013In patients with central sensitization there is an increased responsiveness to peripheral stimuli. New nociceptive stimulimay further sustain the process of central sensitization(21)"
+        ],
+        "precautions ,": [
+            "Appropriate patient selection",
+            "Observe infection-control  procedures\u2013Wash hands\u2013Prepare patient\u2019s skin appropriately\u2013Use single-use  needles-Dispose of needles appropriately",
+            "Wear appropriate protective equipment\u2013Gloves-Confirm patient is not allergic to latex if using latex gloves\u2013Mask, eye shield, gown, if desired",
+            "Safe handling of needles\u2013Avoid contact with shaft of needle",
+            "Be prepared for removal of broken needles\u2013Do not insert more than half of the needle(20)",
+            "Sharp stinging, burning, or electrical pain could signal penetration of a nerve or blood vessel, which should be avoided(20)"
+        ],
+        "adverse effects": [
+            "Researchers investigating the incidence of adverse events during TrP-DN  in a sample of 39 PTs in Ireland over a 10-monthperiod found that mild adverse effects occurred in 19.18% (1,463/7,629) of treatments, but no significant adverse eventsoccurred(31)\u2013Common adverse effects were bruising, bleeding, pain during treatment, and pain after treatment",
+            "Possible adverse effects of DN\u2013Soreness or pain after needling-The use of the spray and stretch method after DN was found to have a short-term  (< 6 hours) effect in reducingpost-needling  soreness of a latent MTrP in the upper trapezius muscle in an RCT conducted in the United States(29)\u2013Local hemorrhage at the needling site-After needling, avoid placing pressure on the site for at least 2 minutes to decrease chance of bruising(20)\u2013Sympathetic response, including sweating\u2013Syncope (fainting) during treatment\u2013Pneumothorax(30)"
+        ]
+    },
+    "guidelines for use of procedure": {
+        "statutory issues": [
+            "United States\u2013DN has been formally included within the scope of physical therapy practice in the District of Columbia and in thefollowing states: Alabama, Alaska, Arizona, Colorado, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa,Kansas, Kentucky, Louisiana, Maryland, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Mexico, NorthCarolina, North Dakota, Ohio, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia,West Virginia, and Wyoming(11)-In Connecticut, Massachusetts, Michigan, Minnesota, Missouri, Oklahoma, Pennsylvania, and Wisconsin, no formalstatements or opinions have been made but there is nothing in the practice acts of these states that would prohibit DN-Currently the only states that have made a ruling against dry needling being within the scope of practice for physicaltherapists are California, Hawaii, New Jersey, New York, Oregon and Washington , mainly due to verbiage in thepractice act against puncturing the skin",
+            "International\u2013DN is within the scope of physiotherapy practice in Asia, Australia, Europe, South Africa, South America, New Zealand,and Canada"
+        ],
+        "training": [
+            "The FSBPT has identified a list of entry-level  and DN-specific knowledge and job-task  competencies(25)\u2013DN-specific  tasks-Information gathering and synthesis-Identify prior experience with and tolerance for DN, identify contraindications and precautions to DN, and sequenceDN with other procedural interventions and techniques-Manual therapy techniques-Exposing area, reducing risk of harm, educating patient on impact of movement during treatment, palpation, needlehandling techniques, draping, DN techniques, managing needle removal complications, monitoring patient response,facilitating hemostasis as necessary, disposing of medical waste, discussing post-treatment  expectations-Education-Educate patient about DN, potential adverse effects, and precautions and contraindications for DN-Emergency procedures-Implement emergency response procedures to treat both patient and practitioner injuries sustained during DN-Environmental safety-Prepare and maintain a safe and comfortable environment and stock supplies and equipment in safe proximity duringtreatment-Infection control-Implement infection-control  procedures, clean and disinfect blood and bodily fluid spills, replace surfaces that cannotbe cleaned-Professional responsibilities-Determine own ability to perform DN safely and effectively\u2013DN-specific  knowledge-Anatomy and physiology-Surface anatomy including variations in form, proportion, and anatomical landmarks-Emergency preparedness and response-Emergency preparedness and/or response procedures to secondary physiological or emotional effects or complicationsassociated with DN, and standards for needle handling-Safety and protection-Factors influencing safety and protection, personal protection procedures and techniques, theoretical basis for DN,theoretical basis for combining DN with other interventions, secondary effects or complications associated with DN,theoretical basis of pain sciences, contraindications/precautions related to DN, palpation techniques, needle insertiontechniques, needle manipulation techniques, physiological responses to DN, information about solid filament needles"
+        ],
+        "informed consent for use of the procedure": [],
+        "clear documentation indicating use of procedure and patient response": [],
+        "successful dn requires": [
+            "excellent palpation skills for locating MTrPs(2)",
+            "visualization of the location and depth of MTrPs within the relevant anatomic structures in three dimensions",
+            "kinesthetic perception necessary to\u2013appreciate differences in the tissues penetrated by the needle(2)\u2013distinguish among skin, subcutaneous tissue, muscle, taut bands within the muscle, fascia, etc.",
+            "Most clinical and research parameters are based on expert opinion(21)\u2013In general, once an MTrP has been located, the overlying skin is cleansed with alcohol and the clinician pinches the TrPbetween thumb and index finger or between two fingers. A needle is inserted 1\u20132 cm from the TrP so that it approaches atapproximately a 30 \u00b0 angle to the skin(20)\u2013DN involves a relatively slow, steady motion in and out of the muscle. The needle is brought out to the edge of themyofascia, then inserted back into the muscle repeatedly(20)\u2013The aim is to elicit a local twitch response, an involuntary contraction of the fibers(20)"
+        ]
+    },
+    "examination": {
+        "contraindications precautions to examination": [
+            "Evidence of systemic disease",
+            "Evidence of psychoemotional disorder",
+            "Signs of acute illness (e.g., fever, nausea, diarrhea)",
+            "Pain that is not reproduced from musculoskeletal structures ",
+            "Pediatric patient without presence of and consent of parent/guardian",
+            "Findings suggestive of comorbidities requiring physician consultation"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document mechanism and history of injury or events leading to current presentation. Note repetitive or postural stress factors -MTrP formation is associated with trauma",
+                "course of treatment": {
+                    "medical management": "Describe current and past medical treatment for the current condition. Describe treatment of past similar conditions. Note success in relieving symptoms",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Are they effective?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Document diagnostic tests (e.g., EMG, MRI, ultrasound)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Document factors that mitigate or increase symptoms as well as length of time any such factor requires before the symptoms come on or are eased",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document history of trauma or similar dysfunction/injury",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Document current work status and limitations, if any. Document participation in sports or other recreational activities as well as current limitations",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any limitations in ADLs. Document use of equipment to assist patient during ADLs",
+                "living environment": "If applicable, document stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Patient body type should be noted. Relative difficulty in palpation of MTrPs, anatomic landmarks, and anatomic structures is of interest in assessing whether DN is an appropriate intervention tool ",
+            "assistive and adaptive devices": "",
+            "balance": "Document impairment in static and dynamic balance, if relevant",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": " Functional mobility \u2013Assess patient\u2019s ability to perform functional mobility",
+            "gait locomotion": "Gait analysis to identify altered movement pattern, asymmetry, and speed should be conducted. The 6-minute  walk test can be administered to evaluate gait speed(24) Joint integrity and mobility \u2013Articular dysfunction should be documented(6,14,15) Motor function (motor control/tone/learning) \u2013Movement patterns should be examined. Deficits and asymmetries should be noted \u2013Assess tone with the Modified Ashworth Scale(44)",
+            "muscle strength": " Muscle strength \u2013Comprehensive manual muscle test (MMT) of the affected body areas should be conducted \u2013Document pain associated with muscle contraction",
+            "observation inspection palpation including skin assessment": [
+                "Detailed palpation to identify location of MTrPs should be conducted -MTrPs are identified by using either a flat palpation technique (e.g., palpation of infraspinatus, temporalis, lower trapezius) or a pincer-type palpation technique (e.g., palpation of sternocleidomastoid, upper trapezius, gastrocnemius)",
+                "Document referred pain patterns elicited by palpation"
+            ],
+            "posture": "Static and dynamic posture should be examined and documented as part of a comprehensive movement pattern analysis",
+            "range of motion": "Limitations in ROM and flexibility should be noted and correlated with other signs and symptoms(24,53)",
+            "self-care activities of daily living": "",
+            "reflex testing": "Pertinent reflex testing should be conducted and documentedDocument if relevant",
+            "sensory testing": "Pressure pain threshold (measured by algometer) can be used to identify MTrP location",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this procedure are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment in their assessment and treatment decisions",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or the specific protocols of the treatment clinic",
+                "Patients with a diagnosis for which this procedure is used may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention strategies. Discharge criteria should include independence with fall-prevention  strategies"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for procedure Myofascial pain syndrome Pain syndromes associated with MTrPs",
+        "rule out": "",
+        "prognosis": [
+            "Patients with myofascial pain have improved pain in the short term. Long-term  patient outcomes depend on DN protocol, disease characteristics, and patient demographic profile(16,17) "
+        ],
+        "referral to other disciplines": "",
+        "other considerations": [
+            "Physiological mechanisms \u2013Evidence about potential physiological effects of DN is lacking(21) -The mechanisms and effects of DN most likely differ depending on location of needle placement, depth of insertion, needle forces and motions used, and whether or not a local twitch response is elicited(21) -Central and peripheral networks are probably recruited, and responses may be both physiologic and psychologic(21) -Proposed mechanisms include effects on the taut band, effects on blood flow, effects on peripheral and central sensitization, segmental inhibition/gate control, release of endogenous opioids, and effects on the release of neurotransmitters such as serotonin and noradrenalin -The neural pathway for remote effects appears to be mediated via a spinal reflex -Placebo effects may also occur. Neuroimaging has demonstrated that expectancy can modulate analgesia at subcortical and cortical levels \u2013In a study conducted in Poland, DN was found to cause intense vasodilation in the sciatic pain area when used on patients with active TrPs in the gluteus minimus who complained of subacute sciatica(31) -Vasodilation was measured by infrared thermovision technique in 50 patients, of whom 16 had active TrPs in the gluteus minimus -Significant increases in the thigh and calf temperature were noted only in patients with active TrPs -The authors suggested that this supports the idea that sympathetic nerve activity is involved in myofascial pain pathomechanism"
+        ],
+        "treatment summary": [
+            "Authors of a 2017 systematic review and meta-analysis  of the use of DN for musculoskeletal conditions by PTs found the following:(46) \u2013Very low-quality  to moderate-quality  evidence that DN is more effective than no treatment, sham DN, and other treatments for reducing pain and improving pressure pain threshold in the immediate to 12-week  follow-up  period \u2013Low-quality  evidence for superior outcomes with DN for functional outcomes when compared to no treatment or sham DN, but no difference in functional outcomes when compared to other physical therapy treatments \u2013A lack of evidence of long-term  benefit of DN",
+            "Authors of a 2016 systematic review (N = 467) in the United States found mixed results on the effectiveness of DN compared to conventional rehabilitation for musculoskeletal pain and disability(41)",
+            "Lumbar spine DN may be an effective tool to treat perceived pain (measured by V AS) and MTrPs associated with low back pain (LBP).(47) Patients with increased LBP with the multifidus lift test and no aggravation with standing might demonstrate the most improved disability with DN treatment (as measured by Oswestry Disability Index)(32) \u2013Authors of a 2018 systematic review and meta-analysis  found moderate evidence that DN of MTrPs, especially if associated with other therapies, can be recommended to relieve the intensity of LBP. The authors did point out that the superiority of DN in improving functional disability remains unclear(47) \u2013Koppenhaver et al.(32) examined the associations between demographic, patient history, and physical examination variables and self-reported  disability (Oswestry Disability Index) after DN treatment and found increased LBP with the multifidus lift test to be the strongest predictor of improved disability after DN -Seventy-two  volunteers with mechanical LBP participated in this quasi-experimental  study conducted in the United States -Treatment consisted of 1 treatment of DN to bilateral lumbar multifidus muscles and improvement was based on percent change at 1 week -Other factors associated with improved disability were increased LBP during passive hip flexion while patient supine and positive beliefs about DN/acupuncture. Less improvement associated with pain with standing, presence of leg pain, and perception of hypermobility in the lumbar spine",
+            "Neck, shoulder, upper quarter \u2013Authors of a 2015 systematic review and meta-analysis  of the effectiveness of DN for MTrP associated with neck and shoulder pain concluded that DN can be recommended for relieving MTrP pain in the short term (0\u20133 days) and the medium term(33) -Based on 20 RCTs involving 839 patients  -Authors also determined that other therapies (including physical therapy) were more effective in treating MTrP in the medium term \u2013DN performed on the lower trapezius TrP was more effective at treating pain (measured by V AS and Neck Pain Questionnaire) and pressure-pain  threshold than DN to another area of the lower trapezius muscle(34) -Double-blind  RCT conducted in Spain -Seventy-two  patients with unilateral neck pain for \u2265 3 months and active trigger points in the lower trapezius were randomly assigned to either DN to lower trapezius TrP or DN to other area of lower trapezius muscle \u2013One session of DN to the latent MTrP associated with the key active MTrP in the infraspinatus muscle reduced pain intensity and satellite MTrP irritability in the short term in older adults with nonspecific shoulder pain(48) -Based on a RCT involving 66 patients in Spain who were 65 years of age or older -Groups received either DN to both the latent MTrP and the active MTrP or to the active MTrP only -Outcome measures were the numeric pain rating scale, the pressure pain threshold on the anterior deltoid and extensor carpi radialis brevis latent MTrPs, and grip strength \u2013Two treatments of TrP-DN  are as effective as two treatments of TrP manual therapy as a short-term  treatment of pain, disability, and ROM in patients with chronic mechanical neck pain, although TrP-DN  was more effective than TrP manual therapy in decreasing pressure pain thresholds over the cervical spine(35) -Based on an RCT with 94 patients conducted in Spain -Outcome measures were 11-point  numeric pain rating scale, cervical ROM, pressure point thresholds over C7 spinous process, and the Spanish version of the Northwick Park Neck Pain Questionnaire \u2013DN plus exercise was not found to be superior to sham DN plus exercise in an RCT conducted in Australia in patients with chronic whiplash-associated  disorders (WAD)(36) -Eighty patients with chronic WAD (> 3 months) received either 6 weeks of DN plus exercise or 6 weeks of sham DN plus exercise -Outcome measures were the Neck Disability Index (NDI) and self-rated  recovery at baseline, 6 and 12 weeks, and 6 and 12 months by blinded assessor -Although DN plus exercise was better than sham DN plus exercise at 6 and 12 months, the treatment effects were small and not clinically worthwhile \u2013TrP-DN  combined with traditional physical therapy is no more effective than traditional PT to improve shoulder ROM and upper extremity function following shoulder stabilization surgery(37) -Based on an RCT involving 39 patients conducted in the United States. Patients were randomized to either PT intervention or PT intervention+TrP-DN -No differences in groups were seen with ROM and pain subsets \u2013DN may improve pain (measured by V AS), spasticity, and motor function in patients who have had a stroke(18) -Based on a systematic review and meta-analysis  of 7 studies \u2013Deep dry needling (DDN) combined with stretching was more beneficial in treating nonspecific neck pain compared with stretching alone(43) -Based on an RCT study in Spain with 130 participants with nonspecific neck pain -Patients were randomized to either the DDN (n = 65) or stretching only group (n = 65) and treated 4x/week for 2 weeks -Pain intensity, neck ROM, neck muscle strength, and pain disability were measured at baseline, after 2 sessions, after intervention period, and at 15,30,90, and 180 days after intervention was completed -The authors found significant differences in all outcome measures (p < 0.001) and concluded that DDN combined with passive stretching is favorable to stretching alone",
+            "Temporomandibular joint (TMJ) \u2013DN appears to be effective to relieve pain and tenderness of temporomandibular myofascial pain(22) -Based on a double-blind,  randomized, placebo-controlled  trial conducted in Turkey -A total of 52 subjects were randomized to receive DN or sham DN -Outcome measures included pressure algometry, V AS, and unassisted jaw opening without pain -Mean algometric values were significantly higher in the intervention group \u2013A multimodal physical therapy management approach that includes TrP-DN  may decrease pain disability and increase maximal mouth opening in TMJ dysfunction(23) -Based on a prospective case series conducted in Spain  -Multimodal treatment consisted of mobilization with movement of the TMJ and cervical spine, thoracic spine manipulation, and masseter muscle TrP-DN -Outcome measures included Temporomandibular disorder (TMD) Disability Questionnaire, V AS, and maximal mouth opening -Patients who received multimodal treatment exhibited significant and clinical improvements in pain intensity, disability, and mouth opening",
+            "Knee \u2013Inclusion of DN to the vastus medialis and vastus lateralis muscle in a multimodal program (manual therapy and exercise) did not improve outcomes for patients with patellofemoral pain (PFP)(49) -Based on an RCT of 60 patients with PFP in Spain -Treatments were once a week for 3 weeks -Outcome measures were the pain subscale of the Knee injury and Osteoarthritis Outcome Score (KOOS; 0\u2013100 scale), other subscales of the KOOS, the Knee Society Score, the International Knee Documentation Committee Subjective Knee Evaluation Form (IKDC), and the numeric pain-rating  scale \u2013DN of lower limb MTrPs may prevent pain after total knee arthroplasty(24) -Based on a case series study conducted in Chile -For 4 weeks, 14 patients received DN to their lower extremity MTrPs from an experienced, trained PT once a week and participated in therapeutic exercise -The patients had improved walking speed, knee ROM, and pain levels following intervention",
+            "Ankle and foot \u2013There is insufficient evidence to support the use of DN to improve symptoms in patients with ankle instability(28) \u2013There is insufficient evidence to support the use of TrP-DN to reduce plantar heel pain when compared to sham TrP-DN(38,39,40)",
+            "Stroke \u2013DDN was effective at decreasing localized pressure sensitivity and improved shoulder ROM, but did not show any significant difference in decreasing muscle spasticity for patients with stroke(44) -Based on an RCT in Spain of 20 patients with stroke. Patients were randomized to receive rehabilitation only or rehabilitation combined with DDN. Needles were placed along the upper trapezius, infraspinatus, subscapularis, and pectoralis major of the spastic shoulder -Intervention was applied 1x/week for 3 weeks -Spasticity was measured using the Modified Ashworth Scale -Results of the study concluded that DDN combined with rehabilitation can increase pressure pain threshold and shoulder AROM, but there were no significant differences in spasticity",
+            "Other applications \u2013Authors of a 2016 retrospective study (N = 44) found that the use of ultrasound-guided  dry needling (USGDN) on patients with chronic regional pain syndrome showed significant improvements in co-contraction  of the agonist/antagonist muscle of the shoulder, resulting in increases in the DASH outcome scores in all 44 patients. By improving co-contraction of the agonist and antagonist muscles, the shoulder is able to move in a smooth motion, decreasing any friction that may occur in the joint(s).Patients were objectively measured using the DASH during pretreatment (mean = 85.11), 15 days (26.26), and 45 days (15.73), resulting in > 50% improvement after 50 days and 75% improvement after 45 days(42) \u2013Authors of a 2016 systematic review found that DN can be effective at reducing pain in lower quarter trigger points, but did not affect overall function, QOL, depression, ROM, or strength(45) \u2013DN was found to be noninferior to cortisone injection in reducing lateral hip pain in patients with greater trochanter pain syndrome and could be considered an alternative treatment(50) -Based on an RCT conducted in the United States on 50 hips; measurements were taken over 6 weeks -Primary outcome measure was the numeric pain-rating scale \u2013DN was not found to increase extensibility of the hamstrings beyond stretching alone in patients with ROM deficits and no symptoms(51) -Based on an RCT conducted in the United States of 27 patients with limited hamstring extensibility \u2013One session of DN was shown to increase vertical jump in healthy young adults(52) -Based on a study of 35 students in the United States  -Intervention group received DN to four sites on bilateral gastrocnemius muscles:two on the medial head and two on the lateral head. Sham group had needle casing pressed to skin but no needle was inserted -The DN group significantly increased vertical jump height (1.2 inches) over the sham group when tested right after intervention",
+            "See Description , Indications for procedure , and Guidelines for use of procedure , above . Problem Goal Intervention Expected Progression Home Program Pain secondary to TrP activation _ _ Reduced function due to ankle joint pain and instabilityReduced pain, both local and referred _ _ Increased pressure pain threshold _ _ Deactivation of MTrP with increased ankle joint functionTherapeutic modalities _ DN _ _ _ DN combined with proprioceptive exerciseProgression will be unique to each patient and underlying diagnosisProvide instruction for complementary exercises to be performed safely at home Reduced mobility secondary to MTrP; reduced ability to perform work dutiesIncreased ROM/ flexibility _ Improved functional mobility _ Return to workTherapeutic modalities _ DNProgression will be unique to each patient and underlying diagnosisProvide instruction for complementary exercises to be performed safely at home Spasticity, generalized pain, decreased plantar pressures on affected side in patient with strokeDecreased spasticity, generalized pain, and increased plantar pressure on affected side(44)Therapeutic modalities:  DNProgression will be unique to each patient and underlying diagnosisProvide instruction for complementary exercises to be performed safely at home ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired therapeutic outcomes": [
+            "Deactivation of MTrP\u2013Palpation",
+            "Decreased pain\u2013V AS, numeric pain rating scale, pressure pain threshold",
+            "Increased ROM/flexibility\u2013Goniometric measurements",
+            "Improved strength\u2013MMT",
+            "Reduced spasticity\u2013Modified Ashworth Scale(44)",
+            "Improved function\u2013Standardized functional outcome assessments such as:-Foot and Ankle Ability Measure (FAAM)(28)-Oswestry Disability Index(32)-Constant-Murley  score(37)-WOMAC(24)",
+            "Return to work",
+            "Improved quality of life\u2013SF-36"
+        ]
+    },
+    "maintenance or prevention": [],
+    "patient education": [
+        "Patient information:  Many therapy practice websites and training institutes provide information on the DN procedure The APTA provides the following information, \u201cDry Needling by a Physical Therapist: What You Should Know,\u201d for consumers interested in learning more about DN:https://www.moveforwardpt.com/resources/detail/dry-needling-by-physical-therapist-what-you-should#.Vj_KZeIYHPf",
+        "Therapist information Position and protocol papers regarding use of DN by therapists are available online. Some papers include: \u2013Information (downloadable pdf files) on DN from FSBPT, including list of competencies: https://www.fsbpt.org/ Search.aspx?q=dry%20needling Information regarding courses for therapists may be obtained by searching for continuing education or advanced training courses available in a specific country or location Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "FitzGibbon SA. Should dry needling for myofascial pain be within the scope of practice for physical therapists?. Orthop Phys Ther Pract . 2011;23(4):212-218.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Firth C, Meon J, Price M, Taylor J, Grace S. Dry needling: A literature review. J Aust Traditional Med Soc . 2020;26(1):22-28.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Federation of State Boards of Physical Therapy. Intramuscular manual therapy (dry needling). FSBPT Dry Needling Resource Paper (Intramuscular manipulation)  Web site. https://members.fsbpt.org/Portals/0/documents/7thEdDryNeedlingResourcePaper.pdf . 2017. (G)"
+        },
+        {
+            "number in article": 4,
+            "reference": "American Physical Therapy Association. Physical therapists and the performance of dry needling. An educational resource paper. American Physical Therapy Association Web site. http://www.apta.org/search.aspx?q=Physical%20therapists%20and%20the%20performance%20of%20dry%20needling . Accessed April 23, 2018. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Travell J, Simons DG. Myofascial Pain and Dysfunction: the Trigger Point Manual. Philadelphia, PA: Wolters Kluwer Health; 2019. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Mense S, Simons DG, Russell IJ. Muscle Pain . Philadelphia: Lippincott Williams Wilkins; 2001. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Resteghini P. Myofascial trigger points: pathophysiology and treatment with dry needling. J Orthop Med . 2006;28(2):60-68.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Dommerholt J, Bron C, Franssen JL. Myofascial trigger points: an evidence-informed  review. J Man Manip Ther . 2006;14(4):203-221.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Otten E. Concepts and models of functional architecture in skeletal muscle. Exerc Sport Sci Rev . 1988;16:89-137.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Gerwin RD, Dommerholt J, Shah JP. An expansion of Simons' integrated hypothesis of trigger point formation. Curr Pain Headache Rep . 2004;8(6):468-475.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "American Physical Therapy Association. State Laws and Regulations Governing Dry Needling Performed by Physical Therapists in the U.S. https://www.apta.org/patient-care/interventions/dry-needling/laws-by-state . Published 2021. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Australian Society for Acupuncture Physiotherapists. Guidelines for safe acupuncture and dry needling practice. Australian Society of Acupuncture Physiotherapists Web site. http://www.dryneedling.com.au/wp-content/uploads/2013/08/ASAP_Guidelines_2013.pdf . Published April 2013. (G)"
+        },
+        {
+            "number in article": 13,
+            "reference": "College of Physical Therapists of Alberta. Dry Needling Competency Profile for Physical Therapists. http://www.physiotherapyalberta.ca/files/ competency_profile_dry_needling.pdf . Published 2007. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Lewitt K. Manipulative Therapy in Rehabilitation of the Motor System . 2nd ed. Oxford: Butterworth Heinemann; 1991. (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Page P, Frank CC, Lardner R. Assessment and Treatment of Muscle Imbalance: The Janda Approach . Champaign IL: Human Kinetics; 2010. (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Jack M, Tierney R, Mansell J, Russ A. Dry needling versus sham needling for myofascial pain syndrome: A critically appraised topic. Int J Athletic Ther Train . 2020;25(6):289-293.  doi:10.1123/ijatt.2019-0109.  (SR)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Funk MF, Frisina-Deyo  AJ. Dry needling for spine related disorders: A scoping review. Chiropr Man Therap . 2020;28(1):1-13.  doi:10.1186/s12998-020-00310-z.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Fern\u00e1ndez-de-las-Pe\u00f1as  C, P\u00e9rez-Bellmunt  A, Llurda-Almuzara  L, Plaza-Manzano  G, De-la-Llave-Rinc\u00f3n  AI, Navarro-Santana  MJ. Is dry needling effective for the management of spasticity, pain and motor function in post-stroke  patients? A systematic review and meta-analysis.  Pain Med . 2021;22(1):131-141.  doi:10.1093/pm/pnaa392. (M)"
+        },
+        {
+            "number in article": 19,
+            "reference": "American Association of Acupuncture and Oriental Medicine (AAAOM). Position statement on trigger point dry needling (TDN) and intramuscular manual therapy (IMT). Amer Acupuncturist . March 11, 2013;42-43.  (PP)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Uemoto L, Nascimento de Azevedo R, Almeida Alfaya T, Nunes Jardim Reis R, Depes de Gouvea CV, Cavalcanti Garcia MA. Myofascial trigger point therapy: laser therapy and dry needling. Curr Pain Headache Rep . 2013;17:357; 6p. doi:10.1007/s11916-013-0357-4.  (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Cagnie B, Dewitte V, Barbe T, Timmermans F, Delrue N, Meeus M. Physiologic effects of dry needling. Curr Pain Headache Rep . 2013;17(8):348; 8p. doi:10.1007/s11916-013-0348-5.  (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Dracolu D, Vural M, Karan A, Aksoy C. Effectiveness of dry needling for the treatment of temporomandibular myofascial pain: a double-blind,  randomized, placebo controlled study. J Back Musculoskel Rehabil . 2012;25(4):285-290.  doi:10.3233/BMR-2012-0338.  (RCT)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Gonzalez-Iglesias  J, Cleland JA, Neto F, Hall T, Fernandez-de-las-Penas  C. Mobilization with movement, thoracic spine manipulation, and dry needling for the management of temporomandibular disorder: a prospective case series. Physiother Theory Pract . 2013;29(8):586-595.  doi:10.3109/09593985.2013.783895. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "N\u00fa\u00f1ez-Cort\u00e9s  R, Cruz-Montecinos  C, V\u00e1squez-Rosel  \u00c1, Paredes-Molina  O, Cuesta-Vargas  A. Dry needling combined with physical therapy in patients with chronic postsurgical pain following total knee arthroplasty: A case series. J Orthop Sports Phys Ther . 2017;47(3):209-216.  doi:10.2519/jospt.2017.7089. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Federation of State Boards of Physical Therapy. Analysis of competencies for dry needling by physical therapists. Federation of State Boards of Physical Therapy . July 10,"
+        },
+        {
+            "number in article": 2015,
+            "reference": " https://www.fsbpt.org/Portals/0/documents/free-resources/DryNeedlingFinalReport_20150812.pdf . (G)"
+        },
+        {
+            "number in article": 26,
+            "reference": "American Physical Therapy Association\u2019s Official Statement. Billing of dry needling by physical therapists. American Physical Therapy Association Web site. http://www.iamt.org/wp-content/uploads/2014/04/APTAStatement_DryNeedling-2014.pdf . Published 2014. (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Dry needling: getting to the point. PT MOTION. APTA. 2015;7(4):12-22.  http://www.apta.org/PTinMotion/2015/5/DryNeedling/ . (X)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Mullins JF, Nitz AJ, Hoch MC. The effect of dry needling on patient-reported  outcomes in individuals with chronic ankle instability: A critically appraised topic. Int J Athletic Ther Train. 2019;24(5):186-192.  doi:10.1123/ijatt.2018-0075.  (SR)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Martin-Pintado  Zugasti A, Rodriguez-Fernandez  AL, Garcia-Muro  F, et al. Effects of spray and stretch on postneedling soreness and sensitivity after dry needling of a latent myofascial trigger point. Arch Phys Med Rehabil . 2014;95(10):1925-1932.  doi:10.1016/j.apmr.2014.05.021. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Patel N, Patel M, Poustinchian B. Dry needling-induced  pneumothorax. J Am Osteopath Assoc . 2019;119(1):59-62.  doi:10.7556/jaoa.2019.009. (C)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Skorupska E, Rychlik M, Samborski W. Intensive vasodilatation in the sciatic pain area after dry needling. BMC Complement Altern Med . 2015;15(72). doi:10.1186/s12906-015-0587-6.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Koppenhaver SL, Walker MJ, Smith RW, et al. Baseline examination factors associated with clinical improvement after dry needling in individuals with low back pain. J Orthop Sports Phys Ther . 2015;45(8):604-612.  doi:10.2519/jospt.2015.5801. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Liu L, Huang QM, Liu QG, et al. Effectiveness of dry needling for myofascial trigger points associated with neck and shoulder pain: A systematic review and meta-analysis.  Arch Phys Med Rehabil . 2015;96(5):944-955.  doi:10.1016/j.apmr.2014.12.015. (M)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Pecos-Martin  D, Montanez-Aguilera  FJ, Gallego-Izquierdo  T, et al. Effectiveness of dry needling on the lower trapezius in patients with mechanical neck pain: A randomized controlled trial. Arch Phys Med Rehabil . 2015;96(5):775-781.  doi:10.1016/j.apmr.2014.12.016. (RCT)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Llamas-Ramos  R, Pecos-Martin  D, Gallego-Izquierdo  T, et al. Comparison of the short-term  outcomes between trigger point dry needling and trigger point manual therapy for the management of chronic mechanical neck pain: A randomized controlled trial. J Orthop Sports Phys Ther . 2014;44(11):852-861.  doi:10.2519/jospt.2014.5229. (RCT)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Sterling M, Vicenzino B, Souvlis T, Connelly LB. Dry-needling  and exercise for chronic whiplash-associated  disorders: A randomized single-blind  placebo-controlled  trial. Pain. 2015;156(4):635-643.  doi:10.1097/01.j.pain.0000460359.40116.c1. (RCT)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Halle R, Crowell M, Goss D. Dry needling and physical therapy versus physical therapy alone following shoulder stabilization repair: A randomized clinical trial. Int J Sports Phys Ther . 2020;15(1):81-102.  (RCT)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Cotchett MP, Munteanu SE, Landorf KB. Effectiveness of trigger point dry needling for plantar heel pain: A randomized controlled trial. Phys Ther . 2014;94(8):1083-1094. doi:10.2522/ptj.20130255. (RCT)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Stratford PW. Letters to the Editor. Phys Ther . 2014;94(9):1354. (X)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Dunning J, Butts R, Perreault T. Letters to the Editor. Phys Ther . 2014;94(11):1677-1679.  (X)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Jackson MD, Rowe K, Daveport TE. Trigger point dry needling for musculoskeletal pain and disability: a systematic review of comparative effectiveness research. Orthop Phys Ther Pract . 2016;28(3):178-187.  (SR)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Vas LC, Pai R, Pattnaik M. Musculoskeletal ultrasonography in CRPS: assessment of muscles before and after motor function recovery with dry needling as the sole treatment. Pain Physician . 2016;19(1):E163. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Cerezo-Tellez  E, Torres-Lacomba  M, Fuentes-Gallardo  I, et al. Effectiveness of dry needling for chronic nonspecific neck pain: a randomized, single-blinded,  clinical trial. Pain. 2016;157(9):1905-1917.  (RCT)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Mendigutia-Gomez  A, Martin-Hernandez  C, Salom-Moreno  J, Fernandez-de-Las-Penas  C. Effect of dry needling on spasticity, shoulder range of motion, and pressure pain sensitivity in patients with stroke: a crossover study. J Manipulative Physiol Ther . 2016;39(5):348-358.  (RCT)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Morihisa R, Eskew J, McNamara A, Young J. Dry needling in subjects with muscular trigger points in the lower quarter: a systematic review. Int J Sports Phys Ther . 2016;11(1):1-14.  (SR)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Gattie E, Cleland JA, Snodgrass S. The effectiveness of trigger point dry needling for musculoskeletal conditions by physical therapists: A systematic review and meta-analysis. J Orthop Sports Phys Ther . 2017;47(3):133-149.  doi:10.2519/jospt.2017.7096.  (M)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Liu L, Huang Q-M, Liu Q-G, et al. Evidence for dry needling in the management of myofascial trigger points associated with low back pain: A systematic review and meta-analysis.  Arch Phys Med Rehabil . 2018;99(1):144-152.  doi:10.1016/j.apmr.2017.06.008. (M)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Calvo-Lobo  C, Pacheco-da-Costa  S, Mart\u00ednez-Mart\u00ednez  J, et al. Dry needling on the infraspinatus latent and active myofascial trigger points in older adults with nonspecific shoulder pain: A randomized clinical trial. J Geriatr Phys Ther . 2018;41(1):1-13.  doi:10.2519/jospt.2017.6994. (RCT)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Espi-Lopez  GV, Serra-Ano  P, Vicent-Ferrando  J, et al. Effectiveness of inclusion of dry needling in a multimodal therapy program for patellofemoral pain: A randomized parallel-group  trial. J Orthop Sports Phys Ther . 2017;47(6):392-401.  doi:10.2519/jospt.2017.7389. (RCT)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Brennan KL, Allen BC, Munoz Maldonado Y. Dry needling versus cortisone injection in the treatment of greater trochanteric pain syndrome: a noninferiority randomized clinical trial. J Orthop Sports Phys Ther . 2017;47(4):232-239.  doi:10.2519/jospt.2017.6994. (RCT)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Geist K, Bradley C, Hofman A, et al. Clinical effects of dry needling among asymptomatic individuals with hamstring tightness: A randomized controlled trial. J Sport Rehabil . 2017;26(6):507-517.  doi:10.1123/jsr.2016-0095.  (RCT)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Bandy WD, Nelson R, Beamer L. Comparison of dry needling vs. sham on the performance of vertical jump. Int J Sports Phys Ther . 2017;12(5):747-751.  doi:10.16603/ ijspt20170747. (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Bynum R, Garcia O, Herbst E, et al. Effects of dry needling on spasticity and range of motion: A systematic review. Am J Occup Ther . 2021;75(1):1-13.  doi:10.5014/ ajot.2021.041798. (SR)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Rozenfeld E, Spoznikov Sebakhutu E, Krieger Y, Kalichman L. Dry needling for scar treatment. Acupunct Med . 2020;38(6):435-439.  doi:10.1177/0964528420912255. (RV) "
+        }
+    ]
+}

@@ -1,0 +1,388 @@
+{
+    "metadata": {
+        "title": "Depression, Pediatric  Occupational Therapy",
+        "synonyms": [
+            "major depression",
+            "major depressive disorder",
+            "major depressive affective disorder",
+            "unipolar depression",
+            "unipolar disorder",
+            "unipolar mood disorder"
+        ],
+        "anatomical location body part affected": [
+            "Symptoms are emotional, psychological, cognitive, and physical; the entire individual is affected by depression"
+        ],
+        "area of specialty": [
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "Depression is a mood disturbance characterized by feelings of sadness, low mood, andother signs and symptoms (2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "F32": {
+                "base": "depressive episode",
+                "F32.0": "mild depressive episode",
+                "F32.1": "moderate depressive episode",
+                "F32.2": "severe depressive episode without psychotic symptoms",
+                "F32.3": "severe depressive episode with psychotic symptoms",
+                "F32.8": "other depressive episodes",
+                "F32.9": "depressive episode, unspecified"
+            },
+            "F33": {
+                "base": "recurrent depressive disorder",
+                "F33.0": "recurrent depressive disorder, current episode mild",
+                "F33.1": "recurrent depressive disorder, current episode moderate",
+                "F33.2": "recurrent depressive disorder, current episode severe without psychotic",
+                "symptoms": " symptoms",
+                "F33.3": "recurrent depressive disorder, current episode severe with psychotic symptoms",
+                "F33.4": "recurrent depressive disorder, currently in remission",
+                "F33.8": "other recurrent depressive disorders",
+                "F33.9": "recurrent depressive disorder, unspecified"
+            },
+            "F31": {
+                "base": "bipolar affective disorder",
+                "F31.3": "bipolar affective disorder, current episode mild or moderate depression",
+                "F31.4": "bipolar affective disorder, current episode severe depression without psychotic",
+                "symptoms": " symptoms symptoms",
+                "F31.5": "bipolar affective disorder, current episode severe depression with psychotic",
+                "F31.6": "bipolar affective disorder, current episode mixed",
+                "F31.7": "bipolar affective disorder, currently in remission"
+            },
+            "F34.1": "dysthymia",
+            "F38": {
+                "base": "other mood (affective) disorders",
+                "F38.0": "other single mood (affective) disorders",
+                "F38.1": "other recurrent mood (affective) disorders",
+                "F38.8": "other specified mood (affective) disorders"
+            },
+            "F39": "unspecified mood (affective) disorder",
+            "F51.0": "nonorganic insomnia",
+            "F51.1": "nonorganic hypersomnia (ICD codes are for provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Signs/symptoms of depression can be recalled using the mnemonic SIGECAPS(2,3,4,5,6)",
+            "Sleep disorders (increased or decreased sleep)",
+            "Interest deficit (anhedonia)",
+            "Guilt (feelings of worthlessness, hopelessness, and/or regret)",
+            "Energy deficit",
+            "Concentration deficit",
+            "Appetite disorder (increased or decreased appetite)",
+            "Psychomotor retardation or agitation",
+            "Suicidality Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "It is important that the occupational therapist (OT) develop a trusting and respectful relationship with the patient to help increase the patient\u2019s motivation for therapy; when listening to the patient discuss his or her medical history as well as his or her thoughts and beliefs about depression, the OT should fully attend and not dismiss the patient\u2019s feelings because of the underlying depression(11)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes risk factors:   ,,,,": [
+            "Medical/physiologic causes of depression can include:(1)\u2013Connective tissue disorders, such as systemic lupus erythematosus\u2013Endocrine disorders, such as adrenal insufficiency, Cushing syndrome, diabetes mellitus, hyper/hypothyroidism,hyperparathyroidism, hypogonadism, and hypopituitarism\u2013Infectious diseases, such as encephalitis, HIV/AIDS, infectious mononucleosis, influenza, neurosyphilis, TB, viralhepatitis, and viral pneumonia\u2013Metabolic disorders, such as hypercalcemia and hyponatremia\u2013Neoplasms, such as benign and malignant brain tumors\u2013Neurological conditions, such as autoimmune encephalitis, cognitive impairment, multiple sclerosis, seizures, stroke, andtraumatic brain injury\u2013Nutritional deficiencies, such as folate, iron, vitamin B6, vitamin B12, and vitamin D deficiency\u2013Sleep disorders, such as central sleep apnea, narcolepsy, and obstructive sleep apnea\u2013Other chronic medical conditions, such as anemia, chronic kidney or liver disease, chronic pain, irritable bowel syndrome,and overweight/obesity",
+            "Psychiatric causes of depression can include:(6)\u2013Depressive disorders, such as major depressive disorder, persistent depressive disorder, postpartumdepression, premenstrual dysphoric disorder, and seasonal affective disorder\u2013Anxiety disorders, such as generalized anxiety disorder\u2013Autism spectrum disorder\u2013ADHD\u2013Bipolar disorder\u2013Conduct disorder\u2013Grief and bereavement\u2013Major life stresses\u2013Obsessive-compulsive  disorder\u2013Personality disorders, such as antisocial personality disorder and borderline personality disorder\u2013Schizophrenia-related  disorders, such as schizophrenia, schizoaffective disorder, and delusional disorder",
+            "Personal behaviors/exposures that cause or raise risk of depression can include:(7)\u2013Alcohol and substance abuse or withdrawal\u2013Bullying and emotional, physical, or sexual abuse\u2013LGBTQ identification\u2013Toxic exposures, such as anticholinesterase insecticides, mercury, and thallium",
+            "Medications that may cause depression can include:(10)\u2013Amphotericin B\u2013Anticonvulsants\u2013Antihypertensives such as cloNIDine, methyldopa, and reserpine\u2013Barbiturates\u2013Beta-blockers,  such as propranolol\u2013Chemotherapy agents, such as asparaginase, vinBLAStine, vinCRIStine\u2013Corticosteroids\u2013Estrogen therapy and oral contraceptives"
+        ],
+        "pathogenesis": [
+            "Outward symptoms of depression result from changes in the receptor-neurotransmitter relationship in the limbic system(4)\u2013Serotonin and norepinephrine are the primary neurotransmitters involved in depression; dopamine, acetylcholine, andy-aminobutyric  acid (GABA) have also been documented to be involved in depression(4)\u2013As an action potential is passed on, the neurotransmitter is:(4)-either reabsorbed into the neuron, where it is either destroyed by an enzyme or its activity is removed by a reuptakepump and stored until needed;or-destroyed by monoamine oxidase (MAO) in the mitochondria\u2013Symptoms are related to decreased levels of norepinephrine (dullness and lethargy) and serotonin (irritability, hostility,and suicidal ideation)(4)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Screen pediatric patients with depression for signs of abuse and report to appropriate child protective agency if suspected(4,7)",
+        "Adolescent-onset  depression is associated with an increased risk of suicide; all verbal expressions of suicidal threat or intent should be taken seriously(1,2,3,7) Patients with severe depression and a comorbid medical illness are at especially high risk for suicide(2) Although anxiety, panic, and fear are commonly associated with suicidal behavior, a patient might appear to make dramatic improvements immediately prior to a suicide attempt because the decision to commit suicide has lifted his or her depression(2) \u2013Signs of a child\u2019s decision to commit suicide maybe nonverbal, such as giving away his or her most prized toys and possessions(6) Risk factors for suicide include use of alcohol, hopelessness, delusional thoughts, complete (or nearly complete) loss of interest in activities, a previous suicide attempt, a family history of suicide, medical or psychiatric illness, male sex, older age, contemplation of violent methods and/or access to firearms, history of childhood abuse, panic attacks, a humiliating social stressor, and substance abuse(2,3) If a pediatric patient presents with risk factors for suicide or describes suicidal thoughts, immediately contact the patient\u2019s psychiatric professional (psychologist or psychiatrist) for evaluation; inpatient psychiatric treatment may be indicated(2)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Review medical history, including date of diagnosis, presenting symptoms, psychological and/or neuropsychological tests and reports, drug regimen, and medical, behavioral, and social management of depression to date -Depression can initially present as a chronic illness in children and adolescents, leading to significant impairment in academic and social skills(6)",
+                "course of treatment": {
+                    "medical management": "Medical management of depression in pediatric patients will vary significantly(2) Psychotherapy combined with pharmacological intervention is often the most effective treatment for depression in children and adolescents(1,4,7,8)  There are limited data regarding the efficacy of combined psychotherapy and pharmacotherapy as treatment for depression in the pediatric population (especially for children under 10 years of age)(1) The data that do exist suggest that a combination of psychotherapy and pharmacotherapy can be effective in the shortterm; however, longterm  effects are unknown(1) Electroconvulsive therapy (ECT) causes a generalized CNSseizure(2,3,4) Often used in cases of refractory depression or for patients in whom antidepressant drugs are contraindicated(2,9) Can be effective for all types of depression and is very effective for severe depression and for resolving a manic episode(2) Memory loss is a common side effect of ECT(2,3) Phototherapy(2) Used for patients with major depression with seasonal onset (i.e., SAD)(2) Involves exposure to a light source of 2,050 lux for 2 hours daily(2) Patients with very severe or intractable depression might opt for experimental treatments that are in investigational stages, including transcranial magnetic stimulation and vagal nerve stimulation(2)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken? Pharmacotherapy is often recommended for patients with significant symptoms of depression and for patients in whom symptoms have lasted more than a few weeks(2) Also indicated for patients with a personal history of major depression or a family history of major depression in a firstdegree relative(2) Fluoxetine, an SSRI, has been found in multiple meta-analyses  to be effective in pediatric patients aged 717  years(1) Use of SSRI antidepressants in the pediatric population remains controversial; there is an increased risk (U.S. FDA analyses indicate a 2% increase) of suicidal ideation and/or behavior in pediatric patients on antidepressants(1,6) Pediatric patients who are taking SSRIs should be closely monitored for changes in behavior, including signs of suicidal ideation and/or behavior(6)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "The Center for Epidemiologic Studies Depression Scale Revised10(CESD-R-10),  Reynolds Adolescent Depression Scale, Short Mood and Feelings Questionnaire, and Children\u2019s Depression Inventory2 are some of the most common valid and reliable assessment tools(28)",
+                        "Blood work, thyroid panel, ECG, and neuroimaging (CT scan, MRI) are often ordered to rule out other medical conditions as the underlying cause of depression and other symptoms(4)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., herbal supplements) or alternative therapies (e.g., acupuncture) and whether they help St. John\u2019s wort is an herbal supplement commonly taken for depression;(7) however, randomized clinical trials have shown minimal to no benefit of St. John\u2019s wort when compared to placebo(3) Long-term  studies of St. John\u2019s wort have found that it has a profound effect on the liver and therefore impacts the way in which other drugs are metabolized(3) Ecotherapy, animal therapy, and water therapy have been utilized in research studies for treatment of depression(3)",
+                    "previous therapy": "Document whether patient has had psychotherapy or occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Are there certain situations in which the patient has more difficulty or an exacerbation of symptoms? -Are there activities that seem to alleviate or lessen symptoms?",
+                "body chart": "",
+                "nature of symptoms": "Document nature of both physical symptoms (if present; constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling) and cognitive/emotional symptoms",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if  pain   is present now and how much ) ",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": " Sleep disturbance -Insomnia, hypersomnia, and other disturbances of sleep are common in pediatric patients with depression.(2,4,7,8,12) Poor sleep quality has a greater negative effect on adolescents\u2019 affect compared to lack of total sleep per night. The negative effect on an adolescent\u2019s affect is greater in girls and individuals with depression(33) -Document number of wakings/night, if occurring -Document sleep aids and frequency of use -Document amount of sleep the patient gets each night -Does the patient sleep during the day? If so, how many hours?",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/ or symptoms that could be indicative of a need to refer to physician (dizziness, bowel/bladder dysfunction, saddle anesthesia)",
+                "respiratory status": "Note respiratory status -Does the patient require supplemental oxygen? Tracheostomy tube, nasal cannula, or breathing mask? -Does the patient become short of breath? If so, when? Standing? Walking? With exercise? -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have a history of depression or other mental illness?",
+                    "comorbid diagnoses": "Depression often co-occurs  with a serious medical illness.(2,5) Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, other psychiatric disorders, and orthopedic disorders schizophrenia/schizoaffective disorders(4) anxiety disorders(4,7) psychophysiological disorders(4) ADHD(7) Results from a U.S. cohort study (N = 22,452) of children in whom ADHD was diagnosed (at a mean age of 7.8 years) suggest that the probability of a child with ADHD developing major depressive disorder is significantly associated with cooccurring  anxiety disorder, oppositional defiant disorder, and substance abuse(34) disruptive behavior disorders(8) substance abuse(7) There is an increased risk of early pregnancy for female children and adolescents with depression(1)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "What are the patient\u2019s occupations and role(s) within his or her family?(13) -Is the patient currently attending school? What type of school does the patient attend? What grade level? How many children per class? Obtain parent and teacher report on the patient\u2019s interactions with peers and on friendships -Pediatric patients with depression are more likely than their non-depressed  peers to have difficulty in school(1) -What extracurricular activities and hobbies did the patient enjoy prior to the onset of depression?(13) -It is important to determine what activities are/were important to the patient in order to motivate the patient to participate in therapy(13) -A patient/caregiver interview may be helpful to gain insight into the patient\u2019s hobbies, family/community roles, interests, prior school status, and home responsibilities ",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient currently use any assistive or adaptive equipment? Does the patient drive? Does the patient use public transportation?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, siblings, pets, etc. Identify if there are barriers to independence in the home; any modifications necessary? -Are the patient\u2019s family and friends supportive?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Document height, weight, and BMI and compare to age and sex norms \u2013Pediatric patients with depression can have changes in appetite, resulting in either significant weight gain or loss; often results in a change of > 5% of body weight in a period of 1 month(4) \u2013SSRIs can significantly increase BMI in adolescents(31) \u2013Infants and toddlers with depression can fail to meet standard height and growth norms due to diminished appetite(8) \u2013There are conflicting findings regarding the association between BMI and depression. This may be due to differences in the methodology of the studies; further research is warranted(30)",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or use of assistive and adaptive devices, including mobility devices, toileting and showering equipment, and other ADL/IADL aids",
+            "balance": "Evaluate static and dynamic sitting and standing balance using the Pediatric Balance Scale (PBS), Functional Reach Test, and Single Limb and Double Limb Stance with eyes open and closed",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess distal pedal pulse bilaterally; note any discrepancies or abnormalitiesBed mobility and transfers should be assessed to determine the amount of assistance needed for the patient to perform each activity \u2013WeeFIM/FIM \u2013 an 18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(16) \u2013The Timed Up-and  Go (TUG) test or Timed Up and Down Stairs (TUDS) test for functional mobility",
+            "functional mobility": "",
+            "gait locomotion": "Observe patient\u2019s gait and ability to ambulate up/down stairs (assisted or unassisted) \u2013Note use of braces or ambulatory aids for walking \u2013If the patient presents with impaired gait, refer patient to physical therapy for a complete evaluationAssess fine and gross motor function of the upper extremities; describe the quality of movement",
+            "muscle strength": "Assess muscle strength \u2013Manual muscle testing (MMT) to evaluate strength in both upper and lower extremities. Do not perform MMT with contracted muscles or muscles with tone and coordination issues \u2013Assess pinch strength and grip strength using pinch gauge and handheld dynamometer Perception  (e.g., visual field, spatial relations) \u2013Ocular motor screening includes tracking through all planes, visual accommodation, and clarity of vision \u2013Document complaints of double vision, optic pain, or visual field cuts \u2013Referral to ophthalmology or neuro-ophthalmology  is appropriate if symptoms of visual disturbances are noted during",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Patients with depression can have cognitive dysfunction, especially impairment of thought processing, including inability to concentrate, rumination, and lack of decisiveness(2,4) \u2013Cognitive dysfunction in patients with depression can impair the ability to complete tasks for school and/or pleasure(14) \u2013A brief cognitive assessment such as the Mini-Mental  State Examination (MMSE) is appropriate for patients with depression(15) \u2013Review teacher reports, individualized education programs (IEPs), etc., to gain an understanding of both premorbid and current cognitive functioning \u2013For patients with significant cognitive impairment, referral to neuropsychology is appropriate for extensive assessment and input regarding cognitive intervention",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment ",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Depression is a complicated disorder that is most effectively managed with a combination of medical, psychological, social, and behavioral treatments.(2) The OT will determine the need for intervention after a comprehensive evaluation; the OT must consider each patient\u2019s risk factors and deficits to determine if the patient is an appropriate candidate for therapy. Pediatric patients with depression might be apathetic or lack motivation to participate in therapy; this can have a negative impact on overall rehabilitation, especially for patients with comorbid deficits.(11) It may be necessary to address the symptoms of depression prior to treating other needs in order for the patient to receive maximal benefit from therapy in general(11)",
+        "rule out": "The patient\u2019s medical team will rule out or diagnose other diseases and psychological disorders prior to making a diagnosis of depression. The differential diagnosis for depression often includes: Adrenal disease(4,9) Anxiety disorders(9) Cancer(4) Chronic fatigue syndrome(4) Dementia(9) Mononucleosis(26) Sleep disorders(26) Eating disorders(9) Endocrine and thyroid dysfunction and disorders(4,9) Liver/renal failure(4) Lupus(4) Medications (abuse, side effects, overdose)(4,9) Metabolic abnormalities(4) Nutritional deficiencies (vitamin B12 deficiency, pernicious anemia, pellagra)(4,9) Organic brain diseases(4) Psychotic disorders(9) Substance abuse, dependence, and/or withdrawal(4,9)",
+        "prognosis": [
+            "Among pediatric patients with a single depressive episode, 50% will develop recurrent episodes(4,8) \u2013Management of depression is long-term  and multifaceted(4)",
+            "Major affective disorders frequently respond well to appropriate drug therapy(2)",
+            "Untreated depression in children and adolescents increases lifetime risk of substance abuse, legal problems, physical illnesses, poor academic and social functioning, and early pregnancy(7)",
+            "Predictors of poor outcomes for children and adolescents with depression include higher level of severity of depression, recurrence, comorbid disorders, feelings of hopelessness, negative cognitive style, family conflict, and low socioeconomic status(7)",
+            "Mania and bipolar disorder have good prognosis with appropriate treatment(2)",
+            "Authors of a longitudinal research study conducted in Finland found that depressive symptoms moderately decreased over the time period of adolescence to early adulthood and middle age and that the rate of that decrease was dependent on the patient\u2019s initial level of depression; those with more severe depression at initial diagnosis had a slower rate of decrease in symptoms into adulthood(20) ",
+            "Authors conducted a systematic review and meta-analysis  to determine whether depression and anxiety in adulthood are associated with childhood sexual and physical abuse \u2013Nineteen studies (115,579 study participants) met the inclusion criteria \u2013The combined odds ratios for depression were 2.04 for sexual abuse and 1.49 for physical abuse. The combined odds ratios for anxiety were 2.52 for sexual abuse and 1.70 for physical abuse \u2013Authors concluded that children and adolescents exposed to physical or sexual abuse are at increased risk for depression and anxiety as adults(29)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Referral to physical therapy if the patient has difficulty with gait, ambulation, balance, transfers, or weight-bearing Referral to recreational or vocational therapist for returning to activities of leisure and employment Referral to psychiatry, psychology, or social work if patient with depression is not currently under the care of a mental health professional and/or may benefit from assistance with issues such as facility placement Child protective services for home needs if there is an issue with family/home situation, neglect, abuse, etc.",
+        "other considerations": [
+            "Individuals with depression cannot control the intensity of their feelings(3)",
+            "Depression is a risk factor for adolescent suicide and leads to increased risk of substance abuse, obesity, social challenges, and academic difficulties(28) \u2013Pediatric patients with depression are more likely to have impaired school, social, and family functioning when compared to children and adolescents without depression(1) \u2013Authors of a longitudinal research study conducted in the United Kingdom found that sexual minority adolescents (i.e., those whose sexual orientation differs from that of the majority of society) who were depressed were more likely to have a high consumption of alcohol(27)",
+            "The therapist must consider the entire family/support network during the evaluation and treatment of the patient. Having a family member with depression can be extremely stressful for the patient\u2019s loved ones, caregiver(s), and siblings. A referral for family therapy and counseling might be appropriate(5)"
+        ],
+        "treatment summary": [
+            "Therapy might focus on improving medication/time management, ADLs/IADLs, community mobility and/or reentry, reestablishing daily routines, social integration, functional behavior training, and restoring motor and/or cognitive functioning(5) \u2013Occupational therapy programs for patients with depression should be tailored to the needs, goals, prior level of function, coping strategies, and motivational factors of the specific patient(21) \u2013For adolescents, occupational therapy might include a computer-based  depression experience journal to start a discussion about the patient\u2019s feelings(6)",
+            "It is important that the OT develop a trusting and respectful relationship with the patient in order to increase the patient\u2019s motivation for therapy; when listening to the patient discuss his or her thoughts and beliefs, the OT must fully attend to and not dismiss the patient\u2019s feelings because of the underlying depression(11)",
+            "The OT can also promote social connections and support as well as encourage the patient to reengage in the activities he or she once enjoyed, as these connections and activities are important components of recovery from depression(11)",
+            "Occupational therapy goals for patients with depression should be small and achievable, changing frequently to reflect the patient\u2019s current needs and abilities; if the goals are too difficult to achieve in a reasonable amount of time, the patient may give up, feeling that his or her belief that he or she is incompetent or worthless is accurate(11,13)",
+            "Cognitive behavioral therapy (CBT)(1,5,17,19) \u2013An OT can be trained and qualified to use CBT to aid in the rehabilitation of patients with depression(5) -In general, the underlying principle that guides CBT is that a person\u2019s thoughts and beliefs regarding a particular situation change the way in which that person acts with respect to that situation(17,19) -When a person expects failure or difficulty, failure or difficulty is more likely; when the person expects to succeed in a situation or activity, success is more likely(17)  -CBT aims to help patients identify situations that trigger their depressed moods or negative thoughts, with the goal of preventing recurrence(19) -When an OT uses the principles of CBT in occupational therapy for treatment of a patient with depression, the OT helps the patient: -alter his or her negative self-view,  in which the patient might see himself or herself as useless, undesirable, or inept(19) -change the way in which the patient interprets the world (e.g., as difficult and defeating) as well as his or her life experiences (e.g., failures, punishments)(19) -revise the patient\u2019s view of the future, in which the patient might expect to experience only disappointment, adversity, and suffering(19) -Goals of CBT are accomplished through education as well as activities designed by the OT to facilitate success and foster a sense of self-sufficiency  in the patient(19) \u2013In a case study, an OT described a course of therapy in which she utilized techniques derived from CBT to treat a 30-year-old  mother with postpartum depression who was hospitalized following her second suicide attempt(17) -The OT used the following guidelines to guide the course of therapy: -The OT should set up activities for which the mother and child have the cognitive and motor capability to successfully participate and find pleasurable; this facilitates the activity process, increasing the likelihood that the mother will sustain focus on the interaction -Given multiple successful interactions with the child in the supported environment, the mother will begin to expect success in other interactions in the same environment -Given multiple successful experiences coping with challenges and interruptions during mother-child  interactions within the supported environment, the mother will begin to expect that she can effectively manage challenges in that environment -After consistent successful and pleasurable mother-child  interactions within the supported environment, the mother will be more amenable to planning independent activities for herself and her child outside of the therapy setting -If the OT teaches the mother how to use the techniques to successfully manage challenges during mother-child interactions in home activities, the mother will begin to expect success when using these techniques herself -If the mother is trained to identify how the environment or environmental conditions affect her mood and therefore mother-child interaction, she will be more likely to manipulate her environment to support positive mother-child interaction at home -The mother and child had 6 sessions over the course of 2 weeks with the OT in a psychiatric hospital unit; the OT, the mother (patient), the child (9 months old), the husband, and grandparents were involved in the treatment sessions -Play was used as the initial activity to engage the mother and child; once the mother was more comfortable with interacting with her child, the OT guided the mother through other care activities such as clothing, diaper changing, and feeding -After discharge from the psychiatric facility, the patient received occupational therapy services in the home -Home sessions, which took place over the course of 2 years, focused on setting up the home environment for successful parent-child interactions, creating routines that promoted positive behaviors from both mother and child, and discussing the mother\u2019s expectations for the interactions with her child",
+            "ADLs/IADLs(14) \u2013Developing plans and routines to successfully complete ADLs/IADLs is important for patients with depression in order for them to feel empowered, motivated, and independent(11) \u2013For young pediatric patients, therapeutic play is often a large part of occupational therapy(6) \u2013For older children and adolescents, the focus of therapy might include vocational exploration and role-playing(6) \u2013Allow increased time for patients to complete ADLs/IADLs; provide patient and caregiver(s) education regarding extended time to complete self-care  routines where appropriate \u2013If needed, the OT can help the patient select and then train the patient and/or parents to use assistive devices to increase independence in ADLs/IADLs",
+            "Tree Theme Method (TTM)(22) \u2013In a case study, investigators examined the use of the tree theme method (TTM) as an occupational therapy intervention for a 30-year-old  female patient in whom anxiety and depression were diagnosed(22)  \u2013The TTM involves having the patient paint trees with certain specific variations so that each symbolizes the patient\u2019s self as well as parts of his or her life(22) \u2013In the case study described, the patient was seen for 5 sessions in which she was asked to paint trees symbolizing her present life situation, her childhood, her teenage years, her adult years, and her future(22) -The task of tree painting was introduced during a progressive relaxation exercise -After the patient painted each tree (during which time the OT remained silent but present in the room), the patient was asked to tell a story about herself with the tree as the starting point -The purpose of the TTM was to start a process of inner communication and reflection as well as interaction between the patient and the OT; together the patient and OT developed strategies for coping with her depression and anxiety -In a follow-up  3 years after the initial TTM treatment, the patient was re-interviewed  and asked to draw a new \u201cfuture\u201d tree that the patient herself described as much stronger than the one 3 years prior",
+            "Exercise(23) \u2013For children and adolescents, sports can be a productive way to introduce exercise(6) \u2013Authors of a systematic review of the evidence that included only randomized trials with a cumulative sample of almost 3,000 participants found that exercise is an effective method for alleviation of the symptoms of depression(23) -Exercise programs comprised aerobic and resistance exercises -Results indicated that the aerobic and resistance exercises were equally effective -Significant differences were found for exercise frequency within the clinically depressed population, with significantly larger effect for patients exercising 5 times a week compared with those exercising 2\u20134 times per week -Exercise compared to psychotherapy resulted in a larger effect size for exercise; however, the difference was not significant. Also, no significant difference was found between use of antidepressant medication and exercise for alleviation of the symptoms of depression \u2013A Cochrane review of exercise for patients with depression concluded that although it is reasonable to recommend exercise for patients with depression, it was not possible to determine how effective exercise is as a treatment method(24) -The review authors found that exercise had a large effect on depressive symptoms in patients with a diagnosis of depression when compared to no treatment; however, it is likely that the results are biased toward exercise because of methodological reasons -Authors also recommended that patients find a form of exercise that is personally enjoyable, as long-term  exercise will have the best overall results and dropout rates for exercise programs can be high \u2013Authors of a systematic review and meta-analysis  of 5 RCTs examining the effectiveness of exercise for postnatal depression found that when compared with no exercise, exercise reduced symptoms of depression in women with postnatal depression(25) -Authors of the study cautioned readers regarding the interpretation of these results, as the heterogeneity of the studies made it difficult to draw firm conclusions -Additionally, the effect size was greatly reduced when the analysis excluded a trial that examined exercise as a co-intervention  along with social support",
+            "Group therapy/support group(6) \u2013Includes family-centered  activity groups for pediatric patients(6) \u2013Educates patients about coping skills(6) \u2013Provides consultation, health promotion, restoration and remediation, prevention of further disability through psychoeducation, social skills training, referral to appropriate disciplines or resources, and case management(6) \u2013The group setting can empower patients to manage their depression rather than allowing depression to control their lives(6)",
+            "Using Writing as Therapy (UWaT) is a writing exercise that can be used to improve mental health issues and decrease symptoms of depression. It involves 6 sessions, each of which begins with the patient writing the date and giving how he or she feels a score using a 1\u201310  scale. Each session finishes with the individual writing a personal statement on self-learning. The sessions include:(35) \u2013Names: provides a baseline evaluation of the client\u2019s sense of self -Individuals are asked to explore their identity through their names, or those of significant others, and positive memories, incorporating references to the five senses  \u2013Stepping stones: explain life themes linking past experiences \u2013Habits and assumptions: help individuals explore their habits and assumptions \u2013Difficult times: assist individuals in adapting with coping strategies \u2013Flow chart of choice: help individuals reflect on life options in their current situation -Individuals are asked to explore life issues and use a flowchart system to provide a visual aid and look for \u201calternative\u201d options \u2013Celebration of life: help individuals reflect and consider the future -Individuals use positive characteristics and discuss their experience throughout the course. All 6 sessions are discussed and a final conclusion statement is written down and discussed . Problem Goal Intervention Expected Progression Home Program Depression; physical, emotional, and cognitive symptoms associated with depressionReduce symptoms of depressionTherapeutic modalities _ _ Therapeutic exercise program/sports program _ _ CBT _ _ Group therapy _ _ TTM _ _ See Treatment summary , aboveThe OT sets up tasks and supported environments in which the patient is likely to succeed; once the patient achieves his or her initial short- term goals, the OT can progress the goals as appropriate given the specific needs and abilities of the patientProvide home-based exercise program for the patient to complete independently _ _ CBT home program: patients are given graded homework assignments, role- playing tasks, and scheduled pleasurable activities as part of the therapy program Depression; impairment of ADLs/IADLsIncrease independence with ADLs/IADLsFunctional training _ _ ADL/IADL training _ _ CBT _ _ Therapeutic play _ _ V ocational training _ _ See Treatment summary , aboveThe OT sets up tasks and supported environments in which the patient is likely to succeed; once the patient achieves his or her initial short- term goals, the OT can progress the goals as appropriate given the specific needs and abilities of the patientCBT home program: patients are given graded homework assignments, role- playing tasks, and scheduled pleasurable activities as part of the therapy program ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "resolution or improvement of motor impairment associated with depression ": [],
+        "return to previous level of social and occupational functioning": [
+            "CESD-R-10"
+        ],
+        "improved cognitive functioning": [
+            "MMSE"
+        ],
+        "increased independence with adls and or iadls": [
+            "TUDS test, TUG test, PBS, MMT, WeeFIM, FIM, ROM"
+        ],
+        "improved quality of life": [
+            "Reliable measurements can be obtained by comparing scores on specific tasks/tests taken from both the initial anddischarge evaluations, utilizing standardized tests whenever possible"
+        ]
+    },
+    "maintenance or prevention": [
+        "Maintenance of occupational and cognitive functioning for patients with depression involves long-term  management of the symptoms of depression through pharmacotherapy and psychotherapy as prescribed by the patient\u2019s treating physician(4) Prevention of suicide in this patient population requires that all professionals be aware of suicide risk factors and that all verbal expressions of suicidal threat or intent be taken seriously(2,3)"
+    ],
+    "patient education": [
+        "Educating patients and their families/caregivers is an important part of occupational therapy for depression; patients are more likely to adhere to recommendations when they understand the rationale for treatment protocols(11)",
+        "Patient education resources are available at: National Institute of Mental Health website, \u201cDepression,\u201d https://www.nimh.nih.gov/health/topics/depression/index.shtml American Psychological Association website, Psychology Help Center, https://www.apa.org/helpcenter/ Depression and Bipolar Support Alliance, https://www.dbsalliance.org/ International Foundation for Research and Education on Depression website, http://www.ifred.org Mind, a nonprofit organization run by and for persons in the United Kingdom with depression; message boards, educational information, and other online resources for patients with depression: https://www.mind.org.uk/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "In: Kliegman R, St Geme J III, Shah S, et al, eds. Nelson Textbook of Pediatrics . 21st ed. Elsevier; 2020:3034-3035.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Brent DA, Maalouf F. Depressive Disorders (in Childhood and Adolescence). In: Ebert MH, Leckman JF, Petrakis IL, eds. Current Diagnosis & Treatment: Psychiatry . 3rd ed. New York: McGraw Hill; 2019:519-525.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Shoemaker NC. Clients with psychosocial and mental health concerns. In: Black JM, Hawks JH, eds. Medical-Surgical  Nursing: Clinical Management for Positive Outcomes . 8th ed. St. Louis, MO: Saunders Elsevier; 2009:421-431.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Gladwell JB, Knox SJ. Depression, Adolescent. In: Domino FJ, Baldor RA, Golding J, Stephens MB, eds. The 5-Minute Clinical Consult 2019 . 27th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Wilkins; 2019:258-259.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Swarbick M. Chapter 65: Providing Occupational Therapy Services for Persons with Major Mental Disorders Promoting Recovery and Wellness. In: Willard & Spackman's Occupational Therapy . 13th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Wilkins; 2019:1036-1046.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Coryell W. Depressive disorders. Merck Manual Professional Version Web site. https://www.merckmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders . Published March 2020. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Selph SS, McDonagh MS. Depression in children and adolescents: evaluation and treatment. Am Fam Physician . 2019;100(10):609-617.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Jeffery DA, Bianca Sava D, Winters NC. Depressive disorders. In: Cheng K, Myers KM, eds. Child and Adolescent Psychiatry The Essentials . Philadelphia, PA: Lippincott Williams & Wilkins; 2005:169-188.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Fancer T, McCarron RM, Kukoyi O, Bourgeois JA. Mood disorders - depression. In: McCarron RM, Xiong GL, Bourgeois JA, eds. Lippincott's Primary Care: Psychiatry . Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Wilkins; 2009:17-37.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Bains N, Abdijadid S. Major depressive disorder. StatPearls . : StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Costas DM. Intervention for clients with depression. Home Community Health Spec Interest Sect Q . 2006;13(4):1-3,  4. (X) "
+        },
+        {
+            "number in article": 12,
+            "reference": "Desha LN, Ziviani JM. Use of time in childhood and adolescence: a literature review on the nature of activity participation and depression. Aust Occup Ther J . 2007;54(1):4-10. (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Bent MA. Is occupation the key for women with depression?. OT Pract. 2005;10(15:16-20).  (X)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Waters D. Recovering from a depressive episode using the Canadian Occupational Performance Measure. Can J Occup Ther . 1995;62(5):278-282.  (C)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-Mental  State\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Olson L. When a mother is depressed: supporting her capacity to participate in co-occupation  with her baby - a case study. Occup Ther Ment Health . 2006;22(3-4):135-152.  (C)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Msall ME, DiGaudio K, Rogers BT, et al. The Functional Independence Measure for Children (WeeFIM): conceptual basis and pilot use in children with developmental disabilities. Clin Pediatr . 1994;33(7):421-430.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Yakobina Y, Yakobina S, Tallant BK. I came, I thought, I conquered: cognitive behavior approach applied in occupational therapy for the treatment of depressed (dysthymic) females. Occup Ther Ment Health . 1997;13(4):59-73.  (X)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Elovainio M, Pulkki-R\u00e5back  L, Jokela M, et al. Socioeconomic status and the development of depressive symptoms from childhood to adulthood: a longitudinal analysis across 27 years of follow-up in the Young Finns study. Soc Sci Med . 2012;74(6):923-929.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Creek J. Living with depression: function, activity and participation. Ment Health Occup Ther . 2006;11(2):47-49.  (X)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Gunnarsson AB, Jansson J, Eklund M. The Tree Theme Method in psychosocial occupational therapy: a case study. Scand J Occup Ther . 2006;13(4):229-240.  (C)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Rethorst CD, Wipfli BM, Landers DM. The antidepressive effects of exercise: A meta-analysis  of randomized trials. Sports Med . 2009;39(6):491-511.  (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Mead GE, Morley W, Campbell P, Greig CA, McMurdo M, Lawlor DA. Exercise for depression. Cochrane Database Syst Rev. 2009. Art. No.: CD004366. doi:10.1002/14651858.CD004366.pub4.  (M)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Daley A, Jolly K, MacArthur C. The effectiveness of exercise in the management of post-natal  depression: systematic review and meta-analysis.  Fam Pract . 2009;26(2):154-162.  (M)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Bramson R, Brown ML, Schurtz S. Depression. In: Domino FJ, ed. The 5-minute clinical consult . 25th ed. Philadelphia, PA: Wolters Kluwer; 2017:270-271.  (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Pesola F, Shelton KH, van den Bree MBM. Sexual orientation and alcohol problem use among U.K. adolescents: an indirect link through depressed mood. Addiction. 2014;109(7):1072-1080.  doi:10.1111/add.12528. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Haroz EE, Ybarra ML, Eaton WW. Psychometric evaluation of a self-report  scale to measure adolescent depression: The CESDR-10  in two national adolescent samples in the United States. J Affect Disord . 2014;158:154-160.  doi:10.1016/j.jad.2014.02.009. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Lindert J, von Ehrenstein OS, Grashow R, Gal G, Braehler E, Weisskopf MG. Sexual and physical abuse in childhood is associated with depression and anxiety over the life course: a systematic review and meta-analysis.  Int J Public Health . 2014;59(2):359-372.  (SR)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Hammerton G, Thapar A, Thapar AK. Association between obesity and depressive disorder in adolescents at high risk for depression. Int J Obes . 2014;38(4):513-519. doi:10.1038/ijo.2013.133. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Cockerill RG, Biggs BK, Oesterle TS, Croarkin PE. Antidepressant use and body mass index change in overweight adolescents: a historical cohort study. Innov Clin Neu . 2014;11(11/12):14-21.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Ford BQ, Mauss IB, Troy AS, Smolen A, Hankin B. Emotion regulation moderates the risk associated with the 5-HTT gene and stress in children. Emotion. 2014;14(5):930-939. doi:10.1037/a0036835. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "van Zundert R, van Roekel E, Engels RC, Scholte RH. Reciprocal associations between adolescents\u2019 night-time  sleep and daytime affect and the role of gender and depressive symptoms. J Youth Adolesc . 2015;44(2). doi:10.1007/s10964-013-0009-3.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Jerrell JM, McIntyre RS, Park YM. Risk factors for incident major depressive disorder in children and adolescents with attention-deficit/hyperactivity  disorder. Eur Child Adolesc Psychiatry . 2015;24(1):65-73.  doi:10.1007/s00787-014-0541-z.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Cooper P. Writing for depression in health care. Br J Occup Ther . 2013;76(4):186-193.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "McCammon S. Reframing my approach to sensory intervention. Communique . 2017;(4):18-19.  (C) "
+        }
+    ]
+}

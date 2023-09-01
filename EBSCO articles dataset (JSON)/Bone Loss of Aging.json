@@ -1,0 +1,467 @@
+{
+    "metadata": {
+        "title": "Osteoporosis",
+        "synonyms": [
+            "bone loss",
+            "bone weakness",
+            "post-menopausal  fragility fracture"
+        ],
+        "anatomical location body part affected": [
+            "Musculoskeletal system; primarily bones of spinal vertebrae, pelvis, neck of femur, distal radius, and metacarpals; affects trabecular bone more than cortical bone"
+        ],
+        "area of specialty": [
+            "women\u2019s health",
+            "geriatric rehabilitation",
+            "orthopedic rehabilitation",
+            "home health",
+            "oncology"
+        ],
+        "description": [
+            "Osteoporosis (OP) is a skeletal disorder that causes bones to weaken and break. It is characterized by decreased bone mineral density (BMD) and weakened bony microvasculature, causing bone fragility(1,2,3,4)",
+            "Incidence/prevalence \u2013It is estimated that by 2022, over 12 million persons older than 50 in the United States will have osteoporosis(5,6,7,8) \u2013Approximately 200 million people worldwide are currently diagnosed with osteoporosis and it is more common in women than men. For postmenopausal women, osteoporosis is usually because of reduced estrogen levels.(5,6,8,9) \u2013Over a million fractures in the United States are attributed to OP annually, and 70% are in women(5)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M80": {
+                "base": "osteoporosis with pathological fracture",
+                "M80.0": "postmenopausal osteoporosis with pathological fracture",
+                "M80.1": "post oophorectomy osteoporosis with pathological fracture",
+                "M80.2": "osteoporosis of disuse with pathological fracture",
+                "M80.3": "postsurgical malabsorption osteoporosis with pathological fracture",
+                "M80.4": "drug-induced osteoporosis with pathological fracture",
+                "M80.5": "idiopathic osteoporosis with pathological fracture",
+                "M80.8": "other osteoporosis with pathological fracture",
+                "M80.9": "unspecified osteoporosis with pathological fracture"
+            },
+            "M81": {
+                "base": "osteoporosis without pathological fracture",
+                "M81.0": "postmenopausal osteoporosis",
+                "M81.1": "post oophorectomy osteoporosis",
+                "M81.2": "osteoporosis of disuse",
+                "M81.3": "postsurgical malabsorption osteoporosis",
+                "M81.4": "drug-induced osteoporosis",
+                "M81.6": "localized osteoporosis (Lequesne)",
+                "M81.8": "other osteoporosis",
+                "M81.9": "osteoporosis, unspecified"
+            },
+            "M81.9": {
+                "base": "osteoporosis, unspecified",
+                "M82.0": "osteoporosis in multiple myelomatosis",
+                "M82.1": "osteoporosis in endocrine disorders",
+                "M82.8": "osteoporosis in other diseases classified elsewhere"
+            },
+            "Optional": {
+                "base": "subclassification codes to indicate site of involvement for M80, M81, M82",
+                "0": "multiple sites",
+                "1": "shoulder region",
+                "2": "upper arm",
+                "3": "forearm",
+                "4": "hand",
+                "5": "pelvic region and thigh",
+                "6": "lower leg",
+                "7": "ankle and foot",
+                "8": "other",
+                "9": "site unspecified"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement has been identified",
+            "Presentation/signs and symptoms  (25,26,40) \u2013Loss of height \u2013Thoracic back pain \u2013Thoracic and lumbar fractures \u2013Pain \u2013Stress fractures \u2013Kyphosis(sometimes causing respiratory distress) \u2013BMD T-score  \u2264 \u20132.5 -A BMD T-score  compares a patient\u2019s BMD to that of an established norm or standard. Generally, BMD test results are compared to the ideal BMD of a healthy 25\u201340-year-old  adult of the same sex. A T-score  of 0 means the BMD is equal to the norm for a healthy young adult. A T-score  between \u20131 and 1 is within 1 standard deviation (SD) of the ideal. A score between \u20131 and \u20132.5 SDs below that of the healthy young adult indicates low bone mass or osteopenia, and a score \u2264 \u20132.5 SDs below the ideal indicates OP -A Z-score  is a comparison of the patient\u2019s BMD with an age-matched  population -A Z-score  of < \u20132 should prompt an evaluation for causes of secondary OP Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "\u2013Loss of height \u2013Thoracic back pain \u2013Thoracic and lumbar fractures \u2013Pain \u2013Stress fractures \u2013Kyphosis(sometimes causing respiratory distress) \u2013BMD T-score  \u2264 \u20132.5 -A BMD T-score  compares a patient\u2019s BMD to that of an established norm or standard. Generally, BMD test results are compared to the ideal BMD of a healthy 25\u201340-year-old  adult of the same sex. A T-score  of 0 means the BMD is equal to the norm for a healthy young adult. A T-score  between \u20131 and 1 is within 1 standard deviation (SD) of the ideal. A score between \u20131 and \u20132.5 SDs below that of the healthy young adult indicates low bone mass or osteopenia, and a score \u2264 \u20132.5 SDs below the ideal indicates OP -A Z-score  is a comparison of the patient\u2019s BMD with an age-matched  population -A Z-score  of < \u20132 should prompt an evaluation for causes of secondary OP Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop the exam and notify physician if patient reports the onset of new musculoskeletal symptoms (e.g., pain, swelling, bruising, numbness, paralysis) or severe symptoms associated with exertion (e.g., chest pain, dyspnea, dizziness)",
+            "Patients with a history of recurrent falls should have a thorough assessment of fall risk.  (2) (See  Clinical Review ... Falls in Older Adults  ; CINAHL Topic ID Number: T708541)",
+            "Assess fear of falling by direct questioning or use of Falls Efficacy Scale(7)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes   ,,": [],
+        "causes include aging, hypogonadism, vitamin d deficiency, smoking, and alcohol abuse. hormonal changes also are related to bone loss in the later years of life": [],
+        "pathogenesis   ,,,,": [
+            "BMD declines continuously in women throughout adult life because bone formation, as a rule, fails to compensate for andoffset the normal bone loss with aging",
+            "OP results when peak bone mass (95% of peak reached by mid-teens)  is low in youth and/or bone resorption increasesmore than normal",
+            "Bone loading (i.e., weight-bearing  muscle contraction or exercise) is a major regulator of bone mass and bone geometry",
+            "The osteocyte network senses bone loading through the shearing stress of increased fluid flow in the lacunar-canal  system.The estrogen receptors in osteoblasts are then activated by several kinases and phosphorylation. In addition, extracellularmediators such as nitric oxide and prostaglandins may activate the osteoblasts",
+            "Unloading secondary to bed rest or physical inactivity results in rapid bone resorption and osteocyte apoptosis, leading todecreased capacity for bone formation",
+            "Proposed benefits of regular weight-bearing  physical activity or exercise program(5,6)\u2013Exercising during growth phase of adolescence increases peak bone mass, thus providing a larger \u201cbone bank\u201d to drawfrom later in life\u2013Regular weight-bearing  exercise throughout the lifespan helps to maintain BMD and bone geometry (studies show this istrue at least in the short term). Reduced weight-bearing exercises such as swimming or cycling seem to have less effect onBMD but may lower fracture risk indirectly by maintaining muscle mass and pulling force on bone\u2013Practical weight-bearing  exercise that includes walking 30 to 60 minutes a day may preserve BMD\u2013Muscle strengthening, flexibility, and balance training may reduce risk of falls and help prevent recurrent falls"
+        ],
+        "risk factors": [
+            "Nonmodifiable\u2013Age-Predominantly affects those \u2265 65 years of age(17)\u2013Sex-Female(17)-Postmenopausal women are at greatest risk(17)\u2013Genetics-Family history of OP\u2013Race-More common in persons of Caucasian and Asian descent(17)\u2013Fracture history-History of an atraumatic fracture",
+            "Modifiable\u2013Low body weight (< 58kg) or BMI < 21(17)\u2013High level of endurance training that promotes exercise-related  amenorrhea in females\u2013A diet low in calcium or vitamin D(17)\u2013Lack of physical activity and weight-bearing exercise(17)\u2013Tobacco use\u2013Excessive alcohol intake (> 3 drinks/day)\u2013Excessive caffeine intake\u2013Suboptimal B-vitamin  status associated with high levels of serum total homocysteine and methylmalonic acid increasesrisk of lumbar OP in women(41)\u2013Hyponatremia (low serum sodium, < 135 mmol/L) was associated with increased risk of total hip OP in a study with24,784 patients in the United States(42)\u2013History of falls(1,2)",
+            "Medications\u2013SSRIs(17)\u2013Antiepileptics(17)\u2013Chronic corticosteroid use (> 5 mg prednisone or equivalent for > 3 months)(17)\u2013Excessive thyroid hormone replacement(17)\u2013Heparin(17)\u2013Medroxyprogesterone acetate(17)\u2013Aromatase inhibitors (raloxifene)(17)\u2013Proton pump inhibitors (PPI)(17)",
+            "Commonly associated medical conditions(17)\u2013Cardiovascular disease\u2013Diabetes mellitus, type 2 (DM2)\u2013Endocrinopathies: hyperparathyroidism, hyperthyroidism, hypercortisolism\u2013Chronic liver disease (e.g., hemochromatosis)\u2013Hypoestrogenism, which can be associated with menopause, hypogonadism, eating disorders, and elite athletes\u2013Malabsorption syndromes: postgastrectomy, inflammatory bowel disease, celiac disease\u2013Multiple myeloma\u2013Rheumatoid arthritis\u2013COPD\u2013HIV/AIDS\u2013Multiple sclerosis\u2013Osteomalacia\u2013Cancer(27)",
+            "The Q Fracture Score uses the following clinical factors to assess fracture risk in men and women 30 to 85 years of age:age, sex, BMI, smoking, alcohol intake, glucocorticoids, asthma, cardiovascular disease, history of falls, chronic liverdisease, rheumatoid arthritis, DM2, and tricyclic antidepressants(15)",
+            "The Fracture Risk Assessment (FRAX) algorithm, developed by WHO to evaluate fracture risk, uses the following clinicalrisk factors in men and women 40 to 90 years of age: age, sex, weight, height, previous fracture, parental hip fracture,current smoking, glucocorticoids, rheumatoid arthritis, secondary OP, and alcohol intake (\u2265 3units/day)(15)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients with this diagnosis are at risk for fragility fractures and falls",
+        "Follow facility protocols for fall prevention or, if inpatient, post fall-prevention  instructions at bedside",
+        "It has been recommended that all OP patients, but especially those over 65 years of age, be assessed for fall-risk  factors(2)",
+        "Avoid spinal flexion and joint mobilizations/manipulations",
+        "Postpone physical activity/exercise therapy and notify physician in case of: chest pain resting systolic BP > 200 mm Hg resting diastolic BP > 110 mm Hg erratic, fluctuating, or inappropriate BP response  severe headache, dizziness, or lightheadedness during exercise prolonged fatigue after exercise",
+        "Contact sports should always be avoided",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop the exam and notify physician if patient reports the onset of new musculoskeletal symptoms (e.g., pain, swelling, bruising, numbness, paralysis) or severe symptoms associated with exertion (e.g., chest pain, dyspnea, dizziness)",
+            "Patients with a history of recurrent falls should have a thorough assessment of fall risk.  (2) (See  Clinical Review ... Falls in Older Adults  ; CINAHL Topic ID Number: T708541)",
+            "Assess fear of falling by direct questioning or use of Falls Efficacy Scale(7)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": " The general goal of management in OP is to reduce the risk of fracture. Document any specific treatments that have been trialed",
+                    "surgical management": [],
+                    "medications": " Pharmacological interventions specific for OP Calcium 1,200 mg/day and vitamin D 800 IU/day (18) Bisphosphonates (e.g., alendronate [Fosamax], risedronate [Actonel], ibandronate [Boniva], and zoledronic acid) (1) These drugs inhibit the resorption of bone Authors of a meta-analysis  of 9 RCTs (N = 2,464) found that compared to placebo, bisphosphonates (especially zoledronic acid and risedronate) reduce the risk of vertebral and nonvertebral  fractures by increasing BMD in men with OP(43) Osteonecrosis of the jaw has been associated with taking bisphosphonates.There may also be an increased risk of midfemoral fractures in patients taking bisphosphonates for > 5 years Selective estrogen receptor modulators, such as raloxifene (Evista) Teriparatide, a recombinant form of parathyroid hormone (PTH) Works by stimulating the growth of bone through osteoblastic activation Denosumab Works by inhibiting osteoclast formation Estrogen replacement therapy is not recommended(1) Effectively prevents and treats OP but with increased risk of myocardial infarction, stroke, breast cancer, pulmonary embolus, and DVT Strontium ranelate Seems to inhibit bone resorption and increase bone formation Available only in Europe Calcitonin PTH antagonist that reduces osteoclastic activity, thereby decreasing bone turnover",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests:  OP is diagnosed clinically on the basis of one or more fragility fractures or a T-score  of \u2264 2.5",
+                        "Measurement of BMD of the lumbar spine and hip by dual-energy  X-ray  absorptiometry (DEXA) is considered the gold standard for the diagnosis of osteoporosis(17)",
+                        "Screenall women \u2265 65 years with DEXA scan regardless of risk factors",
+                        "Screen all women > 50 years old with \u2264 10-year  fracture risk (using the FRAX tool) of > 9.3% ",
+                        "Serum biomarkers of bone loss in secondary OP: complete blood count, calcium, phosphate, 25-hydroxyvitamin  D, albumin, alkaline phosphatase, creatinine(20)",
+                        "Urinary calcium excretion",
+                        "X-rays  to assess for fracture (lack sensitivity to diagnose osteoporosis)(17)",
+                        "Home remedies/complementary therapies:  Document any treatment at home or alternative/complementary therapies (e.g., supplements, acupuncture, yoga, Pilates, tai chi, breathing exercises) that have been tried and whether they were helpful",
+                        "The combination of creatine supplementation and resistance training may improve BMD and indices of bone biology(28)",
+                        "Authors of a randomized, crossover trial (N = 24 postmenopausal women) in the United States found that the soy isoflavone supplement genistein had a favorable effect on bone calcium retention, although not as potent as an effect as risedronate(44)"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": "Document whether patient has previously received physical therapy or participated in a supervised exercise program and, if so, describe the regimen and if it was helpful or not"
+                },
+                "aggravating easing factors": "Document aggravating and easing factors and length of time each item is performed before symptoms come on or are eased",
+                "body chart": "Use body chart to document location and nature of symptoms, any muscle or joint discomfort or pain",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "If present, document number of wakings/night and whether sleeping position is disturbed by OP-related  pain",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate ability to exercise and/ or symptoms that may indicate referral to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, fatigue, saddle anesthesia) -Gastrointestinal symptoms such as difficulty swallowing may be a side effect of taking bisphosphonates(1)",
+                "respiratory status": "Document whether patient uses respiratory support, such as supplemental oxygen or a ventilator. If so, indicate the number of liters of oxygen required and by what means it is being provided Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any history of diseases associated with OP? See  Causes  and Risk Factors , above Document the patient\u2019s typical physical activity level Femoral neck fracture, pathological vertebral fractures, and distal radial fractures are most likely due to OP(22)",
+                    "comorbid diagnoses": "Is patient being treated for any of the following medical conditions anemia, diabetes mellitus, COPD, liver disease, rheumatoid arthritis, multiple myeloma, inflammatory bowel disease, celiac disease, electrolyte abnormalities, hormonal imbalance, metabolic syndrome, seizure disorder, depression, or endocrine disorders?(17) Is the patient a cancer survivor? Many cancer treatments, including some types of chemotherapy, radiation therapy, and hormone therapy, have a negative effect on bone health and can lead to osteoporosis(27) Cancer survivors may be poorly informed about the risk of bone loss due to treatment, especially those who do not fit the normal osteoporosis risk profile(27)",
+                    "medications previously prescribed": "Obtain a comprehensive list of all prescribed and OTC medications, including nutritional supplements and herbal remedies",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing that have affected functional mobility and QOL. Ask about symptoms related to physical exertion "
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient currently working? If so, describe the job duties. In what recreational activities, physical exercise, or sports does the patient participate? What is the frequency of these physical activities? What hobbies or special interests does the patient have?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient currently use assistive devices or equipment, such as a walker, cane, elevated commode, grab bars, or reachers?",
+                "living environment": "With whom does the patient live (family members, caregivers, etc.)? Identify if there are any barriers to patient\u2019s independence in the home. Has the home been assessed for fall safety?Stairs? If so, number of floors in home? Location of bedroom and bathroom? Entrance to the home? Shower vs. bathtub? Modifications within the home may need to be made depending on the patient\u2019s functional mobility status -How does the patient access his or her community (driving, public transportation, walking, etc.)?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be appropriate \u203aRelevant tests and measures:  (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Determine height (and age-related  loss of height), weight, and BMI. Is the patient underweight or overweight? \u2013Low BMI (< 21) is associated with OP(17)",
+            "assistive and adaptive devices": "Evaluate the need for any assistive and adaptive devices for ambulation or safety during ADLs. Determine the appropriate fit and instruct in proper use for any of these devices",
+            "balance": "Assess static and dynamic balance reactions using the Berg Balance Scale or functional reach test. Determine if patient\u2019s balance reactions are appropriate for independent use of exercise equipment such as treadmill or elliptical trainer",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Confirm that peripheral pulses are present in all limbs",
+            "functional mobility": "Assess basic ADLs and level of assistance required to safely and independently perform skills such as transfers, bed mobility, grooming, dressing, and toileting \u2013Use the FIM or Timed Up and Go (TUG) test to measure patient\u2019s independence with functional mobility \u2013TUG test can be used as a screening tool to assess fall risk (87% sensitivity and 87% specificity in identifying fallers and non-fallers,  respectively)(9) -Authors of a study in Sweden found that low scores for self-selected  walking speed and TUG test were associated with reduced health-related  QOL (HRQoL) in men and women 60 to 93 years of age with a history of OP-related  fractures(23)",
+            "gait locomotion": "Assess patient\u2019s gait and note any significant deviations, paying particular attention to stride length, step length/width, cadence, and reciprocal arm swing. Assess self-selected  walking speed over 4 meters,(25)safety of ambulation with Dynamic Gait Index (DGI), gait speed with the 10-meter  walk test, and stairs with the Timed Up and Down Stairs (TUDS) test",
+            "muscle strength": "Perform myotomal strength testing for upper and lower extremities using manual muscle testing (MMT) and for grip strength with handheld dynamometry",
+            "observation inspection palpation including skin assessment": [
+                "Assess for any physical deformities that may be present that might prevent or restrict participation in the prescribed exercise",
+                "Assess trunk in standing position for increased kyphosis, or scoliosis",
+                "In addition, assess standing posture for alterations in pelvic tilt, lumbar lordosis, shoulder height/position, calcaneal position, etc.",
+                "Palpate soft tissue structures of the extremities and spine for any increased tenderness or pain"
+            ],
+            "posture": "",
+            "range of motion": "Assess trunk and bilateral upper and lower extremity ROM and muscle flexibility as indicated, especially the gastrocnemius and soleus, hip flexors, and hamstrings, which can impact functional mobility \u2013Avoid spinal flexionAssess upper and lower extremity deep tendon reflexes Assess bilateral upper and lower extremity dermatomes for any abnormal sensationRefer patient for an occupational therapy evaluation if patient reports or demonstrates difficulty performing self-care  or ADL activities such as grooming, bathing, or dressing",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests \u2013The International Classification of Functioning, Disability and Health (ICF) Comprehensive Core Set for Osteoporosis can be used to assess a patient\u2019s status in various domains (e.g., sleep, emotions, pain, bladder function, muscle strength and endurance, gait)(10) \u2013Short Form Health Survey (SF-12,  SF-36)  to evaluate HRQoL",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess patient\u2019s ability to follow commands and attend to specific tasks. Is patient alert and oriented x 4?",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies",
+                "Spinal flexion and joint mobilization/manipulation are contraindicated(11) \u203aContraindications/precautions to use of  electrotherapeutic modalities",
+                "Electrotherapeutic modalities are not indicated for this condition except when the referring physician prescribes treatment for coexisting musculoskeletal conditions",
+                "Rehabilitation professionals should always use their professional judgment regarding the use of modalities"
+            ]
+        },
+        "diagnosis need for treatment": "OP Increased risk for falls and fracturesactivity level, core and extremity strength, spinal and extremity flexibility, balance and safety with ambulation, and ability to perform ADLs independently A therapeutic exercise program may reduce the potential negative effects of OP",
+        "rule out": "Multiple myeloma or other neoplasms, osteomalacia, type I collagen mutations, osteogenesis imperfecta(18)",
+        "prognosis": [],
+        "referral to other disciplines": "Physician for management of OP-related  complications; nutritionist for dietary management and advice; occupational therapist for limitations in ADLs; psychiatrist/psychologist for stress/anxiety disorder",
+        "other considerations": [
+            "A paradigm shift in the therapeutic approach to OP places more emphasis on the interaction of bone and muscle, rather than focusing solely on bone(30) \u2013In addition to the mechanical effects of muscle loading on bone function at their anatomic interface, bone-muscle interaction is seen to be an intimate relationship that involves paracrine and endocrine signaling to coordinate their growth and development, and adapt to loading and injury \u2013OP and sarcopenia are closely related conditions characterized by age-related  deterioration of the bone-muscle  unit \u2013Functionally, progressive muscle and bone loss together lead to falls, fractures, deconditioning, and further muscle wasting \u2013This points to a need for the clinical development of novel bone-muscle  therapeutic treatments such as OP site-specific muscle strengthening"
+        ],
+        "treatment summary": [
+            "Conservative interventions that may help maintain BMD and reduce OP-related  fracture risk include strength training, regular weight-bearing  exercise (e.g., walking), balance training, adequate dietary and/or supplemental calcium, and avoidance of tobacco and excessive alcohol consumption(12,13)",
+            "National guidelines for the diagnosis and treatment of OP(15,16) \u2013General recommendations -Patient education regarding exercise, dietary supplements, and avoidance of tobacco, alcohol, and caffeine(14) -Programs that target identified impairments in cardiorespiratory endurance, strength, flexibility, posture, balance, and gait -Cardiovascular exercise should involve higher impact exercise (e.g., jogging) if the patient can tolerate it and cleared by physician(14)  -Patients should progress to a program of cardiovascular exercise 3\u20135 times per week at 75\u201380% of maximum heart rate, as appropriate and tolerated \u2013Strength training should focus on hip extensors and abductors, knee extensors, ankle dorsi/plantar flexors, and upper extremity strength training that loads through the wrist. Apply to a functional context such as in sit-to-stand and TUG test. Strengthening trunk extensors to reduce thoracic kyphosis, as well as improving posture, may prevent vertebral fractures(14) -Patients should progress to a program of strength training 2\u20133 times per week at 70\u201390%  of one repetition maximum (1-RM),  2\u20133 sets of 8\u201310 repetitions, as appropriate and tolerated \u2013Include stretching exercises, especially for tight hip flexor and plantar flexor muscles (14) \u2013Include balance retraining exercises, such as functional activities in standing and walking (e.g., reaching in multiple directions and responding to perturbations; walking with turns, over obstacles, on uneven surfaces, and at varied speeds)(14) \u2013Include gait/ambulatory retraining exercises, such as focusing on foot clearance, use of appropriate assistive devices, and safety; distance walking to develop cardiorespiratory endurance(14) \u2013Padded hip protectors may be indicated in high-risk  cases, such as in long-term  care settings",
+            "Exercise programs \u2013Exercise and Sports Science Australia (ESSA) published guidelines in 2017 for safe and effective exercise for bone health(46) -Some important concepts: -Although walking is beneficial, in isolation it is not sufficient to optimize bone health -Exercise prescription for the prevention of osteoporosis should begin in childhood -In order for exercise to improve bone health, it must: -be dynamic, not static -induce relatively high bone strains -be applied rapidly -Relatively few loading cycles are required,short bouts followed by rest are more effective, and diversification of loading is necessary -Recommendation is for a minimum of 2 weekly sessions of progressive resistance training (PRT), 4\u20137 weekly sessions of impact activities, and balance training -An exercise program should take into account an individual\u2019s BMD and functional and clinical risk factors for falls and fracture (e.g., age, history of falls, balance, vision) -Guidelines based on risk of low-trauma  fracture: -Low-risk  individuals (normal BMD and functional status, no clinical risk factors for falls or fracture [e.g., children, adolescents, healthy adults]): the goal is to maximize bone mass and strength.The recommendation includes progressively increasing impact activities including jumps, hops, and multi-directional  weight-bearing activities, recreational sporting activities, high-intensity  PRT, and balance training -Moderate risk individuals (T-score  \u20131.0 to \u20132.5,  and some clinical or functional risk factors for fracture): the goal is to preserve or improve bone mass and strength, and improve muscle strength, power, and balance. The recommendation is similar to that for low-risk  individuals, but for individuals approaching a T-score  of \u20132.5 more moderate impact activities may be appropriate (e.g., running, jumping rope, racket sports). Activities that challenge balance, posture, and mobility should be a greater focus than for low-risk  individuals -High-risk  individuals (T-score  less than \u20132.5, previous fracture and/or multiple risk factors for fracture): Recommendation is for moderate-impact activities within limits of pain and increasing as tolerated, high-intensity  PRT, and balance, posture, coordination, and mobility exercises. More supervision may be required and spinal flexion must be avoided \u2013Researchers in Iran report that back extensor strengthening can improve QOL in women with OP(45) -In an RCT (N = 183), control group was treated with pharmacology and told to walk 30 minutes, 5 times each week, intervention group also performed back extensor exercises -The outcome measure used was the SF-36.Most  subscales significantly improved in the intervention group over the control group at 6 months \u2013Researchers from Turkey report that clinical Pilates exercises can improve kinesiophobia, pain, functional status, and QOL in women aged 50\u201375  with OP(47)  -Based on an RCT (N = 40); group 1 received clinical Pilates exercises 3 times per week for 6 weeks; group 2 received no intervention -All outcome measure improvements over the control group were statistically significant \u2013Researchers from Turkey who conducted a 6-month  randomized parallel prospective study found that strengthening exercises were more effective in reducing pain associated with OP and that balance and coordination exercises were more effective in improving static and dynamic balance in women with OP(48) -68 postmenopausal females with osteoporosis were randomized into 3 groups: balance and coordination, strengthening, and aerobic exercise -Groups were compared at 12 and 24 weeks; there were statistically significant improvements in the TUG and Berg Balance Scale at 12 weeks in the balance and coordination group only, and there were statistically significant improvements in night and daytime pain via the V AS at the 12th and 24th weeks in the strengthening group only -There were no falls during the course of the study \u2013Researchers from Germany found that participation in step aerobics resulted in a significant increase in plantar flexor strength in patients \u2265 65 years old with OP compared to controls(49) -Based on a RCT (N = 27); intervention group received supervised modified step aerobic training twice weekly for 6 months and the control group was given a step counter and told to maintain their normal level of physical activity \u2013Researchers in Germany found that sling training exercises were significantly better than traditional physiotherapy in reducing pain and torque forces on the spine in patients with OP(50) -Based on an RCT (N = 44); each group completed a 3-month  program: the control group performed traditional exercises, the intervention group performed similar exercises, but with a sling \u2013A short (4-week)  exercise program for OP can lead to significant changes in self-reported  QOL in women with OP or osteopenia(31) -Based on a study (N = 39) without control subjects conducted in Croatia -All participants completed a 28-day  exercise program -Exercises were 30\u201345  minutes in duration, with gradual increase in intensity and load -The primary outcome measures were SF-36  and pain (V AS) -Significant improvements in SF-36  and V AS scores were found \u2013Authors of a 2014 meta-analysis  of 7 RCTs (N = 420 adults with low bone mass) found that combining an antiresorptive agent with exercise (n = 205) had additive effects on improving lumbar spine bone mass compared to those (n = 215) who took the antiresorptive agent without exercising(32) \u2013Authors of an RCT conducted in Iran (N = 48 outpatients with hemophilia A and OP) found that resistance training may be effective for improving bone formation(33) \u2013Researchers from the United States who conducted an RCT found that impact and resistance training can be safe and effective for selected older prostate cancer survivors on androgen deprivation therapy, which is associated with significant bone loss(34) \u2013Researchers from Iran report postural training with a weighted kypho-orthosis  (WKO) together with an exercise program may be superior to an exercise program alone for improving balance in women with OP(29) -Based on a nonrandomized controlled trial (N = 31) -Patients in the control group were taught back extensor strengthening exercises to perform at home -Patients in the intervention group performed the same exercise program but in addition were provided with a custom-designed  WKO which they were instructed to wear for one hour per day while ambulating -The patients placed the WKO over the posterior thoracic spine such that a 2 lb pouch was located at the waistline -Functional reach test and TUG test improved significantly in both groups after the 4-week treatment period -Improvements in the WKO group were greater than in the control group . Problem Goal Intervention Expected Progression Home Program  Decreased knowledge regarding fracture risk reductionImprove knowledge regarding fracture risk reductionPatient education _ See Treatment summary , above, for detailsN/A Educate family and/or caregivers Decreased BMD Increase BMD Therapeutic exercises _ General strengthening exercises;weight bearing and aerobic exercises _ Please see  Treatment summary  above for detailsProgress each individual as indicatedProvide patient with home program of exercises that includes resistance training and weight-bearing aerobic activity Muscle weakness Increase strength Therapeutic exercises _ General strengthening exercises in either sitting or standing _ _ Focus on exercises that address hip extensors and abductors, knee extensors, and ankle dorsi/plantar flexors; and spinal extension exercises _ Please see  Treatment summary above for detailsProgress resistance with weights or therapeutic bandingInstruct patient in home strengthening program Decreased flexibility/ ROMImprove flexibility/ ROMTherapeutic exercises _ Address specific impairments, especially tightness of hip flexors, hamstrings, and plantar flexorsProgress from static hold to dynamic ROMInstruct patient in home stretching program Limited cardiorespiratory endurance; e.g., 6MWTImprove functional ambulatory enduranceTherapeutic exercises _ Walking program or other aerobic exercises (e.g., elliptical trainer, bike)Progress as tolerated per patient\u2019s abilityUnsupervised walking program, if safe Postural abnormalities Correction of faulty postureFunctional exercises _ Postural retraining exercises; postural educationProgress as tolerated per patient\u2019s abilityContinue exercises at home, as prescribed  Gait and balance impairments that increase fall riskImprove gait and balance performance to reduce risk of fallsGait training _ Address specific deficits and provide assistive devices if needed _ _ Balance training _ Static and dynamic balance exercises, coordination exercises _ Therapeutic exercises Activities aimed at developing muscle strength, balance, and proprioception should be encouraged to prevent falls and fractures(35)Progress difficulty of balance exercises, as toleratedIf safe, prescribe home exercise program incorporating balance activities Restrictions in daily activitiesImprove safety at home and in community _ _ Improve safety in ADLsADLs training _ Functional exercises (e.g., reaching, step up, step down, sit to stand)Progress as tolerated per patient\u2019s abilityIf safe, prescribe home exercise program incorporating functional activities ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced fracture risk": [
+            "Q Fracture Score",
+            "BMD\u2013Despite that diagnosis of OP is based on assessment of BMD, there are other determinants of bone strength and fragilitythat can give a more complete measure of bone quality(36)-OP almost always causes increases in bone fragility; however, bone fragility is not always caused solely by OP (i.e., lowBMD)-It has been suggested that OP should be considered as a feature of the disease of skeletal fragility, not as a synonym-As such, assessment of treatment success should not be based merely on changes in BMD"
+        ],
+        "improved lower extremity strength and flexibility": [
+            "MMT or weight-lifting  tests for strength, as appropriate",
+            "ROM (goniometry)"
+        ],
+        "improved physical functioning  balance, mobility, walking speed": [
+            "Berg Balance Scale",
+            "TUG test",
+            "10MWT",
+            "6MWT",
+            "DGI",
+            "FIM",
+            "Functional reach test"
+        ],
+        "patient satisfaction": [
+            "QOL",
+            "SF-36"
+        ],
+        "decreased pain": [
+            "V AS"
+        ]
+    },
+    "maintenance or prevention": [],
+    "patient education": [
+        "NIH Osteoporosis and Related Bone Diseases National Resource Center, \u201cOnce Is Enough: A Guide to Preventing Future Fractures,\u201d https://www.bones.nih.gov/health-info/bone/osteoporosis/fracture",
+        "Institute for Clinical Systems Improvement guideline on diagnosis and treatment of osteoporosis at https://www.icsi.org/ guidelines__more/catalog_guidelines_and_more/catalog_guidelines/catalog_musculoskeletal_guidelines/osteoporosis/",
+        "National Osteoporosis Foundation (NOF), https://www.nof.org/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Clinical Guidelines Committee of the American College of Physicians. Treatment of low bone density or osteoporosis to prevent fractures in men and women: A clinical practice guideline update from the American College of Physicians. Ann Intern Med . 2017;166(11):818-839.  doi:10.7326/M15-1361.  (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Misiorowski W. Osteoporosis in men. Prz Menopauzalny . 2017;16(2):70-73.  doi:10.5114/pm.2017.68596. (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "D'Amelio P, Isaia GC. Male osteoporosis in the elderly. Int J Endocrinol . 2015;2015:907689. doi:10.1155/2015/907689. (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Pouresmaeili F, Kamalidehghan B, Kamarehei M, Goh YM. A comprehensive overview on osteoporosis and its risk factors. Ther Clin Risk Manag . 2018;14:2029-2049. doi:10.2147/TCRM.S138000. (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Weppner DM, Alvero R, Lo PW. Osteoporosis. In: Ferri FF, ed. Ferri's Clinical Advisor 2018 ; 2018:925-927.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "US Preventive Services Task Force. Final recommendation statement: osteoporosis to prevent fractures: screening. US Preventive Services Task Force. https://www.uspreventiveservicestaskforce.org/Page/Document/RecommendationStatementFinal/osteoporosis-screening1 . Published June 2018. (G)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Shen CL, Wang S, Yang S, et al. A 12-week evaluation of annatto tocotrienol supplementation for postmenopausal women: safety, quality of life, body composition, physical activity, and nutrient intake. BMC Complement Altern Med . 2018;18(1):198. doi:10.1186/s12906-018-2263-0.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Alswat K. Gender disparities in osteoporosis. J Clin Med Res . 2017;9(5):382-387.  doi:10.14740/jocmr2970w. (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Akkawi I, Zmerly H. Osteoporosis: current concepts. Joints. 2018;6(2):122-127.  doi:10.1055/s-0038-1660790.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Koehler B, Kirchberger I, Glaessel A, Kool J, Stucki G, Cieza A. Validation of the International Classification of Functioning, Disability and Health Comprehensive Core Set for Osteoporosis: The perspective of physical therapists. J Geriatr Phys Ther . 2011;34(3):117-130.  doi:10.1519/JPT.0b013e31820aa990.0. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "McArthur C, Ziebart C, Laprade J. What do we know about spinal manual therapy for people with osteoporosis? A narrative review. Phys Ther Rev . 2021;26(1):42-52. doi:10.1080/10833196.2020.1852906. (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Atlihan R, Kirk B, Duque G. Non-pharmacological  interventions in osteosarcopenia: A systematic review. J Nutr Health Aging . 2021;25(1):25-32. doi:10.1007/s12603-020-1537-7.  (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Xu Z, Wang H, Shi Y, et al. Impact of calcium, vitamin D, vitamin D, vitamin K, oestrogen, isoflavone and exercise on bone mineral density for osteoporosis prevention in postmenopausal women: A network meta-analysis.  Br J Nutr. 2020;123(1):84-103.  doi:10.1017/S0007114519002290. (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Varahra A, Rodrigues IB, MacDermind JC, Bryant D, Birmingham T. Exercise to improve functional outcomes in persons with osteoporosis: A systematic review and meta-analysis.  Osteoporosis Int . 2018;29(2):265-286.  doi:10.1007/s00198-017-4339-y.  (M)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Osteoporosis: Fragility Fracture Risk: Osteoporosis: Assessing the Risk of Fragility Fracture. NICE Clinical Guidelines, No. 146. National Clinical Guideline Centre (UK) . London: Royal College of Physicians (UK); 2012. (G)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Makras P, Vaiopoulos G, Lyritis GP; Greek National Medicine Agency. 2011 guidelines for the diagnosis and treatment of osteoporosis in Greece. J Musculoskelet Neuronal Interact. 2012;12(1):38-42.  (G)"
+        },
+        {
+            "number in article": 17,
+            "reference": "McBride AJ, Kapur R. Osteoporosis and Osteopenia. In: Domino FJ, ed. The 5-Minute Clinical Consult Standard 2018 . 26th ed. Philadelphia, PA: Wolters Kluwer; 2018:712-713.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "National Osteoporosis Foundation. Clinician\u2019s guide to prevention and treatment of osteoporosis. https://my.nof.org/bone-source/education/clinicians-guide-to-the-prevention-and-treatment-of-osteoporosis . Published November 11, 2015. Accessed May 27, 2018. (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Nakazono E, Miyasaki H, Abe S, et al. Discontinuation of leisure time impact-loading  exercise is related to reduction of a calcaneus quantitative ultrasound parameter in young adult Japanese females: a 3-year follow up study. Osteoporos Int . 2014;25(2):485-495.  doi:10.1007/s00198-013-2416-4.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Howe TE, Shea B, Dawson LJ. Exercise for preventing and treating osteoporosis in postmenopausal women. Cochrane Database Syst Rev . 2011;(7):CD000333. doi:10.1002/14651858.CD000333.pub2.  (SR)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Moyer VA. Vitamin D and calcium supplementation to prevent fractures in adults: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med . 2013;158(9):691-696.  doi:10.7326/0003-4819-158-9-201305070-00603.   (PGR)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Warriner AH, Patkar NM, Curtis JR, et al. Which fractures are most attributable to osteoporosis? J Clin Epidemiol . January 2011;64(1):46-53.  doi:10.1016/j.jclinepi.2010.07.007. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Ekstr\u00f6m H, Dahlin-Ivanoff  S, Elms\u00e5hl S. Effects of walking speed and results of timed get-up-and-go  tests on quality of life and social participation in elderly individuals with a history of osteoporosis-related  fractures. J Aging Health . 2011;23(8):1379-1399.  doi:10.1177/0898264311418504. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Heng C, Badner VM, Vakkas TG, Johnson R, Yeo Y. Bisphosphonate-related  osteonecrosis of the jaw in patients with osteoporosis. Am Fam Physician . June 15, 2012;85(12):1134-1141.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Jamwal S, Bottomley J. Osteoporosis. GeriNotes . 2014;21(2):19-24.  (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Badiyani KR, Bottomley J. Osteoporosis and its management in the elderly. GeriNotes . 2014;21(2):11-18.  (RV)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Almstedt HC, Tarleton HP. Mind the gaps: Missed opportunities to promote bone health among cancer survivors. Support Care Cancer . 2015;23(3):611-614. doi:10.1007/s00520-014-2497-4.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Candow DG, Chilibeck PD, Forbes SC. Creatine supplementation and aging musculoskeletal health. Endocrine . 2014;45(3):354-361.  doi:10.1007/s12020-013-0070-4.  (M)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Raeissadat SA, Sedighipour L, Pournajaf S, Vahab Kashani R, Sadeghi S. Effect of posture training with weighted kypho-orthosis  (WKO) on improving balance in women with osteoporosis. J Aging Res . 2014;2014:427903. doi:10.1155/2014/427903. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Girgis CM, Mokbel N, Digirolamo DJ. Therapies for musculoskeletal disease: Can we treat two birds with one stone? Curr Osteoporos Rep . 2014;12(2):142-153. doi:10.1007/s11914-014-0204-5.  (RV)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Cesarec G, Martinec S, Basic I, Jakopic D. Effect of exercises on quality of life in women with osteoporosis and osteopenia. Coll Antropol . 2014;38(1):247-254.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Zhang J, Gao R, Cao P, Yuan W. Additive effects of antiresorptive agents and exercise on lumbar spine bone mineral density in adults with low bone mass: A meta-analysis. Osteoporos Int . 2014;25(5):1585-1594.  doi:10.1007/s00198-014-2644-2.  (M)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Parhampour B, Torkaman G, Hoorfar H, Hedayati M, Ravanbod R. Effects of short-term  resistance training and pulsed electromagnetic fields on bone metabolism and joint function in severe haemophilia A patients with osteoporosis: A randomized controlled trial. Clin Rehabil . 2014;28(5):440-450.  doi:10.1177/0269215513505299. (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Winters-Stone  KM, Dobek JC, Bennett JA, Maddalozzo GF, Ryan CW, Beer TM. Skeletal response to resistance and impact training in prostate cancer survivors. Med Sci Sports Exerc . 2014;46(8):1482-1488.  doi:10.1249/MSS.0000000000000265. (RCT)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Moreira LD, Oliveira ML, Lirani-Galvao  AP, Marin-Mio  RV, Santos RN, Lazaretti-Castro  M. Physical exercise and osteoporosis: Effects of different types of exercises on bone and physical function of postmenopausal women. Arq Bras Endocrinol Metabol . 2014;58(5):514-522.  (RV)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Fonseca H, Moreira-Goncalves  D, Coriolano HJ, Duarte J. Bone quality: The determinants of bone strength and fragility. Sports Med . 2014;44(1):37-53. doi:10.1007/s40279-013-0100-7.  (RV)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Carter MI, Hinton PS. Physical activity and bone health. Mo Med. 2014;111(1):59-64.  (RV)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Mosti MP, Carlsen T, Aaas E, Hoff J, Stunes AK, Syversen U. Maximal strength training improves bone mineral density and neuromuscular performance in young adult women. J Strength Cond Res . 2014;28(10):2935-2945.  doi:10.1519/jsc.0000000000000493. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Maccagno RS, Kessenich CR. Motivational interviewing and adherence to osteoporosis regimens. Womens Healthc . 2014;2(3):40-45.  (RV)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Slovik DM. Osteoporosis. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 3rd ed. Philadelphia, PA: Elsevier Saunders; 2015:740-745.  (GI)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Bailey RL, Looker AC, Lu Z, et al. B-vitamin status and bone mineral density and risk of lumbar osteoporosis in older females in the United States. Am J Clin Nutr . 2015;102(3):687-694.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Afshinnia F, Sundaram B, Ackermann R, Wong K. Hyponatremia and osteoporosis: reappraisal of a novel association. Osteoporos Int . 2015;26(9):2291-2298.  (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Chen L, Wang G, Zheng F, Zhao H, Li H. Efficacy of bisphosphonates against osteoporosis in adult men: a meta-analysis  of randomized controlled trials. Osteoporos Int . 2015;26(9):2355-2363.  (SR)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Pawlowski JW, martin BR, McCabe GP, et al. Impact of equol-producing  capacity and soy-isoflavone  profiles of supplement on bone calcium retention in postmenopausal women: a randomized crossover trial. Am J Clin Nutr . 2015;102(3):695-703.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Khalili A, Almasi MH, Raeissadat SA, Sedighipour L, Salek Zamani Y, Zohoor MRO. Long-term  effects of back extensor strengthening exercises on quality of life in women with osteoporosis. J Women Aging . 2017;29(6):505-514.  doi:10.1080/08952841.2016.1223968. (RCT)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Beck BR, Daly RM, Fiatarone Singh MA, Taaffe DR. Exercise and Sports Science Australia (ESSA) position statement on exercise prescription for the prevention and management of osteoporosis. J Sci Med Sport . 2017;20(5):438-445.  doi:10.1016/j.jsams.2016.10.001. (G)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Oksuz S, Unal E. The effect of the clinical pilates exercises on kinesiophobia and other symptoms related to osteoporosis: Randomised controlled trial. Complement Ther Clin Pract. 2017;26:68-72.  doi:10.1016/j.ctcp.2016.12.001. (RCT)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Dizdar M, Irdesel JF, Dizdar OS, Topsa\u00e7 M. Effects of Balance-Coordination,  Strengthening, and Aerobic Exercises to Prevent Falls in Postmenopausal Patients With Osteoporosis: A 6-Month Randomized Parallel Prospective Study. J Aging Phys Activity . 2018;26(1):41-51.  doi:10.1123/japa.2016-0284.  (RCT)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Behrens M, M\u00fcller K, Kilb JI, et al. Modified step aerobics training and neuromuscular function in osteoporotic patients: a randomized controlled pilot study. Arch Orthop Trauma Surg . 2017;137(2):195-207.  doi:doi:10.1007/s00402-016-2607-5.  (RCT)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Schr\u00f6der G, Knauerhase A, Willenberg HS, Kundt G, Wendig D, Schober HC. Biomechanics of the osteoporotic spine, pain, and principles of training. Arch Orthop Trauma Surg. 2017;137(5):617-624.  doi:doi:10.1007/s00402-017-2669-z.  (RCT)"
+        }
+    ]
+}

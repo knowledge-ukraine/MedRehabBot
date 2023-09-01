@@ -1,0 +1,351 @@
+{
+    "metadata": {
+        "title": "Berg Balance Scale \u2022The patient is instructed to complete 14 different tasks that challenge balance. Gait items are not included in the scale. In most items, the patient is asked to maintain a given position for a specific time. Points are deducted if: \u2013the time or distance requirements are not met \u2013the patient\u2019s performance warrants supervision \u2013the patient touches an external support or receives assistance from the examiner \u2022A copy of the BBS can be obtained online from the Internet Stroke Center website, http://www.strokecenter.org/professionals/stroke-diagnosis/stroke-assessment-scales/ , or at https://cdn.ymaws.com/ www.fpta.org/resource/resmgr/imported/Balance%20Assessements.pdf",
+        "synonyms": [
+            "berg functional balance scale"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [],
+        "description": [
+            "The Berg Balance Scale (BBS) is by far the most commonly used balance assessment.(1) This test was developed by Katherine Berg primarily for use with older adults. Subsequently, the BBS has been administered to patients with conditions that affect balance such as stroke,(1) Parkinson disease,(2) spinal cord injury,(2,3,4) and a variety of other disorders(5)",
+            "The BBS is a 14-item  scale that quantitatively assesses balance and risk of falls in community-dwelling  older adults through direct observation of their performance(6)",
+            "The BBS measures the patient\u2019s ability to maintain balance statically or while performing self-initiated  functional movements for a specified duration of time"
+        ],
+        "indications": [
+            "Impaired balance and functional mobility",
+            "At risk for falls"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "C69-C72": "Neoplasms of brain and other parts of central nervous system",
+            "G00-G99": {
+                "base": "Diseases of the nervous system",
+                "G35": "Multiple sclerosis",
+                "G20": "Parkinson\u2019s disease"
+            },
+            "H80-H83": {
+                "base": "Diseases of inner ear",
+                "H81": "Disorders of vestibular function"
+            },
+            "I60-I69": {
+                "base": "Cerebrovascular diseases",
+                "I63": "Cerebral infarction",
+                "I69": "Sequelae of cerebrovascular disease"
+            },
+            "M00-M99": "Diseases of the musculoskeletal system",
+            "S00-T98": "Injury and poisoning",
+            "R00-R99": {
+                "base": "Symptoms and signs involving the nervous and musculoskeletal systems",
+                "R26": "Abnormalities of gait and mobility",
+                "R26.2": " R26.2 Walking difficulty NEC",
+                "R26.9": " R26.9 Gait abnormality",
+                "R27": "Other lack of coordination",
+                "R29": "Other symptoms involving the nervous and musculoskeletal systems",
+                "R": " R 29.6 Repeated falls",
+                "R42": "Dizziness and giddiness",
+                "R54": "Age-related physical debility"
+            },
+            "W00-W19": "Slipping, tripping, stumbling and falls (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "97001": "Initial physical therapy evaluation",
+            "97002": "Physical therapy reevaluation",
+            "97750": "Physical performance test or measurement, with written report"
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement will depend on insurance contract coverage. No specific special agencies are applicable for this assessment, and no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Patients undergoing this test are at increased risk for falls. Follow facility protocols for fall prevention and provide appropriate guarding/assistance to ensure the patient\u2019s safety while administering this test",
+            "This test should not be used if it cannot be completed safely or if the patient\u2019s cognition and/or mental status prevents him or her from adequately following instructions"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [
+            "Loss of balance during testing",
+            "Subjects need to understand that they must maintain their balance while attempting the tasks. The choices of which leg to stand on or how far to reach are left to the subject. Poor judgment will adversely influence the performance and the scoring",
+            "Weaknesses of the BBS that have been identified include a higher average time to administer the test (compared to the POMA-B)  and an inability to detect changes in gait(23) \u2013Within a cohort of acute post-stroke  patients, the Static Balance Test was found to be equally valid, more reliable, and to take much less time than the BBS, so may be more appropriate for use in acute stroke care, especially for daily routine testing(36)",
+            "Authors of a study conducted in the United States suggest that the linguistic complexity of the BBS may limit its validity for assessing patients with aphasia(37) \u2013Persons with aphasia performed significantly better on a modified version of the BBS that reduced linguistic complexity and added visual and written cues along with modeling and repetition compared to their performance on the BBS \u2013This indicates that at least some of their performance difficulty was likely due to poor auditory comprehension of test instructions rather than true balance difficulty"
+        ],
+        "test preparation materials required": [
+            "Two chairs \u2013 one with arms, one without; stool for sitting without back support; stopwatch; ruler; step",
+            "No specialized training is required"
+        ],
+        "test procedure": [
+            "The patient is instructed to complete 14 different tasks that challenge balance. Gait items are not included in the scale. In most items, the patient is asked to maintain a given position for a specific time. Points are deducted if: \u2013the time or distance requirements are not met \u2013the patient\u2019s performance warrants supervision \u2013the patient touches an external support or receives assistance from the examiner",
+            "A copy of the BBS can be obtained online from the Internet Stroke Center website, http://www.strokecenter.org/professionals/stroke-diagnosis/stroke-assessment-scales/ , or at https://cdn.ymaws.com/ www.fpta.org/resource/resmgr/imported/Balance%20Assessements.pdf"
+        ],
+        "test scoring interpretation": [
+            "Items are scored from 0 to 4, with a score of 0 representing inability to complete the task and 4 representing ability to complete the task independently",
+            "Total possible score is 56 points, with higher scores indicating better balance ability",
+            "A total score of 0 to 20 represents balance impairment (which may indicate wheelchair dependence), 21 to 40 represents acceptable balance (which may indicate walking with assistance), and 41 to 56 represents good (independent) balance",
+            "Individuals 69 years old without any health conditions likely to affect mobility can be expected to have a BBS score of 56/56(31)",
+            "Results of a systematic review with meta-analysis  indicate that healthy community-dwelling  older adults have modest balance deficits as measured by the BBS(25) \u2013BBS scores decline and become more variable with increasing age(25)",
+            "Normal rate of decline is 0.75 points per year after age 69(31) ",
+            "In SCI, BBS scores are not associated with the number of falls and the BBS is not able to discriminate fallers from nonfallers(3)",
+            "The BBS is based on subjective assessment by the physical therapist and provides information about balance at that particular moment, so is not suitable for continuous fall-risk  evaluation in free-living situations(38)",
+            "G-code  modifier correlates with BBS: \u2013CH: 56 \u2013CI: 45\u201355 \u2013CJ: 34\u201344 \u2013CK: 23\u201333 \u2013CL: 12\u201322 \u2013CM: 1\u201311 \u2013CN: 0"
+        ]
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "",
+        "other considerations": [],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {},
+    "maintenance or prevention": [],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Donato SM, Pulaski KH. Overview of balance impairments: functional implications. In: Stroke Rehabilitation. A Function-Based  Approach . St Louis, MO: Elsevier Mosby; 2011:189-209.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "King LA, Priest KC, Salarian A, Pierce D, Horak FB. Comparing the Mini-BESTest  with the Berg Balance Scale to evaluate balance disorders in Parkinson\u2019s disease. Parkinsons Dis . 2012;375419. doi:10.1155/2012/375419. (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Wirz M, Muller R, Bastiaenen C. Falls in persons with spinal cord injury: validity and reliability of the Berg Balance Scale. Neurorehabil Neural Repair . 2010;24(1):70-77. doi:10.1177/1545968309341059. (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Datta S, Lorenz DJ, Harkema SJ. Dynamic longitudinal evaluation of the utility of the Berg Balance Scale in individuals with motor incomplete spinal cord injury. Arch Phys Med Rehabil. 2012;93(9):1565-1573.  doi:10.1016/j.apmr.2012.01.026. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "La Porta F, Caselli S, Susassi S, Cavallini P, Tennant A, Franceschini M. Is the Berg Balance Scale an internally valid and reliable measure of balance across different etiologies in neurorehabilitation? A revisited Rasch analysis study. Arch Phys Med Rehabil . 2012;93(7):1209-1216.  doi:10.1016/j.apmr.2012.02.020. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Blum L, Korner-Bitensky  N. Usefulness of the Berg Balance Scale in stroke rehabilitation: A systematic review. Phys Ther . 2008;88(5):559-566.  doi:10.2522/ptj.20070205.   (SR)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Berg KO, Wood-Dauphinee  SL. Measuring balance in the elderly: Validation of an instrument. Can J Public Health . 1992;83(Suppl 2):S7-S11.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Rehab Measures. Berg Balance Scale Web site. https://www.sralab.org/rehabilitation-measures/berg-balance-scale . Accessed October 31, 2020. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Downs S, Marquez J, Chiarelli P. The Berg Balance Scale has high intra- and inter-rater  reliability but absolute reliability varies across the scale: a systematic review. J Physiother . 2013;59(2):93-99.  doi:10.1016/S1836-9553(13)70161-9.  (SR)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Godi M, Franchignoni F, Caligari M, Giordano A, Turcato AM, Nardone A. Comparison of reliability, validity, and responsiveness of the Mini-BESTest  and Berg Balance Scale in patients with balance disorders. Phys Ther . 2013;93(2):158-167.  doi:10.2522/ptj.20120171. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Conradsson M, Lundin-Olsson  L, Lindelof N, et al. Berg Balance Scale: intrarater test-retest  reliability among older people dependent in activities of daily living and living in residential care facilities. Phys Ther . 2007;87(9):1155-1163.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Leddy AL, Crowner BE, Earhart GM. Functional Gait Assessment and balance evaluation system test: Reliability, validity, sensitivity, and specificity for identifying individuals with Parkinson disease who fall. Physical Therapy . 2011;91(1):102-113.  doi:10.2522/ptj.20100113. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Berg K, Wood-Dauphinee  S, Williams JI. The Balance Scale: reliability assessment with elderly residents and patients with an acute stroke. Scand J Rehabil Med . 1995;27(1):27-36.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "De Figueiredo KMO, de Lima KC, Cavalcanti Maciel AC, Guerra RO. Interobserver reproducibility of the Berg Balance Scale by novice and experienced physiotherapists. Physiother Theory Pract . 2009;25(1):30-36.  doi:10.1080/09593980802631330. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Muir SW, Berg K, Chesworth B, Speechley M. Use of the Berg Balance Scale for predicting multiple falls in community-dwelling  elderly people: A prospective study. Phys Ther . 2008;88(4):449-459.  doi:10.2522/ptj.20070251. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Neuls PD, Clark TL, Van Heuklon NC, et al. Usefulness of the Berg Balance Scale to predict falls in the elderly. J Geriatric Phys Ther . 2011;34(1):3-10.  doi:10.1097/ JPT.0b013e3181ff2b0e.   (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Santos GM, Souza AC, Virtuoso JF, Tavares GM, Mazo GZ. Predictive values at risk of falling in physically active and no active elderly with Berg Balance Scale. Rev Bras Fisioter. 2011;15(2):95-101.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Lemay J, Nadeau s. Standing balance assessment in ASIA D paraplegic and tetraplegic participants: concurrent validity of the Berg Balance Scale. Spinal Cord . 2012;48(3):245-250.  doi:10.1038/sc.2009.119. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Straube D, Moore J, Leech K, Hornby TG. Item analysis of the Berg Balance Scale in individuals with subacute and chronic stroke. Top Stroke Rehabil . 2013;20(3):241-249. doi:10.1310/tsr2003-241.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Donoghue D, Stokes EK; Physiotherapy Research and Older People (PROP) group. How much change is true change? The minimum detectable change of the Berg Balance Scale in elderly people. J Rehabil Med . 2009;41(5):343-346.  doi:10.2340/16501977-0337.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Wong CK. Interrater reliability of the Berg Balance Scale when used by clinicians of various experience levels to assess people with lower limb amputations. Phys Ther . 2014;94(3):371-378.  doi:10.2522/ptj.20130182. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Matsushima M, Yabe I, Uwatoko H, Shirai S, Hirotani M, Sasaki H. Reliability of the Japanese version of the Berg Balance Scale. Int Med. 2014;53(15):1621-1624.  doi:10.2169/ internalmedicine.53.2662. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Schulein S. [Comparison of the performance-oriented  mobility assessment and the Berg balance scale. Assessment tools in geriatrics and geriatric rehabilitation]. Zeit Geront Geriatr. 2014;47(2):153-164.  doi:10.1007/s00391-013-0492-x.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Chen KL, Chou YT, Yu WH, Chen CT, Shih CL, Hseih CL. A prospective study of the responsiveness of the original and the short form Berg Balance Scale in people with stroke. Clin Rehabil . Advance online publication. 2015;29(5):468-476.  doi:10.1177/0269215514549032. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Downs S, Marquez J, Chiarelli P. Normative scores on the Berg Balance Scale decline after age 70 years in healthy community-dwelling  people: a systematic review. J Physiother . 2014;60(2):85-89.  doi:10.1016/j.jphys.2014.01.002.  (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Kim SG, Kim MK. The intra- and inter-rater  reliabilities of the Short Form Berg Balance Scale in institutionalized elderly people. J Phys Ther Sci . 2015;27(9):2733-2734. doi:10.1589/jpts.27.2733. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Ries JD, Hutson J, Maralit LA, Brown MB. Group balance training specifically designed for individuals with Alzheimer disease: Impact on Berg balance scale, timed up and go, gait speed, and mini-mental  status examination. J Geriatr Phys Ther . 2015;38(4):183-193.  doi:10.1519/JPT.0000000000000030. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Telenius EW, Engedal K, Bergland A. Inter-rater  reliability of the Berg balance scale, 30 s chair stand test and 6 m walking test, and construct validity of the Berg balance scale in nursing home residents with mild-to-moderate  dementia. BMJ Open . 2015;5(9):e008321. doi:10.1136/bmjopen-2015-008321.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Jantakat C, Ramrit S, Emasithi A, Siritaratiwat W. Capacity of adolescents with cerebral palsy on paediatric balance scale and Berg balance scale. Res Dev Dis . 2014;36C:72-77.  doi:10.1016/j.ridd.2014.09.016. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Schlenstedt C, Brombacher S, Hartwigsen G, Weisser B, Moller B, Deuschl G. Comparison of the Fullerton Advanced Balance Scale, Mini-BESTest,  and Berg Balance Scale to predict falls in Parkinson disease. Phys Ther . Advance online publication. September 17, 2015. doi:10.2522/ptj.20150249. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Downs S. The Berg balance scale. J Physiother . 2015;61(1):46. doi:10.1016/j.jphys.2014.10.002. (RV)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Maeda N, Urabe Y, Murakami M, Itotani K, Kato J. Discriminant analysis for predictor of falls in stroke patients by using the Berg Balance Scale. Singapore Med J . 2015;56(5):280-283.  doi:10.11622/smedj.2015033.   (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "La Porta F, Giordano A, Caselli S, Foti C, Franchignoni F. Is the Berg balance scale an effective tool for the measurement of early postural control impairments in patients with Parkinson\u2019s disease? Evidence from Rasch analysis. Eur J Phys Rehabil Med . Advance online publication. September 2, 2015. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Kobayashi T, Leung AK, Akazawa Y, Hutchins SW. Correlations between Berg balance scale and gait speed in individuals with stroke wearing ankle-foot  orthoses \u2013 a pilot study. Disabil Rehabil Assist Technol . Advance online publication. June 2014;23:1-4.  doi:10.3109/17483107.2014.932019. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Lee DK, Kang MH, Lee TS, Oh JS. Relationships among the Y balance test, Berg balance scale, and lower limb strength in middle-aged  and older females. Braz J Phys Ther . 2015;19(3):227-234.  doi:10.1590/bjpt-rbf.2014.0096.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Pickenbrock HM, Diel A, Zapf A. A comparison between the static balance test and the Berg balance scale: Validity, reliability, and comparative resource use. Clin Rehabil . Advance online publication. March 23, 2015;0269215515578297. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Carter A, Nicholas M, Hunsaker E, Jacobson AM. Modified Berg balance scale: Making assessment appropriate for people with aphasia. Top Stroke Rehabil . 2015;22(2):83-93. doi:10.1179/1074935714Z.0000000034. (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Simila H, Mantyjarvi J, Merilahti J, Lindholm M, Ermes M. Accelerometry-based  balance scale score estimation. IEEE J Biomed Health Inform . 2014;18(4):1114-1121. doi:10.1109/JBHI.2013.2288940. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Kim SG, Kim MK. The intra- and inter-rater  reliabilities of the Short Form Berg Balance Scale in institutionalized elderly people. J Phys Ther Sci . 2015;27(9):2733-2734.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Pickenbrock HM, Diel A, Zapf A. A comparison between the Static Balance Test and the Berg Balance Scale: validity, reliability, and comparative resource use. Clin Rehabil . 2016;30(3):288-293.  (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Babaei-Ghazani  A, Mohammadi H, Shahidi G, et al. Reliability and validity of the Persian translation of Berg Balance Scale in Parkinson disease. Aging Clin Exp Res . 2017;29(5):857-862.  doi:10.1007/s40520-016-0682-7.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Freixes O, Passuni DA, Buffetti E, Elizalde M, Lastiri F. Berg Balance Scale: inter-rater  and intra-rater  reliability of the Spanish version with incomplete spinal cord injured subjects. Spinal Cord Ser Cases . 2020;6(1):28. doi:10.1038/s41394-020-0278-5.  (RV)"
+        }
+    ]
+}

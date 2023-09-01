@@ -1,0 +1,487 @@
+{
+    "metadata": {
+        "title": "Stroke Rehabilitation  Cognitive Deficits \u2013 Occupational Therapy",
+        "synonyms": [
+            "occupational therapy \u2013 cognitive deficits  stroke rehabilitation",
+            "cognitive deficits \u2013 occupational therapy: stroke rehabilitation",
+            "cerebrovascular accident rehabilitation: cognitive deficits \u2013 occupational therapy",
+            "cv a rehabilitation: cognitive deficits \u2013 occupational therapy"
+        ],
+        "anatomical location body part affected": [
+            "The brain (cerebral cortex, cerebellum, and/or brainstem)"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation"
+        ],
+        "description": [
+            "A stroke is an acquired injury to the brain caused by reduced blood supply leading to infarction (necrosis of brain tissue) or by a hemorrhage within the parenchyma of the brain(1,2,30)",
+            "An estimated 6.8 million Americans \u2265 20 years of age have had a stroke. Overall stroke prevalence is estimated at 2.8%(29)",
+            "More than half of patients with stroke experience cognitive deficits(32) or application of equipment  Cognitive impairments Improve the patient\u2019s cognitive capabilities in functional tasksFunctional training _ Therapy will focus on improving the specific cognitive skills (such as increasing attention to tasks or improving problem-solving skills), as well as incorporating compensatory strategies into functional activities _ _ Compensatory strategies include memory logs, visual aids, checklists, diagrams, maps, limiting distractions, etc.(3) _ _ See Treatment summary , aboveAs the patient\u2019s cognitive abilities improve, the OT will increase cognitive demands and task complexityProvide the patient with cognitive exercises; daily completion of exercises as recommended by the treating OT Perceptual impairments Improve the patient\u2019s perceptual capabilities in functional tasksFunctional training _ To increase tactile awareness, OT may provide repetitive stimulation of the affected hand with various textures such as foam, terry cloth, and Velcro(3) _ _ Therapy will focus on improving perceptual skills, as well as incorporating compensatory strategies into functional activities _ _ See Treatment summary , aboveAs the patient\u2019s sensory and perceptual abilities improve, the OT will increase cognitive demands and task complexityProvide the patient with perceptual exercises; daily completion of exercises as recommended by the treating OT .  Desired Outcomes/Outcome Measures"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "I61": {
+                "base": "intracerebral hemorrhage",
+                "I61.0": "intracerebral hemorrhage in hemisphere, subcortical",
+                "I61.1": "intracerebral hemorrhage in hemisphere, cortical",
+                "I61.2": "intracerebral hemorrhage in hemisphere, unspecified",
+                "I61.3": "intracerebral hemorrhage in brain stem",
+                "I61.4": "intracerebral hemorrhage in cerebellum",
+                "I61.5": "intracerebral hemorrhage in traventricular",
+                "I61.6": "intracerebral hemorrhage, multiple localized",
+                "I61.8": "other intracerebral hemorrhage",
+                "I61.9": "intracerebral hemorrhage, unspecified"
+            },
+            "I62": {
+                "base": "other nontraumatic intracranial hemorrhage",
+                "I62.0": "subdural hemorrhage(acute) (nontraumatic)",
+                "I62.1": "nontraumatic extradural hemorrhage",
+                "I62.9": "intracranial hemorrhage (nontraumatic), unspecified"
+            },
+            "I63": {
+                "base": "cerebral infarction",
+                "I63.0": "cerebral infarction due to thrombosis of precerebral arteries",
+                "I63.1": "cerebral infarction due to embolism of precerebral arteries",
+                "I63.2": "cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries",
+                "I63.3": "cerebral infarction due to thrombosis of cerebral arteries",
+                "I63.4": "cerebral infarction due to embolism of cerebral arteries",
+                "I63.5": "cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries",
+                "I63.6": "cerebral infarction due to cerebral venous thrombosis, nonpyogenic",
+                "I63.8": "other cerebral infarction",
+                "I63.9": "cerebral infarction, unspecified"
+            },
+            "I64": "stroke, not specified as hemorrhage or infarction",
+            "I65": {
+                "base": "occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",
+                "I65.0": "occlusion and stenosis of vertebral artery",
+                "I65.1": "occlusion and stenosis of basilar artery",
+                "I65.2": "occlusion and stenosis of carotid artery",
+                "I65.3": "occlusion and stenosis of multiple and bilateral precerebral arteries",
+                "I65.8": "occlusion and stenosis of other precerebral artery",
+                "I65.9": "occlusion and stenosis of unspecified precerebral artery"
+            },
+            "I66": {
+                "base": "occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",
+                "I66.0": "occlusion and stenosis of middle cerebral artery",
+                "I66.1": "occlusion and stenosis of anterior cerebral artery",
+                "I66.2": "occlusion and stenosis of posterior cerebral artery",
+                "I66.3": "occlusion and stenosis of cerebellar arteries",
+                "I66.4": "occlusion and stenosis of multiple and bilateral cerebral arteries",
+                "I66.8": "occlusion and stenosis of other cerebral artery",
+                "I66.9": "occlusion and stenosis of unspecified cerebral artery"
+            },
+            "I69": {
+                "base": "sequelae of cerebrovascular disease",
+                "I69.0": "sequelae of subarachnoid hemorrhage",
+                "I69.1": "sequelae of intracerebral hemorrhage",
+                "I69.2": "sequelae of other nontraumatic intracranial hemorrhage",
+                "I69.3": "sequelae of cerebral infarction",
+                "I69.4": "sequelae of stroke, not specified as hemorrhage or infarction",
+                "I69.8": "sequelae of other and unspecified cerebrovascular diseases"
+            },
+            "H53.8": "other visual disturbances",
+            "R41.8": "other and unspecified symptoms and signs involving cognitive functions and awareness",
+            "R44.8": "other and unspecified symptoms and signs involving general sensations and perceptions (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Each survivor of stroke presents differently as a result of the specific location and severity of the stroke.(2) Cognitive impairments that might be observed in survivors of stroke include:",
+            "disorientation and confusion(3,4)",
+            "impaired executive functioning skills(5)",
+            "impaired reasoning and sequential thought(3,4)",
+            "impaired memory(5)",
+            "lack of organization and problem-solving  skills(3,4)",
+            "reduced attention and concentration(3,5)",
+            "reduced judgment and safety awareness(3)",
+            "impulsiveness(3)",
+            "reduced processing speed/reaction time(4)",
+            "For a full list of signs and symptoms of stroke, see Clinical Review\u2026Stroke Rehabilitation: Occupational Therapy\u2013an Overview ; CINAHL Topic ID Number: T708955 Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Patients who have had a stroke will have different patterns of deficits as a result of the specific size and location of lesion; occupational therapy evaluations for survivors of stroke should utilize a client-centered  approach to most effectively evaluate deficits and needs(6,13) \u2013A client-centered  approach is based on the following principles: (6) -The patient is uniquely qualified to make decisions about his or her occupational functioning -The patient should have an active role in determining goals and desired outcomes -The patient-therapist  relationship should be interdependent -Evaluation and treatment should focus on the patient\u2019s culture, roles, interests, etc. -When the patient can define the problems that he or she would like to work on, the patient also becomes a problem solver -The patient should evaluate his or her own performance and set personal goals"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  stroke is caused by decreased blood supply to an area of the brain  ischemic  or a hemorrhage in the brain hemorrhagic  ,": [],
+        "pathogenesis": [
+            "Ischemic strokes: prolonged lack of blood flow to brain cells (neurons, glial and endothelial cells) results in infarction ofthese cells(8)\u2013Circulatory arrest results in irreversible cellular damage within minutes; the core area of this damage is referred to as theischemic penumbra(5)-In addition to the death of cells in the penumbra, there is also potentially reversible damage to surrounding brain cells;immediate medical intervention is the best hope for reversing this damage(5)-Ischemic strokes also cause cerebral edema, which elevates intracranial pressure and may lead to worseningneurological deficits, loss of consciousness, coma, and/or death(5)\u2013For thrombotic ischemic strokes, a critical degree of atherosclerosis causes the complete or almost complete blockage ofblood flow to a local area of the brain(9)\u2013For embolic ischemic strokes, the blockage of blood flow is a result of a clot forming elsewhere in the body, breaking off,and traveling to and lodging in a vessel of the brain(9)",
+            "Hemorrhagic strokes: hemorrhage in the brain leads to edema, mass effect, and midline shift; for patients with extensivehemorrhage with significant cerebral edema, herniation and death may result(30,41)",
+            "Stroke results in upper motor neuron lesions that lead to motor deficits such as hemiplegia, as well as lower motor neuronlesions of cranial nerves leading to deficits such as facial weakness(6)",
+            "Disruption of connections between areas of cortex that associate complex types of information leads to impaired cognitionand function"
+        ],
+        "risk factors": [
+            "All patients with symptomatic stroke or transient ischemic attack (TIA) should be considered to be at increased risk forvascular cognitive impairment(42)",
+            "Risk factors for vascular disease and poststroke vascular cognitive impairment include(42)\u2013neuroimaging findings of covert stroke or white matter disease on neuroimaging\u2013hypertension\u2013diabetes\u2013atrial fibrillation\u2013other cardiac disease\u2013sleep apnea"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "An occupational therapy assessment should include the patient and family/friends as appropriate; including the patient\u2019s familial and social network in the rehabilitation process may assist in the patient\u2019s psychosocial recovery",
+        "Be sensitive to pain  in survivors of stroke; some patients will have hypersensitivity to pain and others will have hyposensitivity; ensure that the patient has a reliable means of communicating pain throughout evaluation and treatment(5,11,12)",
+        "Patients are at risk for shoulder pain or dysfunction. Do not support through hemiplegic arm for mobility and transfers. Ensure that hemiplegic arm is adequately supported",
+        "Monitor patient\u2019s signs and symptoms; refer to physician if there are signs of a new stroke",
+        "Seizures can develop as a late complication of stroke(2,5)",
+        "Hydrocephalus (i.e., accumulation of excess cerebrospinal fluid [CSF] within the cerebral cavity) can occur following hemorrhagic stroke; symptoms include headache, nausea, vomiting, visual disturbance, and increasing lethargy and/or ataxia; refer to physician immediately if these symptoms are noted or reported(5)",
+        "Risk of deep vein thrombosis (DVT) is significantly increased in patients with hemiplegia; assess for signs of DVT (e.g., redness, warmth, pain, tenderness, swelling) and refer to physician urgently if these symptoms are present(2,5)",
+        "Aspiration pneumonia can occur in survivors of stroke who have dysphagia; refer to physician if patient complains of difficulty swallowing, persistent wet cough, or fever(2) Dysphagia screening is recommended given the consequences of not adequately identifying dysphagia(31) 42\u201367%  of patients present with dysphagia within 3 days of stroke. Fifty percent of these patients aspirate, and one third of patients who aspirate develop pneumonia that requires treatment(31) Screening typically is administered by a nurse, speech-language  pathologist (SLP), or physician Follow aspiration prevention protocols during assessment and treatment, including limiting oral intake and maintaining upright position as indicated",
+        "Patients who have had a stroke may be at risk for falls. Follow fall-prevention protocols",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Patients who have had a stroke will have different patterns of deficits as a result of the specific size and location of lesion; occupational therapy evaluations for survivors of stroke should utilize a client-centered  approach to most effectively evaluate deficits and needs(6,13) \u2013A client-centered  approach is based on the following principles: (6) -The patient is uniquely qualified to make decisions about his or her occupational functioning -The patient should have an active role in determining goals and desired outcomes -The patient-therapist  relationship should be interdependent -Evaluation and treatment should focus on the patient\u2019s culture, roles, interests, etc. -When the patient can define the problems that he or she would like to work on, the patient also becomes a problem solver -The patient should evaluate his or her own performance and set personal goals"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Review medical chart and physician reports to ascertain information about the size, location, type, and extent of the stroke -Was the stroke ischemic or hemorrhagic? How soon did the patient receive medical intervention after onset of stroke? -Is the patient in the acute, subacute, or chronic stage of stroke? -What were the initial presenting signs and symptoms of the stroke? How have the signs and symptoms changed since presentation? -Impairments may resolve spontaneously as brain swelling resolves and neurotransmission resumes. Persistent impairments may lead to lasting disability(5)  -Most patients gain some degree of intrinsic (neurological) and adaptive recovery(3) -What complications has the patient experienced (e.g., DVT, pneumonia, shoulder pain)?",
+                "course of treatment": {
+                    "medical management": "Medical management of acute stroke involves determining the cause and location of a stroke with imaging tests such as MRI and CT scan, preventing further brain damage/progression of the stroke and secondary medical complications, and treating acute neurological symptoms(3) Treatment for acute ischemic stroke focuses on restoration of blood flow to blockage to reduce neuronal damage.(3) Thrombolytic drugs (such as tissue plasminogen activator [tPA])  are used to break up a clot and immediately restore blood flow (limiting permanent damage); however, these must be administered within 3 hours of stroke onset(2,3) t-PA has been shown to prevent permanent disability in patients appropriate for its use(2) Blood thinners may be prescribed to improve blood flow through blocked vessels(3) Hemorrhagic strokes are managed acutely by controlling intracranial pressure, preventing re-bleeding  and vasospasm, and maintaining cerebral perfusion(3) Surgical intervention for stroke may involve craniotomy in the acute phase to stop bleeding and for evacuation of large intracerebral hematoma or due to swelling from increased intracranial pressure.(2) Carotid endarterectomy (CEA) is recommended for patients with carotid territory stroke and 7090%  ipsilateral carotid stenosis(1,2) Initial medical management may include mechanical ventilation with intubation, monitoring of intracranial pressure, and controlling modifiable risk factors such as hypertension and arrhythmias. Feeding tubes (nasogastric [NG] or gastrostomy [G]) might be necessary for short  or long-term  nutrition in patients with dysphagia Nonpharmacologic medical interventions for stroke include above-the-knee  elastic stockings and pneumatic boots to prevent pulmonary emboli(1)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken as prescribed? Blood thinners or antiplatelet therapy may be utilized for patients with ischemic stroke.(1,3) Warfarin (an anticoagulant) may be prescribed for patients with embolic stroke and/or atrial fibrillation(1,2) Medications to control blood pressure (BP)/hypertension(1) Patients with history of stroke may be placed on a combination of an angiotensin-converting  enzyme (ACE) inhibitor and thiazidetype  diuretic to control hypertension and prevent recurrent stroke(1) Antispasticity medications such as baclofen or dantrolene may be prescribed for patients with muscle spasticity(2) Physician may manage spasticity by injecting phenol or botulinum toxin into spastic muscle(2) Stool softeners or laxatives for patients with bowel dysfunction(6) Anticholinergic medications for urinary incontinence(2) SSRIs for post stroke depression(2) Antiseizure medications and pain medications are commonly prescribed",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Diagnostic imaging (e.g., MRI, CT scan, chest X-ray)(1,2)",
+                        "Blood work (CBC, platelets, PT[INR], PTT, BUN, creatinine, glucose, urinalysis)(1)",
+                        "Cerebral angiography for suspected aneurysm(1,2)",
+                        "Cardiac tests for suspected embolic etiology:",
+                        "Electrocardiogram (ECG/EKG)(1)",
+                        "Serial cardiac enzymes(1)",
+                        "Transthoracic and/or transesophageal echocardiogram (TTE/TEE)(1,2)",
+                        "Holter monitor(1,2)",
+                        "Carotid Doppler(1)",
+                        "BP monitoring",
+                        "Speech and language evaluation(6) ",
+                        "Swallow evaluation(2)",
+                        "Transcranial or carotid Doppler study(5)",
+                        "Urodynamic studies(2)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Regarding cognitive problems specifically, what factors appear to worsen or improve symptoms? -Patients often have increased difficulty with memory and attention in noisy, distracting environments -Survivors of stroke may notice increased pain, specifically headaches, when performing cognitive tasks",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms, including difficulty paying attention/concentrating, poor judgment and/or safety awareness, memory deficits (short-term,  long-term,  working memory), impaired executive functioning, etc.",
+                "rating of symptoms": "Use a visual analog scale (V AS) (or other nonverbal scale for patients with aphasia) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if  pain   is present now and how much )",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night -Does patient have sleep apnea? Does patient use a continuous positive airway pressure (CPAP) device? -Sleep apnea is reported to occur in two thirds to three quarters of patients after stroke(29) -Sleep apnea is also a risk factor for stroke(29)",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, headache, nausea, bowel/bladder/sexual dysfunction) -Seizures may develop as a late complication of stroke(2,5) -Hydrocephalus (i.e., accumulation of excess CSF within the cerebral cavity) can occur following hemorrhagic stroke; symptoms include headache, nausea, vomiting, visual disturbance, and increasing lethargy and/or ataxia; refer to physician immediately if these symptoms are noted or reported(5) -Risk of DVT is significantly increased in patients with hemiplegia; assess for signs of DVT (e.g., redness, warmth, pain, tenderness, swelling) and refer to physician urgently if these symptoms are present; document positive Homans\u2019 sign (discomfort behind the knee on forced dorsiflexion of the foot that results from DVT in the calf veins)(2,5) -Aspiration pneumonia can occur in survivors of stroke who have dysphagia; refer to physician if patient complains of difficulty swallowing, persistent wet cough, and/or fever(2)",
+                "respiratory status": "Note respiratory status -Pulmonary function often is impaired in stroke survivors(5) -Does the patient require supplemental oxygen? Tracheostomy tube, nasal cannula, or breathing mask? -Does the patient become short of breath? If so, when? Standing? Walking? With exercise? -Does the patient report light-headedness  or dizziness? -Does the patient have any comorbid respiratory conditions (e.g., COPD, asthma)? How are they controlled? Any smoking history? Psychosocial status -All patients with stroke are at high risk of poststroke depression at any stage of recovery(42) -Other psychosocial issues that occur in survivors of stroke include pseudobulbar affect (emotional lability), apathy, euphoria, isolation, and social withdrawal(5) -Document psychosocial status; inquire about symptoms of depression and other emotional distress; refer to psychiatrist, psychologist, or social work when appropriate -The Beck Depression Inventory (BDI) is a useful tool for screening patients for depression(5)Note patient\u2019s hearing abilities -Does the patient speak loudly even in close, quiet conversational environments?  -If the patient appears to have impaired hearing, refer to audiology for further workup Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________ -Common barriers to learning in post stroke patients include aphasia, perceptual impairments (e.g., neglect), and cognitive impairments"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Is there a prior history of stroke, TIA, or cognitive impairment? If so, what deficits were preexisting? Is there history of other cardiovascular disease, including hypertension, arterial stenosis, etc.?",
+                    "comorbid diagnoses": "Ask patient or caregiver about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs) Some medications prescribed for management of cardiovascular disease and/or late effects of stroke can cause or exacerbate cognitive impairment; discuss side effects of all medications with the patient\u2019s physician",
+                    "other symptoms": "Ask patient or caregiver about other symptoms patient may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -What is the patient\u2019s occupation and role(s) within his or her family?(5) -Is he or she currently employed? -Is the patient hoping to return to work? -The 2015 Canadian Stroke Best Practice Recommendations (CSBPR)include asking patient about vocational interests and assessing potential return to work early in the rehabilitation phase; providing vocational rehabilitation services, where appropriate; and educating and encouraging employers to provide modifications and flexibility to allow patients to return to vocation(43) -What activities, hobbies, etc., did the patient enjoy prior to the stroke? -A patient/caregiver interview may be helpful to gain insight into the patient\u2019s hobbies, family/community role, interests, prior work status, and home responsibilities -The 2015 CSBPR state to give patients the opportunity to discuss pre-stroke  leisure pursuits, assess for rehabilitation needs to resume these activities, and encourage participation(43)",
+                "functional limitations assistance with ADLs adaptive equipment": "What current assistive or adaptive equipment is available to the patient at home? Can it still be utilized based on patient\u2019s current level of physical and cognitive functioning? -Document both high-  and low-tech  adaptations and equipment",
+                "living environment": " Living environment -Who is the patient\u2019s primary caregiver?(13) -The patient\u2019s primary caregiver plays an important role in utilization of rehabilitation services and overall outcomes of therapy(13,14) -Patients with live-in  caregivers who receive outside assistance are most likely to utilize both inpatient and outpatient therapy(14) -If the patient has no caregiver or the patient\u2019s caregiver is not receiving guidance or assistance with the patient\u2019s care, refer to social worker or case management(13) -With whom does the patient live (e.g., spouse/partner, parents, children, siblings, grandparents, caregivers)? -Are there pets in the home? -Identify if there are barriers to independence in the home; are any modifications necessary?(5) -Inquire about the levels of the home, including stairs, numbers of floors, etc. -Recommendation to remove any objects from the floor such as rugs and cords to minimize the risk for falls  -A home visit may be beneficial to provide functional and realistic environmental modifications around the house"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  Measures described below are specific to assessment of cognitive deficits following stroke; for an overview of all areas of occupational therapy assessment post stroke, see Clinical Review\u2026Stroke Rehabilitation: Occupational Therapy\u2014an Overview , referenced above; also see the series of Clinical Reviews  on specific areas of stroke rehabilitation",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or use of assistive and adaptive devices. Patients with cognitive impairments may have difficulty incorporating assistive and adaptive devices into ADL tasks; incorrect use of devices, including brakes and locking mechanisms, can increase the risk of falls \u2013Mobility aids -Cane -Walker -Wheelchair -Crutches -Hemi-walker -Ankle-foot  orthoses (AFOs) \u2013Toileting and shower equipment -Grab bars -Bedside commode -Bedside urinal -Raised toilet seat -Elevated footrest at the toilet -Tub bench or shower chair \u2013ADL/IADL aids -Reachers -Personal digital assistant (PDA) -Large-print  reading material -Adaptive/ergonomic computer/mouse/keyboard -Text-to-speech  software -Adaptive cooking equipment \u2013For more information on assistive technology for patients with stroke who have cognitive deficits, please see Clinical Review\u2026Assistive Technology for Patients with Cognitive Impairments (Occupational Therapy) ; CINAHL Topic IDT901902Bed mobility and transfers should be assessed to determine the amount of assistance needed for the patient to perform each activity \u2013Survivors of stroke with cognitive impairments may have additional difficulty with functional mobility as a result of reduced planning, thinking, problem solving, and/or initiating abilities(4)  \u2013Difficulty with functional mobility may also result from apraxia, an acquired disorder of motor planning that can result from stroke -Patients with apraxia present with inability to execute learned purposeful movements despite having the physical capacity, the cognitive understanding of the task, and the desire to perform the movements \u2013Test static and dynamic activitiesa measurement of mobility; includes tasks such as standing from a sitting position, walking, turning, stopping, and sitting down, which are all important for independent mobility(21) -Dual task TUG\u2014the addition of a cognitive task to the TUG test (e.g., counting backwards by 3s) may improve the test\u2019s ability to predict falls \u2013FIM\u2014an 18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(22) Perception  (e.g., visual field, spatial relations) \u2013Perception of spatial relationships, textures, and shapes frequently is impaired in stroke survivors(20) -Poor spatial perception may interfere with balance and subsequently limit the patient\u2019s ability to sit, stand, and walk safely(20) \u2013Ocular motor screening includes tracking through all planes, visual accommodation, and clarity of vision(5) -Document complaints of double vision, optic pain, or visual field cuts(5) -Document use of eye patching \u2013Recommend referral to ophthalmology or neuro-ophthalmology  as appropriate if symptoms of visual disturbances are noted during evaluation -For additional information on assessment and treatment of patients with visual impairments, see Clinical Review\u2026VisualOccupational Therapy ; CINAHL Topic ID NumberAssess safety and ability to perform ADLs upper and lower extremities, managing clothing, using the toilet, applying makeup or shaving the face, bathing, eating \u2013Sequencing the steps involved in ADL tasks can be significantly more difficult for survivors of stroke with cognitive impairment(6) \u2013Bowel and bladder function may be impaired as a result of stroke, especially in the acute phase(5) \u2013Survivors of stroke with cognitive impairments are likely to achieve independence in upper-body  dressing tasks if they can use two hands; for those individuals with hemiparesis and cognitive impairment, improvement in dressing skills is likely with practice even if complete independence is not achievable(23) \u2013When assessing the feeding skills of stroke survivors, refer to speech-language pathology report regarding swallowing ability and food/liquid restrictions, if applicable(5) \u2013For community-dwelling  and other high-functioning  patients, assess IADLs such as driving (car transfers), meal preparation, shopping, and housework -Lawton and Brody Instrumental Activities of Daily Living Scale -Includes items related to using the telephone, taking public transportation, shopping, meal preparation, housework, and medication and money management \u2013The FIM, the Physical Self-Maintenance  Scale (PSMS), the Assessment of Motor and Process Skills (AMPS), the Kohlman Evaluation of Living Skills (KELS), the Frenchay Activities Index, and the Barthel Activities of Daily Living Index (BI) are appropriate standardized measures for ADLs(6)Activities of Daily Living ;T708720",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Stroke may impair sensation(1,5,20) \u2013Loss of sensation and proprioception in survivors of stroke can increase risk of self-injury  to the affected limb(5) -Proprioceptive loss may result in sensory ataxia(5) \u2013Examine for sensory impairment in affected limb(s); pinprick, temperature, pressure, proprioception, vibration(1,5)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013The NIH Stroke Scale is a stroke deficit scale that scores 15 items (includes consciousness, vision, extraocular movement, facial control, limb strength, ataxia, sensation, speech and language)(6)  \u2013\u00c1rnad\u00f3ttir OT-ADL  Neurobehavioral Evaluation (A-ONE)  objectively assesses the way in which the patient\u2019s deficits affect both self-care  and mobility tasks(6) \u2013QOL -The Short Form Health Survey (SF-36)  evaluates overall independence, emotional and mental health, limitations to previous roles, and social status(6) \u2013The Canadian Occupational Performance Measure (COPM) evaluates function through evaluation at baseline and status throughout treatment utilizing the patient\u2019s direct input in the scale(6) -The COPM allows patients to identify goals in therapy that are personally meaningful; useful for client-centered approach to therapy(24) \u2013The Loewenstein Occupational Therapy Cognition Assessment (LOTCA) is an occupational therapy assessment scale that includes 26 items in areas that include orientation, visual perception, spatial perception, praxis, visuomotor organization, thinking operations, memory, and attention and absorption(34) -In a study conducted in China, the LOTCA was found to be useful for detecting cognitive impairment in patients with stroke -There is good agreement between the LOTCA and the MMSE -Compared with the MMSE, the LOTCA can detect vascular cognitive impairment that is not dementia earlier and more comprehensively \u2013The Cognitive Behavioral Rating Scale (CBRS) is a newly developed scale designed to assess cognitive function through observation(35) -In a study conducted in Japan, the CBRS was found to have high reliability and validity for the assessment of cognitive function in patients with stroke(35) -The study included 180 patients with stroke and 58 patients with orthopedic conditions \u2013The Montreal Cognitive Assessment (MoCA) is a 30-item  test that is designed to assess a patient\u2019s memory, visuospatial abilities, and executive function(38,39) -Authors of a systematic review of 51 studies compared the MMSE and MoCA and concluded that the MoCA is currently the best assessment tool for cognitive screening in stroke patients(38) \u2013The Brief Memory and Executive Test (BMET) is a rapid screening tool that measures executive function and processing speed -A quick and sensitive tool for detecting cognitive impairment in patients with cerebral small vessel disease(40)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Note patient\u2019s ability to communicate and level of arousal as well as memory, attention, problem solving, and orientation to person, place, time, and situation; obtain and review any cognitive or neuropsychological testing results completed by other medical professionals -Initially, survivors of stroke may have difficulty maintaining arousal; assessment of cognitive skills is an ongoing process and cognition should be reassessed regularly(5) -Attention and concentration(3,5) -Assess sustained, selective, alternating, and divided attention(5) -Executive functioning skills(5) -Judgment and safety awareness(3) -Memory(5) -Survivors of stroke may present with perseveration and/or confabulation related to impaired memory(5) -Orientation(3,4) -Organization and problem solving(3,4) -Including planning, organizing, initiating, and thinking through simple and complex problems(4) -Money and medication management -Processing speed/reaction time(4) -May be measured with a reactometer (i.e., a device that can measure a person\u2019s reaction time to light or sound stimulation; also measures the speed of the psychomotor reaction of the patient\u2019s CNS)(4) -Reasoning and sequential thought(3,4) \u2013Initial screening for cognitive deficits may include brief screening tools such as the Mini-Mental  State Examination (MMSE) and the Neurobehavioral Cognitive Status Examination (NCSE), which are evidence-based  screening tools for cognitive functioning(3,4,6,15,16)(15)screens for overall cognitive impairment; sections include orientation to time, orientation to place, registration, attention and calculation, recall, naming, repetition, comprehension, reading, writing, and drawing -An accurate tool for measuring dementia, the MMSE is not necessarily effective in assessing cognitive impairment in patients with stroke(39)(16) assesses orientation, attention, auditory and visual memory, spatial perceptual skills, calculation skills, and reasoning; skills are scored separately so that specific deficits can be identified -Once the specific areas of cognitive impairment are identified, complete further in-depth  testing of each specific area -Authors of a study in Canada indicated that when the MMSE was used as the only tool to monitor cognitive changes in patients post stroke, impairments of executive functioning often were missed(17) \u2013Assess self-awareness;  self-awareness  is the ability to recognize physical or cognitive deficits(18) -Self-awareness  can be assessed through comparing a patient\u2019s self-rating  of his or her own performance to the rating of a family member or rehabilitation staff(18) -Increasing self-awareness  in individuals who have had a stroke through counseling and education can improve overall functional outcomes(18) -Anosognosia is the inability to recognize these deficits, or a lack of self-awareness,  that can occur as a result of damage to the brain(18)T708764 \u2013Visual-spatial  neglect can occur as a result of stroke(19)  -Visual-spatial  neglect is associated with lower functional outcomes in survivors of stroke(19) -Visual-spatial  neglect is more common and severe in patients with right-hemisphere  strokes who present with left-sided inattention/left neglect(19) -Left visual-spatial  neglect can result in injury to the left side, as the patient is unaware of his or her own left limbs(20)T708897 \u2013For patients with significant cognitive impairment, referral to neuropsychology is appropriate for extensive assessment and input regarding cognitive intervention.(2) Refer to speech-language  pathology reports regarding speech, language, or cognitive-linguistic  impairments(5) \u2013Occupational therapists (OTs)play an important role in assessing the impact of cognitive impairment on patients\u2019 ability to perform ADLs andresume their life roles andoccupations.OTs along with a multidisciplinary team should use a range of assessment tools during the cognitive rehabilitation process(33) -Authors of a study surveyed occupational therapists\u2019 reasons for selection of and challenges with using various cognitive assessments in patients following stroke and traumatic brain injury(33) -OTs ranked occupational-performance-based  assessments as the most important method (69% of OTs reported using these assessments for more than 75% of their patients with cognitive impairment) -Occupational-performance-based  assessments (e.g., Perceive, Recall, Plan, and Perform system of task analysis)rely on therapist observationin patients\u2019 ability to perform ADLs and other activities. This can lead to a lack of quantitative data and was the biggest challenge OTs identified. However, these assessment methods are still highly recommended",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Low-intensity  rehabilitation should begin once the patient is medically stable ; early mobilization can prevent or lessen harmful effects of deconditioning and secondary impairments(5,12)",
+                "Early assessment of the patient\u2019s environment (e.g., the hospital room) as well as identification and modification of barriers (e.g., modifying the call bell for improved access to nursing care) may help motivate the patient for rehabilitation(13)"
+            ]
+        },
+        "diagnosis need for treatment": "The OT must consider each patient\u2019s risk factors and deficits to determine if the patient is an appropriate candidate for therapy; a multifaceted, multidisciplinary approach is indicated for stroke survivors who have cognitive deficits and may benefit from occupational therapy",
+        "rule out": "The patient\u2019s medical team will rule out TIA as well as migraine, seizure, brain tumor, and other neurologic disorders (such as multiple sclerosis) prior to diagnosing stroke(1,2) ",
+        "prognosis": [
+            "Initial prognosis for survival is better for patients with ischemic strokes versus hemorrhagic strokes.(7) Loss of consciousness with stroke is associated with poorer prognosis overall(7)",
+            "The degree to which patients will recover from stroke varies significantly according to severity of initial deficits, etiology of the stroke, and concurrent medical and/or surgical complications(1)",
+            "Initially, (within the first few weeks) improvements occur rapidly due to spontaneous recovery(3,5)",
+            "Later recovery is thought to result from structural and functional reorganization within the brain(3)",
+            "Prognosis for cognitive improvement will depend on several factors, including prior cognitive abilities, severity of stroke, response to and motivation for therapy, psychosocial status, and comorbid disease or injury",
+            "Stroke is the most common cause of adult disability in the United States.(8,29)In a study conducted by the National Heart, Lung, and Blood Institute, among ischemic stroke survivors who were \u226565 years of age the following disabilities were observed at 6 months after stroke(29) \u201350% had some hemiparesis \u201330% were unable to walk without assistance \u201346% had cognitive deficits \u201335% had depressive symptoms \u201319% had aphasia \u201326% were dependent in ADLs \u201326% were institutionalized in a nursing home"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Referral to physical therapy if the patient has difficulty with gait, ambulation, transfers, or weight-bearing(2,5) Referral to speech therapy if the patient has speech, language, cognitive-linguistic,  or swallowing problems(2,5) Referral to neuropsychology for significant cognitive impairment and/or additional in-depth  cognitive assessment(2,5) Referral to ophthalmology or neuro-ophthalmology  for assessment and treatment of post stroke visual disturbances(5) Referral to dietitian if the patient has any feeding or swallowing difficulties and may be at risk for malnutrition; patient may require supplements or supplemental feedings(5) Referral to recreational or vocational therapist for returning to activities of leisure and employment(5) Referral to audiology if the patient appears to have a hearing impairment Referral to psychiatry, psychology, or social work if patient appears depressed or anxious, is having difficulty coping with stroke/disability, and/or may benefit from assistance with issues such as facility placement(2,5)",
+        "other considerations": [],
+        "treatment summary": [
+            "Authors of a 2015 systematic review evaluated the available evidence for the effectiveness of cognitive rehabilitation for patients with stroke. They found there is insufficient high-quality  research to support recommendations for clinical practice. They made the following conclusions(37) \u2013Although attention deficits, spatial neglect, and motor apraxia improved immediately following some treatments, these improvements were not lasting \u2013Treatments did not result in improvement in memory deficits, perceptual disorders, and executive function impairment \u2013The authors do not believe the lack of evidence indicates thattreatments addressing cognitive impairments in patients following stroke are not effective, but that more studies are needed",
+            "Since the publication of this systematic review there have been additional studies evaluating cognitive rehabilitation treatments in patients following stroke \u2013Authors of an RCT (N = 36) compared two personalized and adaptive cognitive rehabilitation approaches in patients following stroke. They compared paper-and-pencil  tasks to virtual-reality-based  intervention tools and their impact on the different domains measured by the MoCA. Both tools personalized and adapted treatments(45) -Pencil-and-paper  intervention group:Interventions generated were delivered to the patient on paper. The patient was instructed to use the arm he or she felt most comfortable with  -Virtual-reality-based  intervention group: Interventions were similar to the paper-and-pencil  tasks but weresituated in various virtual locations similar to those in the real world (e.g., streets, sidewalks, buildings, shops, parks) -The intervention time was 1 month (12 sessions), with data collected pre-treatment,  post-treatment,  and at a 2-month follow-up -The virtual-reality-based  intervention compared to the pencil-and-paper intervention was superior in general cognitive functioning, visuospatial ability, and executive functions on the MoCA \u2013Authors of an RCT (N = 48) evaluated the effect of Baduanjin exercise on cognitive function in patients with post-stroke cognitive impairment(47) -Baduanjin intervention group: Baduanjin is a mind-body  exercise that uses 8 different movements requiring coordination of the body, breathing, and mind. It requires sustained attention, focus, and multitasking -Patients were assigned to the Baduanjin group or to a control group treated with medication and traditional rehabilitation. Baduanjin group recevieved training 3x/week for 40 minutes a day for 24 weeks -MoCA score improvements for the Baduanjin group were significantly greater than the control group at 16 weeks of intervention, 24 weeks, and 28 weeks -Baduanjin training in patients following stroke with cognitive impairments can improve global cognitive function, memory, motor execution, attention, and ADLs \u2013Authors of an RCT (N = 30) evaluated the effects of cognitive-motor  dual-task training combined with auditory motor synchronization training on cognitive functioning in patients following stroke. Patients received either cognitive-motor dual-task  training only (control group) or cognitive-motor dual-task  training with auditory motor synchronization training (experimental group)(50) -Control group:Received cognitive-motor  dual-task  training 3x/week for 30-minute  sessions for 6 weeks. This training consisted of motor tasks associated with balance and posture while simultaneously performing a cognitive task associated with attention, memory, and executive function (e.g., while performing trunk rotations the patient must name the days of the week in reverse order) -Experimental group: Received the same cognitive-motor  dual-task  training 3x/week for 15minutes of eachsession for 6 weeks as the control group. The remaining 15 minutes of each session involvedauditory motor synchronization training. This training consisted of 13 differentmotor tasksperformed while pressing the hand or foot trigger of a metronome at appropriate times (e.g., the two-hand  task involved tapping both hands rhythmically while making a semicircular movement to match the reference sound) -Results indicated that cognitive-motor  dual-task  training combined with auditory motor synchronization was more effective than the cognitive-motor dual-task  training alone in improving cognition",
+            "In general, occupational therapy for stroke focuses on two guiding principles: intrinsic recovery and adaptive recovery.(13) Intrinsic recovery involves restoration of function of damaged neural pathways through local changes of blood flow, metabolism, and/or neurotransmitter concentrations.(13) As the degree of intrinsic recovery will be different for each patient and generally is dictated by severity of stroke, adaptive recovery complements intrinsic recovery.(13) Adaptive recovery involves educating patients in compensatory techniques to increase overall independence and reduce the level of disability created by physical impairments(13) \u2013Examples of intrinsic recovery for patients with cognitive impairment include increased sustained attention to tasks, improved problem-solving  skills with ADLs, and faster speed of processing with functional tasks(3) \u2013Examples of adaptive techniques for patients with cognitive impairment include use of a journal to recall the events of the day, modifying the environment, utilizing pictures as a reminder for following safety precautions, and having alarms to remind the patient to take his or her medications properly(3)",
+            "In addition to identifying the patient\u2019s cognitive impairments, it is also the role of the OT to educate both the patient and family members on the nature of the patient\u2019s specific impairments and help them understand how the patient best processes information(6)",
+            "It is the responsibility of the OT to develop person-centered  goals for patients following stroke. This can be more difficult in patients with cognitive impairments, but it is still extremely important for the OT to involve the patient in the process. Authors of a qualitative study interviewed rehabilitation specialists to gain more perspective on effective strategies(46) \u2013Five themes emerged in the goal-setting  process: flexibility, building trusting relationships, enabling empowerment, techniques for one-to-one  interaction, and involving relatives ",
+            "Researchers have found that incorporating the principles of motor, sensory, cognitive, and affective rehabilitation into task-specific  activities (e.g., toileting) is significantly more effective than rote practice (e.g., leg squats)(12,13)",
+            "Stroke patients with cognitive deficitsprior to strokeface barriers in their recovery \u2013Authors of a study found that patients in inpatient rehabilitation units in the United Kingdom who had cognitive impairments prior to their stroke received 16 fewer therapy sessions (physical and occupational therapy sessions combined) over the first 8 weeks post-stroke  than those patients with no prior cognitive impairment. The authors could not determine whether this affected these patients\u2019 outcomes, but noted that patients with a prior diagnosis of cognitive impairments face barriers in access to stroke rehabilitation(44) \u2013MoCA scores can predict functional gain in patients following stroke treated in inpatient rehabilitation. Authors of a study defined 3 subgroups of scores: normal (score of 25\u201330),  mildly impaired (score of 20\u201324),  and moderately impaired (score less than 19).The FIM score assessed functional gain. Mean relative functional gain (mRFG) quantified the amount of functional gain achieved as a percentage of the total functional gain possible and mean relative functional efficiency (mRFE)which adjusts for length of stay on the FIM total(51) -Patients in the normal range had greater mRFG and MRFE than the mildy impaired group. The moderately impaired group had significantly worse mRFG and MRFE than the mildly impaired group -The moderately impaired group had the least functional gain and the least efficient gains, and a smaller proportion of individuals in this group had a clinically meaningful FIM gain -The authors recommended that patients with a MoCA score below 20 receive additional cognitive remediation interventions, intensive practice, and/or modification and tailoring of treatment strategies to mitigate the risk of poorer functional gains",
+            "Study on functional improvements in patients following stroke with and without cognitive deficits \u2013Authors of a study (N = 143) compared the effects of a 12-month  task-specific balance training program on the balance outcome measures of patients following stroke with and without cognitive impairments(49) -Patients received task-specific  balance training 3x/week for 60 minutes/session for 12 months -Berg balance scores were measured at baseline and at 4th, 8th, and 12th months -There was a significant improvement in scores at all time points in patients with cognitive impairments and in those without cognitive impairments. There was no significant difference in the amount of improvement after the 8th and 12th months between the two groups -Cognitive impairments did not impede balance improvements",
+            "Types of treatments for patients following stroke with cognitive deficits \u2013Results of an evidence-based  review suggest that a variety of interventions are effective in improving occupational performance of adults with cognitive impairment after stroke(36) -Forty-six  articles were evaluated. Interventions for the following impairments were included: general cognitive deficits, executive dysfunction, apraxia, memory loss, attention deficits, visual field deficits, and unilateral neglect -Evidence supports the use of general cognitive rehabilitation to improve global cognitive function, as well as visuospatial training, post stroke -Evidence to support an individualized home rehabilitation program to improve global cognitive function is insufficient -Limited evidence supports the use of time pressure management for improvement of daily task performance -Evidence to support use of virtual technology to remediate multitasking deficits or exercise and recreation programming to improve executive functioning and memory is limited -Evidence exists for the effectiveness of cognitive rehabilitation in improving ADLs in persons with apraxia after stroke -Evidence related to improving ADLs for persons with memory loss after stroke is limited -There is insufficient evidence to support attention process training as an effective treatment for attention deficits after stroke -There is evidence that a variety of interventions are effective in improving occupational performance in patients with unilateral neglect after stroke -Interventions include prisms, visual scanning training, mirror therapy, right half-field  eye-patching,  spatial cueing, and family participation \u2013In a study conducted in Kuwait involving 18 survivors of stroke, subject-performed  tasks (SPTs) and experimenter-performed  tasks (EPTs) were compared to verbal-only  directions to determine which method was better for physical and occupational therapy treatment(25) -SPT: method of teaching patient a technique or strategy by having the patient perform the task himself or herself  -EPT: method of teaching patient a technique or strategy by demonstrating the task for the patient while the patient observes -Results indicated that survivors of stroke with memory difficulties learn better when SPT or EPT is utilized rather than having the therapist simply instruct the patient verbally; i.e., patients will learn and recall information better when therapists use a \u201cshow me\u201d technique rather than a \u201ctell me\u201d technique \u2013In a case study conducted in the United States that utilized task-oriented training for ADL impairment with an 83-year-old female patient who had a left-sided  stroke and cognitive impairments related to a history of moderate dementia, researchers reported increased level of independence on all self-care items at discharge(26)",
+            "For an overview of all areas of occupational therapy treatment post stroke, see Clinical Review\u2026Stroke Rehabilitation: Occupational Therapy\u2014an Overview , referenced above; see also the series of Clinical Reviews  on specific areas of stroke rehabilitation . Problem Goal Intervention Expected Progression Home Program ADL/IADL impairment Increase functional independence with ADLs and IADLsFunctional training _ Task-oriented training _ _ ADL training _ IADL training _ _ For patients with cognitive impairments, it is essential that the OT utilize task analysis to break down even very simple ADL tasks into their smallest components(6) _ _ Prescription, application of devices and equipment _ Recommendation of appropriate assistive devices to promote further independence _ _ Training of the patient to utilize device during ADLs/IADLs _ _ See Treatment summary , aboveWith functional training and use of assistive devices, the patient\u2019s ability to complete ADL and IADL tasks independently should improveProvide patient and family/caregivers with written instructions regarding functional activities that can be performed at home and correct use and/ or application of equipment  Cognitive impairments Improve the patient\u2019s cognitive capabilities in functional tasksFunctional training _ Therapy will focus on improving the specific cognitive skills (such as increasing attention to tasks or improving problem-solving skills), as well as incorporating compensatory strategies into functional activities _ _ Compensatory strategies include memory logs, visual aids, checklists, diagrams, maps, limiting distractions, etc.(3) _ _ See Treatment summary , aboveAs the patient\u2019s cognitive abilities improve, the OT will increase cognitive demands and task complexityProvide the patient with cognitive exercises; daily completion of exercises as recommended by the treating OT Perceptual impairments Improve the patient\u2019s perceptual capabilities in functional tasksFunctional training _ To increase tactile awareness, OT may provide repetitive stimulation of the affected hand with various textures such as foam, terry cloth, and Velcro(3) _ _ Therapy will focus on improving perceptual skills, as well as incorporating compensatory strategies into functional activities _ _ See Treatment summary , aboveAs the patient\u2019s sensory and perceptual abilities improve, the OT will increase cognitive demands and task complexityProvide the patient with perceptual exercises; daily completion of exercises as recommended by the treating OT . "
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes outcome measures": [
+            "Improved cognitive functioning\u2013MMSE\u2013NCSE\u2013A-ONE\u2013Montreal Cognitive Assessment\u2013NIH Stroke Scale",
+            "Increased independence with ADLs and/or IADLs\u2013TUG test\u2013Lawton and Brody Instrumental Activities of Daily Living Scale\u2013FIM\u2013PSMS\u2013AMPS\u2013KELS\u2013BI\u2013COPM\u2013SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "Prevention of stroke focuses on addressing modifiable risk factors,(9) including: Cessation of cigarette smoking(2,10) Controlling hypertension, diabetes, heart disease, and/or hyperlipidemia with appropriate medications and lifestyle modifications(2) Maintaining a healthy weight(1,2,10) \u2013Bariatric surgery has been associated with a decrease in cardiovascular disease and death(MI and stroke)(29) Increasing physical activity(2,10) Seeking treatment for alcohol and/or drug abuse(1,2,10) Eating a healthy diet low in fat(2,10) \u2013A Dietary Approaches to Stop Hypertension (DASH)\u2013type  diet that increased consumption of either protein or unsaturated fat had similar or greater beneficial effects on cardiovascular disease risk factors compared with the low-fat standard DASH diet(29)",
+        "The role of OTs in helping to prevent recurrent strokes in their patients includes health promotion and disease prevention through education about the modification of the above risk factors(27)",
+        "Prevention of long-term  disability or limiting the effects of a stroke involves seeking medical care immediately upon noting warning signs of stroke(9) The American Heart Association and American Stroke Association recommend seeking medical attention if you experience (or see someone experience) the following warning signs:(28) \u2013Sudden numbness or weakness of the face, arm, or leg, especially on one side of the body \u2013Sudden confusion, trouble speaking or understanding \u2013Sudden trouble seeing in one or both eyes \u2013Sudden trouble walking, dizziness, or loss of balance or coordination \u2013Sudden, severe headache with no known cause",
+        "Based on a 2020 study,cognitive reserve (derived in this study byeducation level, occupation, and life experiences) provides a buffer against cognitive impairment caused by stroke and enhances cognitive recovery after stroke(48)"
+    ],
+    "patient education": [
+        "American Stroke Association, https://www.stroke.org/  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Kass JS, Krishnamohan P. Stroke, Acute Ischemic. In: 2018 Ferri\u2019s clinical advisor: Instant Diagnosis and Treatment . Philadelphia, PA: Elsevier; 2018:1165-1168.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Stein J. Stroke. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Saunders Elsevier; 2018:864-869.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Woodson AM. Stroke. In: Radomski MV, Trombly Latham CA, eds. Occupational Therapy for Physical Dysfunction . 8th ed. Philadelphia, PA: Lippincott, Williams & Wilkins; 2020:1000-1041.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Sameniene J, Krisci#nas A, Endzelyte E. The evaluation of the rehabilitation effects on cognitive dysfunction and changes in psychomotor reactions in stroke patients. Medicina (Kaunas). 2008;44(11):860-870.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "O'Sullivan SB. Stroke. In: O'Sullivan SB, Schmitz TJ, eds. Physical Rehabilitation . 7th ed. Philadelphia, PA: FA Dsvis; 2019:645-719.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Gillen G. Cerebrovascular accident/stroke. In: Pendleton HM, Schultz-Krohn  W, eds. Pedretti's Occupational Therapy: Practice Skills for Physical Dysfunction . 8th ed. St. Louis, MO: Elsevier Mosby; 2017:810-837.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Aminoff MJ, Douglas VC. Nervous system disorders. In: McPhee SJ, Papadakis MA, eds. Lange 2022 Current Medical Diagnosis & Treatment . New York, NY: McGraw-Hill Medical; 2021:1002-1012.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Goldstein LB. Ischemic Cerebrovascular Disease. In: Goldman L, Schafer AI, eds. Goldman's Cecil Medicine . 26th ed. Philadelphia, PA: Elsevier Saunders; 2019:2434-2445. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Graykoski JJ. Cerebrovascular events. In: Buttaro TM, Trybulski J, Bailey PP, Sandberg-Cook  J, eds. Primary Care: A Collaborative Practice . 5th ed. St. Louis, MO: Mosby Elsevier; 2016:1010-1016.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "American Heart Association. Stroke risk factors. https://www.stroke.org/en/about-stroke/stroke-risk-factors . Published 2021. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Swann J. Stroke: helping recovery. Br J Healthc Assist . 2008;2(10):474-478.  (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Quinn TJ, Paolucci S, Sunnerhagen KS, et al. Evidence-based  stroke rehabilitation: an expanded guidance document from the European Stroke Organisation (ESO) guidelines for management of ischaemic stroke and transient ischaemic attack 2008. J Rehabil Med . 2009;41(2):99-111.  (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Govender P, Kalra L. Benefits of occupational therapy in stroke rehabilitation. Expert Rev Neurother . 2007;7(8):1013-1019.  (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Hinojosa MS, Rittman M, Hinojosa R. Informal caregivers and racial/ethnic variation in health service use of stroke survivors. J Rehabil Res Dev . 2009;46(2):233-241.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-Mental  State\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Lamarre CJ, Patten SB. A clinical evaluation of the Neurobehavioral Cognitive Status Examination in a general psychiatric inpatient population. J Psychiatry Neurosci . 1994;19(2):103-108.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Korner-Bitensky  N, Barrett-Bernstein  S, Bibas G, Poulin V. National survey of Canadian occupational therapists' assessment and treatment of cognitive impairment post-stroke. Aust Occup Ther J . 2011;58(4):241-250.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Leung DP, Liu KP. Review of self-awareness  and its clinical application in stroke rehabilitation. Int J Rehabil Res . 2011;34(3):187-195.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Stein MS, Maskill D, Marston L. Impact of visual-spatial  neglect on stroke functional outcomes, discharge destination and maintenance of improvement post-discharge.  Br J Occup Ther . 2009;72(5):219-225.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Keenan MAE, Mehta S. Rehabilitation. In: Skinner HB, ed. Current Diagnosis and Treatment in Orthopedics . 6th ed. New York, NY: McGraw-Hill  Medical; 2021:688-696.  (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Podsiadlo D, Richardson S. The timed \"up & go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc . 1991;39(2):142-148.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Feltcher-Smith  J, Walker MF, Drummond A. The influence of hand use on dressing outcome in cognitively impaired stroke survivors. Br J Occup Ther . 2012;75(1):2-9.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Phipps S, Richardson P. Occupational therapy outcomes for clients with traumatic brain injury and stroke using the Canadian Occupational Performance Measure. Am J Occup Ther. 2007;61(3):328-334.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Nadar MS, McDowd J. \"Show me, don't tell me;\" is this a good approach for rehabilitation?. Clin Rehabil . 2008;22(9):847-855.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Preissner K. Use of the Occupational Therapy Task-Oriented  Approach to optimize the motor performance of a client with cognitive limitations. Am J Occup Ther . 2010;64(5):727-734.  (C)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Schmid AA, Butterbaugh L, Egolf C, Richards V, Williams L. Prevention of secondary stroke in VA: role of occupational therapists and physical therapists. J Rehabil Res Dev . 2008;45(7):1019-1026.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "American Heart Association. Stroke warning signs and symptoms. https://www.heart.org/en/health-topics/consumer-healthcare/order-american-heart-association-educational-brochures/stroke-warning-signs-bilingual . Published 2021. (GI)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Go AS, Mozaffarian D, Roger VL, et al. Heart disease and stroke statistics \u2013 2013 update: a report from the American Heart Association. Circulation . 2013;127(1):e6-e245. doi:10/1161/CIR.0b013e31828124ad. (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Kass JS, Kahn AB, Krishnamohan P. Stroke, hemorrhagic. In: Ferri FF, ed. Ferri\u2019s clinical advisor: 5 books in 1 . 2018 ed. Philadelphia, PA: Elsevier; 2020:1215-1218.  (GI)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Donovan NJ, Daniels SK, Edmiaston J, Weinhardt J, Summers D, Mitchell PH. Dysphagia screening: state of the art: Invitational conference proceeding from the state-of-the art nursing symposium, international stroke conference. Stroke. 2013;44:324-31.  doi:10.1161/str.0b013e3182877f57.   (CP)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Pilegaard MS, Pilegaard B, Birn I, Kristensen HK. Assessment of occupational performance problems due to cognitive deficits in stroke rehabilitation: a survey. International J Ther Rehabil . 2014;21(6):280-288.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Sansonetti D, Hoffmann T. Cognitive assessment across the continuum of care: the importance of occupational performance-based  assessment for individuals post-stroke  and traumatic brain injury. Aust Occup Ther J . 2013;60(5):334-342.  doi:10.1111/1440-1630.12069.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Wang SY, Gong ZK, Sen J, Han L, Zhang M, Chen W. The usefulness of the Loewenstein Occupational Cognition Assessment in evaluating cognitive function in patients with stroke. Eur Rev Med Pharm Sci . 2014;18(23):3665-3672.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Sasaki T, Kojima T, Kanaya K, et al. Reliability, validity, and factor structure of the Cognitive Behavioral Rating Scale for stroke patients. Int J Rehab Res . 2014;37(4):343-348. doi:10.1097/MRR.0000000000000078. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Gillen G, Nilsen DM, Attridge J, et al. Effectiveness of interventions to improve occupational performance of people with cognitive impairments after stroke: an evidence-based review. Amer J Occupat Ther . 2015;69(1):6901180040p1. doi:10.5014/ajot.2015.012138. (RV)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Gillespie DC, Bowen A, Chung CS, Cockburn J, Knapp P, Pollock A. Rehabilitation for post-stroke  cognitive impairment: an overview of recommendations arising from systematic reviews of current evidence. Clin Rehabil . 2015;29(2):120-128.  doi:10.1177/0269215514538982. (SR)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Van Heugten CM, Walton L, Hentschel U. Can we forget the Mini-Mental  State Examination? A systematic review of the validity of cognitive screening instruments within one month after stroke. Clin Rehabil . 2015;29(7):694-704.  (SR)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Burton L, Tyson SF. Screening for cognitive impairment after stroke: a systematic review of psychometric properties and clinical utility. J Rehabil Med . 2015;47(3):193-203. (SR)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Brookes RL, Hollocks MJ, Khan U, Morris RG, Markus HS. The Brief Memory and Executive Test (BMET) for detecting vascular cognitive impairment in small vessel disease: a validation study. BMC Med . 2015;13(1):51. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Mayer SA. Hemorrhagic Cerebrovascular Disease. In: Goldman L, Schafer AI, eds. Goldman's Cecil Medicine . 25th ed. Philadelphia, PA: Elsevier Saunders; 2016:2445-2454. (GI)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Eskes GA, Lanct\u00f4t KL, Herrmann N, et al. Heart Stroke Foundation Canada Canadian Stroke Best Practices Committees. Canadian Stroke Best Practice Recommendations (CSBPR): Mood, cognition and fatigue following stroke practice guidelines, update 2015. Int J Stroke . October 2015;10(7):1130. doi:https://doi.org/10.1111/ijs.12557. (G)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Hebert D, Lindsay MP, McIntyre A, et al. Canadian Stroke Best Practice Recommendations (CSBPR): Stroke rehabilitation practice guidelines, update 2015. Int J Stroke . June 2016;11(4):459-84.  doi:https://doi.org/10.1177/1747493016643553. (G)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Longley V, Peters S, Swarbrick C, Rhodes S, Bowen A. Does pre-existing  cognitive impairment impact on amount of stroke rehabilitation received? An observational cohort study. Clin Rehabil . 2019;33(9):1492-1502.  doi:https://doi.org/10.1177/0269215519843984. (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Faria AL, Pinho MS, Berm\u00fadez I, Badia S. A comparison of two personalization and adaptive cognitive rehabilitation approaches: a randomized controlled trial with chronic stroke patients. In: J Neuroeng Rehabil . Vol 17; 2020:78. (RCT)"
+        },
+        {
+            "number in article": 46,
+            "reference": "D\u00f6rfler E, Kulnik ST. Despite communication and cognitive impairment - person-centred  goal-setting  after stroke: a qualitative study. Disabil Rehabil . 2020;42(25):3628-3637. doi:https://doi.org/10.1080/09638288.2019.1604821. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Zheng G, Zheng Y, Xiong Z, Ye B. Effect of Baduanjin exercise on cognitive function in patients with post-stroke  cognitive impairment: a randomized controlled trial. Clin Rehabil. 2020;34(8):1028-1039.  doi:https://doi.org/10.1177/0269215520930256. (RCT)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Shin M, Sohn MK, Lee J, et al. Effect of Cognitive Reserve on Risk of Cognitive Impairment and Recovery After Stroke: The KOSCO Study. Stroke. 2020;5(1):99-107. doi:https://doi.org/10.1161/STROKEAHA.119.026829. (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Okonkwo UP, Ibeneme SC, Ihegihu EY, Egwuonwu AV, Ezema CI, Maruf FA. Effects of a 12-month  task-specific  balance training on the balance status of stroke survivors with and without cognitive impairments in Selected Hospitals in Nnewi, Anambra State, Nigeria. Top Stroke Rehabil . 2018;25(5):333-340.  doi:https:// doi.org/10.1080/10749357.2018.1465747. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Park MO, Lee SH. Effects of cognitive-motor  dual-task training combined with auditory motor synchronization training on cognitive functioning in individuals with chronic stroke: A pilot randomized controlled trial. Medicine (Baltimore) . 2018;97(22):e10910. doi:https://doi.org/10.1097/MD.0000000000010910. (RCT)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Jaywant A, Toglia J, Gunning FM, O'Dell MW. Subgroups defined by the Montreal Cognitive Assessment Differ in functional gain during acute inpatient stroke rehabilitation [published correction appears in Arch Phys Med Rehabil. 2020 Jun;101(6):1099-1100].  Arch Phys Med Rehabil . 2020;101(2):220-226.  doi:https://doi.org/10.1016/ j.apmr.2019.08.474. (R)"
+        }
+    ]
+}

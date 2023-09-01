@@ -1,0 +1,342 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "functional neuromuscular electrical stimulation",
+            "neuroprosthesis",
+            "functional neuromuscular stimulation (fns)",
+            "electrical stimulation, functional: adults"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "acute care",
+            "cardiovascular rehabilitation",
+            "hand therapy",
+            "home health",
+            "neurological rehabilitation",
+            "orthopedic rehabilitation",
+            "research",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Functional electrical stimulation (FES) is the application of electrical stimuli to restore or enable mobility and function of a paralyzed muscle, group of muscles, or nerve(1)",
+            "FES is used to assist muscles with purposeful movement to accomplish a functional task(2) \u2013FES might be used to activate a single muscle or a series of muscles in the correct order \u2013A neuroprosthesis is a device, apparatus, or system that incorporates FES and is used to substitute for or enhance a motor function(3) (e.g., ankle foot orthosis [AFO] with built-in  FES unit targeting peroneal nerve)",
+            "Clinical uses of FES(2,3) \u2013Gait training \u2013Cardiac conditioning \u2013Standing/balance control \u2013Hand grasp training \u2013Foot control (foot drop) \u2013Pain reduction \u2013Motor relearning (poststroke) \u2013General muscle education/strengthening \u2013Prevention or reversal of atrophy",
+            "Other therapeutic benefits of FES(3) \u2013Improved general well-being \u2013Improved fitness and cardiorespiratory status \u2013Reduction in decubiti risk following spinal cord injury (SCI)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "code": "97032, 97014",
+            "description": ""
+        },
+        "HCPCS codes": {
+            "code": "E0764, E0770",
+            "description": ""
+        },
+        "reimbursement": [
+            "Some private carriers and Medicare have approved use of FES for certain conditions with certain characteristics.(4,5,6) Exclusions within a condition might exist.(7) Clinicians are advised to contact the carrier prior to implementation. Patients might choose to pay for the service/equipment \u2013Medicare and other carriers who provide coverage for FES often include the following requirements for medical necessity: -SCI - rehabilitation of the lower extremities -Six months postinjury or restorative/stabilization surgical procedure -Intact lower motor neurons at L1 and below  -Motivation, commitment, and cognitive ability to use FES device and be compliant with established program -Three-minute  standing tolerance -Independent transfer -Capable of hand and finger motion to manipulate controls -Muscle responsiveness to neuromuscular electric stimulation (NMES) -Sensory perception of stimulation -Absence of hip/knee degenerative joint disease or fracture secondary to osteoporosis -Completion of adequate training sessions over a 3-month  period -Coverage is generally not provided if any of the following is present: -Cardiac pacemaker -Severe scoliosis -Severe osteoporosis -Skin disease or cancer at site of stimulation -Autonomic dysreflexia -Irreversible contracture \u2013Treatment for osteoporosis following SCI, poststroke rehabilitation, and upper extremity (UE) uses of FES are often considered investigational Indications for device/equipment"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "History taking and examination procedures are largely dependent on the underlying condition and reason for referral. The information listed below is meant to serve as a guide/overview. Clinicians should supplement or modify the recommendations listed below as indicated and appropriate given the unique circumstances of the individual"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "History taking and examination procedures are largely dependent on the underlying condition and reason for referral. The information listed below is meant to serve as a guide/overview. Clinicians should supplement or modify the recommendations listed below as indicated and appropriate given the unique circumstances of the individual \u203aHistory (History taking might vary depending on the age of the patient and nature of condition; adjust accordingly)",
+            "History of present illness/injury for which the device is needed \u2013Mechanism of injury or etiology of illness:  What is the reason for referral for FES? Document course of illness/injury, surgical procedures, etc. \u2013Course of treatment -Medical management:  Medical management will vary widely depending on the specific underlying condition; document any reported diagnostic/medical tests, therapeutic interventions, and/or hospital stays -Medications for current illness/injury:  Determine what medications clinician has prescribed; are they being taken?Are they effective? -Diagnostic tests completed -A patient with a CNS insult (e.g., stroke, head injury, SCI) might have numerous diagnostic tests, including MRI, CAT scan, ECG, and blood tests  -EMG and other electrodiagnostic tests might be used to assess integrity of the peripheral nerves/status of muscle innervation of targeted muscles -Home remedies/alternative therapies:  Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help -Previous therapy:  Document whether patient has had occupational therapy (OT) or physical therapy (PT) for this or other conditions and what specific treatments were helpful or not helpful \u2013Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased): Document any reported aggravating or easing factors of pain and/or spasticity \u2013Body chart:  Use body chart to document location and nature of symptoms \u2013Nature of symptoms:  Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling); ask patient to describe his or her perceived functional limitations \u2013Rating of symptoms:  Use a visual analog scale (V AS) or 0\u201310  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much) \u2013Pattern of symptoms:  Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables \u2013Sleep disturbance:  Document number of wakings/night related to condition as applicable \u2013Other symptoms:  Document other symptoms patient might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) \u2013Respiratory status:  Is there any respiratory compromise? Any past or present use of supplemental oxygen or mechanical ventilation? \u2013Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________",
+            "Medical history \u2013Past medical history -Previous history of same/similar diagnosis:  Has the patient ever had a previous injury or diagnosis that required FES? Has patient previously tried FES for this same diagnosis? -Comorbid diagnoses:  Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders. Be sure to ask patient directly regarding contraindications/ precautions to use of FES -Medications previously prescribed:  Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs) -Other symptoms:  Ask patient about other symptoms he/she might be experiencing",
+            "Social/occupational history \u2013Patient's goals:  Document what the patient hopes to accomplish with therapy and in general \u2013Vocation/avocation and associated repetitive behaviors, if any:  Does the patient participate in recreational or competitive sports? Does the patient work or attend school? \u2013Functional limitations/assistance with ADLs/adaptive equipment:  Inquire about impairments in ADLs and the use of any assistive or adaptive devices. What functional limitations does the patient report? \u2013Living environment:  Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  Evaluation procedures should be modified according to the patient's age, diagnosis, and any unique circumstances; the information listed below is meant to serve as a guide only. Complete a general evaluation as indicated and appropriate",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Does the patient use any assistive or adaptive devices? Are they being used properly? Do they fit appropriately? Is patient able to don/doff the device, if necessary? Is any assistance needed? Does the device need replacement or refitting? ",
+            "balance": "Assess the patient's balance in sitting and stance as indicated",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess for signs of diminished circulation; PVD is a precaution/contraindication to electrical stimulation",
+            "functional mobility": " Functional mobility \u2013Assess and document as appropriate for the referral and underlying condition -Box and Block test(16) -Action Research Arm Test(17) -Grasp Release test(18) \u2013Timed Up and Go (TUG) test(19)",
+            "gait locomotion": " Gait/locomotion \u2013Complete a systematic gait assessment, if indicated. Gait assessments associated with FES include -Tinetti Gait Scale\u201412-point  assessment of components of gait(20) -6-minute  walk test for distance (6MWT)\u2014measure of gait speed/efficiency(21) Joint integrity and mobility \u2013Assess joint integrity as appropriate \u2013Severe osteoarthritis of the hip and/or knee is a factor in determining appropriateness for FES \u2013Assess and document severity of shoulder subluxation, if present Motor function (motor control/tone/learning) \u2013Assess motor tone, noting presence of hyper-  or hypotonicity -Motor function assessments associated with FES might include Fugl-Meyer  Motor Assessment (FMA) Scale(16,22)",
+            "muscle strength": "Complete a thorough strength assessment with a particular focus on the area where FES is to be applied -Manual muscle test (MMT) -Handgrip dynamometry",
+            "observation inspection palpation including skin assessment": [
+                "Assess for muscle atrophy indicating peripheral nerve impairment",
+                "Note presence and status of any surgical scars or general scarring in the area",
+                "Inspect skin after treatment \u2022Perception  (e.g., visual field spatial relations): Document any perceptual deficits",
+                "Visual deficits relating to gait"
+            ],
+            "posture": "Assess the patient's general, standing, and seated posture, as indicated",
+            "range of motion": "Complete a thorough ROM assessment with a particular focus on the area where FES is to be applied",
+            "self-care activities of daily living": "",
+            "reflex testing": "Evaluate deep tendon reflexes for signs of peripheral nerve impairmentComplete an ADL assessment as indicated. Ability to manipulate FES control unit, place and remove surface electrodes (if used), maintain skin condition, etc., are components of FES application and treatment",
+            "sensory testing": "Complete a thorough sensory assessment (e.g., light touch, temperature, pinprick) of the area where FES is to be applied",
+            "special tests specific to diagnosis": "Special tests would be diagnosis specific",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Complete cognitive assessment as indicated and appropriate. Is the patient able to provide adequate feedback regarding use of the FES system? Is the patient able to make appropriate decisions regarding operation of the FES system? -Assessment might be performed with the Mini-Mental State Examination (MMSE)(14,15)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "A neuroprosthesis, designed to control foot drop, is not recommended for individuals who are unable to regulate knee extension during stance (\"knee snapping\" occurs)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient's physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic's specific protocols",
+                "Patients who need this device or those with a diagnosis for which this device is used might be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies  \u203aDiagnosis/need for FES:  There are numerous indications for the use of FES, and the diagnoses behind these indications are many. Please see Indications for device/equipment , above, for more details"
+            ],
+            "general": "There are numerous indications for the use of FES, and the diagnoses behind these indications are"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "Refer to other disciplines (e.g., occupational therapy, speech therapy, physician, psychology) as indicated and appropriate",
+        "other considerations": [
+            "In SCI, lower motor neuron damage associated with original injury trauma might limit the potential of FES",
+            "A patient training period is required following introduction or implantation of a FES device, accompanied by an exercise protocol and practice regimen(1,8)"
+        ],
+        "treatment summary": [
+            "SCI\u2014general information \u2013Activity-based  therapy (ABT) utilizing FES as a training component was effective for increasing mobility and gait in individuals with chronic, motor-incomplete  SCI(37) -Forty-eight  patients participated in an RCT based in the United States. All subjects had sustained SCIs and were ~12 months post injury -Subjects participated in a total of 9 hours of ABT therapy a week for 24 weeks. Results were compared to a delayed-treatment  control group -ABT interventions might have included robotic or manually assisted body-weight-support  locomotor training, FES-based  synthesized gait restoration, active and passive coordinated movement of the trunk and all extremities, FES cycling, electric stimulation, core and extremity strength training, and aquatic therapy -Significant improvements were found in the intervention groups, including the 10MWT speed and the 6MWT total distance",
+            "SCI\u2014therapeutic benefits \u2013Loss of bone mineral density (BMD), as measured by dual-energy  X-ray  absorptiometry (DXA scan), can be slowed, but not eliminated, in the femur and tibia of patients following complete SCI(23) -Based on a controlled study with 24 subjects in Taiwan. Twelve patients received the intervention and 12 patients served as a control group -FES cycling ergometry using a 4-channel  (bilateral quadriceps and hamstrings) surface stimulation system was initiated between 4 and 8 weeks after injury and conducted 3x/week for 3 months, then discontinued for 3 months -BMD loss at the femoral neck was the same in both groups -BMD loss at the distal femur was slowed during use of FES cycling -The effect of FES was lost after discontinuation of the intervention. BMD was identical in both groups at both locations 3 months after FES was discontinued \u2013Based on a retrospective study including 364 subjects in the United States, lower extremity FES cycling might minimize bone mass loss in patients with SCI-related paralysis(35) -FES ergometry was performed at the International Center for SCI or an in-home  setting and primarily utilized the FES RT 300-SL  ergometer, which recorded and stored data via the internet -Primary outcome measure was the presence of osteoporosis determined by DXA score \u20132.5.  DXA was used to measure bone mass on the right or left hip and, rarely, the lumbar spine -Osteoporosis was diagnosed in 34.9% of the participants. In participants using FES, there was a 31.2% prevalence of osteoporosis compared to a 39.5% prevalence in subjects not using FES \u2013Results of a systematic review conducted by researchers in Australia indicated that FES-assisted  exercise regimens might positively affect cardiorespiratory, metabolic, and psychosocial factors following SCI(24) -Based on review of 32 experimental studies (865 considered) that met the inclusion criteria of human subjects and English language or English-language abstract available -Skeletal muscle characteristics might be altered through the use of FES exercise. Positive changes include reversal of changes in skeletal muscle contractile properties and fiber type, as well as reduced atrophy (6 studies) -Aerobic fitness, as measured by peak oxygen uptake, and metabolism, as measured by anaerobic markers, might improve following FES-assisted  leg or arm exercise (6 studies) -Exercise benefits in patients with SCI were lower than the benefits observed in the general population \u2013Results from a comparison of arms-only  rowing and hybrid FESrowing indicated that hybrid FESrowing was better for maintaining function and VO2(41)  -Based on a study conducted in the United States involving patients with SCI -The impact of hybrid FESrowing is greater for higher-level  injuries \u2013Home-based  exercise using a FES-assisted  system appears to be feasible(25) -Based on a study in the United States -Seventeen patients with traumatic C4-T11  SCI participated in two 8-week  exercise periods using home-based  FES lower extremity cycling -Exercise adherence was measured at 71% and 63% for the two exercise periods -The authors reported that 35% is the typical exercise adherence rate in the able-bodied population -Age (younger patients), past history of exercise, and no pain associated with the exercise were determining factors in exercise adherence",
+            "SCI\u2014LE \u2013Benefit of FES applications for LE in SCI patients might include improvements in fitness, participation in gait and standing activities, and muscle strengthening(26) -Based on a systematic review that included 36 studies (out of 532 considered) that met inclusion criteria for review. Inclusion criteria were human participants with SCI, a period of FES gait training was included, and objective clinical, fitness, or functional outcome measures were assessed at both beginning and end of the study -Spasticity might be reduced in the LE in patients with incomplete SCI following FES application (4 studies) -Femoral bone mineral density did not appear to be changed after FES application (2 studies) -Muscle strength, measured by quadriceps force, torque, or moment, in patients with complete or incomplete SCI might increase with FES use (8 studies) -Walking speed and gait parameters might improve in some patients depending on the nature of their injury and specific deficits (11 studies). The energy cost of walking might or might not improve with use of FES (5 studies) -The authors concluded that there is insufficient evidence to determine whether FES is beneficial to walking due to methodologic differences (e.g., small sample sizes in most studies, dissimilar procedures, variability of patient type) in the included studies \u2013A United States\u2013based  study examined the feasibility of a sensor-based  threshold controller to automatically adjust stimulation to hip and trunk extensor muscles, thereby restoring upright posture in subjects with paralysis post SCI(36) -Subjects ranged in age from 41 to 60 years. V olunteers had SCIs at levels C6/C7, T5/T6, and T10 and all had implanted stimulators that were connected to 8 and/or 16 implanted electrodes -Seated forward trunk tilt and gravitational acceleration were sensed by a sternum-mounted wireless accelerometer and stimulation to the hip and trunk extensors was adjusted to correct and maintain upright sitting posture -The controller decreased the upper-limb  effort required when leaning forward while seated in a wheelchair -The effects of the system might facilitate increased UE reach and increased seated stability, resulting in decreased falls; however, the clinical utility of the system should be evaluated via future research",
+            "CV A\u2014UE \u2013FES combined with repetitive task-specific  practice might improve UE function in chronic stroke patients(27) -Based on a study of 32 patients in the United States -Subjects received repetitive task training combined with FES for 30, 60, or 120 minutes per day. A control group participated in a series of home exercises for 60 minutes per day. Inclusion criteria were > 6 months since stroke onset, no active wrist extension, between 18 and 85 years of age, history of one stroke only, adequate cognitive status, and discharged from physical rehabilitation. Exclusion criteria included participation in clinical drug trial, presence of UE spasticity, uncontrolled seizure disorders, and excessive pain -Outcome measures included the FMA, ARAT, Box and Block test, Arm Motor Ability Test (AMAT) -Only patients in the 120-minute  group demonstrated statistically improved functional abilities after the training period \u2013FES-assisted  exercise therapy might improve hand function during the early stage of rehabilitation(28) -Based on an RCT of 24 patients in Japan treated within 60 days of stroke onset. Twelve patients received conventional rehabilitation, including a passive wrist splint. Twelve patients received conventional rehabilitation plus a neuroprosthesis to assist in hand exercises -Outcome measures included the FMA, Action Research Arm Test, and a motor activity log -The group that received the neuroprosthesis showed a significantly greater improvement in the FMA (p < 0.01) and Action Research Arm Test (p < 0.05) \u2013Authors of an evidence-based  review of interventions for improving UE function post stroke concluded the following:  -There is strong evidence that FES improves upper extremity function in acute stroke, as well as chronic stroke, when used with conventional therapy(29) -In the case of chronic stroke, the UE might demonstrate improved motor control but not necessarily hand function(30) -Improvement in simple task performance might be achieved, but complex functional tasks that require additional effort might be accompanied by hypertonia, which might not be controlled by FES(3)",
+            "Multiple sclerosis\u2014LE. FES applications include systems for foot drop and gait \u2013Results of a systematic review of 19 research studies indicate that FES for foot drop improves ambulation speed for short distances(39) \u2013FES for 8 weeks was shown to improve the gait pattern of patients with multiple sclerosis under both non-fatigued  and fatigued conditions(40) -Based on an Australian study of 11 patients -Improvements were increases in walking speed due to improved neuromuscular control and power generated at the hip and ankle of the more affected limb",
+            "Cerebrovascular accident\u2014LE. FES applications include systems for foot drop specifically and gait in general \u2013FES might improve dorsiflexion EMG activity in chronic stroke patients(31) -Based on an RCT in the Netherlands of 29 patients with foot drop (average time from stroke ~7.3 years); 14 were assigned to receive an implanted muscle stimulator and 15 patients served as a control group -Outcome measures included EMG measurement of maximal voluntary contraction of dorsi-  and plantarflexion, eversion and inversion, EMG measurement of the anterior tibialis muscle during gait, and walking speed during a 10-meter walk. Walking speed of both groups was measured with and without assistive devices (AFO in control group, FES in experimental group) -A significantly higher EMG output of the anterior tibialis muscle was found in some conditions -No significant differences in walking speed between the groups were noted \u2013Surface electrode FES training might improve gait speed in some patients poststroke(32) -Based on a meta-analysis  of eight studies using gait speed as the main outcome variable. Other inclusion variables were English-language  publication, surface FES used, and diagnosis of stroke -Eight studies with a total of 162 patients were included; four studies were RCTs -Analysis showed that gait speed without any device was improved following training with FES \u2013FES training might improve gait speed, but not necessarily LE function, in chronic stroke patients(21) -Based on a structured review and pooled data from eight studies. Inclusion criteria were randomized clinical trial, more than 50% of subjects in a study had a stroke diagnosis, patient was > 6 months poststroke, FES was compared to other treatments or a control group, functional outcomes were used -Outcome measures varied in the included studies, although all measured gait speed -Pooled data noted a significant difference in gait speed during 6MWT -The authors noted that other functional measures did not demonstrate the efficacy of FES -FES was not better than other interventions in improving gait speed in chronic stroke patients(33,34) \u2013Integrated FES and physiotherapy was found to be as effective as physiotherapy alone for improving gait speed in patients less than 6 months poststroke(38) -Based on an RCT in the United Kingdom, 20 patients within 6 months poststroke were randomized into group A (physiotherapy only) or group B (physiotherapy and FES) -Physiotherapy for all patients was performed 2 times per week and included individualized activities focused on improving gait; activities were goal-oriented  and task-specific  and included repetition and feedback. Group B also received FES stimulation to the common peroneal nerve for foot drop -Outcome measures were recorded pre and post intervention at week 1 and week 8, respectively. Follow-up  was performed again at week 20. Measures included multiple gait-related  assessments (e.g., 10MWT, 6MWT, Rivermead Visual Gait Analysis); substantial meaningful change was 0.1 m/s (10MWT) and 50 m (6MWT) -No statistically significant changes between groups were observed in outcome measures. Statistically significant improvements within both groups were noted in walking speed and distance walked",
+            "See Description, Indications of device/equipment,  and Guidelines for use of device/equipment , above .  Problem Goal Intervention Expected ProgressionHome Program _ Reduced UE/hand function _ _ _ _ _ _ _Improved UE function, including grasping and reaching _ Reduced pain associated with poststroke shoulder subluxationFES  FES might be used to improve ROM, increase strength, and reduce spasticity.(2,3,8) _ Used in conjunction with therapeutic exercise to maximize benefit _ _ _ See  Treatment summary  , above, for applications in SCI and stroke patients _Progress each patient as appropriate and indicated _Implement home program to support therapeutic outcomes. _ Educate patient, family, and other caregivers in use and goals of treatment program Reduced LE function _ _Improved LE function, including gait, standing, and foot control _FES  FES might be used to enhance gait speed, facilitate standing for transfers, enable cycling exercise, and assist in foot clearance during gait(2,3,8) _ _ See  Treatment summary,   above, for applications in SCI and stroke patients _Progress each patient as appropriate and indicated to achieve goals _Implement home program to support therapeutic outcomes. _ Educate patient, family, and other caregivers in use and goals of treatment program Deconditioning, atrophy, altered muscle contractile properties _Improved fitness, general health _FES  FES-assisted cycling might be used to enhance general fitness and reduce impact of deconditioning following SCI(24) _Progress each patient as appropriate and indicated to achieve goals _ _Implement home program to support therapeutic outcomes. _ Educate patient, family, and other caregivers in use and goals of treatment program  Adverse events include possible electrode breakage, pain response to stimulation, skin irritation including burns, granulomaMinimize risk of adverse events _Ensure patient meets criteria for use of FES, including cognitive and sensation requirements. _ Ensure proper use of device and patient ability to control device _ _ See  Guidelines for use of device/equipment and  Contraindications/ Precautions  , aboveN/A _N/A ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes and outcome measures will be determined by the underlying diagnosis and specific goals of intervention": [
+            "Reduce shoulder subluxation\u2013Physical assessment; review of radiographs if available",
+            "Improve upper extremity/hand strength and function\u2013MMT, dynamometry, functional assessment (e.g., FIM)",
+            "Improve lower extremity/foot strength and function\u2013MMT, dynamometry, functional assessment (e.g., FIM), gait analysis (e.g., Tinetti Gait Scale, 6MWT)"
+        ]
+    },
+    "maintenance or prevention": [],
+    "patient education": [
+        "Functional electrical stimulation for spinal cord injury, Mayo Clinic website, https://www.mayoclinic.org/tests-procedures/functional-electrical-stimulation-for-spinal-cord-injury/about/pac-20394230",
+        "Functional electrical stimulation, American Heart Association website, http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/RegainingIndependence/PhysicalChallenges/Functional-Electrical-Stimulation_UCM_310628_Article.jsp#.WhTINjKWyoL Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Martin R, Sadowski C, Obst K, Meyer B, McDonald J. Functional electrical stimulation in spinal cord injury: from theory to practice. Top Spinal Cord Inj Rehabil . 2012;18(1):28-33.  doi:10.1310/sci1801-28.  (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Schuhfried O, Crevenna R, Fialka-Moser  V, Paternostro-Sluga  T. Non-invasive  neuromuscular electrical stimulation in patients with central nervous system lesions: an education review. J Rehabil Med . 2012;44(2):99-105.  doi:10.2340/16501977-0941.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Sheffler L, Chae J. Neuromuscular electrical stimulation in neurorehabilitation. Muscle Nerve . 2007;35(5):562-590.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Coverage and Billing for Neuromuscular Electrical Stimulation (NMES) Transmittal AB-02-156.  Department of Health and Human Services. Centers for Medicare and Medicaid Services Web site. http://www.cms.gov/Regulations-and-Guidance/Guidance/Transmittals/downloads/ab02156.pdf . Published November 1, 2002. Accessed January 21, 2020. (PP)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Aetna Clinical Policy Bulletin: Functional Electrical Stimulation and Neuromuscular Electrical Stimulation. http://www.aetna.com/cpb/medical/data/600_699/0677.html . Published October 4, 2019. Accessed January 21, 2020. (PP)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Functional Electrical Stimulation (FES); Threshold Electrical Stimulation (TES). Anthem Medical Policy DME.00022 Web site. http://www.anthem.com/medicalpolicies/policies/ mp_pw_a049573.htm . Published March 21, 2019. Accessed January 21, 2020. (PP)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation. UnitedHealthcare Oxford . August 1, 2017. https://www.oxhp.com/secure/policy/ electrical_stimulation_for_the_treatment_of_pain_and_muscle_rehabilitation.pdf . Accessed October 18, 2018. (PP)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Peckham PH, Knutson JS. Functional electrical stimulation for neuromuscular applications. Annual Rev Biomed Eng . 2005;7:327-360.  (RV) "
+        },
+        {
+            "number in article": 9,
+            "reference": "Tawashy AE, Eng JJ, Krassioukov AV, Warburton DE, Ashe MC, Hung C. Screening and habituation of functional electrical stimulation \u2013 leg cycle ergometry for individuals with spinal cord injury: a pilot study. J Neurol Phys Ther . 2008;32(4):164-170.  doi:10.1097/NPT.0013e31818de56f. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Grandjean PA, Mortimer JT. Recruitment properties of monopolar and bipolar epimysial electrodes. Ann Biomed Eng . 1986;14(1):53-66.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Knutson JS, Naples GG, Peckham PH, Keith MW. Electrode fracture rates and occurrences of infection and granuloma associated with percutaneous intramuscular electrodes in upper-limb  functional electrical stimulation applications. J Rehab Res Dev . 2002;39(6):671-684.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Kilgore K, Peckham PH, Keith MW, et al. Durability of implanted electrodes and leads in an upper-limb  neuroprosthesis. J Rehab Res Dev . 2003;40(6):457-468.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Uhlir JP, Triolo RJ, Davis JA, Bieri C. Performance of epimysial stimulating electrodes in the lower extremity. IEEE Trans Neural Syst Rehabil Eng . 2004;12(2):279-287.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Zwecker M, Levenkrohn S, Fleisig Y, Zeilig G, Ohry A, Adunsky A. Mini-Mental  State Examination, cognitive FIM instrument, and the Lowenstein Occupational Therapy Cognitive Assessment: relation to functional outcome of stroke patients. Arch Phys Med Rehabil . 2002;83:342-345.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Unay K, Karatoprak O, Sener N, Guven B, Blige A. Patients with isolated musculoskeletal trauma have lower mental status scores. Clin Orthop Relat Res . 2008;466(9):2224-2229.  doi:10.1007/s11999-008-0326-0.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Meilink A, Hemmen B, Seelen HA, Kwakkel G. Impact of EMG-triggered  neuromuscular stimulation of the wrist and finger extensors of the paretic hand after stroke: a systematic review of the literature. Clin Rehabil . 2008;22(4):291-305.  doi:10.1177/0269215507083368. (SR)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Powell J, Pandyan A, Granat M, Cameron M, Stott DJ. Electrical stimulation of wrist extensors in poststroke hemiplegia. Stroke. 1999;30(7):1384-1389.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Wuolle K, Van Doren C, Thorpe G, Keith MW, Peckham PH. Development of a quantitative hand grasp and release test for patients with tetraplegia using a hand neuroprosthesis. J Hand Surg . 1994;19(2):209-218.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Yan T, Hui-Chan  C, Li L. Functional electrical stimulation improves motor recovery of the lower extremity and walking ability of subjects with first acute stroke: a randomized placebo-controlled  trial. Stroke. 2005;36(1):80-85.  (RCT)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Daly JJ, Roenigk K, Holcomb J, et al. A randomized controlled trial of functional neuromuscular stimulation in chronic stroke subjects. Stroke. 2006;37(1):172-178.  (RCT)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Pereira S, Mehta S, McIntyre A, Lobo L, Teasell RW. Functional electrical stimulation for improving gait in persons with chronic stroke. Top Stroke Rehabil . 2012;19(6):491-498. doi:101310/tsr1906-491.   (SR)"
+        },
+        {
+            "number in article": 22,
+            "reference": "de Kroon JR, van der Lee JH, Ijzerman MJ, Lankhorst GJ. Therapeutic electrical stimulation to improve motor control and functional abilities of the upper extremity after stroke: a systematic review. Clin Rehabil . 2002;16(4):350-360.  (SR)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Lai CH, Chang WH, Chan WP, et al. Effects of functional electrical stimulation cycling exercise on bone mineral density loss in the early stages of spinal cord injury. Rehabil Med. 2010;42(2):150-154.  doi:10.2340/16501977-0499.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Davis GM, Hamzaid NA, Fornusek C. Cardiorespiratory, metabolic, and biomechanical responses during functional electrical stimulation leg exercise: health and fitness benefits. Artif Organs . 2008;32(8):625-629.  doi:10.111/j.1525-1594.2008.00622.x.  (SR)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Dolbow DR, Gorgey AS, Ketchum JM, Moore JR, Hackett LA, Gater DR. Exercise adherence during home-based  functional electric stimulation cycling by individuals with spinal cord injury. Am J Phys Med Rehabil . 2012;91(11):922-930.  doi:10.1097/PHM.0b013e318269d89f. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Nightingale EJ, Raymond J, Middleton JW, Crosbie J, Davis GM. Benefits of FES gait in a spinal cord injured population. Spinal Cord . 2007;45(10):646-657.  (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Page SJ, Levin L, Hermann V, Dunning K, Levine P. Longer versus shorter daily durations of electrical stimulation during task-specific  practice in moderately impaired stroke. Arch Phys Med Rehabil . 2012;93(2):200-206.  doi:10.1016/j.apmr.2011.09.016. (RCT)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Shindo K, Fujiwara T, Hara J, et al. Effectiveness of hybrid assistive neuromuscular dynamic stimulation therapy in patients with acute stroke: a randomized controlled trial. Neurorehabil Neural Repair . 2011;25(9):830-837.  (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Foley N, Teasell R, Jutai J, et al. Upper extremity interventions. Evidence-Based  Review of Stroke Rehabilitation 15th edition ; 2013. (SR)"
+        },
+        {
+            "number in article": 30,
+            "reference": "de Kroon JR, Ijzerman MJ, Chae J, Lankhorst GJ, Zilvold G. Relation between stimulation characteristics and clinical outcome studies using electrical stimulation to improve motor control of the upper extremity in stroke. J Rehabil Med . 2005;37(2):65-74.  (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Kottink AI, Hermens HJ, Nene AV, Tenniglo MJ, Groothuis-Oudshoorn  CG, Ijzerman MJ. Therapeutic effect of an implantable peroneal nerve stimulator in subjects with chronic stroke and footdrop: a randomized controlled trial. Phys Ther . 2008;88(4):437-448.  doi:10.2522/ptj.20070035. (RCT)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Robbins SM, Houghton PE, Woodbury MG, Brown JL. Therapeutic effect of functional and transcutaneous electrical stimulation on improving gait speed in stroke patients: a meta-analysis.  Arch Phys Med Rehabil . 2006;87(7):853-859.  (M)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Peurala SH, Tarkka IM, Pukanen K, Sivenius J. The effectiveness of body-weight-supported  gait training and floor walking in patients with chronic stroke. Arch Phys Med Rehabil. 2005;86(8):1557-1564.  (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Kottink AI, Hermens HJ, Nene AV, et al. A randomized controlled trial of an implantable 2-channel  peroneal nerve stimulator on walking speed and activity in poststroke hemiplegia. Arch Phys Med Rehabil . 2007;88(8):971-978.  (RCT)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Hammond ER, Metcalf HM, McDonald JW, Sadowsky CL. Bone mass in individuals with chronic spinal cord injury: associations with activity-based  therapy, neurologic and functional status, a retrospective study. Arch Phys Med Rehabil . 2014;95(12):2342-2349.  doi:10.1016/j.apmr.2014.07.395. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Murphy JO, Audu ML, Lombardo LM, Foglyano KM, Triolo RJ. Feasibility of closed-loop  controller for righting seated posture after spinal cord injury. J Rehabil Res Dev . 2014;51(1):747-760.  doi:10.1682/JRRD.2013.09.0200. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Jones ML, Evans N, Tefertiller C, et al. Activity-based  therapy for recovery of walking in individuals with chronic spinal cord injury: results from a randomized clinical trial. Arch Phys Med Rehabil . 2014;95(12):2236-2246.e2.  doi:10.1016/j.apmr.2014.07.400. (RCT)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Wilkinson IA, Burridge J, Strike P, Taylor P. A randomised controlled trial of integrated electrical stimulation and physiotherapy to improve mobility for people less than 6 months post stroke. Disabil Rehabil Assist Technol . 2015;10(6):468-474.  doi:10.3109/17483107.2014.917125. (RCT)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Miller L, McFadyen A, Lord AC, et al. Functional electrical stimulation for foot drop in multiple sclerosis: a systematic review and meta-analysis  of the effect on gait speed. Arch Phys Med Rehabil . 2017;98(7):1435-1452.  doi:10.1016/j.apmr.2016.12.007. (M)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Barr CJ, Patritti BL, Bowes R, Crotty M, McLoughlin JV. Orthotic and therapeutic effect of functional electrical stimulation on fatigue induced gait patterns in people with multiple sclerosis. Disabil Rehabil Assist Technol . 2017;12(6):560-572.  doi:10.3109/17483107.2015.1136702. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Shaffer RF, Picard G, Taylor JA. Relationship of spinal cord injury level and duration to peak aerobic capacity with arms-only  and hybrid functional electrical stimulation rowing. Am J Phys Med Rehabil . 2018;97(7):488-491.  doi:10.1097/PHM.0000000000000903. (R)"
+        }
+    ]
+}

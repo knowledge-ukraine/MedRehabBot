@@ -1,0 +1,564 @@
+{
+    "metadata": {
+        "title": "Cerebral Palsy  Speech Therapy",
+        "synonyms": [
+            "palsy, cerebral  speech therapy",
+            "spastic diplegic cerebral palsy  speech therapy",
+            "spastic hemiplegic cerebral palsy: speech therapy",
+            "spastic quadriplegic cerebral palsy: speech therapy",
+            "spastic monoplegic cerebral palsy: speech therapy",
+            "dyskinetic cerebral palsy: speech therapy",
+            "ataxic cerebral palsy: speech therapy"
+        ],
+        "anatomical location body part affected": [
+            "Developing brain(68)"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders",
+            "adult neurological disorders",
+            "swallowing and swallowing disorders",
+            "v oice and v oice disorders",
+            "learning disabilities",
+            "augmentative and alternative communication"
+        ],
+        "description": [
+            "Cerebral palsy (CP) is a motor impairment resulting from a nonprogressive lesion to an immature brain. In addition to motor impairments, patients with CP might have cognitive, communication, and/or swallowing/feeding impairments.(1,2) The severity of CP\u2019s effect on communication can vary widely"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "343.0": "congenital diplegia",
+            "343.1": "congenital hemiplegia",
+            "343.2": "congenital quadriplegia",
+            "343.3": "congenital monoplegia",
+            "343.4": "infantile hemiplegia",
+            "343.8": "other specified infantile cerebral palsy",
+            "343.9": "infantile cerebral palsy, unspecified"
+        },
+        "ICD-10 codes": {
+            "G80.0": "spastic quadriplegic cerebral palsy",
+            "G80.1": "spastic diplegic cerebral palsy",
+            "G80.2": "spastic hemiplegic cerebral palsy",
+            "G80.3": "athetoid cerebral palsy",
+            "G80.4": "ataxic cerebral palsy",
+            "G80.8": "other cerebral palsy",
+            "G80.9": "cerebral palsy, unspecified _ (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "CP results from a static lesion of the immature brain, typically defined as the brain of a child 2 years of age or younger.(1) The brain injury can occur prenatally, perinatally, or postnatally. CP\u2019s primary symptom is motor impairment. Motor impairment might vary from mildly impaired gait to wheelchair dependence. There are multiple ways in which the various types of CP can be grouped.(59) Three classifications of CP based on motor function have been identified: pyramidal (spastic), extrapyramidal (ataxic or athetoid), and mixed.(59) A patient\u2019s presenting neurological signs, muscle tone, and body movements determine which type of CP is diagnosed.(3) The spastic type of CP can be divided according to the parts of the body affected: monoplegia, diplegia, triplegia, quadriplegia, and hemiplegia.(1) Communication impairments, especially dysarthria, can occur with each type of CP(2)",
+            "Symptoms of CP are extremely variable but can include: \u2013Abnormal movements(1) \u2013Abnormal muscle tone(1) \u2013Cognitive impairment(1) \u2013Depression(1) \u2013Difficulty managing saliva \u2013Feeding difficulties/dysphagia(1) -Patients with CP are at risk for severe malocclusion which can significantly impair feeding ability(4) -For detailed information on assessment and treatment of dysphagia in patients with CP, see Clinical Review\u2026 Dysphagia: Cerebral Palsy (Children) ; CINAHL Topic ID Number: T708945 \u2013Functional deterioration of the upper extremity(1) \u2013Impaired cardiopulmonary functioning(1) \u2013Impaired communication(1) \u2013Loss of range of motion (ROM)(1) \u2013Malnutrition or obesity(1) \u2013Pain(1) \u2013Seizure disorder(1) \u2013Sensorineural hearing loss \u2013Spasticity(1) \u2013Urinary difficulties(1) \u2013Visual impairment or blindness \u2013Weakness(1)",
+            "The speech and language symptoms that accompany a diagnosis of CP are highly variable and are influenced by the patient\u2019s age, the severity of a patient\u2019s motor impairment, the presence or absence of hearing loss, and/or the presence or absence of cognitive impairment \u2013Persons with CP can exhibit a range of speech symptoms, from mild articulation errors to completely unintelligible speech to an absence of functional communication -In a retrospective chart review study conducted in Sweden of 129 children with CP, researchers found that over half of the children with CP in this cohort had speech impairments. Twenty-one  percent of the children had a speech disorder (dysarthria or apraxia) and an additional 32% of the children in this cohort were classified as nonverbal. Severity of speech disorders was correlated to the severity and type of CP. The two types of CP associated with the greatest speech deficits were bilateral spastic and dyskinetic CP(56) \u2013Patients with CP often have difficulty producing gestures, exhibiting facial expressions, and engaging in social communication(5) \u2013Dysarthria, dyspraxia, and/or ataxia is often observed in patients with CP(1,2,3,5)  -Dysarthria can be present in any type of CP; for detailed information on the various types of dysarthria see the series of Clinical Reviews on dysarthria -Because CP affects the developing brain, the features of dysarthria accompanying CP will differ from those of dysarthria in older adults and might not be as easily identifiable as spastic, ataxic, flaccid, hyperkinetic, or hypokinetic dysarthria(6)",
+            "Symptoms of pragmatic (social) language impairment can include: \u2013Decreased ability to initiate interactions/communication(5) \u2013Decreased responsiveness to communication attempts(5) \u2013Decreased range and consistency of communication signals(5,7) \u2013Difficulty producing nonverbal and/or preverbal movements quickly, accurately, and reliably(2,5) \u2013Difficulty producing appropriate facial expressions(2) \u2013Use of idiosyncratic communication signals that are difficult to recognize by parents/caregivers(7)",
+            "Symptoms of speech production impairment can include: \u2013Shortness of breath(1) \u2013Poor breath support leading to short phrases and rushes of speech and low volume(3) \u2013Reduced stress(3) \u2013Pitch variation or low pitch(3) \u2013Hypernasality(3) \u2013Articulatory imprecision leading to speech intelligibility that is mildly to significantly impaired(3) \u2013Slow speech rate(3) \u2013Harsh/breathy voice quality(3) \u2013Continuous voicing(3) \u2013Delayed speech development resulting from or exacerbated by hearing loss(8) \u2013Sound errors resulting from or exacerbated by hearing loss(9)",
+            "Symptoms of language and cognitive impairment can include: \u2013Expressive and receptive language delays/impairments(2,10,11) \u2013Dysfunctional perceptual processing \u2013Intellectual disability ranging from mild to severe,1) \u2013Delayed language development resulting from or exacerbated by hearing loss(8)",
+            "The most prominent features in children with dyskinetic CP (who are likely to experience more severe speech impairments) are: \u2013rapid, shallow, and irregular breathing \u2013reduced stress \u2013inappropriate voicing \u2013slow speech rate(3)",
+            "The most prominent features in children with spastic CP are: \u2013hypernasal speech \u2013harsh, breathy voice \u2013imprecise articulation(3)",
+            "Patients with pure ataxic CP present with articulation disorders as their primary symptom(3) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Because symptoms associated with CP vary significantly, precautions will vary according to the individual patient and the severity of accompanying language, cognitive, and/or motor impairments. CP is often diagnosed in very young children; therefore, precautions to evaluation will also be determined by the patient\u2019s age and family concerns. Patients who are very young or who present with speech/language impairments might not be able to answer questions regarding medical history. It is recommended that parents and/or caregivers be involved in all assessment procedures. A patient\u2019s medical records should be reviewed thoroughly prior to the evaluation",
+            "During the evaluation, it is of utmost importance to be aware of a patient\u2019s level of fatigue, pain tolerance, and level of frustration",
+            "Depression is common among individuals with CP and can adversely affect test performance(1)",
+            "A patient\u2019s family, culture, and native language should also be considered to determine the appropriateness of examination questions and materials. When evaluating very young children or patients with severe communication impairments, significant motor impairments, or cognitive-communication  impairments, standardized assessment measures might need to be supplemented or replaced by nonstandardized, observation-based  methods",
+            "If a patient uses an augmentative or alternative communication (AAC) device, that system and/or other preferred modes of communication should be made available during a communication assessment(13)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: cp is caused by nonprogressive damage to an developing brain": [
+            "Occurs as a result of injury to the child\u2019s brain prior to or during the birthing process(57)\u2013Can also occur as a result of injury to the brain after birth, up to the first few years of life (typically by age 2 years). It canresult from infection, traumatic brain injury (TBI), anoxia, or ischemia(57,58)\u2013In many cases, the exact cause of CP is unknown(72)\u2013Perinatal asphyxia is a rare cause of CP. It is estimated to account for 6% to 8% of CP cases(71)"
+        ],
+        "pathogenesis:  cerebral damage during the uterine, perinatal, or postnatal period": [],
+        "risk factors": [
+            "Prematurity(69)",
+            "Low birth weight(69)",
+            "Complicated labor and delivery(72)",
+            "Bleeding in the brain (stroke) or heart defect(69)",
+            "Severe lack of oxygen in the brain(72)",
+            "Trauma(69)",
+            "Premature birth(69)",
+            "Maternal infection(69)",
+            "In vitro fertilization (IVF; children born as the result of IVF are at increased risk)(69)",
+            "Twin (or higher order) birth(69)",
+            "Chorioamnionitis (bacterial infection of the membranes surrounding a fetus and the amniotic fluid)(12)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Precautions will vary according to the individual patient and the severity of accompanying language, cognitive, and/or motor impairments. A patient\u2019s medical records should be thoroughly reviewed prior to a speech-language evaluation or treatment"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Because symptoms associated with CP vary significantly, precautions will vary according to the individual patient and the severity of accompanying language, cognitive, and/or motor impairments. CP is often diagnosed in very young children; therefore, precautions to evaluation will also be determined by the patient\u2019s age and family concerns. Patients who are very young or who present with speech/language impairments might not be able to answer questions regarding medical history. It is recommended that parents and/or caregivers be involved in all assessment procedures. A patient\u2019s medical records should be reviewed thoroughly prior to the evaluation",
+            "During the evaluation, it is of utmost importance to be aware of a patient\u2019s level of fatigue, pain tolerance, and level of frustration",
+            "Depression is common among individuals with CP and can adversely affect test performance(1)",
+            "A patient\u2019s family, culture, and native language should also be considered to determine the appropriateness of examination questions and materials. When evaluating very young children or patients with severe communication impairments, significant motor impairments, or cognitive-communication  impairments, standardized assessment measures might need to be supplemented or replaced by nonstandardized, observation-based  methods",
+            "If a patient uses an augmentative or alternative communication (AAC) device, that system and/or other preferred modes of communication should be made available during a communication assessment(13)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Refer to neurological testing for the cause/medical history related to the CP and the site and size of lesion",
+                "course of treatment": {
+                    "medical management": "Medical management will vary according to the patient\u2019s presenting symptoms. Medical Botulinum toxin injections and/or phenol blocks to loosen tight muscles, decrease tremors and muscle spasms, or improve contractures(1,2,14) Glycopyrrolate to reduce drooling(2) Surgery for refractory spasticity or to reconstruct thumb-in-palm  deformity(2) Orthopedic surgery to treat physical disability (e.g., abnormal posture correction, releasing spastic hip flexors)  Therapeutic electrical stimulation (TES)(2) Antiseizure/anticonvulsant medications for patients with accompanying seizure disorders(14) Dantrolene sodium and/or diazepam prescribed to combat spasticity Further medical management might be necessary for patients with dysphagia",
+                    "surgical management": [],
+                    "medications": "Determine what medications the patient\u2019s physician has prescribed; are they being taken? Patients with CP might receive botulinum toxin injections, phenol blocks, glycopyrrolate, dantrolene sodium, diazepam, and/or antiseizure medications 2,14)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Metabolic screening to differentiate CP from an inherited, progressive neurologic disorder(2)",
+                        "EMG to differentiate between diplegic CP and idiopathic toe walking(2)",
+                        "In infants, accurately diagnosing CP can be difficult. Initial neurological abnormalities suspected as being CP might resolve as the child ages. In contrast, since typically developing children do not begin moving with volition and independence until they are 6 months old, CP is often not suspected or diagnosed until that time. Cases of mild CP might not be diagnosed until a child is expected to stand and walk independently (i.e., after his or her first birthday)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help Researchers who conducted a study in the United Kingdom found that massage for children with CP was associated with increased muscle relaxation as well as improved mobility and bowel movements(15) Authors of a case study from Israel described positive effects of dyadic music therapy for the communication and relationship between a mother and her 4year-old  son with CP(16) Chinese researchers who conducted a systematic review of randomized controlled trials investigating the use of traditional Chinese medicine (TCM) with children with CP found some benefits of acupuncture alone and combined with conventional therapy; however, authors of this review recommended further research before drawing firm conclusions(17)",
+                    "previous therapy": "Document whether patient has had speech-language,  occupational, and/or physical therapy for this or other conditions and what specific treatments were helpful or not helpful. Since CP is a chronic condition that often requires ongoing intervention, an older child or adult might have a long history of previous therapy(2)"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Does the patient have vision or hearing problems? Hearing impairments and visual deficits are common in individuals with CP -In a study conducted in Sweden with 15 children with CP, researchers found that, despite having high visual function, the accommodative and pupillary response to step-blur  stimulation was reduced. Researchers noted that these abnormal responses are likely to impact reading ability as well as ability to perform ADLs(65) -Does the patient suffer from a mood disorder (e.g., depression) that might affect motivation to initiate or respond to communication? -How adept are parents/caregivers at recognizing and responding to the patient\u2019s communication signals?(5) -How does the patient\u2019s motor impairment affect his or her ability to communicate both nonverbally and verbally?(5)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of speech/language symptoms as well as other symptoms of CP the patient is experiencing -See Presenting signs/symptoms , above, for a list of symptoms commonly associated with CP",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Make note of supplemental oxygen, tracheostomy, or mechanical ventilator Depression is common among individuals with CP and parents of a child with CP(1,18) -Social functioning develops more slowly in children with CP; this can lead to behavioral problems as well(19,20) -In a study conducted in Australia, researchers compared functional abilities and social outcomes of adults (ages 2030 years) with CP (n = 335) to those of a population-based,  age-matched  control group (n = 2,152) and found that the subjects with CP had lower levels of educational attainment, lower employment rates, were less likely to be partnered or married, had lower personal income levels, and were more likely to live with a parent(64) -Speech-language  pathologists (SLPs) should be knowledgeable about symptoms of depression and refer the patient and/or caregiver/parent to a neuropsychologist or clinical psychologist when signs are present in the patient or family members (e.g., loss of interest in daily activities, problems sleeping, feelings of sadness and hopelessness)(18,21)Document hearing abilities; patients with CP are at increased risk of sensorineural hearing loss(1) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Is there a history of developmental delay in any area?",
+                    "comorbid diagnoses": "Ask patient and/or caregiver about other problems, including autism spectrum disorder (ASD), musculoskeletal problems, neurological impairments, cardiopulmonary problems,(1) gastrointestinal/nutritional problems, urinary problems, diabetes, cancer, heart disease, pregnancy, psychiatric disorders, or orthopedic disorders Individuals with comorbid CP and ASD will have significantly greater impairment than those with CP alone, especially in the area of communication(63)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient and/or caregiver about other symptoms the patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include receive intervention services? If so, are they home, school, or clinic based? Does the patient attend daycare, school, or work? If the patient attends school, what support services are in place? Does the patient regularly use a computer/ telephone? Does the patient participate in language-based  recreational activities (e.g., book clubs, speaking clubs)? Does the patient participate in recreational or competitive sports?",
+                "functional limitations assistance with ADLs adaptive equipment": "Obtain information on adaptive equipment the patient is using, such as assistive/alternative communication devices, wheelchairs, walkers, hearing aids, or glasses. Obtain information about the patient\u2019s ability to use the telephone, participate in communication, attend school, and/or participate in work activities(12)",
+                "living environment": "Obtain information on with whom the patient lives, identification of caregivers, are there stairs in the home, number of floors in home. Identify if there are barriers to independence in the home; any modifications necessary? -Obtain information about order of acquisition of each language and language history (e.g., language used in education)(22) -Determine which language is used in different situations (e.g., school, work, home, with relatives, with friends)(22) -Determine what modalities are used in each language (e.g., reading, speaking, writing, sign, AAC)(22)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting).  SLPs evaluating a patient with CP should examine the patient\u2019s respiration, phonation, resonance, articulation, prosody, oral motor skills, receptive/expressive language skills, pragmatic language skills, and feeding/swallowing.(23) Since dysarthria is a common feature of CP, it is  important to thoroughly assess a patient\u2019s motor speech system. For detailed information on the assessment of dysarthria, please see the series of Clinical Reviews on dysarthria",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "AAC devices are commonly used among patients with CP.(25,26) While conducting an AAC assessment, an SLP should observe a patient\u2019s posture and fine and gross motor skills. A patient\u2019s language, cognitive, and literacy skills should be assessed and considered when choosing an appropriate AAC device \u2013Collaborate with the patient\u2019s physical and occupational therapist(s) to develop the most effective and appropriate AAC device -The patient\u2019s use of any adaptive and/or orthotic equipment should be noted (e.g., hearing aids, wheelchair); determine if functional modifications could be made to promote better access to the AAC device(27) -The ways in which AAC will support the patient\u2019s participation in ADLs should be considered as well as ways in which the AAC device will potentially facilitate or hinder communication \u2013As part of an ongoing assessment, the patient should be given access to a range of AAC devices for trial in controlled and natural contexts(13) \u2013Authors of a case study from Canada described a noninvasive throat vibration switch that the patient controlled with his vocal folds by humming; this type of device might be appropriate for patients with significant motor impairment(28) -For detailed information on assessment with AAC devices, see the series of Clinical Reviews on this topicIt is important to examine the speech structures and musculature at rest and during movement as well as during both speech and nonspeech tasks(13)(23)Does patient display good strength when pushing against a tongue blade? Is patient able to count from 1 to 100 and maintain good muscle strength?Can patient perform alternate motion tasks (AMTs) wherein he or she repeats a muscle sequence rapidly puh, puh, puh? Can patient perform sequential motion tasks (SMTs), such as puh, tuh, kuh, quickly and precisely with one breath of air?What is the ROM of the patient\u2019s articulators? Is patient able to open his or her jaw? Is patient able to extend and hold articulators in various positions?Is patient able to coordinate the speed, strength, range, direction, and timing of speech movements?Is patient able to hold a position with his or her articulators? Is patient able to sustain production of smooth, steady vowels?What are the characteristics of the patient\u2019s muscle tone in his or her articulators? Does muscle tone affect patient\u2019s ability to adequately adduct his or her vocal folds?(29) Purpose is to evaluate the functioning of the articulators and motor speech programming through a series of yes/no questions. Responses to the yes/no questions are based on perceptual observationsIndividuals with CP should undergo complete audiological and vision evaluations. Results of these evaluations should be considered when choosing AAC devicesThe absence of functional communication can significantly impact an individual\u2019s ability to participate in ADLs. During an assessment, the SLP should consider ways to support a patient\u2019s participation in ADLs. This should be done in collaboration with the patient, family/caregiver, other medical personnel, and school/work staff(13)",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "Quality of life is a very important measure for both patients with CP and their caregiver(s)(39) \u2013Cerebral Palsy Quality of Life Questionnaire (CP QOL)(39) \u2013Cerebral Palsy Quality of Life Questionnaire for Children (CP QOL-Child)(39)",
+            "speech and language examination": " Speech and language examination (including reading)  \u2013SpeechPatients with CP might exhibit articulation that is imprecise and variable.(3) These patterns might negatively affect speech intelligibility. Articulation skills can be assessed using standardized assessments or by obtaining and analyzing a speech sample -In a study conducted in the United States of speakers with CP (mean age = 30.43 years; SD = 16.04), researchers found significantly increased frequency of errors as the articulatory complexity of consonants increased; fricatives and affricates were most frequently misarticulated(30) -Patients with CP have a slowed rate of speech(3,53) -Assess for dysarthria -Any type of dysarthria can occur as a result of motor impairments in CP. In some cases it might be difficult to classify exactly with which type of dysarthria the patient presents because the speech is so distorted. In a study with 19 adult patients with CP conducted in Germany, researchers found that most of the subjects included in this study exhibited spastic dysarthria (14/19). An additional 3 subjects had hyperkinetic dysarthria, 1 subject had ataxic dysarthria, and 1 subject had mixed spastic-hyperkinetic-ataxic dysarthria(55) -In a study conducted in the United States with 19 children with CP aged 30\u201336months,  researchers found that 60% of the children in the study who could talk at this age had speech or language deficits, including dysarthria. The results of speech analysis in this study indicated that vowel space, maximum utterance length, articulation rate, and language comprehension abilities collectively contribute to speech intelligibility in young children with CP. V owel space (a graphical means of showing where a vowel speech sound is located in both \"acoustic\" and \"articulatory\" space) was the only one of these variables that made a significant independent contribution to speech intelligibility with these subjects(51) -In a study conducted in Canada with 12 children with CP with dysarthria, researchers found that calculation of percent consonants correct (PCC) was the single best predictor of speech intelligibility scores in these children. PCC is calculated by transcribing a speech sample of at least 100 words, adding up the total number of consonants produced and the total number of correct consonants, and dividing the number of correct consonants by the total number of consonants and multiplying the answer by 100 to determine the PCC.(50) Children also made numerous errors on vowels, but researchers found that percent vowels correct (PVC) was not as good a predictor of speech intelligibility as PCC in this group of subjects(50) -Standardized tests of dysarthria(31) Purpose is to quantify single word intelligibility, sentence intelligibility, and speaking rate for adult and adolescent speakers(32) Purpose is to diagnose dysarthria and to provide differentialreflexes, respiration, lips, palate, laryngeal, tongue, intelligibility, and influencing factors (e.g., hearing, mood, language). Norms are provided for patients aged 12\u201397(33) Purpose is to evaluate children and adults with dysarthria. Includes 21 quantitative tasks and 15 rating scale tasks which are used to determine the severity of a patient\u2019s dysarthria and make recommendations for treatmentPatients with CP often have poor respiratory support and respiratory patterns that negatively affect speech production.(1,3) Respiration should be evaluated while the patient is at rest, during phonation, and during speech production tasks.(34) The patient\u2019s respiratory support should be evaluated in addition to his or her ability to coordinate respiration and phonation. Kinematic measures, such as magnetometer systems or respiratory inductive plethysmography, can provide objective information on a patient\u2019s patterns of inhalations and exhalations(35)Due to the high likelihood of impairments to the respiratory and laryngeal system in CP, breath patterns should also be evaluated.(3) Breath pattern observations should note irregular breathing rates, the absence of normal inhalation-exhalation  patterns, the initiation of speaking at atypical points in the respiratory cycle, the interruption of speech from sudden, forced inspiratory/expiratory sighs, exaggerated respiratory maneuvers, running out of air before inhaling, and breathing at syntactically inappropriate locations in the utterance(35)Assess the patient\u2019s receptive and expressive language skills using standardized language tests or language sampling, as appropriate. As with cognitive testing, the impact of motor and speech impairments on a patient\u2019s ability to respond to test questions should be taken into consideration. Although the prevalence of language disorders among  persons with CP is unknown, they might experience difficulty in receptive and/or expressive language skills.(2) More specifically, they often experience difficulty acquiring pre-literacy  and literacy skills and may be at increased risk for grammar-related language delays(10,11)a computer-based  assessment developed in 2010 that is designed to assess comprehension of spoken language with the CP population(36) -Researchers in the Netherlands investigated the reliability and validity of the C-BiLLT  in 806 typically developing children and 87 nonverbal children with CP. Researchers found evidence of good reliability and validity as a measure of spoken Dutch language comprehension. Testing activities were found to be accessible to children with CP, who often cannot participate in standardized assessments. Researchers stated that when normative data are more firmly established, the C-BiLLT  might be a reliable measure of Dutch receptive language in children with severe CP or other complex communication needs(66) -Researchers who conducted a study in the United States with 34 children with CP aged 4 years found that the Pediatric Evaluation of Disability Inventory (PEDI) was an appropriate measure to identify language delay in these children; however, it did not fully capture impairment of social function(49)For younger children, assess interaction patterns of a child with CP and parent(s)/caregiver(s). Document positioning that is/is not facilitative to communication, the existence or absence of communication opportunities, and the ability of the parent/caregiver to respond to the child\u2019s communicative signals. Research has shown that children with CP and their parents/caregivers have restricted interaction patterns in which the child initiates less, has a more responsive role, and is less independent than a typically developing child.(5) For a school-aged  child, a classroom observation is appropriate for documenting social language skillsChildren with CP often display impaired nonverbal communication, such as impaired use of eye gaze, impaired use of gesture, impaired use of pointing, impaired use of vocalizations, and impaired control of facial expression.(5,7) These impairments negatively affect the early interaction patterns between children with CP and their parents/caregivers.(7) Nonverbal communication skills should be evaluated through parent/caregiver interview or observation of parent/caregiver-child interactions in a natural context. When spoken language is significantly impaired, the potential functional use of nonverbal (unconventional) communication should be explored(13) -In order for eye gaze to be utilized functionally for communication, the patient must be able to use \u201ceye-pointing,\u201d which combines visual, social, cognitive, and motor skills. In a study conducted in the United Kingdom, researchers summarized the components of an eye-pointing  evaluation for individuals with CP.(62) The clinician should observe and -Ability to maintain fixation on a target; can the patient maintain fixation on both moving and stationary objects?(62) -Ability to shift fixation; can the patient accurately and purposefully shift attention between objects and the background?(62) -Understanding of cause and effect with respect to communication(62) -Ability to communicate preference; does the patient exhibit interest in given objects and persons? Does the patient have clear likes and dislikes for objects and activities?(62) -Social communication skills; how does the patient respond to social engagement from potential communication partners? Is the patient able to maintain eye contact? Does the patient exhibit joint attention skills?(62) -Visual recognition ability; does the patient appear to recognize preferred objects?(62) -Symbolic comprehension; does the patient understand that an object or picture can represent something else?(62) -Verbal language comprehension(62) -Corroboration; can the patient confirm or deny a communication partner\u2019s interpretation of eye-pointing  behavior (e.g., head nod, \u201cyes,\u201d or shake, \u201cno\u201d)?(62)Patients with CP often present with a harsh or breathy voice. They might have continuous voicing.(3) An -V ocal tremor -Excessive or limited pitch variation -Excessive or limited loudness variation -Abnormal nasality  -Wet phonation -Hoarseness and/or breathiness -For detailed information on evaluation of the voice and voice disorders, see the series of Clinical Reviews on this topicPatients with CP are at increased risk for reading difficulties.(11,37)According to American Speech-Language-Hearing  Association (ASHA) clinical practice guidelines, it is appropriate for an SLP to evaluate for and treat reading and writing impairment.(60) The rationale for SLPs to be involved in the development of literacy for(a) spoken language lays the foundation for reading and writing; (b) spoken and written language are interdependent in that each builds on the other to create language and literacy competence throughout the lifespan; (c) children with spoken language deficits often experience difficulty learning to read and write; and (d) intervention for spoken language often results in improvements in written language abilities and vice versa.(60) Administer age-appropriate standardized phonological awareness tests and reading tests.(38) The components of the reading evaluation will depend on the age of the child and developmental level. These components might include letter identification, letter-sound  identification, phonological awareness skills, site word reading, fluency, and reading comprehension(60)",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "If present, cognitive deficits associated with CP can range from mild to severe. The evaluating or treating SLP should note the results of any neurological (MRI, CT), neuropsychological, or psychological/cognitive tests that have been completed. Cognitive abilities, such as attention, perception, memory, reasoning, problem solving, and executive functioning, should also be evaluated.(13,24) Cognitive testing should be done by a neuropsychologist with experience working with persons with CP since IQ tests that depend upon fine motor and/or verbal responses often are invalid in this population(1)",
+            "aac assessment": "",
+            "swallow examination": "Individuals of all ages with CP can have feeding difficulties; therefore, it is important to evaluate their feeding safety and ability to access adequate nutrition Cerebral Palsy (Children) , referenced above",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve. For detailed information on assessment of patients with tracheostomies, see ClinicalChildren with Tracheostomy ; CINAHL Topic ID NumberT709084.For detailed information on assessment of a tracheostomy tube and use of a speaking valve, see Clinical Review\u2026Passy-Muir Tracheostomy & Ventilator Swallowing and Speaking Valve , referenced above"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis might be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria for inpatients should include fall-prevention strategies",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "The relative benefits and risks of intensive therapy should be evaluated on a case-by-case  basis. To ensure relevance and appropriateness of treatment program, decisions about goals and course of therapy should be made in collaboration with the patient, the caregivers, other healthcare professionals, and/or educational professionals(40)",
+                "Precautions will vary according to the individual patient and the severity of accompanying language, cognitive, and/or motor symptoms. As with an evaluation, it is important to thoroughly review a patient\u2019s medical records prior to any treatment. A patient\u2019s culture and language preference should also be considered to determine the appropriateness of treatment goals, objectives, and materials",
+                "Patients with CP are at risk for swallowing and feeding difficulties. Ensure that the patient and family/caregivers are aware of potential aspiration risks and educated about strategies when appropriate",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "A patient\u2019s medical status or previous failure on a developmental, speech, language, or cognitive-communication  screening might lead to referral for a full assessment. Full communication assessments should be completed by a fully credentialed and trained SLP. These assessments should include input from the patient, family/  caregivers, medical professionals, and/or educators. Once the assessment is complete and a communication impairment has been diagnosed, treatment can begin(13)",
+        "rule out": "The patient\u2019s physician will rule out a progressive neurological disorder",
+        "prognosis": [],
+        "referral to other disciplines": "Patients with CP might need to be referred to a physical therapist, occupational therapist, orthopedic surgeon, neurosurgeon, nutritionist, audiologist, ophthalmologist, social worker, and/or psychologist depending upon their individual needs",
+        "other considerations": [],
+        "treatment summary": [
+            "Overview of research support for intervention \u2013Authors of a Cochrane systematic review reported that published research on speech-language  interventions for individuals with CP typically focuses on one of two areas: therapy provided directly to a child with CP (\u201cdirect therapy\u201d) or therapy focusing on training parents/caregivers to become better conversation partners (\u201cindirect therapy\u201d).(2) Direct therapy was most often sought to facilitate the emergence of pre-intentional communication (mutual gaze, interpreting habitual behaviors as being communicative even when not intentional by the child), improve pragmatic language skills, and improve expressive language skills -Results from the studies included in the Cochrane review on direct intervention consistently show increases in pre-intentional  communication, increases in requests for objects or actions, increases in responsiveness to others\u2019 communication, and improvements in the use of expressive language structures. Due to the fact that the studies included in this review were single-case experimental design, the reviewers caution that the results might not generalize to other children with CP(2) \u2013Authors of a systematic review published in 2017 examined 17 research articles that investigated speech, language, and communication therapy for children aged 0 to 2 years with CP (or who were considered high risk for CP). The authors of this review reported that there were no studies that yielded high quality evidence. Overall, the evidence for speech, language, and communication interventions in this population is low. The interventions with the most promising evidence were responsivity training,prelinguistic milieu teaching, and similar types of parent\u2013infant  interaction training programs(73)",
+            "Improving communication interactions by training communication partners:  Parents/caregivers are trained in ways to facilitate communication. Intervention might include training on ways to: \u2013Improve physical positioning during interactions(5) \u2013Decrease parent/caregiver\u2019s use of directive language(5) \u2013Improve parent/caregiver\u2019s ability to read child\u2019s communication signals(5) \u2013Improve parent/caregiver\u2019s ability to imitate child\u2019s communication attempts(5) \u2013Increase parent/caregiver\u2019s use of open-ended questions(5) \u2013Provide more communicative opportunities(7) \u2013Wait for a clear communication signal from their child(7) \u2013Recognize their child\u2019s communication signal(7)  \u2013Improve parent/caregiver\u2019s ability to shape a more advanced communication signal(7) \u2013Authors of a published systematic review that included 4 research studies on children with CP documented consistent, positive changes in the interaction patterns of parents/caregivers who had participated in interaction training. These positive changes included improvements in physical positioning during conversation, decreased amounts of physical direction by mothers, increased use of open questions, improvements in infants\u2019 voluntary responses, and improvements in infants\u2019 vocalization. Further research in this area is needed due to significant methodological flaws in each of the 4 studies(5) \u2013In a study on indirect intervention conducted in the United States for children with CP, three caregiver-child  dyads were seen twice a week for 3 weeks. These visits were primarily treatment sessions, but also included observations of the dyads\u2019 communication. The children involved in this study were between the ages of 14 and 21 months and had significant motor and communication impairments. Results showed that all the caregivers participating in the intervention learned to 1) increase their use of communication opportunities, 2) wait for a communication signal from their child, and 3) recognize and respond to their child\u2019s communication attempts. Although parents/caregivers were also taught to use shaping, only small increases in parents\u2019 use of shaping were seen. Shaping occurs when a child produces a communicative behavior and his or her adult communication partner recognizes that behavior (e.g., eye gaze), decides which more sophisticated behavior is within the child\u2019s reach (e.g., eye gaze plus reach), and attempts to sculpt that desired behavior(7) \u2013It Takes Two to Talk (Developed by the Hanen Centre)(41) -Program used widely throughout the United Kingdom; focuses on early interaction training for parents of young children with CP(41) -In a study conducted in the United Kingdom involving 11 families in which there was a child with a severe motor disability (10 of these children had CP, one had a myopathy), researchers examined the effectiveness of the It Takes Two to Talk program in increasing communication between parent and child with disability(41) -Children were between the ages of 1;7 and 3;0 at the start of the study; all of the children had a history of severe delay in reaching gross and fine motor milestones as well as moderate to severe communication disorders(41) -Each family nominated one caregiver to participate in the training program; in all cases, the family member nominated was the mother(41) -The It Takes Two to Talk training took place over seven or eight 150-minute  group sessions and three home visits over approximately 13 weeks(41) -Prior to training, conversations between the mother and child were most often initiated and directed by the mother; children responded to mothers\u2019 directives and made few requests during conversations(41) -Following the training, researchers found that although conversations between the mother and child were still largely mother-directed,  the mothers had all become more responsive to the children and less directive and the children initiated more conversations and exerted more control over conversations(41)",
+            "Improving speech production skills through intensive intervention following a systems approach:  Intervention targeting respiration, phonation, resonance, articulation, and prosody. Articulation intervention is advised only if other aspects of speech production are/have been addressed(3) \u2013Exercises include:(3) -Patient focuses on starting to speak at the beginning of exhalation on two types of simple phrases -Patient practices breathing in order to regulate intensity and mark stress appropriately in regular phrases -Patient increases breath control for connected, conversational speech -Patient completes individualized articulation exercises as appropriate \u2013Teaching components include:(3) -Therapist introduces each exercise -Therapist models therapy activities -Therapist reinforces correct behavior -Therapist records results \u2013In a published research study conducted in the United Kingdom, 6 children (10\u201318  years old) with mild to severe dysarthria received 5 weeks of speech intervention incorporating the abovementioned exercises and teaching components. All children had significant motor involvement, and 2 had moderate learning disabilities. During the 5 weeks of  intervention, each child was seen for individual therapy 5 days a week for 20\u201330  minutes per session. Treatment followed a systems approach and focused on discussing breathing techniques, teaching correct seating and posture, and instructing students to start speaking at the beginning of exhalations. At the end of the 5 weeks of intervention, 4 students had improved single-word  intelligibility. However, at a 7-week  follow-up  session, all but 1 student\u2019s single-word  intelligibility had returned to pre-treatment levels. Before receiving the 5 weeks of intervention, most of the students were more intelligible in connected speech than in single-word  productions. Improvements in connected speech intelligibility following treatment were not statistically significant. The authors of this study hypothesized that failure of some children to maintain changes was due to the repeated practice of single skills instead of random practice of several skills(3) \u2013Another study conducted in the United States involved 16 children with CP (ages 12\u201318  years) and moderate to severe dysarthria(42) -The children in the study each received three individual sessions (35\u201340  minutes) of speech therapy per week at school for 6 weeks(42) -Systems approach was used; intervention protocol had been developed in previous research studies and focused on stabilizing respiratory and phonatory effort and control, speech rate and phrase length, or syllables per breath(42) -Researchers assessed speech intelligibility 6 weeks prior to the intervention, immediately prior to intervention, and immediately after intervention(42) -No change was observed in the 6 weeks prior to intervention; however, immediately following intervention, speech intelligibility at the single-word  level increased by at least 10% for most of the children(42)",
+            "Improving articulation through phonetic (motor-based)  vs. phonological articulation therapy \u2013Phonetic (motor-based)  intervention includes: -Oral motor movement activities(43) -Phonetic placement exercises(43) -Diadochokinetic exercises(43) -Speech modeling(43) -Providing extra sensory feedback(43) \u2013Phonological intervention includes: -Auditory discrimination(43) -Minimal pairs contrasts(43) -Speech bombardment(43) \u2013In a study conducted in Taiwan involving 2 school-aged children with CP, researchers compared the outcomes of a phonetic treatment approach (emphasizing motor learning of speech) with the outcomes of a phonological treatment approach (emphasizing the phonological concept of learning). Results indicated that both children improved their articulation of four target phonemes at the end of intervention. The child receiving phonetic-based  treatment made more progress by the end of intervention but showed more regression at 2-month  follow-up.  The child receiving phonological-based  intervention made less progress between each session, but that child\u2019s progress was more stable and showed less regression at follow-up(43)",
+            "Improving speech intelligibility through phonation, voice, and prosody intervention \u2013Intervention includes:(44) -Training the proper coordination of inspiration and expiration with sound production -Teaching strategies to maintain a sufficient amount of expiratory air in order to complete speech -Teaching patient to monitor for voice quality and precise articulation -Improving postural control -Training family and teacher to favor expressive abilities of children, increase attention to child\u2019s vocal communication, and facilitate turn-taking abilities \u2013Ten young Spanish-speaking  children with CP who had cognition and language comprehension within normal limits were involved in a 4-year  treatment study conducted in Spain. At the beginning of the 4-year  study, none of the children had any intelligible speech. Intervention was divided into two 2-year  periods. During the first 2-year  period, therapy focused on remediating oral praxis. The only significant result of the first 2 years of intervention was improved voice; due to such limited results, the focus of intervention was changed for the second 2-year  period. During the second 2-year  period, intervention occurred in natural settings and targeted improving phonation, voice, prosody, and posture. Throughout  the 4-year  period, children received ongoing neurodevelopmental treatment, a therapy technique which increases the inhibition of the primary and tonic reflexes in order to improve the functioning of the sensorimotor system. Parents and teachers were given communication training that included education on how to encourage the children\u2019s expressive language skills, attend to the children\u2019s turn-taking  skills, and attend to the children\u2019s attempts at vocal communication. Parents were directly involved in treatment activities with their children 10\u201330  minutes per day. At the end of the second 2-year  period, significant improvements in voice, articulation, prosody, and speech intelligibility were made. By the end of 4 years, all of the children involved in this study displayed functional speech communication(44) \u2013In a study conducted in the United States, researchers found that word intelligibility scores were higher in children with CP when they were produced with heightened fundamental frequency. Researchers concluded that interventions targeting prosody might improve speech intelligibility in children with CP(54)",
+            "Improving listener comprehension through the use of supplemental strategies \u2013Training patient to use strategies such as:(45) -Rephrasing spoken messages -Using gesture to support spoken messages -Improving listener\u2019s access to visual information -Providing initial letter cuing \u2013Researchers who conducted a study in the United Kingdom involving 8 children with CP of varying severity sought to examine which supplemental strategies best facilitated listener comprehension. Study participants had speech intelligibility ranging from moderately to severely impaired. Intelligibility was judged by asking a listener to identify a target word in a sentence when given a contextual cue. Results indicated that providing listeners with visual information (i.e., allowing listeners to see speakers\u2019 faces) significantly improved their comprehension of persons with moderately impaired speech. However, among individuals with severely impaired speech, intelligibility was most significantly facilitated when initial letter cues for spoken words were provided. The use of visual cues and repetition without initial letter cues did not significantly improve intelligibility for this group of children. Additionally, results indicated that repeating a message was found to do little to improve intelligibility, even though this strategy was commonly used among study participants. Parents of children with severely impacted intelligibility reported increased frustration when messages were repeated. Even though listeners\u2019 abilities to identify single words in a context increased when various strategies were implemented, results did not determine whether or not information transfer was significantly improved (i.e., whether or not whole message comprehension was improved)(45)",
+            "Lee Silverman Voice Treatment (LSVT) LOUD \u2013LSVT LOUD, a treatment method typically used in patients with Parkinson disease, is an intervention program focusing primarily on the disordered voice symptomatic of Parkinson disease(52) \u2013LSVT LOUD has been the subject of numerous research studies supporting its positive benefit on phonation, increasing sound pressure levels, and improving articulation(52) \u2013The five concepts of LSVT LOUD are: -Focus on voice (phonation) -Improve a patient\u2019s perception of effort expended during speech tasks -Require patient to expend high levels of effort during therapy sessions -Provide intensive treatment (4 times a week for 16 sessions over 1 month) -Quantify treatment-related  changes \u2013In a research study conducted in the United States with 3 children with spastic CP, researchers found that a modified version of LSVT LOUD resulted in increased sound pressure level (SPL) and improved speech intelligibility. Two of the 3 children were treated with LSVT LOUD and 1 was treated with traditional dysarthria interventions. The child treated with traditional dysarthria interventions demonstrated improved speech intelligibility without increased SPL(52)",
+            "Improving expressive language skills through aided modeling using AAC devices \u2013Therapist models a target language structure (e.g., possession: mom\u2019s hat) using both the child\u2019s AAC device and a spoken model(10) -Occurs in two steps: -Therapist verbally models grammatically correct utterance during a play activity (e.g., \u201cThat\u2019s mom\u2019s hat\u201d) -Therapist then points to two symbols on child\u2019s AAC device used to capture the meaning of the spoken utterance (\u201cmom,\u201d \u201chat\u201d)  -In a study conducted in the United States of 5 preschoolers with CP who used AAC devices, researchers showed that aided modeling increased their ability to express more complex messages. Following treatment involving aided modeling, 4 out of 5 children learned to consistently produce multi-symbol  messages. Additionally, these 4 children displayed generalized, long-term  use of symbol combinations(46) -Authors of a case study with a 19-year-old  German female with CP described the subject\u2019s use of AAC in conversations with familiar partners. Authors noted that the subject combined the use of her electronic device to express semantic information with gestures of head nodding and shaking for confirmations or denials. Additionally, authors noted that the confirmations occurred much more frequently than did denials (i.e., head shaking), which is a pattern that exists among individuals without disabilities as well. The authors of the study recommended the use of detailed transcriptions of conversations between AAC users and familiar partners to develop individual multimedia dictionaries of frequently used terms for use with new (unfamiliar) communication partners(61) -Authors of a case study involving an 8-year-old  girl with quadriplegic athetoid CP and seizure disorder examined the usefulness of the iPad in conversational exchanges between the child and her mother. Researchers specifically focused on how communicative turns were constructed around the use of the iPad and how the child participated in such conversations. Results indicated that the mother carried multiple roles in the conversation\u2014she controlled the use of the iPad, interpreted her child\u2019s responses, and indicated understanding of her child\u2019s conversational turn. Researchers indicated that, at times, using the iPad was less efficient than interpreting the child\u2019s gaze at an object (the video camera, in this instance). They also questioned whether the use of the iPad for yes/no questions was efficient. The researchers suggested that further research is needed to define how children with complex communication needs use different AAC devices. While the iPad and other tablets have a certain level of social acceptance, functionality for the child must be the primary reason for choosing an AAC device(67) \u2013For detailed information on assessment and treatment with AAC devices, see the series of Clinical Reviews on this topic . Problem Goal Intervention Expected Progression Home Program Restricted communication patterns between children with CP and their communication partners (e.g., high levels of partner control; high levels of child responsiveness; low levels of child initiation)Increase range of communication patterns; train parents/ caregivers to recognize child\u2019s communication signals and to create opportunities for child to be a more equal communication partnerTraining communication partners _ Parents/caregivers are trained in ways to facilitate communication _ _ See Treatment summary , aboveProgression might be supported by(5)",
+            "Reviewing videotapes to increase awareness of caregiver and child communicative behaviors",
+            "SLP models and explains treatment objectives",
+            "SLP provides ongoing feedback to caregivers as they interact with their childrenHome program should include strategies to facilitate use of communication patterns in the home setting  Poor speech intelligibility due to motor speech impairmentImprove speech intelligibility by reducing motor speech impairmentIntensive therapy following a systems approach   (3) _ Intervention targeting respiration, phonation, resonance, articulation, and prosody. Articulation intervention is advised only if other aspects of speech production are/ have been addressed _ _ See Treatment summary , aboveInitially, the therapist discusses breathing techniques and posture with the patient. Treatment then progresses to having the patient practice techniques at the phrase and conversational levels. Articulation exercises might be added at the end of the program(3) _ _ Another hierarchical progression used in the systems approach involves establishing coordination of exhalation and phonation in a sustained vowel then moving to a set of frequently used phrases, single words, sentences, and finally conversation(42)None specified Poor speech intelligibility due to motor speech impairmentImprove speech intelligibility by reducing motor speech impairmentPhonetic (motor- based) intervention (43) _ _ Phonologically oriented intervention (43) _ _ See Treatment summary , aboveProgression based upon individual goals and response to therapy tasksNone specified Poor speech intelligibility due to motor speech impairmentImprove speech intelligibility by reducing motor speech impairmentPhonation, voice training, and prosody focused intervention (44) _ Intervention training occurs in a natural setting _ _ See Treatment summary , aboveProgression based upon individual goals and response to therapy tasksParents collaborate 20-30 minutes per day on phonation and voice tasks  Poor speech intelligibility; poor information transferImprove listener comprehension of spoken informationSupplemental strategies   (45) _ See Treatment summary , aboveVaries depending upon severity of speech impairmentImplement successful strategies in a variety of contexts Decreased use of complex language structuresIncrease use of complex language structuresAided AAC modeling _ Therapist models a target language structure (e.g. possession: mom\u2019s hat) using both the child\u2019s AAC device and a spoken model(10) _ _ See Treatment summary , aboveProgresses from therapist modeling complex language structure to patient independently combining two symbols to create complex language(10)None specified ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "increased speech intelligibility": [],
+        "inclusion in a mainstream classroom setting": [],
+        "increased vocational options": [],
+        "improved functional communication": [
+            "When working with patients with CP, it is important to continually monitor their changing needs and status. As patientsage, new issues might arise concerning social interactions and intimacy and functional limitations might increase.(1) Dueto these changing patient needs, it is important to followup with communication goals and intervention and change them asappropriate(13)"
+        ],
+        "improved quality of life": [
+            "Outcomes might be measured by an individualized family services plan (IFSP; ages 0\u20133) or individualized education plan(IEP; ages 4+) in collaboration with the parents/caregivers and school personnel for school-aged  individuals with CP. IFSPsand IEPs are essential to address communication and/or swallowing problems in the school environment"
+        ]
+    },
+    "maintenance or prevention": [
+        "Although in many instances CP cannot be prevented, taking the following actions can reduce the risk of CP: Before and during pregnancy, an expectant mother should ensure her immunizations are up to date, maintain good health, and seek prenatal care throughout her pregnancy(47) Prevent head injury to infants and children through the appropriate use of car seats and bicycle helmets(48) Physician might administer phototherapy to prevent CP resulting from high bilirubin levels following birth(48)"
+    ],
+    "patient education": [
+        "Patient, family, and caregiver education should include information about the effects of CP, treatment options, and prognosis. When possible, the patient\u2019s family and caregivers should be educated about facilitative techniques to use when assisting the patient with communication. Resources include: United Cerebral Palsy, http://ucp.org/ Exceptional Parent Magazine, www.eparent.com/ Mayo Clinic, https://www.mayoclinic.org/diseases-conditions/cerebral-palsy/care-at-mayo-clinic/mac-20354009 The Cerebral Palsy Australia website has patient education resources available in its online Learning Centre, https://cpaustralia.com.au/learning-center/  Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on November 20, 2015 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Lee YT, Brennan P. Cerebral palsy. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of physical medicine and rehabilitation: Musculoskeletal disorders, pain, and rehabilitation . 2nd ed. Philadelphia: Saunders Elsevier; 2008:627-633.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Pennington L, Goldbart J, Marshall J. Speech and language therapy to improve the communication skills of children with cerebral palsy. Cochrane Database Syst Rev. 2003. Art No: CD003466. doi:10.1002/14651858.CD003466.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Pennington L, Smallman C, Farrier F. Intensive dysarthria therapy for older children with cerebral palsy: findings from six cases. Child Lang Teach Ther . 2006;22(3):255-273. (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Miamoto CB, Ramos-Jorge  ML, Pereira LJ, Paiva SM, Pordeus IA, Marques LS. Severity of malocclusion in patients with cerebral palsy: determinant factors. Am J Orthod Dentofacial Orthop . 2010;138(4):394-395.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Pennington L, Goldbart J, Marshall J. Interaction training for conversational partners of children with cerebral palsy: a systematic review. Int J Lang Comm Dis . 2004;39(2):151-170.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Love RJ. Childhood Motor Speech Disability . 2nd ed. Boston: Allyn & Bacon; 2000. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Olswang LB, Pinder GL, Hanson RA. Communication in young children with motor impairments: teaching caregivers to teach. Semin Speech Lang . 2006;27(3):199-214.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "American Speech-Language-Hearing  Association. Effects of hearing loss on development. ASHA Web site. http://www.asha.org/public/hearing/disorders/effects.htm . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "American Speech-Language-Hearing  Association. Speech sound disorders: articulation and phonology. ASHA Web site. http://www.asha.org/PRPSpecificTopic.aspx? folderid=8589935321&section=Causes . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Binger C, Light J. The morphology and syntax of individuals who use AAC: research review and implications for effective practice. Augment Altern Commun . 2008;24(2):123-138.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Truxler JE, O'Keefe BM. The effects of phonological awareness instruction on beginning word recognition and spelling. Augment Altern Commun . 2007;23(2):164-176.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Cleveland Clinic Foundation. Chorioamnionitis. Cleveland Clinic Web site. Web site. http://my.clevelandclinic.org/healthy_living/Pregnancy/hic_Chorioamnionitis.aspx . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "American-Speech-Language-Hearing  Association. Preferred practice patterns for the profession of speech-language  pathology. ASHA Web site. http://www.asha.org/policy/PP2004-00191/ . Accessed December 4, 2016. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Mayo Foundation for Medical Education and Research. Cerebral palsy: Treatments and drugs. Mayo Clinic Web site. http://www.mayoclinic.org/diseases-conditions/cerebral-palsy/basics/treatment/con-20030502 . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Powell L, Cheshire A, Swaby L. Children's experiences of their participation in a training and support programme involving massage. Complement Ther Clin Pract . 2010;16(1):47-51.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Gilboa A, Roginsky E. Examining the dyadic music therapy treatment (DUET): the case of a CP child and his mother. Nordic J Music Ther . 2010;19(2):103-132.  (C)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Zhang Y, Liu J, Wang J, He Q. Traditional Chinese Medicine for treatment of cerebral palsy in children: a systematic review of randomized clinical trials. J Altern Complement Med. 2010;16(4):375-395.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Unsal-Delialioglu  S, Kaya K, Ozel S, Gorgulu G. Depression in mothers of children with cerebral palsy and related factors in Turkey: a controlled study. Int J Rehabil Res . 2009;32(3):199-204.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Voorman JM, Dallmeijer AJ, Van Eck M, Schuengel C, Becher JG. Social functioning and communication in children with cerebral palsy: association with disease characteristics and personal and environmental factors. Dev Med Child Neurol . 2010;52(5):441-447.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Clarke M, Wilkinson R. The collaborative construction of non-serious  episodes of interaction by non-speaking  children with cerebral palsy and their peers. Clin Linguist Phon . 2009;23(8):583-597.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Brumfitt S. Psychosocial aspects of aphasia: speech and language therapists' views on professional practice. Disabil Rehabil . 2006;28(8):523-534.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Mu\u00f1oz ML, Marquardt TP, Copeland G. A comparison of the code switching patterns of aphasic and neurologically normal bilingual speakers of English and Spanish. Brain Lang. 1999;66(2):249-274.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Freed DB. In: Motor Speech Disorders: Diagnosis and Treatment . San Diego, CA: Singular Pub. Group; 2000:93-133.  (GI)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Bottcher L, Flachs EM, Uldall P. Attentional and executive impairments in children with spastic cerebral palsy. Dev Med Child Neurol . 2010;52(2):e42-e47.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Andersen G, Mjoen TR, Vik T. Prevalence of speech problems and the use of augmentative and alternative communication in children with cerebral palsy: a registry-based study in Norway. Perspect Augment Altern Commun . 2010;19(1):12-20.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Stoner JB, Angell ME, Bailey RL. Implementing augmentative and alternative communication in inclusive educational settings: a case study. Augment Altern Commun . 2010;26(2):122-135.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Costigan FA, Light J. Effect of seated position on upper-extremity  access to augmentative communication for children with cerebral palsy: preliminary investigation. Am J Occup Ther. 2010;64(4):596-604.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Chan J, Falk TH, Teachman G, McKee J, Chau T. Evaluation of a non-invasive  vocal cord vibration switch as an alternative access pathway for an individual with hypotonic cerebral palsy - a case study. Disabil Rehabil Assist Technol . 2010;5(1):69-78.  (C)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Dworkin JP, Cullata RA. Dworkin-Culatta  Oral Mechanism Examination and Treatment System . Farmington Hills, MI: Edgewood Press; 1996. (PP)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Kim H, Martin K, Hasegawa-Johnson  M, Perlman A. Frequency of consonant articulation errors in dysarthric speech. Clin Linguist Phon . 2010;24(10):759-770.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Yorkston KM, Beukelman DR. Assessment of Intelligibility of Dysarthric Speech . Austin, Texas: Pro-Ed; 1981. (PP) "
+        },
+        {
+            "number in article": 32,
+            "reference": "Enderby P, Palmer R. Frenchay Dysarthria Assessment . 2nd ed. Austin, Texas: Pro-Ed; 2007. (PP)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Drummond SS. Dysarthria Examination Battery . San Antonio, TX: The Psychological Corporation; 1993. (PP)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Ashley J, Duggan M, Sutcliffe N. Speech, language, and swallowing disorders in the older adult. Clin Geriatr Med . 2006;22(2):291-310.  (GI)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Spencer KA, Yorkston KM, Duffy JR. Behavioral management of respiratory/phonatory dysfunction from dysarthria: a flowchart for guidance in clinical decision making. J Med Speech Lang Pathol . 2003;11(2):xxxix-lxi.  (GI)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Geytenbeek JJ, Heim MM, Vermeulen RJ, Oostrom KJ. Assessing comprehension of spoken language in nonspeaking children with cerebral palsy: application of a newly developed computer-based  instrument. Augment Altern Commun . 2010;26(2):97-107.  (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Peeters M, Verhoeven L, van Balkom H, de Moor J. Home literacy environment: characteristics of children with cerebral palsy. Int J Lang Commun Disord . 2009;44(6):917-940. (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Dahlgren Sandberg A, Smith M, Larsson M. An analysis of reading and spelling abilities of children using AAC: Understanding a continuum of competence. Augment Altern Commun. 2010;26(3):191-202.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Vargus-Adams  JN, Martin LK. Measuring what matters in cerebral palsy: a breadth of important domains and outcome measures. Arch Phys Med Rehabil . 2009;90(12):2089-2095.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Simmons-Mackie  N, Kagan A. Application of the ICF in aphasia. Semin Speech Lang . 2007;28(4):244-253.  (G)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Pennington L, Thomson K, James P, Martin L, McNally R. Effects of it takes two to talk--the Hanen program for parents of preschool children with cerebral palsy: findings from an exploratory study. J Speech Lang Hear Res . 2009;52(5):1121-1138.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Pennington L, Miller N, Robson S, Steen N. Intensive speech and language therapy for older children with cerebral palsy: a systems approach. Dev Med Child Neurol . 2010;52(4):337-344.  (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Wu P, Jeng J. Efficacy comparison between two articulatory intervention approaches for dysarthric cerebral palsy (CP) children. Asia Pac J Speech Lang Hear . 2004;9(1):28-32.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Puyuelo M, Rondal JA. Speech rehabilitation in 10 Spanish-speaking  children with severe cerebral palsy: a 4-year longitudinal study. Pediatr Rehabil . 2005;8(2):113-116.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Hunter L, Pring T, Martin S. The use of strategies to increase speech intelligibility in cerebral palsy: an experimental evaluation. Br J Disord Commun . 1991;26(2):163-174.  (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Binger C, Light J. The effect of aided AAC modeling in the expression of multi-symbol  messages by preschoolers who use AAC. Augment Altern Commun . 2007;23(1):30-43. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Mayo Clinic Staff. Cerebral palsy: prevention.  MayoClinic.com  Web site. http://www.mayoclinic.com/health/cerebral-palsy/DS00302/DSECTION=prevention . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Centers for Disease Control and Prevention. Developmental disabilities: cerebral palsy. CDC Web site. http://www.cdc.gov/ncbddd/cp/index.html . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 49,
+            "reference": "McFadd E, Hustad KC. Assessment of social function in four-year-old  children with cerebral palsy. Dev Neurorehabil . 2013;16(2):102-112.  doi:10.3109/17518423.2012.723762. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Hodge MM, Brown C, Kuzyk T. Predicting intelligibility scores of children with dysarthria and cerebral palsy from phonetic measures of speech accuracy. J Med Speech Lang Pathol. 2012;20(4):41-46.  (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "DuHadway CM, Hustad KC. Contributors to intelligibility in preschool-aged  children with cerebral palsy. J Med Speech Lang Pathol . 2012;20(4):59-64.  (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Levy ES, Ramig LO, Camarata SM. The effects of two speech interventions on speech function in pediatric dysarthria. J Med Speech Lang Pathol . 2012;20(4):82-87.  (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Nip IS. Kinematic characteristics of speaking rate in individuals with cerebral palsy: a preliminary study. J Medi Speech Lang Pathol . 2012;20(4):88-94.  (R)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Patel R, Hustad KC, Connaghan KP, Furr W. Relationship between prosody and intelligibility in children with dysarthria. J Med Speech Lang Pathol . 2012;20(4):95-99.  (R)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Schoelderly T, Staiger A, Lampe R, Ziegler W. Dysarthria syndromes in adult cerebral palsy. J Med Speech Lang Pathol . 2012;20(4):100-105.  (R)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Nordberg A, Miniscalco C, Lohmander A, Himmelmann K. Speech problems affect more than one in two children with cerebral palsy: Swedish population-based  study. Acta Paediatr. 2013;102(2):161-166.  doi:10.1111/apa.12076. (R)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Resource guide: find help and services in your community. UCP: United Cerebral Palsy Web site. http://ucp.org/resources/one-stop-resource-guide/ . Accessed December 4,"
+        },
+        {
+            "number in article": 2017,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Niedzwecki CM, Roge DL, Schwabe AL. Cerebral palsy. In: Cifu DX, Kaelin DL, Miller MA, et al, eds. Braddom\u2019s Physical Medicine & Rehabilitation . 5th ed. Philadelphia, PA: Elsevier; 2016:1054-1071.  (GI)"
+        },
+        {
+            "number in article": 59,
+            "reference": "Types of cerebral palsy. Cerebral Palsy Alliance Web site. https://www.cerebralpalsy.org.au/what-is-cerebral-palsy/types-of-cerebral-palsy/ . Accessed December 8, 2017. (GI)"
+        },
+        {
+            "number in article": 60,
+            "reference": "Written Language Disorders. American Speech-Language-Hearing  Association Practice Portal Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Written-Language-Disorders/ . Accessed December 4, 2017. (G)"
+        },
+        {
+            "number in article": 61,
+            "reference": "H\u00f6rmeyer I, Renner G. Confirming and denying in co-construction  processes: a case study of an adult with cerebral palsy and two familiar partners. Augment Altern Commun . September 2013;29(3):259-271.  doi:10.3109/07434618.2013.813968. (C)"
+        },
+        {
+            "number in article": 62,
+            "reference": "Sargent J, Clark M, Price K, et al. Use of eye-pointing  by children with cerebral palsy: what are we looking at? Int J Lang Commun Disord . September 2013;48(5):477-485. doi:10.1111/1460-6984.12026.  (R)"
+        },
+        {
+            "number in article": 63,
+            "reference": "Hattier MA, Matson JL, Kozlowski AM. Communication Skills in Children with Cerebral Palsy and Autism Spectrum Disorder. J Dev Phys Disabil . February 2012;24(1):85-93. (R)"
+        },
+        {
+            "number in article": 64,
+            "reference": "Reddihough DS, Jiang B, Lanigan A, et al. Social outcomes of young adults with cerebral palsy. J Intellect Dev Disabil . September 2013;38(3):215-222. doi:10.3109/13668250.2013.788690. (R)"
+        },
+        {
+            "number in article": 65,
+            "reference": "Pansell T, Hellgren K, Jacobson L, et al. The accommodative process in children with cerebral palsy: different strategies to obtain clear vision at short distance. Dev Med Child Neurol. February 2014;56(2):171-177.  doi:10.1111/dmcn.12266. (R)"
+        },
+        {
+            "number in article": 66,
+            "reference": "Geytenbeek J, Mokkink LB, Knol DK, Vermeulen RJ, Oostrom KJ. Reliability and Validity of the C-BiLLT: A new Instrument to Assess Comprehension of Spoken Language in Young Children with Cerebral Palsy and Complex Communication Needs. AAC: Augmentative and Alternative Communication . 2014;30(3):252-266. doi:10.3109/07434618.2014.924992. (R)"
+        },
+        {
+            "number in article": 67,
+            "reference": "Pinto M, Gardner H. Communicative interaction between a non-speaking  child with cerebral palsy and her mother using an iPad\u2122. Child Lang Teach Ther . 2014;30(2):207-220.  (C)"
+        },
+        {
+            "number in article": 68,
+            "reference": "McIntyre S, Morgan C, Walker K, Novak I. Cerebral palsy--don't  delay. Dev Disabil Res Rev . November 2011;17(2):114-29.  . doi:10.1002/ddrr.1106. (RV)"
+        },
+        {
+            "number in article": 69,
+            "reference": "Centers for Disease Control and Prevention. Causes and risk factors of cerebral palsy. http://www.cdc.gov/ncbddd/cp/causes.html . Published January 16, 2015. Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 70,
+            "reference": "Vadivelu S, Gonzalez-Fernandez  M. Cerebral palsy. In: Frontera W, Silver J, Rizzo T, eds. Essentials of physical medicine and rehabilitation: Musculoskeletal disorders, pain, and rehabilitation . 3rd ed. Philadelphia, PA: Elsevier Saunders; 2015:634-641.  (GI)"
+        },
+        {
+            "number in article": 71,
+            "reference": "Asphyxia and Oxygen Deprivation. CerebralPalsy.org Web site. http://cerebralpalsy.org/about-cerebral-palsy/risk-factors/oxygen-deprivation/ . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 72,
+            "reference": "National Institute of Neurological Disorders and Stroke \"Cerebral Palsy: Hope through Research\". https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Hope-Through-Research/Cerebral-Palsy-Hope-Through-Research . Accessed December 4, 2017. (GI)"
+        },
+        {
+            "number in article": 73,
+            "reference": "Chorna O, hamm E, Cummings C, Fetters A, Maitre NL. Speech and language interventions for infants aged 0 to 2 years at high risk for cerebral palsy: a systematic review. Dev Med Child Neurol . April 2017;59(4):355-360.  doi:10.1111/dmcn.13342. (SR)"
+        }
+    ]
+}

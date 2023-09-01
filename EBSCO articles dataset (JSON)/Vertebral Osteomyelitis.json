@@ -1,0 +1,368 @@
+{
+    "metadata": {
+        "title": "Osteomyelitis",
+        "synonyms": [
+            "hematogenous osteomyelitis",
+            "osteomyelitis, hematogenous",
+            "vertebral osteomyelitis",
+            "osteomyelitis, vertebral",
+            "contiguous osteomyelitis",
+            "osteomyelitis, contiguous",
+            "acute osteomyelitis",
+            "osteomyelitis, acute",
+            "chronic osteomyelitis",
+            " osteomyelitis",
+            "chronic"
+        ],
+        "anatomical location body part affected": [
+            "Skeleton/commonly, long bones of the limbs and the vertebrae"
+        ],
+        "area of specialty": [
+            "wound management",
+            "acute care",
+            "home health",
+            "orthopedic rehabilitation",
+            "neurological rehabilitation",
+            "geriatric rehabilitation"
+        ],
+        "description": [
+            "Osteomyelitis is an infection, usually bacterial, of bone. It is characterized by inflammation, progressive necrosis and destruction, and sequestra (i.e., segments of necrotic bone separated from living bone by granulation tissue). The infection may involve the periosteum, cortex, and metaphysis, as well as surrounding soft tissue(1,14)",
+            "In the acute stage, medical therapy is guided by the results of surgical debridement and bone cultures(1,2)",
+            "Antibiotic treatment usually resolves uncomplicated cases of focal osteomyelitis in about 4 to 6 weeks, without recurrence. Recalcitrant cases may require hyperbaric medicine, limb salvage, or amputation(2,3)",
+            "Infected fracture or surgical prothesis, vascular insufficiency, diabetes, neuropathy, and compromised immunity are associated with chronic osteomyelitis and amputation. In such cases, aggressive surgery (bone stabilization/reconstruction and muscle flap coverage) is required to improve the functional outcome(3,4)",
+            "Patients with resolved osteomyelitis may present for rehabilitation services with impairments that reduce physical functioning(1) \u2013Restricted movement of the involved extremity or spine \u2013Reduced ability to bear weight \u2013Pain/tenderness of involved site \u2013Motor/sensory deficits"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M86": {
+                "base": "osteomyelitis",
+                "M86.0": "acute haematogenous osteomyelitis",
+                "M86.1": "other acute osteomyelitis",
+                "M86.2": "subacute osteomyelitis",
+                "M86.3": "chronic multifocal osteomyelitis",
+                "M86.4": "chronic osteomyelitis with draining sinus",
+                "M86.5": "other chronic haematogenous osteomyelitis",
+                "M86.6": "other chronic osteomyelitis",
+                "M86.8": "other osteomyelitis",
+                "M86.9": "osteomyelitis, unspecified",
+                "Optional": "subclassification codes to indicate site of involvement for M86",
+                "0": " 0 multiple sites",
+                "1": " 1 shoulder region",
+                "2": " 2 upper arm",
+                "3": " 3 forearm",
+                "4": " 4 hand",
+                "5": " 5 pelvic region and thigh",
+                "6": " 6 lower leg",
+                "7": " 7 ankle and foot",
+                "8": " 8 other",
+                "site": " site unspecified"
+            },
+            "M46.2": {
+                "base": "osteomyelitis of vertebra",
+                "M46.2": "osteomyelitis of vertebra",
+                "0": " 0 multiple sites of spine",
+                "1": " 1 occipito-atlanto-axial  region",
+                "2": " 2 cervical region",
+                "3": " 3 cervicothoracic region",
+                "4": " 4 thoracic region",
+                "5": " 5 thoracolumbar region",
+                "6": " 6 lumbar region",
+                "7": " 7 lumbosacral region",
+                "8": " 8 sacral and sacrococcygeal region",
+                "9": " 9 site unspecified"
+            },
+            "M90": {
+                "base": "osteopathies in diseases classified elsewhere",
+                "M90.0": "tuberculosis of bone [such as A18.0 tuberculosis of bones and joints]",
+                "M90.1": "periostitis in other infectious diseases classified elsewhere [such as A51.4 other secondary syphilis]",
+                "M90.2": "osteopathy in other infectious diseases classified elsewhere, such as",
+                "A02.2": " A02.2 localized salmonella infections",
+                "A50.2": " A50.2 other late congenital syphilis, symptomatic",
+                "A52.7": " A52.7 other symptomatic late syphilis",
+                "A54.4": " A54.4 gonococcal infection of musculoskeletal system",
+                "B67.2": " B67.2 echinococcusgranulosus infection of bone"
+            },
+            "(ICD": "codes are provided for the reader\u2019s reference, not for billing purposes) -Reimbursement: No specific issues or information regarding reimbursement has been identified -Presentation/signs and symptoms -Signs and symptoms at onset of osteomyelitis include(7) -fever or chills -fatigue -pain in the area of the infection -swelling, warmth, and redness over the area of the infection -Patients with osteomyelitis have signs and symptoms that are difficult to distinguish from other conditions(7) -Referral to a physician for diagnosis is indicated when a patient presents with worsening bone pain along with fever, in particular if at risk for infection due to a medical condition or recent surgery or injury(7) -Unresolved cases(1) -Localized signs of infected or healing tissue (e.g., erythema, edema, pain/tenderness, warmth) -Drainage or ulceration from site -Less commonly, the typical symptoms of fever, swelling, pain, and erythema at the site may still be present, but they are more vague(15) -Resolved cases(1) -Pain/tenderness -Reduced ROM -Reduced strength -Limitations in weight-bearing -Gait abnormalities -Sensory deficits Causes, Pathogenesis, & Risk Factors"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [],
+        "presentation signs and symptoms": [
+            "-Signs and symptoms at onset of osteomyelitis include(7) -fever or chills -fatigue -pain in the area of the infection -swelling, warmth, and redness over the area of the infection -Patients with osteomyelitis have signs and symptoms that are difficult to distinguish from other conditions(7) -Referral to a physician for diagnosis is indicated when a patient presents with worsening bone pain along with fever, in particular if at risk for infection due to a medical condition or recent surgery or injury(7) -Unresolved cases(1) -Localized signs of infected or healing tissue (e.g., erythema, edema, pain/tenderness, warmth) -Drainage or ulceration from site -Less commonly, the typical symptoms of fever, swelling, pain, and erythema at the site may still be present, but they are more vague(15) -Resolved cases(1) -Pain/tenderness -Reduced ROM -Reduced strength -Limitations in weight-bearing  -Gait abnormalities -Sensory deficits Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Consult physician immediately if unresolved or worsening osteomyelitis is suspected"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:": [
+            "Bacterial infection, often in immunocompromised persons(1,14)\u2013Hematogenous (bloodborne) osteomyelitis is usually monomicrobial or identified by a dominant microbe(1,14)-Staphylococcus aureus  (present alone or in combination with other bloodborne microbes)(3)-Pseudomonas aeruginosa  (present in 20\u201327%  of cases)(3)-Nontuberculous mycobacteria (e.g., Mycobacterium marinum )-Multidrug-resistant  bacteria (e.g., methicillin-resistant  Staphylococcus aureus [MRSA])-Enterobacteriaceae (e.g., Salmonella  organisms, especially in sickle cell disease)-Streptococcus pyogenes-Enterococcus-Coagulase-negative  staphylococci\u2013Contiguous or exogenous (direct contact inoculation) osteomyelitis is commonly a polymicrobial infection(1,14)\u2013Secondary fungal infection may occur",
+            "Although a rare occurrence, osteomyelitis can be caused by herpes zoster in patients with an immunocompromisedsystem(12)"
+        ],
+        "pathogenesis": [
+            "Osteomyelitis is classified as either contiguous/exogenous or hematogenous\u2013Contiguous/exogenous \u2013 bacteria are directly inoculated into the bone at time of trauma, during surgical reduction andinternal fixation of fractures, or from an adjacent skin and soft-tissue  infection (e.g., decubitus ulcer)\u2013Hematogenous \u2013 bloodborne bacteria reach the bone from a remote point of entry. For example, spontaneousosteomyelitis can occur in children, possibly due to metaphyseal capillary loops, which allow microbesto multiplyisolated from the immune system(9)",
+            "Osteomyelitis in children is primarily hematogenous, although it can also occur secondary to penetrating trauma, surgery,or infection in a contiguous site(16)\u2013\u201cGoalkeeper\u2019s hip\u201d is when a soccer goalkeeper develops osteomyelitis secondary to the impact of the iliac crest with theground. Authors of a case report also report an instance of \u201cgoalkeeper\u2019s hip\u201d during kickboxing. The patient received akick in the flank, and from this blunt trauma it was determined he developed osteomyelitis(16)",
+            "Most cases of adult osteomyelitis are a result of skin penetration to the bone below(9)",
+            "Vertebral osteomyelitis is usually a hematogenous infection of vertebral body; often involves neurologic complications(motor/sensory deficits)(1)",
+            "Osteomyelitis can also be classified based on the portion of the bone affected, physiological status of the host, and riskfactors(14)",
+            "Chronic osteomyelitis: cases with nonhealing ulcer or draining sinus due to recurrent inflammation; accompanied bycontinuing low-grade fever and pain\u2013All classes of osteomyelitis can progress to chronic stage"
+        ],
+        "risk factors   ,": [
+            "More common in older adults",
+            "Sex: males > females",
+            "Trauma/injury to bone (especially open fracture) or skin",
+            "Postoperative infection after joint or bone surgery (e.g., internal fixation of a fracture, amputation, arthroplasty)",
+            "Foreign body (e.g., prosthetic implant)",
+            "Renal dialysis",
+            "I.V . drug use",
+            "Weakened immune system",
+            "Vascular insufficiency",
+            "Sickle cell disease",
+            "Neuropathy"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Notify physician immediately if patient presents with systemic symptoms such as abrupt onset of fever, lethargy/malaise, or irritability(1,14)",
+        "Increasing pain and episodes of severe night pain should be referred to physician(6)",
+        "Consult with physician if soft tissue defects show signs of active infection",
+        "Confirm weight-bearing,  activity, and immobilization restrictions with physician",
+        "Presentation will vary based on phase of rehabilitation and time since onset",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Consult physician immediately if unresolved or worsening osteomyelitis is suspected"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Patients may report an insidious onset or may have experienced a recent trauma or surgery. What symptoms is the patient experiencing (include systemic and local)? Where are the localized symptoms occurring? Does the patient have any other illness/infection, or has the patient recently had one (e.g., respiratory or urinary tract infection)? Have there been any complications? What has been the patient\u2019s course of rehabilitation up to this point?",
+                "course of treatment": {
+                    "medical management": " Medical management Antibiotic therapy Surgery (e.g., surgical debridement, amputation, joint fusion) may be necessary. Goals of surgery include adequate debridement, obtaining appropriate microbiology specimens, dead space management, and achieving skeletal stability with soft tissue cover(17) Debridement alone without adequate deadspace management is suboptimal in managing chronic osteomyelitis(17) Different approaches are available for dead space management, although there is no clear evidence that one is superior to the other (i.e., biological versus nonbiological)(17) Lipoharvest is a novel method for bone defects secondary to osteomyelitis. Authors of a case study report successfully treating a 26year-old female with chronic osteomyelitis. It is an alternative to traditional autologous bone graftingthat uses fat as a deadspace  filler, however more studies are recommended on this method(18) There is limited evidence regarding adjunctive therapies such as hyperbaric oxygen therapy and negative pressure wound therapy. However, hyperbaric oxygen therapy used in combination with antibiotics and/or surgical debridement has been associated with high recovery rates(13) Authors of a systematic review of the literature on the effectiveness of hyperbaric oxygen therapy in conjunction with antibiotic treatment and surgical debridement foundthat the available evidence may support a beneficial role of adjunctive hyperbaric oxygen, especially in refractory cases of chronic osteomyelitis(19)",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Antibiotics are used in almost all cases to assist in the eradication of infection (see Causes ). The antibiotics are often selected based on the sensitivity testing performed on needle biopsy and wound swab cultures to identify those that will have the greatest efficacy. These antibiotics are often given intravenously, often for 46 weeks(14) Authors of a 2013 Cochrane systematic review of antibiotic treatment of chronic osteomyelitis concluded that the route of antibiotic administration (oral versus parenteral) does not affect the rate of disease remission if the causative bacterial species is susceptible to the antibiotic used(8) There was insufficient evidence to determine the best antibiotic to use or optimal length of treatment Patients with neuropathic forefoot osteomyelitis show similar outcomes when comparing antibiotic therapy and surgical management in terms of healing rates, time of healing, and shortterm  complications(10) Is the patient\u2019s pain adequately controlled? ",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:",
+                        "Clinically, the most useful studies are plain radiographs, MRI, and technetium-99m  bone scintigraphy.For plain radiographs it may take up to 14 days after the infection begins for findings to appear. MRI can detect infection earlier",
+                        "(35days of disease onset), but is often limited to cases that involve surgical hardware(15)",
+                        "The gold standard for diagnosis of osteomyelitis is histopathologicexamination of bone specimens coupled with bone culture(20)",
+                        "Negative uptake results on white blood cell single photon emission computed tomography (SPECT) are a good marker for diagnosing diabetic foot osteomyelitis(11)"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "Are there any activities or positions that aggravate or alleviate the patient\u2019s symptoms?",
+                "body chart": "Use a body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document the nature of symptoms (constant vs intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Systemic signs of infection Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have diabetes mellitus, sickle cell disease, or other predisposing factors? Has he or she had a joint replacement? Is there a history of osteomyelitis? Has the patient had any other recent surgeries, fractures, or injuries?",
+                    "comorbid diagnoses": "Ask the patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask the patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient use I.V . drugs? Does the patient smoke? Does the patient plan to return to work, sport, or recreational activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Inquire about limitations",
+                "living environment": "Stairs, number of floors in home, with whom the patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "If applicable, assess the current ambulatory assistive device for proper fit and use; or evaluate for suitable ambulatory assistive device, as indicated. Assess for proper fit of and determine the need for additional supportive/protective equipment, footwear, bracing, or orthotics",
+            "balance": "Assess for balance reactions, which may be altered due to immobilization, weight-bearing  restrictions, weakness, or the presence of external fixators. Assess static and dynamic standing balance within the limits of weight-bearing restriction",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess for palpable distal pulses, especially in patients with suspected vascular insufficiency (i.e., diabetes mellitus)Assess ability to maintain proper posture and body mechanics with functional mobility; this is especially important for patients with spinal involvement (e.g., log rolling with bed mobility) ",
+            "functional mobility": "Assess mobility within limits of weight-bearing  status, including ability in bed mobility, transfers (if applicable), and stair climbing. Utilize functional independence measure (FIM) for objective measurement",
+            "gait locomotion": "Assess gait within limits of weight-bearing  status and need for assistive devices. Assess ability to maintain prescribed weight-bearing  precautions. Assess walking ability, including tandem gait, turns, and walking on toes, and presence of gait deviations (without ambulatory assistive device). Note for shortened step length on the unaffected side secondary to decreased ability to bear weight on the affected side. The Dynamic Gait Index (DGI) can be used for objective measurement of safetyAssess involved joint mechanics and flexibility. Postpone ligament stress testing until physician\u2019s guidelines permitIf spine is involved or if neuropathy is present, assess tone and motor control as indicated",
+            "muscle strength": "In patients with extremity involvement, assess proximal and distal muscle strength, and compare to contralateral extremity strength. Confirm that the patient has adequate strength to adhere to weight-bearing  restrictions, perform appropriate transfer and gait patterns, and use appropriate assistive devices",
+            "observation inspection palpation including skin assessment": [
+                "Localized edema, erythema, and warmth may be present. Assess initially for presence of these symptoms and continue to monitor for symptom progression in patients undergoing antibiotic treatment",
+                "Assess for intact sutures following surgical intervention, drainage from incisions or wounds, erythema, warmth, and other signs of infection. Assess size, length, width, and depth of wounds or ulcerations and integrity of tissue in and surrounding the ulcerations or wounds. Identify which wound care products will be used if wound care will be part of the physical therapy plan of care",
+                "Assess for pain with weight-bearing,  at rest, and with palpation of the affected area",
+                "Assess tenderness (V AS) at the affected area. Palpate and inspect the area for tenderness, soft tissue breakdown, and drainage from any wound or ulceration that is present. Observe for signs of infection"
+            ],
+            "posture": "Assess overall posture for inability to bear weight through the affected extremity, if applicable",
+            "range of motion": "Assess for ROM and flexibility deficits once the infection is resolved and wound healing has occurred",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Screening should be done to identify deficits secondary to comorbidities (e.g., diabetes) or if the spine is involved. Light touch, protective sensation, temperature discrimination, proprioception, and other sensations may all be impaired in patients at risk for osteomyelitis (diabetic neuropathy)",
+            "special tests specific to diagnosis": " Special tests \u2013Health-related  quality of life questionnaire such as Health Survey Short Form-36  (SF-36) \u2013Lower Extremity Functional Scale (LEFS) when lower extremity affected \u2013Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure when upper extremity affected",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess as indicated",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "Osteomyelitis causing deficits in physical functioning, including reduced strength, ROM, balance, gait, and functional mobility; wound care Rule out  (14,15) Charcot arthropathy, especially in persons with diabetes  SAPHO syndrome (synovitis, acne, pustulosis, hyperostosis, and osteitis) Arthritis including rheumatoid arthritis Metastatic bone disease Fracture, including pathological and stress fractures Gout Avascular necrosis of the bone Bursitis Sickle cell vaso-occlusive  pain crisis Systemic infection from other source Aseptic bone infarction",
+        "rule out": "",
+        "prognosis": [
+            "The management of osteomyelitis can result in a large financial burden for patients due to the multiple surgeries, prolonged hospital stays, and extensive courses of antibiotics that are often required(17)",
+            "The prognosis of acute osteomyelitis is good with aggressive antimicrobial and surgical therapy (response rates range 90\u2013100%).(14)Reinfection can occur. In adults the recurrence rate of chronic osteomyelitis is about 30% at 12 months. Morbidity is increased in cases involving prosthetic devices(15)"
+        ],
+        "referral to other disciplines": "Physician for specific red flags of infection or inability to achieve functional goals because of persisting pain; nursing/wound care clinic for nonhealing wounds",
+        "other considerations": [],
+        "treatment summary": [
+            "Research on physical therapy for patients with osteomyelitis is lacking",
+            "In resolved cases, exercise therapy may be indicated to improve ROM, strength, and functional mobility",
+            "Therapists may participate in wound care (e.g., dressing changes, debridement), as ordered by the physician",
+            "Patients should be educated on the prolonged nature of therapy and the need for compliance with treatment recommendations to ensure adequate wound healing, thereby reducing the risk for recurrence(15) . Problem Goal Intervention Expected Progression Home Program  Gait, balance, and functional mobility impairments resulting from immobilization and weight-bearing restrictionsImprove gait, balance, and functional mobility while ensuring the patient maintains immobilization and weight-bearing restrictions through use of appropriate assistive devices and gait patternsGait training _ Patients should be educated and trained in the use of appropriate assistive devices (walker, crutches). This training will also include instruction and practice in appropriate gait patterns to maintain weight- bearing restrictions _ _ Stair training with appropriate patterns and assistive devices should also be included for patients who need to navigate stairs to enter/ exit their homeBalance activities _ Standing balance activities may be utilized to increase static and dynamic balance. These may be conducted in single- limb stance or sitting if the patient is non- weight-bearing on the involved extremity. Appropriate guarding and gait belt should be utilized, as indicated _ _ Reaching, catching, balloon tapping, and manual resistance activities may be used. _ Gradual resumption of participation in athletic activities may occur after antibiotic treatment(6)A home exercise program to complement the physical therapy exercise program should be progressed as the patient moves through phases of healing  Decreased strength and ROMImproved strength and ROMStrengthening exercises _ Seated strengthening exercises for the proximal musculature may be utilized to assist in maintaining non- weight-bearing status while standing and ambulating for patients with lower extremity involvement _ Progressive strengthening exercises using cuff weights, resistance bands, or manual resistance _ _ Lower extremity strength may be addressed using a comprehensive global strengthening program. Standing exercises may be used as appropriate, with sufficient support provided by assistive device (walker) or parallel bars _ _ Observe weight- bearing restrictions, immobilization, and any other restrictions per physician orders. _ Upper extremity weakness can be addressed with free weights, resistance bands, or manual resisted exercises to improve the use of assistive devices and allow the patient to adhere more easily to weight-bearing restrictions of the lower extremity. _ Core strengthening for patients with spinal involvementProgress based on the individual patient needs; consider the patient\u2019s age, physical impairments, and cognitionPatients may perform a global strengthening program of the unaffected areas as appropriate and within the limitations of physician restrictions to prevent muscle strength loss and facilitate increased ease of ambulation  Unhealed wound(s) Healed wound(s) Wound care _ In some cases, therapists may be expected to perform dressing changes, apply topical antibiotic or other medications, perform dull or sharp debridement, and provide management of a \u201cwound vac\u201d systemN/A Instruction in signs of localized/systemic infection and wound care, as appropriate ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "resolved pain": [
+            "V AS"
+        ],
+        "healed wound s": [
+            "Wound assessment \u2013 measure length, width, depth",
+            "Visual inspection of size and color of wound",
+            "Observe for any abnormal drainage, abnormal redness/swelling"
+        ],
+        "functional rom, strength, and mobility of involved body part": [
+            "Manual muscle test (MMT), goniometric measurements, DASH outcome measure, LEFS"
+        ],
+        "improved balance": [
+            "Berg Balance scale, Tinetti Balance Assessment Tool"
+        ],
+        "normal weight-bearing  status": [],
+        "improved gait and safety with ambulation": [
+            "DGI, FIM, WeeFIM"
+        ],
+        "return to prior regular physical and work activities": [
+            "SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "The patient should avoid exacerbating activities and activities that may impede healing, such as tobacco use and contamination of open incisions or wounds",
+        "Patients at risk for infection due to vascular insufficiency should closely monitor any cuts or scrapes",
+        "Medical treatment should be obtained if surrounding soft tissue shows signs of infection",
+        "Patients with neuropathy or diabetes should inspect their feet and other desensitized areas daily to identify any injury or ulceration",
+        "Glycemic control for patients with diabetes",
+        "Open wounds should be covered and well protected to prevent further contamination and introduction of bacteria",
+        "Animal bites should be treated with antibiotics(15)",
+        "Possible prophylactic antibiotics with surgery",
+        "Timely diagnosis and treatment of primary infections to avoid seeding of bone",
+        "Smoking cessation counseling"
+    ],
+    "patient education": [
+        "\u201cOsteomyelitis,\u201d Mayo Clinic website, https://www.mayoclinic.org/diseases-conditions/osteomyelitis/symptoms-causes/syc-20375913  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Lew DP, Waldvogel FA. Osteomyelitis. Lancet. 2004;364(9431):369-379.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Rao N, Ziran BH, Lipsky BA. Treating osteomyelitis: antibiotics and surgery. Plast Reconstr Surg . 2011;127(Suppl 1):177S-187S.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Campbell R, Berry MG, Deva A, Harris IA. Aggressive management of tibial osteomyelitis shows good functional outcomes. Eplasty. 2011;11:e3. (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Z\u00e1horka J, Nejedl\u00fd A, Tvrdek M, Dzupa V. Management of infected tibial fractures and chronic tibial osteomyelitis by muscle flap transfer: a comparison of two series of patients. Acta Chir Plast . 2009;51(1):3-9.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Malizos KN, Gougoulias NE, Dailiana ZH, Varitimidis S, Bargiotas KA, Paridis D. Ankle and foot osteomyelitis: Treatment protocol and clinical results. Injury. 2010;41(3):285-293.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kovacs CJ, Paterno MV, Chandran S. Hip pain in a young athlete. J Orthop Sports Phys Ther . 2013;43(2):106. doi:10.2519/jospt.2013.0404. (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Mayo Clinic staff. Osteomyelitis. Mayo Clinic Web site. http://www.mayoclinic.com/health/osteomyelitis/DS00759 . Published November 14, 2020. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Conterno LO, Turchi MD. Antibiotics for treating chronic osteomyelitis in adults. Cochrane Database Syst Rev . 2013;(9):CD004439. doi:10.1002/14651858.CD004439.pub3. (SR)"
+        },
+        {
+            "number in article": 9,
+            "reference": "McGough RL, III, Laudermilch D, Weiss KR. Orthopedic infections: basic principles of pathogenesis, diagnosis, and treatment. Skinner HB, McMahon PJ, eds. Current Diagnosis & Treatment in Orthopedics . 6th ed. New York, NY: McGraw-Hill  Education/Medical; 2021. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Lazaro-Martinez  JL, Aragon-Sanchez  J, Garcia-Morales  E. Antibiotics versus conservative surgery for treating diabetic foot osteomyelitis: a randomized comparative trial. Diabetes Care . 2014;37(3):789-795.  (RCT)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Vouillarmet J, Morelic I, Thivolet C. Assessing diabetic foot osteomyelitis remission with white blood cell SPECT/CT imaging. Diabetic Med . 2014;31(9):1093-1099.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Tabrizi R, Dehghani Nazhvani A, Vehaedi A, Gholami M, Zare R, Etemadi Parsa R. Herpes zoster induced osteomyelitis in the immunocompromised patients: A 10-year multicenter study. J Dent. 2014;15(3):112-116.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Savvidou OD, Kaspiris A, Bolia IK, et al. Effectiveness of hyperbaric oxygen therapy for the management of chronic osteomyelitis: a systematic review of the literature. Orthopedics . 2018;41(4):193-215.  doi:10.3928/01477447-20180628-02.  (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Mandell M, Treitman A. Osteomyelitis. Domino FJ, ed. The 5-Minute Clinical Consult 2021 . 29th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins;"
+        },
+        {
+            "number in article": 2021,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Momodu II, Savaliya V. Osteomyelitis. StatPearls . Treasure Island, FL: StatPearls Publishing; 2021. (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Franssens BT, de Kroon KE, Landman GWD. A goalkeeper\u2019s hip during kickboxing: pathophysiology of acute hematogenous osteomyelitis in adolescents. Curr Orthop Pract . 2019;30(3). doi:10.1097/BCO.0000000000000738. (C)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Pincher B, Fenton C, Jeyapalan R, Barlow G, Sharma HK. A systematic review of the single-stage  treatment of chronic osteomyelitis. J Orthop Surg Res . November 28, 2019;14(1):393. doi:10.1186/s13018-019-1388-2.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Reinisch KB, Zuk G, Raptis DA, et al. Autologous lipotransfer for bone defects secondary to osteomyelitis: A report of a novel method and systematic review of the literature. Int Wound J. 2019;16(4):916-924.  doi:10.1111/iwj.13119. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Savvidou OD, Kaspiris A, Bolia IK, et al. Effectiveness of hyperbaric oxygen therapy for the management of chronic osteomyelitis: a systematic review of the literature. Orthopedics . 2018;41(4):193-215.  doi:10.3928/01477447-20180628-02.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Sybenga AB, Jupiter DC, Speights VO, Rao A. Diagnosing osteomyelitis: a histology guide for pathologists. J Foot Ankle Surg . 2020;59(1):75-85.  doi:10.1053/ j.jfas.2019.06.007. (GI)"
+        }
+    ]
+}

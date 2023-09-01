@@ -1,0 +1,450 @@
+{
+    "metadata": {
+        "title": "Complex Regional Pain Syndrome",
+        "synonyms": [
+            "pain syndrome, regional complex",
+            "pain syndrome, complex regional",
+            "crps",
+            " reflex sympathetic dystrophy (rsd)",
+            "causalgia",
+            "sympathetically maintained pain"
+        ],
+        "anatomical location body part affected": [
+            "Sympathetic nervous system, leading to presentation of symptoms over the skin and joints of the affected extremities"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "neurological rehabilitation",
+            "pediatric rehabilitation",
+            "hand therapy"
+        ],
+        "description": [
+            "Chronic regional pain syndrome (CRPS) is characterized by chronic neuropathic pain that is disproportionate to and lasts longer than the injury causing it would normally indicate.(1,2,3,4,5)",
+            "There are two types of CRPS: type I results from soft-tissue  or bone injury and type II results from injury to a nerve(3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G90.50": {
+                "base": "Complex regional pain syndrome I, unspecified",
+                "G90.51": "Complex regional pain syndrome I of upper limb",
+                "G90.511": "Complex regional pain syndrome I of right upper limb",
+                "G90.512": "Complex regional pain syndrome I of left upper limb",
+                "G90.513": "Complex regional pain syndrome I of upper limb, bilateral",
+                "G90.519": "Complex regional pain syndrome I of unspecified upper limb",
+                "G90.52": "Complex regional pain syndrome I of lower limb",
+                "G90.521": "Complex regional pain syndrome I of right lower limb",
+                "G90.522": "Complex regional pain syndrome I of left lower limb",
+                "G90.523": "Complex regional pain syndrome I of lower limb, bilateral",
+                "G90.529": "Complex regional pain syndrome I of unspecified lower limb",
+                "G90.59": "Complex regional pain syndrome I"
+            },
+            "G56": {
+                "base": "mononeuropathies of upper limb",
+                "G56.4": "causalgia G56.4 changed to causalgia of upper limb",
+                "ICD-10CA": " ICD-10CA  modification in Canada"
+            },
+            "G57": {
+                "base": "mononeuropathies of lower limb",
+                "ICD-10CA": "modification in Canada",
+                "G57.7": " G57.7 causalgia of lower limb"
+            },
+            "M89.0": "algoneurodystrophy, shoulder-hand syndrome, Sudeck's atrophy, sympathetic reflex dystrophy (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Home transcutaneous electrical nerve stimulation (TENS) units may or may not be covered by insurance depending on type of coverage. Other than that consideration, no specific issues or information regarding reimbursement have been identified. Patient may be undergoing litigation or workers\u2019 compensation claims"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Avoid any physical activity after nerve blocks or whenever there is excessive hypoesthesia",
+            "If deep vein thrombosis (DVT) is suspected (presence of unilateral edema, erythema, tenderness), contact patient\u2019s physician immediately",
+            "If acute compartment syndrome is suspected, refer patient to emergency department for immediate medical care. For more information on acute compartment syndrome, see  Clinical Review ... Compartment Syndrome, Acute  ; CINAHL Topic ID T708485",
+            "Remember that just touching the affected area may be painful. Maintain continuous contact to avoid the irritation of make-and-break  contact over sensitive areas(7)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes pathogenesis": [
+            "The underlying pathophysiology is unclear, complex, and multifactoriall(1,4,9)",
+            "CRPS is thought to be caused by exaggerated inflammatory response(8) in which trauma triggers release ofproinflammatory cytokines as well as neuropeptides that contribute to pain and inflammation(6,8,10)",
+            "Sensitization of the sympathetic nervous system occurs and may be accompanied by autonomic dysregulation as well asincreased pain(1)",
+            "CRPS type I, formerly known as reflex sympathetic dystrophy, most commonly occurs after a crush injury. CRPS type II,formerly known as causalgia, follows damage to a peripheral nerve(2)",
+            "Fracture is the most common precipitating injury, but CRPS can also occur after myocardial infarction, stroke, orcancer.(1,10)",
+            "Other common activities that lead to CRPS are sprains/strains, burns or cuts, nerve damage from surgery, limb immobility(casting), and nerve penetrations(6)",
+            "In 10% of cases, no precipitating cause can be identified(10)"
+        ],
+        "risk factors": [
+            "Risk factors include:\u2013Smoking(6)\u2013Female sex, particularly postmenopausal women(9,10)\u2013Poor circulation and poor nerve health, which can impede healing(6)\u2013Surgery on shoulder, distal radius, carpal tunnel syndrome, Dupuytren contracture(8,11)\u2013Prolonged immobilization(1)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Contraindications/precautions Complaints of severe pain (more than is typical) after an injury may be associated with increased risk of CRPS Increased psychologic distress in patients with CRPS is associated with increased severity and duration Avoid any physical activity after nerve blocks or whenever there is excessive hypoesthesia Pain must be managed during treatments, as affected areas will be hypersensitive Aggressive strengthening and ROM activities are contraindicated and may cause extreme pain, edema, emotional distress, or fatigue Use caution with use of ice and heat as they may exacerbate symptoms in advanced cases",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Avoid any physical activity after nerve blocks or whenever there is excessive hypoesthesia",
+            "If deep vein thrombosis (DVT) is suspected (presence of unilateral edema, erythema, tenderness), contact patient\u2019s physician immediately",
+            "If acute compartment syndrome is suspected, refer patient to emergency department for immediate medical care. For more information on acute compartment syndrome, see  Clinical Review ... Compartment Syndrome, Acute  ; CINAHL Topic ID T708485",
+            "Remember that just touching the affected area may be painful. Maintain continuous contact to avoid the irritation of make-and-break  contact over sensitive areas(7)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Date of onset of original injury/event? Date of onset of CRPS symptoms? -Describe precipitating injury and how it was managed -Generally, prior to the onset of CRPS, a patient has had the extremity immobilized for a period or experienced some form of injury/trauma to the extremity(2) -In 10% of cases no or very minor trauma is reported(23) -Describe symptoms at onset -Have symptoms changed since onset? -When was CRPS diagnosis made? -Diagnosis is based on history and clinical examination and can take some time to be reached.(1,4) By the time CRPS is diagnosed, pain may already be severely affecting quality of life(1,4)",
+                "course of treatment": {
+                    "medical management": " Medical management Document interventions that have been aimed at treating pain and/or disability Oral or topical pharmacological interventions, nerve blocking procedures, surgical sympathectomy, and neuromodulation techniques may be tried(12) Local anesthetic sympathetic nerve blockade is commonly used to treat CRPS(30) Results from a 2013 Cochrane review suggest there is very little published literature to support the use of local anesthetic sympathetic nerve blockade as the \u201cgold standard\u201d treatment for CRPS. Two RCTs that met the researchers\u2019 inclusion criteria had very small sample sizes, limiting the conclusions on the efficacy of this procedure(30) Sympathectomy destroys the nerves involved in CRPS,(9) either surgically or via injection of agents such as phenol(24) Spinal cord or brain stimulation may be useful in decreasing pain in some patients(24) Results from a systematic review and meta-analysis  indicate that spinal cord stimulation (SCS) decreases pain and need for pain medications, increases perceived quality of life, and facilitates the resumption of employment in patients with CRPS type I(18) Authors of a small United Kingdom study involving 3 adults using SCS suggest that although patients report increased independence with activities, they also experience feelings of dependence on the SCS, a lack of control over their future, and a perceived lack of understanding of their condition by others(32)",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Topical analgesics, narcotics, corticosteroids, bisphosphonates,(33)antidepressants, and antiseizure drugs(2,3) Document use of NSAIDs Inquire if patient is compliant with medication regimen and if he or she feels it is effectively controlling symptoms Topical ketamine can reduce CRPS pain and central sensitization. Studies suggest topical ketamine can reduce allodynia and hyperalgesia but does not help with pain. IV ketamine may also be administered(1)  Results from a multicenter, double-blind  RCT in Italy suggest that patients with acute CRPS type I can achieve clinically significant improvements in pain and quality of life after receiving 4 IV infusions of neridronate, a bisphosphonate(33) Eighty-two  adults with CRPS type I were randomly assigned to either the neridronate group or a placebo group Subjects received 4 IV infusions of 100mg of neridronate over a 10-day  period Within the first 20 days after receiving neridronate, visual analog scale (V AS) scores decreased significantly over the placebo group. Over the next 20 days, selfreported  pain continued to decrease, whereas the placebo group remained unchanged After the 40-day  period, individuals in the placebo group were given the 4 doses of neridronate One year following the treatment intervention, none of the patients from both groups reported symptoms of CRPS type I Results from a 2013 Cochrane review suggest there is no evidence to support the use of topiramate, an antiepileptic drug, for the treatment of chronic neuropathic pain(34) Four RCTs with 1,684 participants met the inclusion criteria All studies had one or more sources of potential major bias There was no convincing evidence of efficacy of topiramate (200 to 400mg/day) over a placebo",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "The diagnosis of CRPS is largely made through clinical exam and through the process of ruling out other medical conditions(1,2)",
+                        "Doppler ultrasound may be administered to rule out blood clots",
+                        "Plain radiographs may be ordered to rule out an acute fracture, osteomyelitis, and neoplasm. They may show osteopenia(2)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Patient may report pain in response to nonpainful stimuli such as touch or temperature. Other sources of pain aggravation include joint ROM(5) and emotional distress.(4) Does the patient have pain at rest?",
+                "body chart": "Use body chart to document location and nature of symptoms. Pain may progress and eventually encompass the entire limb; in rare circumstances, pain spreads to other anatomical regions as well(4)",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Patient may report or present with hyperesthesia, allodynia, vasomotor changes, edema, atrophy, sweating disturbances, decreased strength, changes in the skin/nails, and tremor in the affected extremity.(1) Does the patient report fear of moving (kinesiophobia)?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much).The McGill Pain Questionnaire can be used. Patients are often more disabled by the fear of pain than the actual pain(1) -The pain is commonly rated moderate to severe -Results from a research study involving 61 individuals with CRPS type I indicate that a reduction of at least 3 cm on a 10 cm V AS is typically required for patients to consider treatment successful(13)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables. Any change with emotional disturbance/stress?",
+                "sleep disturbance": "Document number of wakings/night. Due to the nature of the condition, a disruption in the patient's sleep pattern would be expected -Disruption of normal natural sleep due to pain may present as fatigue, irritability, and memory difficulties",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., fever, signs and symptoms of DVT, shortness of breath)  Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document whether patient has had CRPS in the past. Has the patient experienced similar symptoms after previous injuries?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, and recent infection. Patients may report having osteoporosis. Atherosclerotic cardiovascular disease, recent infection, and stroke are risk factors for CRPS CRPS may present in the context of another existing disabling condition (e.g., stroke or severe multiple trauma)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient employed? What is the nature of the work? What activities and tasks does the patient routinely perform? Does CRPS interfere with ability to perform work or hobbies?",
+                "functional limitations assistance with ADLs adaptive equipment": "Fine and gross motor impairment in the involved extremity would be expected. Note any assistive or adaptive devices the patient is currently utilizing to facilitate independence with ADLs",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Pitting edema may be present in the dorsum of the hand or foot; measure with 0\u20133+  scale (0 = none present, 1+ = minimal, 2+ = moderate, 3+ = severe) \u2013Girth and volumetric measurements if edema is present",
+            "assistive and adaptive devices": "",
+            "balance": "Assess as indicated, especially if lower extremity is involved",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": " Functional mobility \u2013Assess as indicated using a standardized test such as FIM",
+            "gait locomotion": " Gait/locomotion \u2013Assess gait and ability to ambulate safely if applicable \u2013The 10-meter  walk test (10MWT) is reported to be a valid and reliable measurement tool for lower-limb  functional assessment in patients with neurologic impairments(4) Integumentary integrity \u2013Check and document integumentary changes -Inspect for open wounds -Document stage and size measurements of any wounds present -Note any drainage or odor from wound -Document if new granulation tissue has started to form -Document color and skin characteristics, abnormal nail growth, increased hair growth, excessive perspiration, glossy",
+            "muscle strength": " Muscle strength \u2013Manual muscle testing of gross muscle groups -Muscles that are in close proximity to the symptoms will likely be impacted by pain and disuse(7) \u2013If upper extremity is involved, grip and pinch strength should be tested using a dynamometer",
+            "observation inspection palpation including skin assessment": [
+                "Gross mobility screen of affected joints compared to unaffected limb -A capsular pattern may be present in the shoulder (greatest limitation in external rotation and abduction)(7) -Often restricted wrist extension is found, coupled with restricted metacarpophalangeal (MCP) joint and proximal interphalangeal (PIP) joint flexion(7)  \u2022Motor function (motor control/tone/learning)",
+                "Assess for tremor, myoclonic action in the affected limb. Dystonia may be present in late stages",
+                "Bradykinesia, deficits in movement amplitude, and reduced frequency of movement have also been reported(25)",
+                "Difficulty moving the limb may be related to pain or to motor dyspraxia(4)",
+                "Fine motor tasks should be assessed in patients with upper extremity CRPS using a standardized test such as the 9 Hole Peg Test \u2022Observation/inspection/palpation  (including skin assessment)",
+                "Palpate for temperature asymmetry -During the acute phase, the impaired extremity will likely feel warmer to the touch compared to the contralateral limb; during the chronic phase, the extremity generally feels cooler and there may be a blue tint to the skin(5)",
+                "Hair and nail changes on the affected extremity are common with CRPS(5)",
+                "Observe for muscle fasciculations or tremors in the affected extremity(5)",
+                "Note the presence of muscle atrophy(1)"
+            ],
+            "posture": " Posture \u2013Complete a postural assessment, noting asymmetry in sitting and standing \u2013Patient may hold affected limb immobile due to extreme pain \u2013Poor posture and alignment commonly result from protective guarding of the extremity and imbalanced use of muscles",
+            "range of motion": " Range of motion \u2013Goniometric measurements of affected joints reflecting ROM impairments are a frequent finding(5)",
+            "self-care activities of daily living": "",
+            "reflex testing": " Reflex testing \u2013Hyperreflexia is common(5) Self-care/activities  of daily living  (objective testing) \u2013Self-assessment  questionnaires on functional ability -Radboud Skills Questionnaire(14) -Upper extremity functional (UEF) assessment -Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure -Lower Extremity Functional Scale (LEFS) \u2013Health-related  quality of life questionnaires -Short-Form  Health Survey of the Medical Outcomes Study (SF-36)",
+            "sensory testing": " Sensory testing \u2013Evaluate response to temperature, pressure, light touch, proprioception, vibration, and pinprick and compare to the contralateral extremity(5) -Results from a study in the Netherlands suggest that impaired central processing of proprioceptive information is associated with CRPS(35) -Twenty-five  adults with CRPS were compared to 50 healthy subjects -Patients with CRPS presented with proprioceptive impairments (accuracy and precision of wrist joint position in both the affected and unaffected sides) -Subjects primarily overestimated wrist extension angles -There was an association between severity of motor impairment and proprioceptive impairment -Researchers concluded that it is important to identify the proprioceptive impairments in order to promote optimal",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": " motor function  \u2013Hyperesthesia is a frequent finding(7) \u2013Refer patient to an occupational therapist (OT) or speech-language  pathologist (SLP) specializing in neurological rehabilitation in order to thoroughly assess other sensory impairments such as constructional apraxia, conductional dysphasia, dysgraphesthesia, and dysgraphia. These have been associated with chronic CRPS(31)",
+            "perception": " Perception \u2013Hemisensory neglect has been reported in patients with CRPS(25) \u2013The degree of body perception disturbance (BPD) can be assessed using the Bath CRPS Body Perception Disturbance Scale(4,26)",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "On patients with demand-type  cardiac pacemakers",
+                "Over carotid sinuses",
+                "Venous or arterial thrombosis or thrombophlebitis",
+                "Used in close proximity to diathermy treatment",
+                "Tissues vulnerable to hemorrhage or hematoma",
+                "Areas of skin irritation, damage, or lesions",
+                "Thoracic region in patients with small, slender, fragile body types or a history of cardiac problems",
+                "Over the eyes",
+                "Cancer",
+                "On the craniofacial or cervical region of patients with a history of stroke or seizures",
+                "Over the abdominal, lumbosacral, or pelvic regions during pregnancy",
+                "In patients with impaired cognition",
+                "In areas with impaired sensation",
+                "In patients with the inability to control movements",
+                "Obesity: for motor level stimulation",
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation",
+                "Hypertension  cold can lead to an increase in blood pressure",
+                "Hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement over superficial nerves for extended periods (> 1 hour)",
+                "Cold may be counterproductive if being used to facilitate muscle relaxation and reduce in pain in patients who do not tolerate the modality",
+                "Decreased circulation ",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Malignant tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs",
+                "Acute local skin infection",
+                "Unhealed fractures and unreduced joint dislocations"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Avoid any physical activity after nerve blocks or whenever there is excessive hypoesthesia",
+                "Pain must be managed during treatments, as affected areas will be hypersensitive",
+                "Aggressive strengthening and ROM activities are contraindicated and may cause extreme pain, edema, emotional distress, or fatigue",
+                "Spinal flexion is contraindicated in patients with lumbar spine osteoporosis",
+                "Use caution with use of ice and heat, as they may exacerbate symptoms in advanced cases. Electrical stimulation may increase symptoms in patients with mechanical allodynia through stimulation of large myelinated A fibers(4)",
+                "Electrotherapy  contraindications/precautions(15)",
+                "Cryotherapy contraindications(15)",
+                "Cryotherapy precautions(15)",
+                "Thermotherapy contraindications(15)",
+                "Intermittent compression contraindications"
+            ]
+        },
+        "diagnosis need for treatment": "Patients with CRPS benefit from physical therapy to improve ROM, strength, and function and to decrease pain and hypersensitivity treatment(28) \u2013Guidelines for physical and occupational therapy for CRPS recommend that all treatment programs should include a core of:(4) -desensitization  -neuromuscular reeducation, which might include graded motor imagery, mirror therapy, or other techniques to promote normalization of neuromuscular function -a progressive, active exercise program designed to promote improvement in ROM, strength, and endurance -activities designed to attain functional goals (i.e., weight-bearing  and gait for the lower extremity and fine motor tasks for the upper extremity) -a monitored home exercise program \u2013Authors of a retrospective study found that ultrasound-guided dry needling (USGDN) in combination with standard physical therapy is an effective treatment option for persons with CRPS-1(38) -Based on a retrospective study in India of patients with CRPS from 2005 to 2014 involving 44 patients -Primary outcome measures used in this study include the Clinical Diagnostic Criteria (CDC), DASH, and ultrasonography -All patients received USGDN 3 times a week for up to 45\u201360  days to the muscles of the neck and upper extremities. Medications were given to patients with CRPS as well as standard physical therapy that included electrical modalities, myofascial release, and muscle stretching. Strengthening exercises occurred once pain was reduced by 50% -Long-term  maintenance of pain relief was limited to only one year . Problem Goal Intervention Expected Progression Home Program  Increased pain and edema in the affected extremityRelieve painful symptoms and edema associated with the disorderTherapeutic modalities _ Manual lymph drainage techniques in combination with exercise may help to reduce pain in patients with early CRPS.(7) These include extremity elevation, therapeutic exercise (e.g., open/ close hand while elevated, ankle pumps), retrograde massage, compression garments, and pneumatic compression _ _ Therapeutic strategies which cause pain in the individual should be avoided (e.g., passive ROM) _ _ Physical agents and mechanical modalities _ TENS may reduce pain in the early stages _ _ Contrast baths may be implemented to assist with reducing hypersensitivities(5)Edema/pain management should begin in stage I _ _ In later stages of CRPS, modalities for the indication of pain management are typically implemented just before or during exercise(7)Provide written instructions and diagrams for appropriate home exercises _ _ May implement a home TENS unit as indicated  Decreased ability to complete functional activities with the affected limb secondary to pain(22)and pain avoidance behaviorIncrease independence with all functional activitiesPatient education _ Encourage patient to perform daily activities with the affected limb _ _ Therapeutic modalities _ Proprioceptive neuromuscular facilitation (PNF) may help to improve strength, balance, and ADLs, as the movement patterns mimic normal movements _ _ Calm settings with appropriate lighting and limited background noise may ease patient's stress level and facilitate the implementation of the therapeutic program _ _ Functional training _ Specific functional retraining for the completion of ADLs and job-related tasks per patient needs may begin in later stagesFunctional restoration treatment should begin after pain and edema are controlled _ _ Stress-loading activities (e.g., weight-bearing exercises) can begin in the early stages but may exacerbate symptoms; increase duration and intensity graduallyProvide patient with written instructions and diagrams for appropriate home activities  Abnormal response to stimuli, including touch, hot, cold, and movementNormalize responses to sensory stimuliTherapeutic modalities/physical agents and mechanical modalities _ Use of desensitization techniques:(7) _ _ Tap or vibrate over affected area 5x/day _ _ Intermittent use of warm/cold application _ _ Massage with various textures _ Sensory discrimination training, mirror therapy, graded motor imagery, fear- avoidance exposure therapy, and virtual reality techniques to address parietal lobe dysfunction and motor cortex impairments(4)Progress as indicated Provide patient with written instructions and diagrams for appropriate home activities Limited ROM and joint mobilityRestore functional ROM _ Improve joint mobility for the completion of ADLs and functional tasksPrescription, application of devices and equipment _ Functional splinting of the affected limb may be useful in patients with severe CRPS to assist with maintaining/ improving ROM _ _ Manual therapy _ Gentle manual stretching and tendon gliding(7) _ _ Therapeutic modalities _ Gentle ROM activitiesProgress as indicated Provide patient with written instructions and diagrams for appropriate home activities  Abnormal sympathetic nervous system functionRestore normal sympathetic nervous system function in the extremity, including: _ _ normalized perspiration for temperature regulation _ _ decreased edema _ _ decreased inflammatory response in skinTherapeutic modalities _ Therapeutic exercises (stage I) include weight-bearing exercise for the extremity and joints and general aerobic conditioning (low impact)(7) _ _ Upper extremity (stage I) Scrubbing with a brush in quadruped(8) Push-ups on tables, wall, floor Stair-climber exercise machines, completed with hands Dystrophile: Pressure plate attached to biofeedback machine used to train patient in weight-bearing activities; this device likely not more beneficial to the patient than scrubbing in quadruped(4) Walking with weights in hands or simply encourage patient to carry objects (groceries, purse, etc.) with the affected arm _ _ Lower extremity (stage I) Walking program Stair-climbers and stair-stepper machinesImplement and progress patient through suggested activities as tolerated and appropriate given individual circumstancesProvide patient with written instructions and diagrams for appropriate home activities . ",
+        "rule out": " Rule out(5) \u2013acute fracture or trauma \u2013blood clot or DVT \u2013cellulitis \u2013chronic vascular insufficiency \u2013fibromyalgia \u2013septic arthritis \u2013septic tenosynovitis \u2013scleroderma \u2013peripheral neuropathy plexitis \u2013allergic reaction \u2013localized joint inflammation \u2013tendonitis \u2013bursitis \u2013compartment syndrome \u2013malingering, conversion disorder deQuervain\u2019sstenosing tenosynovitis(36) Glomus tumor(37)",
+        "prognosis": [
+            "Mild cases of CRPS may resolve in weeks to months; however, spontaneous resolution occurs rarely(4)",
+            "CRPS may eventually lead to debilitating, permanent changes in the body, thereby causing emotional suffering(4)",
+            "Only 1 of 5 patients with severe CRPS will return to prior level of function(16)",
+            "High levels of anxiety, pain-related  fear, and disability are likely to result in poorer outcomes in patients with CRPS type 1. This suggests that interventions should be geared towards treating these psychological factors during early interventions(39)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Psychiatrist/psychologist for cognitive behavioral therapy Pain clinic Recreation therapist to facilitate movement through leisure/recreational activities Occupational therapy for difficulties with ADLs V ocational therapy CRPS support groups",
+        "other considerations": [
+            "It is important for the therapist to motivate patients with risk factors for CRPS to move the injured limb safely.(7) Once CRPS has been diagnosed, intervention must be initiated as soon as possible to prevent progression of the condition",
+            "Results from a prospective, double-blind  study conducted in the Netherlands indicate that supplemental vitamin C can reduce the risk of CRPS following wrist fracture. The recommended dosage is 500 mg for 50 days.(17) This study has not been replicated(1) ",
+            "Many patients report dissatisfaction with the amount of social support they receive",
+            "Family and friends often misunderstand or underestimate the severity of the pain because it is disproportionate to the injury(32)"
+        ],
+        "treatment summary": [
+            "Research evidence is limited regarding the efficacy of treatment for CRPS \u2013Authors of a 2013 Cochrane review indicate there is a critical lack of high-quality  evidence for the effectiveness of most interventions for CRPS. It is difficult to develop an evidence-based  approach to managing CRPS until further larger trials are completed(24) -This Cochrane review included 6 previously published Cochrane reviews and 13 non-Cochrane  reviews -Trials were typically small and of variable quality -Graded motor imagery may be effective for pain and function compared with typical treatment intervention, and mirror therapy may be effective for individuals with poststroke CRPS \u2013Authors of a systematic review of RCTs published during the period 2000\u20132012  indicate strong evidence for the efficacy of just 3 treatments: bisphosphonates, repetitive transcranial magnetic stimulation (rTMS), and graded motor imagery(23) -Evidence was strong against 1 treatment (blockade with guanethidine) and moderate or limited against 14 other treatments -Overall, the level of evidence from RCTs for the efficacy of interventions to relieve pain in CRPS was unsatisfactory. Novel treatments have recently been effective in small RCTs. Larger studies with longer follow-up  are needed \u2013Pain exposure physical therapy (PEPT) is a new treatment that has been evaluated in retrospective and prospective studies and found to be safe and possibly effective(27) -PEPT consists of a progressive-loading  exercise program and management of pain avoidance behavior without the use of specific CRPS medication or analgesics -PEPT aims to decrease kinesiophobia, pain behavior, and learned nonuse through functional activity -Pain relief itself is not a primary treatment goal -An increase in pain during or after the exercises and activities may occur -Patients are instructed in self-massage  and forced use of the affected limb in order to desensitize beyond their pain limits \u2013Results from an Indian study indicate that the combination of high-frequency  TENS and exercise therapy may be more effective than the combination of low-frequency  TENS and exercise therapy or than exercise therapy alone to reduce pain associated with CRPS(19) -This study included 30 patients with CRPS who received high-frequency  TENS and exercise therapy, low-frequency TENS and exercise therapy, or exercise therapy alone \u2013Results from a systematic review of physical therapy interventions for the treatment of CRPS type I suggest graded motor imagery can decrease pain in adult patients (> 18 years) with CRPS type I(20) -The review included 5 RCTs, 1 comparative study, and 5 case series -During graded motor imagery, the patient looks at a photograph of a foot or hand and imagines moving his or her affected hand or foot into the position depicted in the photograph. The patient progresses to moving both limbs into the position while watching the unaffected limb in a mirror(21) -The authors concluded there is solid evidence for the use of graded motor imagery but there is insufficient evidence for the use of other treatments such as stress loading therapy \u2013Investigators in studies of treatment of CRP (28,29) emphasize the importance of an interdisciplinary approach that includes physical rehabilitation and cognitive behavioral therapy \u2013It is suggested that the four key components to managing patients with CRPS are patient/caregiver education, intense physical rehabilitation, pain management, and psychological interventions(1,2,3,4,5) -Intense physical therapy programs, some as much as 6 hours per day, have been described -In refractory cases, inpatient admission for rehabilitation for several days to weeks(29) or a day-hospital  interdisciplinary approach can be successful and cost-effective  in managing individuals who have failed to improve with outpatient"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased pain and edema": [
+            "Pain reported on V AS, McGill Pain Questionnaire",
+            "A change in appearance of an affected area",
+            "Girth and volumetric measurements"
+        ],
+        "improved rom": [
+            "Goniometry"
+        ],
+        "increased strength": [
+            "Manual muscle test, dynamometry"
+        ],
+        "improved posture": [],
+        "improved function of the affected extremity": [
+            "Self-assessment  questionnaires regarding functional ability\u2013UEF assessment\u2013DASH Outcome Measure\u2013LEFS",
+            "SF-36"
+        ],
+        "for lower extremity:": [
+            "Improved gait\u2013Gait assessment\u201310MWT",
+            "Improved balance\u2013Balance assessment"
+        ],
+        "for upper extremity": [
+            "Improved performance of fine motor tasks/coordination\u20139 Hole Peg Test"
+        ]
+    },
+    "maintenance or prevention": [
+        "There is no evidence that early physiotherapy can prevent CRPS; however, early diagnosis and therapy are recommended to decrease suffering, improve function, and prevent complications such as contractures(4)",
+        "Encourage safe, gentle movements (ankle pumps, opening/closing fist) with patients at risk for developing CRPS (trauma or immobilization of an extremity)",
+        "Maintain increased weight-bearing  activities through the affected extremity with a home exercise program focused on weight-bearing  exercises",
+        "Focus on early mobilization for susceptible patients",
+        "Education about pain management techniques (e.g., relaxation techniques) and pacing (e.g., appropriate rest breaks, alternating tasks) may be helpful"
+    ],
+    "patient education": [
+        "\u201cA Patient\u2019s Guide to Pain Management: Complex Regional Pain Syndrome,\u201d https://www.concordortho.com/patient-resources/patient-education/topic/71ac113d2337fa91a243fcaf35d37f1c",
+        "Support groups, http://rsds.org/find-a-support-group-near-you/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Guthmiller KB. Complex regional pain syndrome. StatPearls . : StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Watson JC. Complex regional pain syndrome (CRPS). Merck Manual Professional Version Web site. https://www.merckmanuals.com/professional/ . Published February 2020. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Thurlow G, Gray B. Complex regional pain syndrome. Int J Orthop Trauma Nurs . 2018;30:44-47.  doi:10.1016/j.ijotn.2018.03.002. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Tran J, Ramachandran VS, Altschuler EL. Complex regional pain syndrome. In: Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Saunders Elsevier; 2019:543-548.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Amini D. Hand impairments. Occupational Therapy for Physical Dysfunction . 8th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2021. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "National Institute of Neurological Disorders and Stroke. Complex regional pain syndrome fact sheet. National Institutes of Health. https://www.ninds.nih.gov/Disorders/ . Published October 2020. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Kisner C, Armstrong C. Peripheral Nerve Disorders and Management. Kisner C, Colby L, Borstad J, eds. Therapeutic Exercise: Foundations and Techniques . 7th ed. : McGraw-Hill.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Goh EL, Chidambaram S, Ma D. Complex regional pain syndrome: a recent update. Burns Trauma . 2017;5:2. doi:10.1186/s41038-016-0066-4.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Urits I, Shen AH, Jones MR, Viswanath O, Kaye AD. Complex regional pain syndrome, current concepts and treatment options. Curr Pain Headache Rep . 2018;22(2):10. doi:10.1007/s11916-018-0667-7.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Bussa M, Mascaro A, Cuffaro L, Rinaldi S. Adult complex regional pain syndrome type I: a narrative review. PM R. 2017;9(7):707-719.  doi:10.1016/j.pmrj.2016.11.006. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Hughes DE. Complex regional pain syndrome. Domino FJ, Baldor RA, Golding J, Stephens MB, eds. The 5-Minute Clinical Consult 2020 . 28th ed. : Wolters Kluwer; 2020. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Toshniwal G, Sunder R, Thomas R, Dureja GP. Management of complex regional pain syndrome type 1 in upper extremity - evaluation of continuous stellate ganglion block and continuous infraclavicular brachial plexus block: a pilot study. Pain Med . Advance online publication. 2012;13(1):96-106.  doi:10.1111/j.1526-4637.2011.01285.x.  (RCT)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Forouzanfar T, Weber WE, Kemler M, van Kleef M. What is a meaningful pain reduction in patients with complex regional pain syndrome type 1?. Clin J Pain . 2003;19(5):281-285.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Oerlemans HM, Cup EH, DeBoo T, Goris RJ, Oostendorp RA. The Radboud skills questionnaire: construction and reliability in patients with reflex sympathetic dystrophy of one upper extremity. Disabil Rehabil . 2000;22(5):233-245.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP, Jr. Modalities for Therapeutic Intervention . 7th ed. Philadelphia, PA: F. A. Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Oerlemans HM, Oostendorp RA, de Boo T, der Laan L, Severens JL, Goris JA. Adjuvant physical therapy versus occupational therapy in patients with reflex sympathetic dystrophy/complex regional pain syndrome type I. Arch Phys Med Rehabil . 2000;81(1):49-56.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Zollinger PE, Tuinebreijer WE, Breederveld RS, Kreis RW. Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures? A randomized, controlled, multicenter dose-response  study. J Bone Joint Surg Am . 2007;89(7):1424-1431.  (RCT)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Taylor RS. Spinal cord stimulation in complex regional pain syndrome and refractory neuropathic back and leg pain/failed back surgery syndrome: results of a systematic review and meta-analysis.  J Pain Symptom Manage . 2006;31(4:suppl):S13-S19.  (M)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Mir N, Grover D, Khan SA, Mir AH. Comparison of high frequency and low frequency TENS in management of type I complex regional pain syndrome. Indian J Physiother Occup Ther . 2010;4(4):85-89.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Daly AE, Bialocerkowski AE. Does evidence support physiotherapy management of adult complex regional pain syndrome type one? A systematic review. Eur J Pain . Advance online publication. 2009;13(4):339-353.  doi:10.1016/j.ejpain.2008.05.003. (SR)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Lageux E, Charest J, Lefran\u00e7ois-Caron  E. Modified graded motor imagery for complex regional pain syndrome type 1 of the upper extremity in the acute phase: a patient series. Int Journal Rehabil Res . 2012;35(2):138-145.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Schasfoort FC, Bussmann JB, Stam HJ. Impairments and activity limitations in subjects with chronic upper-limb  complex regional pain syndrome type I. Arch Phys Med Rehabil. 2004;85(4):557-566.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Cossins L, Okell RW, Cameron H, Simpson B, Poole HM, Goebel A. Treatment of complex regional pain syndrome in adults: a systematic review of randomized controlled trials published from June 2000 to February 2012. Eur J Pain . 2013;17(2):158-173.  doi:10.1002/j.1532-2149.2012.00217.x.  (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "O'Connell NE, Wand BM, McAuley J, Marston L. Interventions for treating pain and disability in adults with complex regional pain syndrome. Cochrane Database Syst Rev . 2013;(4):CD009416. doi:10.1002/14651858.CD009416.pub2.  (SR)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Smart KM, Wand BM, O'Connell NE. Physiotherapy for pain and disability in adults with complex regional pain syndrome (CRPS) types I and II. Cochrane Database Syst Revi . 2016;(2). Art No: CD010853. doi:10.1002/14651858.CD010853.pub2.  (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Lewis J, McCabe CS. Body perception disturbance (BPD) in CRP. Practical Pain Manage . 2010;10(3):60-66.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Barnhoorn KJ, Oostendorp RAB, van Dongen RTM, et al. The effectiveness and cost evaluation of pain exposure physical therapy and conventional therapy in patients with complex regional pain syndrome type 1. Rationale and design of a randomized controlled trial. BMC Musculoskelet Disord . 2012;13:58. doi:10.1186/1471-2474-13-58.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Logan DE, Carpino EA, Chiang G, et al. A day-hospital  approach to treatment of pediatric complex regional pain syndrome: initial functional outcomes. Clin J Pain . 2012;28(9):766-774.  doi:10.1097/AJP.0b013e3182457619. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Franklin A, Austin T. The use of a continuous brachial plexus catheter to facilitate inpatient rehabilitation in a pediatric patient with refractory upper extremity complex regional pain syndrome. Pain Pract . 2013;13(2):109-113.  doi:10.111/j.1533-2500.2012.00561.x.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "O'Connell NE, Wand BM, Gibson W, Carr DB, Birklein F, Stanton TR. Local anaesthetic sympathetic blockade for complex regional pain syndrome. Cochrane Database Syst Rev. 2016;(7). Art No: CD004598. doi:10.1002/14651858.CD004598.pub4.  (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Cohen H, McCabe C, Harris N, Hall J, Lewis J, Blake DR. Clinical evidence of parietal cortex dysfunction and correlation with extent of allodynia in CRPS type 1. European J of Pain. 2013;17(4):527-538.  doi:10.1002/j.1532-2149.2012.00213.x.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Haynes L, Goebel A, Flynn M. The impact of spinal cord stimulation in patients suffering from CRPS on level of function, including work. International J Ther Rehabil . 2014;21(2):77-85.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Varenna M, Adami S, Rossini M, et al. Treatment of complex regional pain syndrome type I with neridronate: a randomized, double-blind,  placebo-controlled  study. Rheumatology . 2013;52(3):534-542.  doi:10.1093/rheumatology/kes312. (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Wiffen PJ, Derry S, Lunn MP, Moore PA. Topiramate for neuropathic pain and fibromyalgia in adults. Cochrane Database Syst Rev . 2013;(8):CD008314. doi:10.1002/14651858.CD008312.pub3.  (SR)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Bank PJ, Peper CL, Marinus J, Beek PJ, van Hilten JJ. Motor dysfunction of complex regional pain syndrome is related to impaired central processing of proprioceptive information. J Pain. November 2013;14(11):1460-74.  doi:10.1016/j.jpain.2013.07.009. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Vas L, Pai R. Complex regional pain syndrome-type  1 presenting as deQuervain\u2019s Stenosing Tenosynovitis. Pain Physician . 2016;19(1):E227. (C)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Macharia C, Nthumba PM. Glomus tumor presenting as complex regional pain syndrome of the left upper limb: a case report. J Med Case Rep . 2015;1-4.  (C)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Vas LC, Pai R, Pattnaik M. Musculoskeletal ultrasonography in CRPS: assessment of muscles before and after motor function recovery with dry needling as the sole treatment. Pain Physician . 2016;19(1):E163. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Bean DJ, Johnson MH, Heiss-Dunlop  W, Lee AC, Kydd RR. Do psychological factors influence recovery from complex regional pain syndrome type 1? A prospective study. Pain. 2015;156(11):2310-2318.  (R)"
+        }
+    ]
+}

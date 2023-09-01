@@ -1,0 +1,362 @@
+{
+    "metadata": {
+        "title": "Guillain-Barr\u00e9  Syndrome",
+        "synonyms": [
+            "gbs",
+            "landry-guillain-barr\u00e9  syndrome",
+            "acute inflammatory polyneuropathy",
+            " acute inflammatory demyelinating polyneuropathy",
+            "aidp",
+            "acute autoimmune neuropathy",
+            " acute inflammatory polyradiculoneuropathy",
+            "ascending paralysis",
+            "postinfectious polyneuritis",
+            "acute inflammatory demyelinating polyneuropathy"
+        ],
+        "anatomical location body part affected": [
+            "Peripheral nervous system; sometimes also affecting the cranial nerves"
+        ],
+        "area of specialty": [],
+        "description": [
+            "A postinfectious acute inflammatory condition in which the body\u2019s immune system attacks the nerves, resulting in immunologic damage to the peripheral nervous system(17)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition"
+        ],
+        "presentation signs and symptoms": [
+            "Symmetric progressive motor loss with or without sensory loss starting in the lower extremities and ascending to the upper extremities and, in some cases, influencing lower cranial nerves (eye movements, vision, swallowing, maintaining open airway)(1)",
+            "Maximal weakness typically peaks by 2 weeks after onset of symptoms but might take up to 4 weeks(2)",
+            "Respiratory muscles are frequently affected, resulting in a decrease in vital capacity and need for ventilatory support(2)",
+            "The autonomic nervous system might be affected, resulting in arrhythmia, hypotension or hypertension, and tachycardia(2)",
+            "Pain might be present and might precede weakness(2)",
+            "Fatigue is common and can persist after neurological recovery(2)",
+            "In children, the initial clinical presentation and course can differ from that of adults \u2013Guillain-Barr\u00e9  syndrome (GBS) in children has a shorter course and is associated with more complete recovery than in adults(16) \u2013Authors of a retrospective study in the United Kingdom reported an increased incidence of bladder dysfunction and hypertension in children with GBS, which correlated with the period of maximal muscle weakness(15)",
+            "Clinical variant (2,17) \u2013Acute inflammatory demyelinating polyradiculoneuropathy (AIDP) -Most common form worldwide, which accounts for 95% of all cases of GBS in Europe and North America \u2013Acute axonal neuropathies, which are rare, make up less than 5% of all cases; more commonly seen in China and Japan, making up 30% of cases in both countries  -Acute motor-axonal  neuropathy (AMAN) -More prevalent in pediatric age groups(17) -Acute motor-sensory  axonal neuropathy (AMSAN) -Seen infrequently; related to more critical disease and has a poorer prognosis(17) \u2013Miller Fisher syndrome (MFS)(2,17) -Patients present with triad of ophthalmoplegia (i.e., impairment of eye movements), ataxia, and areflexia -Any limb weakness is mild \u2013Acute panautonomic neuropathy (pandysautonomia)(17) -The rarest GBS variant -The onset of sympathetic and parasympathetic failure without motor or sensory involvement -Patients have severe postural hypotension, bowel and bladder retention, anhidrosis, decreased salivation and lacrimation, and cardiovascular involvement Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Contraindications and precautions will vary depending on the site of evaluation and phase of recovery",
+            "Explain examination procedures to patient before the initiation to reduce fear/anxiety",
+            "Do not overexert the patient",
+            "Care should be taken during PROM to avoid damaging the joint or overstretching ligaments or tendons"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "GBS is neither hereditary nor contagious. The precise cause of GBS is unknown",
+            "GBS typically follows viral or bacterial infection or immunization,(2,13) including\u2013viruses \u2013 cytomegalovirus (CMV), varicella-zoster  virus (VZV), Epstein-Barr  virus (EBV), hepatitis viruses, infectiousmononucleosis\u2013bacteria \u2013 Campylobacter jejuni , Mycoplasma pneumoniae\u2013vaccines \u2013 rabies, swine influenza-According to the U.S. Centers for Disease Control and Prevention, the data on the association between the flu vaccineand GBS vary each season. Reported increased risk has been in the range of 1\u20132additional cases of GBS per million fludoses administered(3)",
+            "In 2016 WHO announced that \u201cthere is strong scientific consensus\u201d that Zika virus is a cause of GBS, microcephaly, andother neurological disorders, but did not state that this was the organization\u2019s official conclusion(18)",
+            "Other associations with GBS (e.g., lymphoma [especially Hodgkin lymphoma], trauma, and surgery) are largelyanecdotal.(17) Postoperative GBS has been reported(4)",
+            "GBS can also occur with no identified trigger"
+        ],
+        "pathogenesis": [
+            "The GBS disease processes appear to be related to an autoimmune response\u2013The myelin surrounding the peripheral nerves is attacked by immune cells\u2013Conduction of nerve impulses is thereby impaired or blocked(17)\u2013Large-diameter  myelinated fibers which carry signals for muscle movements and vibratory and touch sensations arepredominantly attacked; however, small fiber (myelinated and unmyelinated) dysfunction can occur and might beresponsible for neuropathic pain(5)",
+            "Details of the pathogenesis remain unclear because there are at least two pathologies that result in the diagnosis of GBS:demyelinating pathology and axonal pathology(22,23)\u2013It is not always possible to differentiate between these major GBS subtypes using standard clinical tests andelectrophysiological assessments. Nerve conduction studies can help support the diagnosis and discriminate betweensubtypes(22)"
+        ],
+        "risk factors": [
+            "Upper respiratory or gastrointestinal infections\u2013Two-thirds  of patients with GBS report having had an infectious illness within 1 month before the onset of GBS\u2013M. pneumoniae  and C. jejuni  (29) are commonly associated with GBS",
+            "Vaccination\u2013A small increased risk from influenza immunization has been reported(3)\u2013There might be an increased risk of GBS following meningococcal conjugate vaccination, poliovirus vaccine, and rabiesvaccine(24)",
+            "Factors predicting worse outcome include older age and a history of gastroenteritis",
+            "Genetics\u2013Polymorphisms of CD1 genes might influence aspects of the disease process and overall susceptibility(10)",
+            "Gender and age\u2013There is a slightly higher occurrence in males(12,13,14)\u2013Researchers of a retrospective study in the Western Balkans found a male to female ratio of 1.7 to 1, with the highestoccurrence in 50- to 80-year-old  males(12)\u2013Researchers of a retrospective investigation in China found a higher incidence in males (0.63/100,000) than females(0.31/100,000), with the greatest occurrence in patients over 60 years old (1.16/100,000)(14)\u2013In the United States, the age distribution appears to be bimodal, with a peak in young adulthood (ages 15\u201335  years) and asecond peak in persons aged 50\u201375  years(17)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "General medical precautions might include bed rest and isolation orders, and cardiac, DVT, dysphagia, and fall precautions",
+        "Skin protection, especially over bony prominences, and consistent position changes are required to decrease the risk of pressure ulcers",
+        "Exercise should be selected carefully, with shorter sessions initially, as overexertion might be harmful. Progressively increase the intensity and time with careful consideration of perceived exertion in all sessions. A decline in vital capacity, lack of improvement or decline in strength, increased pain, and substitution patterns with movement are all signs to stop"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Contraindications and precautions will vary depending on the site of evaluation and phase of recovery",
+            "Explain examination procedures to patient before the initiation to reduce fear/anxiety",
+            "Do not overexert the patient",
+            "Care should be taken during PROM to avoid damaging the joint or overstretching ligaments or tendons"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Etiology of illness -Ask about onset and progression of weakness -Is patient in a phase in which the weakness is progressing or has improvement started? -Have there been any complications? -Patient might recently have had an infection (e.g., C. jejuni , CMV , EBV , M. pneumoniae ); some increase in incidence noted with selected flu vaccines(3)",
+                "course of treatment": {
+                    "medical management": "Patient often requires intensive care. Supportive care in this setting might include ventilatory assistance, blood pressure maintenance, a positioning schedule, thromboembolism prophylaxis, physical therapy, and emotional support. The patient might also receive plasmapheresis and/or intravenous immunoglobulin (IVIg)(13)",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Based on a Cochrane review, IVIg started within 2 weeks of onset is as effective as plasma exchange in hastening recovery(6) Compared to plasma exchange, IVIg is significantly more likely to be completed Corticosteroids Corticosteroids do not significantly speed recovery of GBS(7)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Neuroimaging to exclude inflammatory, ischemic, or structural causes for weakness(19)",
+                        "Lumbar puncture(13)",
+                        "Cerebrospinal fluid (CSF) might indicate elevated protein(13) ",
+                        "Electrodiagnostics(13)",
+                        "EMG will indicate muscle fibrillations and fasciculations and a reduced interference pattern",
+                        "Nerve conduction studies indicate a progressive decline in nerve conduction velocity",
+                        "Baseline vital capacity and ongoing monitoring of respiratory function",
+                        "Authors of a retrospective study in China suggest that monocyte count is independently associated with GBS and an increase in monocyte count can be used to determine the severity of the disease(21)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether the patient has had occupational or physical therapy for this or other conditions, if applicable, and what specific treatments were helpful or not helpful. Depending on when the patient presents, document if the patient received therapy in the hospital and if the patient required acute or subacute rehabilitation"
+                },
+                "aggravating easing factors": "Document what movements/activities by the patient or the therapist ease the symptoms or make them worse",
+                "body chart": "Use body chart to document the location of symptoms",
+                "nature of symptoms": "Early symptoms include gait ataxia and extremity muscle weakness, pain and paresthesias that progresses proximally. The patient may develop a lack of bowel or bladder control.(28)Pain in the acute stages is often described as deep and aching, often affecting the back, buttocks, and posterior thighs. Pain in later stages is often neuropathic in nature (shooting, burning, tingling)(2) -Ask about symptoms of autonomic dysfunction (e.g., sweating, palpitations), respiratory symptoms, and symptoms associated with cranial nerve involvement (e.g., diplopia, gagging, drooling, swallowing difficulties)Guillain-Barr\u00e9  Syndrome ; CINAHL Topic ID Number detailed information on this topic",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if the pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night) and also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document any noted sleeping concerns -Sleep disturbances are common in GBS(11)",
+                "other symptoms": "Document other symptoms patient might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to the physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia). Anxiety and fearfulness are common",
+                "respiratory status": " Respiratory status -Patient might be ventilator dependent -In the acute phase, patients with GBS require ventilation if vital capacity is rapidly decreasing or if they are having significant difficulty clearing secretions or are aspirating(13) -Tracheostomy might be necessary for patients requiring prolonged ventilator support -It is important to note the patient\u2019s forced vital capacity (FVC) and oxygen saturation levels(26) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________ (e.g., speech might be impaired)"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Recurrence is uncommon (35%).  If this is a recurrence, chronic inflammatory demyelinating polyneuropathy (CIDP) might be diagnosed. CIDP is a chronic condition closely related to GBS that is diagnosed on the basis of its pattern of progression and relapsing. It typically has a slower onset than GBS, but acuteonset  CIDP might be diagnosed when a patient in whom GBS is diagnosed deteriorates 9 or more weeks after onset or when deterioration occurs 3 or more times",
+                    "comorbid diagnoses": "Document other health problems that the patient might have, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders Associations between GBS and several conditions have been reported, including cancer,myasthenia gravis, multiple sclerosis, pregnancy, and systemic lupus erythematosus;(17)associations are believed to be mostly anecdotal ",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she might be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient employed? What kind of activities does the patient do during the typical workday? In what recreational or leisure activities does the patient participate?",
+                "functional limitations assistance with ADLs adaptive equipment": "What was the patient\u2019s prior level of function? What assistance does patient now need? Persistent disability occurs in 20% of patients",
+                "living environment": "Number of stairs and floors in the home and with whom patient lives (caregivers, etc.). Are family members and caregivers supportive? Are any home modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(while tests and measures are listed in alphabetical order, sequencing and selection \u203aRelevant tests and measures: (while tests and measures are listed in alphabetical order, sequencing and selection of tests and measures should be appropriate to patient medical condition, functional status, and setting.) Modify evaluation as indicated by patient presentation",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Assess patient for appropriate assistive devices during transfers (e.g., slide board or walker), locomotion (e.g., wheelchair, wheeled walker, forearm crutches as indicated), and weight-bearing  activities (e.g., ankle foot orthoses [AFOs]). Assistive devices might be needed for self-care.  Splinting might be indicated in early stages for contracture prevention. Pressure-relieving  cushions and mattresses might be indicatedAssess statically and dynamically. Use appropriate standard assessments such as Berg Balance Scale for equilibrium in various positions",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": " Functional mobility \u2013Appropriate standard assessments for transfers, bed mobility, stair climbing, and wheelchair propulsion (level of independence and safety with various positions and movements) such as Timed Up & Go (TUG) test \u2013The FIM or the FIM-FAM  (Functional Independence Measure or Functional Assessment Measure",
+            "gait locomotion": " Gait/locomotion \u2013If appropriate, gait analysis for deviations \u2013Timed performance measures, such as the 6MWT and TUG testAlthough it is a costly evaluative tool, digital gait analysis used during the rehabilitation process provides valuable feedback for altering and advancing the GBS patient program \u2013Assess safety with Dynamic Gait Index (DGI) where indicatedAssess for contracture development",
+            "muscle strength": " Muscle strength \u2013May need to perform initial MMT over multiple sessions to avoid overexertion \u2013Specific MMT (not functional group testing) should be performed on a weekly basis \u2013Muscle strength might range from mild weakness to complete paralysis \u2013The key examination finding is relatively symmetric weakness, although some patients develop asymmetric weakness, and, rarely, unilateral weakness(19)",
+            "observation inspection palpation including skin assessment": [
+                "Skin breakdown should be monitored and pressure points identified "
+            ],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": " Reflex testing \u2013Deep tendon reflexes are commonly diminished or absent \u2013Ten percent of patients display normal or brisk deep tendon reflexes during the disease course(19)Assess ROM and flexibilityAssess ADLs and note bowel/bladder control(17) \u2013FIM or Barthel Index can be used",
+            "sensory testing": "Sense of light touch, sharp/dull, proprioception, and deep pressure are commonly affected in a glove and stocking pattern. The level of sensory deficit is not sharply demarcated(8)",
+            "special tests specific to diagnosis": " Special tests \u2013Health-related  quality of life surveys might be useful in assessing the impact of GBS and change over time. Examples -36-Item  Short Form Health Survey (SF-36) -WHO Quality of Life assessment (WHOQOL) -Depression Anxiety Stress Scales (DASS) -Perceived Impact of Problem Profile (PIPP)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "Assess tone, motor control, and coordination. Paralysis in GBS is flaccid. Upper motor neuron signs or asymmetric neurologic deficits suggest an alternative diagnosis",
+            "perception": "",
+            "arousal attention cognition": "Arousal, attention, and cognition (including orientation to name, date, place, and situation) are not affected by GBS",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "Progressive muscle weakness in both arms and both legs, pain, sensory symptoms, impaired balance and mobility. Respiratory compromise secondary to weakness. Decreased ability to ambulate, functional ability, and endurance",
+        "rule out": " Rule out  (13) Toxic peripheral neuropathies (e.g., exposure to heavy metals, exposure to biological or industrial toxins and drug intoxication) Nontoxic peripheral neuropathies (e.g., acute anterior poliomyelitis) Neuromuscular junction disorders (e.g., myasthenia gravis) Myopathies (e.g., inflammatory myopathy) Metabolic derangements (hypokalemia, hypophosphatemia) Acute CNS disorders (e.g., brainstem stroke or encephalitis, acute myelopathy [either space-occupying  lesion or acute transverse myelitis], multiple sclerosis) CIDP GBS-like  syndrome associated with lung cancer is a rare condition that is difficult to diagnose and usually rapidly fatal(20)",
+        "prognosis": [
+            "Prognosis is generally good(2)",
+            "Approximately 80% of patients with GBS walk independently at 6 months and about 60% recover full motor strength within one year(17)",
+            "In 5\u201310%  of patients recovery is prolonged, with several months of ventilator dependency and very delayed, incomplete recovery(17)",
+            "Five to ten percent mortality worldwide(13)",
+            "Twenty percent of patients have residual disability(2)",
+            "Three to five percent recurrence of acute polyneuropathy(2)",
+            "Features associated with poorer outcomes in GBS(27) \u2013Older age(17) \u2013AMAN \u2013Diabetes \u2013High blood pressure \u2013Uroschesis \u2013High body temperature \u2013Ventilator support \u2013Consciousness disorder \u2013Absence of a triggering upper respiratory tract \u2013Hyperglycemia \u2013Hyponatremia \u2013Hypoalbuminemia \u2013High leukocyte count \u2013Hyperfibrinogenemia \u2013Abnormal hepatic function  \u2013Abnormal renal function"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Respiratory therapy for airway clearance techniques \u2013Mechanical respiration might be required in some patients, with proper techniques for maintaining hygiene and providing incentive spirometry to encourage recovery Social services for long-term  care issues, psychosocial adjustment, and equipment and home needs Occupational therapy for ADL training and energy-conservation techniques, as well as to address upper extremity weakness and dysfunction Orthotist for bracing needs Pain management if indicated Speech therapy for dysphagia management and speech and voice impairments",
+        "other considerations": [],
+        "treatment summary": [
+            "Exercise programs \u2013Authors of a 2016 systematic review indicated there is insufficient high-quality  evidence to draw conclusions about the effects of exercise interventions on physical outcomes for patients with GBS(25) -The authors noted that, overall, various types of exercise programs improve outcomes in patients with GBS, including functional mobility, cardiopulmonary function, isokinetic muscle strength, work rate, and reduced fatigue(25) -Exercise frequency, intensity, and duration varied; exercise programs lasted around 12 weeks, 3 times per week, 30\u201360 minutes per session at 70% to 90% maximal heart rate -Rehabilitation is recommended both at the early stage to decrease disability and at the later stage for reconditioning",
+            "Functional mobility training \u2013Bed mobility and transfer training, progressive standing tolerance training on a tilt table, balance training, and gait training. \u2013Energy-conservation  strategies to prevent fatigue and promote independence with ADLs",
+            "Respiratory training \u2013Researchers of a small study in India concluded that proprioceptive neuromuscular facilitation (PNF) techniques and breathing exercises significantly improved diaphragm muscle function in patients with GBS(26) -Thirty participants with GBS in a respiratory ICU in India were included in the study. Participants were divided into an experimental (PNF) and a control group (usual care) -PNF included rhythmic stabilization and repeated contraction techniques and focused on improving diaphragm function -Patients were assessed at baseline and on the seventh day post intervention -Participants in the PNF group showed significant improvement in diaphragm muscle function measured in FEV1/FVC compared to the control group . Problem Goal Intervention Expected Progression Home Program  Potential for joint contractures and skin breakdown due to immobilityAvoid joint contractures and skin breakdown _ _ Patient and family independent with ROM program _ _ Patient fit with appropriate orthoticsTherapeutic exercise _ Passive ROM for all joints twice a day _ Positional changes should be performed regularly _ _ Functional mobility _ Encourage early mobility and out of bed as soon as cleared by physician _ _ Patient and family"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "to avoid joint contractures, respiratory complications, dvt, and skin breakdown": [],
+        "patient and family independent with rom program": [
+            "ROM"
+        ],
+        "patient fit with appropriate orthotics and devices": [],
+        "reduced pain": [
+            "V AS"
+        ],
+        "increased strength": [
+            "MMT"
+        ],
+        "independent in mobility and gait": [
+            "Treatment effectiveness for functional mobility can be obtained with timed performance measures, such as the 6MWT andTUG test",
+            "FIM or FIM-FAM",
+            "WeeFIM in children"
+        ],
+        "improved quality of gait": [
+            "Gait analysis",
+            "DGI"
+        ],
+        "improved sleep quality": [
+            "Sleep quality scale"
+        ],
+        "improved quality of life": [
+            "Quality of life survey (e.g., SF-36,  WHOQOL, DASS, PIPP)"
+        ],
+        "improved cardiorespiratory fitness and endurance": [
+            "Fatigue Severity Scale (FSS); Borg RPE Scale",
+            "Duration of ventilation and ICU stay"
+        ]
+    },
+    "maintenance or prevention": [
+        "Patient/family can continue with a home exercise program that might include standing balance and functional mobility activities and graded strengthening exercise",
+        "The patient may benefit from compensatory functional strategies, environmental adaptations, and/or assistive devices as appropriate "
+    ],
+    "patient education": [
+        "Home page for Guillain-Barr\u00e9  Syndrome/Chronic Inflammatory Demyelinating Polyneuropathy Foundation International at https://www.gbs-cidp.org/",
+        "Handout including organizations for more information can be found on the website of the National Institute of Neurological Disorders and Stroke (NINDS) at https://www.ninds.nih.gov/Disorders/All-Disorders/Guillain-Barr%C3%A9-Syndrome-Information-Page",
+        "MedlinePlus. \u201cGuillain-Barr\u00e9  Syndrome.\u201d Website of the U.S. National Library of Medicine and National Institutes of Health (NIH). https://medlineplus.gov/guillainbarresyndrome.html",
+        "Genetics Home Reference. A service of the U.S. National Library of Medicine. \u201cGuillain-Barr\u00e9  Syndrome,\u201d https://ghr.nlm.nih.gov/condition/guillain-barre-syndrome",
+        "Lab Tests Online website. Produced by American Association for Clinical Chemistry. \u201cGuillain-Barr\u00e9  Syndrome,\u201d https://labtestsonline.org/conditions/guillain-barre-syndrome",
+        "American Academy of Neurology (AAN) guideline summary for patients and their families: treatment for Guillain-Barre Syndrome. Available at https://innovations.ahrq.gov/qualitytools/american-academy-neurology-aan-guideline-summary-patients-and-their-families-treatment Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Management of patients with neurologic infections, autoimmune disorders, and neuropathies. In: Hinkle JL, Cheever KH, eds. Brunner & Suddarth's Textbook of Medical-Surgical  Nursing. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2018:2082-2090.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Craig A, Richardson JK, Ayyangar R. Rehabilitation of patients with neuropathies. In: Cifu DX, ed. Braddom\u2019s Physical Medicine and Rehabilitation . 5th ed. Philadelphia PA: Elsevier Saunders; 2016:915-917.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Vaccine Safety. Guillain-Barr\u00e9  Syndrome. Centers for Disease Control and Prevention website Web site. https://www.cdc.gov/vaccinesafety/concerns/guillain-barre-syndrome.html . Published June 28, 2019. Accessed September 23, 2019. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Hocker S, Nagarajan W, Rubin M, Wijdicks EFM. Clinical factors associated with Guillain-Barr\u00e9  syndrome following surgery. Neurol Clin Pract . 2018;8(3):201-206.  doi:10.1212/ CPJ0000000000000451. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Suzuki C, Kon T, Funamizu Y, et al. Loss of intraepidermal nerve fibers in Guillain-Barre  syndrome. J Neurol Sci . 2017;381:854. doi:10.1016/j.jns.2017.08.2406. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Hughes RAC, Swan AV, van Doorn PA. Intravenous immunoglobulin for Guillain-Barr\u00e9  syndrome. Cochrane Database Syst Rev . 2014;(Issue 7):CD002063. doi:10.1002/14651858.CD002063.pub6.  (SR)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Hughes RAC, Brassington R, Gunn A, van Doorn PA. Corticosteroids for Guillain-Barr\u00e9  syndrome. Cochrane Database Syst Rev . 2016;(Issue 10). Art No: CD001446. doi:10.1002/14651858.CD001446.pub5.  (SR)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Drasler EF, Druck J. Guillain-Barr\u00e9  syndrome. In: Schaider JJ, Barkin RM, Hayden SR, eds. Rosen & Barkin's 5-Minute Emergency Medical Consult . 5th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2015:476-477.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: F. A. Davis; 2016:80-82,  322-323. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Liu H, Xing Y, Guo Y, et al. Polymorphisms in exon 2 of CD1 genes are associated with susceptibility to Guillain-Barr\u00e9  syndrome. J Neurol Sci . 2016;369:39-42.  doi:10.1016/ j.jns.2016.07.029. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Bahnasy WS, El-Heneedy  YAE, El-Shamy  AM, Badr MY, Amer RA, Ibrahim ISE. Sleep and psychiatric abnormalities in Gullian Barr\u00e9 Syndrome. Egypt J Neurol Psychiatr Neurosurg . 2018;54(1):5. doi:10.1186/s41983-018-0007-1.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Peric S, Milosevic V, Berisavac I, et al. Clinical and epidemiological features of Guillain-Barre  syndrome in the Western Balkans. J Peripher Nerv Syst . 2014;19(4):317-321. doi:10.1111/jns.12096. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Singhal D. Guillain-Barre  syndrome. In: Ferri FF, ed. Ferri\u2019s Clinical Advisor 2018: 5 Books in 1 . Philadelphia, PA: Elsevier; 2018:537-538.  (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Xiong CH, Liao Z, Peng SH, et al. Epidemiologic characteristics of Guillain-Barre  syndrome in Nanchang China: a retrospective study. Int Med J. 2014;21(5):496-499.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Watson L, Aziz M, Vassallo G, Plant ND, Webb NJ. Bladder dysfunction and hypertension in children with Guillain-Barre  syndrome. Pediatr Nephrol . 2014;29(9):1637-1641. doi:10.1007/s00467-014-2799-2.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Roodbol J, de Wit MC, Aarsen FK, Catsman-Berrevoets  CE, Jacobs BC. Long-term  outcome of Guillain-Barre  syndrome in children. J Peripher Nerv Syst . 2014;19(2):121-126. doi:10.1111/jns5.12068. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Andary MT, Oleszek JL, Maurelus K, White-McCrimmon  RY. Guillain-Barre  Syndrome. Medscape Web site. http://emedicine.medscape.com/article/315632-overview . Published May 4, 2018. Accessed September 20, 2019. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Doshi P. Convicting Zika. BMJ. 2016;353(8052):i1847. doi:1136/bmj.i1847. (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Wakerley BR, Nobuhiro Y. Mimics and chameleons in Guillain-Barre  and Miller Fisher syndromes. Pract Neurol . 2015;15(2):90-99.  doi:10.1136/practneurol-2014-00937.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Jung I, Gurza S, Balasa R, et al. A coin-like peripheral small cell lung carcinoma associated with acute paraneoplastic axonal Guillain-Barre-like  syndrome. Medicine. 2015;94(22):e910. doi:10.1097/MD.00000000000000910. (C)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Li X, Li W, Luo Y, Qin L, Su Q, Mo W. Can we assess severity of Guillain-Barre  syndrome using absolute monocyte count? Int J Lab Hematol . 2018;40(4):488-492. doi:10.1111/ijlh.12845. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Willison HJ, Jacobs BC, van Doom PA. Guillain-Barr\u00e9  syndrome. Lancet. 2016;388:717-727.  doi:10.1016/S0140-6736(16)00339-1.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Nakano Y, Kanda T. Pathology of Guillain-Barr\u00e9  syndrome. Clin Exp Neuroimmun . 2016;7:312-319.  doi:10.1111/cen3.12342. (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Ullah MW, Qaseem A, Amray A. Post vaccination Guillain Barre Syndrome: a case report. Cureus. 2018;10(4):e2511. doi:10.7759/cureus.2511. (C)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Simatos Arsenault N, Vincent PO, Yu BH, Bastien R, Sweeney A. Influence of exercise on patients with Guillain-Barr\u00e9  Syndrome: a systematic review. Physiother Can . 2016;68(4):367-376.  doi:10.3138/ptc.2015-58.  (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Vidhyadhari BSL, Madavi K. Influence of proprioceptive neuromuscular facilitation techniques on diaphragm muscle activity and pulmonary function in subjects with Guillain-Barre  Syndrome. Indian J Physiother Occup Ther . 2015;9(2):24-28.  doi:10.5958/0973-5674.2015.00047.7.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Zhang Y, Zhao Y, Wang Y. Prognostic factors of Guillain-Barr\u00e9  syndrome: a 111-case retrospective review. Chin Neurosurg J . 2018;4(14):1-9.  doi:10.1186/s41016-018-0122-y. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Guillain-Barre  Syndrome. Mayo Clinic website Web site. https://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/symptoms-causes/syc-20362793 . Published May 18, 2018. Accessed September 20, 2019. (GI)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Wijdicks EFM, Klein CJ. Guillain-Barr\u00e9  syndrome. Mayo Clin Proc . 2017;92(3):467-479.  doi:10.1016/j.mayocp.2016.12.002. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Rizwan T, Imtiaz HS, Sajid M. Effectiveness of chest shaking and postural drainage to prevent pulmonary complications in Guillan-Barre  syndrome. Int J Rehabil Sci . 2014;3(2):43. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Guillain-Barre  Syndrome. Physiopedia website Web site. https://www.physio-pedia.com/Guillain-Barre_Syndrome . Accessed September 30, 2019. (GI) "
+        }
+    ]
+}

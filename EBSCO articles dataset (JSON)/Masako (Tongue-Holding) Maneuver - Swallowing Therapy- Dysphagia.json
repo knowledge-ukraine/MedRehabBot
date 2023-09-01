@@ -1,0 +1,381 @@
+{
+    "metadata": {
+        "title": "Dysphagia  Swallowing Therapy \u2013 Swallow Maneuvers \u2013 an Overview",
+        "synonyms": [
+            "swallowing disorder  swallowing therapy \u2013 swallow maneuvers",
+            "deglutition disorder: swallowing therapy \u2013 swallow maneuvers",
+            "oral dysphagia: swallowing therapy \u2013 swallow maneuvers",
+            "pharyngeal dysphagia: swallowing therapy \u2013 swallow maneuvers",
+            " esophageal dysphagia: swallowing therapy \u2013 swallow maneuvers",
+            "difficulty swallowing: swallowing therapy \u2013 swallow maneuvers",
+            "dysphagia, oral: swallowing therapy \u2013 swallow maneuvers",
+            "dysphagia, pharyngeal: swallowing therapy \u2013 swallow maneuvers",
+            "dysphagia, esophageal: swallowing therapy \u2013 swallow maneuvers",
+            "swallowing difficulty: swallowing therapy \u2013 swallow maneuvers",
+            "swallow maneuvers \u2013swallowing therapy: dysphagia",
+            " mendelsohn maneuver \u2013 swallowing therapy: dysphagia",
+            "supraglottic swallow maneuver \u2013 swallowing therapy: dysphagia",
+            "super-supraglottic  maneuver \u2013 swallowing therapy: dysphagia",
+            "masako (tongue-holding)  maneuver \u2013 swallowing therapy: dysphagia",
+            " tongue-holding maneuver \u2013 swallowing therapy: dysphagia",
+            "effortful swallow maneuver \u2013swallowing therapy: dysphagia"
+        ],
+        "anatomical location body part affected": [
+            "Anatomy of swallowing, including the lips, tongue, buccal muscles, laryngeal structures, and pharyngeal structures"
+        ],
+        "area of specialty": [
+            "swallowing and swallowing disorders"
+        ],
+        "description": [
+            "Swallow maneuvers are a collection of actions that a patient can perform during swallowing in order to increase the safety, efficiency, or adequacy of the swallow; swallow maneuvers are taught to patients by trained speech-language pathologists (SLPs) during a course of dysphagia therapy(1)",
+            "Patients with significant cognitive deficits who are unable to follow the commands required to learn these maneuvers would be not appropriate candidates for swallowing maneuvers(2)",
+            "Swallowing maneuvers can be used in conjunction with other types of dysphagia therapy (i.e., direct, indirect, facilitative, compensatory)(1) \u2013For detailed information on swallowing therapy techniques, see the series of Clinical Reviews on this topic"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "R13.0": "aphagia; inability to swallow",
+            "R13.10": "dysphagia, unspecified",
+            "R13.11": "dysphagia, oral phase",
+            "R13.12": "dysphagia, oropharyngeal phase",
+            "R13.13": "dysphagia, pharyngeal phase",
+            "R13.14": "dysphagia, pharyngoesophageal phase",
+            "R13.19": "other dysphagia (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Swallowing G-code set": {
+                "G8996": "Swallowing functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G8997": "Swallowing functional limitation, projected goal status, at initial therapy treatment/outset and at discharge from therapy",
+                "G8998": "Swallowing functional limitation, discharge status, at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {
+            "code": "92526 treatment of swallowing dysfunction and/or oral function for feeding",
+            "description": ""
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition Indications for procedure"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "See full  Contraindications/precautions to examination   in Clinical Review\u2026Dysphagia Assessment: In-depth Bedside Swallow Examination (Adults) ; CINAHL Topic ID Number:T709037; Clinical Review\u2026Dysphagia Assessment: In-depth  Bedside Swallow Examination (Pediatrics) ; CINAHL Topic ID Number:T709064; Clinical Review\u2026Dysphagia Assessment: Modified Barium Swallow (Adults) ; CINAHL Topic ID Number:T709046; and Clinical Review\u2026Dysphagia Assessment: Modified Barium Swallow (Pediatrics) ; CINAHL Topic ID Number: T709077"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [
+        "Dysphagia Dysphagia is the term that refers to difficulty swallowing and/or a swallowing disorder(3,4) Complications of dysphagia include malnutrition, dehydration, aspiration and aspiration pneumonia, and death(3,5,6) There are two main types of dysphagia: oropharyngeal and esophageal(4) \u2013Oropharyngeal dysphagia  (4,7,8) -Dysphagia involving the oral and/or pharyngeal phase of swallowing -If the dysphagia affects the oral phase only it is referred to as oral dysphagia(9) -If the dysphagia affects the pharyngeal phase only it is referred to as pharyngeal dysphagia(9) -Dysphagia that affects both oral and pharyngeal phases of the swallow is referred to as oropharyngeal dysphagia(9) -Symptoms of oropharyngeal dysphagia include choking and/or coughing while eating and/or drinking, pocketing food in the cheeks, and loss of food or liquid from the mouth while attempting to swallow(3,7) -Oropharyngeal dysphagia is the type of dysphagia for which compensatory swallowing therapy techniques are appropriate \u2013Esophageal dysphagia  (4,7,8) -Dysphagia resulting from an impairment of the esophagus or lower esophageal sphincter  -Patients generally report symptoms such as regurgitation or heartburn(3,7,8) For detailed information on assessment and treatment of dysphagia, see the series of Clinical Reviews on this topic",
+        "Risk factors for dysphagia Cervical osteophytes (bony protuberances of the neck)(5) Ear, nose, throat, or maxillofacial surgery(10) Advanced age(7,9,11) (for detailed information on assessment and treatment of dysphagia in older adults, see Clinical Review\u2026Dysphagia in Older Adults ; CINAHL Topic ID Number:T708995) Head and neck cancer(4,5) (for detailed information on assessment and treatment of patients with head and neck cancer, see Clinical Review\u2026Dysphagia: Patients with Head and Neck Cancer ; CINAHL Topic ID Number:T709050) Infection(5) \u2013Botulism(5) \u2013Diphtheria(5) \u2013Lyme disease(5) \u2013Syphilis(5) Neurological disease(4,5,10) \u2013Amyotrophic lateral sclerosis (ALS)(5,9) (for detailed information on assessment and treatment of dysphagia in patients with ALS, see Clinical Review\u2026Dysphagia: Amyotrophic Lateral Sclerosis (ALS) ; CINAHL Topic ID Number:T708986) \u2013Brainstem tumor(5) \u2013Stroke(4,5,9,12) (for detailed information on assessment and treatment of dysphagia in patients with stroke, see Clinical Review\u2026Dysphagia: Post-Stroke ; CINAHL Topic ID Number:T708770) \u2013Dementia (for detailed information on assessment and treatment of dysphagia in patients with dementia, see Clinical Review\u2026Dysphagia: Dementia ; CINAHL Topic ID Number:T708935)(4) \u2013Dermatomyositis/polymyositis (connective tissue disease marked by inflammation of the skin and/or muscles)(5) \u2013Multiple sclerosis(4,5,9) (for detailed information on assessment and treatment of dysphagia in patients with multiple sclerosis, see Clinical Review\u2026Dysphagia: Multiple Sclerosis ; CINAHL Topic ID Number:T708991) \u2013Myasthenia gravis(5,9) (for detailed information on assessment and treatment of dysphagia in patients with myasthenia gravis, see Clinical Review\u2026Dysphagia: Myasthenia Gravis in Adults ; CINAHL Topic ID Number:T709053 or Clinical Review\u2026Dysphagia: Myasthenia Gravis in Children ; CINAHL Topic ID Number:T709054) \u2013Myotonic dystrophy(5) (for detailed information on assessment and treatment of dysphagia in patients with myotonic dystrophy, see Clinical Review\u2026Dysphagia: Myotonic Dystrophy in Adults ; CINAHL Topic ID Number:T709072 and Clinical Review\u2026 Dysphagia: Oculopharyngeal Muscular Dystrophy ; CINAHL Topic ID Number: T709071) \u2013Paraneoplastic syndrome(5) (collective signs and symptoms caused by material released from a tumor or in reaction to a tumor) \u2013Parkinson disease(4,5,9) (for detailed information on assessment and treatment of dysphagia in patients with Parkinson disease, see Clinical Review\u2026Dysphagia: Parkinson Disease ; CINAHL Topic ID Number:T708934) \u2013Postpolio syndrome (for detailed information on assessment and treatment of dysphagia in postpolio syndrome, seeClinical Review\u2026Dysphagia: Post-Polio Syndrome ; CINAHL Topic ID Number:T709062)(5) \u2013Sarcoidosis(5) (a disease that leads to inflammation of various organs) Traumatic brain injury (TBI)(5,9)(for detailed information on assessment and treatment of dysphagia after TBI, see Clinical Review\u2026Dysphagia: Traumatic Brain Injury in Adult Patients ; CINAHL Topic ID Number: T709012and Clinical Review\u2026Dysphagia: Traumatic Brain Injury in Pediatric Patients ; CINAHL Topic ID Number:T709008) Prior cervical or esophageal surgery(5,10) Prolonged endotracheal intubation(11,34) \u2013In a prospective study conducted in the United States with 270 trauma patients who had swallow evaluations post-extubation,  researchers found that 54% of these patients failed the swallow evaluation. Of these patients, 31 had dysphagia secondary to cognitive impairment and 113 had dysphagia secondary to oropharyngeal dysfunction. Of the 113 patients with oropharyngeal dysphagia, 37% were found to be silently aspirating. Analysis of the data indicated that the  strongest predictor of oropharyngeal dysphagia in these patients was number of days on the ventilator, with an odds ratio of 25% risk for each additional day on the ventilator(34) Zenker\u2019s diverticulum(5,9) (a pouch that forms at the junction of the pharynx and the esophagus)"
+    ],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {
+        "physician order must be obtained prior to evaluation and treatment of dysphagia": [],
+        "slps are required to have graduate, postgraduate, and or continuing education training specifically in dysphagia assessment and treatment in order to work with patients with dysphagia": [],
+        "because patients with dysphagia are at risk for aspiration and or penetration of oral intake, the patient and patient\u2019s family must be made aware of potential aspiration risks and educated about prevention strategies as appropriate": [],
+        "it is important to consider and respect the patient\u2019s and family\u2019s eating habits, food preferences, and cultural influences on eating during assessment and treatment of dysphagia. feeding practices and foods differ considerably across cultures;": [],
+        "see specific  contraindications precautions to examination   and  contraindications precautions   under assessment": []
+    },
+    "guidelines for use of procedure": {
+        "see treatment summary  under assessment plan of care , below": []
+    },
+    "examination": {
+        "contraindications precautions to examination": [
+            "See full  Contraindications/precautions to examination   in Clinical Review\u2026Dysphagia Assessment: In-depth Bedside Swallow Examination (Adults) ; CINAHL Topic ID Number:T709037; Clinical Review\u2026Dysphagia Assessment: In-depth  Bedside Swallow Examination (Pediatrics) ; CINAHL Topic ID Number:T709064; Clinical Review\u2026Dysphagia Assessment: Modified Barium Swallow (Adults) ; CINAHL Topic ID Number:T709046; and Clinical Review\u2026Dysphagia Assessment: Modified Barium Swallow (Pediatrics) ; CINAHL Topic ID Number: T709077"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Conduct an interview with the patient and/or family members to gather a detailed history of the symptoms and presentation of patient\u2019s dysphagia(12) -Does the patient have a diagnosis that places him or her at elevated risk for dysphagia?(12)",
+                "course of treatment": {
+                    "medical management": "Note current and previous medical management of diagnosis; do any medical treatments place patient at an elevated risk for dysphagia? Chemotherapy and radiation can result in xerostomia (dry mouth);(10) xerostomia is frequently associated with dysphagia(8,10) Current or previous ear, nose, throat, maxillofacial, cervical, or esophageal surgery/procedures are frequently associated with dysphagia(4,13)",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken? The concurrent use of multiple medications is common among older adults who have complex medical conditions, and the side effects of these medications can adversely affect cognitive functioning(14) Medication-induced  dysphagia can occur even if dysphagia is not specifically listed as a possible side effect(15) Medications that reduce a patient\u2019s alertness and awareness increase the risk of dysphagia(15) Drug interactions can cause xerostomia(15) Contact a pharmacist or physician regarding questions about side effects.(14) For detailed information aboutMedication-related ; CINAHL Topic ID Number T903434 ",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition include the following:",
+                        "Clinical swallow examination (CSE)",
+                        "Chest X-ray",
+                        "Fiberoptic endoscopic evaluation of swallowing (FEES)",
+                        "Modified barium swallow (MBS) study/videofluoroscopic swallow study (VFSS)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help Occasionally patients and family members develop their own strategies for managing dysphagia (such as using gravies with all meats or chopping up food into very small pieces) Patients with a previous history of dysphagia might already be using an altered diet prior to admission(16) Ask patient and/or caregiver what types of food or drink the patient prefers and/or avoids at home(16)",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)(17) -with specific foods? -with specific meals? -only halfway through the meal? -when he or she is distracted or having a meal with a group of people?(6)",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms -For patients who complain of difficulty swallowing, what exactly is the problem with swallowing? -Does food stick in the throat?(8) -Does the patient cough and/or choke while eating or drinking? -Is there pain associated with swallowing?",
+                "rating of symptoms": "",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables -When did the symptoms of dysphagia first present?(18) -How frequently does the patient experience symptoms of dysphagia?(18)",
+                "sleep disturbance": "Does difficulty swallowing saliva and/or secretions interfere with patient\u2019s ability to sleep? Xerostomia can also negatively impact a patient\u2019s ability to sleep -Document number of wakings/night",
+                "other symptoms": "",
+                "respiratory status": "Patients with a compromised respiratory status are at higher risk of complications (such as aspiration pneumonia) due to dysphagia(16,17) -Does the patient require supplemental oxygen? Nasal cannula?(13) -Does the patient have a tracheostomy tube?(13) (For detailed information on dysphagia in patients with tracheostomyAdults with Tracheostomy ; CINAHL Topic ID NumberChildren with Tracheostomy ; CINAHL Topic ID Number -When the patient has an uncapped tracheostomy tube, subglottic pressure is reduced and the strength of the swallow is altered(17) -Does the patient require ventilator support? -Patients who require ventilator support are at elevated risk for aspiration during swallowing(17) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have a past history of oropharyngeal dysphagia?(17) Does the patient have a past history of any illness or condition that puts him or her at risk for dysphagia?",
+                    "comorbid diagnoses": "Ask the patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders ",
+                    "medications previously prescribed": "",
+                    "other symptoms": "Ask the patient about other symptoms he or she is experiencing (e.g., gastroesophageal reflux, cough, weakness, weight loss)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Does the patient use adaptive feeding devices? -Does the patient require use of a communication device? -Does the patient require hearing aids? If so, are the hearing aids in good working order? -Does the patient wear glasses? -Does the patient require a wheelchair for mobility? Does the patient require a cane or walker?",
+                "living environment": " Living environment -With whom does the patient live (e.g., family members, caregivers)?(13) -Patients who benefit from swallowing maneuvers in dysphagia therapy often require assistance from a family member or caregiver during meals for postures and/or alterations of food presentation -Is the patient receiving nutritional supplements orally or nonorally?(17) -Is there a feeding tube present?(13,17) -Does the patient require feeding assistance at home?(6,13)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Is the patient able to maintain adequate sitting posture for feeding trials? \u2013Patients should be able to maintain upright positioning of the head and trunk while feeding \u2013If the patient does not have adequate strength or muscle tone to maintain upright or alternative postures, refer to physical and occupational therapy for muscle strengthening and adaptive positioning equipment",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "A full oral mechanism examination should be completed prior to beginning dysphagia therapy \u2013Examination should include lips, buccal muscles, tongue, teeth, mandible, and hard/soft palates \u2013Specifically note the status of the patient\u2019s dentition and oral hygiene -Is the patient able to complete adequate oral care? If the patient is unable to complete oral care and maintain adequate oral hygiene independently, does he or she have a caregiver that provides this type of cleaning? Poor oral care and poor oral hygiene increase the risk of aspiration pneumonia, especially in older adults who live in long-term care facilities(35) \u2013Note vocal quality and any abnormal vocal parameters (e.g., abnormally low pitch, inhalatory stridor) -In a research study conducted in the United States, researchers found that perceptual evaluation of vocal pitch elevation (i.e., the subject\u2019s ability to raise the pitch of his or her voice on a sustained vowel) was related to the subject\u2019s Penetration-Aspiration  Scale score; individuals who demonstrated an inability to elevate vocal pitch were more likely to aspirate on a VFSS(30)",
+            "perception": "",
+            "arousal attention cognition": "Briefly assess patient\u2019s cognition \u2013Patient should be able to maintain arousal and follow some type of directions (verbal or nonverbal) in order to learn and perform swallow maneuvers(2) \u2013The Mini-Mental  State Examination (MMSE) is an appropriate assessment tool to screen for arousal, attention, and other cognitive deficits -The MMSE assesses overall cognitive impairment; sections include Orientation to Time, Orientation to Place, Registration, Attention and Calculation, Recall, Naming, Repetition, Comprehension, Reading, Writing, and Drawing(19) -If language or cognitive deficits are evident on the screening measure, patient may be appropriate for a complete language and cognitive evaluation",
+            "aac assessment": "",
+            "swallow examination": "Prior to beginning dysphagia therapy with swallowing maneuvers, it is necessary to completely \u2013Initial swallowing evaluation through an in-depth  CSE (for detailed information regarding CSE, see Clinical Review\u2026In-depth  Bedside Swallow Examination (Adults)  and Clinical Review\u2026Dysphagia Assessment In-depth  Bedside Swallow Examination (Pediatrics) , referenced above Clinical judgment as well as observation of these maneuvers during an instrumental examination of swallowing should be utilized to determine the best possible treatment plan for each patient.(20) Not all patients should be treated with the same maneuver and/or combination of maneuvers. Maneuvers should be documented as effective and/or potentially effective at improving swallowing function and/or eliminating/ reducing aspiration and penetration in an instrumental examination of swallowing prior to including the maneuver in aFiberoptic EndoscopicT709038)Manometry ;T709040)ModifiedModified Barium Swallow (Pediatrics) , referenced above -Functional Oral Intake Scale (FOIS)(11,21) -7-point  ordinal scale -Scored according to the patient\u2019s (or caregiver\u2019s) report of which foods/liquids are ingested safely on a regular basis -Strong reliability and validity in stroke population(21)(11)NPO (nothing by mouth)Tube dependent with minimal attempts of food and liquids by mouthTube dependent with consistent oral intake of food and liquidsTotal oral diet of a single consistencyTotal oral diet with multiple consistencies; requires special preparation or compensationsTotal oral diet with multiple consistencies; no special preparation; however, specific food limitationsTotal oral diet with multiple consistencies; no restrictions",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve. For detailed information on assessment of patients with tracheostomies, see ClinicalChildren with Tracheostomy and Clinical Review\u2026Dysphagia referenced above. For detailed information on assessment of a tracheostomy tube and use of a speaking valve, see ClinicalT708919"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis might be at increased risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Patients with dysphagia are at risk for aspiration and penetration of oral intake. Ensure that the patient and family/ caregivers are aware of the potential for aspiration and are educated about prevention strategies when appropriate",
+                "The prolonged intentional closure of the vocal folds during the supraglottic and super-supraglottic  swallowing maneuvers can create the Valsalva maneuver (forceful breath-hold  with increased intrathoracic pressure [i.e., bearing down]; during the maneuver, venous return to the heart is decreased and peripheral venous pressures are increased). The Valsalva maneuver has been associated with sudden cardiac death and cardiac arrhythmias and might be contraindicated for patients with a history of stroke or coronary artery disease.(36) Obtain physician order prior to trials of or treatment with either maneuver to maintain patient safety",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Following a thorough evaluation of the patient\u2019s swallowing function, the SLP will make a statement regarding the type and severity of dysphagia (if present); when swallowing maneuvers appear to benefit the  patient\u2019s swallowing function and/or safety, the SLP will include these maneuvers as part of the plan of care for dysphagia therapy",
+        "rule out": "",
+        "prognosis": [
+            "Better outcomes of swallowing therapy are associated with improved adherence to therapy plan and higher levels of patient self-efficacy.(38) Self-efficacy  is an individual\u2019s belief that he or she has the capacity to achieve a certain goal (i.e., high self-efficacy  means that the patient believes that he or she has the ability to improve swallowing function; low self-efficacy means that the patient believes improvement is out of his or her control). The SLP can improve adherence to therapy plan and self-efficacy  by providing detailed education about swallowing therapy and the specific maneuvers that have been prescribed as well as creating an action plan to communicate to both patient and caregiver information about dysphagia therapy(38)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Referral to gastroenterologist for patients in whom esophageal dysphagia is suspected(12,22) Referral to neurologist for patients with dysphagia who do not have a known underlying diagnosis(12) Referral to pulmonologist for patients who appear to have poor respiratory status and/or function(12) Referral to otolaryngologist for patients who present with apparent vocal fold dysfunction(22) Referral to nutrition services/dietician for patients with poor per oral intake or those at risk for malnutrition(12,17) Referral to physical and/or occupational therapy for patients with poor posture, difficulty sitting up in the bed or chair, or difficulty feeding themselves(12)",
+        "other considerations": [],
+        "treatment summary": [
+            "Masako maneuver (tongue-holding  maneuver) \u2013A maneuver intended to increase posterior pharyngeal wall contraction resulting in improved contact between pharyngeal wall and base of tongue during the swallow, allowing for improved clearance of residue from the pharynx(24) \u2013This maneuver is accomplished by having the patient maximally protrude the tongue and asking him or her to hold the tongue between the teeth (central incisors) while swallowing(24) -The retraction of the base of tongue is restricted, causing increased bulging and stretching of the posterior pharyngeal wall during swallowing(24) \u2013Tongue-holding  swallow maneuver appeared to increase the pressure between the tongue base and pharyngeal wall in a case study involving 3 patients with head and neck cancer and dysphagia (versus a nonmaneuver swallow)(25) -Might result in reduced residue along the upper pharyngeal wall(25) \u2013In a research study conducted in the United States, 10 healthy males aged 19\u201326  years with no history of dysphagia were trained to perform this maneuver(24) -Patients were given 3-mL  boluses of barium liquid and asked to swallow 6 times; 3 times with the Masako maneuver and 3 times without the maneuver -Videofluoroscopic swallow images were taken of all 6 swallows and compared -In these healthy adult subjects, there was shown to be a significant increase in the amount of anterior bulge of the posterior pharyngeal wall when the subjects were performing the Masako maneuver -The anterior bulge of the posterior pharyngeal wall during swallowing was significantly greater with the Masako maneuver at mid and inferior C2 level of the spine \u2013For detailed information on the Masako maneuver, see Clinical Review\u2026Swallowing Therapy: Masako Maneuver ; CINAHL Topic ID Number: T709211",
+            "Effortful swallow maneuver \u2013A maneuver in which the patient is instructed to exert increased pressure during the swallow; patient can be cued to visualize himself or herself swallowing a larger or \u201charder\u201d bolus, such as a rock(1,26)  \u2013According to the authors of an evidence-based  systematic review examining the effect of the effortful swallow maneuver on nondisordered swallowing in healthy volunteers, the instructions for how to perform an effortful swallow vary widely between studies(27) -The authors of this evidence-based  systematic review examined the effect of the effortful swallow maneuver on nondisordered swallowing in healthy volunteers -The original goal of the effortful swallow was to maximize base of tongue retraction and improve bolus clearance in the valleculae -The studies included in the review revealed that the physiological effects of the effortful swallow appear to be variable; additionally, disagreement was noted between some of the studies -According to most of the studies reviewed, in healthy adults with nondisordered swallowing, the effortful swallow appears to increase lingual and pharyngeal pressure and decrease upper esophageal sphincter (UES) relaxation pressure during the act of swallowing -The results of 1 study; however, did not indicate a significant change in the pressures during the effortful swallow -Analyses of structural displacement during the effortful swallow also seemed ambiguous, with some studies measuring increased hyoid movement and others decreased hyoid movement -Researchers measured submental muscle activation via surface electromyography (sEMG) during the effortful swallow and found increased activation of these muscles during the maneuver -Further research is indicated to determine the full extent of the effects of the effortful swallow on nondisordered swallowing \u2013In an evidence-based  systematic review, authors examined the impact of the effortful swallow in patients with head and neck cancer and found that physiologically, the effortful swallow appeared to increase pressure between the base of tongue and the posterior pharyngeal wall during the maneuver(28) -For 3 participants among the studies included in the review, the effortful swallow maneuver resulted in pressures between base of tongue and posterior pharyngeal wall close to those measured in nondisordered swallows -Authors of the review concluded that the effortful swallow maneuver might be the most helpful for head and neck cancer patients with reduced base of tongue to pharyngeal wall contact due to the effects of cancer, radiation, chemotherapy, and/or surgery \u2013For detailed information on the effortful swallow, see Clinical Review\u2026Swallowing Therapy: Effortful Swallow ; CINAHL Topic ID Number: T709212",
+            "Mendelsohn maneuver \u2013A maneuver that is intended to increase the duration of time that the larynx is elevated and pulled forward during a swallow, thereby allowing for increased clearance of the pharyngeal cavity and increased opening of the UES(1,29) \u2013The patient is instructed to begin to swallow and \u201chold\u201d his or her swallow halfway through at the point of maximal laryngeal elevation -Correct implementation of the Mendelsohn maneuver requires the patient to maintain hyolaryngeal elevation for at least 2 seconds(27) -Some researchers utilized sEMG as a means of biofeedback to train participants to correctly perform the Mendelsohn maneuver(2,28) \u2013In a research study conducted in the United States, researchers examined the effect of the Mendelsohn maneuver on normal swallowing physiology(29) -Researchers took concurrent videofluoroscopic and manometric studies of swallowing in 8 healthy male volunteers aged 22\u201328  without any history of dysphagia -Measurements were taken of the UES opening, swallow-related  hyoid movement, laryngeal elevation, and bolus preparation with 3 1-mL  boluses of barium and 3 10-mL  boluses of barium during normal swallows and during swallows in which the Mendelsohn maneuver was performed -The results of the study indicated that healthy volunteers were able to alter their swallowing mechanism by using the Mendelsohn maneuver -The use of the Mendelsohn maneuver resulted in a slight prolongation in the duration of UES opening and a significant increase in laryngeal and hyoid movement during the swallows -The use of the Mendelsohn maneuver did not appear to alter the pressure inside the pharyngeal cavity \u2013Authors of an evidence-based  systematic review of the literature found that the Mendelsohn maneuver was examined in a case series, quasi-experimental  study with patients who had experienced a stroke(2)  -The effect and performance of the maneuver was monitored via sEMG for an average of 12 out of 32 sessions(2) -Prior to treatment with Mendelsohn maneuver, 20/25 patients (80%) depended on nonoral nutrition; following treatment, 11 of the 20 patients who had previously required nonoral nutrition had progressed to total oral feeding(2) -When this study group was compared to a group of participants with head and neck cancer who were trained to use the Mendelsohn maneuver, the researchers determined that stroke patients were more likely than patients in whom head and neck cancer had been diagnosed to achieve functional improvements of swallowing ability following treatment regimen with the Mendelsohn maneuver(2) \u2013Authors of an evidence-based  systematic review discussed the effect of the Mendelsohn maneuver on nondisordered swallowing in healthy volunteers(27) -Three studies were included in the review -Overall, the durations and amplitudes of pressure, displacements, and muscle activity increased during the proper execution of the Mendelsohn maneuver -The review determined that the Mendelsohn maneuver clearly alters physiological aspects of the swallow (including airway protection and muscle activation), which improves swallowing safety, efficiency, and adequacy \u2013Authors of an evidence-based  systematic review discussed the effect of the Mendelsohn maneuver on patients with dysphagia as a result of head and neck cancer(28) -Three studies were included in the review, reporting outcomes for 24 patients -The studies consistently documented increased laryngeal elevation, increased base of tongue to posterior wall contact duration, and reduced aspiration during swallows with the Mendelsohn maneuver -The authors of the systematic review concluded that the Mendelsohn maneuver was an effective treatment method that produced the best results for returning patients with head and neck cancer to oral feedings \u2013In a study conducted in the United States, researchers found that intensive use of the Mendelsohn maneuver as a swallowing rehabilitation exercise resulted in increased duration of hyoid movement and UES opening(31) -Included 18 adult (21+) participants who had dysphagia resulting from stroke -Participants were randomized to group A or B; group A received 2 weeks of treatment followed by 2 weeks of no treatment and group B had 2 weeks of no treatment followed by 2 weeks of treatment -During treatment, participants received 45 minutes to an hour of therapy twice a day with 2 to 3 hours between each session -In the therapy, the participants were taught the Mendelsohn maneuver and learned to perfect it with coaching and correcting; surface EMG was used to provide biofeedback so the participants knew when they were using sufficient strength in the laryngeal muscles -Goal was 40 swallows per session; in all sessions participants completed at least 30 swallows -VFSSs were taken at baseline and 1 week after the treatment portion of the intervention -The duration of opening of the UES, hyoid maximum anterior excursion, and hyoid maximum elevation were measured pre and post treatment; the mean duration of all of the above was greater post treatment but did not reach statistical significance in this study \u2013The Mendelsohn maneuver also appeared to increase the pressure between the tongue base and pharyngeal wall in a case study involving 3 head and neck cancer patients with dysphagia (versus a nonmaneuver swallow)(25) -Might result in reduced residue along the upper pharyngeal wall(25) \u2013For detailed information on the Mendelsohn maneuver, see Clinical Review\u2026Swallowing Therapy: Mendelsohn Maneuver ; CINAHL Topic ID Number: T709213",
+            "Supraglottic swallow/super-supraglottic  swallow \u2013Techniques that require the patient to hold his or her breath during the swallow(1,26) \u2013The goal of the supraglottic and super-supraglottic  swallow techniques is to increase or maintain adduction of the vocal folds during the swallow to protect the airway(1,26) -The results of an evidence-based  systematic review of the literature indicated that the supraglottic swallow maneuver closes the vocal folds earlier in the swallow than during a nonmaneuver swallow and simultaneously prolongs hyolaryngeal excursion in healthy test subjects with nondisordered swallowing(27) \u2013The supraglottic swallow maneuver consists of the following steps:(1,26) -The patient holds his or her breath prior to taking a sip of liquid/bite of food  -Immediately following the completion of the swallow, the patient coughs or forcefully exhales (to expel any material that may have penetrated to the vocal folds) -The patient re-swallows  following the cough -Authors of an evidence-based  systematic review of the literature noted one study that examined the effect of the supraglottic swallow maneuver in 12 participants with Parkinson disease; only 1 patient was able to learn the maneuver and subsequently eliminate aspiration during the swallow(2) -Patients with significant neurological or cognitive deficits may have difficulty correctly executing the supraglottic swallow maneuver(2) -Authors of an evidence-based  systematic review of the literature found only one case study examining the effects of a supraglottic swallow maneuver in the head and neck cancer population with no functional changes noted in the patient\u2019s swallow(28) \u2013The super-supraglottic  swallow maneuver is comprised of the same steps as the supraglottic swallow; however, the super-supraglottic  swallow maneuver includes the additional step of bearing down during the breath hold (i.e., an effortful breath hold) to increase forward movement of the arytenoids and retraction of the tongue base(1,26,27) -The authors of an evidence-based  systematic review of the literature reported that, in healthy test subjects with nondisordered swallowing, the super-supraglottic  swallow maneuver increases the UES relaxation pressure and the duration of hyolaryngeal excursion; additionally, the maneuver appears to decrease the time between UES opening and the onset of hyoid movement and the time between UES opening and the onset of vocal fold adduction/laryngeal closure (resulting in airway protection earlier in the sequence of swallowing)(27) \u2013For detailed information on the supraglottic swallow and super-supraglottic  swallow maneuvers, see Clinical Review\u2026 Swallowing Therapy: Supraglottic Swallow/Super-Supraglottic  Swallow ; CINAHL Topic ID Number: T709214 . Problem Goal Intervention Expected Progression Home Program Reduced tongue base retraction _ _ Reduced base of tongue to pharyngeal wall contact during the swallowImprove the clearance of the valleculae during swallowingMasako maneuver _ Provide trials of food and liquid as necessary while training the patient to utilize the Masako maneuver _ Effortful swallow Provide trials of food and liquid while training the patient to utilize the effortful swallow _ _Progression of therapeutic tasks and consistency of foods and liquids will vary with respect to the ability and goals of the patientHome program will vary with respect to the goals of the patient; SLP may instruct patient to utilize appropriate maneuvers with trials and/or meals at home  Reduced airway protection during the swallow _ _ Slowed airway protection during the swallowImprove the protection of the airway entrance during the swallow; to prevent aspiration during the swallowSupraglottic swallow maneuver _ Provide trials of food and liquid while training the patient to utilize the supraglottic swallow maneuver _ _ Super-supraglottic swallow maneuver _ Provide trials of food and liquid while training the patient to utilize the super- supraglottic swallow maneuver _ _ See Treatment summary , aboveProgression of therapeutic tasks and consistency of foods and liquids will vary with respect to the ability and goals of the patientHome program will vary with respect to the goals of the patient; SLP may instruct patient to use supraglottic and/or super-supraglottic swallow maneuvers with trials of specific consistencies of food/ liquid at home with family or caregiver Reduced opening of the UESIncrease the opening of the UES during swallowing; to reduce residue in the pharyngeal cavity/ pyriform sinusesMendelsohn maneuver _ Provide trials of food and liquid while training the patient to utilize the Mendelsohn maneuver _ _ See Treatment summary , aboveProgression of therapeutic tasks and consistency of foods and liquids will vary with respect to the ability and goals of the patientHome program will vary according to the goals of the patient; SLP may instruct patient to use Mendelsohn maneuver with trials of specific consistencies of food/ liquid at home with family or caregiver  Reduced posterior pharyngeal wall contractionIncrease the anterior movement of the posterior pharyngeal wall during swallowingMasako maneuver _ Trials of food and liquid can be provided while training the patient to utilize the Masako maneuver _ _ Masako maneuver can also be utilized without food/liquid trials as an exercise as part of a patient\u2019s dysphagia treatment regimen to improve posterior pharyngeal wall strength(26) _ _ See Treatment summary , aboveProgression of therapeutic tasks and consistency of foods and liquids will vary with respect to the ability and goals of the patientHome program will vary according to the goals of the patient; SLP may instruct patient to use Masako maneuver with trials of specific consistencies of food/liquid at home with family or caregiver Reduced laryngeal elevationIncrease laryngeal elevation during swallowingMendelsohn maneuver _ Provide trials of food and liquid while training the patient to utilize the Mendelsohn maneuver _ _ See Treatment summary , aboveProgression of therapeutic tasks and consistency of foods and liquids will vary with respect to the ability and goals of the patientHome program will vary according to the goals of the patient; SLP may instruct patient to use Mendelsohn maneuver with trials of specific consistencies of food/ liquid at home with family or caregiver ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved swallowing function": [
+            "FEES",
+            "FOIS(11)",
+            "CSE",
+            "Manometry",
+            "MBS/VFSS"
+        ],
+        "ability to perform prescribed swallow maneuver correctly and independently": [
+            "FEES",
+            "MBS/VFSS"
+        ],
+        "reduction or elimination of aspiration during swallowing": [
+            "FEES",
+            "MBS/VFSS"
+        ],
+        "reduction or elimination of aspiration pneumonia": [
+            "Chest X-rays",
+            "Presence/frequency of chest infections"
+        ],
+        "improved oral intake and nutrition": [],
+        "improved management of secretions": [],
+        "improved quality of life": [
+            "SWAL-QOL:  An outcome measure that includes patient self-ratings  of quality of life due to swallowing and eatingability(37)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Home maintenance programs for dysphagia therapy patients will be determined by the treating SLP",
+        "Oral care is an extremely important component of any treatment program for a patient with dysphagia. Education about the importance of maintaining good oral hygiene in order to prevent pneumonia should be included as part of a treatment program for all patients with dysphagia and their caregivers/medical treatment team. In a study conducted in Denmark, researchers found that, combined with early identification of dysphagia, aggressive oral hygiene resulted in significantly fewer incidences of X-ray-verified  pneumonia as compared with historical and external control groups(33)"
+    ],
+    "patient education": [
+        "Information about dysphagia is available for patients and family members on the website of the American Speech-Language-Hearing  Association (ASHA) at http://www.asha.org/public/speech/swallowing/ Note",
+        "Note: Recent review of the literature has found no updated research evidence on this topic since previous publication on April 14, 2017 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Poertner LC, Coleman RF. Swallowing therapy in adults. Otolaryngol Clin North Am . 1998;31(3):561-579.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Ashford J, McCabe D, Wheeler-Hegland  K, et al. Evidence-based  systematic review: oropharyngeal dysphagia behavioral treatments. Part III \u2013 impact of dysphagia treatments on populations with neurological disorders. J Rehabil Res Dev . 2009;46(2):195-204.  (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Nazarko L. Nutrition part 5: dysphagia. Br J Healthc Assist . 2009;3(5):228-232.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Krishnan K, Pandolfino JE. Dysphagia and esophageal obstruction. In: Bope ET, Kellerman RD, eds. Conn's Current Therapy 2017 . Philadelphia, PA: Saunders Elsevier; 2017:196-201.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "White GN, O'Rourke F, Ong BS, Cordato DJ, Chan DK. Dysphagia: causes, assessment, treatment, and management. Geriatrics . 2008;63(5):15-20.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Ginocchio D, Borghi E, Schindler A. Dysphagia assessment in the elderly. Nutr Ther Metab . 2009;27(1):9-15.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Robbins J, Kays S, McCallum S. Team management of dysphagia in the institutional setting. J Nutr Elder . 2007;26(3-4):59-104.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Cook IJ. Oropharyngeal dysphagia. Gastroenterol Clin North Am . 2009;38(3):411-431.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Edelman DA, Sheehy-Deardorff  DA, White MT. Bedside assessment of swallowing is predictive of an abnormal barium swallow examination. J Burn Care Res . 2008;29(1):89-96.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Baumgartner CA, Bewyer E, Bruner D. Management of communication and swallowing in intensive care: the role of the speech pathologist. AACN Adv Crit Care . 2008;19(4):433-443.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Permsirivanich W, Tipchatyotin S, Wongchai M, et al. Comparing the effects of rehabilitation swallowing therapy vs. neuromuscular electrical stimulation therapy among stroke patients with persistent pharyngeal dysphagia: a randomized controlled study. J Med Assoc Thai . 2009;92(2):259-265.  (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Logemann JA. Swallowing disorders. Best Pract Res Clin Gastroenterol . 2007;21(4):563-573.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Ricci Maccarini A, Filippini A, Padovani D, Limarzi M, Loffredo M, Casolino D. Clinical non-instrumental  evaluation of dysphagia. Acta Otorhinolaryngol Ital . 2007;27(6):299-305. (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "American Speech-Language-Hearing  Association. Practice Portal: Dementia. http://www.asha.org/Practice-Portal/Clinical-Topics/Dementia/ . Accessed September 6, 2018. (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Gallagher L. The impact of prescribed medication on swallowing an overview. Perspect Swallowing Swallowing Disord (Dysphagia) . 2010;19(4):98-102.  (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Cichero JA, Heaton S, Bassett L. Triaging dysphagia: nurse screening for dysphagia in an acute hospital. J Clin Nurs . 2009;18(11):1649-1659.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Avery W. Dysphagia. In: Radomski MV, Trombly Latham CA, eds. Occupational Therapy for Physical Dysfunction . 7th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2014:1327-1351.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Carnaby-Mann  G, Lenius K. The bedside examination in dysphagia. Phys Med Rehabil Clin N Am . 2008;19(4):747-768,  viii. (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-mental  state\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Wheeler-Hegland  K, Frymark T, Schooling T. Evidence-based  systematic review: oropharyngeal dysphagia behavioral treatments. Part V - applications for clinicians and researchers. J Rehabil Res Dev . 2009;46(2):215-222.  (SR)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Crary MA, Mann GD, Groher ME. Initial psychometric assessment of a functional oral intake scale for dysphagia in stroke patients. Arch Phys Med Rehabil . 2005;86(8):1516-1520.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Pettigrew CM, O'Toole C. Dysphagia evaluation practices of speech and language therapists in Ireland: clinical assessment and instrumental examination decision-making. Dysphagia . 2007;22(3):235-244.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Shanahan TK, Logemann JA, Rademaker AW, Pauloski BR, Kahrilas PJ. Chin-down  posture effect on aspiration in dysphagic patients. Arch Phys Med Rehabil . 1993;74(7):736-739.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Fujiu M, Logemann JA. Effect of a tongue-holding  maneuver on posterior pharyngeal wall movement during deglutition. Am J Speech Lang Pathol . 1996;5(1):23-30.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Lazarus C, Logemann JA, Song CW, Rademaker AW, Kahrilas PJ. Effects of voluntary maneuvers on tongue base function for swallowing. Folia Phoniatr Logop . 2002;54(4):171-176.  (C)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Logemann JA. In: Evaluation and Treatment of Swallowing Disorders . 2nd ed. Austin, TX: Pro-Ed; 1998:135-189.  (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Wheeler-Hegland  K, Ashford J, Frymark T. Evidence-based  systematic review: oropharyngeal dysphagia behavioral treatments. Part II - impact of dysphagia treatment on normal swallow function. J Rehabil Res Dev . 2009;46(2):185-194.  (SR)"
+        },
+        {
+            "number in article": 28,
+            "reference": "McCabe D, Ashford J, Wheeler-Hegland  K, et al. Evidence-based  systematic review: oropharyngeal dysphagia behavioral treatments. Part IV \u2013 impact of dysphagia treatment on individuals' postcancer treatments. J Rehabil Res Dev . 2009;46(2):205-214.  (SR)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Kahrilas PJ, Logemann JA, Krugler C, Flanagan E. Volitional augmentation of upper esophageal sphincter opening during swallowing. Am J Physiol . 1991;260(3 pt 1):G450-G456.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Malandraki GA, Hind JA, Gangnon R, Logemann JA, Robbins J. The utility of pitch elevation in the evaluation of oropharyngeal dysphagia: preliminary findings. Am J Speech Lang Pathol . 2011;20(4):262-268.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "McCullough GH, Kamarunas E, Mann GC, Schmidley JW, Robbins JA, Crary MA. Effects of Mendelsohn maneuver on measures of swallowing duration post stroke. Top Stroke Rehabil . 2012;19(3):234-243.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Koidou I, Kollias N, Sdravou K, Grouios G. Dysphagia: a short review of the current state. Educ Gerontol . 2013;39(11):812-827.  doi:10.1080/03601277.2013.766518. (RV)"
+        },
+        {
+            "number in article": 33,
+            "reference": "S\u00f8rensen RT, Rasmussen RS, Overgaard K, Lerche A, Johansen AM, Lindhardt T. Dysphagia screening and intensified oral hygiene reduce pneumonia after stroke. J Neurosci Nurs . June 2013;45(3):139-146.  doi:10.1097/JNN.0b013e31828a412c. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Kwok AM, Davis JW, Cagle KM, Sue LP, Kaups KL. Post-extubation  dysphagia in trauma patients: it's hard to swallow. Am J Surg . December 2013;206(6):924-927;  discussion 927-8. doi:10.1016/j.amjsurg.2013.08.010. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "McCullough GH, McCullough KC. Clinical evaluation of swallowing function for institutionalized elderly: Balancing the scales for safety and quality of life. J Legal Nurse Consult . 2014;25(2):12-17.  (RV)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Chaudhuri G, Hildner CD, Brady S, Hutchins B, Aliga N, Abadilla E. Cardiovascular effects of the supraglottic and super-supraglottic  swallowing maneuvers in stroke patients with dysphagia. Dysphagia . 2002;17(1):19-23.  (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "McHorney CA, Bricker DE, Kramer AE, et al. The SWAL-QOL  outcomes tool for oropharyngeal dysphagia in adults: I. Conceptual foundation and item development. Dysphagia . 2000;15(3):115-121.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Rogus-Pulia  N, Hind J. Patient-centered  dysphagia therapy \u2013 the critical impact of self-efficacy.  Perspect Swallowing Swallowing Disord (Dysphagia) . 2015;24:146-154. doi:10.1044/sasd24.4.146. (X)"
+        }
+    ]
+}

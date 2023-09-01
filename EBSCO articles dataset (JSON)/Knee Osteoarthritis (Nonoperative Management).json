@@ -1,0 +1,519 @@
+{
+    "metadata": {
+        "title": "Osteoarthritis, Knee (Nonoperative Management)",
+        "synonyms": [
+            "knee osteoarthrosis (nonoperative management)",
+            "knee osteoarthritis (nonoperative management)",
+            "osteoarthrosis, knee (nonoperative management)"
+        ],
+        "anatomical location body part affected": [
+            "Articular cartilage of knee joint; medial, lateral, or patellofemoral knee compartments, medial compartment more often affected than lateral(1)"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "home health"
+        ],
+        "description": [
+            "Knee osteoarthritis (OA) is characterized by slow degeneration of intraarticular cartilage that progresses to involve subchondral synovium and bone. The development of chronic pain and joint stiffness interfere with ADLs and reduce health-related  quality of life (HRQoL)(8)",
+            "Many patients and healthcare providers accept the pain and disability of knee OA as inevitable consequences of a progressive disease that eventually will require joint replacement. However, knee joint injury associated with obesity and impaired muscle function is amenable to secondary prevention strategies and rehabilitation.(15) In clinical guidelines, the most strongly recommended nondrug, nonoperative interventions for knee or hip OA are exercise and weight loss(16)",
+            "Authors of a 2015 Cochrane review found high-quality  evidence from 44 trials (N = 3,537 participants with knee OA) that land-based exercise training reduced pain significantly and improved physical function to a moderate degree(17)",
+            "This Clinical Review focuses on nonoperative treatment strategies specifically for OA of the knee. See  Clinical Review ... Knee Pain: Unspecified Site -- Conservative Management  ; CINAHL Topic ID Number: T709121 for cases that involve knee pain not due to OA"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M17": "gonarthrosis [arthrosis of knee]",
+            "M17.0": "primary gonarthrosis, bilateral",
+            "M17.1": "other primary gonarthrosis",
+            "M17.2": "post-traumatic gonarthrosis, bilateral",
+            "M17.3": "other post-traumatic gonarthrosis",
+            "M17.4": "other secondary gonarthrosis, bilateral",
+            "M17.5": "other secondary gonarthrosis",
+            "M17.9": "gonarthrosis, unspecified (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified for OA of the knee. Reimbursement will depend on individual insurance coverage"
+        ],
+        "presentation signs and symptoms": [
+            "Persistent knee pain that typically decreases or resolves with rest and increases with ROM(8) ",
+            "Morning knee stiffness; joint stiffness often follows inactivity, especially if knee is kept flexed as in sitting for a prolonged period(1)",
+            "Joint tenderness(8)",
+            "Joint swelling(8)",
+            "Deep ache triggered or aggravated by weight-bearing  activity (walking, stair-climbing)",
+            "Joint crepitus",
+            "Postural deformities, such as knee valgus or varus(8)",
+            "Difficulty with squatting or kneeling due to knee pain and weakness",
+            "Occasional \u201cgiving-way\u201d  when stepping down or during other activities due to pain-related  muscle inhibition",
+            "Knee malalignment resulting from progressive joint degeneration and laxity",
+            "Gait abnormalities: likely secondary to pain, weakness, and reduced flexibility Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:": [
+            "Degeneration of articular cartilage, associated with(3)\u2013knee damage resulting from direct trauma\u2013knee microtrauma : \u201cwearandtear\u201d due to repetitive physical stress (e.g., obesity, work-related,  malalignment)\u2013Charcot joint\u2013prior inflammatory or septic arthritis of the knee\u2013congenital abnormalities of knee joint\u2013pathological disorders: endocrine, metabolic, neuropathic\u2013avascular necrosis\u2013Paget\u2019s disease",
+            "Familial predisposition: genetic risk factors are unclear, but twins with OA share increased risk(8)",
+            "Sedentary lifestyle may reduce cartilage extracellular matrix synthesis, which is promoted by daily physical activity(18)"
+        ],
+        "pathogenesis": [
+            "The hallmark of advanced knee OA on arthroscopic exam is focal ulcerated cartilage with exposed bone at the articularsurfaces and osteophytes at the joint margins(1,2,3)",
+            "Progressive changes associated with OA(1,2)\u2013Synovial inflammation\u2013Slowly progressive softening of articular cartilage\u2013Narrowing of joint space\u2013Osteophyte formation\u2013Subchondral sclerosis\u2013Cysts",
+            "Weight loss may decrease overloading of the knee in overweight persons. Authors of an RCT (N = 192 obese participantswith knee OA) in Denmark found that significant weight reduction (mean, 12.8 kg) followed by a 1-year  maintenanceprogram was associated with improved knee symptoms and function(19)"
+        ],
+        "risk factors": [
+            "Nonmodifiable\u2013Age: > 50 years of age(3,8)\u2013Sex: Women more often than men, approximately 2:1 ratio(2,8)\u2013Hormonal status(1,8)\u2013Genetic: there is a 39% to 65% heritability rate in studies of twin women with OA, and a concordance rate of 0.64 inmonozygotic twins(8)-Offspring of patients with severe knee OA are at an increased risk of prevalent pain and worsening knee pain(32)\u2013Anatomical and biomechanical factors that contribute to malalignment in the lower extremities-Joint laxity(8)-Proprioceptive impairments(8)",
+            "Modifiable\u2013Obesity\u2013Tobacco use(1,3)\u2013Nutritional deficiencies (e.g., vitamin D deficiency)(8)\u2013Presence of crystal arthropathies (e.g., gout)(8)\u2013Authors of a systematic review of the literature published between 1946 and April 2011 found moderate evidence thatregular combined heavy lifting and kneeling is a risk factor for knee OA. The odds risk ratio varied from 1.8 to 7.9.However, there is limited evidence to support that isolated occupational heavy lifting, kneeling, or stair climbing is a riskfactor(13)\u2013Hypertension(34)-Authors of an observational study conducted in China have found a positive relationship between hypertension anddevelopment of knee OA",
+            "Participation in sports such as soccer, elite-level  long-distance running, wrestling, and competitive weight lifting was foundto increase risk of developing knee OA(45)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Consult with physician if increased pain and swelling or continuing episodes of giving-way  occur despite therapy",
+        "Swelling due to a ruptured popliteal cyst can mimic a DVT; refer any patient with calf swelling or other signs/symptoms that are consistent with a DVT to emergency services. For more information, see  Clinical Review ... Popliteal Cysts in Adults  ; CINAHL Topic ID Number: T708425",
+        "See specific  Contraindications/precautions to examination   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -When did symptoms of knee OA begin? -Did a traumatic event precipitate symptoms? -Does history indicate gradually worsening knee pain and function during daily activities (e.g., walking, squatting, kneeling, stepping down)?",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Are the medications effectively controlling the patient\u2019s symptoms? Topical rather than oral NSAIDS are preferred for patients \u2265 75 years(8) Patients older than 60 years at risk for GI bleed may be prescribed proton pump inhibitors (PPIs) or COX-2  inhibitors instead of traditional NSAIDs(8) Physicians should consider prescribing naproxen in patients with known cardiovascular risk factors since ibuprofen can render aspirin ineffective as a cardioprotective agent by interfering with the aspirinbinding  site on platelets(8) Patients may be prescribed mild opioids such as tramadol if NSAIDs and acetaminophen are unable to adequately reduce pain levels(8) Opioid analgesics are recommended only for patients with severe pain unresponsive to other treatment modalities(8) Corticosteroids were found to be effective for short-term  pain relief (up to 1 month),whereas hyaluronic acid was found to be effective for longerterm  pain management (up to 6 months) in patients with knee OA(43)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Radiographs are typically the first step and have high diagnostic value. Plain radiographs typically confirm narrowing of the medial knee joint space, subchondral sclerosis, and osteophyte formation(8) ",
+                        "Laboratory tests to assist with differential diagnosis. These can include rheumatoid factor, erythrocyte sedimentation rate (ESR), complete blood count (CBC), and antinuclear antibody tests(8)",
+                        "MRI can be used to rule out other sources of pain, including synovial thickening, joint effusion, bone marrow edema, bony attrition, periarticular lesions, and internal derangement(8)",
+                        "Musculoskeletal ultrasound is emerging as an alternative, fast, and inexpensive modality to identify joint damage, the presence of osteophytes, joint effusions, and noninflammatory synovial proliferation(8)",
+                        "In some cases, arthrocentesis can be performed to examine the synovial fluid; it is typically normal or noninflammatory in character(8)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or complementary therapies (e.g., acupuncture, tai chi, weightloss  management, OTC orthotics) and whether or not they help. Patients may report the use of topical OTC NSAIDs or capsaicin(8)",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful such as aquatic therapy, patellar strapping/taping, or thermal modalities"
+                },
+                "aggravating easing factors": " Patients with knee OA typically complain of deep ache triggered or aggravated by weight-bearing  activity (walking, stair-climbing)  and pain that lessens with rest. Joint stiffness often follows inactivity, especially if knee is bent for a prolonged period, as in sitting",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Symptoms may include swelling, morning stiffness, giving-way,  and deep ache. In general, are symptoms getting better, worse, or staying the same?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any previous arthritis or lower-extremity  orthopedic problems or injury?",
+                    "comorbid diagnoses": "Ask patient about health problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? What does the patient\u2019s work require?",
+                "functional limitations assistance with ADLs adaptive equipment": "Inquire about functional limitations (e.g., impaired walking, squatting, kneeling, stepping down).(2) Document use of adaptive/assistive devices. Canes and walkers are the most commonly prescribed assistive devices(8)",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting) ",
+            "anthropometric characteristics": "Circumferential measurements for swelling/edema. Document height and weight and calculate BMI based on age and sex \u2013The American Academy of Orthopaedic Surgeons 2015 guideline strongly recommends that clinicians discuss weight management or recommend referral for weight loss and nutritional counseling(14)",
+            "assistive and adaptive devices": "Evaluate need for, proper fit, and use of ambulatory assistive device or bracing",
+            "balance": "If knee OA is unilateral, compare 1-leg  stand of affected extremity to contralateral extremity; assess reaction to challenges in standing position. Use standardized tests such as the Berg Balance Scale, Tinetti Balance Test, Sit to Stand Test, Romberg or sharpened Romberg test, and Single Limb Balance Test \u2013Authors of a systematic review (N = 1086) and meta-analysis found that persons with knee OA are more likely to have reduced scores in the Step Test, Single Leg Stance Test, Functional Reach Test, Tandem Stance Test, and Community Balance and Mobility Scale compared to healthy controls(24)",
+            "cardiorespiratory function and endurance": [
+                "Assess vital signs as indicated",
+                "Assess endurance with 6-minute  walk for distance test (6MWT)"
+            ],
+            "circulation": "In older patients, check distal pulses to assess if vascular insufficiency is contributing to ambulatory problemsDocument altered body mechanics due to lower extremity impairmentsUse 10-meter  walk test(10MWT), Timed Up & Go (TUG) test, sit-to-stand test, and standardized stair-climbing  test for outcome measures",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Perform thorough gait analysis; safety can be assessed with the Dynamic Gait Index (DGI)Assess for tibiofemoral joint laxity and patellofemoral mobility \u2013Varus and valgus stress tests in full extension and 30\u02da of knee flexion; patients with medial inflammation and varus deformity commonly have medial pseudolaxity (a sensation of valgus laxity as the varus deformity is manually corrected with knee extended in supine position) \u2013Anterior and posterior drawer tests for cruciate ligament insufficiency, as indicatedmedial, lateral, inferior, superior, and patellar tilt",
+            "muscle strength": " Muscle strength \u2013Note patient\u2019s complaint of pain or increased symptoms with muscle testing \u2013Authors of a pilot study in the United States examined the effects of hip and knee strength on the kinematics of the sit-to-stand  test(12) -Study included 8 adults in whom knee OA was clinically diagnosed compared to a control group of 7 adults -Subjects with knee OA had decreased hip abductor, hip extensor, and quadriceps peak force associated with increased peak tibial abduction angles during sit-to-stand  and increased stress on the patellofemoral joint. A moderate inverse relationship between peak tibial abduction angle and peak hip abductor force was present -There was no difference between peak adduction angle and peak hip external rotator force -Suboptimal dynamic tibiofemoral alignment and proximal hip and knee muscle weakness may cause increased patellofemoral stress and contribute to the progression of knee OA",
+            "observation inspection palpation including skin assessment": [
+                "Observe lower extremities for muscle atrophy",
+                "Document presence of any skin breakdown, previous lower extremity surgical incision sites, or swelling",
+                "Presence of a popliteal cyst \u2022Palpation",
+                "Assess patellofemoral joint for tenderness, crepitus, increased temperature/warmth, and soft tissue edema. Palpate and observe for suboptimal patellar tracking with active knee ROM",
+                "May be able to palpate osteophytes that are located proximal to femoral condyles"
+            ],
+            "posture": " Posture \u2013Assess patient for a leg-length  discrepancy using the supine-to-sit  test. Document if it is a true or functional leg-length discrepancy and use a tape to measure the amount of discrepancy \u2013Assess patient\u2019s standing posture, paying particular attention to the alignment of the lower extremities. Document any varus or valgus at the knees or ankles, metatarsal abduction, patellar malalignment, or hallux valgus. Document patient\u2019s standing trunk and pelvis alignment (increased lumbar lordosis, increased anterior/posterior pelvic tilt) and assess foot alignment in subtalar neutral position, if indicated ",
+            "range of motion": " Range of motion \u2013Assess ROM in knee flexion and extension. Is reduced ROM due to muscle shortening or stiffness? \u2013Assess flexibility of entire lower extremityAssess if disability interferes with self-care  or instrumental ADLs, such as with the Knee Outcome Survey Activities of Daily Living Scale (KOS-ADLS)(2)",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Assess proprioception in the involved lower-extremity  joints",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013For assessment of meniscal injuries, see Clinical Review\u2026Meniscal Injuries (Nonsurgical Management) ; CINAHL TopicT708409 \u2013The Western Ontario and McMaster Universities (WOMAC) Osteoarthritis Index (with pain and function subscales) can be used to assess pain, disability, and joint stiffness(4) \u2013The Dutch McMaster Toronto Arthritis Patient Preference Questionnaire (MACTAR) is a self-assessment  of function that is valid and responsive in patients with knee OA(5) \u2013The Arthritis Impact Measurement Scales (AIMS) can be used to assess pain as well as physical and psychological disability(4)(range, 0\u2013100;  higher scores indicate greater improvement) \u2013Short Form (36) Health Survey (SF-36)  can be used to measure HRQoL",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation",
+                "Hypertension  cold can lead to an increase in blood pressure",
+                "Hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement over superficial nerves for extended periods (> 1 hour)",
+                "Cold may be counterproductive if being used to facilitate muscle relaxation and reduce pain in patients who do not tolerate the modality",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Malignancy",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs ",
+                "Severe epilepsy",
+                "Certain dermatologic conditions",
+                "Surface infections",
+                "Uncontrolled bowels",
+                "Acute rheumatoid arthritis",
+                "Venous ulcers",
+                "Tissues damaged by X-ray  therapy",
+                "Peripheral vascular disease",
+                "Reduced thermal sensation",
+                "Respiratory impairments",
+                "Cardiac impairments",
+                "Active bleeding",
+                "Malignancy",
+                "Recent fever",
+                "Acute inflammatory conditions",
+                "Impaired sensation",
+                "Confusion or limited cognition",
+                "Infection",
+                "New skin grafts",
+                "Certain medications",
+                "Alcohol consumption (recent)*",
+                "Decreased strength/ROM/endurance/balance*",
+                "Urinary incontinence*",
+                "Fear of water*",
+                "Respiratory impairments",
+                "Pregnancy*",
+                "Multiple sclerosis*",
+                "Impaired thermal regulation*",
+                "Seasickness",
+                "History of edema, when warm/hot water immersion",
+                "Stimulation through or across the chest",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Over carotid sinuses",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Over pharyngeal area",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Malignancy",
+                "Used in close proximity to diathermy treatment ",
+                "Over the region of a cardiac pacemaker",
+                "Over the pelvis, abdominal, and lumbar regions during pregnancy",
+                "Over the eyes and testes",
+                "Infection or bleeding in the area",
+                "Tumor present in the area",
+                "DVT or thrombophlebitis in the area",
+                "Over the heart, stellate, or cervical ganglia",
+                "Over epiphyseal plates",
+                "Sensory deficits",
+                "Individuals who cannot communicate effectively (e.g., impaired cognition, language barrier)",
+                "Circulatory impairments",
+                "Plastic or metal implants",
+                "Note: Always decrease ultrasound intensity if the patient complains of discomfort",
+                "Pacemakers",
+                "Pregnancy",
+                "Active bleeding",
+                "Malignancy",
+                "Active tuberculosis",
+                "Treatment over abdomen and pelvis during menstruation",
+                "Severe circulatory compromise",
+                "Radiation therapy (in last 6 months) in region to be treated",
+                "Impaired cognition or uncooperative/noncompliant patients",
+                "Avoid epiphyseal regions in children",
+                "Avoid specialized tissues (e.g., eye and testes)",
+                "Metal implants  believed to be safe when administering a low dose (< 5 watts mean power)"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Cryotherapy  contraindications(6)",
+                "Cryotherapy  precautions(6)",
+                "Thermotherapy  contraindications(6)",
+                "Whirlpool  contraindications(6)",
+                "Whirlpool  precautions (*some are relevant only if entire body is immersed)(6)",
+                "Electrotherapy  contraindications/precautions (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(6)",
+                "Therapeutic ultrasound  contraindications(6)",
+                "Therapeutic ultrasound  precautions(6)",
+                "Pulsed shortwave therapy  contraindications(7)",
+                "Pulsed shortwave therapy  precautions(7)"
+            ]
+        },
+        "diagnosis need for treatment": " Patients can benefit from physical therapy to maximize their functional mobility and symptom reduction while awaiting a TKA, especially those with severe functional impairments and disability(10)",
+        "rule out": " Rule out Patellofemoral syndrome Septic arthritis(8) Rheumatoid arthritis(8) Crystalline arthropathy (e.g., gout)(3) Hip arthritis(14) Bursitis around knee(8) Cyst around knee Tendonitis around knee(8) Ankle or foot deformity(14) Ligament sprain or tear Referred pain from hip or back(3)",
+        "prognosis": [
+            "Ongoing conservative management may postpone the need for surgical intervention.(16)Prognosis is variable depending on the extent of OA and its impact on the patient\u2019s overall quality of life and functional abilities",
+            "Surgical intervention should be delayed until conservative management is no longer effective for controlling the patient\u2019s primary complaints and OA has negatively impacted HRQoL and physical functioning in ADLs(8)  \u203aReferral to other disciplines  (as indicated)",
+            "Nutritionist to address dietary approaches to weight loss",
+            "Orthotist for bracing in an effort to decrease load on the knee",
+            "Podiatrist for foot care, as indicated"
+        ],
+        "referral to other disciplines": "",
+        "other considerations": [
+            "Authors of a cohort study of community-based  older adults (N = 143) found that despite having two or more conventional risk factors for knee OA (e.g., high BMI, knee malalignment, and reduced ROM), none had radiographic evidence of OA in either knee. Women with bilateral genu valgum had significantly greater BMI than women with genu varus or neutral alignment. Men and women with either genu varus or valgus had decreased ROM compared to individuals with neutral knee alignment, but most of them (88.6%) had malalignment of at least one knee(11)",
+            "Intra-articular  injection of corticosteroid before starting an exercise training program may not provide additional benefit for patients with knee OA. Authors of an RCT (N = 100) in Denmark found no significant differences in pain (KOOS) or objective measures of physical function and inflammation between the group that received 40 mg methylprednisolone (n = 50) and the placebo-control  group (n = 50) after 12 weeks of supervised training (3 times per week), compared to baseline or at 12 weeks post-training follow-up(20)",
+            "In a study in Spain, researchersfound that platelet-rich  plasma delivered via intra-articular  and intraosseous injections to the subchondral boneminimized pain (V AS) and improved knee joint function (KOOS questionnaire) in patients with severe knee OA(25)"
+        ],
+        "treatment summary": [
+            "Treatment should be appropriate for the stage of OA: Is pain inflammatory and present at rest or is pain only with movement (i.e., mechanical in origin)?",
+            "Therapeutic exercise \u2013Authors of an RCT (N = 159 persons with knee OA) in the Netherlands found that upper leg muscle strengthening was associated with significantly improved physical function (WOMAC subscale, TUG test) and knee stabilization(21) \u2013Authors of a 2015 systematic review of 15 RCTs (N = 1,482 persons with knee OA) found that strength, aerobic, and tai chi training programs improved balance and falls risk, whereas water-based  exercise training did not improve balance outcomes(22) \u2013Authors of a 2015 systematic review (N = 1239 patients with knee OA) found that exercise can improve overall HRQoL (assessed by SF-36)  in patients with knee OA(27) \u2013Authors of a 2016 systematic review (N = 2991, of whom n = 1530 in exercise group and n = 1461 in control group) found that exercise interventions that focus on increasing strength and flexibility can improve physical pain and function and have a positive effect on walking ability including total distance walked, amount of time walked, and increased gait velocity(29) \u2013Blood flow restriction therapy (BFRT) and a high-intensity resistance training program was found to improve muscle strength, quadriceps muscle mass, and functionality in patients with knee OA. BFRT was found to decrease pain while decreasing joint stress, resulting in a feasible therapeutic exercise intervention for patients with OA(35) \u2013Participation in an exercise program while receiving an injection of botulinum toxin type A was found to significantly reduce pain and improve knee mobility(40) \u2013An 8-week  dance-based  aquatic exercise program was found to significantly improved scores on the WOMAC, postexercise heart rate, and cardiorespiratory fitness of obese postmenopausal women with knee OA. The effects were maintained for at least 3 months(41)",
+            "Manual therapy \u2013Authors of a randomized three-arm  clinical trial compared the benefits of movement with mobilization (MWM), passive joint mobilization (PJM), and electrotherapy and concluded that MWM and PJM were far superior in improving patient pain levels compared to electrotherapy(33)",
+            "Whole-body  vibration (WBV) \u2013Authors of a 2015 systematic review with meta-analysis  of 5 RCTs (N = 170) found moderate to high levels of evidence that 8 to 12 weeks of WBV training can significantly improve physical function as measured by the WOMAC physical function scale, 6MWT, and Berg Balance Scale(30) ",
+            "Modalities \u2013Authors of a 2015 systematic review with meta-analysis  of 27 trials found insufficient evidence to support electrical stimulation therapies such as interferential current (IFC), TENS, and neuromuscular electrical stimulation (NMES) for treating pain in patients with knee OA(23) \u2013Authors of an RCT (N = 100) in Turkey found that using ultrasound for 8 minutes provided better results in reducing pain, improving physical function, and reducing depressive symptoms compared to using ultrasound for only 4 minutes(26) -Outcome measures used for this study were the V AS, WOMAC, and Beck Depression Inventory \u2013Cryoneurolysis of the infrapatellar branch of the saphenous nerve was found to decrease knee pain and improve overall symptoms of patients with knee OA for up to 150 days and appeared well tolerated and safe(36) \u2013Authors of a research study in South Korea found that kinesiology taping can decrease pain and increase ROM, resulting in overall improvements in ADLs(31) -Thirty patients with knee OA (treatment group n = 15 and control group n = 15) -Patients received treatment 3x/week for 4 weeks -Control group received hotpack treatment only for 20 minutes along with general physical therapy using interferential current (IFC) at 100bps for 15 minutes -Experimental group also received general physical therapy, but were also given kinesiology tape applied to the hamstring muscles, anterior tibialis, quadriceps femoris, and gastrocnemius -Objective measures used in this study were the K-WOMAC  (Korean WOMAC), V AS, and goniometric measurements \u2013Application of kinesiotape was found to havesuperior short-term  effects on improvement in a walking task, decreasing pain, and improving knee flexion ROM for patients with knee OA(37) \u2013TENS combined with local heat application was found to improve knee pain during standing and walking and to improve the dynamic standing balance and gait ability of patients with knee OA(38) \u2013Authors of a 2018 systematic review conducted in Italy have found that various modalities that include mud-pack  therapy, balneotherapy, mud-bath  therapy, and spatherapy reduce pain, decrease NSAID consumption, and improve functional limitations and quality of life in patients with knee OA(44) -Based on 35 studies,of which 12 met inclusion criteria",
+            "Orthotics \u2013Medial wedge insoles can be trialed for subjects with valgus knee alignment(8) \u2013Authors of a 2018 systematic review with meta-analysis  have concluded that use of a soft brace can provide moderate effects on pain and small to moderate effects on self-reported  physical functioning in patients with knee OA(39) -The study included 6 RCTs and 5 non-RCTs \u2013Authors of an RCT study conducted in Canada have found that using a customized foot orthosis with medial arch support with a lateral wedge reduced knee loading in patients with medial knee OA. However, the authors found that the medial arch support must include a lateral wedge; using a medial arch support only may lead to an increase in knee loading, which can potentially increase the symptoms of knee OA(42) . Problem Goal Intervention Expected Progression Home Program  Chronic knee pain and edemaDecrease pain intensity and edemaPhysical agents and mechanical modalities _ Heat can be used to relieve stiffness; ice when acutely inflamed; whirlpool and contrast baths for pain and edema _ _"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased pain intensity": [
+            "V AS, WOMAC, International Knee Documentation Committee (IKDC), KOOS, MACTAR"
+        ],
+        "decreased edema": [
+            "Circumferential measurements"
+        ],
+        "increased maintained pain-free  full rom": [
+            "Goniometric measurements"
+        ],
+        "increased maintained sufficient strength": [
+            "MMT, isokinetic testing"
+        ],
+        "improved mobility with less reliance on biomechanical devices": [
+            "TUG test"
+        ],
+        "age-appropriate  proprioception and balance reactions": [
+            "Berg Balance Scale, Tinetti Balance Test, Sit to Stand Test, Romberg or sharpened Romberg test, and Single Limb BalanceTest"
+        ],
+        "improved gait mechanics and walking speed": [
+            "DGI,6MWT"
+        ],
+        "independent in adls": [],
+        "kos-adls,  aims": [],
+        "self-management  in exercise program adherence and weight maintenance": [
+            "Reassessment"
+        ]
+    },
+    "maintenance or prevention": [
+        "Prevention Maintain healthy weight and general physical fitness Vitamin D supplementation \u2013Authors of another RCT (N = 413) in Tasmania found that vitamin D supplementation did not provide any significant changes in MRI-measured  tibial cartilage or WOMAC knee pain scores over 2 years. Patients in the experimental group were given oral vitamin D3 (50000 IU) for 2 years and the control group received only placebo pills. Tibial cartilage was measured using an MRI machine and pain assessment scores were measured using the WOMAC. Researchers concluded that there were no significant differences between the experimental group and control group in regards to WOMAC pain scores or tibial cartilage volume(28) Prevent sports-related  injuries to the knees (e.g., appropriate conditioning, skills, and technique for specific sport; limit high-impact  activities; proper equipment)"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Sein M, Wilkins AN, Phillips EM. Knee osteoarthritis. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 3rd ed. Philadelphia, PA: Saunders Elsevier; 2015:361-368.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Guccione AA, Minor MA. Arthritis. In: O'Sullivan SB, Schmitz TJ, eds. Physical Rehabilitation . 5th ed. Philadelphia, PA: FA Davis Company; 2007:1066-1069.  (GI) "
+        },
+        {
+            "number in article": 3,
+            "reference": "Iversen MD, Westby MD. Degenerative joint disease of the knee. In: O'Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation . 6th ed. F.A. Davis: EBSCO Publishing; 2014:1043-1049.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Nebel MB, Sims EL, Keefe FJ. The relationship of self-reported  pain and functional impairment to gait mechanics in overweight and obese persons with knee osteoarthritis. Arch Phys Med Rehabil . 2009;90(11):1874-1879.  doi:10.1016/j.apmr.2009.07.010. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Barten DJA, Pisters MF, Takken T, Veenhof C. Validity and responsiveness of the Dutch McMaster Toronto Arthritis Patient Preference Questionnaire (MACTAR) in patients with osteoarthritis of the hip or knee. J Rheumatol . 2012;39(5):1064-1073.  doi:10.3899/jrheum.110876. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: F. A. Davis; 2016:42-44,  322-323. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Watson T. Electrotherapy on the Web: \"Pulsed Shortwave Therapy\". http://www.electrotherapy.org/modality/pulsed-shortwave-therapy . Accessed September 23, 2019. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Baliog CR. Osteoarthritis. In: Ferri FF, ed. 2016 Ferri's Clinical Advisor: 5 Books in 1 . Philadelphia, PA: Elsevier Mosby; 2016:902-903.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Dhawan A, Mather RC, III, Karas V, et al. An epidemiologic analysis of clinical practice guidelines for non-arthroplasty  treatment of osteoarthritis of the knee. Arthroscopy . 2014;30(1):65-71.  doi:10.1016/j.arthro.2013.09.002. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Desmeules F, Hall J, Woodhouse LJ. Prehabilitation improves physical function of individuals with severe disability from hip or knee osteoarthritis. Physiother Canada . 2013;65(2):116-124.  doi:10.3138/ptc.2011-60.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Fahloman L, Sangeorzan E, Chheda M, Lambright D. Older adults without radiographic knee osteoarthritis: knee alignment and knee range of motion. Clin Med Insights Arthritis Musculoskelet Disord . 2014;7:1-11.  doi:10.4137/CMAMD.S13009. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Hoglund LT, Hillstrom HJ, Barr-Gillespie  AE, Lockard MA, Barbe MF, Song J. Frontal plane knee and hip kinematics during sit-to-stand  and proximal lower extremity strength in persons with patellofemoral osteoarthritis: a pilot study. J Appl Biomech . 2014;30(1):82-94.  doi:10.1123/jab.2012-0244.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Ezzat AM, Li LC. Occupational physical loading tasks and knee osteoarthritis: a review of the evidence. Physiother Can . 2014;66(1):91-107.  doi:10.3138/ptc.2012-45BC.  (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "American Academy of Orthopaedic Surgeons. The impact of obesity on bone and joint health. March 2015. (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Roos EM, Arden NK. Strategies for the prevention of knee osteoarthritis. Nat Rev Rheumatol . Advance online publication. October 6, 2015. doi:10.1038/nrrheum.2015.135. (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Hinman RS, Nicolson PJ, Dobson FL, Bennell KL. The use of nondrug, nonoperative interventions by community-dwelling  people with hip or knee osteoarthritis. Arthritis Care Res. 2015;67(2):305-309.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Fransen M, McConnell S, Harmer AR, Van der Esch M, Simic M, Bennell KL. Exercise for osteoarthritis of the knee: a Cochrane systematic review. Br J Sports Med . 2015;pii:bjsports-2015-095424.  doi:10.1136/bjsports-2015-095424.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Gardiner BS, Woodhouse FG, Besier TF, et al. Predicting knee osteoarthritis. Ann Biomed Eng . 2016;44(1):222-233.  doi:10.1007/s10439-015-1393-5.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Christensen R, Henriksen M, Leeds AR, et al. Effect of weight maintenance on symptoms of knee osteoarthritis in obese patients: A twelve-month  randomized controlled trial. Arthritis Care Res . 2015;67(5):640-650.  doi:10.1002/acr.22504. (RCT)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Henriksen M, Christensen R, Klokker L, et al. Evaluation of the benefit of corticosteroid injection before exercise therapy in patients with osteoarthritis of the knee: A randomized clinical trial. JAMA Intern Med . 2015;175(6):923-930.  doi:10.1001/jamainternmed.2015.0461. (RCT)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Knoop J, Steultjens MP, Roorda LD, et al. Improvement in upper leg muscle strength underlies beneficial effects of exercise therapy in knee osteoarthritis: Secondary analysis from a randomised controlled trial. Physiotherapy . 2015;101(2):171-177.  doi:10.1016/j.physio.2014.06.002. (RCT)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Mat S, Tan MP, Kamaruzzaman SB, Ng CT. Physical therapies for improving balance and reducing falls risk in osteoarthritis of the knee: A systematic review. Age Ageing . 2015;44(1):16-24.  doi:10.1093/ageing/afu112. (SR)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Zeng C, Li H, Yang T, et al. Electrical stimulation for pain relief in knee osteoarthritis: Systematic review and network meta-analysis.  Osteoarthritis Cartilage . 2015;23(2):189-202.  doi:10.1016/j.joca.2014.11.014. (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Hatfield GL, Morrison A, Wenman W, Hammond CA, Hunt MA. Clinical tests of standing balance in the knee osteoarthritis population: a systematic review and meta-analysis. Phys Ther . 2016;96(3):324-337.  (SR)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Sanchez M, Delgado D, Sanchez P, et al. Combination of intra-articular  and intraosseous injections of platelet rich plasma for severe knee osteoarthritis: a pilot study. Biomed Res Int. 2016;(1-10).  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Yildirim MA, Ucar D, Ones K. Comparison of therapeutic duration of therapeutic ultrasound in patients with knee osteoarthritis. J Phys Ther Sci . 2015;27(12):3667-3670.  (RCT)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Ryo T, Junya O, Nobuhiro K, Hideki M. Does exercise therapy improve health-related  quality of life of people with knee osteoarthritis? A systematic review and meta-analysis  of randomized controlled trials. J Phys Ther Sci . 2015;27(10):3309-3314.  (SR)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Jin X, Jones G, Cicuttini F, et al. Effect of Vitamin D supplementation on tibial cartilage volume and knee pain among patients with symptomatic knee osteoarthritis: A randomized clinical trial. JAMA. 2016;315(10):1005-1013.  (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Tanaka R, Ozawa J, Kito N, Moryiama H. Effects of exercise therapy on walking ability in individuals with knee osteoarthritis: a systematic review and meta-analysis  of randomized controlled trials. Clin Rehabil . 2016;30(1):36-52.  (SR)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Wang P, Xiaotian Y, Yang Y, et al. Effects of whole body vibration on pain, stiffness, and physical functions in patients with knee osteoarthritis: a systematic review and meta-analysis.  Clin Rehabil . 2015;29(10):939-951.  (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Lee K, Yi CW, Lee S. The effects of kinesiology taping therapy on degenerative knee arthritis patients\u2019 pain, function, and joint range of motion. J Phys Ther Sci . 2016;28(1):63-66.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Pan F, Ding C, Winzenberg T. The offspring of people with a total knee replacement for severe primary knee osteoarthritis have a higher risk of worsening knee pain over 8 years. Ann Rheum Dis . 2016;75(2):368-373.  (RV)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Mutlu EK, Ercin E, Ozdincler AR, Ones N. A comparison of two manual physical therapy approaches and electrotherapy modalities for patients with knee osteoarthritis: a randomized three arm clinical trial. Physiother Theory Pract . 2018;34(8):600-612.  doi:10.1080/09593985.2018.1423591. (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Zhang YM, Wang J, Liu XG. Association between hypertension and risk of knee osteoarthritis: A meta-analysis  of observational studies. Medicine. 2017;96(32):1-7. doi:10.1097/MD.0000000000007584. (M)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Ferraz RB, Gualano B, Rodrigues R, et al. Benefits of resistance training with blood flow restriction in knee osteoarthritis. Med Sci Sports Exerc . 2018;50(5):897-905. doi:10.1249/MSS.0000000000001530. (RCT)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Radnovich R, Scott D, Patel AT, et al. Cryoneurolysis to treat the pain and symptoms of knee osteoarthritis: a multicenter, randomized, double-blind,  sham-controlled  trial. Osteoarthritis Cartilage . 2017;25(8):1247-1256.  doi:10.1016/j.joca.2017.03.006. (RCT)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Mutlu EK, Mustafaoglu R, Birinci T, Ozdincler AR. Does kinesio taping of the knee improve pain and functionality in patients with knee osteoarthritis? Am J Phys Med Rehabil . 2017;96(1):25-33.  doi:10.1097/PHM.0000000000000520. (RV)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Maeda T, Yoshida H, Sasaki T, Oka A. Does transcutaneous electrical nerve stimulation (TENS) simultaneously combined with local heat and cold applications enhance pain relief compared with TENS alone in patients with knee osteoarthritis? Journal of Physical Therapy Science . 2017;29(10):1860-1864.  doi:10.1589/jpts.29.1860.  (RV)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Cudejko T, Van der Esch M, Van de Leeden M, et al. Effect of soft braces on pain and physical function in patients with knee osteoarthritis: systematic review with meta-analysis.  Arch Phys Med Rehabil . 2018;99(1):153-163.  doi:10.1016/j.apmr.2017.04.029. (M)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Bao X, Tan JW, Flyzik M, Ma XC, Liu H, Liu HY. Effect of therapeutic exercise on knee osteoarthritis after intra-articular  injection of botulinum toxin type A, hyaluronate or saline: a randomized controlled trial. J Rehabil Med . 2018;50(6):534-541.  doi:10.2340/16501977-2340.  (RCT)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Casilda-Lopez  J, Valenza MC, Cabrera-Martos  I, Diaz-Pelegrina  A, Moreno-Ramirez  MP, Valenza-Demet  G. Effects of a dance-based  aquatic exercise program in obese postmenopausal women with knee osteoarthritis: a randomized controlled trial. Menopause . 2017;24(7):768-773.  doi:10.1097/GME.0000000000000841. (RCT)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Dessery Y, Belzile E, Turmel S, Corbeil P. Effects of foot orthoses with medial arch support and lateral wedge on knee adduction moment in patients with medial knee osteoarthritis. Prosthet Orthot Int . 2017;41(4):356-363.  doi:10.1177/0309364616661254. (RV)"
+        },
+        {
+            "number in article": 43,
+            "reference": "He WW, Kuang MJ, Zhao J, et al. Efficacy and safety of intraarticular hyaluronic acid and corticosteroid for knee osteoarthritis: A meta-analysis.  Int J Surg . 2017;39:95-103. doi:10.1016/j.ijsu.2017.01.087. (RV)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Fraioli A, Mennuni G, Fontana M, et al. Efficacy of Spa Therapy, Mud-Pack  Therapy, Balneotherapy, and Mud-Bath  Therapy in the Management of Knee Osteoarthritis. A Systematic Review. BioMed Res Int . 2018;1-9.  (SR)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Driban JB, Hootman JM, Sitler MR, Harris KP, Cattano NM. Is participation in certain sports associated with knee osteoarthritis? A systematic review. J Athl Train . 2017;52(6):497-506.  doi:10.4085/1062-6050-50.2.08.  (SR)"
+        }
+    ]
+}

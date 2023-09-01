@@ -1,0 +1,308 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "arthroplasty, knee, unicompartmental",
+            "knee arthroplasty, unicompartmental",
+            " partial knee replacement",
+            "knee replacement, partial",
+            "uka"
+        ],
+        "anatomical location body part affected": [
+            "Most often, the articular surfaces of the medial tibial plateau and femoral condyle; less commonly, the lateral compartment of the knee may be affected"
+        ],
+        "area of specialty": [
+            "acute care",
+            "aquatic therapy",
+            "geriatric rehabilitation",
+            "home health",
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "Unicompartmental knee arthroplasty refers to the replacement of the lateral or medial bone surfaces with prostheses(1)",
+            "The prosthesis in a knee arthroplasty can be fixed to the tibial plateau (fixed bearing) or it can have freedom of rotation and/or translation (mobile bearing)"
+        ],
+        "indications": [
+            "Indications/considerations for UKA \u2013Recovery after UKA is much quicker when compared to TKA(4,12) \u2013Patient should:(23) -ideally weigh less than 82 kg (181 lb) -have unicompartmental knee disease only(12) -have knee OA confined to only one compartment -have low pain at rest -have > 90 degrees of preoperative arc of motion -have < 5 degrees knee flexion contracture  -have < 15 degrees angular deformity"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "Z96.65": "presence of artificial knee joint (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Varies based on the amount of time that has passed since UKA",
+            "In the first week post surgery, the patient may present with pain during weight-bearing and ROM, an anterior or anteromedial knee incision with sutures/staples, and knee effusion and erythema. The patient may require the use of a walker, cane, or crutches for ambulation. The operated knee will also be stiff, with significant restriction in flexion/ extension(5)",
+            "In the subacute phase, edema and ROM restriction often persist, but to a lesser degree. The patient is generally able to ambulate without an assistive device (AD) within 2 weeks depending on prior level of function(5)",
+            "In both phases, significant muscle weakness and decreased ROM may be present(5) Surgical Indications, Contraindications, & Complications"
+        ],
+        "contraindications precautions to test": [
+            "Confirm that patient adheres to weight-bearing  orders and any other restrictions noted by physician prior to starting evaluation",
+            "Do not initiate any joint mobilization strategies until cleared by physician(1)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Signs and symptoms of DVT (e.g., presence of calf pain, tightness, warmth, erythema) warrant an urgent visit to the physician or emergency room for a diagnostic ultrasound(5)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Confirm that patient adheres to weight-bearing  orders and any other restrictions noted by physician prior to starting"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -What was the date of surgery? -Inquire about any complications during surgery or postoperatively and patient\u2019s general medical status",
+                "course of treatment": {
+                    "medical management": " Medical management Computer-assisted  techniques(10) Robotic arm assisted UKA is considered more accurate compared to the conventional jig-based technique in achieving proper orientation and alignment of the tibial implant(14) Following UKA, medical care generally includes wound care and medications for pain management and DVT prophylaxis Microplasty instrumentation designed for the Oxford UKA system has been shown to significantly reduce revision rates for those undergoing a UKA(19) The Microplasty instrumentation device was first introduced in 2012. It uses a G-clamp  system that connects the femoral sizing spoon and tibial resection template in order to ensure appropriate tibial resection levels Using Microplasty instrumentation allows the surgeon to achieve optimal positioning of the knee components, reducing the need for a tibial recut(21)",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Are they effectively controlling patient\u2019s symptoms?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Usual tests for this condition are the following:",
+                        "X-ray  is often used to ensure proper placement of the prosthetic and to rule out complications, such as fracture and loose bodies in cases of atypical postoperative pain",
+                        "Doppler ultrasound may be used to assess for the presence of DVT, and a complete blood count (CBC) may be obtained to assess hematocrit and hemoglobin levels"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful (e.g., did the patient go to a rehabilitation hospital after surgery or have homebased  physical therapy?)"
+                },
+                "aggravating easing factors": " Does activity aggravate joint swelling or any other symptoms? In the acute phase, pain will likely increase during activity",
+                "body chart": "Use body chart to document location and nature of symptoms ",
+                "nature of symptoms": "Document nature of symptoms (constant vs intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if any",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Is there any known respiratory compromise? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Does the patient have a history of knee injury or trauma? Did the patient have previous knee surgeries? Has the patient had any other surgeries? Is there any other pertinent medical history (e.g., severe arthritis in the opposite knee, hips; other lower extremity dysfunction)?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "To what leisure and sports activities does the patient hope to return? Does the patient work? If so, what are the patient\u2019s work responsibilities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Is the patient using an assistive device? Does the patient require assistance with ADLs at this time? What was the patient\u2019s prior ADLs status? If patient is not in an acute or subacute care facility, is someone available to assist with ADLs? Has the patient resumed driving?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Usually, there is obvious edema following UKA that decreases gradually over the following months. Circumferential measurements can be taken and compared to the contralateral extremity. Joint line measurements can be utilized, and proximal and distal measurements can also be used, making sure to provide consistency through the use of landmarks or predetermined distances from the joint line (e.g., 6 cm proximal to joint line). It is expected that the edema may fluctuate, but will generally decrease over time \u2013Assess for the presence of leg-length  discrepancy",
+            "assistive and adaptive devices": "In the first several weeks after UKA, especially in the acute setting, ADs may be appropriate (walker, cane, crutches). Adaptive equipment for ADLs may also be required (reachers, sock aids, shoehorns, raised toilet seats, grab bars/shower chairs, etc.) for safety and independence. (For information on assistive devices, seeT708914)",
+            "balance": " Balance \u2013Sitting balance and static standing balance should be assessed initially. Assess patient\u2019s dynamic balance \u2013In later stages of treatment and evaluation, more aggressive testing may be used (dynamic standing balance, Berg Balance Scale, Tinetti Balance Scale, single-limb  stance, Star Excursion Balance Test) ",
+            "cardiorespiratory function and endurance": [
+                "Assess vital signs before, during, and after activity",
+                "The 6-minute  walk for distance test (6MWT), Borg Rating of Perceived Exertion (RPE), and other standardized tests may be used in the later phases of treatment to assess endurance and gait tolerance"
+            ],
+            "circulation": "Assess bilateral lower extremity pulses and compareComplete a functional assessment; ensure any restrictions or weight-bearing  precautions are followed. Utilize objective measures such as the Functional Independence Measure (FIM) and the Timed Up and Go (TUG) test",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Confirm weight-bearing  status with surgeon and assess type of AD required \u2013Use the V AS to assess pain with gait \u2013In the acute phase, assess for the ability to maintain prescribed weight-bearing  status on the operated extremity \u2013In later phases, gait abnormalities such as decreased terminal knee extension, absent or decreased heel strike, hip circumduction, decreased step length, increased base of support, and others may be identified \u2013Utilize Dynamic Gait Index (DGI) to assess safety with ambulation Joint integrity and mobility \u2013The stability and proper alignment of the prosthesis will often be monitored by the surgeon through X-rays;  ensure all reports are reviewed and the prosthesis remains intact \u2013Assess knee joint and patella mobility (pending no restrictions set by physician)",
+            "muscle strength": "Assess strength of the entire lower extremity, especially the quadriceps and hamstrings. Use manual muscle testing (MMT) as tolerated by the patient",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Note general posture and lower extremity alignment",
+            "range of motion": "Goniometric assessment of knee flexion and extension for both active and passive ROM (AROM and PROM). A screen of the hip and ankle should also be performed. Assess flexibility throughout the lower extremityDocument current ADLs level; refer to occupational therapy as indicated",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "The dermatome scan should be performed to identify any nerve irritation or damage that may have occurred during surgery",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess arousal and cognition as indicated",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [
+                "Cryotherapy  contraindications -Cold intolerance -Raynaud\u2019s disease or phenomenon -Cryoglobulinemia  -Cold urticaria -Paroxysmal cold hemoglobinuria -Over a circulatory compromise -Over an area of peripheral vascular disease -Over a regenerating peripheral nerve"
+            ],
+            "cryotherapy precautions": [
+                "Cryotherapy  precautions -Thermoregulatory disorders -Hypertension -Hypersensitivity to cold -With individuals with poor cognition -In the very young and the very old -With persons with an aversion to cold -Over an open wound -Over an area of poor sensation -Over superficial nerves",
+                "Thermotherapy  contraindications -Over areas with a lack of intact thermal sensation -Over areas of vascular insufficiency or vascular disease -Over areas of recent hemorrhage or potential hemorrhage -Over areas of known malignancy -Over areas of acute inflammation -Over infected areas where infection may spread -Over areas where liniments or heat rubs have recently been applied -In any situation deemed unreliable by the practitioner"
+            ],
+            "contraindications precautions": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Precautions for using continuous or pulsed ultrasound include over plastic or cemented implants",
+                "Ultrasound is contraindicated in cases in which methyl methacrylate cement was used in the arthroplasty, since this cement absorbs heat rapidly and may become overheated, causing damage to surrounding tissue"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [
+                "Electrotherapy  contraindications -Over the trunk or heart region in patients with demand-type  pacemakers and implantable cardioverter defibrillators (ICDs) -Over the pelvic, abdominal, lumbar, or hip region of a pregnant woman -Over the carotid bodies -Over the phrenic nerve, eyes, or gonads -Over areas of known peripheral vascular disease -Over areas of active osteomyelitis -Over areas of hemorrhage",
+                "Electrotherapy  precautions -With patients without intact sensation -With patients who cannot communicate -With patients with compromised mental ability -With cardiac dysfunction (uncontrolled hypertension or hypotension, irregular heartbeat) -Over active or previous neoplasms -Over compromised skin, unless treating wound specifically -Over tissues that are vulnerable to hemorrhage -Cervical region in patients with history of stroke or seizures -Do not use within 5 yards of a diathermy unit or other source of electromagnetic radiation"
+            ],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regards to modalities. Rehabilitation professionals should always use their professional judgment in decision making",
+                "Patients with UKA may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "There is no consensus as to whether ultrasound treatment is contraindicated following arthroplasty",
+                "Contraindications/precautions to use of modalities(2)"
+            ]
+        },
+        "diagnosis need for treatment": "Functional impairments related to ROM, strength, gait, and balance deficiencies; increased pain, edema, and stiffness",
+        "rule out": "N/A",
+        "prognosis": [
+            "Authors of a 2021 systematic review compared the functional outcomes of those who received a high tibial osteotomy (HTO) versus UKA and found that patients who received a UKA experienced a greater increase in their physical activity levels and knee function based on Tegner and Lysholm scores(22)",
+            "Patients who received a UKA have reported higher activity scores and earlier return-to-sports  activity compared to those who have received a TKA or patellofemoral arthroplasty(18) ",
+            "Patients who have received a UKA are more likely to require further revisions compared to those patients who received a TKA(16)",
+            "Authors of a study reported in the Indian Journal of Orthopaedics  found that age and BMI do not influence the functional and clinical outcomes for individuals who received a fixed-bearing  UKA(15)",
+            "Authors of a 2018 meta-analysis  concluded that conversion from a UKA to a TKA has been associated with poorer clinical outcomes. Revision of a UKA generally requires more modifications, stems, and bone grafts compared to undergoing a TKA(13)",
+            "Reports of survivorship of UKAs have generally been good, with only a few studies not indicating favorable results \u2013The greater than 10-year  outcomes of patients with the Oxford Phase 3 UKA, which is the most commonly used prosthesis in the United Kingdom, were very good in patient-reported outcomes, rates of complications, and non-revision re-operations(9) -Based on a systematic review of 15 studies with 8,658 knees from 2008 to 2016 -10-year  implant survival of 93%, 15-year  survival of 89% -The most common causes of revision were lateral disease progression (1.42%) and aseptic loosening (1.25%) \u2013Conversion of UKA to TKA is associated with poorer clinical outcomes than primary TKA(6) -Authors of a meta-analysis  compared postoperative outcomes on the Knee Society Score (KSS), Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) score, mean polyethylene thickness, hospital stay, complications, revision rate, and ROM -Five studies including 536 adult patients (n = 209 revised UKA group and n = 327 primary TKA group) were included -The primary TKA group had better WOMAC scores, KSS, and ROM when compared to the revised UKA group -There were no significant differences between groups in hospital stay and complications"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician for lack of progress, suspected infection or DVT, etc. Occupational therapy for deficits with ADLs Social services for home services or equipment needs",
+        "other considerations": [
+            "There is debate about the advantages and disadvantages of mobile-bearing  vs fixed-bearing  UKA(12) \u2013Mobile-bearing  UKA is indicated for anteromedial osteoarthritis of the knee with intact ligaments, correctable varus, fixed flexion deformity less than 15 degrees, and full thickness cartilage in the lateral compartment \u2013Due to potential for degeneration of the ligaments in older adult patients, the sustainability of mobile-bearing implants in patients over age 80 has been questioned",
+            "Accelerated vs conventional care programs \u2013An accelerated care program may reduce length of hospital stay in patients having UKA compared to conventional care",
+            "Researchers analyzed trends in the incidence of TKA and UKA using data from the Nordic Arthroplasty Register Association (NARA) from 1997 to 2012 in four countries: Finland, Sweden, Denmark, and Norway(7) \u2013385,310 primary knee arthroplasties were registered during the study period \u2013The average annual increase in the incidence of TKA was statistically significant in all four countries. Incidence of TKA in women was higher than in men. The mean age was 70 years in the TKA group and 65 in the UKA group \u2013Finland had the highest incidence of TKA in men and women \u2013At the end of the study, Norway had the highest incidence of UKA in men and Denmark had the highest incidence of UKA in women",
+            "Valgus HTO provides an alternative to UKA for younger, physically active patients. UKA may be more suitable for older patients due to faster functional recovery and a shorter rehabilitation(11) \u2013Based on a systematic review of studies from 1982 through 2017.Fifteen papers were subjected to meta-analysis \u2013UKA produced better outcomes in terms of pain assessment, functional results, and complications \u2013Patients who underwent HTO had slightly better ROM \u2013There was no significant difference in knee score, walking velocity, deterioration of contralateral or patellofemoral knee, or revision rate"
+        ],
+        "treatment summary": [
+            "Pain management, strengthening, stretching, and balance and gait/stair training are the main physical therapy interventions recommended  \u2013In the acute setting, the focus is on bed mobility, transfers, and gait training, with the initiation of gentle ROM and strengthening exercises. Most patients have full weight-bearing  status postoperatively(3) \u2013In the subacute phase, gait and stair training continue, along with more-intensive  ROM, strengthening, and stretching(5) \u2013The outpatient phase is concentrated on ROM, strength, gait, balance, proprioceptive training, and return to prior level of function, although any remaining deficits in other areas should continue to be addressed(5)",
+            "Knee strength, power, and stair performance of older adult participants (75+/\u2013  5 years) were comparable to those of the contralateral nonoperative limb at 5 years post-UKA(8) \u2013Nineteen older adult participants were tested with isokinetic knee extensor strength, ascent and descent velocities on a 4-step  stair, and pain level . Problem Goal Intervention Expected Progression Home Program Pain and edema Reduce/resolve pain and edemaPhysical agents and mechanical modalities _ Cryotherapy may be used to treat pain and edema _ _ Prescription, application of devices and equipment _ Compression stockings to control edemaPhysical agents should temporarily alleviate pain for the patientPatient should be educated on proper use of cold/heat packs and the RICE concept _ Education in elevation of lower extremity and ankle pumps Complications, including adhesions, arthrofibrosis of the joint, DVT, infection, and rejection of the implantIdentify and address complications; refer to physician as indicatedTherapeutic strategies _ Educate the patient on the importance of early mobility and ROM exercises and activities such as ankle pumps for the prevention of DVTN/A Educate patient and caregivers on signs and symptoms to look for  Reduced knee ROM Improve knee ROM Stretching exercises _ In the acute setting, supine heel slides using a sheet or strap for knee flexion, passive extension, quad sets to emphasize active extension _ _ Manual therapy _ PROM and joint mobilization to increase flexion and extension of the knee. Patellar mobilization to increase patellar mobility, as indicated (obtain approval from physician). Scar massage if adherence and decreased scar mobility is noted _ _ Other therapeutic strategies _ Recumbent bike: Initially may be used to facilitate increased flexion ROM of the knee; once a full revolution is easily accomplished, progress to resistance to increase muscle strength and endurance, as well as cardiovascular endurance _ _ Continuous passive motion in acute and subacute setting as indicated and ordered by physician _ _ Physical agents/ mechanical modalities _ Moist heat pack to increase tissue elasticity prior to manual therapy and stretching exerciseStretching exercises _ In the subacute setting, heel slides continue, with the addition of seated towel slides, lunges on a stool, and prolonged low-load flexion and extension stretches _ _ In the outpatient setting, prolonged low- load flexion stretches and lunges continue with increased intensity and progressing flexion ROM. For extension, prolonged prone knee hanging or (in supine) positioning of heel on a towel with a light weight on the distal femur may facilitate improved extensionPatient can be provided stretches/ROM activities that can be done safely at home  Quadriceps, hamstring, and generalized lower extremity muscle weakness or atrophyImprove muscle strength and resolve atrophyTherapeutic exercise _ In the acute phase, ankle pumps, quad sets, gluteal sets, active- assistive ROM long arc quads, short arc quads, AROM hamstring curls, and supine abduction-adduction are all appropriate. These exercises may begin with 2 sets of 10 and be increased, as tolerated by the patient _ _ Aquatic therapy _ May be used to facilitate increased muscle strength with decreased compressive forces on the knee, AROM for all hip and knee movements, and pool walking _ _ Physical agents/ mechanical modalities _ Neuromuscular electrical stimulation (NMES) to facilitate quadriceps strengthening, as indicatedTherapeutic exercise _ In the subacute phase, AROM and seated and standing (parallel bars) strengthening exercises, with progression from AROM to light ankle cuff weights, as tolerated by the patient _ _ In the outpatient setting, progression of strengthening exercises to straight leg raises, side-lying abduction/ adduction, and prone hip extension _ _ In the later stages, the patient may participate in weight training (leg press, leg curl), as tolerated, progressing resistance as able. Squats, step ups/downs, heel raises for total leg strengthening may also be usedHome exercise program: Stretching and strengthening exercises, as appropriate Impaired gait Return to normal gait Gait and stair training _ In acute phase, provide AD and instruction, as needed _ _ Stair training with device and step-to- step pattern initially, progressing to no device and step-over- step, as the patient is ableIn later phases, progress to less restrictive devices, then to no device. Follow the progression with ambulation in different directions and tandem walking _ _ Most patients can ambulate independently within 1 to 2 weeks postoperatively(3)May provide patients with a program to safely practice at home to assist in carryover  Impaired mobility and ADLsImprove mobility and ADLsBed mobility/transfer training _ In the acute phase, bed mobility and transfer training to assist patient in progressing to independent transfers, especially with supine to sit, getting the operated leg on and off the bed _ _ Refer to occupational therapy as indicatedProgress each unique patient as appropriate and indicatedIncorporate activities into home program that address impaired mobility and ADLs Impaired balance and proprioception _ _ Inability to return to desired activities and sportsImprove balance and proprioceptionBalance training _ In initial phases, standing reaching activities; progress in later phases to single- limb stance activities with progressive challenges to balance _ _ Sport- and activity- specific training, agility trainingProgress as appropriate May provide patient with simple exercises that can be done safely at home ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced pain": [
+            "V AS"
+        ],
+        "reduced edema": [
+            "Circumferential measurements"
+        ],
+        "improved knee rom": [
+            "Goniometric measurements"
+        ],
+        "improved muscle strength": [
+            "MMT"
+        ],
+        "returned to normal gait": [
+            "TUG tests, DGI, 6MWT"
+        ],
+        "improved mobility and adls; return to desired activities sport": [
+            "UCLA activity level scale, Hospital for Special Surgery Knee score, American Knee Society Score, Barthel Index, FIM,WOMAC, LEFS"
+        ],
+        "improved balance": [
+            "Berg Balance Scale, Tinetti Balance Scale, Star Excursion test, single-limb  stance"
+        ]
+    },
+    "maintenance or prevention": [
+        "Home exercise program for maintenance of mobility and strength",
+        "Avoidance of high-impact  activities to prevent premature wear of the replacement, resulting in need for revision "
+    ],
+    "patient education": [
+        "See \u201cUnicompartmental Knee Replacement\u201d from the American Academy of Orthopaedic Surgeons at https://orthoinfo.aaos.org/en/treatment/unicompartmental-knee-replacement Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Kisner C, Colby LA. In: Therapeutic Exercise: Foundations and Techniques . Philadelphia, PA: F.A. Davis Company; 2018:781-790.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "In: Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016:42-44,  80-82, 322-323. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Partial knee replacement. MedlinePlus Web site. https://medlineplus.gov/ency/article/007256.htm . Published May 4, 2021. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Unicompartmental knee replacement. Ortho Bullets Web site. http://www.orthobullets.com/recon/5020/unicompartmental-knee-replacement . Published December 2020. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Partial knee replacement surgery. Joint Orthopaedic Centre Web site. http://www.jointreconstruction.com/knees/partial-knee-replacement-surgery/ . (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Huang CH, Schroeder ET, Powers C. Antigravity treadmill training during the early rehabilitation phase following unicompartmental knee arthroplasty: A case series. Physiother Theory Pract . 2019;35(5):489-494.  doi:10.1080/09593985.2018.1443535. (M)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Niemel\u00e4Inen MJ, M\u00e4Kel\u00e4 KT, Robertsson O, et al. Different incidences of knee arthroplasty in the Nordic countries. Acta Orthop . 2017;88(2):173-178. doi:10.1080/17453674.2016.1275200. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Li Y, Kakar RS, Fu YC, Mahoney OM, Kinsey TL, Simpson KJ. Knee strength, power and stair performance of the elderly 5 years after unicompartmental knee arthroplasty. Eur J Orthop Surg Traumatol . 2018;28(7):1411-1416.  doi:10.1007/s00590-018-2198-7.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Mohammad HR, Strickland L, Hamilton TW, Murray DW. Long-term  outcomes of over 8,000 medial Oxford Phase 3 unicompartmental knees\u2014a systematic review. Acta Orthop. 2018;89(1):101-107.  doi:10.1080/17453674.2017.1367577. (SR)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Jenny JY. Minimally invasive unicompartmental knee arthroplasty. Eur J Orthop Surg Traumatol . 2018;28(5):793-797.  doi:10.1007/s00590-017-2107-5.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Santoso MB, Wu L. Unicompartmental knee arthroplasty, is it superior to high tibial osteotomy in treating unicompartmental osteoarthritis? A meta-analysis  and systemic review. J Orthop Surg Res . 2017;12(1):50. doi:10.1186/s13018-017-0552-9.  (M)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Jones LD, Palmer J, Jackson WFM. Unicompartmental knee arthroplasty. Orthop Trauma . 2017;31(1):8-15.  doi:10.1016/j.mporth.2016.09.005. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Sun X, Su Z. A meta-analysis  of unicompartmental knee arthroplasty revision to total knee arthroplasty versus primary total knee arthroplasty. J Orthop Surg Res . 2018;13(1):158. doi:https://doi.org/10.1186/s13018-018-0859-1.  (M)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Thailak J, Thadi M, Mane PP, Sharma A, Mohan V, Babu BC. Accuracy of tibial component positioning in the robotic arm assisted versus conventional unicompartmental knee arthroplasty. J Orthop. 2020;22:367-371.  doi:https://doi.org/10.1016/j.jor.2020.08.022. (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Vankatesh H, Maheswaran S. Age and body mass index has no adverse effect on clinical outcome of unicompartmental knee replacement \u2013 midterm followup study. Indian J Orthop. 2019;53(3):442-445.  doi:https://doi.org/10.4103/ortho.IJOrtho_230_18. (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Chang SH, Lee CC, Lin CY, Kuo YF, Jiang CC, Chen YC. Analysis of the following related surgeries of unicompartmental knee arthroplasty and total knee arthroplasty: a Taiwanese national health insurance research database population-based  study. Biomed Res Int . 2020;1-9.  doi:https://doi.org/10.1155/2020/9713726. (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Sun X, Liu P, Lu F, Wang W, Guo W, Zhang Q. Bearing dislocation of mobile bearing unicompartmental knee arthroplasty in East Asian countries: a systematic review with meta-analysis.  J Orthop Surg Res. . 2021;16(11):1-11.  doi:https://doi.org/10.1186/s13018-020-02190-8.  (M)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Schneider BL, Ling DI, Kleebad LJ, Stickland S, Pearle A. Comparing return to sports after patellofemoral and knee arthroplasty in an age- and sex-matched  cohort. Orthop J Sports Med . 2020;8(10):1-7.  doi:https://doi.org/10.1177/2325967120957425. (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Sun XW, Lu FF, Zou K, Hong M, Zhang QD, Guo WS. Does new instrument for Oxford unicompartmental knee arthroplasty improve short-term  clinical outcome and component alignment? J Orthop Surg Res . 2020;15(1). doi:https://doi.org/10.1186/s13018-020-01926-w.  (M)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Chen W, Zou S, Teng S. Influence of preoperative weight on the early and middle outcome of fixed platform medial unicompartmental knee arthroplasty. Orthop J Sports Med . 2020;8:1. doi:https://doi.org/10.1177/2325967120S00540. (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Malhorta R, Kumar V, Wahal N, et al. New instrumentation improves patient satisfaction and component positioning for mobile-bearing  medial unicompartmental knee replacement. Indian J Orthop . 2019;53(2):189-196.  doi:https://doi.org/10.4103/ortho.IJOrtho_172_17. (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Belsey J, Yasen SK, Jobson S, Faulkner J, Wilson AJ. Return to physical activity after high tibial osteotomy or unicompartmental knee arthroplasty: a systematic review and pooling data analysis. Am J Sports Med . 2021;49(5):1372-1380.  doi:https://doi.org/10.1177/0363546520948861. (SR)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Luo TD, Hubbard JB. Arthroplasty knee unicompartmental [Updated 2020 Jul 8]. StatPearls [Internet] Web site. https://www.ncbi.nlm.nih.gov/books/NBK538267/ . Published January 2021. (GI)"
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "metadata": {
+        "title": "Temporomandibular Disorders",
+        "synonyms": [
+            "temporomandibular joint syndrome",
+            "temporomandibular joint disorder",
+            "temporomandibular dysfunction",
+            "temporomandibular joint dysfunction syndrome",
+            "costen\u2019s syndrome",
+            "joint disorder, temporomandibular",
+            "joint syndrome, temporomandibular"
+        ],
+        "anatomical location body part affected": [
+            "Jaw and temporal bone/ temporomandibular joint (TMJ), dentition, and jaw muscles"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "Temporomandibular disorders (TMD) is a collective term for clinical problems that are characterized by chronic or fluctuating orofacial pain related to internal derangement and/or articular dysfunction of the temporomandibular joint (TMJ), masticatory muscles, and closely related structures. Physical examination often reveals reduced mouth opening, increased tension in muscles of mastication (i.e., masseter, anterior temporalis, and pterygoids) and TMJ crepitus or a clicking noise in patients with TMD(1,5,16)",
+            "15% to 25% of the population will experience TMD at some point in their lives(15)",
+            "Surgical treatment for TMD is rare and only considered when conservative treatment has failed. Patients with disc displacement without reduction may undergo arthroscopy or a total joint replacementto decrease pain and improve function. Moderate evidence indicates that a variety of nonoperative treatments (i.e., patient education, behavior modification, biofeedback, physical therapy, pharmacotherapy, occlusal therapy [oral appliances/splints], acupuncture, and cognitive behavioral therapy) are effective for relief of pain and muscle tension, and for improving masticatory function(1)",
+            "Physical therapy typically involves superficial heat, ultrasound, soft-tissue  work, jaw exercises, biofeedback, cervical posture training, and patient education(15,23)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "K07.6": "temporomandibular joint disorders",
+            "ICD-10-CA": {
+                "base": "modification in Canada, K07.6 subdivided to identify",
+                "K07.60": "recurrent dislocation",
+                "K07.61": "articular disc disorder",
+                "K07.62": "extracapsular disorder",
+                "K07.63": "arthralgia",
+                "K07.64": "ankylosis",
+                "K07.68": "other disorders",
+                "K07.69": "unspecified"
+            },
+            "F45.8": "other somatoform disorders (used for bruxism)",
+            "M26.60": "temporomandibular joint disorder, unspecified",
+            "M26.29": "other specified disorders of temporomandibular joint",
+            "N36.60": "temporomandibular joint disorder, unspecified",
+            "M24.9": "joint derangement, unspecified (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No special agencies are applicable for this condition. TMDs are common conditions in litigation in cases of facial trauma or dental malpractice.Inquire about any ongoing legal claims"
+        ],
+        "presentation signs and symptoms": [
+            "TMJ (usually unilateral) arthralgia",
+            "Pain, tenderness, and tightness in surrounding soft tissues of the jaw and neck",
+            "TMJ sounds (e.g., clicking, popping, grinding)",
+            "Locking or catching of jaw",
+            "Limited mouth opening",
+            "Bruxism (i.e., teeth grinding and clenching)",
+            "Headache, ear pain, dizziness, tinnitus, dysphagia, and spinal pain may occur",
+            "Oral pain and dysfunction might interfere with eating, talking, singing, etc.",
+            "Symptoms may be worse during stressful life events(15) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Etiology usually is uncertain. Contributory factors include(1,15)\u2013Myofascial pain-dysfunction  syndrome is the most common and may include bruxism, masticatory muscle dysfunction,poor cervical posture, prolonged mouth opening, myofascial pain, and neuropsychological factors\u2013Emotional stress often precedes myofascial pain dysfunction, which accounts for 85% of all cases of TMD\u2013Internal TMJ derangement and/or displacement of TMJ articular disc as a result of chronic dislocations\u2013Iatrogenic mandibular malalignment secondary to occlusal appliance or orthodontic treatment",
+            "Less common causes include whiplash and trauma (e.g., blow to the chin), infection, rheumatologic conditions, tumors, andanatomical anomalies(49)"
+        ],
+        "pathogenesis diagnostic classifications": [
+            "Subgroups of TMD include patients with orofacial pain associated with(16)\u2013Jaw muscle dysfunction characterized by painful articular movements\u2013Articular disc displacement-Permanent or with reduction to normal position (usually on full opening)-Disc repositioning is usually accompanied by clicking joint sound-Anatomical abnormalities include a deep mandibular fossa, steep articular slope, and/or small condyle-Pain is associated with acute retrodiscal inflammation or chronic end-range  stretching of ligamentous structures-Acute anterior disc dislocation with inflammation is more painful than chronic stretch-The end range of motion of opening jaw may be decreased to only 25 mm. Normal jaw opening is 40\u201350 mm(1)\u2013TMJ arthralgia, arthritis, or arthrosis associated with:-Inflammatory and/or degenerative changes in fibrous cartilage covering condyle-Exostoses and erosive irregularities of the temporal surface-Adhesions between temporal and cranial surface of disc-Irregularities of upper surface of disc; loss of elastic properties of supporting ligaments; perforation of retrodiscal tissues",
+            "The American Academy of Orofacial Pain categorizes TMD either articular or muscular based on anatomic origin oforofacial pain(15,16)\u2013The articulating surfaces are the condylar process of the mandible and the glenoid fossa of the temporal bone; the articulardisc is between the two. The TMJ is a true synovial, diarthrotic joint capable of two actions of movement: rotational andtranslational(15)\u2013Articular disorders of TMJ-Ankylosis-Congenital or developmental disorders-Disc derangement-Fracture of condylar process-Inflammatory disorders-Osteoarthritis-TMJ dislocation\u2013Masticatory muscle disorders-Unclassified local myalgia-Myofascial pain-Myofibrotic contracture-Myositis-Myospasm-Neoplasia"
+        ],
+        "risk factors   ,,,": [
+            "Forward head posture, cervical kyphosis",
+            "Overuse \u2013 excessive mouth opening, as in singing, having dental work, or playing a wind instrument",
+            "Malocclusion",
+            "Macrotrauma to jaw, face, neck",
+            "Orofacial anatomic abnormalities",
+            "Psychosocial stress",
+            "Sex: females present for care more commonly than males, at ratios of 3:1 to 4:1",
+            "Rheumatologic and degenerative conditions involving the TMJ",
+            "Joint hypermobility\u2013Investigators in Taiwan found a significant positive association between TMDs and joint hypermobility syndrome in alarge retrospective study published in 2015. Data from a total of 975,788 eligible patients were analyzed. A statisticallysignificant association was observed between joint hypermobility and TMDs, and it was noted that patients withdisc-related  TMDs are more likely to experience joint hypermobility than patients with TMDs without disc disorders(6)",
+            "High trait anxiety\u2013Trait anxiety is the relatively enduring disposition to feel stress, worry, and discomfort\u2013Investigators in China found that the prevalence of psychological distress measured using the Depression, Anxiety, andStress Scales\u201321  (DASS-21)  was significantly higher in patients with TMD in the myofascial pain subgroup than in thenon-myofascial  pain subgroup in a study involving 510 patients with TMD(5)\u2013Researchers in Japan found that TMD symptoms were only weakly associated with trait anxiety in a study involving1,415 adolescents aged 11\u201315  years who self-reported  their TMD symptoms(7)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Cardiovascular symptoms such as angina pectoris or myocardial infarction may manifest in atypical patterns, particularly in women. Any patients complaining of facial pain that is described as a sudden onset of intermittent burning, tingling, or pressure unrelated to jaw function in the presence of relevant cardiac history or signs should be referred immediately for medical screening Blood pressure and pulse should be part of the physical therapy systems screen",
+        "Evidence is lacking to support occlusal adjustment surgery (i.e., removal of teeth that might prevent a normal bite) (16)",
+        "Oral appliances worn continuously for months might create permanent bite changes that increase symptoms(1)",
+        "Refer to physician if there is suspicion of neoplasm or fracture",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "The onset is usually insidious with an unclear mechanism. Occasionally, TMD might develop following trauma (e.g., whiplash injury) or a prolonged dental procedure. In most cases, patients present with a chronic condition involving several components of temporomandibular anatomy",
+                "course of treatment": {
+                    "medical management": "Document the date of initial diagnosis of TMD. Orofacial pain is usually the primary complaint(1,21). Document any prior therapeutic interventions for this condition and whether they were effective or not ",
+                    "surgical management": [
+                        "Surgical management:  Reserved for severe, chronic cases (see Clinical Review\u2026Temporomandibular Joint Disorder: Postsurgical Management ; CINAHL Topic ID Number: 5000008530)"
+                    ],
+                    "medications": " Medications for current illness/injury What medications have been prescribed? Are the medications being taken as prescribed and are they effectively controlling symptoms? NSAIDs, corticosteroids, anxiolytics (e.g., clonazepam [Klonopin]), cyclobenzaprine, acetaminophen, topical methyl salicylate,gabapentin, and muscle relaxants (e.g., diazepam [Valium]) are often prescribed(16) When compared with placebo in an RCT, the following medications were shown to be ineffective in improving pain incelecoxib, diclofenac, topical capsaicin, benzodiazepines(16) Diagnostic tests completed  (1,15,16)Transcranial radiographs including the panoramic, transorbital, and transpharyngeal open and closed positionsis helpful with meniscus involvement, but it is less accurate than MRI and is seldom performedis highly accurate in diagnosing TMD osseous derangementis the procedure of choice to show disk integrity and position as well as degenerative changes of the TMJ. MRI is 95% sensitive and 88% specific(1)",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, cognitivebehavioral  therapy, biofeedback) and whether or not they help Acupuncture is increasingly used with myofascial TMD.(8) Systematic reviews indicate that acupuncture may be beneficial as an adjunctive treatment for shortterm  analgesia in TMD(8) Auriculotherapy (ear acupuncture) was found effective for the treatment of students with anxiety and TMDs in an RCT conducted in Brazil that involved 44 college students. The control group received sham treatment. Outcomes measured included anxiety (STAI scale), number of tender points, and EMG activity during temporal muscle contraction(9)",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Pain and dysfunction might interfere with eating, talking, and other oral functions. Pain might increase in relation to dentistry, stress, or oral functions. Does patient do anything to ease the pain?",
+                "body chart": "Use body chart to document location and nature of symptoms. A TMD can result in cervical pain, head pain, ear pain, and facial pain",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant versus intermittent, sharp, dull, aching, burning, numbness, tingling). Facial and/or jaw pain might be accompanied by a variety of symptoms, including clicking, popping, or grinding of the TMJ, locking or catching of the jaw, limited mouth opening, abnormal occlusal wear, headache, earache, dizziness, and/or cervical pain",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables. Pain primarily in the morning might indicate nighttime mouth clenching",
+                "sleep disturbance": "Does pain disturb sleep? Document number of wakings/night. In what position does patient sleep? Habitual sleeping in prone position has been associated with TMD.(10) Do symptoms require the patient to sleep in a preferred position or to use extra pillows? Does the patient wear a night guard? Does wearing the night guard decrease pain? -Investigators in China found that the prevalence of moderate to severe sleep disturbance is significantly greater in patients with TMD that is categorized as myofascial pain than in TMD patients with non-myofascial  pain(5)",
+                "other symptoms": "Document other symptoms patient might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician -TMD may cause an occipital headache or exacerbate headache symptoms(1,21) -Researchers in Japan found that TMD symptoms were associated with other orofacial pain conditions and neck pain in children and adolescents(7)  Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Check for presence of cervical spine disorders or arthritic/joint disorders that might indicate a systemic polyarthritic condition. Review medications that have been prescribed and discontinued",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders.Approximately 70% of the general population who report headaches also present with symptoms of TMD.(21) Patients with rheumatoid arthritis involving the TMJ often have bilateral symptoms(15)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she might be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Question about stress as it relates to pain. Question about oral activities that reproduce pain (e.g., chewing gum, nail biting, chewing hard versus soft foods, clenching and grinding of teeth, eating, talking, laughing, yawning)",
+                "functional limitations assistance with ADLs adaptive equipment": "Oral activities that require wide opening of mouth (e.g., eating, talking, singing) might be affected. Inquire whether oral hygiene and/or usage of dentures are affected",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting) \u2022Activities of Daily Living (ADLs): Document which oral ADLs (i.e., that involve the mouth and/or face) are altered by TMD symptoms. Are any ADLs affected by headache or neck pain? \u2022Joint mobility:  Assess mobility of cervical spine and the involved TMJ (compare to uninvolved TMJ)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [
+                "Evaluate opening pattern of jaw movement: Ask patient to open jaw slowly as wide as possible. Assess if opening is straight, lateral deviation to right or left, an \u201cs\u201d deviation, or other pattern. Assess closing/occlusal pattern(1,15,16)",
+                "Palpate TMJ for crepitus during mouth opening and closing. Document sounds as none, click, coarse crepitus, or fine crepitus(1,15,16)",
+                "The timing of the clicks might also be recorded as reproducible on opening, reproducible on closing, reproducible with reciprocal click, or nonreproducible click. This can be repeated for lateral excursion and protrusion",
+                "Palpate masticatory and associated muscles at rest, including anterior temporalis, masseter (origin, body, and insertion), posterior mandibular region (stylohyoid/posterior digastric), and submandibular region (medial pterygoid, suprahyoid, anterior digastric). During palpation, ask the patient about the presence of pain at the palpation site, whether palpation produces pain referral to a distant site, and whether palpation reproduces the pain the patient has been experiencing",
+                "Extra-oral  palpation has been found to have acceptable reliability, and use of a pressure algometer further improves reliability",
+                "The lateral pterygoid and temporalis tendon might be palpated intraorally with a gloved index finger, but this was not found to be reliable in untrained examiners",
+                "Ask patient to report level of pain experienced with palpation: 0 = no pain/pressure only, 1 = mild pain, 2 = moderate pain, 3 = severe pain",
+                "Palpation might also include the cervical spine, scalene, and sternocleidomastoid muscles, as indicated",
+                "Observe position of teeth on mouth closure: overbite, underbite, overjet (overbite with top incisors overlapping bottom incisors), etc.",
+                "Observe whether facial expressions are affected",
+                "Observe mobility of cervical spine during head movements"
+            ],
+            "posture": "Assess cervical posture for kyphosis (i.e., forward head position). Measure translation with a plumb line. Include evaluation of cervical, thoracic, and lumbar spine. Check rib and shoulder symmetry",
+            "range of motion": "Measure vertical ROM of mouth opening with millimeter ruler from edge of central incisor above and below. Record maximal unassisted opening without pain, maximum unassisted opening with any associated pain, and maximum assisted opening with any TMJ pain. Normal mean maximum unassisted opening is 52.9 mm for adult males and  45.4 for adult females, or about the width of the patient\u2019s 2nd, 3rd, and 4th fingers. For functional activity 25 mm to 35 mm is needed.(11)",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation"
+            ],
+            "cryotherapy precautions": [
+                "Hypertension  cold can lead to an increase in blood pressure",
+                "Hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement over superficial nerves for extended periods (> 1 hour)",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Over infected areas",
+                "Impaired cognition or language barrier",
+                "Over areas of known malignancy",
+                "Over an area of recent hemorrhage or edema, or potential hemorrhage",
+                "In any situation deemed unreliable by the practitioner"
+            ],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [
+                "Stimulation through or across the chest",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Over carotid sinuses",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Over pharyngeal area",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Used in close proximity to diathermy treatment",
+                "Over the region of a cardiac pacemaker ",
+                "Over the pelvis, abdominal, and lumbar regions during pregnancy",
+                "Over the eyes and testes",
+                "In an area with infection or bleeding",
+                "If a tumor is present",
+                "In the area of deep vein thrombosis (DVT) or thrombophlebitis",
+                "Over the heart, stellate, or cervical ganglia",
+                "Over epiphyseal plates",
+                "During pregnancy, over the abdomen and low back",
+                "Over active bone growth at the epiphysis",
+                "Over a known or suspected area for cancer",
+                "Over the infected tissue in a tuberculosis infection",
+                "Over an area of active bleeding  can be used in area of hematoma",
+                "Over skin with impaired circulation  recommend use pulsed",
+                "Following are considered contraindications but have no evidence to support -Myositis ossificans -Deep vein thrombosis or thrombophlebitis -Acute injury -Recently irradiated tissue -Impaired sensation due to nerve damage -Skin disease -Implanted cardiac pacemaker or other implanted electronics -Reproductive organs -Eyes -Anterior neck",
+                "Metal implants, head, and heart often listed but consensus is there should not be contraindications",
+                "Note: Always decrease ultrasound intensity if the patient complains of discomfort",
+                "Over plastic or cemented implants",
+                "Over spinal cord and superficial or regenerating nerves (poor evidence)",
+                "Over low back and abdomen during pregnancy",
+                "Over known or suspected area of malignancy",
+                "Over area of active bleeding",
+                "Following are considered contraindications but have no evidence to support -Myositis ossificans -Deep vein thrombosis or thrombophlebitis -Recently irradiated tissue -Implanted cardiac pacemaker or other implanted electronics -Reproductive organs -Eyes -Anterior neck",
+                "Over epiphysis with active bone growth",
+                "Over infected area",
+                "Over acute injury",
+                "Over area of impaired sensation due to nerve damage",
+                "With patients with impaired cognition or communication",
+                "Over areas of impaired circulation",
+                "In the presence of skin disease",
+                "Over plastic and cemented implants",
+                "Over spinal cord and superficial or regenerating nerves (poor evidence) "
+            ],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Cryotherapy  contraindications:(3)",
+                "Cryotherapy  precautions:(3)",
+                "Superficial heat  contraindications:(3)",
+                "Electrotherapy  contraindications/precautions: (in some cases, when approved by the treating physician , electrotherapy might be used under some of the circumstances listed below when benefits outweigh the perceived risk)(3)",
+                "Therapeutic ultrasound  contraindications: do not use:(3)",
+                "Therapeutic ultrasound, continuous contraindications:(3)",
+                "Therapeutic ultrasound, continuous  precautions:(3)",
+                "Therapeutic ultrasound, pulsed  contraindications:(3)",
+                "Therapeutic ultrasound, pulsed  precautions:(3)"
+            ]
+        },
+        "diagnosis need for treatment": "TMD/orofacial pain, mandibular dysfunction that interferes with oral ADLs, tenderness in soft tissues, loss of jaw ROM, headaches, education in behavior modification Rule out  (1,15,16) Temporal arteritis Toothache, dental conditions Referred pain from ear, sinus, parotid gland, or, rarely, eye Radicular cervical pain Angina Trigeminal neuralgia Condylar fracture/dislocation Neoplasm of jaw, salivary glands, or orofacial muscles Migraine headache Ramsey Hunt syndrome (zoster auricular syndrome)",
+        "rule out": "",
+        "prognosis": [
+            "Prognosis is favorable in the vast majority of patients treated conservatively with a comprehensive treatment approach including pain control, restoration of normal muscle function, stress management, and behavior modification(16)",
+            "Although TMD often is chronic, symptoms might wax and wane",
+            "In most patients, symptoms will abate without intervention. Fifty percent of patients report improvement at 1 year and 85% by 3 years(16)",
+            "With conservative treatment, 75% of cases resolve within 3 months(16)",
+            "In a systematic review of literature on patients\u2019 subjective perception of improvement of tinnitus before and after conservative TMD treatment, investigators found thatindividuals treated with a myorelaxant splint and therapies such as physical therapy and acupuncture were more likely to experience tinnitus remission than those treated with a myorelaxant splint alone(23)",
+            "Surgical intervention might be considered in the small percentage (less than 5%) of patients with recalcitrant pain and dysfunction accompanied by evidence of internal TMJ dysfunction and/or pathology(15)",
+            "In a retrospective cohort study, arthroscopic lysis and lavage surgery (AS) to decrease pain and improve maximum interincisal opening was successful in 62.3% of 247 TMD patients treated by a single surgeon from 2010 to 2015 in Massachusetts (24)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Dentist for oral disease that might indicate dental surgery Orthodontist for consult regarding oral braces/splint Acupuncturist (or other alternative pain management specialist) for intractable pain Clinical psychologist for cognitive behavioral therapy that involves progressive relaxation, abdominal breathing, and discussions of fear avoidance and pain behavior management issues(8) In an online survey of 256 dentists in Florida, 41% reported that they were unaware that physical therapists can treat TMD. Oral surgeons and orthodontists were more aware compared to other specialties(18)",
+        "other considerations": [
+            "Authors of a meta-analysis  and systematic review found no significant difference in short-  or long-term  pain improvement between intracapsular injections of corticosteroids (CS) or sodium hyaluronate (NaH) for TMD. There was evidence that NaH was better than placebo(20)",
+            "Another systematic review and meta-analysis  showed that corticosteroid injections after arthrocentesis were superior to placebo in relieving pain but were inferior in increasing maximal mouth opening in the long term. Corticosteroid and hyaluronate injections without arthrocentesis decreased pain and improved maximal mouth opening. The corticosteroid group had an overall lower success rate than the hyaluronate group in the short term(22)",
+            "Authors of a retrospective cohort study in Turkey concluded that the stepped surgical treatment approach of arthrocentesis under local anesthesia as the first line of treatment followed by arthroscopic lysis and lavage under general anesthesia for unresolving cases was effective for internal derangement of TMJ with or without osteoarthritis(14)",
+            "In 2017, authors of a systematic review and meta-analysis  found no relevant differences in outcomes between custom and stock TMJ surgical prosthetic devices(13)  \u2013Twenty studies with 1262 patients who had a TMJ replacement surgery \u2013Pre- and post-surgical  outcomes measured were maximal incisal opening, pain, diet, and function"
+        ],
+        "treatment summary": [
+            "Authors of a study in India found that ultrasound and phonophoresis were effective treatment modalities in patients with TMD(17) \u2013Fifty patients with TMD were randomly assigned to an ultrasound (acoustic gel) group or a phonophoresis (acoustic gel with aceclofenac) group \u2013Assessment of pain (V AS) and inflammation (C-reactive protein,CRP) were assessed before and after the 3 times per week for 2 weeks treatment \u2013There was a significant decrease in V AS and CRP scores before and after treatment in both groups, with slightly superior scores in the phonophoresis group",
+            "Researchers of an RCT conducted in Brazil found that mobilization of the upper cervical spine and craniocervical flexor training decreased orofacial pain and headaches in women with TMD(21) \u201361 women with TMD were randomized into a control group (CG) or an intervention group (IG) \u2013The CG received no intervention and the IG received suboccipital inhibition technique, passive AP upper cervical mobilization, sustained natural apophyseal glide (SNAG) for C1-C2  rotation, and craniocervical flexor stabilization exercise \u2013The IG received 10 sessions over 5 weeks \u2013Significant improvement in orofacial pain occurred at the fourth week of treatment",
+            "In a quasi-experimental  study in Brazil, physical therapy manual myofascial release and joint mobilization was assessed in 10 healthy subjects and 10 subjects with TMD through pain levels and EMG activity of the masseter and temporal muscles during maximum occlusion and chewing gum. There was no effect of manual therapy on EMG activity. There was pain level reduction in maximum occlusion and chewing gum after manual physical therapy(19)",
+            "Authors of a placebo-controlled  study in Brazil found that low-level laser therapy on the muscles of mastication was ineffective for treating young patients (14 to 23 years old) with TMD(4)",
+            "Self-care  might aid healing and prevent further injury. Self-care guided by the clinician includes modified oral rest (e.g., limiting mouth opening), applying moist heat or icing (as preferred), massaging affected jaw muscles, and gentle ROM jaw exercises(48,49) . Problem Goal Intervention Expected Progression Home Program  Pain on palpation of TMJ and jaw muscles and with jaw movement _ _ Limited TMJ functions \u2013 jaw opening that affects eating (chewing, drinking, swallowing), yawning, speaking, laughingReduce/eliminate pain with functional jaw activities _ _ Reduce/eliminate palpable tenderness _ _ Improved mandibular ROM to within normal functional rangeModalities _ Ultrasound and phonophoresis are modalities that decrease pain and inflammation(50) _ _ _ Physical agents _ Ice and heat applications are frequently included in self-care education for TMD patients. Superficial heatmight have a palliative effect _ _ Manual therapy _ Accessory joint oscillatory mobilizations applied to the TMJ in transverse-medial, posterior-anterior, and longitudinal- cephalic directions. Trial of massage and muscle energy strain-counterstrain techniques applied to masticatory muscles _ _ Therapeutic exercises _ Active/assisted stretching _ Slowly open mouth to point of pain, and then open a little further using thumb and index finger to stretch. Can be performed as a hold/ relax or static stretch _ _ Stabilization _ Use index finger to provide light pressure to resisted motion in an isometric manner (no jaw movement) _ _ Manual mobilization _ Gentle, pain-free passive accessory motion to TMJ _ _ Coordination exercises/ neuromuscular control _ Open and close mouth slowly, with index finger on lateral pole of TMJ to control mandibular motion, while maintaining midline motion without asymmetry (use mirror) _ _ Splints _ Occlusive splints are frequently prescribed by dentists _ _ These can be repositioning splints or stabilization splints, and can be hard (acrylic) or soft. Flat plane repositioning splints have traditionally been used to reduce teeth grinding and treat the neuromuscular component of masticatory disorders _ _ Repositioning splints have the potential to cause irreversible occlusive changes and other problems. There is no evidence that occlusal adjustment improves or prevents TMDs(16) _N/A Educate patient that jaw clenching and certain oral habits might contribute to pain and dysfunction. Counsel about the nature of problem and prognosis _ _ Educate to reduce overuse/repetitive strain of the masticatory system by voluntary relaxation of jaw muscles. Counsel to recognize teeth clenching and avoid chewing (e.g., gum, hard foods), clenching pipe or cigar, nail biting, chewing on pencils, or leaning on the jaw _ _ Instruct patient in a home exercise program to complement the physical therapy exercise program and self massage and stretches of mastication muscles. Exercises should be progressed as the patient moves through phases of healing  Headache, ear pain, tinnitus, neck painReduce/eliminate associated pain and symptomsPostural training _ Cervical dysfunction and forward head posture is associated with TMDs. Cervical postural exercises might reduce pain and increased oral opening(21) _Progress as indicated and appropriateInstruct patient in postural exercises ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced resolved pain during oral activities": [
+            "V AS"
+        ],
+        "improved maximal pain-free  opening of the jaw": [
+            "Measurement of mouth opening with a millimeter ruler"
+        ],
+        "reduced resolved tenderness and pressure-pain  threshold": [],
+        "improved or normalized oral function  reduced disability  in daily activities": [
+            "Reduced reliance on oral appliance"
+        ],
+        "improved cervical posture": [
+            "Cervical posture reassessment"
+        ]
+    },
+    "maintenance or prevention": [
+        "Education that includes training in autorelaxation, breathing exercises, and work modification so that neck muscles are not stressed(12)",
+        "Soft diet, avoid chewing gum(2,11,16)",
+        "Avoid sleeping in prone position(11)",
+        "Undergo timely dental treatment and maintain good oral hygiene(11)",
+        "Use of mouth guard at night to prevent grinding(11)",
+        "Avoid wide, uncontrolled opening, such as yawning(16)"
+    ],
+    "patient education": [
+        "American Academy of Orofacial Pain, \u201cTMD Patient Information Brochure\u201d (pdf), http://www.aaop.org/content.aspx? page_id=22&club_id=508439&module_id=108085 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bhatnagar S, Knopp HE, Azuh O. Temporomandibular joint dysfunction. In: Frontera WR, Silver JK, eds. Essentials of Physical Medicine and Rehabilitation . 4th ed. Philadelphia, PA: Elsevier Saunders; 2019:624-628.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Schneider BN, Fields SA. Temporomandibular joint disorder (TMD). In: Domino FJ, ed. The 5-Minute Clinical Consult Standard 2016 . 24th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2015:1080-1081.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "In: Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016:42-43.  80-81, 127, 349-356. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Leal de Godoy CH, Motta LJ, Santos Fernandes KP, Mesquita-Ferrari  RA, Deana AM, Bussadori SK. Effect of low-level laser therapy on adolescents with temporomandibular disorder: a blind randomized controlled pilot study. J Oral Maxillofac Surg . 2015;73(4):622-629.  doi:10.1016/j.joms.2014.09.018. (RCT)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Lei J, Liu MQ, Yap AU, Fu KY. Sleep disturbance and psychologic distress: prevalence and risk indicators for temporomandibular disorders in a Chinese population. J Oral Facial Pain Headache . 2015;29(1):24-30.  doi:10.11607/ofph.1301. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Chang TH, Yuh DY, Wu YT, et al. The association between temporomandibular disorders and joint hypermobility syndrome: a nationwide population-based  study. Clin Oral Investig. 2015;19(8):2123-2132.  doi:10.1007/s00784-015-1422-7.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Karibe H, Shimazu K, Okamoto A, Kawakami T, Kato Y, Warita-Naoi  S. Prevalence and association of self-reported  anxiety, pain, and oral parafunctional habits with temporomandibular disorders in Japanese children and adolescents: a cross-sectional  survey. BMC Oral Health . 2015;15(8). doi:10.1186/1472-6831-15-8.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Gauer RL, Semidey MJ. Diagnosis and treatment of temporomandibular disorders. Am Fam Physician . 2015;91(6):378-386.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Iunes DH, Chaves Ede C, Moura Cde C, et al. Role of auriculotherapy in the treatment of temporomandibular disorders with anxiety in university students. Evid Based Complement Alternat Med . 2015;2015:430143. doi:10.1155/2015/430143. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Yalc#nkaya E, Cingi C, Bayar Muluk N, Ulusoy S, Hanci D. Are temporomandibular disorders associated with habitual sleeping body posture or nasal septal deviation? Eur Arch Otorhinolaryngol . 2016;273(1):177-181.  doi:10.1007/s00405-014-3476-6.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Rajsekhar H. Physical therapy in temporomandibular disorders. Indian J Physiother Occup Ther . 2015;9(2):198-204.  doi:10.5958/0973-5674.2015.00080.5.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Wahlund K, Milsson IM, Larsson B. Treating temporomandibular disorders in adolescents: a randomized, controlled, sequential comparison of relaxation training and occlusal appliance therapy. J Oral Facial Pain Headache . 2015;29(1):41-50.  doi:10.11607/ofph.1285. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Zou L, He D, Ellis E. A comparison of clinical follow-up at different total temporomandibular joint replacement prosthesis: a systematic review and meta-analysis.  J Oral Maxillofac Surg . 2018;76(2):294-303.  doi:10.1016/j.joms.2017.08.022. (M)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Efeoglu C, Calis AS, Koca H, Yuksel E. A stepped approach for the management of symptomatic internal derangement of the temporomandibular joint. J Otolaryngol Head Neck Surg . 2018;47(1):N.PAG-N.PAG.  doi:10.1186/s40463-018-0282-y.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Insalaco L. Temporomandibular joint syndrome. In: Ferri F, ed. Ferri's Clinical Advisor 2020 ; 2020:1348. (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Lahlou RM, Scheider BN. Temporomandibular joint disorder (TMD). In: Domino FJ, ed. The 5-Minute Clinical Consult 2020 . Philadelphia, PA: Wolters Kluwer; 2020:968-969. (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Ramakrishnan S, Aswath N. Comparative efficacy of analgesic gel phonophoresis and ultrasound in the treatment of temporomandibular joint disorders. Indian J Dent Res . 2019;30(4):512-515.  doi:10.4103/ljdr.IJDR_634_17. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Gadotti IC, Hulse C, Vlassov J, Sanders D, Biasotto-Gonzalez  DA. Dentists\u2019 awareness of physical therapy in the treatment of temporomandibular disorders: a preliminary study. Pain Res Manage . 2018;1-8.  doi:10.1155/2018/1563716. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Bageston de Britto P, Bisi MA, Dhein W. Effect of manual therapy on pain and electromyographic activity of masticatory muscles in patients with temporomandibular disorders. Manual Ther Posturology Rehabil J . 2019;17:715. doi:10.17784/mtprehabjournal.2019.17.715. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Moldez MA, Camones VR, Ramos GE, Padilla M, Enciso R. Effectiveness of intra-articular  injections of sodium hyaluronate or corticosteroids for intracapsular temporomandibular disorders: a systematic review and meta-analysis.  J Oral Facial Pain Headache . 2018;32(1):53-66.  doi:10.11607/ofph.1783. (M)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Calixtre LB, Oliveira AB, de Sena Rosa LR, et al. Effectiveness of mobilisation of the upper cervical region and craniocervical flexor training on orofacial pain, mandibular function and headache in women with TMD. A randomised, controlled trial. J Oral Rehabil . 2019;46(2):109-119.  doi:10.1111/joor.12733. (RCT)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Liu Y, Wu J, Fei W, et al. Is there a difference in intra-articular  injections of corticosteroids, hyaluronate, or placebo for temporomandibular osteoarthritis?. J Oral Maxillofac Surg. 2018;76(3):504-514.  doi:10.1016/joms.2017.10.028. (M)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Cavalcante Feitoza C, de Lemos Menezes P. Prognosis of conservative treatment in individuals with temporomandibular disorders and tinnitus: a systematic review. Muscles Ligaments Tendons J . 2018;8(1):123-134.  doi:10.32098/mltj.01.2018.16. (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Haeffs TH, D'Amato LN, Khawaja SN, Keith DA, Scrivani SJ. What variables are associated with the outcome of arthroscopic lysis and lavage surgery for internal derangement of the temporomandibular joint? J Oral Maxillofac Surg . 2018;76(10):2081-2088.  doi:10.1016/j.joms.2018.04.018. (R)"
+        }
+    ]
+}

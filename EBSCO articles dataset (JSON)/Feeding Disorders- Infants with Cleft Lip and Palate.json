@@ -1,0 +1,423 @@
+{
+    "metadata": {
+        "title": "Feeding Disorders  Infants with Cleft Lip and Palate",
+        "synonyms": [
+            "craniofacial anomaly",
+            "facial malformation",
+            "craniofacial disorder",
+            "cleft palate, infants with: feeding disorders",
+            "cheiloschisis, infants with: feeding disorders"
+        ],
+        "anatomical location body part affected": [
+            "Mouth, oral structures, oropharynx, nasopharynx, and overall nutritional health"
+        ],
+        "area of specialty": [
+            "swallowing and swallowing disorders",
+            "pediatric genetic and/or neurological disorders",
+            "infant feeding and feeding disorders",
+            "craniofacial and/or oral motor abnormalities"
+        ],
+        "description": [
+            "Cleft lip and palate are birth defects that affect the upper lip and the palate (roof of the mouth). A cleft lip is a separation of the two sides of the lip. The separation can include the bones of the upper jaw and/or upper gum.(1) A cleft palate is an opening that results from the two sides of the palate not fusing together as the fetus is developing.(1) An infant can have a cleft lip, cleft palate, or both; each of these defects can be unilateral or bilateral. Feeding issues for infants with cleft lip and/or palate will vary from minimal for infants with cleft lip alone to severe for infants with cleft palate combined with multiple other anomalies(1)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "787.21": "dysphagia, oral phase",
+            "749.00": {
+                "base": "cleft palate, unspecified",
+                "749.01": "unilateral, complete",
+                "749.02": "unilateral, incomplete, cleft uvula",
+                "749.03": "bilateral, complete",
+                "749.04": "bilateral, incomplete"
+            },
+            "749.04": {
+                "base": "bilateral, incomplete",
+                "749.11": "unilateral, complete",
+                "749.12": "unilateral, incomplete",
+                "749.13": "bilateral, complete",
+                "749.14": "bilateral, incomplete"
+            },
+            "749.20": {
+                "base": "cleft palate with cleft lip, unspecified",
+                "749.21": "unilateral, complete",
+                "749.22": "unilateral, incomplete",
+                "749.23": "bilateral, complete",
+                "749.24": "bilateral, incomplete",
+                "749.25": "other combinations"
+            }
+        },
+        "ICD-10 codes": {
+            "P92.2": "slow feeding of newborn",
+            "P92.3": "underfeeding of newborn",
+            "P92.4": "overfeeding of newborn",
+            "P92.5": "neonatal difficulty in feeding at breast",
+            "P92.6": "failure to thrive in newborn",
+            "P92.8": "other feeding problems of newborn",
+            "P92.9": "feeding problem of newborn, unspecified",
+            "R63.3": "feeding difficulties",
+            "R13.0": "aphagia; inability to swallow",
+            "R13.10": "dysphagia, unspecified",
+            "R13.11": "dysphagia, oral phase",
+            "R13.12": "dysphagia, oropharyngeal phase",
+            "R13.13": "dysphagia, pharyngeal phase",
+            "R13.14": "dysphagia, pharyngoesophageal phase",
+            "R13.19": "other dysphagia",
+            "Q35.1": "cleft hard palate",
+            "Q35.3": "cleft soft palate",
+            "Q35.5": "cleft hard palate with cleft soft palate",
+            "Q35.7": "cleft uvula",
+            "Q35.9": "cleft palate, unspecified",
+            "Q36.0": "cleft lip, bilateral",
+            "Q36.1": "cleft lip, median",
+            "Q36.9": "cleft lip, unilateral",
+            "Q37.0": "cleft hard palate with bilateral cleft lip",
+            "Q37.1": "cleft hard palate with unilateral cleft lip",
+            "Q37.2": "cleft soft palate with bilateral cleft lip",
+            "Q37.3": "cleft soft palate with unilateral cleft lip",
+            "Q37.4": "cleft hard and soft palate with bilateral cleft lip",
+            "Q37.5": "cleft hard and soft palate with unilateral cleft lip",
+            "Q37.8": "unspecified cleft palate with bilateral cleft lip",
+            "Q37.9": "unspecified cleft palate with unilateral cleft lip (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Infants with cleft palate have difficulty generating sufficient intraoral pressure for efficient sucking during feeding due to the opening between the oral and nasal cavities.(2) Consequences associated with poor feeding ability include failure to thrive, breastfeeding malnutrition, and morbidity.(2) The following are commonly reported symptoms of feeding problems/dysphagia in infants with clefts:",
+            "Oral phase \u2013Failure to generate sufficient intraoral pressure (suction) during bottle feeding or nursing(2) \u2013Excessive air intake(2) \u2013Nasal regurgitation(2) \u2013Difficulty creating a seal around the nipple(3) \u2013Reduced tongue compression against the nipple due to cleft of the hard palate(3)",
+            "Pharyngeal phase \u2013Choking, gagging(2)",
+            "Other \u2013Fatigue(2) \u2013Prolonged feeds(2) \u2013Failure to thrive(2) \u2013Malnutrition(2) \u2013Severe dehydration(3)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "A newborn with a cleft(s) should be assessed soon after birth by a craniofacial team of professionals that includes a craniofacial surgeon, an orthodontist, a speech-language  pathologist (SLP), and at least one specialist from the following areas: otolaryngology, audiology, pediatrics, genetics, social work, psychology, and dentistry. The team should meet regularly to determine presurgical and postsurgical treatment plans. A nutritionist and a lactation consultant may also be involved if feeding problems are suspected(6)",
+            "Assessment of feeding should include observation of the feeding/mealtime routine and interactions between the caregiver and infant at home if relevant"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Studies indicate that 70% of cleft lip co-occurring  with cleft palate and 50% of cleft palate only cases occur in individualswho have no other physical or developmental anomalies (nonsyndromic cases). Syndromic cases can be attributed tochromosomal syndromes, teratogens, and uncategorized syndromes. Teratogens that are recognized to cause clefts includesubstances such as phenytoin, valproic acid, and thalidomide. Environmental exposures such as maternal alcohol use,cigarette use, herbicides, and high altitude have also been associated with clefts.(4,5) Vitamin A and its congeners (e.g.,Accutane) are also associated with craniofacial anomalies. Epidemiologic studies have shown that the incidence of clefts ishigher in regions of low socioeconomic status(4)",
+            "Feeding problems in infants with cleft lip and palate are caused by difficulty generating sufficient intraoral pressurefor sucking during feeding due to the opening between the oral and nasal cavities.(2) Authors of a retrospective,questionnaire-based study conducted in the Netherlands reported a prevalence of feeding disorders of 67% among the 90children with cleft palate whose parents completed the study(23)"
+        ],
+        "pathogenesis": [
+            "Clefts occur early in pregnancy during the formation of the face. Feeding problems begin in infancy"
+        ],
+        "risk factors  for having a baby with cleft lip and or palate": [
+            "Exposure to teratogens during pregnancy (see Causes , above)(4)",
+            "Family history of clefts(5)",
+            "Race (clefts are more common in infants of Asian and American Indian decent; Black children are least likely to haveclefts)(5)",
+            "Sex of the child (males are twice as likely to have a cleft lip with or without cleft palate; females are more likely than malesto have a cleft palate without cleft lip)(5)",
+            "Maternal obesity during pregnancy(5)",
+            "Having diabetes during pregnancy(5)",
+            "Nutritional deficiency during pregnancy(30)",
+            "Self-administered  allopathic, herbal, or homeopathic medications during pregnancy(30)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Infants with feeding difficulties are at risk for insufficient food/liquid intake, stunted skeletal growth, poor weight gain, anemia, dental problems, and nutritional deficiencies.(6) Ensure that the family/caregivers are aware of the risks associated with feeding disorders(6)",
+        "In infants with Fairbairn-Robin  triad deformities (a subtype of Pierre-Robin sequence), airway obstruction and cyanosis can result when the infant places his or her tongue into the cleft of the palate.(28) The prone and lateral positions typically relieve upper airway obstruction in these infants; the supine position can cause problems with upper airway obstruction(28)"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "A newborn with a cleft(s) should be assessed soon after birth by a craniofacial team of professionals that includes a craniofacial surgeon, an orthodontist, a speech-language  pathologist (SLP), and at least one specialist from the following areas: otolaryngology, audiology, pediatrics, genetics, social work, psychology, and dentistry. The team should meet regularly to determine presurgical and postsurgical treatment plans. A nutritionist and a lactation consultant may also be involved if feeding problems are suspected(6)",
+            "Assessment of feeding should include observation of the feeding/mealtime routine and interactions between the caregiver and infant at home if relevant"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Does the patient have cleft lip, palate, or both? Document the extent of cleft(s) (minimal to severe/profound). Is the cleft(s) unilateral or bilateral? Review medical records to determine if the cleft is of syndromic or nonsyndromic origin ",
+                "course of treatment": {
+                    "medical management": "Medical management will vary according to the infant\u2019s presenting symptoms and nature of the cleft(s) Document the date and nature of any surgeries the patient has had to correct the cleft lip and/or palate Infants with cleft palate who have undergone palatoplasty (surgery to close a cleft palate) sometimes require nasogastric feeding tubes postsurgically; in a study conducted in the United Kingdom, researchers found that babies fed through the nasogastric tube after palatoplasty were calmer, needed less pain medication, and were discharged home earlier than babies in a group that was fed orally immediately following surgery(7) Infants with severe cleft palate who are unable to feed orally might require a feeding tube (nasogastric or gastrostomy) to ensure proper nutrition and hydration(23)",
+                    "surgical management": [],
+                    "medications": "Determine any medications the physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  To assess feeding and swallowing in infants with cleft palate, the SLP can use:",
+                        "Clinical bedside swallow examination (BSE) (including parent/caregiver interview)",
+                        "A videofluoroscopic swallow study (VFSS). A VFSS is indicated if the infant shows signs of aspiration; however, instrumental exams often are not needed in the evaluation of an infant with cleft palate because the feeding difficulty is at the oral stage of the swallow. For detailed information regarding VFSS, see Clinical Review\u2026Dysphagia Assessment: Modified Barium Swallow (Pediatrics) ; CINAHL Topic ID Number: T709077"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., positioning) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether infant has had occupational, speech, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Is the cleft(s) of syndromic or nonsyndromic origin? If the cleft(s) is part of a syndrome, what are the characteristics of the syndrome? Which characteristics are present in the infant? -Has the infant had any recent surgeries (e.g., lip repair)? -Does the infant exhibit signs of aspiration (e.g., recurrent chest infections, pulmonary disease)? -Does the feeding environment encourage the infant\u2019s stability and good position for feeding?(8) -Is the feeding environment calming or distracting?(8) -Is the caregiver/family aware of the infant\u2019s specific feeding difficulties? -How does the caregiver/family respond to the infant\u2019s feeding difficulties?",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document the nature of feeding difficulties. Feeding issues range in severity from minimal for infants with cleft lip alone to severe for infants with cleft palate combined with multiple other anomalies(1)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night) and as the infant fatigues",
+                "sleep disturbance": "Document number of wakings/night; is the child waking at night to feed?",
+                "other symptoms": "Document other symptoms infant or infant\u2019s family/caregivers are experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician, psychiatrist, or social worker (e.g., motor delay, urinary tract infections, parental distress)",
+                "respiratory status": "Note history of respiratory status and current respiratory status for any indication of aspiration. Note any history of respiratory disorder. Depending on the underlying diagnosis, it is possible that the infant is at risk for airway compromise. In infants with Fairbairn-Robin  triad deformities (a subtype of Pierre-Robin sequence), airway obstruction and cyanosis can result when the infant places his or her tongue into the cleft of the palate.(28) The prone and lateral positions typically relieve upper airway obstruction in these infants; the supine position can cause problems with upper airway obstruction(28)High levels of parental distress and depression are associated with feeding disorders, and clinical/ counseling services for families often are warranted(24)For infants with cleft palate, regular hearing evaluations are recommended to rule out the presence of conductive hearing loss as a result of fluctuating middle ear disease (typically otitis media with effusion [OME])(9,10)  -According to the National Institute for Health and Care Excellence (NICE) pathway for assessment and treatment of children with cleft palate, children with cleft palate should be regularly monitored by healthcare professionals for the presence of OME(39)T708613 Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ____________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has the infant experienced previous swallowing/feeding difficulties?",
+                    "comorbid diagnoses": "Ask caregiver about other diagnoses or minor features of the disorder that appear to affect swallowing and eating",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask the infant\u2019s family about other symptoms the infant is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include receive intervention services? If so, are they home-  or clinic-based?  Does the infant receive food orally? Is the infant fed by breastfeeding, bottle feeding, or both? With whom does the infant eat? Where does the infant eat? What types/textures of food does the infant eat? What is the infant\u2019s eating schedule? Who prepares the infant\u2019s food?",
+                "functional limitations assistance with ADLs adaptive equipment": "Obtain information on adaptive equipment the infant is using, such as hearing aids, palatal plate, and adaptive eating equipment or specialized nipples",
+                "living environment": "With whom does infant live (e.g., parents,siblings)? Does the infant attend daycare?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Document use of any adaptive devices for hearing (e.g., hearing aids, cochlear implants), feeding, or body positioningNote any difficulties with positioning and body mechanics that seem to interfere with feeding. It is recommended that an infant be placed in an upright position during feeding to prevent nasal regurgitation. Collaborate with PT and/or OT as necessaryExamine motor function as it relates to feeding and swallowing. Collaborate with the PT and/or OT as necessary",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [
+                "Ultrasonography: Infant sucking and oral transit times can be examined by ultrasonography, an instrumental procedure involving transducers that use high-frequency  sound waves to create images. In infants, the transducer is placed under the chin as they swallow liquid or food. The ultrasonographic scanner can display images of the nipple, tongue surface, hard and soft palates, and hyoid during infant feeding(17)",
+                "Pulse oximetry: Oximetry is used to evaluate hemoglobin oxygen saturation levels before and after feeding. Most infants have an oxygen saturation level of at least 95%. Low saturation levels (below 90%) indicate some degree of hypoxia(18)"
+            ],
+            "posture": "Note posture for eating/feeding. Collaborate with PT and/or OT as necessary to assist infant in attaining efficient posture for feeding ",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "The speech and language of children with cleft palate can be delayed. For detailed information on speech-language  assessment and treatment with patients with cleft palate, see ClinicalT708577",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "The evaluating or treating SLP should note the results of any neurological (MRI, CT), neuropsychological, or psychological/cognitive tests that have been completed. Poor nutritional status early in life can lead to additional developmental delays in children with cleft lip and/or palate(3)",
+            "aac assessment": "",
+            "swallow examination": " Swallow examinationThere are several clinical assessment scales and checklists to evaluate infants; however, no universally accepted feeding assessment tool exists. Scales, surveys, and checklists are commonly used in the clinical examination but often do not include normative data, standardization, validation, or guidelines for interpretation, particularly for infants with cleft palate. SLP knowledge of normal oral motor development and feeding function are essential when evaluating infants(6)Evaluation of an infant\u2019s ability to suck on a bottle and/or breast. Includes assessment of child\u2019s feeding history, oral motor skills, oral tactile responses, suck-swallow-breath coordination, general motor control, and general physical state during feeding and swallowing(11)Evaluation of sucking in infants (up to 3 months of age). Aspects of sucking behavior are classified as normal, disorganized, or dysfunctional(12)Rating scale that examines swallowing and voice in children up to 2 years of age. Ratings include duration of the meal, amount of intake, food consistencies, positioning, sucking from a nipple, sipping from a cup, and coordination of suck-swallow-breath(13)Lip, cheek, tongue, and jaw movements are rated during a typical meal. This scale can be used with children from 1 year of age through adulthood(14)A statistically based protocol for patients who are dependent feeders. Scaled ratings are made for posture, tone, reflexes, general motor control, orofacial structures, orofacial sensory input, orofacial motor control, ventilation, and functional feeding assessment(15)Ratings of lip, jaw, and tongue movement during ingestion of liquids and solid foods. Assessment of sipping from a cup, coughing, gagging, and hypersensitivity associated with feeding and swallowing. A checklist allows for indication of abnormal oral structures, oral reflexes, positioning, diet, utensils, and feeding(16)In-depthT709064FEES is performed to evaluate the anatomy and physiology of the pharynx and the larynx, pharyngeal swallow function, and the patient\u2019s ability to manage secretions and swallow foods and liquids.(17) In addition, it can be used to explore a variety of interventions to determine effectiveness, such as varying bolus consistency, varying posture, or making use of visual feedback for reinforcement.(37) After the insertion of the endoscope, the patient can engage in normal feeding behavior during the evaluation. Food must be light in color to enhance visibility (e.g., milk, puddings, yogurt, bread). FEES is preferred over VFSS in children due to the potential harmful effects of ionizing radiation. Because of the invasive nature of a FEES, it can be difficult to obtain accurate representation of a normal swallow in young children.(6) The American Speech-Language-Hearing  Association has published several online documents relevant to the technical aspects of FEES and the qualifications required to perform FEES(38) -For detailed information on FEES and endoscopic examinations for dysphagia, see Clinical Review\u2026Dysphagia",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve. For detailed information on assessment of children with tracheostomies, see ClinicalChildren with Tracheostomy ; CINAHL Topic ID Number assessment of tracheostomy tube and use of a speaking valve, see Clinical Review\u2026Passy-Muir  Tracheostomy & VentilatorT708919 "
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Feeding and dietary practices vary considerably between families and cultures. It is important for the SLP to understand the family\u2019s concerns and objectives regarding feeding and swallowing before finalizing any recommendations(19)",
+                "Nutritional intake is crucial for the infant\u2019s growth, cognition, motor skills, and physical development, and infants with cleft palate are at high risk for growth failure. Thus, decisions regarding dysphagia treatment are best made by a team approach, with the involvement of appropriate specialists and family members(6)"
+            ]
+        },
+        "diagnosis need for treatment": "Therapeutic intervention for feeding issues is necessary when the infant demonstrates difficulty in feeding or when signs of aspiration and/or malnutrition are present",
+        "rule out": "A pediatrician or genetics specialist should identify if the cleft(s) is a feature of a syndrome",
+        "prognosis": [],
+        "referral to other disciplines": "Feeding assessment and treatment is best performed by a team approach. The following persons often are involved in the management of infants with cleft palates: parents/caregivers, SLP, nurse, lactation consultant, early childhood nurse, dietitian (nutritionist), audiologist, pediatrician, dentist, oral surgeon, psychologist, and maxillofacial surgeon(20)",
+        "other considerations": [],
+        "treatment summary": [
+            "Guidelines \u2013The following is a summary of the Academy of Breastfeeding Medicine\u2019s clinical guidelines for breastfeeding infants with cleft lip and/or palate: -Mothers of infants with cleft lip and/or palate should be encouraged to give their child breast milk because of its protective benefits. Evidence suggests that breastfeeding can protect against otitis media, which is extremely prevalent among these infants(26) -Breast milk feeding (via breast, cup, spoon, or bottle) is recommended over artificial milk feeding. Additionally, there is preliminary evidence regarding the possible benefits of breastfeeding over bottle feeding for the development of the oral cavity in infants with cleft lip and/or palate(26) -Mothers of infants with cleft lip and/or palate should be educated about likely breastfeeding success. In cases in which it is unlikely that direct breastfeeding will the sole feeding method, the need for supplementing with bottled or spoon-fed breastmilk should be encouraged, as well as delayed transitioning to breastfeeding when appropriate(26) -Infants with cleft lip and/or palate should be evaluated for breastfeeding capability on an individual basis. Factors such as size and location of the baby\u2019s oral cleft as well as the mother\u2019s preferences and previous experience with breastfeeding will affect breastfeeding outcomes. There is moderate-level  evidence to suggest that infants with cleft lip are able to generate suction as well as case reports that suggest that these infants often breastfeed successfully. There is also moderate evidence that infants with cleft palate or cleft lip and palate will have difficulty generating suction or  have inefficient sucking patterns. In general, the success of breastfeeding with infants with oral clefts is lower than with infants with typical oral anatomy(26) -Support for a breastfeeding mother is essential regardless of the infant\u2019s cleft status. If a mother wants to breastfeed she should have immediate access to a lactation specialist to help with positioning, management of milk supply, and pumping milk for supplemental feedings. Multiple studies have suggested that the mother of an infant with a cleft lip and/or palate needs and benefits from having access to a healthcare professional who specializes in oral clefts (e.g., nurse specialist, pediatric specialist, lactation consultant with this specialty)(26) -Families of children with cleft lip and/or palate might benefit from peer support with respect to breastmilk feeding or breastfeeding and should be referred to local, national, and international support groups(26) -Hydration and weight gain should be monitored closely in an infant with cleft lip and/or palate, especially as the method of feeding is first being established. If the child\u2019s levels of hydration or weight gain are deemed inadequate it is important to determine an appropriate supplemental feeding plan as soon as possible(26) -The following modifications to breastfeeding positions are recommended; however, they are based on weaker evidence (clinical expertise/expert opinion) and should be evaluated on an individual basis for each patient to determine appropriateness and effectiveness: -Cleft lip only -The infant should be held so that the cleft lip is positioned toward the top of the breast (e.g., an infant with a right-side  cleft lip might feed more efficiently in a cross-cradle  position at the right breast, but in a \u201cfootball hold\u201d position at left breast)(26) -When feeding an infant with a cleft lip, it might help to occlude the cleft with the mother\u2019s finger or support the infant\u2019s cheeks to narrow the cleft and promote closure of the lips around the nipple(26) -For bilateral clefts on the lip, a \u2018\u2018face on\u2019\u2019 straddle position is often the most effective breastfeeding positions(26) -Cleft lip or cleft lip and palate: -The infant should be positioned in a semi-upright  way to reduce nasal regurgitation and reflux of breastmilk into the eustachian tubes -The football hold position typically is more effective than a cross-cradle  position; it might also be helpful to position the breast toward the side of the palate that has the most intact bone to facilitate better compression and prevent the nipple from being pushed into the cleft -Some experts recommend jaw stabilization to help the infant stay latched on to the breast -For large cleft palates, some experts recommend positioning the breast downward to prevent the nipple from being pushed into the cleft -Manual expression of the milk and then placing the milk into the infant\u2019s mouth with a spoon or dropper might be necessary if suction/compression is impossible given the size and location of the cleft(26) -Caution should be used when recommending a prosthesis for orthopedic alignment presurgery as there is strong evidence that prostheses do not increase the effectiveness of breastfeeding(26) -When the infant has an uncomplicated cleft palate repair, breastfeeding can recommence one day after surgery(26) -For infants with cleft lip and/or palate as a feature of an underlying syndrome, it is important to consider the individual features of the child\u2019s syndrome when determining if breastfeeding is safe and appropriate(26)",
+            "In a systematic review of the effects of various feeding interventions on the growth and development of infants with cleft lip, cleft palate, or cleft lip and palate, reviewers examined research up to October 2010 and analyzed the results of 5 RCTs involving a total of 292 babies.(3)Review authors compared squeezable versus rigid feeding bottles, breastfeeding versus spoon-feeding, and maxillary plate versus no plate. They concluded the following: \u2013Squeezable bottles appear to be easier to use than rigid feeding bottles; however, no difference in growth outcomes was found for bottle type \u2013Following surgery for cleft lip, there is evidence that breastfeeding is better than spoon-feeding \u2013No evidence was found that maxillary plate usage assists growth in babies with clefts of the palate \u2013No trials were identified that investigated the effects of additional maternal support or advice during breastfeeding",
+            "Maternal advice and support \u2013Authors of a review of research on feeding interventions for infants with cleft palate found that there is some evidence that parent counseling (e.g., feeding technique instruction, lactation support, nutrition counseling) is associated with better outcomes, such as increased infant weight gain.(2) Consult with a lactation specialist to assist with breastfeeding  counseling. Aspects of counseling include advice on positioning, bottle use, feed duration, recognizing infant feeding cues, and breastfeeding techniques. Many mothers might not be able to breastfeed the infant, and the cleft palate team must be sensitive to the feelings of the mother with regard to the inability to breastfeed \u2013Researchers in the United Kingdom investigated factors that affected feeding in infants with cleft palate with or without cleft lip in a mixed-methods  study that incorporated the use of diaries to record feeding patterns as well as a measure of weight velocity over a 6-week  period.(24) Dependent measures included a V AS to assess mothers\u2019 perceptions of their children and themselves as well as the Edinburgh Postnatal Depression Score (EPDS). They found that the type of bottle did not influence weight and that the most significant effect on weight was cleft type. Infants with larger clefts fed for longer periods and were slower to gain weight. Poor weight gain by the infant was associated with a mother\u2019s low perception of herself and depression. Mothers with infants with visible clefts received higher levels of social support and indicated lower levels of depression. The researchers emphasized that mothers with infants with isolated cleft palate (without cleft lip) need as much support as those parents with children with both cleft lip and palate \u2013In a study conducted in Norway with 12 mothers of infants with cleft lip and/or palate, researchers found that the two most frequently reported themes that emerged from their interviews were wanting to be a \u201ccapable and good mother\u201d and having to cope with the challenges of feeding their child. All of the mothers reacted with great concern at the time of cleft diagnosis and reported that counseling and support from healthcare professionals with expertise in the area of oral clefts was extremely helpful. Despite the help and education these mothers did receive, almost all of them reported that they would have benefitted from additional intervention, support, and counseling. The mothers also reported that they required this support from the time of initial diagnosis until feeding became more manageable; this timeline varied greatly from infant to infant(29) \u2013Some principles for feeding specific to an infant with cleft palate include: -After or during feeding, the infant might sneeze or cough because of fluid in the nasal passages. Nasal regurgitation is not dangerous, and sneezing and coughing allow the infant to clear the nasal passages(20) -An infant with cleft palate might need to be burped more often because of air that is ingested while feeding(20) -Holding the infant in a more upright position will help to prevent nasal regurgitation(20)",
+            "Modified bottles and/or nipples:  Some specialized bottles and nipples can allow the feeder to assist with fluid flow during feeding for infants with cleft palate: \u2013Compressible bottles allow the milk flow to be controlled by the feeder. One example of this type of bottle is the Enfamil Cleft Lip/Palate Nurser by Mead Johnson.(20) The bottle should be squeezed in a pulsing manner in rhythm with the infant\u2019s sucking rhythm (squeeze when the infant is sucking).(20) These have been used with infants who are unable to generate suction to extract fluid independently(2) \u2013Crosscut nipples have been used with rigid or compressible bottles. Some researchers caution against the use of artificial nipples that increase the flow of milk because rapid flow may prevent the infant from developing synchronized sucking, swallowing, and breathing(2) \u2013The SpecialNeeds (formerly called Haberman) Feeder by Medela has a one-way  valve between the bottle and the nipple that allows for adjustment of three different flow rates (e.g., no/slow, medium, high). The reservoir (nipple area) is squeezed by the feeder when the infant sucks(2) \u2013The Pigeon bottle made by Respironics is a bottle that has a one-way  flow valve. Milk flow is adjusted by the tightness of the nipple collar on the bottle rather than by the feeder(20)",
+            "Obturating plates:  An obturating plate (also called obturator) is an acrylic (or vinyl) appliance used to assist with feeding until corrective surgery can be performed by occluding the cleft in the palate between the mouth and the nose.(3,36) There has been limited scientific research investigating the effectiveness of palatal prostheses for feeding \u2013Authors of a review of 26 articles (including randomized controlled trials, case series, and expert advice) published in 2014 sought to determine the efficacy of obturators as well as other interventions for feeding problems in infants with cleft palate. Authors concluded that it is unlikely that one single intervention (e.g., an obturator) will be sufficient to address all the feeding needs of any given child with a cleft palate. The research reviewed indicated that multiple interventions are necessary for each child and might include an obturator, specialized bottles, lactation consultation, and breast milk pumping(34) \u2013Authors of a case study from India with 2 infants with cleft lip and palate (ages 2 days and 1 month) reported on the fabrication and use of palatal obturators\u2014one of thermoplastic resin and the other of autopolymerizing acrylic resin\u2014to  improve feeding abilities. Both infants were reported to have immediate, successful feedings immediately after placement of the obturators(32)",
+            "Cup feeding:  Cup feeding has been used to complement breastfeeding. This method has not been sufficiently examined to determine its usefulness for infants with cleft palate(2) \u2013In a study conducted in Brazil with 44 children (ages 11 to 18 months) who were in the immediate postoperative period after palatoplasty for cleft palate, researchers compared the use of a spoon and a cup for feeding during this time.(33) Prior to the palatoplasty, the children had been fed by bottle. During the immediate postoperative period, researchers found that spoon use was associated with less anterior bolus loss, more food acceptance, and fewer coughing episodes in children who underwent total palatoplasty.(33) Researchers concluded that immediately postoperatively, children who undergo palatoplasty should be fed by a spoon rather than a cup(33)",
+            "Paladai feeding :Paladai feeding is another method for feeding an infant with difficulty breast and bottle feeding. Paladai feeding involves feeding a child expressed breast milk (or formula) using a paladai (a small bowl-shaped  feeding device with a pointed spout on one side). Although this method is often faster and less messy than spoon or cup feeding, it can result in large amounts of milk being poured into the baby\u2019s mouth, increasing the risk of aspiration(35) \u2013In a study conducted in India with 150 2-month-old  infants with cleft lip and palate, researchers compared weight gain from three different feeding methods over the course of 10 months. Infants in this study were either spoon fed, bottle fed, or paladai fed and weight gain was tracked every other month until their first birthday. Researchers found that the weight gain for the paladai feeding group was significantly higher than that of either the spoon or bottle-fed group(35) . Problem Goal Intervention Expected Progression Home Program Feeding difficulties due to cleft palate (inefficient suck, excessive swallowing of air, nasal regurgitation)Increase the infant\u2019s feeding abilitiesAdaptive equipment _ A team approach is recommended for selection and trial of adaptive equipment with the child.(8)Examples include: _ _ Compressible bottles(20) _ _ Crosscut nipples(2) _ _ SpecialNeeds Feeder(1,20) _ _ Pigeon(20) _ Paladai feeding(35) _ _ See Treatment summary , aboveThe infant will increase ability to feed safely and efficientlyAdaptive bottles and nipples should be used during all mealtimes  Nasal regurgitation Improve positioning to attain a more adequate feeding position for the infantModification of an infant\u2019s positioning _ Liquid might exit through the nose during feeding. Place the infant in more upright position to prevent nasal regurgitationThe infant will reduce nasal regurgitationPositioning strategies should be implemented during all feeding times ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved swallow function reduced aspiration risk": [
+            "BSE",
+            "FEES",
+            "Time required for feeding (feeding time should be around 30 minutes for an infant)(6,8)",
+            "Performance of the infant on specific oral motor activities for feeding (e.g., lip closure, sucking)(6,8)",
+            "Due to the potential harmful effects of ionizing radiation on children, VFSS should not be used as an outcome measure"
+        ],
+        "safe increased nutrition and hydration": [
+            "Weight of the infant or other measures of nutritional status (weight-for-height,  height-for-age,  weight-for-age)(3,21)",
+            "Growth of the infant(21)"
+        ],
+        "minimized risk of respiratory complications": [],
+        "maximized quality of life": []
+    },
+    "maintenance or prevention": [
+        "Early parental education in combination with consistent monitoring has been shown to reduce the incidence of failure to thrive and increase weight gain among infants born with cleft lip and/or palate(21)",
+        "Infants with cleft palate are at risk for conductive hearing loss due to the high incidence of otitis media.(10) Monitor hearing to detect any changes in hearing ability",
+        "Feeding issues will change over course of childhood development; monitoring of swallowing and feeding is recommended throughout different developmental stages of oral feeding and physical development",
+        "In a multicenter, population-based  case-control  study conducted in the United States analyzing 2,475 infants with orofacial clefts and 6,147 nonmalformed control subjects, researchers found that there was a reduced risk of orofacial cleft associated with higher quality maternal diet (e.g., lower fat, fewer processed foods) prior to the mother becoming pregnant and during her pregnancy(22) Patient/Parent Education",
+        "It is important that the dysphagia team educate the parents/caregivers on positioning of the infant for feeding, environmental modifications for feeding, adaptive equipment for feeding, feeding choices and methods, and the feeding problem and associated risks.(8) When educating the parents about adaptive equipment, the SLP should: be aware of cultural variations that influence feeding practices assist in helping the parent get access to the equipment when possible(8) explain the rationale behind the use of the equipment(8) demonstrate the correct use of the equipment(8) provide ongoing monitoring and review of equipment use(8)",
+        "Providing the parents of an infant with an oral cleft with feeding guidelines and suggestions immediately after birth is essential for fulfillment of nutritional needs and prevention of complications resulting from feeding problems.(27,31) It is  also essential to monitor the infant throughout development for weight gain, hydration, developmental delays, and feeding efficiency so that problems can be addressed as soon as possible and complications can be minimized(27)",
+        "See information on feeding for caregivers and parents (including videos) from the Cleft Palate Foundation at https://cleftline.org/family-resources/feeding-your-baby/",
+        "The Cleft Lip and Palate Association (CLAPA) in the United Kingdom provides information for parents, patients, and professionals on its website: https://www.clapa.com/",
+        "See information for parents from the American Speech-Language-Hearing Association at http://www.asha.org/public/speech/ disorders/CleftLip.htm#signs Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on December 23, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Cooper-Brown  L, Copeland S, Dailey S, et al. Feeding and swallowing dysfunction in genetic syndromes. Dev Disabil Res Rev . 2008;14(2):147-157.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Reid J. A review of feeding interventions for infants with cleft palate. Cleft Palate Craniofac J . 2004;41(3):268-278.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Bessell A, Hooper L, Shaw WC, Reilly S, Reid J, Glenny AM. Feeding interventions for growth and development in infants with cleft lip, cleft palate or cleft lip and palate (review). Cochrane Database Syst Rev . 2011;(2):CD003315. doi:10.1002/14651858.CD003315pub3.  (SR)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Murray JC. Gene/environment causes of cleft lip and/or palate. Clin Genet . 2002;61(4):248-256.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Mayo Clinic Staff. Cleft lip and cleft palate: risk factors. Mayo Clinic Web site. http://www.mayoclinic.org/diseases-conditions/cleft-palate/basics/risk-factors/con-20024619 . Accessed March 26, 2018. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Rommel N. Assessment techniques for babies, infants and children. In: Cichero JA, Murdoch BE, eds. Dysphagia: Foundation, Theory, and Practice . Chichester, United Kingdom: John Wiley & Sons; 2006:466-486.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Kent R, Martin V. Nasogastric feeding for infants who have undergone palatoplasty for a cleft palate. Paediatr Nurs . 2009;21(10):24-29.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Starr S. Management of paediatric feeding problems. In: Cichero JA, Murdoch BE, eds. Dysphagia: Foundation, Theory, and Practice . Chichester, United Kingdom: John Wiley & Sons; 2006:487-539.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Thomas PC. Multidisciplinary care of the child born with cleft lip and palate. ORL Head Neck Nurs . 2000;18(4):6-16.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Aniansson G, Svensson H, Becker M, Ingvarsson L. Otitis media and feeding with breast milk of children with cleft palate. Scand J Plast Reconstr Surg Hand Surg . 2002;36(1):9-15.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Wolf LS, Glass RP. Feeding and Swallowing Disorders in Infancy: Assessment and Management . Tucson, AZ: Therapy Skill Builders; 1992. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Palmer MM, Crawley K, Blanco IA. Neonatal Oral Motor Assessment Scale: a reliability study. J Perinatol . 1993;13(1):28-35.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Morris SE. Pre-Speech  Assessment Scale: A Rating Scale for the Measurement of Pre-Speech  Behaviors from Birth through Two Years . Rev ed. Clifton, NJ: JA Preston; 1982. (PP)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Jelm JM. Oral-Motor/Feeding  Rating Scale . Tucson, AZ: Therapy Skill Builders; 1990. (PP)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Kenny DJ, Koheil RM, Greenberg J, et al. Development of a multidisciplinary feeding profile for children who are dependent feeders. Dysphagia . 1989;4(1):16-28.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Ottenbacher K, Dauck BS, Gevelinger M, Grahn V, Hassett C. Reliability of the Behavioral Assessment Scale of Oral Functions in Feeding. Am J Occup Ther . 1985;39(7):436-440.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Adult dysphagia. American Speech-Language-Hearing  Association Practice Portal Web site. https://www.asha.org/Practice-Portal/Clinical-Topics/Adult-Dysphagia/ . Accessed March 26, 2018. (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Arvedson JC, Rogers BT. Dysphagia in children. In: Johnson AF, Jacobson BH, eds. Medical Speech-Language  Pathology: A Practitioner's Guide . New York, NY: Thieme; 1998:38-64.  (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "McFarland E. Family and cultural issues in a school swallowing and feeding program. Lang Speech Hear Serv Sch . 2008;39(2):199-213.  (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "The Cleft Palate Foundation. Feeding your baby. Cleft Palate Foundation Web site. https://www.cleftline.org/who-we-are/what-we-do/feeding-your-baby/ . Accessed March 26,"
+        },
+        {
+            "number in article": 2018,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Zarate YA, Martin LJ, Hopkin RJ, Bender PL, Zhang X, Saal HM. Evaluation of growth in patients with isolated cleft lip and/or cleft palate. Pediatrics . 2010;125(3):e543-e549. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Carmichael SL, Yang W, Feldkamp ML. Reduced risks of neural tube defects and orofacial clefts with higher diet quality. Arch Pediatr Adolesc Med . 2012;166(2):121-126.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "de Vries IA, Breugem CC, van der Heul AM, Eijkemans MJ, Kon M, Mink van der Molen AB. Prevalence of feeding disorders in children with cleft palate only: A retrospective study. Clin Oral Investig . 2014;18(5):1507-1515.  doi:10.1007/s00784-013-1117-x.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Martin V, Greatrex-White  S. An evaluation of factors influencing feeding in babies with a cleft palate with and without a cleft lip. J Child Health Care . 2014;18(1):72-83. doi:10.1177/1367493512473853. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "American Cleft Palate-Craniofacial  Association. Parameters for the evaluation and treatment of patients with cleft lip/palate or other craniofacial anomalies. Cleft Palate-Craniofacial  Journal. 1993;30(Suppl):S1-S16.  (G)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Reilly S, Reid S, Skeat J, Cahir P, Mei C, Bunik M. Academy of Breastfeeding Medicine. ABM clinical protocol #18: Guidelines for breastfeeding infants with cleft lip, cleft palate, or cleft lip and palate, revised 2013. Breastfeed Med . 2013;8(4):349-353.  doi:10.1089/bfm.2013.998. (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Gil-da-Silva-Lopes  VL, Xavier AC, Klein-Antunes  D, et al. Feeding infants with cleft lip and/or palate in Brazil: suggestions to improve health policy and research. Cleft Palate Craniofac J . 2013;50(5):577-590.  doi:10.1597/11-155.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "du Plessis SM, van den Berg HJS, B\u00fctow KW, Hoogendijk CF. Airway and feeding problems in infants with Fairbairn-Robin  triad deformities. Curationis . 2013;36(1). doi:10.4102/curationis.v36i1.84. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Lindberg N, Berglund A. Mothers' experiences of feeding babies born with cleft lip and palate. Scand J Caring Sci . 2014;28(1):66-73.  doi:10.1111/scs.12048. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Kalaskar R, Kalaskar A, Naqvi FS, Tawani GS, Walke DR. Prevalence and evaluation of environmental risk factors associated with cleft lip and palate in a central Indian population. Pediatr Dent . 2013;35(3):279-283.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Martin V, Greatrex-White  S. An evaluation of factors influencing feeding in babies with a cleft palate with and without a cleft lip. J Child Health Care . 2014;18(1):72-83. doi:10.1177/1367493512473853. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Gupta R, Singhal P, Mahajan K, Singhal A. Fabricating feeding plate in CLP infants with two different material: a series of case report. J Indian Soc Pedod Prev Dent . 2012;30(4):352-355.  doi:10.4103/0970-4388.108943.  (C)"
+        },
+        {
+            "number in article": 33,
+            "reference": "dos Santos Trettene A, da Silva Demoro Mondini CC, Marques IL. Feeding children in the immediate perioperative period after palatoplasty: a comparison between techniques using a cup and a spoon. Revista da Escola de Enfermagem da U S P . December 2013;47(6):1298-1304.  doi:10.1590/S0080-623420130000600007.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Goyal M, Chopra R, Bansal K, Marwaha M. Role of obturators and other feeding interventions in patients with cleft lip and palate: a review. Eur Arch Paediatr Dent . 2014;15(1):1-9.  doi:10.1007/s40368-013-0101-0.  (RV)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Ravi BK, Padmasani LN, Hemamalini AJ, Murthy J. Weight gain pattern of infants with orofacial cleft on three types of feeding techniques. Indian J Pediatr . 2015;82(7):581-585. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Masih S, Chacko RA, Thomas AM, Singh N, Thomas R, Abraham D. Simplified feeding appliance for an infant with cleft palate. J Indian Soc Pedod Prev Dent . 2014;32(4):338-341.  doi:10.4103/0970-4388.140970.  (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Leder SB, Murray JT. Fiberoptic endoscopic evaluation of swallowing. Phys Med Rehabil Clin N Am . 2008;19(4):787-801,  viii-ix. (GI)"
+        },
+        {
+            "number in article": 38,
+            "reference": "American Speech-Language-Hearing  Association. Endoscopic Evaluation of Swallowing (Endoscopy). https://www.asha.org/public/speech/swallowing/endoscopy/ . Accessed June 30, 2018. (GI)"
+        },
+        {
+            "number in article": 39,
+            "reference": "NICE Pathways. Management of OME in children with cleft palate. https://www.nice.org.uk/guidance/cg60/chapter/1-guidance#management-of-ome-in-children-with-cleft-palate . Accessed March 26, 2018. (G)"
+        }
+    ]
+}

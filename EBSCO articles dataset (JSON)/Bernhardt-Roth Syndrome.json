@@ -1,0 +1,364 @@
+{
+    "metadata": {
+        "title": "MeralgiaParesthetica",
+        "synonyms": [
+            "bernhardt-roth  syndrome",
+            "bernhardt syndrome",
+            "lateral femoral cutaneous nerve (lfcn) entrapment",
+            "nerve entrapment, lateral femoral cutaneous",
+            "cutaneous nerve entrapment",
+            "lateral femoral cutaneous nerve syndrome"
+        ],
+        "anatomical location body part affected": [
+            "Anterolateral aspect of thigh/LFCN"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "neurological rehabilitation"
+        ],
+        "description": [
+            "Meralgiaparesthetica (MP), a focal peripheral neuropathy,(25) is a musculoskeletal pain syndrome characterized by paresthesias and numbness in the anterolateral aspect of the thigh(1,2,15)",
+            "The unpleasant sensations result from neuropathy of the LFCN of the thigh which provides sensory innervation to the skin. The usual causes are direct external compression or anatomic entrapment of the nerve, usually medial to the anterior superior iliac spine(25)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {
+            "Mobility G-code set": {
+                "G8978": "Mobility: walking & moving around functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8979": "Mobility: walking and moving around functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8980": "Mobility: walking & moving around functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Changing & Maintaining Body Position G-code set": {
+                "G8981": "Changing & Maintaining Body Position functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8982": "Changing & Maintaining Body Position functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8983": "Changing & Maintaining Body Position functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Carrying, Moving & Handling Objects G-code set": {
+                "G8984": "Carrying, Moving & Handling Objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, Moving & Handling Objects functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, Moving & Handling Objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Self Care G-code set": {
+                "G8987": "Self Care functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8988": "Self Care functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8989": "Self Care functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code set": {
+                "G8990": "Other PT/OT Primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other PT/OT Primary functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other PT/OT Primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code set": {
+                "G8993": "Other PT/OT Subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other PT/OT Subsequent functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other PT/OT Subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No specific issues or information regarding reimbursement have been identified for MP; confirm coverage in each case"
+        ],
+        "presentation signs and symptoms": [
+            "Varying degrees of unpleasant,superficial cutaneous sensations felt in the anterolateral thigh, ranging from the hip region to the knee. Symptoms do not have motor involvement and are sensory in nature and include: \u2013Pain; may be mild to severe \u2013Tenderness \u2013Numbness/diminished sensation \u2013Tingling \u2013Burning \u2013Itching",
+            "Symptoms can be exacerbated by walking or hip extension(16)",
+            "Symptoms are typically unilateral.(22,25) Only 2 of 79 patients had bilateral symptoms in one case series(6)",
+            "Patients commonly rub or massage the affected thigh, leading to possible skin changes (e.g., hair loss)(4)",
+            "Severity of symptoms can range from distracting to disabling and negatively impacts the patient\u2019s ability to sleep and perform daily activities(23) "
+        ],
+        "contraindications precautions to test": [
+            "Paresthesias outside the cutaneous distribution of the LFCN",
+            "Leg weakness or difficulty in ambulation",
+            "Bilateral symptoms can present in up to 20% of cases(23)",
+            "Symptoms reproduced with lumbosacral spinal stress testing (e.g., straight-leg  raise, slump, prone-knee  bending)",
+            "Signs or symptoms suggestive of neuromuscular motor pathology "
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Direct compressive forces on LFCN(16)\u2013Wearing a tight, wide, or heavy uniform belt (e.g., carpenter, police officer)(4)\u2013Wearing tight pants or girdle\u2013Carrying beeper/cell phone on belt\u2013Seat-belt  injury\u2013Direct sudden trauma to the hip",
+            "Anatomic entrapment of the LFCN; for example:\u2013Crossing directly over the anterior superior iliac spine (ASIS) rather than passing medial to it\u2013Ensheathed in the tendinous origin of the sartorius muscle(5)\u2013Although rare, the LFCN can become entrapped beneath the fascia lata of the thigh(26)",
+            "Postural causes\u2013Hyperextension of hip(26)\u2013Excessive lumbar lordosis\u2013Scoliosis(17)",
+            "Primary nerve-root  lesions that may impact the LFCN\u2013Infection\u2013Vertebral disk dysfunction\u2013Spinal stenosis\u2013Osteoarthritis\u2013Multiple sclerosis\u2013Tumor along the iliac crest(16)",
+            "Endocrine and metabolic conditions that may cause LFCN neuropathy(17)\u2013Diabetes\u2013Alcoholism\u2013Hypothyroidism\u2013Lead poisoning",
+            "Intraabdominal/intrapelvic causes of compression of the LFCN\u2013Obesity(17)\u2013Abdominal or pelvic mass (e.g., iliac crest tumor, abdominal aneurysm(16))\u2013Pregnancy(17)\u2013Retroperitoneal mass\u2013Ascites\u2013Disease of the cecum or appendix",
+            "Surgical/iatrogenic injury to the LFCN\u2013Possibly including injury during spinal surgery,(17) hernia repair, renal transplantation, harvesting of iliac bone graft, hipsurgery, and aortic valve and coronary bypass surgery(16)-Injury to the LFCN can also occur following spinal surgery as a transient compression neuropathy from the positioningof the patient and may be misconstrued as a less then optimal outcome(18)"
+        ],
+        "pathophysiology": [
+            "The LFCN originates from L2-3  sensory nerve roots.(16) It emerges from the pelvis usually medial to the ASIS beneaththe lateral or posterolateral margin of the psoas to the iliacus muscle. It then typically passes under the inguinal ligamentto enter the anterior region of the thigh beneath the fascia lata and divides into anterior and posterior branches.(22) Theanterior branch penetrates the fascia lata about 10 cm inferior to the ASIS, supplying the skin over the anterolateral aspectof the thigh down to the knee.(26) The smaller posterior branch supplies the skin over the greater trochanter and much of thecutaneous region of the anterior branch",
+            "External pressure on the LFCN can occur as it passes superficially above, below, or through the inguinal ligament(22)",
+            "25% of MP patients may have variant LFCN anatomy(2)\u2013As reviewed by Harney and Patijn,(2) cadaveric studies indicate that variant LFCN anatomy as it exits the pelvis cancontribute to MP:-Posterior to ASIS across iliac crest-Anterior to ASIS, superficial to origin of sartorius but within inguinal ligament-Medial to ASIS but ensheathed in tendinous origin of sartorius muscle(5)-Medial to origin of sartorius, between thick fascia of iliopsoas muscle and sartorius tendon, deep to inguinal ligament-Most medial to ASIS, deep to inguinal ligament, overlying thin fascia of iliopsoas, and contributing to femoral branch ofthe genitofemoral nerve"
+        ],
+        "risk aggravating factors   ,,": [
+            "Obesity",
+            "Tightening of belt or waistband after weight gain",
+            "Wearing a heavy belt (e.g., tool or gun belt)",
+            "Constrictive garments (e.g., \u201chip-huggers\u201d  worn by mildly obese women(7)) and constrictive items worn below waist (e.g.,carrying heavy items in pocket)",
+            "Military protective body armor(8)",
+            "Leg length discrepancy(9)",
+            "Conditions that may contribute to MP (see Causes , above)",
+            "Persons at highest risk are middle aged adults(1)",
+            "There is a strong association between diabetes mellitus and MP(24)",
+            "Pregnancy",
+            "There is no gender proclivity(22)",
+            "There is no racial predilection(22)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Onset of symptoms after high-energy  trauma",
+        "Back pain with classic radicular leg pain",
+        "History of cancer",
+        "Signs of acute illness: fever, chills, night sweats, nausea, vomiting, diarrhea",
+        "Unexplained weight loss",
+        "Pregnancy",
+        "Bowel/bladder/sexual dysfunction, dizziness, saddle anesthesia, ataxia",
+        "Non-finalized  litigation regarding work disability",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Paresthesias outside the cutaneous distribution of the LFCN",
+            "Leg weakness or difficulty in ambulation",
+            "Bilateral symptoms can present in up to 20% of cases(23)",
+            "Symptoms reproduced with lumbosacral spinal stress testing (e.g., straight-leg  raise, slump, prone-knee  bending)",
+            "Signs or symptoms suggestive of neuromuscular motor pathology "
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Onset of symptoms is typically insidious and related to factors that cause internal or external compression of the LFCN. Ask about any recent surgery, trauma to the affected thigh,and how symptoms are progressing in general -Patients who undergo continuous epidural analgesia following total knee arthroplasty may develop neural ischemia of the L3 nerve root, resulting in MP(21)",
+                "course of treatment": {
+                    "medical management": "Care will depend mainly on the severity of symptoms and the patient\u2019s medical status/other underlying diagnoses. How has the pain responded to treatments?",
+                    "surgical management": [
+                        "Surgical management: Optional nerve release in severe, unresponsive cases;(15) nerve decompression and neurectomy are also mentioned in the literature(16,27)",
+                        "U.S. researchers reported multifocal fiber loss, selective loss of large myelinated fibers, thinly myelinated profiles, regenerating nerve clusters, perineural thickening, and subperineurial edema in subjects with persistent MP. Focal nerve indentation at the inguinal ligament was present in 4/7 subjects who participated in this study(24)"
+                    ],
+                    "medications": "Nonsteroidal anti-inflammatory  drugs (NSAIDs), tricyclic antidepressants,(16) trial of local corticosteroid injection,(16) gabapentin,(15,16)capsaicin cream,(16) Lidoderm patches(16)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "The diagnosis of MP is usually made clinically. Local anesthetic block of the LFCN should provide rapid and temporary relief of symptoms.(6) However, superficial nerve block should not affect symptoms caused by upper lumbar nerve compression or intraabdominal compression of the LFCN",
+                        "Ask about whether the patient had a positive local anesthetic test or nerve conduction study. Needle electromyography (EMG) is normal in those with MP.(16) Plain radiographs may have been ordered to rule out arthritis or fracture. CT scan and/or MRI may have been ordered to rule out a tumor,(15) and blood testing may be done to rule in/out diabetes (MP is more common in patients with diabetes).(23) Magnetic resonance neurography (MRN) is a test that has been used more recently to diagnose MP, as it produces a detailed image of the nerve from resonance signals(17)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack, self-massage) or alternative therapies (e.g., acupuncture) and whether or not they help. Preliminary studies show acupuncture may be helpful, but further research is needed(17)",
+                    "previous therapy": "Document whether the patient has received physical therapy for lower extremity injuries/conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time before symptoms come on or are eased) -Are symptoms related to wearing a uniform? -Does the patient wear tight pants? -Does the patient wear a heavy belt below waistline or carry heavy objects in pocket? -Do symptoms increase with the compressive effect of hip extension and decrease with sitting? -Do symptoms change with activity? -Do symptoms increase at work?",
+                "body chart": "Use a body chart to document location and nature of symptoms",
+                "nature of symptoms": " Nature of symptoms -Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Rate severity with visual analog scale (V AS)",
+                "pattern of symptoms": "Document symptoms throughout the day and night (A.M., mid-day,  P.M., night)",
+                "sleep disturbance": "Document number of wakings/night, if applicable. Is sleep disrupted? If so, ask the patient to describe sleep pattern and position/pillow use. Does the patient report daytime sleepiness?",
+                "other symptoms": "Document other symptoms the patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to a physician (e.g., lower extremity weakness, dizziness, lumbosacral radicular pain, sleepwalking) Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe _______________________ ",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Was the patient previously treated for MP or any other lower extremity dysfunction?Ask the patient about other problems, including kidney disease, diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, etc. Is the patient obese? MP is more common in patients with diabetes(23)",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask about any orthopedic problems that affect weight bearing or ambulation"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors -Do symptoms interfere with the patient\u2019s occupation or participation in recreational or competitive sports? -How much daily physical activity does the patient get? Is the patient typically active or sedentary? Do work or recreational activities (e.g., use heavy tool belt, tight uniform, prolonged sitting) seem to contribute to the",
+                "functional limitations assistance with ADLs adaptive equipment": "Generally, there are no motor deficits or functional limitations",
+                "living environment": "Document whether there are stairs, and the number of floors in the home. Does the patient require assistance at home? If so, identify barriers to independence in the home and whether any modifications are necessary"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures",
+            "anthropometric characteristics": "Document the patient\u2019s height, weight, and body mass index (BMI). High BMI is associated with MP; obesity doubles the risk of MP(10)",
+            "assistive and adaptive devices": "",
+            "balance": "Assess static and dynamic standing balance using single limb and double limb stance with eyes open and closed. Assess double limb stance on toes and heels. The Berg Balance Scale can be used. Balance should not be impaired",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess bilateral distal pedal pulses. Distal pedal pulses should not be affected due to MPAssess bilateral extremities for edema or swelling. Edema is not typically presentAssess work station and/or body mechanics during work and functional activities that may be exacerbating the symptoms (e.g. compression of anterior hip region against workstation)",
+            "functional mobility": "Assess the patient\u2019s ability to independently perform transfers (e.g., chair to stand), stair climbing, and bed mobility. Note any increased complaints of pain or abnormal sensation",
+            "gait locomotion": "Assess the patient\u2019s gait for any abnormalities or deviations; consider if any of them may be contributing to the symptoms. Symptoms can be exacerbated by walking and hip extension(16)No joint pathology is expected in the affected limb. Assess for lumbosacral joint dysfunction (e.g., hypomobility, hyperlordosis). Note hypo/hypermobility using the Paris Stoddard Scale",
+            "muscle strength": "Assess bilateral lower extremity and trunk/abdominal strength using manual muscle testing. Strength is typically unaffected. Muscle weakness of the thigh is associated with femoral or lumbar radiculopathy(16)",
+            "observation inspection palpation including skin assessment": [
+                "No joint deformity is expected",
+                "Skin changes secondary to perpetual rubbing or scratching are possible \u2022Pain: Assess with V AS (at best, worst, and average during episodes) \u2022Palpation:  Assess tenderness of soft tissue structures of the lumbopelvic and lower extremities with V AS (at best, worst, and average). Palpation of the anterior superior iliac spine may reproduce symptoms.(15) Note any muscle atrophy in the bilateral lower extremities. This is not typical in MP and instead is associated with a motor peripheral neuropathy(24)"
+            ],
+            "posture": "Assess posture in standing and sitting, paying specific attention to pelvic, hip, and lumbar spine alignment. The patient may avoid standing erect with hips extended due to increased symptoms.(16) Check for leg length discrepancy, which may contribute to symptoms(9)",
+            "range of motion": "Assess bilateral lower extremity passive and active ROM. ROM should not be impaired except for passive hip extension in prone. In a case-control  study, symptoms were aggravated by passive hip extension in 77% of MP patients(11) ",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess bilateral deep tendon reflexes and note any asymmetry or abnormality. They should not be impaired in cases of MP.(16) Diminished patellar reflex is indicative of a femoral or lumbar radiculopathy(16)",
+            "sensory testing": "Assess bilateral lower extremity and trunk sensation. Decreased sensation to light touch or pinwheel sensation is present in the anterolateral thighTinel\u2019s sign can also be elicited by lightly tapping over the LCFN just medial and inferior to the anterior superior iliac crest;(16) there have been no published clinical trials to validate its diagnostic ability(17)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisThe patient is positioned in sidelying with his or her symptomatic side facing up. The examiner applies a downward compression force to the pelvis and maintains pressure for 45 seconds. If the patient reports an alleviation of symptoms, the test is considered positive(17) -A study in the United Kingdom found the test to have 95% sensitivity and 93.3% specificity(18)The patient is in sidelying with symptomatic side up and the bottom knee bent. The examiner stabilizes the pelvis with the cranial hand and grasps the lower extremity at the knee with the caudal hand. The examiner then bends the knee and adducts the hip in order to place tension on the LFCN. A positive test would be the reproduction of the patient\u2019s neurologic symptoms versus feeling tension in the soft-tissue  structures of the hip. This testing has not been assessed in the literature for its diagnostic ability(17) \u2013Short Form-36  (SF-36)  Health Questionnaire \u2013Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)(17)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "MP/paresthesias felt in the anterolateral thigh; reduced function secondary to the unpleasant sensations; patient education about removal of aggravating factors. Treatment for MP is primarily conservative, supportive, and preventive through the correction/elimination of aggravating factors. Neurolysis and transection of the LFCN are surgical options for relief of symptoms in patients unresponsive to conservative management",
+        "rule out": "Lumbar spine dysfunction (L3 or L4 root lesions),(10) hip or pelvic trauma, polyneuropathy, spinal stenosis, restless leg syndrome, tumor, hip osteoarthritis, hip labral tear,(24) trochanteric bursitis,(24) hip abductor strain,(24) diabetes mononeuropathy,(15) vascular disease, pelvic or retroperitoneal disease, and lumbar plexopathy(16) If MP coexists with back pain, it may be mistaken as a lumbar radicular symptom and the patient may undergo unnecessary spinal surgery(18)",
+        "prognosis": [
+            "Researchers who conducted a systematic review in 2013 concluded that there is a high percentage of individuals who have spontaneous resolution of symptoms. In addition, they concluded that there is a high success rate following steroid injection and surgical intervention (either nerve decompression or neurectomy), but also a high rate of spontaneous improvement(20)",
+            "NSAIDs, cryotherapy (ice pack/ice massage), and removal of constricting items about the waist reduced symptoms in 250/277 (91%) of patients(13)",
+            "Symptoms resolved with nonoperative treatment in 66/79 (87%) patients; 48 also received local corticosteroid injections(6)",
+            "For patients whose symptoms do not resolve, decompression or neurectomy has a high success rate(16) \u2013U.S. researchers conducted a retrospective cohort study to assess the efficacy of surgical intervention for patients with refractory MP(24) -Duration of symptoms ranged from 2 to 15 years -Subjects\u2019 BMI varied from normal to mildly obese and no subjects had diabetes mellitus -6/7 subjects reported improved pain after neurectomy(24) \u2013Researchers in the Netherlands concluded neurectomy provided better pain relief than neurolysis in patients with MP(27) -Fourteen patients underwent neurectomy and 8 underwent neurolysis for MP -93.3% of patients who received neurectomy reported successful pain reduction compared to 37.5% of patients receiving neurolysis"
+        ],
+        "referral to other disciplines": "Primary care physician for medical consult and pain management. Psychiatrist/psychologist for anxiety-depression  disorder. Acupuncturist for pain management. Orthotist for shoe lifts to correct limb length discrepancy. Nursing education/nutritionist for diabetes management, weight loss",
+        "other considerations": [],
+        "treatment summary": [
+            "A thorough history may identify causal or aggravating factors (e.g., leg length discrepancy, obesity). Patient education is indicated to treat the underlying cause and remove direct compressive forces on LFCN (see Causes , above). Most cases improve with wearing looser clothing and losing weight \u2013Weight loss strategies will be based on the individual\u2019s tolerance to mobility and severity of symptoms. Strategies may include: medication, behavioral management, surgery, diet modification and exercise(28)",
+            "The application of cryotherapeutic agents can provide significant relief of symptoms.(13) Topical agents such as capsaicin cream and Lidoderm patches can also provide relief from painful paresthesias(16)",
+            "Research is lacking on whether therapeutic exercise or functional training can improve daytime function in MP. As a sensory mononeuropathy, strength and motor control should remain unaffected. However, postural changes may require correction(9,11)",
+            "Researchers in Israel who conducted a small study involving 10 patients with MP found that the application of Kinesio Tape twice a week for 4 weeks resulted in statistically significant improvement of symptoms and quality of life (QOL), although they advised that further research is warranted(19)",
+            "The role of manual therapy, including therapeutic massage, for pain management in MP is unclear. Active release technique performed for restricted sacroiliac complex and quadratus lumborum muscles was associated with resolution of low back pain and bilateral anterolateral thigh paresthesia in a young, pregnant (16 weeks) woman.(14) However, the presence of low back pain and pain on palpation at L2-3  would question the diagnosis of MP in this case study . Problem Goal Intervention Expected Progression Home Program  Pain, tenderness, numbness, tinglingDecrease severity of symptomsPhysical agents and electrotherapeutic modalities _ Trial of cryotherapeutic agents for pain management _ Kinesio taping(19) _"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes": [
+            "Resolution of symptoms\u2013V AS for pain, patient satisfaction, postural assessment, sensory testing, SF-36,  WOMAC, UCLA activity scale",
+            "Reduction of modifiable aggravating factors\u2013V AS for pain, patient satisfaction, sensory testing",
+            "Reduction of compression of the LFCN\u2013V AS for pain, sensory testing",
+            "Improved functional mobility and fitness\u2013V AS for pain with activities, UCLA activity scale, WOMAC, SF-36",
+            "Normal posture\u2013Posture evaluation",
+            "Pain-free  gait\u2013V AS for pain with gait, WOMAC"
+        ]
+    },
+    "maintenance or prevention": [
+        "The patient should continue with prescribed home exercise program",
+        "The patient should strictly adhere to lifestyle changes (i.e., weight loss management program(28)) and avoid aggravating factors such as eliminating the use of tight clothing or tool belts(16)"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Grossman MG, Ducey SA, Nadler SS, Levy AS. Meralgia paresthetica: diagnosis and treatment. J Am Acad Orthop Surg . 2001;9(5):336-344.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Harney D, Patijn J. Meralgia paresthetica: diagnosis and management strategies. Pain Med . 2007;8(8):669-677.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Russo MJ, Firestone LB, Mandler RN, Kelly JJ. Nerve conduction studies of the lateral femoral cutaneous nerve. Implications in the diagnosis of meralgia paresthetica. Am J Electroneurodiagnostic Technol . 2005;45(3):180-185.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Kotler D. Meralgia paresthetica. Case report in policewoman. JAAPA. 2000;13(10):39-42,  47. (C)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Otoshi K, Itoh Y, Tsujino A, Kikuchi S. Case report: meralgia paresthetica in a baseball pitcher. Clin Orthop Relat Res . 2008;466(9):2268-2270.  (C)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Haim A, Pritsch T, Ben-Galim  P, Dekel S. Meralgia paresthetica: a retrospective analysis of 79 patients evaluated and treated according to a standard algorithm. Acta Orthop . 2006;77(3):482-486.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Parmar MS. Hiphuggers' tingly thighs. CMAJ. 2003;168(1):16. (C)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Fargo MV, Konitzer LN. Meralgia paresthetica due to body armor wear in U.S. soldiers serving in Iraq. Mil Med. 2007;172(6):663-665.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Goel A. Meralgia paresthetica secondary to limb length discrepancy: case report. Arch Phys Med Rehabil . 1999;80(3):348-349.  (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Cubukcu S, Karsli B, Alimoglu MK. Meralgia paresthetica and low back pain. J Back Musculoskelet Rehabil . 2004;17(3-4):135-139.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Mondelli M, Rossi S, Romano C. Body mass index in meralgia paresthetica: a case-control  study. Acta Neurol Scand . 2007;116(2):118-123.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Mickolvitz's Modalities for Therapeutic Intervention. Bellew JW, Michlovitz SL, Nolan TP Jr, eds. 6th ed. Philadelphia, PA: FA Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Williams PH, Trzil KP. Management of meralgia paresthetica. J Neurosurg . 1991;74(1):76-80.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Skaggs CD, Winchester BA, Vianin M, Prather H. A manual therapy and exercise approach to meralgia paresthetica in pregnancy: a case report. J Chiropr Med . 2006;5(3):92-96.  (C)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Lateral femoral cutaneous nerve syndrome. In: Sarwark JF, ed. Essentials of Musculoskeletal Care 4 . Rosemont, IL: American Academy of Orthopaedic Surgeons; 2010:576-578.  (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Craig A, Richardson JK. Rehabilitation of patients with neuropathies. In: Braddom RL, ed. Physical Medicine and Rehabilitation . 4th ed. Philadelphia, PA: Elsevier Saunders; 2011:1092. (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Cheatham SW, Kolber MJ, Salamh PA. Meralgia Paresthetica: A review of the literature. Int J Sports Phys Ther . 2013;8(6):883-893.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Nouraei SAR, Anand B, Spink G, O'Neill KS. A novel approach to the diagnosis and management of meralgia paresthetica. Neurosurg . 2007;60(4):696-700.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Kalichman L, Vered E, Volchek L. Relieving symptoms of meralgia paresthetica using Kinesio taping: A pilot study. Arch Phys Med Rehabil . 2010;91(7):1137-1139. doi:10.1016/j.apmr.2010.03.013. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Khalil N, Nicotra A, Rakowicz W. Treatment for meralgia paraesthetica. Cochrane Database Syst Rev . 2012;(12). Art No: CD004159. doi:10.1002/14651858.CD004159.pub3. (SR)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Shin HJ, Kim YH, Lee HW. Meralgia paresthetica-like  symptoms following epidural analgesia after total knee arthroplasty. Acta Anaesthesiologica Scandinavica . 2014;58(10):1276-1279.  doi:10.1111/aas.12410. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Sekul EA. Meralgia Paresthetica. Medscape Web site. http://emedicine.medscape.com/article/1141848 . Published September 21, 2015. Accessed March 11, 2017. (GI)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Parisi TJ, Mandrekar J, Dyck PJ, Klein CJ. Meralgia paresthetica: relation to obesity, advanced age, and diabetes mellitus. Neurology . 2011;77(16):1538-1542.  doi:10.1212/ WNL.0b013e318233b356. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Berini SE, Spinner RJ, Jentoft ME, et al. Chronic meralgia paresthetica and neurectomy: a clinical pathologic study. Neurology . 2014;82(17):1551-1555.  doi:10.1212/ WNL.0000000000000367. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Sommer C, Zochodne DW. Pain and meralgia paresthetica. Case Studies in Neurological Pain . 2012;27-29.  (GI)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Omchi Y, Tonogai I, Kaji S, Sangawa T, Sairyo K. Meralgia paresthetica caused by entrapment of the lateral femoral subcutaneous nerve at the fascia lata of the thigh: a case report and literature review. The Journal of Medical Investigation . 2015;62(3-4):248-250.  (C)"
+        },
+        {
+            "number in article": 27,
+            "reference": "de Ruiter GC, Kloet A. Comparison of effectiveness of different surgical treatments for meralgia paresthetica: results of a prospective observational study and protocol for a randomized controlled trial. Clinical Neurology and Neurosurgery . 2015;134:7-11.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Fitch A, Everling L, Goldberg J, et al. Prevention and management of obesity for adults. ICSI. 2013. (G) "
+        }
+    ]
+}

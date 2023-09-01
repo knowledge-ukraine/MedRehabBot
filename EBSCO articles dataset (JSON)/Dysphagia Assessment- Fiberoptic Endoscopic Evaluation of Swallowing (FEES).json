@@ -1,0 +1,419 @@
+{
+    "metadata": {
+        "title": "Dysphagia Assessment  Fiberoptic Endoscopic Evaluation of Swallowing (FEES)",
+        "synonyms": [
+            "swallowing disorder  fiberoptic endoscopic evaluation of swallowing (fees)",
+            "deglutition disorder: fiberoptic endoscopic evaluation of swallowing (fees)",
+            " oral dysphagia: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "pharyngeal dysphagia: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "esophageal dysphagia: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "difficulty swallowing: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "dysphagia, oral: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "dysphagia, pharyngeal: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "dysphagia, esophageal: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "swallowing difficulty: fiberoptic endoscopic evaluation of swallowing (fees)",
+            "fiberoptic endoscopic evaluation of swallowing (fees): dysphagia assessment",
+            "endoscopic evaluation of swallowing, fiberoptic (fees): dysphagia assessment",
+            "fees: dysphagia assessment"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [],
+        "description": [
+            "FEES is a procedure in which a flexible fiberoptic laryngoscope is passed through the nasal cavity to visualize swallowing function from inside the pharyngeal cavity.(1,2,3) A FEES can be performed by a specially trained speech-language pathologist (SLP) or by an otolaryngologist (ENT). FEES can be completed in the clinic office, at the bedside, or wherever the patient needs to be examined(4)",
+            "According to the American Speech-Language-Hearing  Association (ASHA), there are five aspects to this procedure:(2) \u2013Examination of the oropharyngeal anatomy(4) \u2013Observation of both movement and sensation of the structures located within the hypopharynx that are essential for swallowing(4) \u2013Observation of secretions and secretion management(4) \u2013Direct assessment of the swallowing ability with both food and liquid(4) \u2013Observation of the patient\u2019s response to therapeutic maneuvers and interventions intended to improve the swallow(4)"
+        ],
+        "indications": [
+            "FEES is indicated for patients with dysphagia(2)",
+            "Indicated in certain patients with dysphagia based on the outcome of an in-depth clinical swallowing examination (CSE)(1) \u2013An in-depth  CSE should always precede a FEES(1,5) -In a study conducted in Turkey, researchers compared the effectiveness of a CSE, FEES, and electromyographic evaluation of swallowing in identifying dysphagia. Subjects included 24 patients who had a stroke within the previous 3 months. For the CSE, patients swallowed 10 mL of water and oxygen saturation was monitored by pulse oximetry. Researchers calculated a \u201cBedside Dysphagia Score\u201d by giving patients a point for each sign/symptom of dysphagia observed during the CSE (0\u20132 was considered normal swallow; 3\u20136was considered dysphagia). Researchers found that a BDS of 3+ was positively correlated with dysphagia identified by the FEES  and the electromyographic evaluations. Researchers concluded that the CSE was as effective in identifying dysphagia post stroke as the FEES and electromyographic evaluations; however, they concluded that best practice for adequately evaluating the nature of dysphagia was to perform a combination of a CSE and an instrumental examination(35) -In a study conducted in Denmark, researchers found that a FEES was not superior to a clinical, noninstrumental examination of swallowing (i.e., CSE) in identifying dysphagia in terms of the number of cases of aspiration pneumonia that developed in a group of patients with acquired brain injury (i.e., stroke, traumatic brain injury, anoxia).(36) Over the course of 2 years, 138 patients from a national neurorehabilitation center were randomized to a FEES assessment group or a Facial-Oral  Tract Therapy (FOTT) assessment group. FOTT is a comprehensive program that provides a structured assessment and treatment for disturbances of facial muscles, speech-  and swallowing-related jaw movements, breathing, swallowing, and the voice. The FOTT assessment is a clinical, noninstrumental examination of swallowing. Decision to initiate oral intake for these patients was based entirely on the single assessment; none of these patients had both types of swallowing assessments. Of the 138 patients included in the study, 16 developed pneumonia (4 FOTT/12 FEES); however, nine were excluded from analysis because six developed pneumonia before oral intake was initiated, and three had a clinical diagnosis of pneumonia but no radiological signs. Of the seven included in analysis, three patients assessed by FOTT and four patients assessed by FEES developed aspiration pneumonia. For this reason, researchers concluded that there was no significant difference between the FOTT and FEES assessments in ability to identify dysphagia; however, the sample size was very small, resulting in low sensitivity(36) -In a study conducted in the United States, seven SLPs who were considered experts in dysphagia were asked to watch videos of CSEs, as well as videos of FEES results, and make recommendations based on these videos. The researcher found that there was no agreement between the CSE and FEES ratings with respect to pharyngeal and laryngeal anatomy and physiology or the characteristics of pharyngeal dysphagia, when present. Additionally, the researcher found that despite being unable to accurately determine the safety of the pharyngeal swallow in 60% of the CSE videos, the SLP still made a recommendation for an oral diet in 25% of these cases. The researcher who conducted this study strongly cautioned SLPs against making a determination about swallowing safety and appropriate oral diet in patients with pharyngeal dysphagia without completing an instrumental examination(39) -In a retrospective study conducted in New Zealand with the records from 440 patients who had been admitted to an inpatient stroke unit in an urban hospital, researchers found that evaluation of patients by FEES resulted in improved outcomes. There were two groups of patients that were analyzed: 220 who were admitted before FEES was introduced as a diagnostic measure for dysphagia and 220 who were admitted after the implementation of an SLP-led FEES program at the hospital. Researchers used the incidence of pneumonia as a primary outcome measure. Medical records indicated that patients were significantly less likely to develop pneumonia following the implementation of the SLP-led FEES program(40) \u2013For detailed information on an in-depth  CSE, see Clinical Review\u2026Dysphagia Assessment: In-depth  Bedside Swallow Examination (Adults) ; CINAHL Topic ID Number: T709037 and Clinical Review\u2026Dysphagia Assessment: In-depth Bedside Swallow Examination (Pediatrics) ; CINAHL Topic ID Number: T709064",
+            "Might be part of a comprehensive medical workup if a physician is attempting to determine a patient\u2019s underlying diagnosis"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "92612:": "flexible fiberoptic endoscopic evaluation of swallowing by cine or video recording",
+            "92700:": "unlisted otorhinolaryngological service or procedure (for flexible fiberoptic endoscopic evaluation of swallowing without cine or video recording)"
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for procedure will depend on insurance contract coverage; no specific special agencies are applicable for this procedure Indications for Procedure"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Prior to FEES, ensure that the patient is not NPO status (nothing by mouth) awaiting a procedure; check with patient\u2019s nurse prior to start of examination",
+            "Review patient\u2019s chart and speak to the patient\u2019s nurse and family members if possible to rule out food allergies; if a patient has a food allergy, ensure that the food and liquid used in the FEES do not contain these allergens(13)",
+            "In addition to food allergies, be aware of any religious or cultural dietary restrictions prior to giving the patient anything to eat(23)",
+            "Observe universal precautions with every patient during dysphagia assessments; take note of any additional precautions required for specific patients (i.e., airborne, droplet, or contact precautions)(19,23) ",
+            "Stay with the patient during the entirety of the FEES. Do NOT leave the patient alone with food or drink until the FEES is complete and the patient is determined to be safe for oral feeding(23)",
+            "Any clinician performing a FEES should be trained in the Heimlich maneuver, as well as CPR, as choking is a possible complication of FEES(23)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [
+        "Dysphagia Dysphagia refers to difficulty swallowing and/or a swallowing disorder(1,7) Complications of dysphagia include malnutrition, dehydration, aspiration and aspiration pneumonia, and death(6,8,9) There are two main categories of dysphagia(7) \u2013Oropharyngeal dysphagia(7,10,11) -Dysphagia involving either the oral and/or pharyngeal phase of swallowing  -Dysphagia that affects the oral phase only is referred to as oral dysphagia(12) -Dysphagia that affects the pharyngeal phase only is referred to as pharyngeal dysphagia(12) -Dysphagia that affects both the oral and pharyngeal phases of the swallow is referred to as oropharyngeal dysphagia(12) -Symptoms of oropharyngeal dysphagia include choking and/or coughing while eating and/or drinking, pocketing food in the cheeks, and loss of food or liquid from the mouth while attempting to swallow(6,10) \u2013Esophageal dysphagia(7,10,11) -Dysphagia resulting from an impairment of the esophagus or lower esophageal sphincter -Patients generally report symptoms such as regurgitation and heartburn(6,10,11) For detailed information on assessment and treatment of dysphagia, see the series of Clinical Reviews on this topic",
+        "Risk factors for dysphagia Cervical osteophytes(7) Chronic obstructive pulmonary disease (COPD)(44) Ear, nose, throat, or maxillofacial surgery(13) Advanced age(9,11,14) (for detailed information on assessment and treatment of dysphagia in older adults, see Clinical Review\u2026Dysphagia in Older Adults ; CINAHL Topic ID Number: T903600) Head and neck cancer(6,7,15) (for detailed information on assessment and treatment of patients with head and neck cancer, see Clinical Review\u2026Dysphagia: Patients with Head and Neck Cancer ; CINAHL Topic ID Number: T709050) Infection(7) \u2013Botulism(7) \u2013Diphtheria(7) \u2013Lyme disease(7) \u2013Syphilis(7) Neurological disease(6,7,13) \u2013Amyotrophic lateral sclerosis (ALS)(7,11,16) (for detailed information on assessment and treatment of patients with ALS, see Clinical Review\u2026Dysphagia: Amyotrophic Lateral Sclerosis (ALS) ; CINAHL Topic ID Number: T708986) \u2013Brainstem tumor(7) \u2013Stroke(6,7,11,17) (for detailed information on assessment and treatment of dysphagia in patients with stroke, see Clinical Review\u2026Dysphagia: Post-Stroke ; CINAHL Topic ID Number: T708770) \u2013Dementia(6) (for detailed information on assessment and treatment of patients with dementia, see Clinical Review\u2026 Dysphagia: Dementia ; CINAHL Topic ID Number: T708935) \u2013Dermatomyositis/polymyositis(7) (connective tissue disease marked by inflammation of the skin and/or muscles) \u2013Multiple sclerosis(6,7,11) (for detailed information on assessment and treatment of patients with multiple sclerosis, see Clinical Review\u2026Dysphagia: Multiple Sclerosis ; CINAHL Topic ID Number: T708991) \u2013Myasthenia gravis(7,11,18) (for detailed information on assessment and treatment of patients with myasthenia gravis, see Clinical Review\u2026Dysphagia: Myasthenia Gravis in Adults ; CINAHL Topic ID Number: T709053 and Clinical Review\u2026 Dysphagia: Myasthenia Gravis in Children ; CINAHL Topic ID Number: T709054) \u2013Myotonic dystrophy(7) (for detailed information on assessment and treatment of patients with myotonic dystrophy, see Clinical Review\u2026Dysphagia: Myotonic Dystrophy in Adults ; CINAHL Topic ID Number: T709072) \u2013Paraneoplastic syndrome(7) (collective signs and symptoms caused by material released from a tumor or in reaction to a tumor) \u2013Parkinson disease(6,7,11) (for detailed information on assessment and treatment of patients with Parkinson disease, see Clinical Review\u2026Dysphagia: Parkinson Disease ; CINAHL Topic ID Number: T708934) \u2013Post-polio  syndrome(7) (for detailed information on assessment and treatment of dysphagia in patients with post-polio syndrome, see Clinical Review\u2026Dysphagia: Post-Polio Syndrome ; CINAHL Topic ID Number: T709062) \u2013Sarcoidosis (a disease that leads to inflammation of various organs)(7)  \u2013Traumatic brain injury(7,11) (for detailed information on assessment and treatment of patients with traumatic brain injury, see the series of Clinical Reviews on this topic) Prior cervical or esophageal surgery(7,13) Prolonged endotracheal intubation(14) (for detailed information on assessment and treatment of dysphagia in patients with tracheostomy, see Clinical Review\u2026Dysphagia: Adults with Tracheostomy ; CINAHL Topic ID Number: T709084 and Clinical Review\u2026 Dysphagia: Children with Tracheostomy ; CINAHL Topic ID Number: T709082) Zenker\u2019s diverticulum (a pouch that forms at the junction of the pharynx and the esophagus)(7,11)",
+        "Aspiration Aspiration occurs when food or liquid penetrates below the level of the vocal folds(5) Normally, aspiration of food or liquid would provoke a cough reflex In many patients with dysphagia, the cough response is not elicited; this is known as silent aspiration(19,37) \u2013FEES is very useful for identifying silent aspiration, as it is impossible to determine if a patient is silently aspirating with a noninstrumental CSE alone(1,5,19,37)",
+        "Advantages of FEES FEES might be indicated for certain patients who are not appropriate for a modified barium swallow study (MBSS)(1) \u2013For detailed information on MBSS, see Clinical Review\u2026Dysphagia Assessment: Modified Barium Swallow (Adults) ; Topic ID Number: T709046 and Clinical Review\u2026Dysphagia Assessment: Modified Barium Swallow (Pediatrics) ; Topic ID Number: T709077 FEES might be the best option for an instrumental examination of swallowing for the following patients: \u2013Patients with safety issues related to radiation (and who would not be able to participate in an MBSS)(1) -Pregnant women or other patients who should not be exposed to radiation(1) -FEES can be used repeatedly over a short period of time to document changes in a patient\u2019s swallowing function without exposure to radiation(16,17,20) -Referred to as serial FEES(16,17,20) -FEES are effective for evaluating the swallowing ability of infants in the neonatal intensive care unit (NICU) and should not be a) exposed to long period of radiation and b) taken out of the NICU(41) -In addition to using the FEES to avoid radiation exposure in infants, the FEES is the only examination of swallowing that can be used to assess the safety and efficacy of swallowing while an infant is breastfeeding(42) \u2013Patients who are difficult to transport to the radiology suite(1) -Bedridden or extremely weak patients(1,21) -Patients with open wounds, significant muscle contractures, pain, quadriplegia, or ventilator dependency(1) -Morbidly obese patients who do not fit into the fluoroscopic chair(1) -Medically fragile patients for whom movement to another location is contraindicated(1,21) In a study conducted in the United States with 55 clinicians who had taken a course to learn how to perform a FEES, researchers investigated the differences between MBSS and FEES videos taken simultaneously of the same patient. In both types of studies, clinicians reported being able to visualize the base of tongue, valleculae, epiglottis, and trachea. For 11 other anatomical locations included in the study questionnaire, clinicians reported being able to see these with significantly different frequencies between the MBSS and FEES videos. Better visualization on the FEES was reported for the interarytenoid space, posterior pharyngeal wall, pyriform sinuses, and laryngeal structures. Additionally, pharyngeal residue was visualized more frequently and reported with greater severity on the FEES videos. Researchers concluded that the FEES appeared to be a better tool than the MBSS for detecting and quantifying pharyngeal residue(43)"
+    ],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {
+        "slps should follow the guidelines of their clinic hospital and what is ordered by the patient\u2019s physician. the summary below is meant to serve as a guide, not to replace orders from a physician or a hospital\u2019s specific protocol": [],
+        "contraindications for a fees include:": [
+            "Acute facial fractures(1)",
+            "Bilateral obstruction of the nasal passages(1)",
+            "Recent intractable nosebleeds(1)",
+            "Severe agitation/cognitive deficits(1)",
+            "Patient is not alert enough to take food by mouth(4)",
+            "Severe nasal or pharyngeal stenosis(4)",
+            "Presence of a severe movement disorder that would make it unsafe to perform the FEES(4)",
+            "Bleeding disorder (e.g., hemophilia)(4)",
+            "Presence of an acute cardiac disorder(4)"
+        ],
+        "although the procedure is considered safe and the risk of complications is extremely low, potential risks of the fees  of which the patient should be informed prior to the procedure  include: ,": [],
+        "hospital clinic policy and or state laws might require that the patient or caregiver sign an \u201cinformed consent\u201d form prior to the procedure": []
+    },
+    "guidelines for use of procedure": {
+        "there is no standard protocol for a fees; rather, each examination should be specifically tailored to the needs of the specific patient and his or her dysphagia": [],
+        "an slp must have specific, specialized training prior to administering this procedure": [
+            "Each SLP is ethically responsible for attaining the proper level of training to provide a FEES competently(2)"
+        ],
+        "asha recommends that each institution develop a written list of competencies for performing fees and ensure that an individual's competencies are verified in writing maintained on file": [],
+        "recommended training skills": [
+            "ASHA recommends that SLPs undergo observation, practice under direct supervision, and independent practice withindirect supervision to be properly trained to conduct FEES(4)\u2013Per ASHA\u2019s recommendations, SLPs who intend to perform FEES should undergo between 10 and 14 hours of formalclass training, observe 10 to 20 FEES procedures, and practice passing the flexible endoscope at least 25 times underdirect supervision of a trained SLP or otolaryngologist(3)",
+            "Per ASHA\u2019s policy, required areas of knowledge and skills are as follows:\u2013Understanding of normal and abnormal aerodigestive physiology for respiration, airway protection, and swallow(4)\u2013Ability to recognize pharyngeal and laryngeal anatomical landmarks as viewed endoscopically(4)\u2013Ability to recognize altered pharyngeal and laryngeal anatomy as they relate to swallowing function(4)\u2013Ability to identify normal and abnormal changes in anatomy and physiology of the swallow over the life span(4)\u2013Ability to identify the indications, precautions, and contraindications for FEES\u2013Ability to identify all parts of a comprehensive FEES(4)\u2013Ability to recognize and interpret abnormal findings of the underlying pharyngeal and laryngeal anatomy andpathophysiology(4)\u2013Knowledge of appropriate treatment interventions, postural changes, and changes to bolus or method of delivery todetermine the effect on the swallow(4)\u2013Ability to use the outcome of the FEES to make appropriate diet and treatment recommendations for the patient(4)\u2013Understanding of appropriate recommendations or referrals to other disciplines as needed(4)\u2013Understanding of when the patient\u2019s swallowing function should be re-evaluated(4)\u2013Ability to use endoscopy as a biofeedback and/or education tool with patients, family/caregiver(s), and staff using theimages from the FEES(4)"
+        ],
+        "equipment": [
+            "Flexible laryngoscope: a long, flexible scope that emits light from a xenon or halogen source(1)\u2013The light is carried along the length of the scope through fiberoptic bundles(1)",
+            "Viewing the images: In addition to the light source, the laryngoscope contains a small chip or digital chip camera thattransmits the images through an eyepiece or to a video screen for the examiner to visualize(1)\u2013Laryngoscopes that have video capabilities are desirable as the images are larger and allow for recording for futurereview(1)"
+        ],
+        "visualization of the pharyngeal swallow": [
+            "The SLP or ENT passes the scope transnasally through the most patent of the patient\u2019s nares(1,4)\u2013Generally, a topical anesthetic is sprayed into the nares to eliminate pain or discomfort associated with the passing of thescope(1,3)-In a prospective pilot study conducted in the United States with 20 healthy participants who completed 12 swallowseach of varying amounts and consistencies, researchers found that the typical 1 mL dose of a 4% lidocaine spray inthe nares prior to a FEES resulted in significantly higher (worse) scores on the Penetration Aspiration Scale (PAS) ascompared to an unanesthetized condition.(32) A second part of the study examined if the anesthetic made the test moretolerable to the participants. The researchers found that the topical anesthetic did increase patient tolerance of a FEESprocedure; participants reported significantly less pain and discomfort in the anesthetized condition(32)-In a study conducted in the United States with 25 patients with dysphagia, researchers examined the effect of topicalanesthetic on swallow function during a FEES. Participants first underwent a FEES without anesthetic, followed bya FEES with anesthetic, and swallows were rated according to the PAS. Any patients whose scores were 8 (i.e., theworst possible score) on the nonanesthetized trial were excluded from the anesthetized trial because there would be noway to determine if their swallow function was poorer in the second condition. Researchers found that the differencein PAS scores were not statistically significant in the anesthetized and nonanesthetized conditions. PAS scores weresignificantly poorer for larger boluses and liquid boluses vs. solid boluses in both conditions. Researchers concluded thatavoiding topical anesthetic during a FEES for fear that it will alter test outcomes is not necessary(38)\u2013Clinicians should weigh the risks and benefits of topical anesthetic for each individual patient prior to use in FEES",
+            "The patient is directed to perform various tasks to evaluate anatomical, physiological, sensory, and motor aspects of thepharyngeal and laryngeal mechanism (see details below in the Special tests specific to procedure  section)"
+        ]
+    },
+    "examination": {
+        "contraindications precautions to examination": [
+            "Prior to FEES, ensure that the patient is not NPO status (nothing by mouth) awaiting a procedure; check with patient\u2019s nurse prior to start of examination",
+            "Review patient\u2019s chart and speak to the patient\u2019s nurse and family members if possible to rule out food allergies; if a patient has a food allergy, ensure that the food and liquid used in the FEES do not contain these allergens(13)",
+            "In addition to food allergies, be aware of any religious or cultural dietary restrictions prior to giving the patient anything to eat(23)",
+            "Observe universal precautions with every patient during dysphagia assessments; take note of any additional precautions required for specific patients (i.e., airborne, droplet, or contact precautions)(19,23) ",
+            "Stay with the patient during the entirety of the FEES. Do NOT leave the patient alone with food or drink until the FEES is complete and the patient is determined to be safe for oral feeding(23)",
+            "Any clinician performing a FEES should be trained in the Heimlich maneuver, as well as CPR, as choking is a possible complication of FEES(23) examination(1) -Blue food coloring is sometimes added to food/liquid so it is easily differentiated from the red and pink mucosa of the oropharyngeal musculature(29) -In a study conducted in the United States, researchers compared the reliability of FEES with blue-dyed  food to FEES without blue-dyed food and concluded that the blue food coloring is not necessary; foods such as yellow pudding or white milk provided similar results/reliability.(29) In a different study conducted in the United States, researchers compared the ability to visualize aspiration on FEES when using thin milk, nectar-thick  milk, green-dyed  thin milk, and green-dyed  nectar-thick  milk. In this study, aspiration was identified significantly more frequently with the green-dyed trials(45) -In another study conducted in the United States, researchers performed FEESs and compared Penetration-Aspiration Scale (PAS) scores in healthy older adults with trials of water, skim milk, 2% milk, and whole milk all dyed with green food coloring; although the PAS scores did not vary according to delivery method (i.e., cup, teaspoon, syringe), there were more severe PAS scores with 2% and whole milk as compared to water and skim; authors suggested incorporating both water and 2% or whole milk into trials for the best picture of a patient\u2019s swallowing as measured by a FEES(30) -Pooling and aspiration are more easily and accurately identified -Prior to the swallow, premature spillover of any of the boluses into the pharynx or larynx is observed(3,4) -Does the patient aspirate or penetrate before the swallow?(3) -The exact moment of passage of the bolus and movement of the structures during the swallow cannot be directly observed because tissue surrounds the end of the endoscopy, causing a brief state referred to as \u201cwhite-out\u201d(1,3,4) -The video screen/image of the larynx is completely blank during the white-out -Following the completion of the swallow, the presence of any bolus residue might indicate the nature of the pharyngeal swallowing impairment(4) -Residue around the hypopharynx, valleculae, or pyriform sinuses may result from pharyngeal or laryngeal weakness, as well as reduced pressure in the pharyngeal cavity during the swallow -Visible bolus material inside the trachea indicates aspiration(3) -Food and liquid trials can be given via spoon, cup sips, or syringe, as needed(3) -Refer to specific clinic/hospital protocol for specifics regarding food and liquid trials -Many different trials should be administered during a FEES to most clearly define a patient\u2019s dysphagia, as well as give the SLP the opportunity to attempt compensatory strategies to improve swallowing safety(4) -Encourage outpatients/caregivers to bring foods that are particularly problematic  -Appropriate trials include: -Liquids -Thin liquid(3,23) -Nectar-thickened  liquid(3,23) -Honey-thickened  liquids(3,23) -Solids -Pudding/puree(3,23) -Soft-solids  or mixed consistencies(3,23) (soft fruit, cooked vegetables, soft bread, pasta) -Hard solids(3,23) (crackers/cookies) -During food and liquid trials, the SLP and ENT observe both the patient and the video feed to evaluate the patient\u2019s swallowing function -Does the patient have difficulty taking the bolus from the spoon or cup?(13) -If the patient loses significant amounts of food or liquid while attempting to eat or drink, adaptive cups (with a sip top) and/or utensils may be necessary(23) -Is the patient able to keep the bolus in his or her mouth?(13) -Is mastication of the solid foods adequate and efficient?(13,23) -Do large chunks of solid food remain in the oral cavity after each swallow? If so, solid foods present a significant choking hazard and might not be appropriate -If the patient is using more energy to chew the food than he or she is getting from the food itself, solid foods may not be appropriate -Does the patient continue to chew/manipulate bolus until the swallow is complete, or does he or she stop too early, leaving the bolus in the oral cavity? -If the patient does not persist with bolus formation and anterior-posterior  propulsion of the bolus, he or she may not be appropriate for oral nutrition -When a bolus is left in the oral cavity during the meal, the patient is at risk of aspirating this bolus at a later point -If a significant portion of the bolus is left in the patient\u2019s oral cavity, note the area of the oral cavity in which the bolus is left -Does the patient require multiple swallows per bolus?(23) -Multiple swallows generated when a patient is attempting to clear residue from the valleculae, pharyngeal walls, and/ or pyriform sinuses may indicate weakness of the tongue base, pharyngeal walls, and/or cricopharyngeal muscle, respectively -If there is residue, is the patient able to clear the residue independently?(3) Patients who require multiple verbal or visual cues and/or a liquid wash to clear residue are at increased risk of aspiration -Does the food or liquid enter the patient\u2019s nasal cavity? -This occurs due to poorly coordinated or reduced velopharyngeal closure -Is there pooling in the pharyngeal cavity? -Does the bolus collect in one or more parts of the pharynx? -If the bolus collects on one side of the pharyngeal cavity, this might indicate one-sided  weakness -Does the food or liquid enter the patient\u2019s laryngeal vestibule? -This is referred to as laryngeal penetration -Does the patient independently clear the penetrated material? -The food or liquid should not be visible on the tracheal walls if the patient does clear the laryngeal penetration -If the patient does not independently clear the penetrated material, is he or she able to clear the penetrated material given a cue? -Does the patient present with aspiration? -Aspiration is documented in a FEES when the food or liquid trial appears inside the trachea after the swallow -Patients with a significant delay of pharyngeal swallow may aspirate prior to the swallow response; in this case, the SLP and ENT will be able to visualize the food or liquid entering the trachea prior to the initiation of a pharyngeal swallow response -How much of the bolus is aspirated (what percentage)?  -Does the patient cough the aspirated material out of the trachea? -Is the aspiration \u201csilent\u201d? -If the patient silently aspirates, is he or she able to clear the aspirated material given a cue to cough or clear his or her throat? \u2013Trial of compensatory strategies -Once dysphagia is identified via the FEES, it might be appropriate for the SLP to guide the patient through different compensatory strategies in order to determine which strategies are the most beneficiary for the patient\u2019s swallowing function(1,3) -Initially, the SLP should attempt different consistencies to determine if this eliminates aspiration (i.e., if the patient aspirates thin liquids, attempt nectar-thickened  liquids)(1,3,31) -Strategies that can be attempted during this time include the following: -Alternating solids and liquids(1,31) -Appropriate for patients with solid residue in the pharyngeal cavity after the swallow; a liquid wash might improve pharyngeal clearance -Chin down(1,31) -Appropriate for patients with delay of pharyngeal swallow, reduced tongue base retraction, reduced laryngeal closure, or reduced laryngeal elevation(31) -Chin up(1,31) -Appropriate for patients with tongue dysfunction, including poor anterior-posterior  propulsion of bolus(31) -Downward pressure with the spoon on the body of the tongue to assist initiation of swallow response -Dry swallows(1,31) -Having the patient swallow multiple times to clear as much residue as possible -Effortful swallow(1,31) -A maneuver intended to improve tongue base retraction and reduce residue buildup in the valleculae -Head turn to right or left (rotate head towards the damaged side)(1,31) -Appropriate for patients with unilateral pharyngeal wall weakness, unilateral reduced laryngeal closure, or unilateral vocal fold paresis(31) -Attempt head turn to both sides to increase pharyngeal pressure in patients with cricopharyngeal dysfunction or reduced anterior movement of the larynx(31) -Liquids given by spoon only -Lying-down  position (on patient\u2019s back or side)(31) -Appropriate for patients with reduced laryngeal elevation or bilateral pharyngeal wall weakness -Mendelsohn maneuver(31) -A technique that aims to improve laryngeal elevation and cricopharyngeal opening -Supraglottic swallow maneuver(31) -The goal of this maneuver is to close the vocal folds before and during the swallow to prevent aspiration -Super-supraglottic  swallow maneuver(31) -The goal of this maneuver is to close the entrance to the airway (laryngeal vestibule) before and during the swallow to prevent aspiration -For detailed information regarding treatments and strategies used in dysphagia therapy, refer to the Clinical Reviews on these topics"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -The first step of a FEES is gathering the patient\u2019s medical history and reviewing his or her medical records(1,13,23,24) -An interview with the patient and/or family members may be appropriate to gather a detailed history of the symptoms and presentation of patient\u2019s dysphagia(25) -Does the patient have a diagnosis that places him or her at elevated risk for dysphagia?(25) -Is the patient NPO? If so, how long has the patient been NPO?(23)",
+                "course of treatment": {
+                    "medical management": "Note current and previous management of medical diagnosis (e.g., stroke, head and neck cancer); do any medical treatments place patient at an elevated risk for dysphagia? Chemotherapy and radiation therapy might result in xerostomia (dry mouth);(14) xerostomia is frequently associated with dysphagia(11,14,15) Current or previous ear, nose, throat, maxillofacial, cervical, or esophageal surgery/procedures might place the patient at elevated risk(7,13)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken? Is the patient taking any overthe-counter  medication?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Review the patient\u2019s medical record to determine if a CSE or any instrumental evaluation of the swallow was completed during a previous hospital stay or outpatient visit(23)",
+                        "Review neuroimaging results, such as MRI and CT scans",
+                        "Review the patient\u2019s recent chest x-rays;  be aware of increasing infiltrates in the lungs",
+                        "Bedbound patients who have aspirated food or liquids during swallowing might have heterogeneous opacities on",
+                        "chest xrays;  the material is generally aspirated into the posterior segments of the upper lobes of the lung or into the superior and posterior basal segments of the lower lobes of the lungs(26)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help Occasionally patients and family members develop their own strategies for managing dysphagia (such as using gravies with all meats or chopping up the patient\u2019s food into very small pieces) Patients with a prior history of dysphagia might already be using an altered diet prior to admission(27) Ask the patient and/or caregiver what types of food or drink the patient prefers and/or avoids at home(27)",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions, and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)(23) -Does the patient complain of difficulty of swallowing -with specific foods? -with specific meals? -only halfway through meals? -when he or she is distracted or having a meal with a group of people?(9)",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms -For patients who complain of difficulty swallowing, what exactly is the problem with swallowing? -Does food stick in the throat?(11) -Does the patient cough and/or choke while eating or drinking? -Is there pain associated with swallowing? ",
+                "rating of symptoms": "",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables -When did the symptoms of dysphagia first present?(28) -How frequently does the patient experience symptoms of dysphagia?(28)",
+                "sleep disturbance": "Does difficulty swallowing saliva and/or secretions interfere with patient\u2019s ability to sleep? -Document number of wakings/night",
+                "other symptoms": "",
+                "respiratory status": "Patients with a compromised respiratory status are at higher risk of dysphagia complications(23,27) -Does the patient require supplemental oxygen? Nasal cannula?(13) -Does the patient have a tracheostomy tube?(13) -When the patient has an uncapped tracheostomy tube, subglottic pressure is reduced and the strength of the swallow is altered(23) -Complete Passy-Muir  tracheostomy and ventilator swallowing and speaking valve evaluation prior to FEES (for detailed information on assessment and treatment with the Passy-Muir  valve [PMV], see Clinical Review\u2026Passy-Muir Tracheostomy & Ventilator Swallowing and Speaking Valve , referenced above) -If the patient has a PMV , food and liquid trials can be presented with and without the valve in place during the FEES in order for the SLP to determine the benefit of the PMV for each specific patient -Does the patient require ventilator support? -Patients who require ventilator support are at elevated risk for aspiration during swallowing(23) -Patients who have been orally intubated should be extubated 2448  hours prior to completion of a FEES to allow for the reduction of laryngeal edema and improved vocal fold function(33,34) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have a history of oropharyngeal dysphagia?(23)",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": "Ask the patient about other symptoms he or she is experiencing, such as reflux or mouth and throat pain"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": " Living environment -With whom does the patient live (e.g., caregivers, family members)?(13) -Who prepares the patient\u2019s food? -Does the patient often eat at restaurants or at the homes of friends or family members? -Patients with dysphagia might need to eat alone or in silence to prevent distractions, which can increase risk of aspiration -Patients who will require an altered diet may require assistance with food preparation from family members and/or caregiver(13) -Is the patient receiving nutritional supplements orally or nonorally?(23) -Is there a feeding tube present?(13,23) -Does the patient require feeding assistance at home?(9,13)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [
+                "A patient requiring ventilator support via tracheostomy tube might still be appropriate for FEES; refer to specific clinic/ hospital protocols and physician orders(3) \u2022Motor function (motor control/tone/learning):  Patients must have adequate muscle tone to hold the head in an upright position to accept food and liquid trials(1)",
+                "If the patient is unable to independently hold his or her head upright, it might be possible to achieve adequate positioning through the use of pillows, wedges, or an adaptive wheelchair; collaborate with physical and/or occupational therapist \u2022Oral mechanism exam and related tests:  An extensive oral mechanism examination should be completed prior to or as part of every FEES.(1,25) The oral mechanism examination should include:",
+                "Buccal/facial muscles: Abnormalities of the buccal and facial muscles might indicate damage to cranial nerve (CN) VII(13) -Is the face symmetrical at rest? -Is the face symmetrical while making movements (smiling, raising the eyebrows, closing the eyes)? -Are there any abnormal movements (twitching, spasms, grimacing)? -Is the patient able to manage his or her secretions?(8,23) -Is the patient\u2019s facial sensation intact?(13) -The patient needs to have adequate sensation of the facial muscles to feel and retrieve any residue during a meal -Is the patient drooling or mouth breathing?(8,13) -Does the patient present with slurred speech/dysarthria?(1,27) -If the patient presents with dysarthria, he or she might be appropriate for a full speech/language evaluation following completion of a FEES -For detailed information on assessment and treatment of dysarthria, see the series of Clinical Reviews on this topic",
+                "Lips: Abnormalities of the labial muscles might indicate damage to CN VII(13,25) -Are the lips symmetrical at rest? -Are the lips symmetrical during movements? -Is the range of motion normal? -If the patient is unable to completely seal his or her lips during swallowing, he or she might not be able to generate adequate pressure to propel boluses posteriorly(24) -Is strength normal? -Is lip tissue healthy? -Is there any scarring or cleft? -Is the patient\u2019s labial sensation intact?(13) -If a patient has reduced sensation of either or both of the lips, he or she is at risk for anterior loss or pocketing of the food on the side of reduced sensation",
+                "Tongue: Abnormalities of the tongue might indicate damage to CN XII(13,25) -Is the tongue normal in appearance? -Any atrophy? -Any tremors present? -Any discolorations? -Any bleeding? -Patients with dry mouth (xerostomia) as a result of chemotherapy, radiation therapy, or medication side effects may present with dry, cracked tongue tissue or a white/yellow coating on the tongue -Is the range of motion normal? -If the patient is unable to reach his or her tongue to the hard palate during swallowing, he or she might not be able to generate adequate pressure to propel boluses posteriorly  -Is strength normal? -If the patient presents with one-sided  weakness of tongue (or lips), he or she is more likely to have food become lodged or pocketed in the oral cavity on the weaker side -Following food and liquid trials, examine the weaker side of the oral cavity for residue",
+                "Mandible: Abnormalities of mandibular function might indicate damage to CN V(13) -Is the patient able to maintain jaw closure at rest? -Is range of motion normal? -Adequate mandibular range of motion is necessary for the patient to adequately masticate solid foods -Is strength normal? -Is the mandible structurally intact? -Patients with head and neck cancer (especially base of tongue cancers) might have had reconstructive surgeries altering anatomy of the jaw",
+                "Hard palate(25) -Is the hard palate intact? -Any signs of fistulas, fissures, scarring? -Are height and width normal? -Any prostheses present? -Is coloration normal?",
+                "Soft palate (velum): Abnormalities of the soft palate (velum) might indicate damage to CN XII(13,25) -Is coloration normal (should be pink and white)? -Any signs of cleft or bifid uvula? -Does the palate elevate sufficiently and equally? -Use a flashlight to see to the back of the patient\u2019s throat during sustained phonation of the syllable /a/ and repeated phonation of /a-a-a/(13) -Does the patient sound hyper-  or hyponasal during conversational speech? -Place a small mirror under the patient\u2019s nose during production of nonnasal sounds; fogging or clouding may indicate nasal emission, which would indicate a referral to an otolaryngologist",
+                "Teeth(24,25) -Are there any missing teeth? -Are the teeth in good repair? -Does the patient wear partial or full dentures? -If the patient is edentulous, inquire if the patient has dentures at home; if the family/caregiver is able to bring dentures in, re-examine mastication with dentures present -Patients who are edentulous might still be able to eat a regular diet; each patient is different -Is there a significant over-  or underbite? \u2022Special tests specific to procedure",
+                "Authors of a systematic review of pharyngeal residue severity rating scales for use in FEES that was conducted in 2016 reported that evidence for most scales was poor. The only scale with sufficient evidence to support validity, reliability, and generalizability was the Yale Pharyngeal Residue Severity Rating Scale(46)",
+                "Laryngeal/oropharyngeal examination: A FEES allows the examiner to observe the oropharyngeal and laryngeal structures at rest and in motion(1) -Is the laryngeal mucosa intact? -Does the tissue appear healthy (pinkish white)? -Is there any edema? Are there postsurgical anatomical changes or changes due to radiation therapy?(1,15) -Is there evidence of acid reflux damage (e.g.,white or yellow burns)? -Pooling secretions -Note status of standing secretions in the hypopharynx, as well as the frequency and effectiveness of spontaneous swallowing(1,4) -Patients with excessive pooling of secretions are at increased risk of aspiration(1,4)  -Observe the vocal folds at rest and in motion -Have the patient breathe normally, hold his or her breath, sustain phonation, and speak at word, sentence, or conversation level as able to examine vocal fold function(3) -Is the patient able to maintain vocal fold closure? -Reduced ability to maintain vocal fold closure increases a patient\u2019s risk of aspiration(4) -If vocal fold bowing, paresis, hemorrhage, or other vocal fold pathology is evident upon examination, refer to ENT for additional workup"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": " \u2013Sensory testing -Referred to as fiberoptic endoscopic evaluation of swallowing with sensory testing (FEESST), sensory testing of the laryngopharyngeal structures may be completed in conjunction with a FEES(3,4) -In order to test a patient\u2019s laryngopharyngeal sensory thresholds, specialized endoscopic equipment that delivers quantified air pulses to the aryepiglottic folds is necessary(3) -The air pulses are intended to elicit the laryngeal adductor reflex; the greater the pressure of the air pulse required to elicit the reflex, the more impaired the laryngeal sensation(3) \u2013Trials of food and liquid -The majority of a FEES is the administration of food and liquid trials(3,4) -The food and liquid trials should not be translucent, red, or brown in order to ensure adequate visibility during the",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Arousal, attention, and cognition should be evaluated by the SLP prior to initiation of a FEES(1)  \u2013Patients who are unable to maintain adequate attention or arousal are not appropriate for a FEES \u2013The patient may participate if he or she is able to follow verbal or nonverbal commands and is cooperative and compliant with respect to swallowing or attempting to swallow food and/or liquid trials",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Types of dysphagia: Oral dysphagia, pharyngeal dysphagia, and oropharyngeal dysphagia(12) -If the SLP suspects esophageal dysphagia, referral to gastroenterology is appropriate for further management",
+                "Severity of dysphagia: mild, moderate, severe, and profound",
+                "-Mild: delay of pharyngeal swallow for 23 seconds; oral and pharyngeal residues are spontaneously cleared; patient coughs appropriately to pharyngeal residue(12)",
+                "-Moderate: delay of pharyngeal swallow for 35 seconds; oral and pharyngeal residues are cleared given a cue; patient coughs to laryngeal penetration or pharyngeal residue given a cue(12)",
+                "-Severe: delay of pharyngeal swallow for 510  seconds; oral and pharyngeal residues are not able to be cleared; patient does not cough appropriately to laryngeal penetration or pharyngeal residue; also may have difficulty managing his or her secretions(12) -Profound: term usually reserved for patients who present with no apparent swallow response, as well as minimal ability to protect the airway",
+                "Patients do not always fit into these categories of dysphagia severity; it is also appropriate for the SLP to classify a patient\u2019s dysphagia with the labels minimal, mild-moderate,  and moderate-severe(12)",
+                "The recommendations for oral feeding are generally based on the severity of dysphagia and overall risk of aspiration(12)",
+                "Recommendations -Normal swallow: If the patient appears to have normal swallowing function, the patient is safe for all consistencies of food and liquid(12) -Minimal impairment: If the patient appears to have minimally impaired swallowing function, the patient is safe for all consistencies of food and liquid with the independent use of one or more compensatory strategies(12) -Mild impairment: If the patient appears to have mildly impaired swallowing function, the patient is usually safe for all consistencies of food and liquid with the use of one or more compensatory strategies; this type of patient generally requires cueing up to 10% of the time to appropriately incorporate compensatory strategies(12) -Mild-moderate  impairment: If the patient appears to have mild-moderately impaired swallowing function, the patient will require some modification of his or her diet and will require the use of one or more compensatory strategies; this type of patient generally requires cueing up to 25% of the time to appropriately incorporate compensatory strategies(12) -Moderate impairment: If the patient appears to have moderately impaired swallowing function, the patient will require modification of his or her diet, as well as direct supervision during meals; patient will require frequent cues to use one or more compensatory strategies during meals; this type of patient may require nonoral nutritional or hydrational support(12) -Moderate-severe  impairment: If the patient appears to have moderate-severely  impaired swallowing function, the patient will require significant modification of his or her diet, as well as 1:1 assistance during meals with constant cues to use compensatory strategies during meals; this type of patient will require nonoral nutritional or hydrational support(12) -Severe impairment: If the patient appears to have severely impaired swallowing function, the patient should be made NPO (nothing by mouth) with nonoral means of nutritional and hydrational support; any food or liquid trials should be given by the SLP only during therapy sessions(12) -Profound impairment: Patients with a profound impairment of swallowing will not be appropriate for any food, liquid, or medication by mouth; patient is generally not appropriate for therapeutic trials of food or liquid with SLP; the",
+                "patient\u2019s oral cavity should be aggressively cleaned and suctioned by nursing every 23 hours to prevent infection ",
+                "For detailed information on dysphagia therapy see the series of Clinical Reviews on this topic"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with a diagnosis that puts them at risk for dysphagia may be at risk for falls; follow facility protocols for fall prevention and post fall prevention instructions at bedside, if inpatient. Ensure that patient and family/ caregivers are aware of the potential for falls and educated about fall prevention strategies. Discharge criteria should include independence with fall prevention strategies ",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with the diagnosis of dysphagia are at risk for aspiration. Swallowing precautions/feeding guidelines should be posted at bedside, and caregivers, family members, and nursing staff should be educated regarding the patient\u2019s risk of aspiration \u203aDiagnosis/results of assessment:  Following a FEES, the SLP will state whether or not the patient presents with dysphagia.(1,23) Generally, the SLP will make a statement regarding the type and severity of dysphagia present.(12) If the patient does have dysphagia, the SLP will also make a statement and recommendation regarding oral feedings, as well as expected treatment plan(1,12,23)",
+                "Diagnosis of dysphagia",
+                "Oral feeding",
+                "Treatment plan: A treatment plan for dysphagia might include recommendations for direct, indirect, compensatory, or facilitative dysphagia therapy(23)"
+            ],
+            "general": "Following a FEES, the SLP will state whether or not the patient presents with"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "A multidisciplinary approach is necessary for the successful treatment of dysphagia(25) Referral to gastroenterologist for patients in whom esophageal dysphagia is suspected(24,25) Referral to neurologist for patients with dysphagia who do not have a known underlying diagnosis(25) Referral to pulmonologist for patients who appear to have poor respiratory status and/or function(25) Referral to ENT for patients with apparent vocal fold dysfunction(24) Referral to nutrition services/dietician for patients with poor oral intake or those at risk for malnutrition(23,25) Referral to physical and/or occupational therapy for patients with poor posture, difficulty sitting up in the bed or chair, or difficulty feeding themselves(25) . Problem Goal Intervention Expected Progression Home Program N/A N/A N/A N/A N/A . See Description, Indications of device/equipment , and Guidelines for use of device/equipment , above",
+        "other considerations": [],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {
+        "the desired outcome of a fees is the identification of the specific characteristics of an individual patient\u2019s dysphagia and development of an appropriate treatment plan": [],
+        "the outcomes of dysphagia therapy can be measured by repeating a fees in  weeks to assess changes in the patient\u2019s swallowing function": []
+    },
+    "maintenance or prevention": [],
+    "patient education": [
+        "Information on dysphagia is available for patients and family members on the ASHA Web site at https://www.asha.org/ public/speech/swallowing/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Leder SB, Murray JT. Fiberoptic endoscopic evaluation of swallowing. Phys Med Rehabil Clin North Am . 2008;19(4):787-801,  viii-ix. (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "American Speech-Language-Hearing  Association. The role of the speech-language  pathologist in the performance and interpretation of endoscopic evaluation of swallowing: position statement. https://www.asha.org/policy/ps2005-00112/ . Published 2005. Accessed December 26, 2018. (G)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Hiss SG, Postma GN. Fiberoptic endoscopic evaluation of swallowing. Laryngoscope . 2003;113(8):1386-1393.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Special Interest Division 13, Swallowing and Swallowing Disorders (Dysphagia). Knowledge and skills for speech-language  pathologists performing endoscopic assessment of swallowing functions. American Speech-Language-Hearing  Association Web site. http://www.asha.org/policy/KS2002-00069.htm . Accessed December 26, 2018. (G)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Leder SB, Espinosa JF. Aspiration risk after acute stroke: comparison of clinical examination and fiberoptic endoscopic evaluation of swallowing. Dysphagia . 2002;17(3):214-218.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Nazarko L. Nutrition part 5: dysphagia. Br J Healthc Assist . 2009;3(5):228-232.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Krishnan K, Pandolfino JE. Dysphagia and esophageal obstruction. In: Bope ET, Kellerman R, eds. Conn's Current Therapy 2017 . Philadelphia, PA: Saunders Elsevier; 2017:196-201.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "White GN, O'Rourke F, Ong BS, Cordato DJ, Chan DK. Dysphagia: causes, assessment, treatment, and management. Geriatrics . 2008;63(5):15-20.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Ginocchio D, Borghi E, Schindler A. Dysphagia assessment in the elderly. Nutr Ther Metab . 2009;27(1):9-15.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Robbins J, Kays S, McCallum S. Team management of dysphagia in the institutional setting. J Nutr Elder . 2007;26(3-4):59-104.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Cook IJ. Oropharyngeal dysphagia. Gastroenterol Clin North Am . 2009;38(3):411-431.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Edelman DA, Sheehy-Deardorff  DA, White MT. Bedside assessment of swallowing is predictive of an abnormal barium swallow examination. J Burn Care Res . 2008;29(1):89-96.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Ricci Maccarini A, Filippini A, Padovani D, Limarzi M, Loffredo M, Casolino D. Clinical non-instrumental  evaluation of dysphagia. Acta Otorhinolaryngol Ital . 2007;27(6):299-305. (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Baumgartner CA, Bewyer E, Bruner D. Management of communication and swallowing in intensive care: the role of the speech pathologist. AACN Adv Crit Care . 2008;19(4):433-443.  (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Teguh DN, Levendag PC, Sewnaik A, et al. Results of fiberoptic endoscopic evaluation of swallowing vs. radiation dose in the swallowing muscles after radiotherapy of cancer in the oropharynx. Radiother Oncol . 2008;89(1):57-63.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Leder SB, Novella S, Patwa H. Use of fiberoptic endoscopic evaluation of swallowing (FEES) in patients with amyotrophic lateral sclerosis. Dysphagia . 2004;19(3):177-181.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Warnecke T, Dziewas R, Oelenberg S, et al. Serial fiberoptic endoscopic evaluation of swallowing in patients with acute stroke and dysphagia: case report and general considerations. J Stroke Cerebrovasc Dis . 2006;15(4):172-175.  (C)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Warnecke T, Teismann I, Zimmermann J, Oelenberg S, Ringelstein EB, Dziewas R. Fiberoptic endoscopic evaluation of swallowing with simultaneous Tensilon application in diagnosis and therapy of myasthenia gravis. J Neurol. 2008;255(2):224-230.  (C)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Furlow B. Barium swallow. Radiol Technol . 2004;76(1):49-58.  (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Leder SB. Serial fiberoptic endoscopic swallowing evaluations in the management of patients with dysphagia. Arch Phys Med Rehabil . 1998;79(10):1264-1269.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Hafner G, Neuhuber A, Hirtenfelder S, Schmedler B, Eckel HE. Fiberoptic endoscopic evaluation of swallowing in intensive care unit patients. Eur Arch Otorhinolaryngol . 2008;265(4):441-446.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Nacci A, Ursino F, La Vela R, Matteucci F, Mallardi V, Fattori B. Fiberoptic endoscopic evaluation of swallowing (FEES): proposal for informed consent. Acta Otorhinolaryngol Ital. 2008;28(4):206-211.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Avery W. Dysphagia. In: Radomski MV, Trombly Latham CA, eds. Occupational Therapy for Physical Dysfunction . 7th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2014:1327-1351.  (GI)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Pettigrew CM, O'Toole C. Dysphagia evaluation practices of speech and language therapists in Ireland: clinical assessment and instrumental examination decision-making. Dysphagia . 2007;22(3):235-244.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Logemann JA. Swallowing disorders. Best Pract Res Clin Gastroenterol . 2007;21(4):563-573.  (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Marom EM, McAdams HP, Erasmus JJ, Goodman PC. The many faces of pulmonary aspiration. AJR Am J Roentgenol . 1999;172(1):121-128.  (RV)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Cichero JA, Heaton S, Bassett L. Triaging dysphagia: nurse screening for dysphagia in an acute hospital. J Clin Nurs . 2009;18(11):1649-1659.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Carnaby-Mann  G, Lenius K. The bedside examination in dysphagia. Phys Med Rehabil Clin North Am . 2008;19(4):747-768,  viii. doi:10.1016/j.pmr.2008.05.008. (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Leder SB, Acton LM, Lisitano HL, Murray JT. Fiberoptic endoscopic evaluation of swallowing (FEES) with and without blue-dyed  food. Dysphagia . 2005;20(2):157-162.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Butler SG, Stuart A, Case D, Rees C, Vitolins M, Kritchevsky SB. Effects of liquid type, delivery method, and bolus volume on penetration-aspiration  scores in healthy older adults during flexible endoscopic evaluation of swallowing. Ann Otol Rhinol Laryngol . 2011;120(5):288-295.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Logemann JA. Manual for the Videofluorographic Study of Swallowing . 2nd ed. Austin, TX: Pro-Ed; 1993. (GI)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Lester S, Langmore SE, Lintzenich CR, et al. The effects of topical anesthetic on swallowing during nasoendoscopy. Laryngoscope . 2013;123(7):1704-1708.  doi:10.1002/ lary.23899. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Bishop MJ, Weymuller EA, Jr, Fink BR. Laryngeal effects of prolonged intubation. Anesth Analg . 1984;63(3):335-342.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Leder SB, Cohn SM, Moller BA. Fiberoptic endoscopic documentation of the high incidence of aspiration following extubation in critically ill trauma patients. Dysphagia . 1998;13(4):208-212.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Umay EK, Unlu E, Saylam GK, Cakci A, Korkmaz H. Evaluation of dysphagia in early stroke patients by bedside, endoscopic, and electrophysiological methods. Dysphagia . September 2013;28(3):395-403.  doi:10.1007/s00455-013-9447-z.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Kjaersgaard A, Nielsen LH, Sjolund BH. Randomized trial of two swallowing assessment approaches in patients with acquired brain injury: Facial-Oral  Tract Therapy versus Fibreoptic Endoscopic Evaluation of Swallowing. Clin Rehabil . March 2014;28(3):243-53.  doi:10.1177/0269215513500057. (RCT)"
+        },
+        {
+            "number in article": 37,
+            "reference": "McFarlane M, Miles A, Atwal P, Parmar P. Interdisciplinary management of dysphagia following stroke. 2014. Br J Neurosci Nurs . 2014;10(1):13-20.  doi:10.12968/ bjnn.2014.10.1.13. (RV)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Fife TA, Butler SG, Langmore SE, et al. Use of topical nasal anesthesia during flexible endoscopic evaluation of swallowing in dysphagic patients. Ann Otol Rhinol Laryngol . March 2015;124(3):206-11.  doi:10.1177/0003489414550153. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Leder SB. Comparing Simultaneous Clinical Swallow Evaluations and Fiberoptic Endoscopic Evaluations of Swallowing: Findings and Consequences. SIG 13 Perspectives on Swallowing and Swallowing Disorders (Dysphagia) . February 2015;24:12-17.  doi:10.1044/sasd24.1.12. (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Bax L, McFarlane M, Green E, Miles A. Speech-language  pathologist-led  fiberoptic endoscopic evaluation of swallowing: functional outcomes for patients after stroke. J Stroke Cerebrovasc Dis . March 2014;23(3):e195-200.  doi:10.1016/j.jstrokecerebrovasdis.2013.09.031. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Reynolds J, Carroll S, Sturdivant C. Fiberoptic Endoscopic Evaluation of Swallowing: A Multidisciplinary Alternative for Assessment of Infants With Dysphagia in the Neonatal Intensive Care Unit. Adv Neonatal Care . February 2016;16(1):37-43.  doi:10.1097/ANC.0000000000000245. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Willette S, Molinaro LH, Thompson DM, Schroeder JW, Jr. Fiberoptic examination of swallowing in the breastfeeding infant. Laryngoscope . July 2016;126(7):1681-1686. doi:10.1002/lary.25641. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Pisegna JM, Langmore SE. Parameters of Instrumental Swallowing Evaluations: Describing a Diagnostic Dilemma. Dysphagia . June 2016;31(3):462-472. doi:10.1007/s00455-016-9700-3.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Dawod Y, Thao C, Ward A, Luraschi-Monjagatta  M. COPD and the Risk of Aspiration on Fiberoptic Endoscopic Evaluation of Swallowing (FEES). CHEST. 2016;869A. doi:10.1016/j.chest.2016.08.969. (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Marvin S, Gustafson S, Thibeault S. Detecting Aspiration and Penetration Using FEES With and Without Food Dye. Dysphagia . August 2016;31(4):498-504. doi:10.1007/s00455-016-9703-0.  (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Neubauer P, Hersey D, Leder S, Neubauer PD, Hersey DP, Leder SB. Pharyngeal Residue Severity Rating Scales Based on Fiberoptic Endoscopic Evaluation of Swallowing: A Systematic Review. Dysphagia (0179051X) . 2016;31(3):352-359.  doi:10.1007/s00455-015-9682-6.  (SR)"
+        }
+    ]
+}

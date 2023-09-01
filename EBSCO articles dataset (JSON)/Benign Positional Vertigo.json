@@ -1,0 +1,429 @@
+{
+    "metadata": {
+        "title": "Benign Paroxysmal Positional Vertigo",
+        "synonyms": [
+            "benign positional vertigo",
+            "positional vertigo of barany",
+            "positional vertigo, benign paroxysmal",
+            "vertigo, benign paroxysmal positional"
+        ],
+        "anatomical location body part affected": [
+            "Vestibular system, semicircular canals of inner ear, ocular system"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "pediatric rehabilitation",
+            "geriatric rehabilitation",
+            "home health"
+        ],
+        "description": [
+            "Benign paroxysmal positional vertigo (BPPV) is a disorder in which a person experiences brief episodes of vertigo (spinning sensation) that are triggered by changes in head or body position relative to gravity; there is no vertigo between attacks(1)",
+            "The vertigo is episodic and lasts seconds to 1 minute(1)",
+            "Typically, there are no auditory symptoms; but there may be complaints of nausea, postural instability, or imbalance(32) that persist between episodes",
+            "Seven times more likely to occur > 60 years of age,(1) but can occur in younger persons as well",
+            "The diagnosis of BPPV is essentially clinical and is based on the history as well as the direction and duration of the nystagmus that results from specific diagnostic maneuvers(1,33)",
+            "Thought to be caused by loose debris from the otolith migrating to a semicircular canal(29) \u2013Canalithiasis: debris is free floating in the inner ear fluid (endolymph) \u2013Cupulolithiasis: debris is adhered to the hair-cell  nerve endings",
+            "BPPV can be very expensive to manage, mostly due to delay in diagnosis; in the United States it costs approximately $2,000 to diagnose this condition in one patient(4,7) \u2013It can take more than 70 months for a patient to receive appropriate diagnosis and treatment. Patients seek medical care an average of 8 times before BPPV is diagnosed(7)",
+            "Approximately 86% of patients with BPPV experience marked disruption in their daily activities(4)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "H81.10": "benign paroxysmal vertigo unspecified ear",
+            "H81.11": "benign paroxysmal vertigo right ear",
+            "H81.12": "benign paroxysmal vertigo left ear",
+            "H81.13": "benign paroxysmal vertigo bilateral",
+            "H81.39": "other peripheral vertigo",
+            "H81.8X": "other disorders of vestibular function",
+            "H81.9": "unspecified disorder of vestibular function (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified "
+        ],
+        "presentation signs and symptoms": [
+            "Episodic bouts of dizziness and/or sensations of spinning that are associated with nystagmus(i.e., alterations in head position produce symptoms in a crescendo-decrescendo  pattern); a latency period of less than 40 seconds until onset of symptoms, which last about 15 seconds to 1 minute; repeat testing shows fatigability of symptom onset(1) \u2013In canalithiasis, there is a latency period of up to 40 seconds \u2013In cupulolithiasis, latency is 0\u20132 seconds",
+            "In canalithiasis, symptoms and the nystagmus gradually intensify while in testing position and then gradually decrease over the course of 1 minute until they fully resolve",
+            "In cupulolithiasis, the nystagmus usually continues while the patient is in the testing position, although the patient\u2019s perception of the room spinning may stop at some point",
+            "Semicircular canal involvement, direction, and associated nystagmus(16) \u2013Posterior: Torsional towards affected ear and up-beating \u2013Horizontal (lateral): Horizontal \u2013Anterior (superior): Torsional towards affected ear and down-beating  or purely down-beating",
+            "The movements that tend to bring on the symptoms are looking up, looking down, bending forward, lying down, and rolling over in bed Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "See  Overall Contraindications/Precautions   above"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "In the majority of patients BPPV is idiopathic(29)",
+            "In some patients, the cause may be secondary to\u2013head trauma(29)\u2013vestibular neuritis(29)\u2013M\u00e9ni\u00e8re\u2019s disease(29)\u2013migraine headaches(29)\u2013labyrinthitis\u2013ischemic processes\u2013iatrogenic causes (e.g.,otologic surgery)(29)"
+        ],
+        "pathogenesis": [
+            "Calcium carbonate debris called otoconia, which are normally present only in the otolith, are displaced into one ormore of the semicircular canals. When the head moves, the debris travels down the semicircular canal, stimulating thehair-cell nerve endings and resulting in sensory output. Particles in the affected canal can impair nerve signals, which resultsin symptoms of vertigo(35)",
+            "Two primary types of BPPV(29)\u2013Canalithiasis: Free-floating  otoconia move abnormally within a semicircular canal in response to head movements\u2013Cupulolithiasis: The otoconia adhere to the cupula (where the innervated hair cells are embedded)",
+            "Horizontal or lateral canal BPPV is often the result of otoconia leaving the posterior canal only to then get lodged in thelateral canal",
+            "Canalith jam: As described by the authors of South Korean case study, this occurs when otoconia get jammed within acanal or between the cupula and ampulla wall, creating an obstruction and resulting in intractable BPPV(6)"
+        ],
+        "risk factors": [
+            "Advancing age (\u2265 60 years of age) appears to increase the risk of developing BPPV(1)\u2013BPPV is 7 times more likely in those over age 60(1)",
+            "TBI(1)",
+            "Female sex(1)",
+            "Presence of other vestibular disorders(1)",
+            "Osteoporosis(34)\u2013Increased risk for recurrent BPPV",
+            "Low levels of 25-hydroxy  vitamin D(28)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Because both the Dix-Hallpike  test position and canalith repositioning treatment (CRT) require head rotation and extension, they are contraindicated in patients who have any of the following: Recent neck trauma, a history of surgery to the neck, severe rheumatoid arthritis, instability of the atlantoaxial and occipitoatlantal joints, carotid sinus syncope, vascular dissection syndromes, cervical myelopathy or radiculopathy, and cervical spinal stenosis(36) Severe kyphoscoliosis, Down syndrome, Paget\u2019s disease, morbid obesity, ankylosing spondylitis, severe lumbar dysfunction(11) Elevated blood pressure",
+        "Clinicians should undergo proper training prior to evaluating and treating patients with BPPV",
+        "If vertebral artery occlusion is suspected, the patient should be sent to the physician immediately for further testing",
+        "Patients may become very ill during the testing and treatment. Vertigo can be a very unpleasant sensation and some persons have a strong reaction. Patient may vomit, become diaphoretic, or fall over to the side or backwards. It is advised to have a second person stand by to assist with the treatment, and for the patient to have someone drive him or her to and attend the session",
+        "Pure up-beating  and down-beating  nystagmus are also associated with several serious medical issues and neurological diseases (e.g., multiple sclerosis, lesions in the cerebellum, vertebrobasilar insufficiency, Arnold-Chiari  malformation), so it is imperative to evaluate for and inquire about any neurological signs and symptoms when these present(16)",
+        "Patients with this diagnosis are at high risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies Researchers in China found increased risk for trunk fracture (including vertebrae, rib, and pelvis) in patients with BPPV(24)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "See  Overall Contraindications/Precautions   above"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " -When did symptoms begin? Was there head trauma? Are the symptoms associated with a headache? Is it true vertigo (room spinning) vs dizziness or lightheadedness? Any recent surgery or illness? How debilitating are symptoms? -Researchers in Japan developed a questionnaire to help practitioners diagnose BPPV and found it to have 81% sensitivity and 69% specificity(20) -The questionnaire consists of the following 4 questions -Is rotary vertigo a characteristic of your dizziness and/or vertigo? -Is your dizziness and/or vertigo triggered when you roll your head over in a supine position? -Does your dizziness and/or vertigo disappear within 5 minutes? -Have you previously experienced hearing loss in one ear, or have you experienced hearing loss, tinnitus, or ear fullness with this dizziness and/or vertigo? -One point is given for \u2018yes\u2019 to questions 1 and 2, 2 points for \u2018yes\u2019 to question 3, and 1 point is subtracted for \u2018yes\u2019 to question 4 -BPPV is diagnosed if the score is > 2",
+                "course of treatment": {
+                    "medical management": " Surgical options for intractable cases unresolved by CRT include semicircular canal occlusion and singular neurectomy(14) Both are shown to be effective, but there is a risk of hearing loss with neurectomy and transient imbalance, nausea, vomiting, and tinnitus with canal occlusion  Researchers in Qatar found that most emergency department (ED) physicians in Qatar do not apply an evidence-based approach to evaluating and treating BPPV (with very few offering physical maneuvers, most offering medications), and that dizziness and BPPV management should be included in training for physicians before they work in the ED(4) Authors have also identified the need for more research in the primary care setting, as general practitioners can safely perform the testing and maneuvers and this may speed correct diagnosis and treatment of BPPV(11)",
+                    "surgical management": [],
+                    "medications": "Anti-motion  sickness medications (e.g., meclizine [Antivert, Bonine]) can be issued to ease symptoms in early stages, although they are not recommended long term because they suppress the vestibular system. There is no evidence that supports medication as a primary treatment or replacement treatment for repositioning maneuvers(31)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Evidence-based  practice guidelines for BPPV recommend against radiologic imaging unless the diagnosis is uncertain or other findings warrant testing(e.g., associated hearing loss, tinnitus, neurological signs/symptoms)(7)",
+                        "Videonystagmography (VNG) testing(17)",
+                        "Researchers in the United States studied the accuracy of computerized tracings in diagnosing BPPV and found that",
+                        "2dimensional  VNG is not reliable for identifying nystagmus trajectory in posterior canal BPPV; they advise that examiners should observe the video of the eyes in real time instead",
+                        "Vestibular evoked myogenic potentials (VEMP): ocular (oVEMP) and cervical (cVEMP) reflect utriclar and saccular function, respectively(18)",
+                        "Researchers in China found an increased occurrence of abnormal response with both VEMP tests in patients with BPPV and a statistically significant increase in abnormal oVEMP response in patients with recurrent BPPV versus nonrecurrent. They concluded that oVEMP testing may be of value in predicting the likelihood of BPPV recurrence",
+                        "Patients may also undergo an audiogram, auditory brainstem response (ABR) test, MRI, CT scan, EEG, and Doppler ultrasound (of carotid or vertebral arteries)"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " What activities and/or positions make the symptoms better or worse? Usual provocative activities are looking up, looking down, bending forward, rolling over in bed, sitting up, or lying down in bed",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs intermittent, vertigo vs dizziness or lightheadedness) and how long they last, when they occur, and with what activities",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain, dizziness, or vertigo is present now and how much) -The Activities-specific  Balance Confidence (ABC) Scale can be used to rate the patient\u2019s confidence performing specific ADL activities and has strong psychometric properties(10)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables. Typically, patients feel worse upon waking and symptoms improve as the day progresses",
+                "sleep disturbance": "Document number of wakings per night. Any complaint of reduced sleep related to symptoms? When the patient wakes up, is the room spinning? Ask about sleeping position and number of pillows used; patients typically use more pillows and avoid sleeping on affected ear to avoid provoking vertigo",
+                "other symptoms": "Document other symptoms the patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to a physician (e.g., aphasia, headache, change in mental status)nausea, vomiting, headache, blurry vision, disequilibrium with or without history of falling, tinnitus, or feelings of aural fullness Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Is there a prior history of BPPV or other vestibular disorder? Is there a history of similar symptoms in the past that seemed to resolve or required treatment to resolve? ",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, osteoporosis, hypertension, stroke, migraine, complications of pregnancy, psychiatric disorders, orthopedic disorders, multiple sclerosis, M\u00e9ni\u00e8re\u2019s disease, TBI, and vestibular neuritis/labyrinthitis",
+                    "medications previously prescribed": "Is the patient taking medication that causes dizziness?",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Inquire about occupation and recreational/sports activity. Are these activities avoided or otherwise affected by the symptoms? If yes, what activity and when during the activity? Does the patient work? Does the patient drive?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Does the patient report any preexisting functional limitations? -Does patient have and/or use adaptive equipment?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Does patient require any devices for balance and safety? Are they appropriate? Assess fit and use and if additional devices are necessary",
+            "balance": " Balance \u2013Balance generally is evaluated once BPPV is resolved in order to assess for a true impairment in balance reactions \u2013Best if tested under several conditions to detect and assess any decrease in balance reactions including even and uneven surfaces, and conditions including both high and low levels of visual input \u2013Balance tests -Berg Balance Test -Tinetti Balance Assessment -Functional Reach Test (FRT) -Romberg balance test",
+            "cardiorespiratory function and endurance": [
+                "Consider testing for orthostatic hypotension \u2022Cranial and peripheral nerve integrity:  Test cranial nerves, with a focus on III, IV , VI, and VIII",
+                "III, IV , VI  Oculomotor, trochlear, abducens (evaluate extraocular movements)",
+                "VIII  Vestibulocochlear (evaluate ability to hear)"
+            ],
+            "circulation": "",
+            "functional mobility": "Assess ability to transfer and perform bed mobility safely, especially while patient still has symptoms with these activities \u2013Once patient is symptom free, reassess ability to perform; may utilize objective measures such as -FIM -Timed Up & Go (TUG) test(10) \u2013Inquire if the patient is avoiding any activities due to symptoms",
+            "gait locomotion": "Once BPPV has resolved, assess safety with ambulation and for any gait deviations \u2013Can utilize Dynamic Gait Index (DGI) for objective measurement of safety with ambulation(10) Reflexes \u2013Assess vestibular ocular reflex once BPPV has resolved to determine if there is a residual vestibular hypofunction and impairment in gaze stability \u2013Assess lower extremity reflexes",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "Are these affected by the patient\u2019s symptoms? Is patient avoiding any activities (e.g., cleaning the floor, changing light bulbs) due to symptoms?",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Dix-Hallpike  test(29) -Considered the gold standard for diagnosis of BPPV(33) -Implemented in an effort to detect posterior canal BPPV -The patient begins the test in long sitting  -The clinician then rotates the patient\u2019s head 45\u00b0 to one side and supports the patient as he or she lies back to supine with his or her head hanging off the plinth in 15\u00b0 of cervical extension -Positive test \u2013 Positive for posterior canal if the patient reports vertigo and nystagmus is torsional with an up-beating component (the top pole of the eye beats towards the ear rotated towards the floor). Positive for superior canal if the nystagmus is torsional (towards the lower ear) and down-beating \u2013Sidelying test(43) -A substitute for Dix-Hallpike  test if the patient and/or therapist cannot perform the Dix-Hallpike  test -The patient begins the test in sitting on a plinth -Testing the right ear \u2013 patient is asked to rotate head to the left and then lie on his or her right side -Testing the left ear \u2013 patient is asked to rotate head to the right and then lie on his or her left side -Positive test \u2013 the patient reports vertigo and nystagmus is observed in the direction of the ear closest to the pillow \u2013The supine roll test(29) -Implemented in an effort to detect horizontal canal BPPV -The patient is in supine -The patient\u2019s neck/head is in a neutral position with the patient\u2019s face upward -The head is then rotated quickly to one side 90\u00b0 and observed, then to the other side and observed -Positive test \u2013 horizontal nystagmus is observed bilaterally and each side is in the opposite direction -Geotropic horizontal nystagmus \u2013 nystagmus that is directed \u201ctoward the earth\u201d; observed if canalithiasis is present -Apogeotropic horizontal nystagmus \u2013 nystagmus that is directed \u201caway from the earth\u201d; observed if cupulolithiasis is present -Researchers in South Korea who studied 50 patients with horizontal canal BPPV found the direction of nystagmus after rapidly lying down and rotating the head to the side did not seem to predict laterality. More testing and research is needed(12) \u2013Vestibular ocular reflex (VOR) -Determine if there is also a unilateral hypofunction of the vestibular system in response to alterations in visual input with head movement(37,38) -Assess VOR in horizontal and vertical planes. Have patient focus on an object and turn head side to side (15\u00b0 to each side) as fast as he or she can, keeping the object perfectly clear. Normal speed is 120 head turns per minutedirection-changing  or upbeat spontaneous nystagmus, upbeat or direction-changing  gaze-evoked  nystagmus, saccadic eye movements, smooth pursuit, and ocular alignment \u2013The Motion Sensitivity Test(45) -Designed to measure motion-provoked  dizziness during 16 quick changes to head or body positions -Positions progress from lying to sitting to standing -2 positions included are Dix-Hallpike  right and left -Used as a guide for developing exercise programs for patients with dizziness (including residual dizziness after BPPV treatment) and as an outcome measure -Researchers from the United States found it to have good validity, test-retest  reliability, and interrater reliability \u2013Questionnaires -Dizziness Handicap Inventory (DHI)(8,10) -Several questions are specifically about BPPV , and there is also a 5-item  subscale specifically designed for BPPV -The Vestibular Disorders Activities of Daily Living Scale (V ADL)(8)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Because CRT requires head rotation and extension, these tests and treatments are contraindicated in patients who have any of the following: recent neck trauma, a history of surgery to the neck, severe rheumatoid arthritis, instability of the atlantoaxial and occipitoatlantal joints, carotid sinus syncope, vascular dissection syndromes, cervical myelopathy or radiculopathy, and cervical spinal stenosis(36)",
+                "Patients with this diagnosis may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside if inpatient. Ensure that patient and family/caregivers are aware of the  potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Reported complications of repositioning maneuvers include inability to tolerate positions due to cervical spine dysfunction, emesis during treatment, nausea, and fainting(10)"
+            ]
+        },
+        "diagnosis need for treatment": "Diagnosis is based on history, signs and symptoms, and testing; treatment is indicated if there is a positive result with any of the accepted tests(1,7) In the case of peripheral vertigo \u2013 acute labyrinthitis, vestibular neuronitis, labyrinthine apoplexy, M\u00e9ni\u00e8re's disease, otosclerosis, head trauma (hemorrhage into internal ear, fracture of temporal bone), drugs (e.g., aminoglycoside), rostral lateral medullary mass or lesion, autoimmune inner ear disease (AIED), perilymphatic fistula \u2013Patients with labyrinthitis, neuronitis, and M\u00e9ni\u00e8re's disease typically also present with hearing loss, aural fullness, and/or tinnitus and those symptoms are not associated with BPPV In the case of central vertigo \u2013 vascular insufficiency, basilar migraine,acoustic neuroma, cervical spondylosis, multiple sclerosis, drugs (e.g., NSAIDs, antihypertensives, antibiotics, psychotropics, alcohol), carbon monoxide poisoning, stroke/ TIA, TBI (posttraumatic vertigo) In the case of dizziness \u2013 presbyequilibrium (macular dysequilibrium, vestibular ataxia), otitis media, orthostatic hypotension, cardiovascular disease, syphilis In children \u2013 benign paroxysmal vertigo (BPV) of childhood(19) \u2013Thought to be of central origin and part of migraine variant vertigo; symptoms are vertigo, nausea, and vomiting, and they may occur after exposure to such triggers as light, sound, or movement. Typically presents in early childhood (ages 2\u20135) Physiologic vertigo (motion sickness) Hyperventilation (anxiety, tingling in extremities) Postural hypotension Lightheadedness Migraine-associated  vertigo(1) \u2013Episodes last hours to days with other typical migraine symptoms (e.g., headache, photophobia, phonophobia or aura)(1) Neurovascular compression of CN VIII Arnold-Chiari  malformation",
+        "rule out": "",
+        "prognosis": [
+            "Researchers in the United Kingdom studied how many Epley maneuvers it takes to provide symptom relief in patients with BPPV and found that 47% of patients obtained symptomatic relief in 1 session and 84% in 3 sessions(25)",
+            "Researchers in South Korea found that in cases of multiple canal involvement, successful treatment is possible but usually requires more treatment sessions and longer duration of treatment; this was more strongly associated with underlying otologic diseases such as labyrinthitis(13)",
+            "Researchers in South Korea studied short-term  outcomes of BPPV treatment and what factors influence results and recurrence. They reported the following:(21) \u2013Patients with ageotropic and multi-canal  BPPV needed more follow-ups  than those with posterior canal BPPV \u2013Patients with multi-canal  BPPV showed significantly lower 1-week  success rates than patients with other types \u2013Patients with anterior and multi-canal  BPPV showed significantly lower 1-month success rates than patients with other types \u2013One-week  success rates for posterior and horizontal canal BPPV in patients followed up on a daily basis were higher than those in patients with weekly follow-up \u2013Overall 1-year  recurrence rate was 16%.Higher recurrence rate was related to trauma"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician to determine any other underlying causes of dizziness not associated with BPPV Audiologist to evaluate any issues with hearing, balance, or other related disorders ",
+        "other considerations": [
+            "Researchers in the United States studied the seasonality of BPPV and report a statistically significant difference between hospital visits for BPPV in the months when serum vitamin D levels are the lowest versus months when they are the highest, indicating a possible association between vitamin D deficiency and BPPV(15)",
+            "Researchers in India suggested the importance for patients with BPPV to participate in a balance retraining program in order to improve postural stability. They concluded that patients who have already received CRT undergo balance training (e.g., wobble board) in order to improve overall balance and reduce the recurrence of falls(27)"
+        ],
+        "treatment summary": [
+            "Instructions for performing CRT \u2013The Epley maneuver(44) is completed for posterior and anterior semicircular canal(39) canalithiasis as follows: (patient with right-sided  BPPV in this example) -Starting position: The patient should be longsitting so that once in supine position 15\u00b0 of cervical extension can be achieved -Position 1 (supine, head turned 45\u00b0 toward ipsilateral side with 15\u00b0 cervical extension): The patient is reclined quickly to the supine position of the affected side, and 15\u00b0 of cervical extension is attained. The patient remains in this position for 30 seconds after the point when nystagmus and symptoms subside. This usually takes a total of approximately 60 seconds -Position 2 (supine, 15\u00b0 cervical extension, head turned 45\u00b0 toward contralateral side): Next, the patient's head is turned slowly from 45\u00b0 toward ipsilateral side to 45\u00b0 toward contralateral side. The patient remains in this position for 30 seconds after the point when nystagmus and symptoms subside if re-provoked.  This usually takes a total of approximately 60 seconds -Position 3 (lying on side with contralateral shoulder down, head turned 45\u00b0 below horizon toward contralateral side): The body is rolled so that the shoulders are aligned perpendicularly to the floor, affected ear up. The head is then turned further so that the nose points 45\u00b0 below the plane of the horizon. This position is usually held for another 30 seconds -Position 4 (sitting, head turned at least 90\u2013135\u00b0  toward contralateral side): The patient is raised back to the sitting position with the head turned away from the affected side. Patients may experience some dizziness during the procedure. Nystagmus may be invoked. Two to three sessions may need to be performed until patient receives a successful outcome -Ending position: Finally, the head is turned back to the midline \u2013Semont (liberatory) maneuver completed for anterior and posterior semicircular canal cupulolithiasis(44) -Patient starts seated facing the examiner, and then turns head 45\u00b0 horizontally toward the unaffected ear (if posterior canal cupulolithiasis) or affected ear (if anterior canal cupulolithiasis) -The patient is then moved to sidelying, allowing for lying on the side of the affected ear with the patient\u2019s nose pointed upward. Remain in this position for 3 minutes. The debris should move to the apex of the canal -Then move quickly through the seated position, holding the patient\u2019s head in place, until the patient is lying on the side of the affected ear with nose pointed to the ground. Remain in this position for 3 minutes. The debris should move toward the exit of the canal -Then slowly move the patient back to the seated position. The debris should fall into the utricle, where it does not cause vertigo \u2013Modified liberatory maneuver for the horizontal canal is completed for horizontal canal BPPV(2) -Patient starts supine lying with head in 15\u00b0 of flexion -Rotate the patient\u2019s head 90\u00b0 toward affected ear. Remain in this position for 10 seconds -Then rotate the patient\u2019s head to 180\u00b0 in the direction of unaffected ear. Remain in this position for 10 seconds -Repeat these steps 10 times for each ear, then have patient return to sitting \u2013270\u00b0 roll for horizontal canal BPPV(3) -In supine position, therapist applies head rotation of 90\u00b0towards affected. Position is held until symptoms subside. Patient\u2019s head is turned towards midline and therapist waits for 15 seconds and reassesses for nystagmus. After 15 seconds, roll patient\u2019s head 90\u00b0 to the contralateral side and wait for another 15 seconds. Patient body is turned until facing down towards the mat or plinth \u2013360\u00b0 roll for horizontal canal BPPV(3) -The same as 270\u00b0 roll but adds one more 90\u00b0 turn  \u2013Gufoni maneuver for horizontal canal BPPV(29) -Patient starts sitting upright and forward. While maintaining a neutral head position, the patient is briskly tilted to one side -On the healthy side for geotropic form -On the impaired side for apogeotropic form -The patient holds this position for 2 minutes -The head is then turned 45\u00b0 downwards and held for 2 minutes -Finally, the patient returns to sitting position",
+            "Research on maneuvers \u2013The Epley maneuver is a safe and effective treatment for BPPV ,based on findings of a systematic review(10) \u2013Based on a meta-analysis,  the Semont maneuver is as effective as the Epley maneuver for treatment of BPPV with respect to recovery rate, recurrence rate, and side effects(41) \u2013Researchers of a meta-analysis  concluded that the Epley maneuver and Semont maneuver were similar in short-term efficacy and safety for the treatment of posterior canal BPPV(42) \u2013Researchers in India who conducted a comparative study found that the Epley maneuver is more effective than the Semont maneuver for patients with unilateral posterior canal BPPV(8) -Fifty subjects participated; 25 were randomly assigned into each treatment group -Each group received 3 repetitions per session, once a day for 5 days for 3 weeks -Outcome measures were the DHI and V ADL \u2013Researchers in Canada who conducted an unblended, nonrandomized, case comparison interventional study found that the canalith repositioning procedure (CRP) (which they described to be the same as the Epley maneuver) is effective in treating BPPV in patients who are status post mild to moderate TBI(22) -Three groups of patients with TBI (BPPV , n = 21; nonspecific dizziness, n = 23; no dizziness, n = 12) -Outcome measures were the DHI and SF-36 -Treatment resulted in significant symptom resolution and improvement in perceived physical health status \u2013Researchers in China evaluated the short-term  efficacy of a computer-controlled canalith repositioning procedure that mimics the Epley maneuver and found it to be a safe and effective treatment for posterior canal BPPV , with success rates similar to those treated with a manual Epley maneuver(23) -One hundred thirty-two  patients participated and 81.8% had full resolution at 1 week \u2013Researchers who published a systematic review in 2014 found that there are 4 very similar maneuvers to treat anterior canal BPPV (including the maneuver described above, which has the best one-treatment  cure rate) and they all are effective and easy and safe to administer(5)",
+            "Once the BPPV is resolved, habituation exercises may be performed to address any residual dizziness \u2013Motion sensitivity exercises \u2013 several movements included are the same as those that provoke BPPV symptoms \u2013Brandt-Daroff  exercises(9) -Instructions: Patient sits at the edge of the bed sideways and turns the head 45 degrees horizontally to one side (usually away from the affected side), and then rapidly lies down to the opposite side. The patient stays in this position for 20\u201330 seconds (or until the dizziness disappears, whichever is longer), and then sits back up. The same is repeated for the other side (look to the affected side and lie down to the unaffected side), and the entire exercise is repeated 5 times(9) -Researchers in India who conducted a comparative prospective study found that performing Brandt-Daroff  exercises at home for 2 weeks (5 repetitions, 2\u20133 times each day) is as effective as a single treatment with the Epley maneuver for those with posterior canal BPPV(9) -Thirty subjects were equally divided into 2 groups -Outcome measure was the DHI -Both showed highly significant improvement; the Epley group showed more improvement but the difference was not significant -Brandt-Daroff  exercises are also an important intervention for those who cannot undergo the Epley maneuver (e.g., due to cervical or thoracic spine pathology) \u2013Performing a combination of Brandt-Daroff,  visual, and proprioceptive exercises is effective in reducing dizziness caused by BPPV and improving balance(40)  -Based on an RCT in India -Interventions were performed 5 times a week for 9 weeks -Proprioceptive and visual exercises included closing eyes and imagining a blank background, closing eyes and imagining a checkerboard background, single-leg  stance, heel raises, toe raises, and perturbation training",
+            "Researchers of an RCT in Brazil (N = 14) concluded that in older persons with chronic BPPV , the modified Epley maneuver in conjunction with vestibular rehabilitation training (VRT) was as effective for treatment of BPPV as the Epley maneuver alone, suggesting that the addition of VRT does not influence the symptom of dizziness. However, substantial improvements were found in dynamic balance for those receiving VRT and the modified Epley maneuver compared with those receiving the modified Epley maneuver only(26) \u2013All patients received the modified Epley maneuver during the 13-week  trial as needed up to 3 times during a single session. Patients were also given standard post-procedure  instructions \u2013VRT consisted of oculomotor exercises, habituation exercises, standing and dynamic balance training, and lower extremity muscle strengthening. VRT was performed for 50 minutes, twice a week for 12 weeks",
+            "Balance training, functional mobility training, and patient education regarding home modification can be part of a comprehensive treatment plan for BPPV . A multidisciplinary approach is recommended(30) . Problem Goal Intervention Expected Progression Home Program Dizziness or feelings of spinning (vertigo), nausea and vomiting, tinnitusDecrease symptom intensity and frequency, leading to complete abolishment of all symptomsTherapeutic strategies _ Treatment depends upon affected canal and concurrent symptoms present (see Treatment summary  for details)Progress as indicated and appropriate for each patientBrandt-Daroff exercises(30) _ Motion sensitivity exercises _ _ Prolonged position(36) _ _ Head shaking Disequilibrium and/ or decreased balance, decreased ability to ambulate safelyRestore balance on all surfaces with various levels of visual input, improved safety with ambulationFunctional training _ Gait and balance activities to address patient\u2019s specific impairments _ _Add balance and gait re-education to include various surfaces, varying levels of visual input, and various levels of functional activities. Progress based on individual patient needs; consider patient\u2019s age, physical impairments, and cognitionInstruct patient in a safe home exercise program to complement the physical therapy program, which should be progressed as tolerated _ Recommend modifications for home (e.g., remove throw rugs) and fall- prevention strategies to implement Impaired functional mobilityRestore functional mobilityFunctional training _ Functional training to restore any impaired activity, habituation exercises to minimize symptoms with functional mobilityProgress as indicated and appropriate for each patientInstruct patient in a safe home exercise program to complement the physical therapy program, which should be progressed as tolerated  ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased symptom intensity and frequency, leading to complete abolishment of all symptoms": [
+            "Negative result of BPPV testing",
+            "V AS",
+            "DHI",
+            "The Motion Sensitivity Test"
+        ],
+        "restored balance on all surfaces with various levels of visual input": [
+            "DGI",
+            "Tinetti Balance Assessment",
+            "Berg Balance Measure",
+            "FRT"
+        ],
+        "restored functional mobility and ability to perform self-care  and adls": [
+            "FIM",
+            "TUG test"
+        ],
+        "improved ability to ambulate safely": [
+            "DGI"
+        ],
+        "improved confidence in balance": [
+            "ABC scale"
+        ],
+        "improved quality of life": [
+            "V ADL",
+            "SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "Completion of the home exercise program established during treatment",
+        "Implement fall-prevention  strategies and home modifications as appropriate",
+        "Consider a home evaluation or home supervision as indicated",
+        "Estimated recurrence rate is 15% per year; education about recurrence can lead to earlier treatment and prevention of falls(1)"
+    ],
+    "patient education": [
+        "Mayo Clinic website on BPPV https://www.mayoclinic.org/diseases-conditions/vertigo/symptoms-causes/syc-20370055",
+        "American Hearing Research Foundation website on BPPV https://www.american-hearing.org/understanding-hearing-balance/",
+        "Vestibular Disorders Association (VEDA) website on BPPV (features a free publication for patients to download) https://vestibular.org/understanding-vestibular-disorders/types-vestibular-disorders/benign-paroxysmal-positional-vertigo Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Wipperman J. Dizziness and vertigo. In: Bope ET, Kellerman RD, eds. Conn\u2019s Current Therapy 2017 . Philadelphia, PA: Elsevier; 2017:8-11.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Steenerson RL, Cronin GW, Marbach PM. Effectiveness of treatment techniques in 923 cases of benign paroxysmal positional vertigo. Laryngoscope . 2005;115(2):226-231. (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Massoud EA, Ireland DJ. Post-treatment  instructions in the nonsurgical management of benign paroxysmal positional vertigo. J Otolaryngol . 1996;25(2):121-125.  (RCT) "
+        },
+        {
+            "number in article": 4,
+            "reference": "Bashir K, Alessai GS, Salem WA, Irfan FB, Cameron PA. Physical maneuvers: effective but underutilized treatment of benign paroxysmal vertigo in the ED. Am J Emerg Med . 2014;32(1):95-96.  doi:10.1016/j.ajem.2013.10.012. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Kinne BL, Crouch NA, Strace CL. Anterior canal benign paroxysmal positional vertigo treatment techniques. Phys Ther Rev . 2014;19(2):79-85.  (SR)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Ko KM, Song MH, Kim JH, Shim DB. Persistent spontaneous nystagmus following a canalith repositioning procedure in horizontal semicircular canal benign paroxysmal positional vertigo. JAMA Otolaryngol Head Neck Surg . 2014;140(3):250-252.  doi:10.1001/jamaoto.2013.6207. (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Collie MJH, Ramsey AR. Differentiating benign paroxysmal positional vertigo from other causes of dizziness. J Nurse Pract . 2014;10(6):393-400.  doi:10.1016/ j.nurpra.2014.03.008. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Durga GS, Kumari VS, Madhavi K. A comparative study on the effectiveness of Epleys maneuver over Semont maneuver in improving the quality of life in subjects with benign paroxysmal positional vertigo. Indian J Physiother Occup Ther . 2014;8(1):99-104.  doi:10.5958/j.0973-5674.8.1.020.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Haripriya S, Ajith S, Roshan PSB, Mohamed Faisal CK. Comparison of Epley maneuver and Brandt-Daroff  exercises on short-term  posterior canal benign paroxysmal positional vertigo (BPPV) \u2013 related quality of life. Indian J Physiother Occup Ther . 2014;8(3):109-113.  doi:10.5958/0973-5674.2014.00366.9.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Helminski JO. Effectiveness of the canalith repositioning procedure in the treatment of benign paroxysmal positional vertigo. Phys Ther . 2014;94(10):1373-1382.  doi:10.2522/ ptj.20130239. (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Ballve Moreno JL, Carrillo Munoz R, Villar Balboa I, et al. Effectiveness of the Epley\u2019s maneuver performed in primary care to treat posterior canal benign paroxysmal positional vertigo: Study protocol for a randomized controlled trial. Trials. 2014;15:179. doi:10.1186/1745-6215-15-179.  (PP)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Oh JH, Song SK, Lee JS, Choi JC, Kang SY, Kang JH. Lying-down  nystagmus and head-bending  nystagmus in horizontal semicircular canal benign paroxysmal positional vertigo: Are they useful for lateralization?. BMC Ophthalmol . 2014;14:136. doi:10.1186/1471-2415-14-136.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Shim DB, Song CE, Jung EJ, Ko KM, Park JW, Song MH. Benign paroxysmal positional vertigo with simultaneous involvement of multiple semicircular canals. Korean J Audiol . 2014;18(3):126-130.  doi:10.7874/kja.2014.18.3.126. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Zhu Q, Liu C, Lin C, et al. Efficacy and safety of semicircular canal occlusion for intractable horizontal semicircular benign paroxysmal positional vertigo. Ann Otol Rhinol Laryngol. 2015;124(4):257-60.  doi:10.1177/0003489414556307. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Whitman G, Baloh RW. Seasonality of benign paroxysmal positional vertigo. JAMA Otolaryngol Head Neck Surg . 2015;141(2):188-9.  doi:10.1001/jamaoto.2014.2941. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Roberts R. The rarest of the rare. Audiol Today . 2015;27(6):60-63.  (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "VanDerHayden CM, Carender WJ, Heidenreich KD. Nystagmus discordance with 2-Dimensional  videonystagmography in posterior semicircular canal benign paroxysmal positional vertigo. Otolaryngol Head Neck Surg . 2015;152(4):724-8.  doi:10.1177/0194599814564373. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Xu H, Liang F, Chen L, et al. Evaluation of the utricular and saccular function using oVEMPs and cVEMPs in BPPV patients. J Otolaryngol Head Neck Surg . 2016;1-6. doi:10.1186/s40463-016-0125-7.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Gelfand AA. Episodic syndromes that may be associated with migraine: A.K.A. \u201cthe childhood periodic syndromes\u201d. Headache J Head Face Pain . 2015;55(10):1358-64. doi:10.111/head.12624. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Imai T, Higashi-Shingai  K, Takimoto Y, Masumura C, Hattori K, Inohara H. New scoring system of an interview for the diagnosis of benign paroxysmal positional vertigo. Acta Otolaryngol . 2016;136(3):283-8.  doi:10.3109/00016489.2015.1121547. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Song CI, Kang BC, Yoo MH, Chung JW, Yoon TH, Park HJ. Management of 210 patients with benign paroxysmal positional vertigo: AMC protocol and outcomes. Acta Otolaryngol . 2015;135(5):422-28.  doi:10.3109/00016489.2014.993089. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Ouchterlony D, Masanic C, Michalak A, Topolovec-Vranic  J, Rutka JA. Treating benign paroxysmal positional vertigo in the patient with traumatic brain injury: effectiveness of the canalithic repositioning procedure. J Neurosci Nurs . 2016;48(2):90-99.  doi:10.1097/JNN.0000000000000186. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Shan X, Peng X, Wang E. Efficacy of computer-controlled  repositioning procedure for benign paroxysmal positional vertigo. Laryngoscope . 2015;125:715-9.  doi:10.1002/ lary.24961. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Liao WL, Chang TP, Chen HJ, Kao CH. Benign paroxysmal positional vertigo is associated with increased risk of fracture: A population-based  cohort study. J Orthop Sport Phys Ther . 2015;45(5):406-12.  doi:10.2519/jospt.2015.5707. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Hughes D, Shakir A, Goggins S, Snow D. How many Epley manoeuvres are required to treat benign paroxysmal positional vertigo? J Laryngol Otolog . 2015;129(5):421-4. doi:10.1017/S0022215115000481. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Riberio KM, Freitas RV, Ferreira LM, Deshpande N, Guerra RO. Effects of balance vestibular rehabilitation therapy in elderly with benign paroxysmal positional vertigo: a randomized controlled trial. Disabil Rehabil . 2017;39(12):1198-1206.  doi:1080/09638288.2016.1190870. (RCT)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Roshan PSB, Haripriya S, Soni E, Lalaji L. Effectiveness of wobble board balance training in patients with benign paroxysmal positional vertigo (BPPV) after canalith repositioning maneuver. Indian J Physiother Occup Ther . 2017;11(4):29-33.  doi:10.5958/0973-5674.2017.00115.0.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Han W, Fan Z, Zhou M, et al. Low 25-hydroxyvitamin  D levels in postmenopausal female patients with benign paroxysmal positional vertigo. Acta Otolaryngol . 2018;138(5):443-446.  doi:10.1080/00016489.2017.1416168. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "You P, Instrum R, Parnes L. Benign paroxysmal positional vertigo. Laryngoscope Investig Otolaryngol . 2019;4(1):116-123.  doi:10.1002/lio2.230. (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Bressi F, Vella P, Casale M, et al. Vestibular rehabilitation in benign paroxysmal positional vertigo: reality or fiction? Int J Immunopathol Pharmacol . 2017;30(2):113-122. doi:10.1177/0394632017709917. (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Bhattacharyya N, Gubbels SP, Schwartz SR, et al. Clinical practice guideline: benign paroxysmal positional vertigo (update). Otolaryngol Head Neck Surg . 2017;156(3S):S1-S47.  doi:10.1177/0194599816689667. (G)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Benign paroxysmal positional vertigo (BPPV). Mayo Clinic Web site. https://www.mayoclinic.org/diseases-conditions/vertigo/symptoms-causes/syc-20370055 . Published June 30, 2018. Accessed August 27, 2019. (GI)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Rodrigues DL, Ledesma ALL, de Oliveira CAP, Bahamad J\u00fanior F. Physical therapy for posterior and horizontal canal benign paroxysmal positional vertigo: long-term  effect and recurrence: a systematic review. Int Arch Otorhinolaryngol . 2018;22(4):455-459.  doi:10.1055/s-0037-1604345.  (SR)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Byun H, Chung JH, Lee SH, Park CW, Kim EM, Kim I. Increased risk of benign paroxysmal positional vertigo in osteoporosis: a nationwide population-based  cohort study. Sci Rep. 2019;9(1):3469. doi:10.1038/s41598-019-39830-x.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Li JC. Neurologic manifestations of benign positional vertigo: pathophysiology. Medscape Web site. https://emedicine.medscape.com/article/1158940-overview#a5 . Published June 23, 2018. Accessed August 27, 2019. (GI)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Balatsouras DG, Koukoutsis G, Fassolis A, Moukos A, Apris A. Benign paroxysmal positional vertigo in the elderly: current insights. Clin Interv Aging . 2018;13:2251-2266. doi:10.2147/CIA.S144134. (RV)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Amin MS. Vestibuloocular reflex testing. Medscape Web site. https://emedicine.medscape.com/article/1836134-overview#a2 . Published February 10, 2016. Accessed August 28, 2019. (GI)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Fallahnezhad T, Adel Ghahraman M, Farahani S, Hoseinabadi R, Jalaie S. Vestibulo-ocular  reflex abnormalities in posterior semicircular canal benign paroxysmal positional vertigo: a pilot study. Iran J Otorhinolaryngology . 2017;29(94):269-274.  doi:10.22038/ijorl.2017.22120.1761. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Anagnostou E, Kouzi I, Spengos K. Diagnosis and treatment of anterior-canal  benign paroxysmal positional vertigo: a systematic review. J Clin Neurol . 2015;11(3):262-267. doi:10.3988/jcn.2015.11.3.262. (SR)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Shahanawaz SD, Rathod PV. Adding visual and proprioceptive exercises to dizziness caused by BPPV: a randomized clinical trial. Indian J Physiother Occup Ther . 2015;9(4):235-239.  doi:10.5958/0973-5674.2015.00178.1.  (RCT)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Zhang X, Qian X, Lu L, et al. Effects of Semont maneuver on benign paroxysmal positional vertigo: a meta-analysis.  Acta Otolaryngol . 2017;137(1):63-70. doi:10.1080/00016489.2016.1212265. (M)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Liu Y, Wang W, Zhang AB, Bai X, Zhang S. Epley and Semont maneuvers for posterior canal benign paroxysmal positional vertigo: a network meta-analysis.  Laryngoscope . 2016;126(4):951-955.  doi:10.1002/lary.25688. (M)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Recommended procedure: positioning tests. British Society of Audiology Web site. https://www.thebsa.org.uk/wp-content/uploads/2015/12/Positioning-Tests-Recommended-Procedure-09.12.2015.pdf . Published 2016. Accessed August 28, 2019. (GI)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Kaski D, Bronstein AM. Epley and beyond: an update on treating positional vertigo. Pract Neurol . 2014;14(4):210-221.  doi:10.1136/practneurol-2013-000690.  (GI)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Motion sensitivity testing. Charter Care Web site. http://www.chartercare.org/uploads/appendix_g_motion_sensitivity_test.pdf . Accessed August 28, 2019. (GI) "
+        }
+    ]
+}

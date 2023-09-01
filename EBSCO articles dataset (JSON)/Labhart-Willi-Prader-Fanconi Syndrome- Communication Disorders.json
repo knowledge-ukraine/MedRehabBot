@@ -1,0 +1,384 @@
+{
+    "metadata": {
+        "title": "Prader-Willi  Syndrome  Communication Disorders",
+        "synonyms": [
+            "prader-labhart-willi  syndrome  communication disorders",
+            "communication disorders: prader-willi  syndrome",
+            "labhart-willi syndrome: communication disorders",
+            " labhart-willi-prader-fanconi  syndrome: communication disorders",
+            "royer syndrome: communication disorders",
+            "communication impairment: prader-willi  syndrome",
+            "language disorder: prader-willi  syndrome",
+            "language impairment: prader-willi  syndrome"
+        ],
+        "anatomical location body part affected": [
+            "Muscles, genitalia, facial features, respiratory system, skeletal system, dentition, hands and feet, and brain(1)"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders"
+        ],
+        "description": [
+            "Prader-Willi  syndrome (PWS) is a neurodevelopmental genetic disorder characterized by hypothalamic-pituitary dysfunction.(2,3) The incidence of this disorder is between 1 in 10,000 and 1 in 29,000 live births worldwide; prevalence is 1 in 52,000 persons worldwide.(2,3) Males and females are affected equally(2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "Q87.1": "congenital malformation syndromes predominantly associated with short stature _ (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/ episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "PWS is a genetic disorder with highly variable symptomatology that affects multiple body systems.(3) In adults, the most common manifestations of the disorder are obesity, intellectual disability, hypogonadism, short stature, hypotonia, dysmorphia, sleep disturbances, scoliosis, and behavioral dysfunction(3)",
+            "Signs and symptoms associated with each phase of PWS \u2013Hypotonic phase (occurs during fetal development and infancy) -Absence of normal, primitive reflexes(1) -Cryptorchidism (absence of one or both testes from the scrotum)(1,2) -Decreased limb movements/limited spontaneous movements(1) -Delayed developmental milestones(1) -Dysmorphic facial features (i.e., narrow face and nasal bridge, small upturned nose, almond-shaped eyes, thin upper lip, downturned corners of the mouth)(1) -Excessive sleeping(1) -Failure to thrive(1) -Hypogonadism(1) -Respiratory issues(1) -Severe hypotonia leading to poor suck reflex after delivery(1,37) -Underactivity in utero(1) -Weak cry(1)  \u2013Hyperphagic phase (occurs during ages 1\u20136 years) -Autonomic dysregulation (malfunctioning of the autonomic nervous system, which conveys impulses between the blood vessels, heart, and all the organs in the chest, abdomen, and pelvis, as well as the brain)(2) -Cognitive dysfunction; intellectual disability(1,2) -Delayed bone age(1) -Dental caries/enamel hypoplasia (tooth decay/cavities)(1) -Excessive eating (uncontrollable hyperphagia) due to a lack of sensation of satiety (being full) as a result of hypothalamic dysfunction(1,2) -Hypopigmentation (light skin color)(1) -Maladaptive behaviors(1) -Obesity(1,2) -Reduced and thick/sticky saliva(1) -Scoliosis(1,36,39) -Short stature(2) -Skin picking(1,35) -Small hands and feet(1) -Strabismus(1) (eyes are not properly aligned with each other [\u201clazy-eye\u201d]) \u2013Adolescence/adulthood -Delayed or arrested sexual development(1,2) -PWS results in congenital isolated hypogonadotropic hypogonadism, which is complete or partial failure of pubertal development due to impaired secretion of luteinizing hormone (LH) and follicle-stimulating  hormone (FSH)(2) -Diabetes/reduced glucose tolerance(1) -Infertility(1,2) -Osteoporosis(1) -Psychiatric issues(1) -Scoliosis(1,36,39)",
+            "Speech and language symptoms associated with PWS \u2013Articulation disorders(4,5,6) \u2013Disfluent speech behaviors(7,8) \u2013Language impairment(4,5) -In a study conducted in the United States with 35 participants with PWS (ages 7 to 44 years), researchers assessed receptive and expressive language abilities through the Clinical Evaluation of Language Fundamentals\u20134  (CELF-IV) and reported the following findings: (27) -Participants in this sample exhibited significantly impaired receptive and expressive language abilities -Language abilities were significantly more impaired than expected relative to verbal intelligence quotient -Significant differences in language impairment were found across subtypes of PWS (subtypes described below) -Individuals with the maternal uniparental disomy (mUPD) form of PWS had higher expressive language functioning than receptive abilities -Language impairment did not relate to adaptive functioning (i.e., an individual with PWS who has very low functioning language skills does not necessarily have poor adaptive functioning) -Researchers noted that this might lead an individual with PWS to feel frustrated if he or she is able to perform well in functional situations because of good adaptive skills; teachers and caregivers might overestimate language or cognitive abilities and unintentionally place demands on the individual with PWS that are well above skill level(27) \u2013Phonological processes (e.g., fronting, devoicing)(6) \u2013Poor pragmatic skills(5) \u2013V oice disorders(5,9)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "The patient\u2019s family/caregiver(s) should be involved in the assessment and management of the disorder",
+            "During a speech-language  evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance, level of fatigue, and level of frustration. The time of day and the number of previous evaluations can affect the patient\u2019s alertness and performance"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: pws is a genetic disorder. genes on chromosome  are either deleted or not expressed in patients with pws ,": [],
+        "pathogenesis": [
+            "There are four forms of PWS(3)\u2013The first form, which is the most common (approximately 70% of cases), results from a deletion of genes on the long armof the paternal chromosome 15 in the area identified as 15q11-q13.(3,29) This form of PWS is sometimes referred to asDEL-Individuals with the DEL form of PWS are more likely to have hypopigmentation, more distinct facial morphology, andan aptitude for jigsaw puzzles(29)\u2013The second form of PWS, called maternal uniparental disomy (mUPD), which represents around 20% of cases, occurswhen a person inherits two copies of chromosome 15 from the mother instead of one from each parent(3,4,29)-Individuals with this form have slightly milder symptoms than individuals with other forms of the disorder;(3) a higherfrequency of autism spectrum disorder (ASD) has been reported in individuals with this form of PWS(29)\u2013The third form, accounting for about 2\u20134%  of cases of PWS, results from a loss of function due to a defect in the paternalchromosome 15 without an interstitial deletion; this defect prevents expression of the genes on the paternal chromosome15(3)\u2013The fourth form of PWS, which represents about 1% of cases, results from a structural rearrangement of chromosome15(3)"
+        ],
+        "risk factors": [
+            "Having a father with a genetic mutation on chromosome 15(10)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Development of an individualized family service plan (IFSP) or an individual education plan (IEP) in collaboration with the parents and school personnel is essential for children with PWS to address learning, language, and cognitive problems as well as feeding and motor problems in the school environment. In addition, such a plan can assist school personnel in modifying activities that might be otherwise harmful or unsafe for the child",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "The patient\u2019s family/caregiver(s) should be involved in the assessment and management of the disorder",
+            "During a speech-language  evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance, level of fatigue, and level of frustration. The time of day and the number of previous evaluations can affect the patient\u2019s alertness and performance"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document when PWS was first diagnosed; in which phase is the patient currently?",
+                "course of treatment": {
+                    "medical management": "Medical management of PWS varies from patient to patient. Possible medical interventions for PWS include orthopedic treatment for scoliosis (present in over 80% of patients with PWS)(1) growth hormone (GH) treatment for growth, muscle strength, and related issues(1,3,11) According to the consensus guidelines from the Growth Hormone Research Society workshop summary published in 2013, GH should be considered for individuals with PWS along with dietary, environmental, and lifestyle interventions.(28) There is no consensus on age of initiation of GH except that it should be initiated prior to the onset of obesity, which typically occurs around 2 years of age(28)  In a study conducted in Finland of the long-term  effects of GH in 20 patients with PWS, researchers found that after 10 years there was marked improvement in adult height (compared to historical controls); however, patients remained severely obese with reduced healthrelated  quality of life compared to the general population(11) Long-term  treatment (12 to 24 months) with GH is associated with improved body composition (increased lean muscle mass and reduced body fat percentage) and increased muscle strength and endurance for exercise in adults with PWS(31) In an RCT conducted in the Netherlands with 75 children with PWS, researchers found that early initiation of GH treatment in infants was associated with improved adaptive skills after 7 years(34) feeding tubes (orogastric, nasogastric, gastrostomy, jejunostomy)/enteral feeding for infants with dysphagia",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being GH(1,3,11) Antidepressants, antipsychotics, and/or mood stabilizers(3)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  The diagnosis of PWS is made based on a consensus of core clinical criteria and genetic testing(3)",
+                        "There are major criteria weighted at 1 point each (including characteristic facial features, intellectual disability, hyperphagia, hypogonadism, neonatal/infantile hypotonia, feeding problems/failure to thrive in infancy, and rapid weight gain between ages 1 and 6 years), minor criteria weighted at 0.5 points each (decreased fetal movement/ infantile lethargy, behavior problems, sleep disturbances, short stature, hypopigmentation, small hands/feet for age, narrow hands, esotropia (one or both eyes turn inward)/myopia, thick saliva, speech defects, and skin picking), and supportive criteria that increase suspicion for the presence of PWS but are not scored (high pain threshold, decreased vomiting, scoliosis/kyphosis, early adrenarche [sexual maturity], osteoporosis, unusual skill with jigsaw puzzles, and normal neuromuscular studies)(3)",
+                        "For a diagnosis of PWS to be made based on core clinical criteria",
+                        "children under age 3 years must have a score of at least 5 points, 4 of which come from major criteria(3)",
+                        "children aged 38 years must have at least 8 points, 5 of which come from major criteria(3)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether or not they help Programs to improve overall health status of patients with PWS include weight loss programs, psychomotor therapy, music therapy, calorie intake education, and exercise programs(12)",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Do any specific situations seem to ease or exacerbate communication or behavioral symptoms? Is the patient better able to communicate with certain persons or in certain situations? -Does the patient have hearing or vision difficulties? -How severe are the patient\u2019s communication difficulties? -Does the patient have a co-occurring  disorder, such epilepsy or an autism spectrum disorder?(13) -What modality does the child use to communicate? Is one modality of communication preferred or more effective versus another? -Does the child or caregiver speak another language at home? Does the child prefer or excel in one language versus another? -Is the child overly sensitive to sensory stimulation (visual, auditory, or tactile)? -Are emotional outbursts sparked by a change in routine or expectations or by cognitive challenges?(14,15) -Studies have found increased emotional or temper outbursts in individuals with PWS when there is a change from what the patient had expected or when a cognitive challenge (through a game or other task) that requires attention switching is presented to the patient(14,15)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms. See also Presentation/signs and symptoms , above",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)  -Patients with PWS can have increased pain tolerance, which increases risk of injury(3) -It is important to ask caregivers about the way in which the patient reacts to painful situations (e.g., shots at the doctor, falling and scraping one\u2019s knee) in order to gauge the patient\u2019s pain threshold(3)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night -Sleep disturbances are common among patients with PWS and include excessive daytime sleepiness (related to hormone deficiencies), narcolepsy, and sleep apnea (related to obesity)(1,3,30)Occupational Therapy ; Topic IDT903517",
+                "other symptoms": "Document other symptoms patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (including temperature regulation difficulties, fever, and health problems secondary to obesity)(1)",
+                "respiratory status": "Document the respiratory status of the patient, including vital capacity, and include use of supplemental oxygen, tracheostomy tube, or mechanical ventilator. Does the patient experience recurrent respiratory infections?(3)Document any behavioral symptoms that indicate psychosocial disturbances; psychiatric and psychosocial disturbances occur in 515%  of adults with PWS(3) -The most common psychiatric conditions in PWS are mood disorders, obsessive-compulsive  disorder (OCD), and psychosis(16,32) -Patients with PWS exhibit a range of behaviors at different stages of development. Infants have been described as happy, cooperative, affectionate, friendly, and compliant. Maladaptive behaviors typically emerge in childhood and include skin picking, verbal perseveration, stubbornness, obsessions, temper tantrums, impulsivity, disobedience, and excessive sleep.(1,3,35) Behavioral and psychiatric disturbances in patients with PWS tend to increase in intensity through puberty and peak in young adulthood(16) -Authors of a study conducted in the United States reported that poor maternal quality of life was related to the presence of maladaptive behaviors, but not adaptive or cognitive skills, of the child with PWS(40) -Problems related to hyperphagia include food hoarding and inappropriate social behaviors. Some problems, including withdrawal, underactivity, and lack of energy, worsen with age(3) -Adolescents and adults with PWS often experience depression and anxiety as well as obsessive-compulsive  behaviors, mood instability, and inflexible thinking(1,3) -Socially, individuals with PWS have a difficult time relating to and interacting with others because they can be impulsive, have difficulty with changes in routine, have impaired judgment, be nonresponsive to social cues or emotion in facial expression, and have difficulty delaying gratification(3,17) -Children with PWS can have sudden outbursts of anger or temper when there is a change in expectations or routine(14) -PWS behavioral questionnaire (PWSBQ) is a valid and reliable 37-item  assessment tool developed by researchers in Israel specifically for individuals with PWS. The PWSBQ includes statements for the caregiver to rate on aabnormal emotional regulation, food-seeking behaviors (related to hyperphagia), lack of flexibility, oppositional behavior and interpersonal problems, and body-related  behaviors (e.g., skin-picking)(38)Document hearing ability; refer to the results of hearing screenings or audiological testing Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ____________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any previous swallowing difficulties, respiratory difficulties, communication difficulties, motor disorders, cognitive deficits, or social difficulties ",
+                    "comorbid diagnoses": "Refer to medical charts and ask patient or patient\u2019s family about other problems, including behavior difficulties, hearing loss, vision problems, heart problems, communication difficulties, and memory loss Obesity-related  problems in PWS include diabetes, heart disease, hypertension, chronic venous insufficiency with foot and leg ulcers, cellulitis, sleep apnea, and hypoventilation(3,36) Other common comorbidities in PWS include scoliosis, decreased bone mineral density (with increased risk for fractures), respiratory impairment, hyperlipidemia, and hypothyroidism(36,39) Skin picking can lead to infected wounds(3,36)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient or family/caregiver about other symptoms patient is experiencing (e.g., weight gain or loss, excessive throat clearing, coughing while eating)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -Does the patient currently receive intervention services? If so, are they home, school, hospital, or clinic based? Does the patient attend daycare/preschool/school? What type of intervention services and/or academic support does the child receive at school? -In a study conducted in the United States, researchers found that parents of children with PWS desired increased adaptive physical education services for their children, likely due to the increased incidence of obesity in this population(18) -Does the patient live at home? If the patient is an adult, does he or she have a job? -Is the patient involved in the community? Is the patient involved in leisure activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient require any adaptive or specialized equipment for or need assistance with eating, communication, ADLs, or mobility? Document type of equipment and how long it has been used by the patient",
+                "living environment": "With whom the patient lives (e.g., caregivers, siblings, pets). Identify if there are barriers to age-appropriate  independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  If possible, when evaluating the communication abilities of a patient with PWS, observe the patient in several different environments (e.g., home, classroom) and interview caregivers, teachers, and other communication partners regarding the patient\u2019s communicative abilities. Subjective or informal assessment measures such as observing the patient at play or taking a language sample during an informal activity can be useful for gathering information on the patient\u2019s functional communication abilities",
+            "anthropometric characteristics": "In the early stages of PWS, patients are at risk for malnourishment and failure to thrive; in later stages, patients are at risk for obesity(1,3,19) \u2013For adults, note BMI(3,19) \u2013Document height and weight; for children with PWS, note the child\u2019s percentile on the standardized growth chart as well as growth charts developed for children with PWS(19,20)",
+            "assistive and adaptive devices": "Document use of current assistive and adaptive devices \u2013Provide an augmentative and alternative communication (AAC) assessment if necessary(4) \u2013For detailed information on assessment for and treatment utilizing AAC, see the series of Clinical Reviews on this topic",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "Infants and toddlers with PWS present with weak cry, poor oral motor skills, and delayed onset of speech and language.(1) School-aged  children present with many speech sound errors and expressive and receptive language delay.(3,5) Adolescents and adults continue to exhibit articulation errors and language deficits as well as pitch and resonance differences.(5) For detailed information on assessment of communication deficits in individuals with intellectual disability, see the series of Clinical Reviews on this topic Assess speech production and articulation(3,5,6) -The speech characteristics of patients with PWS can include -articulation disorders(4,5,6) -Dysarthric speech (imprecise articulation; slowed rate of speech)(4,5) -Impaired production of glottal stops, bilabial phonemes, and lax, unrounded central vowels(4) -phonological processes (e.g., fronting, devoicing)(6) -Standardized measures of articulation and phonology include the Goldman-Fristoe  Test of Articulation (GFTA) (assesses consonant sound production in individuals over 2 years of age) and Khan-Lewis Phonological Process Analysis(5) -For detailed information on assessment of articulation, see the series of Clinical Reviews on speech sound disorders -For detailed information on assessment of dysarthria, see the series of Clinical Reviews on this topicAssess expressive and receptive language skills(5) -The characteristics of language impairment in patients with PWS can include -limited verbal language skills(4) -delayed language skills, both receptive and expressive (expressive is usually more impaired than receptive).(5,29) Language delay often begins with reduced babbling as an infant; emergence of first words is delayed and has been reported to begin anywhere from 18 months to 6 years of age(29) -reduced ability to produce narratives(4,5,29) -reduced comprehension of spoken directions and complex morphology and syntax(4) -reduced complexity of syntax and morphology in expressive language(23) -poor pragmatic skills(5,29) -Informal measures of language include -identifying common objects and colors(4) -determining the patient\u2019s ability to follow single-  and multiple-step  directions(4) -calculating mean length of utterance (MLU) from a conversation sample as a measure of expressive grammar skills(5,23) -using a wordless story book or retelling task to assess narrative generation(5)Comprehensive test batteries for language can be used with patients who are able to respond to test questions. The following are some examples of comprehensive language evaluations that can be used with patients with PWScan be used in children aged 3\u20136 years to test concepts and following directions, word structure, expressive vocabulary, recalling sentences, sentence structure, basic concepts, recalling sentences in context, understanding word classes, and phonological awareness(4)ages 5 years to 21 years (has a pragmatic language component)receptive vocabulary test normed for individuals aged 2 years, 6 months to 90+ years(5)expressive vocabulary assessment normed for individuals aged 2 years, 6 months to 90+ years(5) -For additional information on assessment of both expressive and receptive language ability, see the series of Clinical Reviews on language disorders and developmental language impairmentAssess vocal function, including vocal quality, loudness, pitch, and endurance.(5) If there are specific concerns regarding voice, refer to otolaryngologist for complete workup to rule out laryngeal pathologies prior to completing a full",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Patients with PWS typically have intellectual disability and global cognitive impairment, with an average IQ score of 70 (range = 40\u2013100).(3,21,22,36) Adaptive behavior skills are often lower than would be expected for cognitive ability due to food-related  behaviors.(1) Refer to any cognitive or psychological assessments that have been completed for details regarding the patient\u2019s cognitive abilities",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with PWS are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Inform patient and family/caregivers of the potential for falls and educate about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Patients with PWS who have dysphagia or feeding difficulties are at increased risk for aspiration and penetration of oral intake. Inform patient and family/caregivers of the potential for aspiration and educate about prevention strategies when appropriate",
+                "The speech-language  pathologist (SLP) should work as part of a multidisciplinary team (e.g., physician, therapists, dietician, respiratory therapist), as appropriate, in the assessment and management of speech/language in patients with PWS",
+                "Clinicians should follow guidelines of their clinic/hospital and what is ordered by the patient\u2019s physicians"
+            ]
+        },
+        "diagnosis need for treatment": "Individuals with PWS will likely require speech therapy services for speech and language deficits from infancy through adulthood.(5) Due to the heterogeneity of this population, it is important for each patient to undergo a thorough evaluation in order to determine a plan of care with goals appropriate for the individual(5)",
+        "rule out": "The patient\u2019s medical team will rule out other syndromes with similar symptoms, including Angelman syndrome(10)  UPD 14(10) Cohen syndrome(10) Bardet-Biedl  syndrome(10) Alstrom syndrome(10)",
+        "prognosis": [
+            "Death from complications of obesity, including cardiovascular disease, sleep apnea, shock due to gastric dilation, and pneumonia associated with aspiration, occurs at a higher rate in patients with PWS when compared to the general population(3)",
+            "There is an increased risk of death from choking in patients with PWS(3)",
+            "Authors of a follow-up  study with a population-based  1998\u20132000  cohort of individuals with PWS in the United Kingdom reported that risk of early-onset  dementia was increased in females with the mUPD form of PWS who were over the age of 40 and had a history of psychosis(33)"
+        ],
+        "referral to other disciplines": "Care for a patient with PWS should involve professionals from multiple disciplines, including physical and/or occupational therapist for mobility, gait training, and assistance with ADLs nutritionist or registered dietician for weight management endocrinologist for management of hormone deficiencies(2) mental health professional for behavioral and psychiatric disturbances",
+        "other considerations": [],
+        "treatment summary": [
+            "Authors of a case study described speech therapy intervention for a 5-year-old  girl with PWS of the mUPD form(4) \u2013The child was from a monolingual home. A thorough speech-language-cognitive  evaluation revealed impaired expressive and receptive language skills, a severe speech sound disorder, and hypernasal vocal resonance with reduced vocal loudness and maximum phonation time(4) \u2013The child attended speech therapy twice a week for 50-minute sessions over the course of 2 semesters with a graduate SLP student clinician \u2013Goals of speech therapy -Increase awareness and discrimination of oral versus nasal sounds and voiced versus voiceless sounds(4) -Increase awareness and simulation of the oral mechanism(4) -Improve placement of bilabial plosive consonants (/b/ and /p/) and alveolar plosive consonants (/t/ and /d/) in final and initial position in syllable and word contexts(4) -Improve placement of /n/ in initial and final position in syllable and word contexts(4) -Approximate placement of /f/ and /v/ in isolation and initial and final position of words and syllables(4) -Approximate placement for /k/ and /g/ in isolation(4) \u2013Therapeutic interventions -Exercises with the tongue and lips to stimulate and increase awareness of the oral mechanism(4) -Explicit drills with target phonemes using auditory, visual, tactile, and placement cues(4) -Loudness cues to improve vocal volume during speech sessions(4) -Storybooks to elicit target sounds in initial and final word positions(4) -Use of the \u201cSee-Scape,\u201d  a device that detects nasal emission of air during speech, for biofeedback \u2013At the conclusion of the second semester of therapy, the child had -mastered the placement of /p/ and /b/ in initial and final position of syllables and words; mastered manner of /p/ and /b/ in initial position of words(4) -improved greatly in the placement of /t/ and /d/ in both initial and final positions in syllables and words(4) -continued to require cueing for placement /f/ and /v/(4) -developed production of /l/ and /j/ spontaneously without specific intervention for these phonemes(4) -approximated placement of /k/ and /g/ in certain exercises(4)  . Problem Goal Intervention Expected Progression Home Program Reduced speech intelligibility as a result of speech sound production errorsImprove overall communicative effectiveness as well as speech intelligibilityArticulation therapy _ Select specific speech sounds to target during sessions(4) _ _ Provide exercises to increase awareness of the oral mechanism as it relates to speech production(4) _ _ See Treatment summary , above _ _ For detailed information on treatment of articulation and phonology disorders, see the series of Clinical Reviews on speech sound disordersProgression in articulation therapy begins at the context in which the patient is able to achieve accuracy (e.g., isolation, syllable, word); the SLP will progress to the next level (e.g., syllable, word, phrase, sentence, or conversation level) when the patient achieves the pre- determined level of mastery (e.g., 80% accuracy)(4)Home program will vary according to the patient\u2019s goals and support system Impaired receptive and/ or expressive languageImprove expressive and receptive communication abilitiesLanguage therapy _ For detailed information on treatment of language disorders, see the series of Clinical Reviews on communication disorders in individuals with intellectual disability and developmental language disordersProgression will vary according to the patient goalsHome program will vary according to the patient\u2019s goals and support system V oice disorders Improve vocal quality, pitch, and/or vocal volumeVoice therapy _ For detailed information on treatment of voice disorders, see the series of Clinical Reviews on voice disordersProgression will vary according to the patient\u2019s goalsHome program will vary according to the patient\u2019s goals and support system  Disorders of fluency Increased fluency of speechFluency therapy _ For detailed information on treatment of fluency disorders, see the series of Clinical Reviews on fluency disordersProgression will vary according to the patient\u2019s goalsHome program will vary according to the patient\u2019s goals and support system Dysphagia Improve the safety of swallowing and feeding in patients with PWSDysphagia therapy _ See Clinical Review\u2026 Dysphagia: Prader- Willi Syndrome , referenced aboveProgression will vary according to the patient\u2019s goalsHome program will vary according to the patient\u2019s goals and support system ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased disfluencies of speech": [],
+        "improved articulation skills": [
+            "GFTA(5)",
+            "Khan-Lewis  Phonological Process Analysis(5)"
+        ],
+        "improved expressive and receptive language ability": [
+            "MLU",
+            "CELF-P-2",
+            "CELF-5",
+            "PPVT-4",
+            "EVT-2"
+        ],
+        "improved quality of life": [],
+        "improved vocal quality, pitch, and or loudness": [],
+        "increased intelligibility of speech": [
+            "Speech sample"
+        ],
+        "increased pragmatic skills social interaction with peers": []
+    },
+    "maintenance or prevention": [
+        "There is no known prevention of PWS",
+        "Gains achieved in speech therapy can be maintained through continued practice and stimulation with home program or \u201cbooster\u201d sessions with an SLP as indicated"
+    ],
+    "patient education": [
+        "It is important to educate the parent(s)/caregiver(s) of a patient with PWS throughout the intervention process.(24) Parents and caregivers of patients with PWS generally desire to be educated on the various intervention strategies for behavioral, eating, and communication problems in patients with PWS, preferring active strategies over passive ones(24,25) Strategies for managing overeating in patients with PWS include restricting access to food, keeping the patient otherwise occupied, and establishing routines around meal and snack times(26)",
+        "See patient information series, research updates, and patient support groups for PWS from the Prader-Willi  Syndrome Association at https://www.pwsausa.org/ Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on March 3, 2017  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Kundert DK. Prader-Willi  syndrome. Sch Psychol Q . 2008;23(2):246-257.  doi:10.1037/1045-3830.23.2.246.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Fitzgerald PA. Endocrine disorders. In: Papadakis MA, McPhee SJ, Rabow MW, eds. Current Medical Diagnosis & Treatment 2018 . 57th ed. New York, NY: McGraw-Hill Medical; 2018:1117-1119.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Yearwood EL, McCulloch MR, Tucker ML, Riley JB. Care of the patient with Prader-Willi  syndrome. Medsurg Nurs . 2011;20(3):113-122.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Bellon-Harn  ML. Clinical management of a child with Prader-Willi  Syndrome from maternal uniparental disomy (UPD) genetic inheritance. J Commun Disord . 2005;38(6):459-472.  (C)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Lewis BA, Freebairn L, Heeger S, Cassidy SB. Speech and language skills of individuals with Prader-Willi  syndrome. Am J Speech Lang Pathol . 2002;11(3):285-294.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Defloor T, Van Borsel J, Curfs L. Articulation in Prader-Willi  syndrome. J Commun Disord . 2002;35(3):261-282.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Defloor T, Van Borsel J, Curfs L. Speech fluency in Prader-Willi  syndrome. J Fluency Disord . 2000;25(2):85-98.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Van Borsel J, Tetnowski JA. Fluency disorders in genetic syndromes. J Fluency Disord . 2007;32(4):279-296.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Defloor T, Van Borsel J, Curfs L, De Bodt M. Aerodynamic and acoustic characteristics of voice in Prader-Willi  syndrome. J Voice. 2001;15(2):284-290.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Cassidy SB, Driscoll DJ. Prader-Willi  syndrome. Eur J Hum Genet . 2009;17(1):3-13.  doi:10.1038/ejhg.2008.165. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Sipil\u00e4 I, Sintonen H, Hietanen H. Long-term  effects of growth hormone therapy on patients with Prader-Willi  syndrome. Acta Paediatr . 2010;99(11):1712-1718.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Grolla E, Andrighetto G, Parmigiani P, et al. Specific treatment of Prader-Willi  syndrome through cyclical rehabilitation programmes. Disabil Rehabil . 2011;33(19-20):1837-1847.  doi:10.3109/09638288.2010.549288. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Kwasnicka-Crawford  DA, Roberts W, Scherer SW. Characterization of an autism-associated  segmental maternal heterodisomy of the chromosome 15q11-13  region. J Autism Dev Disord . 2007;37(4):694-702.  (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Woodcock K, Oliver C, Humphreys G. Associations between repetitive questioning, resistance to change, temper outbursts and anxiety in Prader-Willi  and Fragile-X syndromes. J Intellect Disabil Res . 2009;53(3):265-278.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Woodcock KA, Oliver C, Humphreys GW. The relationship between specific cognitive impairment and behaviour in Prader-Willi  syndrome. J Intellect Disabil Res . 2011;55(2):152-171.  doi:10.1111/j.1365-2788.2010.01368.x.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Spendelow JS. Assessment of behavioral and psychiatric problems in people with Prader-Willi  syndrome: a review of the literature. J Policy Pract Intellect Disabil . 2011;8(2):104-112.  doi:10.1111/j.1741-1130.2011.00296.x.  (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Whittington J, Holland T. Recognition of emotion in facial expression by people with Prader-Willi  syndrome. J Intellect Disabil Res . 2011;55(1):75-84.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Fidler DJ, Lawson JE, Hodapp RM. What do parents want?: an analysis of education-related  comments made by parents of children with different genetic syndromes. J Intellect Dev Disabil . 2003;28(2):196-204.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Butler JV, Whittington JE, Holland AJ, McAllister CJ, Goldstone AP. The transition between the phenotypes of Prader-Willi  syndrome during infancy and early childhood. Dev Med Child Neurol . 2010;52(6):e88-e93.  doi:10.1111/j.1469-8749.2009.03530.x.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Butler MG, Sturich J, Lee J. Growth standards of infants with Prader-Willi  syndrome. Pediatrics . 2011;127(4):687-695.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Whittington J, Holland A, Webb T. Relationship between the IQ of people with Prader-Willi  syndrome and that of their siblings: evidence for imprinted gene effects. J Intellect Disabil Res . 2009;53(5):411-418.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Copet P, Jauregi J, Laurier V. Cognitive profile in a large French cohort of adults with Prader-Willi  syndrome: differences between genotypes. J Intellect Disabil Res . 2010;54(3):204-215.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Atkin K, Lorch MP. Language development in a 3-year-old  boy with Prader-Willi  syndrome. Clin Linguist Phon . 2007;21(4):261-276.  (C)"
+        },
+        {
+            "number in article": 24,
+            "reference": "van Hooren RH, Widdershoven GA, Candel MJ, den Borne BW, Curfs LM. Between control and freedom in the care for persons with Prader-Willi  syndrome: an analysis of preferred interventions by caregivers. Patient Educ Couns . 2006;63(1-2):223-231.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Pituch KA, Green VA, Didden R, et al. Rehabilitation priorities for individuals with Prader-Willi  Syndrome. Disabil Rehabil . 2010;32(24):2009-2018. doi:10.3109/09638281003797430. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Allen K. Managing Prader-Willi  syndrome in families: an embodied exploration. Soc Sci Med . 2011;72(4):460-468.  doi:10.1016/j.socscimed.2010.11.032. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Dimitropoulos A, Ferranti A, Lemler M. Expressive and receptive language in Prader-Willi  syndrome: report on genetic subtype differences. J Commun Disord . 2013;46(2):193-201.  doi:10.1016/j.jcomdis.2012.12.001. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Deal CL, Tony M, H\u00f6ybye C, Allen DB, Tauber M, Christiansen JS; 2011 Growth Hormone in Prader-Willi  Syndrome Clinical Care Guidelines Workshop Participants. Growth Hormone Research Society workshop summary: consensus guidelines for recombinant human growth hormone therapy in Prader-Willi  syndrome. J Clin Endocrinol Metab . 2013;98(6):E1072-E1087.  doi:10.1210/jc.2012-3888.   (G)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Westby C. Language skills in Prader-Willi  Syndrome. Word Mouth . 2014;25:9-13.  doi:10.1177/1048395014527568c. (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Sedy K, Bennett DS, Pumariega A. Prader Willi syndrome and obstructive sleep apnea: co-occurrence  in the pediatric population. J Clin Sleep Med . 2014;10(4):403-409. doi:10.5664/jcsm.3616. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Lafortuna CL, Minocci A, Capodaglio P, et al. Skeletal muscle characteristics and motor performance after 2-year growth hormone treatment in adults with Prader-Willi syndrome. J Clin Endocrinol Metab . 2014;99(5):1816-1824.  doi:10.1210/jc.2013-3607.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Larson FV, Whittington J, Webb T, Holland AJ. A longitudinal follow-up study of people with Prader-Willi  syndrome with psychosis and those at increased risk of developing psychosis due to genetic subtype. Psychol Med . 2014;44(11):2431-2435.  doi:10.1017/S0033291713002961. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Whittington JE, Holland AJ, Webb T. Ageing in people with Prader-Willi  syndrome: Mortality in the UK population cohort and morbidity in an older sample of adults. Psychol Med. 2015;45(3):615-621.  doi:10.1017/S0033291714001755. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Lo ST, Festen DA, Tummers-de  Lind van Wijngaarden RF, Collin PJ, Hokken-Koelega  AC. Beneficial effects of long-term  growth hormone treatment on adaptive functioning in infants with Prader-Willi  syndrome. Am J Intellect Dev Disabil . 2015;120(4):315-327.  doi:10.1352/1944-7558-120.4.315.  (RCT)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Hall SS, Hustyi KM, Chui C, Hammond JL. Experimental functional analysis of severe skin-picking  behavior in Prader-Willi  syndrome. Res Dev Disabil . 2014;35(10):2284-2292. doi:10.1016/j.ridd.2014.05.025. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Laurier V, Lapeyrade A, Copet P, et al. Medical, psychological and social features in a large cohort of adults with Prader-Willi  syndrome: Experience from a dedicated centre in France. J Intellect Disabil Res . 2015;59(5):411-421.  doi:10.1111/jir.12140. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Tuysuz B, Kartal N, Erener-Ercan  T, et al. Prevalence of Prader-Willi  syndrome among infants with hypotonia. J Pediatr. 2014;164(5):1064-1067.  doi:10.1016/ j.jpeds.2014.01.039. (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Avrahamy H, Pollak Y, Shriki-Tal  L, et al. A disease specific questionnaire for assessing behavior in individuals with Prader-Willi  syndrome. Compr Psychiatry . 2015;58:189-197.  doi:10.1016/j.comppsych.2014.12.005. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Nakamura Y, Murakami N, Iida T, Asano S, Ozeki S, Nagai T. Growth hormone treatment for osteoporosis in patients with scoliosis of Prader-Willi  syndrome. J Orthop Sci . 2014;19(6):877-882.  doi:10.1007/s00776-014-0641-0.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Shivers CM, Leonczyk CL, Dykens EM. Life Satisfaction Among Mothers of Individuals with Prader-Willi  Syndrome. J Autism Dev Disord . June 2016;46(6):2126-2137. doi:10.1007/s10803-016-2741-5.  (R)"
+        }
+    ]
+}

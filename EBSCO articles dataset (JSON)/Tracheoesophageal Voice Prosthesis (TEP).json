@@ -1,0 +1,373 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "v oice prosthesis, tracheoesophageal (tep)",
+            "prosthesis, tracheoesophageal voice (tep)",
+            "tep"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [],
+        "description": [
+            "A TEP is a device that is placed into a surgically created fistula in the shared wall that connects the posterior wall of the trachea and the anterior wall of the esophagus.(1) This wall is referred to as the \u201cparty wall.\u201d(1) Such a fistula is referred to as a tracheoesophageal puncture.(2) When the patient\u2019s stoma (the opening in the neck following a laryngectomy through which a patient breathes) is covered, expiratory air is directed from the lungs through the TEP into the esophagus, vibrating the pharyngoesophageal segment and surrounding tissues to create a sound source for speech.(1,2,3,4,5,6) TEPs are one-way  valves that prevent the puncture from sealing up and also keep food and liquid out of the trachea(3,5)"
+        ],
+        "indications": [
+            "A TEP is indicated for a patient who has had his or her larynx removed due to laryngeal cancer or severe trauma.(7) The surgery to remove the larynx is referred to as laryngectomy.(8,9) A laryngectomee is a person who has undergone larynx removal.(8) Following surgery to remove the larynx, a laryngectomee is unable to produce a normal voice.(10) Additionally, the person can no longer breathe through his or her nose or mouth, and hence breathes via a stoma in the neck.(10) Using the TEP to create a laryngeal speech is considered the best method of voice rehabilitation following laryngectomy per current research because it creates a pseudo-voice  most like a normal voice that is more easily understood than esophageal or artificial larynx speech(5,11)",
+            "For detailed information on laryngectomy, see Clinical Review\u2026Laryngectomy, Total ; CINAHL Topic ID Number: T708744 and Clinical Review\u2026Laryngectomy, Partial ; CINAHL Topic ID Number: T708836"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/ episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/ outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified Indications for device/equipment"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Communicate with the patient\u2019s doctor to determine if the patient\u2019s neck may be palpated during examination",
+            "Patients who have undergone laryngectomy are at an increased risk for depression due to the complete loss of voice.(20,21) If signs of depression (such as lethargy, hopelessness, crying) or grieving are noted, a referral should be made to psychiatry or psychology(22)",
+            "Although the placement of TEP is within the scope of practice of an SLP, additional special knowledge and skills are required(2,3,23) \u2013The education that is required prior to placing and/or replacing TEPs and treating patients with a TEP can be acquired through classes or gained over time in a clinical setting while working with a more experienced SLP(3,23) \u2013State licensure boards might require additional certification for SLPs who work with TEPs;(3) refer to individual state licensing boards \u2013Please refer to the ASHA Technical Report and Knowledge and Skills paper for a very specific outline of skills necessary in treating this population(3,23)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Communicate with the patient\u2019s doctor to determine if the patient\u2019s neck may be palpated during examination",
+            "Patients who have undergone laryngectomy are at an increased risk for depression due to the complete loss of voice.(20,21) If signs of depression (such as lethargy, hopelessness, crying) or grieving are noted, a referral should be made to psychiatry or psychology(22)",
+            "Although the placement of TEP is within the scope of practice of an SLP, additional special knowledge and skills are required(2,3,23) \u2013The education that is required prior to placing and/or replacing TEPs and treating patients with a TEP can be acquired through classes or gained over time in a clinical setting while working with a more experienced SLP(3,23) \u2013State licensure boards might require additional certification for SLPs who work with TEPs;(3) refer to individual state licensing boards \u2013Please refer to the ASHA Technical Report and Knowledge and Skills paper for a very specific outline of skills necessary in treating this population(3,23)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "How did the patient lose his or her larynx? As a result of a total or partial laryngectomy to treat cancer? As a result of trauma? When was the surgery to remove the larynx performed?",
+                "course of treatment": {
+                    "medical management": "Note whether the patient has received radiation therapy, chemotherapy, or a combination of the two for cancer. Is the patient currently receiving treatment for cancer?",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational, physical, or speech therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "It is important to consider the time that has lapsed since the patient\u2019s most recent chemotherapy or radiation treatment as this will considerably affect pain levels. Patients who have undergone laryngectomy often have ongoing issues with gastroesophageal reflux. Although it has been proposed that reflux is associated with complications of a TE fistula and a TEP, researchers who conducted a study in Croatia with 41 participants found no statistically significant correlation between reflux and complications with TE fistula or TEP(43) ",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms, which includes changes in smell or taste(10) -Does blood or secretions leak from the patient\u2019s stoma?",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physicianPatients who have had a laryngectomy are at significant risk for depression due to grief over the loss of their previous life and function.(22) It is important to assess how well the patient is coping with this significant change and make referrals to psychiatry/counseling if necessary(22) -Briefly engage the patient in a discussion regarding his or her ability to cope with the laryngectomy -If the patient is overly emotional or describes difficulty managing his or her feelings related to the laryngectomy, a referral to psychiatry/counseling may be appropriate",
+                "respiratory status": "Document if the patient requires supplemental oxygen. Does the patient have difficulty breathing through the stoma? Note stomal competency, skin breakdown, or excessive secretions. Does the patient use a heat and moisture exchanger (HME)?(10) -HMEs are devices that cover the stoma and help to retain appropriate levels of heat and moisture inside the trachea which can be used in conjunction with a TEP(10,15,17) -HMEs can be used to improve respiratory status by increasing the temperature and the moisture retention of pulmonary mucosa -In a study conducted in the Netherlands with 3 subjects, fewer respiratory problems and improvements in upper airway mucosa were noted following a 6-week  trial with an HME(10) -The HMEs also appear to improve maximum phonation time and speech intelligibility(5,10,24) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has the patient ever used a TEP before? Has the patient used another form of alaryngeal communication, such as esophageal speech or tracheoesophageal speech?",
+                    "comorbid diagnoses": "Ask patient about other problems, including dysphagia, diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "(include limitations with self-care, home management, work, community leisure). Does the patient require a hearing aid? If so, is it in good working order? Does the patient wear glasses? Does the patient require a cane or walker?",
+                "living environment": "With whom does patient live (e.g., family, caregivers)? Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Document the use of any assistive devices for ambulation, ADLs, or communication. Laryngectomees might already be utilizing an alternative method of communication, such as pen and paper(20) ",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [
+                "It is important to assess the laryngectomee\u2019s stoma for excessive secretions and skin breakdown as well as appropriate stoma size (if stoma stenosis occurs, it may affect the patient\u2019s breathing)(10,27)",
+                "Additionally, patients with deep, large, or small stomas or necks with significant scar tissue or edema are especially challenging to fit with a TEP due to difficulty with adhesion to the skin or reduced access to the tracheoesophageal puncture(6,24) \u2022Oral mechanism exam:  In order for a laryngectomee to produce intelligible speech with a TEP, the articulators (tongue, lips, teeth) should be functioning normally(8,10,20,28)"
+            ],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "Can the laryngectomee adequately care for his or her stoma? The patient will have to use swabs or washcloths daily to wipe the skin around the stoma to prevent crusty buildup of mucous or blood. Some patients require suctioning devices if they produce a lot of secretions. If the patient appears to have excess buildup of secretions or reports difficulty cleaning his or her stoma, refer patient to his physician and/or occupational therapy",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisIn order to produce vibrations to be used as a voice, the pharyngoesophageal segment must be tonic.(5) Hyper-  or hypotonicity of the pharyngoesophageal segment can result in an inability to create a pseudo-voice  with the TEP.(6,16,24) Tests to ensure that the patient has adequate pharyngoesophageal tonicity include a modified barium swallow study, attempted phonation via TEP or esophageal speech, and the esophageal insufflation test.(5,6,29,30) In an esophageal insufflation test, air is injected into the pharyngoesophageal segment via a catheter thread down through the nose.(29,30) A positive insufflation test results in sound being produced from the pharyngoesophageal segment; when there is no sound or abnormal sound, the result is said to be negative.(29) If the patient does not appear to have adequate pharyngoesophageal tonicity, refer to the surgeon regarding possible myotomy (surgery to cut the pharyngoesophageal muscle), neurectomy (surgery to remove part of a nerve that controls tonicity), or Botox treatments(5,6,16) \u2013Voice assessment -Once the TEP has been placed, complete an assessment of the voice that the patient is able to produce. Possible voicesustaining a vowel /a/ for as long as possible on one breath; use the longest of three attempts(42)to be used as an estimate of speech-breathing  coordination; ask the patient to count up from one on a single deep breath with a natural pace; use the best of three attempts(42)can be performed with a computer and software designed to analyze vocal signals; analysis can include sustained /a/, bisyllabic words, and pitch-changing contours(42)patient is asked to read a passage at a comfortable loudness level and pitch and the clinician rates various aspects of the voice (e.g., roughness, breathiness, volume) on a given scale (e.g., normal, mild, moderate, severe)(42)Especially important for laryngectomees as they are at an elevated risk for depression due to the complete loss of their own voice.(20,21) The quality of life assessments should be made prior to beginning TEP use as well as several weeks or months after the patient has started using the device to ensure that the TEP is making a positive impact on quality of life.(31) In a study of satisfaction/quality of life in 42 laryngectomees in Italy who used a TEP, researchers found that although some aspects of quality of life improved with TEP, there were still negative effects, including social embarrassment and difficulty being understood on the telephone.(31) Quality of life measures appropriate -Functional Assessment of Cancer Therapy Scale(32) -Short Form 36-Item  Health Survey (SF-36)(33) -University of Washington Quality of Life Scale(32) -V oice Handicap Index (VHI)(34) ",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "It is important to assess cognitive abilities in laryngectomy patients in order to determine the most appropriate voice substitution method.(22,25) Patients with impaired cognition are not good candidates for TEP use. The Mini-Mental  State Examination (MMSE) is an appropriate assessment tool to screen for arousal, attention, and other cognitive deficits. The MMSE assesses overall cognitive impairment; sections include Orientation to Time, Orientation to Place, Registration, Attention and Calculation, Recall, Naming, Repetition, Comprehension, Reading, Writing, Drawing(26)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Additionally, to prevent closure of the tracheoesophageal puncture, a stent or replacement TEP should be placed into the fistula immediately(37) \u203aDiagnosis/need for device/equipment:  Following an evaluation of the patient, the SLP and the laryngectomee must decide together on the best course of treatment.(9,10,17,22) Even if the TEP is determined to be the appropriate device for post-laryngectomy  speech, selection of the type of TEP (i.e., indwelling or hands-free)  is based on results of a thorough evaluation(17)"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Intensive therapy for laryngectomees should not begin until internal sutures have healed; this process takes about 2 weeks(20)",
+                "A physician order is necessary prior to placing the TEP and beginning speech therapy",
+                "Dislodgement of valve with subsequent leakage of food and liquid into the trachea is a common complication of TEP use; however, therapists should be aware that tumor recurrence at the site of the TEP (the party wall between the esophagus and trachea) may be the cause of frequent dislodgements.(4) If during the course of treatment dislodgements, valve malfunctions, or pneumonias occur frequently, refer patient to his or her surgeon or oncologist for further workup",
+                "If granulation tissue is noted on the TEP, refer to surgeon/oncologist for management and for tissue testing to rule out tumor recurrence(6)",
+                "If patient reports losing the TEP, refer him or her to the emergency room immediately to determine if the TEP was aspirated into the lungs(35,36)",
+                "See Guidelines for use of device/equipment , above"
+            ],
+            "general": "Following an evaluation of the patient, the SLP and the laryngectomee must"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [
+            "In a study conducted in Turkey with 32 male patients, researchers found that neither neck dissection nor radiation therapy had a significant influence on the quality of short-term  speech success with a TEP(38)"
+        ],
+        "referral to other disciplines": "If signs of depression or grieving are noted, a referral should be made to psychology or psychiatry.(22) In the case of stomal stenosis or difficulty breathing, refer the patient to his or her ENT surgeon for revision of the stoma.(27) Refer to ENT surgeon in the case of negative esophageal insufflation test results for management(5)",
+        "other considerations": [],
+        "treatment summary": [
+            "Speech intelligibility strategies \u2013Contextual cues have been shown to aid listener comprehension of tracheoesophageal speech;(3) the SLP can train the patient to use gestures or writing of keywords to improve speech intelligibility \u2013Due to the unnatural-sounding  tracheoesophageal voice, exaggerated articulatory movements may improve speech intelligibility; the SLP will educate the patient on how to make appropriately exaggerated articulatory movements; the patient then practices exaggerated articulatory movements in syllables, with word lists, sentences, and eventually conversational speech \u2013Research has also linked improved speech intelligibility with longer duration of phonation.(3,4) The SLP can train the patient to improve duration of phonation by increasing breath support and/or learning breath support exercises",
+            "Singing therapy : In a study conducted in Brazil with 5 patients, researchers found that a singing training program improved voice quality with the TEP. For the study protocol, each patient participated in weekly, 30-minute  sessions for 12 weeks. Sessions followed a hierarchical structure with (1) exercises for strengthening respiratory muscles (e.g., inhaling fast/exhaling slow, then inhaling slowly and exhaling fast); (2) vocalization exercises on a musical scale of eight notes (do, re, mi, fa, so, la, ti, do). At the conclusion of 12 weeks, all of the participants demonstrated maintenance of or improvement in the degree of dysphonia, as well as the roughness and breathiness of the voice. V ocal extension (i.e., pitch range) improved in all patients, but did not match the range of a person with intact vocal folds(44) ",
+            "Troubleshooting TEP \u2013Leakage around the TEP valve or TEP can result from widening of the fistula or thinning of the party wall.(4,5,39)If this is the suspected cause, refer to the patient\u2019s surgeon -Leakage related to widening of the fistula significantly increases risk of pneumonia in patients with TEP and should be managed immediately(40) \u2013Leakage through the one-way  valve can result from damage to the valve mechanism from biofilm formation, fungal colonization (such as Candida  organisms), or damage from very vigorous cleaning(4,5,6,15) -In order to prevent the growth of bacteria or fungi, the patient is educated to regularly clean the TEP.(4,17) Additionally, some TEPs are designed to be \u201cextended use,\u201d resisting bacteria for longer periods of time(18) -In addition to ensuring that the TEP is clean, the SLP must also examine the valve mechanism itself to rule out a faulty TEP as the reason for the leakage(5) \u2013Leakage around the prosthesis can also be due to incorrect TEP size.(14)If this is the problem, resizing the prosthesis will correct this issue; the SLP may re-attempt placement with a different sized prosthesis -In a study conducted in the Netherlands with 32 patients, researchers found high rates of success with eliminating leakage around the TEP by placing a thin silicone washer (0.5 mm thick and 18 mm in diameter) behind the tracheal flange of the TEP(41) \u2013Leakage can also be due to the TEP reaching the end of its natural lifespan (3\u20136 months).(6)In this case, leakage can be corrected by replacing the TEP with a new one \u203aSee Description, Indications of device/equipment , and Guidelines for use of device/equipment , above . Problem Goal Intervention Expected Progression Home Program Reduced intelligibility of speechPatient will use speech intelligibility strategiesSpeech intelligibility strategies _ See Treatment summary , aboveProgression will vary according to patient goals, motivation, and premorbid communication skills; generally progression occurs from the least complex level of communication (e.g., words) and the SLP guides the patient through exercises involving increasing complex tasksThe SLP will determine an appropriate home program for TEP use Leakage of food/liquid/ saliva from esophagus into the tracheaReduce the amount of leakage through or around the TEP valve or TEPTroubleshooting TEP _ See Treatment summary , aboveLeakage through or around the TEP should be eliminated completelyLeakage management programs should be implemented at home; the SLP will educate the patient, family, and caregiver regarding proper routines ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "production of a functional voice": [
+            "Maximum phonation time",
+            "Number of syllables per breath",
+            "Acoustic analysis",
+            "Perceptual evaluation"
+        ],
+        "reintegration into the general population": [
+            "Patient report"
+        ],
+        "improved quality of life": [
+            "Functional Assessment of Cancer Therapy Scale(32)",
+            "Short Form 36-Item  Health Survey (SF-36)(33)",
+            "University of Washington Quality of Life Scale(32)",
+            "V oice Handicap Index (VHI)(34)"
+        ]
+    },
+    "maintenance or prevention": [
+        "TEP must be kept clean in order to stay in proper working order. Patients who have excessive stomal secretions should clean their TEPs more often",
+        "TEPs must be changed every 3\u20136 months.(4,15,18)Refer to manufacturer\u2019s guidelines for the expected lifespan of the patient\u2019s specific brand of TEP"
+    ],
+    "patient education": [
+        "Laryngectomees may find support and resources, as well as assistance in developing or improving alaryngeal speech, at the International Association of Laryngectomees website, https://theial.com/ial/",
+        "WebWhispers ( http://www.webwhispers.org/index.asp ) is an International Internet support group for laryngectomees Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Lundstrom E, Hammarberg B, Munck-Wikland  E, Edsborg N. The pharyngoesophageal segment in laryngectomees-videoradiographic,  acoustic, and voice quality perceptual data. Logoped Phoniatr Vocol . 2008;33(3):115-125.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "ASHA Special Division 3, Working Group on Voice and Voice Disorders. Roles and responsibilities of speech-language  pathologists with respect to evaluation and treatment for tracheoesophageal puncture and prosthesis. American Speech-Language-Hearing  Association Web site. http://www.asha.org/policy/PS2004-00107/ . Accessed February 23,"
+        },
+        {
+            "number in article": 2018,
+            "reference": " (G)"
+        },
+        {
+            "number in article": 3,
+            "reference": "American Speech-Language-Hearing  Association. Roles and responsibilities of speech-language  pathologists with respect to evaluation and treatment for tracheoesophageal puncture and prosthesis. ASHA Lead . 2004;9(8 Suppl 24):135-139.  (G)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Malik T, Bruce I, Cherry J. Surgical complications of tracheo-oesophageal  puncture and speech valves. Curr Opin Otolaryngol Head Neck Surg . 2007;15(2):117-122.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Pawar PV, Sayed SI, Kazi R, Jagade MV. Current status and future prospects in prosthetic voice rehabilitation following laryngectomy. J Cancer Res Ther . 2008;4(4):186-191. (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Albirmawy OA, Elsheikh MN, Saafan ME, Elsheikh E. Managing problems with tracheoesophageal puncture for alaryngeal voice rehabilitation. J Laryngol Otol . 2006;120(6):470-477.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Meltzner GS, Hillman RE. Impact of aberrant acoustic properties on the perception of sound quality in electrolarynx speech. J Speech Lang Hear Res . 2005;48(4):766-779.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Smithwick L, Davis P, Dancer J, Hicks G, Montague J. Female laryngectomees' satisfaction with communication methods and speech-language  pathology services. Percept Mot Skills . 2002;94(1):204-206.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Blom ED. Current status of voice restoration following total laryngectomy. Oncology (Williston Park) . 2000;14(6):915-929.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hilgers FJ, Ackerstaff AH. Comprehensive rehabilitation after total laryngectomy is more than voice alone. Pholia Phoniatr Logop . 2000;52(1-3):65-73.  (G)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Globek D, Stajner-Katusic  S, Musura M, Horga D, Liker M. Comparison of alaryngeal voice and speech. Logoped Phoniatr Vocol . 2004;29(2):87-91.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Globlek D, Simunjak B, Ivkic M, Hedjever M. Speech and voice analysis after near-total  laryngectomy and tracheoesophageal puncture with implantation of Provox 2 prosthesis. Logoped Phoniatr Vocol . 2004;29(2):84-86.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Shah RK, Rebeiz EE. Tracheoesophageal voice restoration following laryngotracheal separation procedure. Ann Otol Rhinol Laryngol . 2005;114(8):634-637.  (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "M\u00e4kitie AA, Niemensivu R, Juvas A, Aaltonen LM, B\u00e4ck L, Lehtonen H. Postlaryngectomy voice restoration using a voice prosthesis: a single institution's ten-year experience. Ann Otol Rhinol Laryngol . 2003;112(12):1007-1010.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Ten Hallers EJ, Marres HA, Rakhorst G. Difficulties in the fixation of prostheses for voice rehabilitation after laryngectomy. Acta Otolaryngol . 2005;125(8):804-813.  (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Chone CT, Gripp FM, Spina AL, Crespo AN. Primary versus secondary tracheoesophageal puncture for speech rehabilitation in total laryngectomy: long-term  results with indwelling voice prosthesis. Otolaryngol Head Neck Surg . 2005;133(1):89-93.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Lewin JS. Advances in alaryngeal communication and the art of tracheoesophageal (TE) voice restoration. ASHA Lead . 2004;9(1):6-7,  20-21. (X)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Leder SB, Acton LM, Kmiecik J, Ganz C, Blom ED. Voice restoration with the advantage tracheoesophageal voice prosthesis. Otolaryngol Head Neck Surg . 2005;133(5):681-684.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Hancock K, Houghton B, Van As-Brooks  CJ, Coman W. First clinical experience with a new non-indwelling  voice prosthesis (Provox\u00ae NIDTM) for voice rehabilitation after total laryngectomy. Acta Otolaryngol . 2005;125(9):981-990.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Ahern R, Lippincott LH, Wisdom G. Voice rehabilitation after laryngectomy: an overview. J La State Med Soc . 2002;154(3):118-120.  (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Choi HS, Park YJ, Lee SM, Kim KM. Functional characteristics of a new electrolarynx \"Evada\" having a force sensing resistor sensor. J Voice. 2001;15(4):592-599.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Fox LE, Rau MT. Augmentative and alternative communication for adults following glossectomy and laryngectomy surgery. AAC Augment Altern Commun . 2001;17(3):161-166. (C)"
+        },
+        {
+            "number in article": 23,
+            "reference": "American Speech-Language-Hearing  Association. Knowledge and skills for speech-language  pathologists with respect to evaluation and treatment for tracheoesophageal puncture and prosthesis. ASHA Lead . 2004;9(8 Suppl 24):166-177.  (G)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Lorenz KJ, Groll K, Ackerstaff AH, Hilgers FJ, Maier H. Hands-free  speech after surgical voice rehabilitation with a Provox\u00ae voice prosthesis: experience with the Provox FreeHands HME tracheostoma valve\u00ae system. Eur Arch Otorhinolaryngol . 2007;264(2):151-157.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Ho TP, Gray J, Ratcliffe AA, Rees S, Rockey J, Wight R. Does cognitive function influence alaryngeal speech rehabilitation?. Head Neck . 2006;28(5):413-419.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-mental  state\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Paleri V, Wight RG, Owen S, Hurren A, Stafford FW. Defining the stenotic post-laryngectomy  tracheostoma and its impact on the quality of life in laryngectomees: development and validation of a stoma function questionnaire. Clin Otolaryngol . 2006;31(5):418-424.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Perry AR, Shaw MA, Cotton S. An evaluation of functional outcomes (speech, swallowing) in patients attending speech pathology after head and neck cancer treatment(s): results and analysis at 12 months post-intervention.  J Laryngol Otol . 2003;117(5):368-381.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Baugh RF, Lewin JS, Baker SR. Preoperative assessment of tracheoesophageal speech. Laryngoscope . 1987;97(4):461-466.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Callaway E, Truelson JM, Wolf GT, Thomas-Kincaid  L, Cannon S. Predictive value of objective esophageal insufflation testing for acquisition of tracheoesophageal speech. Laryngoscope . 1992;102(6):704-708.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Giordano L, Toma S, Teggi R. Satisfaction and quality of life in laryngectomees after voice prosthesis rehabilitation. Folia Phoniatr Logop . 2011;63(5):231-236.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Gerwin JM, Culton GL. Quality of life in prosthetic voice users. Otolaryngol Head Neck Surg . 2005;133(5):685-688.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Schuster M, Lohscheller J, Kummer P, Hoppe U, Eysholdt U, Rosanowski F. Quality of life in laryngectomees after prosthetic voice restoration. Folia Phoniatr Logop . 2003;55(5):211-219.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Moerman M, Martens J, Dejonckere P. Application of the Voice Handicap Index in 45 patients with substitution voicing after total laryngectomy. Euro Arch Otorhinolaryngol . 2004;261(8):423-428.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Ostrovsky D, Netzer A, Goldenberg D, Joachims HZ, Golz A. Delayed diagnosis of tracheoesophageal prosthesis aspiration. Ann Otol Rhinol Laryngol . 2004;113(10):828-829. (C)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Brenner MJ, Floyd L, Collins SL. Role of computed tomography and bronchoscopy in speech prosthesis aspiration. Ann Otol Rhinol Laryngol . 2007;116(12):882-886.  (C)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Hathurusinghe H, Uppal H, Shortridge R, Read C. Case of the month: dislodged tracheo-oesophageal  valve: importance of rapid replacement or stenting. Emerg Med J . 2006;23(4):322-324.  (C)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Gultekin E, Yelken K, Garca MF, Develioglu ON, Kulekci M. Effects of neck dissection and radiotherapy on short-term  speech success in voice prosthesis restoration patients. J Voice. 2011;25(2):245-248.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Counter P, Slack L, Athey G, Robson A. Unusual complication of surgical voice restoration. J Laryngol Otol . 2004;118(2):148-149.  (C)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Hutcheson KA, Lewin JS, Sturgis EM, Risser J. Outcomes and adverse events of enlarged tracheoesophageal puncture after total laryngectomy. Laryngoscope . 2011;121(7):1455-1461.  (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Hilgers FJ, Soolsma J, Ackerstaff AH, Balm FJ, Tan IB, den Brekel MW. A thin tracheal silicone washer to solve periprosthetic leakage in laryngectomies: direct results and long-term  clinical effects. Laryngoscope . 2008;118(4):640-645.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "D'Alatri L, Bussu F, Scarano E, Paludetti G, Marchese MR. Objective and subjective assessment of tracheoesophageal prosthesis voice outcome. J Voice. 2012;26(5):607-613. doi:10.1016/j.jvoice.2011.08.013. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Hadzibegovi# AD, Dani# D, Prgomet D, Ti#ac R, Kozmar A. Analysis of saliva pepsin level in patients with tracheoesophageal fistula and voice prosthesis complications. Coll Antropol. 2012;36(Suppl 2):93-97. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Onofre F, Ricz HM, Takeshita-Monaretti  TK, Prado MY, Aguiar-Ricz  LN. Effect of singing training on total laryngectomees wearing a tracheoesophageal voice prosthesis. Acta Cir Bras. 2013;28(2):119-125.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Naunheim MR, Remenschneider AK, Bunting GW, Deschler DG. Placement of a 16-French  voice prosthesis at the time of secondary tracheoesophageal voice restoration. Am J Otolaryngol . July 2015;36(4):509-12.  doi:10.1016/j.amjoto.2015.01.026. (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Chakravarty PD, McMurran AEL, Banigo A, Shakeel M, Ah-See KW. Primary versus secondary tracheoesophageal puncture: systematic review and meta-analysis.  J Laryngol Otol. January 2018;132(1):14-21.  doi:10.1017/S0022215117002390. (M)"
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "metadata": {
+        "title": "Amputation, Upper Extremity, in Adults  Physical Therapy",
+        "synonyms": [
+            "upper extremity amputation in adults  physical therapy",
+            "upper limb amputation in adults: physical therapy"
+        ],
+        "anatomical location body part affected": [
+            "Upper extremity; parts affected depend on level of amputation, from fingertip to the entire arm, scapula, and clavicle"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "acute care",
+            "hand therapy",
+            "wound management",
+            "home health"
+        ],
+        "description": [
+            "The removal of all or part of the upper extremity",
+            "Amputations of the upper limb are much less frequent than amputations of the lower limb and are usually due to trauma(3,5)",
+            "Based on their level, they can be categorized into the following types:(3) \u2013Shoulder disarticulation and interscapulothoracic or forequarter amputation -Both are rare amputations, usually a result of cancer or severe trauma -In an interscapulothoracic or forequarter amputation, the upper extremity (UE), scapula, and clavicle are removed -In a shoulder disarticulation, the amputation is through the shoulder joint -A disarticulation is an amputation through a joint,(1,2) without cutting the bone -In a true shoulder disarticulation, the humeral head is removed -A modified shoulder amputation may be performed through the surgical neck of the humerus to preserve the humeral head -If the humeral head can be saved, the shape of the shoulder can be maintained, allowing for a more natural-looking  shoulder contour \u2013Transhumeral amputation -Removal of any portion of the humerus -With this amputation, preservation of bone length is important for function and prosthesis use -A long humeral stump preserves some functional shoulder internal and external rotation, which is lost with a short stump(4) -A postoperative prosthesis may be utilized directly after surgery \u2013Elbow disarticulation -Removal of the forearm at the elbow -Allows rotation of the humerus while utilizing a prosthesis \u2013Transradial amputation -Amputation through the radius and ulna bones while maintaining the elbow joint -A long transradial amputation preserves some supination and pronation; all is lost with a short amputation(4) -Forearm rotation and strength can be preserved  -Krukenberg procedure(17) -The stump of the transradial amputation (which includes the radius and ulna) is surgically converted into a claw-like pincer with preserved dexterity and tactile sensation -Surgery is performed as a secondary operation after a transradial amputation -These digits may allow for functional use of the UE during grasp and release tasks with self-care,  leisure, and work tasks -A conventional prosthesis can be worn over the Krukenberg forearm and myoelectric devices can be adapted to use the forearm motion -Best suited for patients who are blind, because they do not have the visual input necessary to operate prosthetic devices effectively \u2013Wrist disarticulation -Candidates are reportedly good prosthetic users as this amputation maintains function of the distal radioulnar joint for forearm rotation -Wrist disarticulation is controversial. Opponents argue that fitting with a prosthesis is more complicated than a transradial amputation, whereas proponents cite preserved forearm rotation (wrist disarticulation results in preservation of about 50% of pronation and supination)(4) \u2013Carpus amputation \u2013Partial hand amputation -Thumb amputation -As the thumb is highly significant for overall hand function, loss of hand function may occur -If the amputation is at or beyond the most distal thumb joint, hand function may be preserved -Amputation at the metacarpophalangeal joint can be disastrous to hand function; other surgical procedures may be required to enhance hand performance -Hypersensitivity and inability to tolerate cold may occur at the residual digit -Digit amputation -Amputations distal to the insertion of the flexor digitorum superficialis (FDS) allow for continued movement in flexion -Amputations proximal to the FDS tendon insertion maintain use of the residual stump in grasping tasks (e.g., metacarpophalangeal [MCP]flexion via lumbricals) -Middle finger amputations often make maintaining a grasp of small items a challenge, as the items may drop through the space created in the hand by the amputation -Fingertip amputation -Reportedly the most common type of UE amputation -Complications may occur such as phantom limb pain, hypersensitivity, and an inability to tolerate cold"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S48": "Traumatic amputation of shoulder and upper arm",
+            "S48.0": "Traumatic amputation at shoulder joint",
+            "S48.1": "Traumatic amputation at level between shoulder and elbow",
+            "S48.9": "Traumatic amputation of shoulder and upper arm, level unspecified",
+            "S58": "Traumatic amputation of forearm",
+            "S58.0": "Traumatic amputation at elbow level",
+            "S58.1": "Traumatic amputation at level between elbow and wrist",
+            "S58.9": "Traumatic amputation of forearm, level unspecified",
+            "S68": "Traumatic amputation of wrist, hand and fingers",
+            "S68.0": "Traumatic metacarpophalangeal amputation of thumb",
+            "S68.1": "Traumatic metacarpophalangeal amputation of other and unspecified finger",
+            "S68.2": "Traumatic amputation of two or more fingers alone (complete) (partial)",
+            "S68.3": "Combined traumatic amputation of (part of) finger(s) with other parts of wrist and hand",
+            "S68.4": "Traumatic amputation of hand at wrist level",
+            "S68.5": "Traumatic transphalangeal amputation of thumb",
+            "S68.6": "Traumatic transphalangeal amputation of other and unspecified finger",
+            "S68.7": "Traumatic transmetacarpal amputation of hand",
+            "S68.8": "Traumatic amputation of hand of other parts of wrist and hand",
+            "S68.9": "Traumatic amputation of wrist and hand, level unspecified",
+            "T05.0": "Traumatic amputation of both hands",
+            "T05.1": "Traumatic amputation of one hand and other arm (any level, except hand)",
+            "T05.2": "Traumatic amputation of both arms (any level)T87 Complications peculiar to reattachment and amputation",
+            "T87.1": "Complications of reattached (part of) upper extremity",
+            "T87.3": "Neuroma of amputation stump",
+            "T87.4": "Infection of amputation stump",
+            "T87.5": "Necrosis of amputation stump",
+            "T87.8": "Other complications of amputation stump",
+            "T87.9": "Unspecified complications of amputation stump",
+            "Z44": "Fitting and adjustment of external prosthetic device",
+            "Z44.0": "Fitting and adjustment of artificial arm",
+            "Z44.8": "Fitting and adjustment of other external prosthetic device",
+            "Z44.9": "Fitting and adjustment of unspecified external prosthetic device",
+            "Z89": "Acquired absence of limb (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Patient may have ongoing legal and/or worker\u2019s compensation claims",
+            "Advances in UE prostheses over the past decade have resulted in new technologies and many prosthetic options. Because of their newness, there is a lack of evidence to direct their prescription and training, which can interfere with timely reimbursement authorization(11)",
+            "The small number of UE prostheses that are fitted in comparison with lower limb prostheses(approximately 15:1) makes it difficult to meet the demands of third-party  payers for objective, statistically significant data to support the utilization of newer UE prostheses",
+            "Thorough documentation of clinical outcomes is useful to justify reimbursement",
+            "A more expensive prosthesis (e.g., myoelectric) may not be approved unless specific criteria are met, such as adequate cognitive ability to operate the prosthesis, adequate remaining musculature, and when a less technologically advanced device cannot meet the needs of the patient to perform ADLs"
+        ],
+        "presentation signs and symptoms": [
+            "The patient may present with the following signs and symptoms after an UE amputation: \u2013Discomfort secondary to surgery or prosthesis(2) \u2013Swelling(4) \u2013Scar tissue adhesions(4) \u2013Phantom limb pain and sensation(2) -Please see  Clinical Review ... Phantom Limb Pain  ; CINAHL Topic ID Number: T708996 for more detail \u2013Hyperesthesia(4) \u2013Loss of sensation(4) \u2013Reduced tolerance to prosthesis(2) \u2013Skin ulcers or breakdown(2) \u2013Impaired ROM(4) \u2013Decreased independence in ADLs/IADLs(2) \u2013Overuse injuries in unaffected UE(2) \u2013Emotional issues regarding loss of limb related to self-image(4) -There may be cultural differences with regard to the impact of the amputation on self-esteem  and self-image Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Joint and limb positioning in a pain-free  position is optimal during evaluation",
+            "With changes in positioning, use slow transitions to prevent dizziness or fainting post-surgery"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Trauma\u201390% of UE amputations are related to trauma(5,25)\u2013Common causes of trauma necessitating amputation-Accidents involving power tools and machinery(2)-Combat-related  injuries(5)\u2013Traumatic injuries that result in a limb becoming \u201cmangled,\u201dwhich is defined as a limb that is unrecognizable due tocutting, tearing, or crushing, may result in amputation if limb salvage is not possible(13)",
+            "Cancer(2)\u2013Second most common cause(2,25)",
+            "Other severe diseases or conditions that may lead to amputation\u2013Peripheral vascular disease, diabetes, and frostbite(3)\u2013Chemical, thermal, or electrical burns(2)\u2013Lack of function(3)\u2013Congenital deformity(4)"
+        ],
+        "pathogenesis": [
+            "If there is a congenital deformity present, amputation may be recommended at any time if this is believed to provide thepatient with improved function",
+            "Trauma\u2013Amputation is indicated with:(3)-loss of blood flow to a region of the UE (or entire UE) and surgical correction of vascular structures is not possible; thissituation is deemed an absolute indication-crush injuries due to the dispersion of cell toxins and myoglobin, thereby raising the risk of kidney failure, respiratorydistress syndrome, and death; high-risk  patients (those with multiple injuries and those advanced in age) typically arenot candidates for limb salvage\u2013Early amputation has replaced limb preservation techniques in an effort to reduce emotional and financial losses thattypically followed an unsuccessful attempt at limb preservation(3)",
+            "Cancer\u2013The surgical margin is painstakingly thought out, as the impact is significant on function as well as the disease processitself(3)-Intralesional margin \u2013 at least part of the incision crosses the tumor site-Marginal margin \u2013 the incision goes into the inflammatory zone (around the tumor) but not into the tumor itself-Wide margin \u2013 the incision does not go into the inflammatory zone or tumor; however, the incision does stay within theanatomic region of the tumor-Radical margin \u2013 the incision is out of the anatomic region of the tumor (e.g., incision is at shoulder and tumor is in theelbow)"
+        ],
+        "risk factors": [
+            "Among all individuals with UE amputations, > 75% are men(5)",
+            "Those who work with power tools and machinery are more at risk for traumatic injury(4) and therefore at greater risk foramputation"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Carefully follow surgeon\u2019s orders and restrictions",
+        "Instruct the patient on proper positioning to avoid contractures(2)",
+        "The patient\u2019s and family\u2019s emotional state must be taken into account during the evaluation and subsequent treatment",
+        "Emotional support may be required due to poor body image and/or depression(2)",
+        "With regard to use of prosthetic devices and postsurgical interventions, skin breakdown and open wounds may result, so universal precautions should always be utilized when touching and mobilizing the stump or limb during ADLs or therapeutic exercise(2)",
+        "As sensory impairments and phantom limb pain/sensation may occur after surgery,(4) precautions should be in place to assist with sensory deficits. Please refer to the treatment section for more information ",
+        "Scar tissue may form which may lead to pain during a muscle contraction or when utilizing a prosthetic device(2)",
+        "Patients with an UE amputation are at risk for repetitive stress injury in both UEs due to overuse and require monitoring of their activity level to avoid further injury(2,16)",
+        "Because balance may be impaired following amputation, the patient may be at risk for falls; please refer to the specific fall-prevention  program of the facility for the individual patient",
+        "Monitor for signs of new or worsening infection and notify physician",
+        "Monitor for signs of deep vein thrombosis (DVT)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Joint and limb positioning in a pain-free  position is optimal during evaluation",
+            "With changes in positioning, use slow transitions to prevent dizziness or fainting post-surgery"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -What contributing factors such as traumatic event or disease led to the decision to amputate? Is this a new amputation? Is this a revision of a prior amputation?",
+                "course of treatment": {
+                    "medical management": " Medical management Medical management will vary depending on the type of amputation and the symptoms the patient is describing When planning for amputation, preserving bone length if possible is the main priority(2) to allow for optimal function A coordinated rehabilitation team is beneficial during preoperative planning and postoperative care(2) If a traumatic amputation, describe any concurrent injuries and their treatment and progress. Have there been any complications? If due to cancer, describe disease treatment, including chemotherapy and/or radiation therapy",
+                    "surgical management": [],
+                    "medications": "The following medications may be prescribed;(2) inquire if patient is taking them and if they are effectively controlling symptoms Tricyclic antidepressants and antiepileptics Beta blockers for phantom pain Opiates for long-term  pain In the immediate postoperative stage, a patient-controlled  analgesia (PCA) pump typically is used After the PCA is discontinued, long-acting opioids are used Antibiotics for infection NSAIDs",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:(2)",
+                        "X-ray  to evaluate for osteomyelitis, heterotopic ossification, or bone spurs that may impact prosthetic wear",
+                        "Electrodiagnostic testing may determine presence of peripheral neuropathy",
+                        "Electrodiagnostic testing to determine potential for myoelectric use"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, hypnosis, biofeedback) and whether they help In a case study describing the use of acupuncture for phantom limb pain, a 35-year-old male patient with left shoulder disarticulation who was experiencing significant phantom limb pain (9/10 on V AS) had significant decrease in pain (to 4/10) after 3 acupuncture treatments(19)",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Ask the patient if he or she has determined what worsens or alleviates identified symptoms",
+                "body chart": "If applicable, use body chart to document location and nature of symptoms",
+                "nature of symptoms": "What current symptoms is patient reporting that may be interfering with function? Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, throbbing, aching, burning, numbness, tingling, squeezing,  pinching, or cramping). Following surgery, it may initially be challenging to determine whether a patient\u2019s pain is in the residual limb or is phantom pain. Phantom pain usually is intermittent, although some patients have continuous pain with superimposed exacerbations.(12) Inquire about other phantom sensations that may be annoying but not necessarily painful, including itching, pressure, touch, and movement",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much )",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also, document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition, symptoms that could be indicative of a need to refer to physician, and symptoms related to comorbidities or concomitant traumatic injuriesDocument the presence of any psychosocial issues; patients with amputations may experience various psychological reactions such as shock, grief, anger, denial, helplessness, and depression(14)",
+                "respiratory status": "Does patient require supplemental oxygen? Does patient become short of breath with exercise? Was patient intubated at any point in his or her recovery? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Previous amputation? Previous upper limb injury or dysfunction? Did patient undergo previous attempts at treatment to avoid amputation, such as bypass surgery or limb salvage surgery? The decision of salvage versus amputation in the UE is based on the likelihood of retaining some useful function even if the function is minimal. Even a severely compromised arm may function as an assistive limb. An assistive UE often functions better than currently available prostheses(3)",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "What are the patient\u2019s interests at home? What are the patient\u2019s occupations and roles? Is the patient employed? What is the nature of the work? Is he or she planning on returning to the workforce? Does the patient participate in recreational or competitive sports?",
+                "functional limitations assistance with ADLs adaptive equipment": "What was prior hand dominance? What current adaptive equipment is available to the patient at home, and can it still be utilized based on patient\u2019s current functioning? Document both high-tech  and low-tech adaptations and equipment. What was patient\u2019s prior skill status in terms of independence with ADLs? Is the patient attending school?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (caregivers, etc.). Identify if there are barriers to independence in the home; any modifications necessary? Are family/caretakers supportive?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  Considering the many types of clinical presentations that occur with UE amputation, assessment will be highly individualized and modified based upon the patient\u2019s level of amputation, stage in the healing process, pain level, and social/emotional functioning",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Record residual limb length and circumference using tape measure or digit circumference gauge(3) \u2013Document the shape of the residual limb \u2013Document presence of scar tissue \u2013Measure swelling with circumferential or volumetric measurements ",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013Did the patient use any assistive or adaptive devices prior to the amputation? If so, they will likely need to be altered \u2013Document use of and level of independence with adaptive equipment utilized pre/post surgery but prior to prosthetic development \u2013If the incision has healed, a prosthesis has been fabricated, and training has begun, document present level of independence with the current device \u2013Document any other adaptive equipment or assistive technology that may be used in conjunction with the prosthetic device",
+            "balance": " Balance \u2013Complete a gross evaluation of balance reactions in sit and stance with and without prosthesis \u2013Evaluate static and dynamic balance during ADL tasks and functional mobility \u2013Upper limb loss has been associated with an increased risk for falls(24)",
+            "cardiorespiratory function and endurance": [
+                "Evaluate pulse and vital signs regularly pre/during/post activity",
+                "Monitor breathing to assist with determining fatigue and endurance levels",
+                "Observe overall endurance through general activities",
+                "The 6-minute  walk for distance test (6MWT) can be used to assess endurance"
+            ],
+            "circulation": " Circulation \u2013Evaluate temperature of limb \u2013Note any hair growth Cranial/peripheral nerve integrity \u2013Evaluate sensation, refer to sensory testing section below \u2013When amputation has occurred as a result of trauma, the brachial plexus may have been injured(2) Ergonomics/body mechanics \u2013Assess patient\u2019s body mechanics during transitional movements and functional activities(2) \u2013Patient may benefit from a workstation evaluation if returning to work Functional mobility  (including transfers, etc.) \u2013Evaluate level of independence during transfers and bed mobility; utilize FIM for objective measurement",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Evaluate gait and note any deviations \u2013The Dynamic Gait Index (DGI) can be used to evaluate safety during ambulation \u2013Does the patient use an ambulatory device? Does the amputation affect the use of it?Is there any laxity noted in joints proximal to the amputation? Any restrictions? Motor function (motor control/tone/learning) \u2013Document whether affected limb is the dominant side \u2013Assess motor control of uninvolved limb as indicated \u2013Document any abnormal muscle tone \u2013The Southampton Hand Assessment Procedure (SHAP)(9) is a validated test used to assess the effectiveness of an upper limb prosthesis -Test involves manipulating 6 abstract objects and 14 objects used in performance of ADLs \u2013The Assessment of Capacity for Myoelectric Control (ACMC) is an observation-based  clinical tool that evaluates ability to control a myoelectric prosthetic hand during bimanual activities(9) -Researchers in Sweden recommend using 6 standardized activities that function similarly across both prosthetic sides and both sexes \u2013Activities Measure for Upper-Limb  Amputees (AM-ULA)(9,15,23)  \u2013University of New Brunswick (UNB) Test of Prosthetic Function for Unilateral Amputees(15,23) \u2013Assess coordination as appropriate using a test such as the Jebsen-Taylor  Hand Function Test(9,23) or the Box and Block Test(23) \u2013Assess motor strategies used to accomplish functional tasks such as reach and grasp -Loss of voluntary degrees of freedom (e.g., distal rotation) during use of an upper limb prosthesis forces the individual to use compensatory motor strategies to accomplish functional tasks",
+            "muscle strength": " Muscle strength \u2013Use a dynamometer or a pinch meter to assess grip strength \u2013Complete a formal strength assessment with manual muscle testing; include the residual limb, unaffected UE, trunk, and lower extremities(4)",
+            "observation inspection palpation including skin assessment": [
+                "Evaluate/document presence of open wounds, or any skin breakdown",
+                "Palpate scar tissue areas, commenting on shape, length, and location",
+                "Assess for signs of infection, which include: -colored discharge (yellow) -discharge with odor -significant discharge -necrotic tissue -erythema in proximity to the wound -increased warmth around the site",
+                "Impairments in circulation may be indicated by coolness around or over the wound",
+                "Observe for signs of wound dehiscence, skin breakdown elsewhere, and improper fit of prosthesis",
+                "Observe, comment on any areas of swelling",
+                "Note presence of stump wrapping and whether it is applied properly"
+            ],
+            "posture": " Posture \u2013Complete a full postural assessment; assess posture with/without prosthesis \u2013Document static/dynamic posture in both sitting/standing throughout a variety of tasks with/without prosthesis \u2013Atypical posturing of the shoulder girdle is common in patients after UE amputation. Shoulder elevation on the affected side often is noted(3) \u2013When the muscles that elevate the shoulder girdle are unopposed by the weight of the arm, hiking of the shoulder girdle tends to be inevitable. This can accentuate the cosmetic loss(3) \u2013Assess for scoliosis -Muscular imbalance can result in scoliosis of the spine in adults with UE amputations, although this tends to occur more commonly in patients whose skeleton is still growing(3)",
+            "range of motion": " Range of motion \u2013Complete a formal ROM assessment of the involved limb using goniometry; formally or grossly assess other joints as indicated \u2013Note pain response with any active movement or stretching \u2013Document contractures(4) -In patients with UE amputations, shoulder and elbow flexion contractures often occur, especially with short residual limbs(3) Self-care/activities  of daily living  (objective testing) \u2013If in use, is patient able to independently don and doff compression garments and/or prosthesis? \u2013Document independence with ADLs \u2013Usually, a patient with a(n)(4) -partial hand amputation has loss of grip functions -wrist disarticulation has loss of hand and wrist function -transradial amputation has loss of hand and wrist function, loss of most or all of pronation and supination, and partial loss of elbow flexion and extension -elbow disarticulation has loss of hand and wrist function, pronation, supination, and elbow flexion and extension  -transhumeral amputation has loss of all of the above functions as well as possible loss of shoulder external and internal rotation -shoulder disarticulation has loss of all hand and arm functions -scapulothoracic amputation has loss of all hand, arm, and possibly scapular functions",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": " Sensory testing \u2013Examine for sensory awareness of the extremity including tactile localization, static and moving stimuli, kinesthetic awareness, one- and two-point  discrimination, sensory discrimination, stereognosis, and light touch \u2013Document phantom limb sensation or any reports of impaired sensation per patient report",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Standardized tests for adults with UE amputations -Disabilities of the Arm, Shoulder, and Hand (DASH) Outcome Measure -For additional information on the DASH see  Clinical Review ... Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure   CINAHL Topic ID number T903177 -QuickDASH(20,23) -Orthotics and Prosthetics User Survey (OPUS)(9,15) -Trinity Amputation and Prosthesis Experience Scales (TAPES)(9) -Patient-Specific  Functional Scale (PSFS)(15) \u2013A vocational assessment and functional capacity evaluation may be appropriate as part of determination of return-to-work status(6) \u2013Clinicians may use specialized tools such as the MyoBoy as part of their evaluation/treatment regimen; functions of the(7) -Isolated muscle training in preparation for a myoelectric prosthetic hand -Evaluating muscle strength -Tracking progress and outcomes",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Document patient\u2019s ability to communicate and level of arousal, as mental status may be impaired. The Mini-Mental State Examination (MMSE) can be used \u2013If injury was traumatic, did patient sustain any head trauma? \u2013Depression and/or PTSD may occur and can affect communication and arousal \u2013Obtain results of any testing done by other disciplines (e.g., neuropsychology)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "decreased circulation",
+                "decreased sensation",
+                "acute/subacute traumatic and inflammatory conditions",
+                "skin infections",
+                "impaired cognition or language barrier",
+                "malignant tumors",
+                "tendency for hemorrhage or edema",
+                "heat rubs"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease ",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Used in close proximity to diathermy treatment",
+                "in an area with infection or bleeding",
+                "if a tumor or malignancy is present in the area",
+                "in the area of a DVT or thrombophlebitis",
+                "over the heart, stellate, or cervical ganglia",
+                "over epiphyseal plates",
+                "sensory deficits",
+                "individuals who cannot communicate effectively (e.g., impaired cognition, language barrier)",
+                "circulatory impairments",
+                "plastic or metal implants",
+                "Note: Always decrease ultrasound intensity if the patient complains of discomfort"
+            ],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Consult with surgeon prior to performing massage over areas with skin grafts(4)",
+                "Thermotherapy  is contraindicated with:(8)",
+                "Electrotherapy  contraindications/precautions include: (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(8)",
+                "Therapeutic ultrasound  contraindications include; do not use:(8)",
+                "Therapeutic ultrasound  precautions include:(8)"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Patients commonly need treatment to address pain and edema; diminished ROM, strength, coordination, and sensation; scar tissue management; and prosthesis training for use/care(4) Goals are to allow the patient to return to a level of function with which he or she can participate at home, at work, and in the community as independently as possible with accommodations and use of prosthetic device if prescribed",
+        "rule out": "N/A",
+        "prognosis": [
+            "The level of amputation can significantly impact the prognosis, as this directly correlates to the level of function a patient may be able to regain (see Tests and measures , above)(2,21)",
+            "Motivation and acceptance are key factors in prosthetic success(9)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines  (4) Driver training specialist Occupational therapist (OT) Physician/surgeon Prosthetist Psychologist Psychiatrist Social worker V ocational counselor Support groups",
+        "other considerations": [],
+        "treatment summary": [
+            "Prosthetic considerations \u2013The decision regarding whether a prosthesis is appropriate and which prosthesis to select depends on the patient\u2019s age, level of amputation, skin condition and coverage, comorbid medical conditions, cognitive status, and patient\u2019s motivation and goals -Recent advances in prosthetic technology have yielded new options for prostheses for patients with partial hand amputations; however, more research in this area is needed to achieve the best functional outcomes(16) -These patients usually are more challenging for prosthetists and therapists due to such comorbidities as:(16) -hyper-  or hyposensitive tissue  -decreased ROM -adherent scar tissue -decreased circulation -neuromas -burns -The team must also determine how the remaining digits will interact with the mechanical digits and how the alignment of the mechanical digits will affect function -Training begins with pinch and grasp and evolves into higher-level  tasks for ADLs, IADLs, and work and leisure activities",
+            "Pre-prosthetic  treatment involves(4) \u2013facilitating patient\u2019s acceptance of limb loss and improvement in psychosocial adjustment \u2013facilitating wound healing and preventing scar adhesions \u2013reducing sensitivity of residual limb with desensitization techniques \u2013improving UE ROM and strength and preventing contractures -Strengthening exercises should be specific to the type of prosthesis that will eventually be used -Strengthening of the shoulder, elbow, and scapular muscles is important for transradial amputations -Strengthening of the shoulder depressors, extensors, and abductors is necessary for patients with transhumeral amputations -Chest expansion exercises are necessary for patients with high-level  amputations \u2013educating the patient regarding skin hygiene and inspection -The patient should be taught to look at the residual limb while performing functional activities, to position the limb carefully while sitting, and to avoid using the limb to test the temperature of water \u2013shaping and sizing the residual limb -An elastic bandage, tubular bandage, or a shrinker sock is used for wrapping -Elastic bandages are applied smoothly and evenly, not too tightly, using a figure-8  method starting from the distal end of the residual limb",
+            "The prosthetic program involves(4) \u2013educating the patient regarding: -Residual limb hygiene -The patient should inspect, wash, and pat the residual limb dry and apply antiperspirant deodorant daily -Prosthetic sock hygiene -The sock should be changed daily -Care of prosthesis -The socket should be gently washed and rinsed at night with a mild soap -The patient should follow the manufacturer\u2019s guidelines (e.g., battery charging procedures) -Wearing schedule -Initially, the prosthesis typically is worn for 15 to 30 minutes 3 times per day -If there are no adverse skin reactions the wearing time can be increased by 30 minutes per day, with the patient wearing the prosthesis all day by the end of 1 week -Donning and doffing prosthesis -Coat vs. sweater method(4) -Control training(4) -The patient learns the minimal motions necessary to operate the prosthesis while maintaining proper body mechanics -Therapist should stress joint protection, energy conservation, and work simplification principles and techniques -Use training(4) -Training for grasp and release \u2013functional training",
+            "Types of prostheses(4,9) \u2013Body-powered  prosthesis(4,15,18) -Indicated for wrist disarticulation amputations and higher -Activated through muscle and body actions that apply a force to a cable and allow for prehension  -Feedback to the individual occurs through tension on the prosthesis as well as through visual scanning -Less expensive than externally powered prostheses -Lighter than externally powered prostheses -Easy to use -Long-lasting -Precise fit not essential -Reduced instruction time when compared to externally powered prostheses -Able to complete heavy work -Suspension may inflame the axilla -Most common parts of a prosthesis include: -prosthetic sock -Sock composed of knit wool, cotton, or Lycra -Used to absorb perspiration, protect against irritation, and compensate for volume changes in the residual limb, contributing to improved fit and comfort in the socket(4) -There is also a sock called Silo-Liner  made by Silipos that can assist in minimizing hypertrophic scarring(4) -socket -Cast mold is used to fabricate -Assists with a providing an individualized fit for function; should be long enough to be stable but not too long to restrict motion -Single-wall  construction: commonly used with a wrist or elbow disarticulation and requires no shaping(4) -Double-wall  construction: involves an inner wall and an outer wall that are laminated together; inner socket can be flexible to allow for volume and contour changes that occur when the muscles contract and relax(4) -harness -Worn around the back and opposite shoulder to fasten the socket and prosthesis to the limb -Most common harness is of figure-8 construction -cable -Attaches the harness to the terminal device; specific upper body movements create tension on the cables to operate the prosthesis(4) -terminal device -Mechanism on the prosthesis that achieves grasp/release of items for functional tasks, or can stabilize an object -Either hook or hand style -May have voluntary opening (VO) or voluntary closing (VC) design (26) -Most body-powered  prosthesis users choose the VO design -Advantages of the VO include once an object has been grasped the user does not need to exert force to maintain that grasp \u2013 a spring provides the force to hold the object -In contrast, with the VC design the pinch force is generated by the user. The user can apply varying forces for varying tasks, but must maintain the force throughout the task, which can cause fatigue -wrist unit -Attaches the terminal device to the socket -Allows for forearm supination and pronation -elbow unit(4) -Allows for 5\u02da to 135\u02da of flexion -Can lock in various positions, can lock internally or externally, and may include a lift assist -transradial hinges(4) -On each side of the elbow of a transradial prosthesis; stabilize and properly align the prosthesis for optimal distribution of stress on the limb -prosthesis for partial hand amputations(16) -Passive functional devices -Opposition posts -Task-specific  devices  -Mechanical fingers -Operate through the harnessing of proximal joints and anatomy -The majority of persons with UE amputations are reported to prefer a cable-operated,  body-powered prosthesis over a myoelectric prosthesis(18) \u2013Externally powered(9) -Feedback to the individual typically is through vision alone -Newer versions may allow for 3 different hand grips -May provide the patient with increased pinch strength, complete wrist rotation, and ability to complete ADLswithout concern over mechanical disadvantage (as would be the concern with body-powered  prostheses) -Electrically powered terminal device prehensors -Operates through myoelectric or switch control -Digital control: constant speed -Proportional control: variable speed in which the speed and pinch force increase in proportion to the intensity of the muscle contraction -prosthetic hands -Single-joint  myoelectric prosthetic hands(26) -Myoelectrically controlled multiarticulated hands -Have the ability to fold around objects and perform various grip types, which make them more like human hands -i-LIMB -Bebionic hand -i-LIMB  Pulse -externally powered partial-hand prosthesis(16) -Provide multiarticulating motorized digits that are powered by batteries -These devices provide the highest grasp and pinch forces and can simulate the pinch and grip patterns of the human hand -i-LIMB  digits -electric hooks -electric elbows \u2013Passive (cosmetic)(9) \u2013Hybrid(9) \u2013 A combination of myoelectric (e.g., for hand function) and body-powered  (for shoulder and elbow movement) \u2013DEKA Arm \u2013 a precommercial upper-limb  prosthetic prototype engineered to provide the potential for significantly greater upper-limb  function than devices currently on the market (currently, there are no devices that allow for more than one movement at a time, and there are no powered prosthetic shoulders on the market)(15) -Allows up to 10\u02da of powered movement and 6 pre-programmed  hand grips -The powered elbow provides flexion, extension, and humeral rotation -The powered wrist flexes, extends, supinates, pronates, and medially and laterally deviates -The device is operated by a combination of methods, including foot controls, optional EMG controls, pressure switches, or other commonly available prosthetic input elements -The DEKA Arm that includes a powered shoulder includes end-point  control that allows simultaneous control of multiple arm joints -Researchers who conducted a quasi-experimental  study in the United States found that users were able to perform more activities with the DEKA Arm than with their current prosthesis and had less difficulty performing self-selected activities, but in general dexterity was equivalent or diminished across all groups except for those using the powered shoulder, who experienced improved dexterity(15) \u2013Activity-specific  prostheses(9) -Include recreational prostheses and those designed to facilitate work tasks or ADLs -Examples include prostheses for rock climbing or violin playing -Most have limited utility but are very effective for specific tasks \u2013Future directions(22) -Given the cost of myoelectric prostheses, there are many patients who could benefit from one but are not able to afford one  -Researchers in the United States conducted a pilot study to compare the utility of a commercially available myoelectric prosthesis to one created with a 3D printer. The quasi-experimental  study was done using able-bodied  subjects fit with the prostheses via a custom attachment -The results of the study showed that the subjects performed better on the Box and Block Test using the commercially available prosthesis, but were able to perform the test with the significantly less expensive, 3D-printer-created  prosthesis -Based on the study, the authors conclude that with additional refinement and development, clinical application of 3D printer prosthetics may be a viable option in the future . Problem Goal Intervention Expected Progression Home Program Edema in residual limb Reduce edema Patient education _ Instruct the patient on proper positioning of the limb (avoid prolonged periods of dependent positioning),residual limb wrapping, and/ or use of compression sleeves _ _ Instruct the patient on self-massage to assist in minimizing edema _ _ Electrotherapeutic modalities _ Interferential current may be implemented _ _ Prescription, application of devices and equipment _ A shrinker, elastic bandaging, or rigid dressing may be used to manage edema(2) _ _ Care should be taken to wrap the residual limb with even pressure; increased tightness in certain areas may cause the edema to become more severe and pocket in surrounding regions(3)Minimal to no residual edemaInstruct the patient and/ or family members and caregivers in desired method of edema reduction/prevention for home  Impaired skin integrity _ _ Incision; healing may be impaired _ _ Additional wounds may be present _ _ At risk for skin breakdown, scar adherence,(2) wound dehiscence, infection, and injury to residual limbPromote healing of incisional sites or wounds _ _ Increase patient knowledge of appropriate skin care _ Prevention of complicationsWound debridement _ Wound debridement may be indicated; however, physician order must be obtained and treatment should be carried out by a trained therapist _ _"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced edema limb is appropriate size and shape for prosthesis": [
+            "Circumference measurements"
+        ],
+        "healing of incisional sites or wounds": [],
+        "meeting treatment goals, for example:": [
+            "Increased patient knowledge of appropriate skin care",
+            "Minimized development of scar tissue",
+            "Independent with use of wrapping techniques and use of compression aids to reduce size of limb to prepare for prosthesis",
+            "Patient monitors activity level in an effort to reduce repetitive stress injuries",
+            "Patient reports reduced hypersensitivity as evidenced by tolerance of touch and pressure without negative reactions"
+        ],
+        "patient reports a reduction in pain and is independent with pain management techniques": [
+            "V AS"
+        ],
+        "resolved phantom limb pain ,": [
+            "V AS"
+        ],
+        "improved rom contracture prevention": [
+            "Goniometry"
+        ],
+        "improved strength": [
+            "MMT",
+            "Dynamometry measurements"
+        ],
+        "improved ability in adls": [
+            "Observation of improvement in ADLs",
+            "Standardized functional assessment tools (e.g., Barthel, FIM)"
+        ],
+        "improved tolerance to prosthesis  improved motor control during prosthetic use": [
+            "MyoBoy",
+            "ACMC",
+            "AM-ULA(15)",
+            "UNB Test of Prosthetic Function for Unilateral Amputees(15)",
+            "OPUS(15)",
+            "PSFS(15)",
+            "TAPES"
+        ],
+        "patient demonstrates functional use of prosthesis during adls, iadls, and leisure tasks": [
+            "DASH",
+            "QuickDASH"
+        ],
+        "improved coordination": [
+            "Jebsen-Taylor  Hand Function Test(15)",
+            "Modified Box and Block Test of Manual Dexterity(15)"
+        ],
+        "improved fitness level": [
+            "6MWT"
+        ]
+    },
+    "maintenance or prevention": [
+        "Patient should participate in an individually designed home education program that maintains/progresses ROM and strength and facilitates the use of adaptive equipment and a prosthesis if recommended, to allow for as much independent function as possible in home, leisure, community, and vocational activities",
+        "Daily residual limb inspection should also be performed"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Disarticulation. In: Venes D, ed. Taber's Cyclopedic Medical Dictionary . 23rd ed. Philadelphia, PA: FA Davis; 2017:691. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Braza DW, Martin JNY. Upper limb amputations. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Saunders/Elsevier; 2019:651-656.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Smith DG, Skinner HB. Amputations. In: Skinner HB, ed. Current Diagnosis & Treatment in Orthopedics . 5th ed. New York, NY: Lange Medical Books/McGraw-Hill; 2014:568-594.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Orr AE, Glover JS, Cook CL. Amputations and prosthetics. In: Pendleton HM, Schultz-Krohn  W, eds. Pedretti's Occupational Therapy: Practice Skills for Physical Dysfunction . 8th ed. St Louis, MO: Elsevier; 2018:1083-1116.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Sheehan TP. Rehabilitation and prosthetic restoration in upper limb amputation. In: Cifu DX, ed. Braddom\u2019s Physical Medicine & Rehabilitation . 5th ed. Philadelphia, PA: Elsevier; 2016:167-189.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Vaughn P. Musculoskeletal dysfunction in adults. In: Boyt Schell BA, Gillen G, Scaffa ME, eds. Willard & Spackman's Occupational Therapy . 12th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2014:1101-1102.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "MyoBoy. Ottobock Web site. https://shop.ottobock.us/Prosthetics/Upper-Limb-Prosthetics/Myo-Hands-and-Components/Myo-Software/MyoBoy/p/757M11~5X-CHANGE . Accessed April 2, 2021. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016:80-82,  127-128, 322-323. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Mitsch S, Smurr Walters L, Yancosek K. Amputation and prosthetics. In: Radomski MV, Trombly CA, Latham CA, eds. Occupational Therapy for Physical Dysfunction . 7th ed. Baltimore: Lippincott Williams & Wilkins; 2014:1267-1296.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Burke-Doe  A. Pain management. In: Umphred DA, ed. Neurological Rehabilitation . 7th ed. St. Louis, MO: Mosby; 2020:869-889.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Resnik L, Meucci MR, Lieberman-Klinger  S, et al. Advanced upper limb prosthetic devices: implications for upper limb prosthetic rehabilitation. Arch Phys Med Rehabil . 2012;93(4):710-717.  doi:10.1016/j.apmr.2011.11.010. (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Bang MS, Jung SH. Phantom limb pain. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Saunders Elsevier; 2019:596-595.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Bumbasirevic M, Stevanovic M, Lesic A, Atkinson HD. Current management of the mangled upper extremity. Int Ortho. 2012;36(11):2189-95.  doi:10.1007/s00264-012-1638-y. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Vaughn P. Amputations. In: Boyt Schell BA, Gillen G, Scaffa ME, eds. Willard & Spackman's Occupational Therapy . 12th ed. Philadelphia, PA: Lippincott; 2014:1101-3.  (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Resnik L, Borgia M, Latief G, Sasson N, Smurr-Walters  L. Self-reported  and performance-based  outcomes using DEKA Arm. J Rehabil Res Dev . 2014;51(3):351-61. doi:10.1682/JRRD.2013.08.0180. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Whelan L, Flinn S, Wagner N. Individualizing goals for users of externally powered partial hand prostheses. J Rehabil Res Dev . 2014;51(6):885-94.  doi:10.1682/ JRRD.2013.08.0181. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Kleeman LT, Shafritz AB. The Krukenberg Procedure. J Hand Surg Am . 2013;38(1):173-5.  doi:10.1016/j.hsa.2012.09.005. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Sensinger JW, Lipsey J, Thomas A, Turner K. Design and evaluation of voluntary opening and voluntary closing prosthetic terminal device. J Rehabil Res Dev . 2015;52(1):63-75.  doi:10.1682/JRRD.2014.03.0087. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Housley A. Acupuncture for phantom limb pain: a case study. J Chin Med . 2016;19-23.  (C)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Resnik L, Borgia M. Reliability, validity, and responsiveness of the QuickDASH in patients with upper limb amputation. Arch Phys Med Rehabil . 2015;96(9):1676-1683. doi:10.1016/j.apmr.2015.03.023. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Fitzgibbons P, Medvedev G. Functional and clinical outcomes of upper extremity amputation. J Am Acad Orthop Surg . 2015;23(12):751-760.  doi:10.5435/JAAOS-D-14-00302. (GI)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Duong T, Wagner B, Abraham T, et al. Comparative study of functional grasp and efficiency between a 3D-printed  and commercial myoelectric transradial prosthesis using able-bodied  subjects: a pilot study. JPO. 2017;29(3):112-118.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Resnik L, Borgia M, Silver B, Cancio J. Systematic review of measures of impairment and activity limitation for persons with upper limb trauma and amputation. Arch Phys Med Rehabil. 2017;98(9):1863-1892.  doi:10.1016/j.apmr.2017.01.015. (M)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Major MJ, Stine R, Shivaikar T, Gard SA. Effects of upper limb loss or absence and prosthesis use on postural control of standing balance. Am J Phys Med Rehabil . 2020;99(5):366-371.  doi:10.1097/PHM.0000000000001339. (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Maduri P, Akhondi H. Upper limb amputation. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Ku I, Lee GK, Park CY, Lee J, Jeong E. Clinical outcomes of a low-cost single-channel  myoelectric-interface  three-dimensional  hand prosthesis. Arch Plast Surg . 2019;46(4):303-310.  doi:10.5999/aps.2018.01375. (RV)"
+        }
+    ]
+}

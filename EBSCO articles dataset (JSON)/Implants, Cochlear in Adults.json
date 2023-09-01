@@ -1,0 +1,463 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "implants, cochlear in adults",
+            "auditory prosthesis in adults",
+            "prosthesis, auditory in adults",
+            "cochlear prosthesis in adults",
+            "prosthesis, cochlear in adults"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "hearing impairment"
+        ],
+        "description": [
+            "A cochlear implant (CI) is a small, partially implanted electronic device that provides a person who has profound hearing loss with a representation of sound from the environment. A CI contains components that are located outside of a person\u2019s body (external portion) as well as parts that are implanted (implanted portion). The external portion includes a microphone, a sound processor, and a transmitter system, which transmits speech signals to the receiver-stimulator.  The external portion is removable and is powered by batteries, much like traditional hearing aids (HAs). The implanted portion includes a receiver-stimulator,  which converts information from the transmitter into electric impulses, and an electrode system. The electrode system, which is threaded through the cochlea, transports the electrical impulses to the auditory nerve. The external and internal systems are held next to each other by an implanted magnet that works through the person\u2019s skin(1,2,3)"
+        ],
+        "indications": [
+            "Adults who are permanently profoundly deaf, have a significant hearing loss, or have another type of severe hearing disorder are candidates for a CI.(1,3,4) This might include adults with sensorineural hearing loss, auditory neuropathy, otosclerosis, or inner ear malformations.(3) Although pure-tone  averages established through audiometric testing indicate a person\u2019s hearing sensitivity at different frequencies, hearing sensitivity levels are not considered in isolation when determining who is or is not a candidate for a CI. More important factors include the person\u2019s previous success with another type of amplification (e.g., HAs) and whether or not a CI would provide greater benefits than the person\u2019s current amplification.(5) Adults who are postlingually deafened (i.e., lose their hearing later in life, after learning spoken language) generally are considered good CI candidates; however, with improvements in CI technology, prelingually deafened adults are also having favorable outcomes following implantation.(1,6) Individuals with a CI who use a HA in the contralateral ear but are not experiencing benefits of the HA should consider implantation of a second CI(43)",
+            "Patients must consider the following risks prior to undergoing surgery for CI: \u2013Risks associated with receiving general anesthesia(2) \u2013Facial nerve could become damaged during surgical implantation(2) \u2013Meningitis could occur (especially in patients with inner ear abnormalities)(2) \u2013Cerebrospinal fluid could leak(2) \u2013Perilymph fluid could leak(2) \u2013Skin wound could become infected(2) \u2013Blood or fluid could collect at the site of surgery(2) \u2013Vestibular impairments (e.g., dizziness, vertigo), while rare, could develop(2,48,52) \u2013Tinnitus (ringing in the ears)(2)  \u2013Taste sensation could be disturbed(2) \u2013The ear could become numb(2) \u2013The body could reject the CI, leading to localized inflammation and a reparative granuloma(2) \u2013Sounds might be perceived differently than prior to surgery(2) \u2013Residual hearing will be lost(2) \u2013Long-term  effects are unknown and uncertain(2) \u2013Hearing abilities following surgery vary from person to person; the patient might be disappointed with the results(2) \u2013Language comprehension following surgery varies from person to person; the patient might be disappointed with the results(2) \u2013The following medical procedures cannot be performed following cochlear implantation:(2) -MRI (an MRI could dislodge the CI or cause the internal magnet to demagnetize) -Neurostimulation -Electrical surgery -Electroconvulsive therapy -Ionic radiation therapy \u2013CI might need to be removed if infection occurs(2) \u2013CI might fail(2) \u2013As CI technology improves, patient might not be able to upgrade to a new CI if new external parts are not compatible with existing internal portion(2) \u2013CI requires batteries to function(2) \u2013There is a risk of damaging the CI (e.g., external portions can be damaged if they become wet)(2) \u2013Patient might need to make lifestyle changes(2) \u2013Skin can become irritated due to placement of external portions(2) \u2013Strange sounds might be heard when in the presence of magnetic fields (e.g., near airport passenger screening machines)(2)",
+            "There is a large amount of opposition to CI use from the Deaf community. Some members of this community believe that CI use is not culturally responsive in that it prevents CI users from being complete members of the community, implies that deafness is a disability, and implies that Deaf persons are of lesser worth(37,38)",
+            "In a study conducted in Denmark with 269 adults who received 308 CIs total, researchers found that 168 patients (62.5%) experienced at least 1 complication of surgery. Of those who experienced at least 1 complication, 23 patients had at least 1 major complication and 159 experienced at least 1 minor complication. The most common major complications were wound infection, permanent chorda tympani syndrome (unilateral sweating on the chin after eating), and electrode migration/misplacement/accidental removal. The most common minor complications were transient chorda tympani syndrome, vertigo/dizziness, and tinnitus(31)"
+        ],
+        "ICD-9 codes": {
+            "20.96": "implantation or replacement of cochlear prosthetic device, not otherwise specified",
+            "20.97": "implantation or replacement of cochlear prosthetic device, single channel",
+            "20.98": "implantation or replacement of cochlear prosthetic device, multiple channel",
+            "20.99": "other operations on middle and inner ear"
+        },
+        "ICD-10 codes": {
+            "Z45.32": "encounter for adjustment and management of implanted hearing device",
+            "Z96.21cochlear": "implant status (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at therapy episode outset and at reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G9161 Spoken language comprehension functional limitation": "discharge status at discharge from therapy or to end reporting"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at therapy episode outset and at reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at therapy episode outset, at reporting intervals, and at discharge end reporting",
+                "G9164": "spoken language expression functional limitation, discharge status at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {
+            "92603": "cochlear implant follow-up exam (age 7 or more)",
+            "92604": "reprogramming of cochlear implant (age 7 or more)",
+            "92507": "aural rehabilitation"
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified Indications for Device/Equipment"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "The SLP must review all medical and audiological evaluation reports prior to conducting a speech-language  assessment of a patient with a CI",
+            "During a speech-language  evaluation, it is of utmost importance to be aware of a patient\u2019s fatigue, pain tolerance, and level of frustration",
+            "Prior to surgery for implantation of a CI, the patient and/or family should receive counseling on the potential risks and benefits of implantation(4)",
+            "Prior to surgery, the patient and/or family should be educated on the components of a CI and the daily responsibilities of CI use(4)",
+            "Prior to surgery, the SLP should discuss the range of possible speech and language outcomes with the patient and/or family(4)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "The SLP must review all medical and audiological evaluation reports prior to conducting a speech-language  assessment of a patient with a CI",
+            "During a speech-language  evaluation, it is of utmost importance to be aware of a patient\u2019s fatigue, pain tolerance, and level of frustration",
+            "Prior to surgery for implantation of a CI, the patient and/or family should receive counseling on the potential risks and benefits of implantation(4)",
+            "Prior to surgery, the patient and/or family should be educated on the components of a CI and the daily responsibilities of CI use(4)",
+            "Prior to surgery, the SLP should discuss the range of possible speech and language outcomes with the patient and/or family(4)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document the etiology and history of the patient\u2019s hearing loss; document date of cochlear implantation and type of CI(4)",
+                "course of treatment": {
+                    "medical management": "Document previous use of HAs and/or other amplification devices (e.g., FM systems).(4) Has the patient previously had a CI (i.e., is this the patient\u2019s first or second CI)?",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests to determine candidacy for a CI include the following:",
+                        "High-resolution  computerized tomography (HRCT), computerized tomography (CT), and/or magnetic resonance imaging (MRI) should be conducted by the appropriate medical professional in order to evaluate accessibility of the cochlea, identify or rule out any structural abnormalities of the inner ear, assess the temporal bone, and assess cochlear nerve integrity(2,4,8) ",
+                        "Audiologic evaluation to determine:",
+                        "Preoperative hearing status, including a complete audiogram, air and bone conduction thresholds, and speech perception testing(2,4)",
+                        "Patient\u2019s preoperative mode of communication(4)",
+                        "Patient\u2019s previous use of amplification systems, such as HAs, and results of amplification use(4)",
+                        "Need for trial period of a less permanent type of amplification (i.e., HAs) in patients who have not previously used amplification(4)",
+                        "Physical examination to determine:",
+                        "State of general physical health(4)",
+                        "Ability to tolerate general anesthesia(2,4)",
+                        "Ability to participate in postimplantation training(4)",
+                        "Psychological evaluation to assess:",
+                        "Patient\u2019s ability to cope with having a CI(2)",
+                        "Patient\u2019s ability to complete needed follow-up  care(4)",
+                        "Patient\u2019s ability to incorporate CI into daily living(4)",
+                        "General eligibility considerations:",
+                        "Patient receives limited benefit from HAs and expectations are that patient\u2019s ability to communicate would show benefit from a CI(3,4)",
+                        "No medical or radiological contraindications exist(3,4)",
+                        "Patient is highly motivated to attend programming and rehabilitation appointments(3)",
+                        "Patient displays appropriate expectations regarding potential outcomes(3)",
+                        "Patient has or can develop necessary support network to use a CI on a daily basis(4)"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": "Document whether patient has had speech therapy for hearing loss or other diagnoses and what specific treatments were helpful or not helpfulDocument psychosocial status; hearing impairment and cochlear implantation can have positive and negative effects on quality of life, and each individual patient will differ with respect to psychosocial outcomes(4,5) Barriers to learning Are there any barriers to learning? Yes__ No__ If Yes, describe _________________________"
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document etiology of hearing loss, history of hearing loss, and history of amplification use(4)",
+                    "comorbid diagnoses": "Ask patient and family about other diagnoses including stroke, neurological disorder, dementia, and other diagnoses that might affect communication",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter drugs)",
+                    "other symptoms": "Ask patient and family about other symptoms the patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient currently work? Will the patient be able to attend follow-up appointments to complete CI programming? Does the patient participate in recreational or competitive sports?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient understand functional limitations associated with having a CI? For example -Patient must avoid static electricity(2) -Patient must remove external components before swimming or bathing(2)  -Patient must be aware of the potential of a CI to interact with electronics in the environment (i.e., various types of security systems, cellular phones, computer systems)(2)",
+                "living environment": "Document with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary? Does patient have access to transportation for follow-up  care?Assess patient\u2019s history of hearing loss and use of HAs and/or other amplification. What language(s) does the patient use at home, school, work, and/or within the community? When evaluating prelingually deafened adults, determine what type of communication system patient primarily uses (e.g., oral, total communication, sign language)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u2022Relevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Note patient\u2019s previous use of amplification and its effect on the patient\u2019s ability to hear and communicate. There are several factors that the CI team will consider when deciding which ear to implant. One consideration is whether or not both ears have received previous amplification and/or if one ear was more consistently amplified. Ears that have received consistent amplification are associated with better outcomes upon receiving a CI; therefore, if only one ear has received auditory input over time, that might be the preferred side to implant.(4) Another consideration is which ear has better hearing acuity; most often the ear with poorer hearing receives the CI.(5) Increasingly, patients have been shown to benefit from receiving bilateral CIs compared to unilateral CI.(8,9,54) Patients can undergo simultaneous bilateral implantation (in which both CIs are implanted in the same surgery) or sequential bilateral implantation (in which the second CI is implanted in a second surgery at a later date)(53) -In a systematic review and meta-analysis  with 42 unique studies, authors reported that unilateral cochlear implantation in adults with or without the supplementary use of HAs was effective in improving both speech perception and health-related  quality of life. Bilateral cochlear implantation provided added benefit and improved ability in speech perception as well as increased quality of life(33) -In a systematic review of English-language  studies published between October 2006 and March 2011, authors found that it was not possible to pool the data because of the heterogeneity of the studies. The level of evidence of the included studies was low, but all studies did show a significant benefit to sound localization from bilateral over unilateral CIs. Bilateral CIs were found to be beneficial for speech perception in noise, but there was no added benefit in quiet environments(36) -In a study conducted in Australia, researchers found that 9 adolescents and young adults benefitted from a second, sequentially implanted CI as evidenced by subjective reports and improved scores on listening tests(10) \u2013Even after the implantation of a CI, patients can benefit from simultaneous use of a hearing aid, FM system, or digital adaptive wireless radio transmission system to improve speech perception, especially in the presence of background noise(11,12,27) \u2013Document if patient wears glasses or uses any other type of assistive or adaptive deviceAudiological testing must be completed by a certified and licensed audiologist. The SLP should review the results of the patient\u2019s audiological testing prior to completion of speech-language  evaluationA patient\u2019s ability to hear calibrated pure tones is measured(13)Open-set spoken word recognition tests are frequently used to determine whether or not a patient is an appropriate CI candidate. In an open-set  spoken word recognition test, a patient is asked to identify a spoken word; there are no parameters for which words might be presented. If a patient is unable to display any word recognition on an open-set  spoken word recognition test, a less difficult closed-set  word recognition test might be administered. Closed-set  word recognition tests provide the patient with a list of words that might be presented. If preoperatively a patient receives an open-set  spoken word recognition score that is below the average score received by persons with CIs, the patient is considered a good CI candidate. At a minimum, the American Academy of Otolaryngology-Head  and Neck Surgery recommends that one monosyllabic word test and one sentence test be used to determine CI candidacy(4) -Consonant-Nucleus-Consonant  (CNC) words(46) -AzBio Sentence Test in Quiet (AzBioQ)(46) -Hearing in Noise Test (HINT)(46) Does the patient currently use HAs or another form of amplification? How has the patient benefited from his or her current amplification?(4)If the patient has not previously used amplification, a 3- to 6-month  trial period might be recommended(4)As part of an aural rehabilitation program for adults with hearing loss, it is important to assess the ways in which the hearing loss is affecting various areas of his or her life. How does the hearing loss affect the patient socially, emotionally, occupationally, and/or educationally? How does the hearing loss affect the patient\u2019s functional communication skills?(4) Measures that can be used to assess the impact of hearing loss on a patient and his or her quality(15) A questionnaire containing 25 items focusing on two areas hearing loss on the social adjustment and the emotional adjustment of the elderly(16) A questionnaire for use by persons under the age of 65 that contains 25 itemssocial handicap and emotional handicap. Also addresses vocational issues confronted by adults with hearing loss(17) A 12-item  scale that can be used to assess the social and emotional impact of hearing loss. A 5-point  scale is used (almost always, often, sometimes, rarely, never). A more significant handicap is indicated by a higher scoreComplete an oral motor assessment in order to rule out or identify any oral mechanism dysfunctionA patient who receives a CI is not able to hear immediately following surgery. Three to 5 weeks after surgery (when the physical healing has taken place), the patient receives the external components of the CI. At that time, the external processor is programmed by the patient\u2019s audiologist. Programming might require several visits to complete, and reprogramming is sometimes necessary if the patient experiences changes in his or her ability to hear over time. Electrodes are assigned specific sound frequencies. During programming, each electrode is programmed for a threshold level (the lowest level at which the patient responds to a sound sensation 100% of the time) and for the most comfortable level of loudness. Other parameters that can be adjusted during programming include global loudness levels and speed of transmission.(4) The CI will be programmed differently for each person to maximize speech perception depending on the individual patient\u2019s residual hearing abilities and audiogram thresholds and whether or not the person has one or two CIs or a CI and an HA(47) \u2013The technology available in CI processors is constantly improving; current models significantly decrease background noise interference, thereby improving speech perception(18)",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols \u203aDiagnosis/need for device/equipment:  A patient works in collaboration with a CI team to determine the appropriateness of a CI on an individual basis. Team members working with adult patients might include the CI surgeon, an otologist or otolaryngologist, an audiologist, an SLP, a family counselor/psychologist, an aural rehabilitation specialist (often an SLP with experience in this area of therapy), a neuropsychologist, and/or a vocational rehabilitation specialist(4,14)"
+            ],
+            "general": "A patient works in collaboration with a CI team to determine the appropriateness"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [
+            "Outcomes following implantation of a CI are highly variable and a patient should receive pre-implant  counseling to explain this fact(10)",
+            "Factors that influence outcomes include:(2) \u2013length of time that the patient has been deaf (shorter periods of deafness tend to lead to more positive outcomes)(2,4) \u2013age at time of deafness/hearing loss (individuals who were postlingually deafened typically have more positive outcomes)(2,4,32) \u2013length of time wearing implant (longitudinal studies of adults with CIs show that most improvements are made within the first 3 months of use)(2,19,32) \u2013patient\u2019s learning aptitude(2)  \u2013quality of support the patient has while learning new listening strategies(2) \u2013health and structure of the patient\u2019s cochlea(2) \u2013implanting variables (i.e., the depth and type of electrodes that have been implanted, signal processing technique)(2) \u2013patient\u2019s intelligence and ability to communicate his or her experience with the CI(2) \u2013patient\u2019s amount of residual hearing pre implant(4) \u2013patient\u2019s lip reading ability(4)",
+            "Postlingually deafened adults who receive multichannel CIs typically are able to accurately identify some words in an open-set  recognition task and demonstrate a strong ability to understand speech as soon as 3 months post implant(4)",
+            "Prelingually deafened adults who receive CIs usually are able to identify sounds in the environment; however, they usually are unable to identify words in an open-set task(4)",
+            "Authors of a review of literature on cochlear implantation in older adults (age 65+) found that there is a growing body of evidence that supports the use of CIs versus traditional HAs in older adults with poor speech recognition ability.(20) The authors of this review found that the cumulative or psychosocial effects of a person\u2019s hearing loss, not his or her age, should guide clinical decision making with respect to cochlear implantation. In addition, the authors of this review noted that following implantation, older adults did make improvements; however, they tended to make slower gains in speech perception and had lower scores on quality of life measurements than younger adults(20)",
+            "In a multicenter clinical trial conducted in the United States between February 2010 and June 2012 that included 38 adults with CI who were postlingually deafened, researchers reported significant improvements in both speech perception in quiet and noisy environments and quality of life 6 and 12 months after initial activation of the implants(46)",
+            "In a retrospective study conducted in Germany with a cohort of postlingually deafened adults(280 men and 358 women) who received CIs between July 1984 and September 2008, researchers found that men performed slightly better than women in speech recognition tests, especially in complex listening situations, such as those with background noise(21)",
+            "In a study conducted in the United States with two groups of CI recipients, researchers found differences in outcomes according to the age of the recipients. Participants in the study were divided a priori into older (60 years+) and younger (< 60 years) groups, with 20 participants in each of the two groups. The average length of deafness for the older group was 11.1 years and for the younger group it was 11.3 years; average length of implant use was 3.5 years for the older group and 4.4 years for the younger group. Researchers assessed speech recognition in quiet and noise, music perception, and health-related  quality of life for both groups. Speech recognition in both quiet and noise was significantly lower for the older group when compared to the younger group. Both groups had a significant drop in speech recognition in the noisy condition compared to the quiet condition. In general, music recognition was better for the younger group; however, the only significant difference in perception was with respect to timbre recognition (a complex musical concept that involves recognizing tone and quality of a musical note). In 3 of the 6 subdomains (advanced sound processing, self-esteem, and activity limitations) of health-related  quality of life there was no difference between the older and younger groups with respect to perceived benefit of the CI. In the subdomains of basic sound processing, speech production, and social interaction there were differences that approached significance, with the younger group exhibiting higher scores(45)",
+            "In a study involving 13 postlingually deafened adults with CIs ranging in age from 21 to 77 years, researchers in the United States examined the relationship between speech perception and music perception. The researchers found that CI users experience a limited quality and quantity of acoustic information that negatively affects their ability to process music. Results of this study further were 1) at least one third of the subjects found music to be unpleasant, 2) close to 50% of subjects perceived music to sound \u201cunnatural,\u201d 3) less than 50% of the subjects listened to music often, and 4) enjoyment of music was unrelated to the ability to perceive music(39)",
+            "Twenty-one  adults with unilateral CIs participated in a study conducted in Denmark that investigated the ability of CI users to perceive differences in prosody that provide a semantic contrast. The authors examined this ability in both quiet and noisy listening environments. Following conclusion of the study, the authors reported that study participants could not distinguish between prosodic differences that marked vowel length, word stress, compound words, or phrase minimal pairs as well as members of a control group with normal hearing (n = 10). Additionally, the ability to make these distinctions decreased in the presence of noise and with age (age range of study participants was 40-82  years). The authors concluded that CI users continue to have difficulty perceiving prosodic distinctions that affect speech comprehension in natural situations and that when considering CI candidacy older adults should be made aware of additional difficulties they might experience following implantation(41) ",
+            "In a study conducted in the United States, researchers compared the rate of progress between first ears receiving CIs and second ears (in the same individual) receiving a CI. Subjects included 21 adults who began the study with a single CI but had bilateral sequential CIs at the end of the study. This longitudinal study included testing prior to implantation of the second CI and after 1, 3, 6, 9, and 12 months of bilateral implant use. According to the authors of this study, bilateral performance was better than unilateral performance in sentence recognition in quiet, in sentence recognition in noise at a fixed signal-to-noise  ratio (SNR), and in sentence recognition during varied SNR. Additionally, within 3-6 months of implantation of the second ear, second ear outcomes should be similar to first ear. The authors also found that length of deafness significantly affects outcome performance so that a shorter time between the implantation of the first and second CI is optimal(43)",
+            "There is some evidence of cortical reorganization after cochlear implantation. Authors of a review of literature on cortical reorganization in cochlear implant recipients reported that there is some evidence of cortical reorganization in the auditory and visual cortex after cochlear implantation; however, due to limitations in the ability to measure brain activity in patients with cochlear implants (i.e., inability to perform MRI/fMRI), the evidence is limited(49)"
+        ],
+        "referral to other disciplines": "Patient should be referred to audiology if patient, patient\u2019s family, the SLP, or the aural rehabilitation specialist notice changes in hearing levels following implantation and programming(4)",
+        "other considerations": [],
+        "treatment summary": [
+            "Behavioral speech therapy: Three adults participated in a study conducted in the United States that examined the effectiveness of behavioral speech therapy for improving speech production in prelingually deafened adults. Prior to this study, the speech of each subject contained multiple errors despite being implanted for more than 3 years. The Arizona Articulation Proficiency Scale, Third Revision and the collection of at least 50 utterances per subject were used to test speech sound production before and after speech therapy. Results revealed that all 3 subjects\u2019 production of target sounds improved following treatment. These improvements indicate that implantation alone is not enough to maximize communication and speech production(42)",
+            "Focus of aural rehabilitation (AR) for adults with a CI:  Following the placement of a CI, AR might focus on: \u2013improving the patient\u2019s ability to interpret auditory information he or she is receiving through the implant(22) \u2013improving the patient\u2019s ability to recognize individual speech sounds through the auditory channel(22) \u2013improving the patient\u2019s ability to discriminate and identify individual words(22) \u2013improving the patient\u2019s conversational skills(22) \u2013improving the patient\u2019s speech, telephone skills, and ability to recognize music(22) \u2013improving the patient\u2019s self-advocacy  skills(22)",
+            "Research support for auditory training following a CI: \u2013Authors of a published review of the literature examining the effectiveness of auditory training following the implantation of a CI in adult patients found that not only did auditory training improve performance of specific, targeted goals, but improvements often generalized to other auditory tasks. For example, training a patient to identify phonetic contrasts led to improvements in the patient\u2019s ability to recognize sentences they heard. In follow-up  testing completed 1-2 months after treatment, patients continued to show improvements(19) \u2013In a pilot study conducted in the United States with 14 postlingually deafened adults with CIs, researchers investigated the effectiveness of an auditory training program in which the members of the experimental group were trained in phoneme identification by listening to multiple speakers. The experimental group consisted of 9 subjects and the remaining 5 subjects served as a pseudocontrol group (this group was highly heterogenous and did not undergo any specific auditory training). In this study, phonemic discrimination between the trained contrasting sounds (/ba/-/da/  and /wa/-/ja/) significantly improved in the experimental group only; however, researchers cautioned against drawing firm conclusions due to the heterogeneity of the group and small study size(51)",
+            "Computer-Assisted  Speech Training (CAST)  (23) \u2013CAST is a computer program that allows individuals with CIs to engage in auditory rehabilitation using their home computer. CAST targets the specific needs of individuals with CIs in a cost-effective  manner. Progress can be monitored and shared with the individual\u2019s SLP and/or other professionals \u2013Authors of a published review of the literature reveal that CAST has been shown to improve recognition of phonemes, melodic sequences, and Chinese tones. Improved performance continued to be evidenced 1-2 months after training was completed(23)  \u2013In a study conducted in the United Kingdom involving 11 postlingually deafened adults who had used CIs for at least 3 years, researchers found that after 3 weeks of CAST (1 hour, 5 days per week) there was a significant improvement in consonant discrimination(24)",
+            "Computerized speech-in-noise  training : In a study conducted in the United States with 5 postlingually deafened adult CI recipients, researchers found that a short-term  computerized speech-in-noise  training program resulted in significantly improved perception of speech in noisy conditions.(35) Training consisted of four 1-hour sessions over the course of 4 days. Researchers noted that in addition to the small sample size, their study group was very heterogeneous; although the results are promising, the results need to be replicated in a much larger and more controlled study(35)",
+            "Visual memory training : In a study conducted in the United States with 10 postlingually deafened adults with 6 months\u2019 or more experience using a CI(s), researchers found that visual memory training improved visual memory scores but not auditory perception skills. Study subjects completed a 10-hour  training program at home on a computer that targeted visual digit span (VDS) memory; after the training was complete, follow-up  measures were completed in the laboratory and indicated significant improvement in VDS tasks but not in auditory digit span or Hearing in Noise Test (HINT) sentence recognition in noise, digit recognition in noise, or phoneme recognition in quiet(30)",
+            "Use of a neck-loop  FM receiver with CIs: Four adolescents and 10 adults with unilateral or bilateral CIs (with Freedom sound processors) participated in a study conducted in the United States. The authors of this study examined the effects of using electromagnetically coupled frequency modulation (FM) neck-loop  receivers in listening situations that typically are difficult for CI users (e.g., noisy environments).Subjects completed a scale used to measure their auditory performance in different situations (e.g. home, work/school, social) before and after a 4- to 6-week  trial of FM use. Subjects were asked to use the FM systems for a minimum of 1-2 hours per day and to record their experiences in a journal. Following the study, the authors reported that coupling an FM receiver to the Freedom sound processor component of a CI results in 1) speech recognition in noise that is significantly improved; 2) reports by subjects of significantly improved listening in situations with noise, reverberation, and distance from the speaker; and 3) high satisfaction ratings regarding the use of the FM system. The FM systems were judged to be most useful in noisy situations at home, school, or work and during social communication at locations such as restaurants, theaters, religious services, and parties(40) . Problem Goal Intervention Expected Progression Home Program  Poor communication environmentImprove communication environmentEnvironmental modifications   (14)",
+            "Reducing background noise levels(14)",
+            "Decrease distance between speaker and listener(14)",
+            "Optimize lighting to support speech-reading cues (in speech- reading, the listener looks at the speaker\u2019s face in order to help him or her understand what is being said)(14)",
+            "Request that the speaker talk with greater clarity and/or use a microphone if appropriate(14)",
+            "In the home, arrange furniture so that conversational partners are able to sit face-to- face(25)",
+            "Arrange lighting so that speakers\u2019 faces can easily be seen(25)",
+            "Place carpeting so that it can absorb background noise(25)Patient will modify his or her environment when possible to enhance communicationPatient will use these strategies across communication environments  Poor communication strategiesImprove communication strategiesOptimal communication strategies   (14)",
+            "Patient will not mask visible speech by blocking face with hand or head movements(14)",
+            "Patient will use optimal speech intensities (volumes)(14)",
+            "Patient will know when to ask for a \u201crephrase\u201d of information rather than a \u201crepeat\u201d of information(25)",
+            "Patient will know when to ask questions to clarify understanding(25)Initially, train the patient to use the strategies in words; as the patient\u2019s skill and accuracy improves, increase to phrases, sentences, and conversational level speech in an increasing variety of environmentsPatient will use these strategies across communication environments Patient\u2019s communication partner uses poor speech habitsImprove communication partner\u2019s speech habitsCommunication partner speech habits (14)",
+            "Encourage communication partner to decrease rate of speech if it is naturally too fast(14)",
+            "Encourage communication partner to clearly enunciate without over articulating(14)",
+            "Encourage communication partner to get patient\u2019s attention before speaking(25)Communication partner will modify speech habitsCommunication partner will use modified speech habits across communication environments  Patient is unable to rely upon auditory information to understand communicationPatient will use visual information to assist in comprehending a spoken messageUse of visual cues",
+            "Patient might be trained in speech- reading techniques (how to identify which sounds are being spoken based upon how they are made on the speaker\u2019s lips)(25)",
+            "Attend to facial expression, gestures, body movement, and body language to clarify a message(25)",
+            "Attend to the physical environment, the context of the conversation, and the people involved in order to gain information on what has been said or is likely to be said(25)Initially, train the patient to recognize cues in syllables and words; as the patient\u2019s skill and accuracy improves, increase to phrases, sentences, and conversational level speechPatient will use visual cues across communication environments Poor auditory recognition of sounds, words, sentences, melodic information, and speech in conversationImprove auditory recognition skillsComputer-Assisted Speech Training (CAST) _ Computer-based training focusing on the recognition of pure tones, environmental sounds, monosyllabic words, consonants, familiar words, familiar sentences, simple melodic sequences, familiar melodies, and listening in difficult (noisy) environments(23)Patient will advance to more difficult material as he or she experiences success at preceding levelsTraining is to be done on the patient\u2019s home computer. Results and progress easily shared with the patient\u2019s audiologist, SLP, etc.  Poor awareness of developing auditory skills following implantationImprove self- monitoring skillsQuestions for CI users to consider to improve self-monitoring of auditory skills include: _ 1.Can I detect sound?(44) 2.Can I make distinctions between the pitch, duration, and loudness of two sounds?(44) 3.Can I identify the number of syllables in a word?(44) 4.Can I identify a word given a context?(44) 5.Can I identify a phrase or sentence within a specific context?(44) 6.Can I identify what has been said out of context?(44)Progress from identifying words to identifying phrases and sentences within context and then without contextual cuesCI user can use these questions for self-reflection in all communication situations ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "increased sound awareness": [],
+        "improved speech recognition  i.e., the ability to understand  spoken language": [
+            "Speech perception measures can measure changes in a patient\u2019s word and sentence recognition skills"
+        ],
+        "improved quality of life": [
+            "Hearing handicap measures or quality of life measures will measure social and emotional outcomes of a CI as well asability to perform in \"real-world\u201d communication environments(19)\u2013GBI\u2013Hearing Handicap Questionnaire\u2013Hearing Handicap Inventory for Adults\u2013Hearing Handicap Inventory for the Elderly\u2013World Health Organization Quality of Life (WHOQOL-BREF)  generic assessment questionnaire(50)"
+        ]
+    },
+    "maintenance or prevention": [
+        "In order to properly care for a CI: Patient should have regular audiological visits to determine any change in hearing ability that would require reprogramming or to update the software in the CI to optimize speech recognition(26) Patient must avoid static electricity(2) Patient must remove external components before swimming or bathing(2) Patient must be aware of potential of CI to interact with electronics in the environment (e.g., various types of security systems, cellular phones, computer systems)(2) "
+    ],
+    "patient education": [
+        "See Patient Information about CIs from the National Institute on Deafness and Other Communication Disorders at https://www.nidcd.nih.gov/health/cochlear-implants",
+        "See the American Speech-Language-Hearing  Association\u2019s Cochlear Implant Quick Facts at https://www.asha.org/public/hearing/cochlear-implant/",
+        "Information for patients and support for CI users is available on the Cochlear (Australian developer and manufacturer of CIs) website at https://www.cochlear.com/au/home/understand/understand Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Cochlear implants. National Institute on Deafness and Other Communication Disorders Web site. https://www.nidcd.nih.gov/health/cochlear-implants . Published August 18,"
+        },
+        {
+            "number in article": 2014,
+            "reference": " Accessed March 5, 2018. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Cochlear implants. U.S. Food and Drug Administration Web site. http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/ImplantsandProsthetics/CochlearImplants/ default.htm . Published October 28, 2015. Accessed March 5, 2018. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Cochlear implants. Mayo Clinic Web site. http://www.mayoclinic.org/cochlear-implants/ . Accessed March 5, 2018. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Working Group on Cochlear Implants. Cochlear implants [technical report]. American Speech-Language-Hearing  Association Web site. http://www.asha.org/policy/TR2004-00041/ . Published 2004. Accessed March 5, 2018. doi:10.1044/policy.TR2004-00041.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Niparko JK, Lingua C, Carpenter RM. Assessment of candidacy for cochlear implantation. In: Niparko JK, ed. Cochlear Implants: Principles & Practices . 2nd ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Williams; 2009:137-146.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Klop WM, Briaire JJ, Stiggelbout AM, Frijins JH. Cochlear implant outcomes and quality of life in adults with prelingual deafness. Laryngoscope . 2007;117(11):1982-1987.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Almond M, Brown DJ. The pathology and etiology of sensorineural hearing loss and implications for cochlear implantation. In: Niparko JK, ed. Cochlear Implants: Principles & Practices. 2nd ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams and Williams; 2009:43-82.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Tucci DL, Pilkington TM. Medical and surgical aspects of cochlear implantation. In: Niparko JK, ed. Cochlear Implants: Principles & Practices . 2nd ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Williams; 2009:161-186.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Tyler RS, Witt SA, Dunn CC, Perreau A, Parkinson AJ, Wilson BS. An attempt to improve bilateral cochlear implants by increasing the distance between electrodes and providing complementary information to the two ears. J Am Acad Audiol . 2010;21(1):52-65.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Galvin KL, Hughes KC, Mok M. Can adolescents and young adults with prelingual hearing loss benefit from a second, sequential cochlear implant? Int J Audiol . 2010;49(5):368-377.  . doi:10.3109/14992020903470767. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "McDermott H, Henshall K. The use of frequency compression by cochlear implant recipients with postoperative acoustic hearing. J Am Acad Audiol . 2010;21(6):380-389. doi:10.3766/jaaa.21.6.3. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Fitzpatrick EM, Fournier P, S\u00e9guin C, Armstrong S, Ch\u00e9nier J, Schramm D. Users' perspectives on the benefits of FM systems with cochlear implants. Int J Audiol . 2010;49(1):44-53.  doi:10.3109/1499202090320251. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Working Group on Manual Pure-Tone  Threshold Audiometry. Guidelines for manual pure-tone  threshold audiometry. American Speech-Language-Hearing  Association Web site. http://www.asha.org/policy/GL2005-00014/ . Published 2005. Accessed March 5, 2018. doi:10.1044/policy.GL2005-00014.  (G)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Hull RH. 15 principles of consumer-oriented  audiologic/aural rehabilitation. ASHA Lead . 2007;12(3):6-7,  16-17. (X)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Ventry IM, Weinstein BE. The hearing handicap inventory for the elderly: a new tool. Ear Hear. 1982;3(3):128-134.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Newman CW, Weinstein BE, Jacobson GP, Hug GA. The Hearing Handicap Inventory for Adults: psychometric adequacy and audiometric correlates. Ear Hear. 1990;11(6):430-433.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Gatehouse S, Noble W. The Speech, Spatial and Qualities of Hearing Scale (SSQ). Int J Audiol . 2004;43(2):85-99.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Gifford RH, Revit LJ. Speech perception for adult cochlear implant recipients in a realistic background noise: effectiveness of preprocessing strategies and external options for improving speech recognition in noise. J Am Acad Audiol . 2010;21(7):441-451.  doi:10.3766/jaaa.21.7.3. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Fu QJ, Galvin JJ, III. Maximizing cochlear implant patients' performance with advanced speech training procedures. Hear Res . 2008;242(1-2):198-208.  doi:10.1016/ j.heares.2007.11.010. (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Clark JH, Yeagle J, Arbaje AI, Lin FR, Niparko JK, Francis HW. Cochlear implant rehabilitation in older adults: literature review and proposal of a conceptual framework. J Am Geriatr Soc . 2012;60(10):1936-1945.  doi:10.1111/j.1532-5415.2012.04150.x.  (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Lenarz M, S\u00f6nmez H, Joseph G, B\u00fcchner A, Lenarz T. Effect of gender on the hearing performance of adult cochlear implant patients. Laryngoscope . 2012;122(5):1126-1129. doi:10.1002/lary.23214. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "UNC Adult Cochlear Implant Program. Aural Rehabilitation. Aural rehabilitation/speech-language  therapy after a cochlear implant. UNC School of Medicine Web site. https://www.med.unc.edu/ent/adultcochlearimplant/patient-resources/aural-rehabilitation/ . Accessed May 17, 2018. (GI)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Fu QJ, Galvin JJ, III. Computer-assisted  speech training for cochlear implant patients: feasibility, outcomes, and future directions. Semin Hear . 2007;28(2):142-150,  C1-10. doi:10.1055/s-2007-973440.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Stacey PC, Raine CH, O'Donoghue GM, Tapper L, Twomey T, Summerfield AQ. Effectiveness of computer-based  auditory training for adult users of cochlear implants. Int J Audiol. 2010;49(5):347-356.  doi:10.3109/14992020903397838. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Adult aural/audiologic rehabilitation. American Speech-Language-Hearing  Association Web site. http://www.asha.org/public/hearing/treatment/adult_aur_rehab.htm . Accessed March 5, 2018. (X)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Holmes AE, Shrivastav R, Krause L, Siburt HW, Schwartz E. Speech based optimization of cochlear implants. Int J Audiol . 2012;51(11):806-816. doi:10.3109/14992027.2012.705899. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Wolfe J, Morais M, Schafer E, et al. Evaluation of speech recognition of cochlear implant recipients using a personal digital adaptive radio frequency system. J Am Acad Audiol . 2013;24(8):714-724.  doi:10.3766/jaaa.24.8.8. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Lundin K, N\u00e4svall A, K\u00f6bler S, Linde G, Rask-Andersen  H. Cochlear implantation in the elderly. Cochlear Implants Int . 2013;14(2):92-97. doi:10.1179/1754762812Y.0000000006. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Roberts DS, Lin HW, Herrmann BS, Lee DJ. Differential cochlear implant outcomes in older adults. Laryngoscope . 2013;123(8):1952-1956.  doi:10.1002/lary.23676. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Oba SI, Galvin JJ, III, Fu QJ. Minimal effects of visual memory training on auditory performance of adult cochlear implant users. J Rehabil Res Dev . 2013;50(1):99-110.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Jeppesen J, Faber CE. Surgical complications following cochlear implantation in adults based on a proposed reporting consensus. Acta Otolaryngol . 2013;133(10):1012-1021. doi:10.3109/00016489.2013.797604. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Blamey P, Artieres F, Ba#kent D, et al. Factors affecting auditory performance of postlinguistically deaf adults using cochlear implants: an update with 2251 patients. Audiol Neurootol . 2013;18(1):36-47.  doi:10.1159/000343189. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Gaylor JM, Raman G, Chung M, et al. Cochlear implantation in adults: a systematic review and meta-analysis.  JAMA Otolaryngol Head Neck Surg . 2013;139(3):265-272. doi:10.1001/jamaoto.2013.1744. (M)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Sanchez-Cuadrado  I, Lassaletta L, Perez-Mora  RM, et al. Is there an age limit for cochlear implantation?. Ann Otol Rhinol Laryngol . 2013;122(4):222-228.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Ingvalson EM, Lee B, Fiebig P, Wong PC. The effects of short-term  computerized speech-in-noise  training on postlingually deafened adult cochlear implant recipients. J Speech Lang Hear Res . 2013;56(1):81-88.  doi:10.1044/1092-4388(2012/11-0291).  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "van Schoonhoven J, Sparreboom M, van Zanten BG, et al. The effectiveness of bilateral cochlear implants for severe-to-profound  deafness in adults: a systematic review. Otol Neurotol. 2013;34(2):190-198.  doi:10.1097/MAO.0b013e318278506d. (SR)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Levy N. Reconsidering cochlear implants: the lessons of Martha\u2019s Vineyard. Bioethics. 2002;16(2):134-153.  doi:10.1111/1467-8519.00275.  (X)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Crouch RA. Letting the deaf be deaf: reconsidering the use of cochlear implants in prelingually deaf children. Hastings Cent Rep . 1997;27(4):14-21.  doi:10.2307/3528774. (X)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Cheng MY, Spitzer JB, Shafiro V, Sheft S, Mancuso D. Reliability Measure of a Clinical Test: Appreciation of Music in Cochlear Implantees (AMICI). J Am Acad Audiol . 2013;24(10):969-979.  doi:10.3766/jaaa.24.10.8. (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Schafer EC, Huynh C, Romine D, Jimenez R. Speech Recognition and Subjective Perceptions of Neck-Loop  FM Receivers with Cochlear Implants. Am J Audiol . 2013;22(1):53-64.  doi:10.1044/1059-0889(2012/11-0032).  (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Morris D, Magnusson L, Faulkner A, Jonsson R, Juul H. Identification of Vowel Length, Word Stress, and Compound Words and Phrases by Postlingually Deafened Cochlear Implant Listeners. J Am Acad Audiol . 2013;24(9):879-890.  doi:10.3766/jaaa.24.9.11. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Pomaville FM, Kladopoulos CN. The effects of behavioral speech therapy on speech sound production with adults who have cochlear implants. J Speech Lang Hear Res . 2013;56(2):531-541.  doi:10.1044/1092-4388(2012/12-0017).  (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Reeder R, Firszt J, Holden LK, Strube MJ. A longitudinal study in adults with sequential bilateral cochlear implants: time course for individual ear and bilateral performance. J Speech Lang Hear Res . 57(3):1108-1126.  doi:10.044/2014_JSLHR-H-13-0087.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Rentmeester L. Hear Our Voices. Getting a cochlear implant as an adult and tips for rehabilitation. Volta Voices . 2014;21(5):40-41.  (X)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Sladen DP, Zappler A. Older and younger adult cochlear implant users: speech recognition in quiet and noise, quality of life, and music perception. Am J Audiol . March 2015;24(1):31-9.  doi:10.1044/2014_AJA-13-0066.  (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Runge CL, Henion K, Sergey T, Beiter A, Zwolan TA. Clinical Outcomes of the CochlearTM Nucleaus\u00ae 5 Cochlear Implant System and SmartSoundTM 2 Signal Processing. J Am Acad Audiol . 2016;27(6):425-440.  doi:10.3766/jaaa.15021. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Fowler JR, Eggleston JL, Reavis KM, McMillan GP, Reiss LA. Effects of removing low-frequency  electric information on speech perception with bimodal hearing. J Speech Lang Hear Res . 2016;59(1):99-109.  doi:10.1044/2015_JSLHR-H-15-0247.  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Gonzalez-Navarro  M, Manrique-Huarte  R, Manrique-Rodriguez  M, Huarte-Irujo  A, Perez-Fernandez  N. -term follow-up of late onset vestibular complaints in patients with cochlear implant. Acta Otolaryngol. 2015;135(12):1245-52.  doi:10.3109/00016489.2015.1072874. (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Stropahl M, Chen LC, Debener S. Cortical reorganization in postlingually deaf cochlear implant users: Intra-modal  and cross-modal  considerations. Hear Res. July 26, 2016. doi:10.1016/j.heares.2016.07.005. (RV)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Angelo TC, Moret AL, Costa OA, Nascimento LT, Alvarenga Kde F. Quality of life in adult cochlear implant users. Codas. April 2016;28(2):106-12. doi:10.1590/2317-1782/20162015097.  (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Miller SE, Zhang Y, Nelson PB. Efficacy of Multiple-Talker  Phonetic Identification Training in Postlingually Deafened Cochlear Implant Listeners. J Speech Lang Hear Res. February 2016;59(1):90-8.  doi:10.1044/2015_JSLHR-H-15-0154.  (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Ibrahim I, da Silva SD, Segal B, Zeitouni A. Effect of cochlear implant surgery on vestibular function: meta-analysis  study. J Otolaryngol Head Neck Surg . June 8, 2017;46(1):44. doi:10.1186/s40463-017-0224-0.  (M)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Kraaijenga VJC, Ramakers GGJ, Smulders YE, et al. Objective and Subjective Measures of Simultaneous vs Sequential Bilateral Cochlear Implants in Adults: A Randomized Clinical Trial. JAMA Otolaryngol Head Neck Surg . September 1, 2017;143(9):881-890.  doi:10.1001/jamaoto.2017.0745. (RCT)"
+        },
+        {
+            "number in article": 54,
+            "reference": "van Zon A, Smulders YE, Stegeman I, et al. Stable benefits of bilateral over unilateral cochlear implantation after two years: A randomized controlled trial. Laryngoscope . May 2017;127(5):1161-1168.  doi:10.1002/lary.26239. (RCT)"
+        }
+    ]
+}

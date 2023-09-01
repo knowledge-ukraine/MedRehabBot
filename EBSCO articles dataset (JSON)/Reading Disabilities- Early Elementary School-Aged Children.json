@@ -1,0 +1,422 @@
+{
+    "metadata": {
+        "title": "Reading Disabilities  Early Elementary-School-Aged Children",
+        "synonyms": [
+            "reading disorder  early elementary-school-aged  children"
+        ],
+        "anatomical location body part affected": [
+            "There is evidence that some individuals with reading difficulties have a disorder of phonological processing and demonstrate a disruption of left hemisphere posterior brain systems while performing reading tasks (in studies using functional magnetic resonance imaging [fMRI]).(1) This Clinical Review does not address reading difficulties caused by visual processing or other vision disturbances"
+        ],
+        "area of specialty": [
+            "child speech and language disorders",
+            "learning disabilities"
+        ],
+        "description": [
+            "A single description of reading disabilities is complicated by the different causes of reading difficulties, the different labels for reading disabilities (e.g., dyslexia, learning disability [LD]), and different models for identification (see Diagnostic tests completed , below). In this summary, \u201creading disabilities\u201d include difficulty with any of the language-based/linguistic  components of reading that would not be expected for a child\u2019s age and/or developmental level. These components include phonological awareness, decoding, sight-word  recognition, reading fluency, spelling, and reading comprehension"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "F81.0": "specific reading disorder",
+            "F81.89": "other developmental disorders of scholastic skills (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "A child with a reading disability might present with the following:",
+            "Poor phonological and phonemic awareness skills(2,38,42)",
+            "Difficulty reading sight words and difficulty decoding words(2)",
+            "Slow and disconnected oral reading(2)",
+            "Difficulty with spelling(3)",
+            "Difficulty understanding what he or she just read (reading comprehension)(4)",
+            "Delayed speech and language skills",
+            "Deficient listening comprehension(36) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "The speech-language  pathologist (SLP) needs to be aware of cultural considerations when assessing communicative functioning and when developing treatment goals. Communication and literacy needs of the child should be considered with respect to the cultural, familial, and community setting",
+            "Vision loss should be identified or ruled out before a speech-language  and reading evaluation",
+            "A team approach is often used in schools to evaluate reading disabilities. Depending on the specific needs of the child, the assessment team might include an educational psychologist, a special education teacher, a general education teacher, an SLP, an occupational therapist (OT), a physical therapist (PT), and a school counselor",
+            "The SLP should consider the language abilities of the child and the language that the child speaks at home when evaluating reading ability. For detailed information on evaluating bilingual school-aged  children, please see Clinical Review\u2026 Language Disorders: Bilingual School-Aged  Children ; CINAHL Topic ID Number: T709066"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "No single cause of reading difficulties has been established, but there is strong consensussupporting a deficit in phonology as the underlying origin.(1,4) The phonological theoryrecognizes that, unlike speech and language, reading is not naturally developing orinherent and must be taught. Furthermore, children who have poor phonological andphonemic awareness have difficulty recognizing, identifying, and manipulating soundswithin spoken language, placing them at risk for having reading difficulties(4,5)\u2013Authors of a meta-analysis  in Norway of the relationship between three measures of children's phonological skills(phonemic awareness, rime awareness, and verbal short-term  memory) and children's word-reading  skills found thatphonemic awareness was the strongest correlate of individual differences in word-reading ability.(6) Phonemic awarenessrefers to the ability to hear, identify, and manipulate individual sounds in spoken words. The authors of this review alsoconcluded that this relationship is a causal one and that adequate phonemic skills are a prerequisite for learning to readeffectively",
+            "Poor listening comprehension has been shown to negatively influence reading comprehension even in the early grades(36)"
+        ],
+        "pathogenesis": [
+            "Children with reading difficulties will most likely not be identified until kindergarten or the early grades. Some childrenwith reading difficulties exhibit speech or language delays at an earlier age"
+        ],
+        "risk factors": [
+            "Genetic predisposition/family history of reading difficulties/dyslexia(1,46,48)",
+            "Environmental factors such as a language-impoverished  environment, poverty, and/or poor instruction(1,5)",
+            "Low proficiency in the language of instruction(7)",
+            "Younger parental age at child's birth(45)",
+            "Lower parental education(45)",
+            "Children with speech sound and language disorders are at risk for having weaknesses in quality and accessibility ofphonological representations, leading to difficulties in phonological awareness and reading.(8,46) For detailed informationon speech-sound  disorders and developmental language disorders, see the series of Clinical Reviews on these topics"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "N/A"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "The speech-language  pathologist (SLP) needs to be aware of cultural considerations when assessing communicative functioning and when developing treatment goals. Communication and literacy needs of the child should be considered with respect to the cultural, familial, and community setting",
+            "Vision loss should be identified or ruled out before a speech-language  and reading evaluation",
+            "A team approach is often used in schools to evaluate reading disabilities. Depending on the specific needs of the child, the assessment team might include an educational psychologist, a special education teacher, a general education teacher, an SLP, an occupational therapist (OT), a physical therapist (PT), and a school counselor",
+            "The SLP should consider the language abilities of the child and the language that the child speaks at home when evaluating reading ability. For detailed information on evaluating bilingual school-aged  children, please see Clinical Review\u2026 Language Disorders: Bilingual School-Aged  Children ; CINAHL Topic ID Number: T709066"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document when reading difficulties were first noticed. Who referred the child for an evaluation?",
+                "course of treatment": {
+                    "medical management": "Determine whether or not the child is receiving medical care",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed, if any; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Diagnostic tests will depend on the model used by the school or clinic to identify a reading disability",
+                        "Dyslexia has been defined as an unexpected reading difficulty in a child who appears to have all of the factors necessary to be a good reader: intelligence, motivation, exposure to good language input, and exposure to adequate reading instruction.(4) Traditionally, the diagnoses of dyslexia and LD have been made based on a discrepancy in  intelligence quotient (IQ) scores and reading achievement scores (reading measures are at least 1.5 standard score below IQ standardized score)(4)",
+                        "Another model approved for use by school districts by the U.S. Individuals with Disabilities Education Act (IDEA) of 2004 for both the prevention and identification of LD is the Response to Intervention (RTI) model.(7) This model includes 1) screening all children for reading difficulties, 2) monitoring the progress of children at risk for reading",
+                        "disabilities, and 3) providing increasingly intensive interventions based on the results of progressmonitoring assessments. When a child does not respond adequately to intensive intervention, he or she might be referred for a comprehensive evaluation for eligibility for special education services. Within this model, three criteria are important",
+                        "for identifying a learning disability: 1) low achievement on normreferenced tests, 2) low response to evidence-based instruction, and 3) confirmation that low achievement is not due to other factors or another disability (e.g., intellectual disability, sensory disorder, limited language proficiency)(7)",
+                        "Diagnostic tests might include comprehensive speech and language testing, cognitive testing, and reading assessment (see Relevant tests and measures , below, for more information)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies and whether they help. Do the parents assist the child with reading at home? Do the parents read to the child?",
+                    "previous therapy": "Document whether child has had speech therapy or other intervention for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Does the child have hearing or vision difficulties? -Does the child have difficulties with speech or language?",
+                "body chart": "",
+                "nature of symptoms": " Nature of symptoms -Does the child read slowly or have difficulty reading?(3) -Does the child have an aversion to reading and try to avoid reading at home or at school?(3) -Does the child have difficulty spelling?(3) -Was the child delayed in speaking? -Does the child have difficulty relating past events, telling stories, or explaining? -Does the child have frequent mispronunciations or difficulty with word retrieval, or need extra time to provide an oral response?(4)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night)",
+                "sleep disturbance": "Does the child have sleep difficulties that affect school performance?",
+                "other symptoms": "Document other symptoms the child is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician or social worker (e.g., behavior problems, seizures, difficulty sleeping)",
+                "respiratory status": "Note history of respiratory status as neededDocument if there are any psychosocial issues or behavioral problems -Authors of a study conducted in Norway with 26 children with dyslexia and an age-matched  control group of typically developing children found that teachers reported significantly more behavioral problems in the children with dyslexia. Reported problems included attention problems, social problems, aggressive behaviors, depressive behaviors, and withdrawal(40) -In a study conducted in Italy with 45 children ages 8 to 11, researchers compared results from self-reported  psychosocial questionnaires between typically developing children (n = 15) and those with nonverbal learning disabilities (n = 15) or reading disabilities (n = 15). The children with nonverbal learning disabilities and reading disabilities reported having significantly more symptoms of generalized and social anxiety than the typically developing children. The children with reading disabilities reported significantly more symptoms of depression than did the children in either of the other two groups(49)Does the child have a history of ear infections? Has the child had a recent hearing evaluation? Does the child have difficulties with sound localization or auditory discrimination, or have difficulty understanding despite having normal hearing? Many, but not all, individuals with a reading disability also exhibit symptoms of auditory processing deficits.(41,47) Refer to an audiologist for a hearing evaluation or auditory processing evaluation as needed. For detailed  information on auditory processing disorder (APD), please see Clinical Review\u2026Auditory Processing Disorder inT708565 Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Is there a history of developmental delay in any area?",
+                    "comorbid diagnoses": "Ask patient or patient\u2019s family about other problems, including communication problems, intellectual disability, epilepsy, and hearing impairment Authors of a study conducted in Iran with 1,000 male students from 20 different schools in grades 1 through 5 reported that the rate of dyslexia was significantly higher among children who were obese and overweight as compared to children who were not overweight(39)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient or patient\u2019s family about other symptoms the patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include receive tutoring or intervention services? If so, are they home, school, or clinic based? Does the child enjoy reading activities/avoid reading activities? What is the child\u2019s performance in other academic subjects (e.g., math, social studies)?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Obtain information on adaptive behaviors (as needed) and any adaptive equipment the child is using for reading, including text-to-speech software",
+                "living environment": "Does the child\u2019s living environment support literacy development? What language(s) are spoken in the home? Does the child display literacy skills in the home language?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": " Speech and language examination (including reading)If there are concerns about speech/articulation ability, a standardized test or an informal (nonstandardized) speech sample can be used to determine sound errors. For specific sound errors, an analysis of the number of omissions, substitutions, distortions, and additions can be completedIf there are concerns about the child's language ability, assessment should include a combination of formal and informal measuresThe following are some examples of standardized language evaluations for(9) A norm-referenced comprehensive language test (expressive and receptive language) for ages 5 years to 21 years, 11 months(10) A norm-referenced comprehensive language test (expressive and receptive language) for ages 4 years to 8 years, 11 months(11) A standardized measure of receptive vocabulary for children from the age of 2 years, 6 months to 90+ (12) A norm-referenced  test of narrative comprehension and oral narration for ages 5 years to 11 years, 11 monthsInformal language measures include analyses of narrative samples, conversational samples, or classroom observations -Authors of a study conducted in the Netherlands with 1,267 children ages 8 to 13 found that children with a reading disability had significantly impaired alphanumeric rapid automatized naming abilities compared to both typically developing children and children with specific language impairment(38)Provide a voice evaluation if there is indication of a voice disorderProvide a fluency evaluation is there is indication of a fluency disorderThe components of the reading evaluation will depend on the age of the child and his or her developmental level. These components include letter identification, letter-sound  identification, phonemic and phonological awareness skills, site word reading, fluency, and reading comprehension. The following are examples of types of standardizedOne common system of screening literacy skills from kindergarten to the sixth grade is the Dynamic Indicators of Basic Early Literacy Skills (DIBELS). DIBELS assesses phonological awareness, alphabetic principle knowledge, reading fluency, vocabulary, and comprehension. Further description of DIBELS and assessments are//dibels.uoregon.edu/assessmentDynamic assessment refers to a process by which the examiner teaches a task and/or provides explicit response, thereby facilitating the child's performance. The child's independent performance on a task is compared with the child's performance on the same task after scaffolding or instruction -The use of dynamic screening measures for phonological awareness has been suggested for identifying kindergarten students who are at risk for reading difficulties.(13) Because kindergarten students often lack literacy experience at the beginning of kindergarten, static measures can demonstrate floor effects and limit the ability to predict future reading disabilities in this population. Research in the United States comparing a static measure with a dynamic measure of phonological awareness with kindergarten students (N = 186) showed that a dynamic screening measure more accurately predicted end-of-year  reading achievement than static measures, providing preliminary support for the usefulness of a dynamic screening measure(13) -Authors of a study conducted in the United States investigating the use of a dynamic assessment measure to evaluate inference-making  skills in second-grade  students (N = 100) found that the researcher-developed measures correlated significantly with standardized measures of reading and explained a significant amount of unique variance in reading comprehension above and beyond vocabulary and word-identification skills(14)(15) An individually administered test designed to measure phonemic awareness, phonological memory, and rapid naming for children from the age of 5 years(16) The WJ-III  DRB includes 10 individually administered, norm-referenced  subtests for reading (Letter-Word Identification, Passage Comprehension, Word Attack, Reading V ocabulary, Reading Fluency, Spelling of Sounds, Sound Awareness, Sound Blending, Oral V ocabulary, Oral Comprehension) for children from the age of 2 years(17) The TOWRE contains two subtests that measure individual phonemic decoding and sight-word  reading skills for children from the age of 6 years(37) A measure of early reading abilities for children from the age of 3 years, 6 months to 8 years, 6 months",
+            "neurological examination": "",
+            "oral structure and oral motor function": "Assesses the child\u2019s oral motor skills during speech, imitation of motor movements, diadochokinesis tasks, and strength testing tasks in order to identify or rule out a motor-based speech-language  disorder",
+            "perception": "",
+            "arousal attention cognition": "Has the child received cognitive testing by a psychologist or psychiatrist? Document results of any cognitive evaluation. Authors of a meta-analysis  that included 48 studies of cognitive abilities in children with and without reading disabilities found that the results indicated that cognitive deficits (specifically verbal working memory, visual-spatial  memory, executive functioning, and short-term  memory) were present in children with reading disabilities as compared to those without reading disabilities.(44) One example of a cognitive test used in children with dyslexia is the Wechsler Intelligence Scale for Children \u2013 Fourth Edition (WISC-IV)(50)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "N/A"
+            ]
+        },
+        "diagnosis need for treatment": "A comprehensive reading evaluation will determine the need for and goals for treatment",
+        "rule out": " Rule out Hearing loss Difficulty with English language due to second-language  acquisition  Vision difficulties Lack of adequate reading instruction",
+        "prognosis": [
+            "Early intervention for reading is supported not only by treatment effects in multiple research studies, but also by fMRI studies indicating that systematic, evidence-based  reading intervention can lead to significant and lasting changes in brain organization(5)",
+            "Differences in academic achievement between children with dyslexia and typically developing children begin as early as first grade and persist, especially without intervention for reading. Children who do not receive adequate early intervention are at risk for academic problems throughout high school and beyond. Poor academic achievement in children with dyslexia is associated with lower rates of high school graduation, lower rates of employment, and lower income levels(52)",
+            "In a study conducted in Switzerland with 129 children with mild or moderate intellectual disability, researchers assessed reading comprehension abilities through an academic achievement test at 6\u20138 years of age and again one to two years later. Results of this study indicated that the children in this study with better phonological awareness and letter-sound knowledge in the initial round of testing made greater progress in word and non-word  reading as well as reading comprehension abilities after one or two years of school after controlling for IQ, age, expressive vocabulary, spoken language abilities, and type of educational placement(43)"
+        ],
+        "referral to other disciplines": "Referral to a behavior psychologist or behavior specialist might be warranted to assist with behavioral therapy and/or challenging behaviors",
+        "other considerations": [],
+        "treatment summary": [
+            "Phonemic awareness instruction: Phonemic awareness is the ability to hear and manipulate phonemes (i.e., the smallest phonetic unit that is capable of distinguishing words in a language) in syllables and words. Phonemic awareness is one aspect of phonological awareness, which refers to awareness of larger spoken units of language such as syllables and rhyming words. The NRP reported that explicit phonemic awareness instruction (which differs from phonics instruction) is highly effective in improving phonemic awareness, reading, and spelling. For most children, phonemic awareness instruction does not need to be long (more than 20 hours); however, students with reading disabilities might need additional instruction. Phonemic awareness activities include:(18) \u2013identifying the individual sounds in words. Example: \"What is the first sound in dog?\" (/d/) \u2013recognizing common sounds in different words. Example: \"Tell me the sound that is the same in bike, boy, and bus\" (/b/) \u2013categorizing phonemes. Example: \"Which word does not belong? Dog, dish, bus\" (bus) \u2013phoneme blending. Example: \"What is the word /s/ /k/ /u/ /l/?\" (school) \u2013phoneme deletion. Example. \"What is street  without the /s/?\" (treet) \u2013phoneme segmentation: \"How many phonemes (sounds) in keep?\" (3. /k/ /i/ /p/)",
+            "Phonics instruction: Phonics instruction focuses on teaching letter-sound correspondences and letter pattern\u2013sound correspondences and how to use them in spelling and reading.(18) The NRP found that systematic phonics instruction is beneficial for students in kindergarten through sixth grade as well as for children having difficulty learning to read. Systematic phonics instruction differs from incidental phonics instruction in that a scope and sequence of phonics elements are taught in a systematic way rather than highlighting phonics elements incidentally as they appear in text. The NRP emphasized that phonics instruction needs to include practice in automatic application of phonics skills to text and be integrated with the development of phonemic, fluency, text reading, and comprehension skills(18) \u2013In a study conducted in Australia, researchers compared sight-word  training to phonics instruction for children with dyslexia. In this study, a group of 36 children with dyslexia received 8 weeks of phonics instruction followed by 8 weeks of sight-word  training, another group of 36 children did sight-word training first, followed by phonics training, and a third group of 32 children received both types of therapies simultaneously over the course of 16 weeks. At the conclusion of the 16 weeks, researchers assessed the effects of the interventions on sight-word  reading (as measured by number of trained and untrained irregular words read correctly), phonics reading ability (as measured by fluency of nonword reading and number of nonwords read correctly), and general reading ability (as measured by single-word  reading fluency and accuracy in reading comprehension tasks). Researchers reported that sight-word  training resulted in significantly higher  accuracy in sight-word  reading tasks and phonics training resulted in significantly higher scores in phonics reading tasks, as expected. Additionally, simultaneously training in phonics and sight words significantly improved overall reading ability to a similar degree. Researchers noted that, in terms of overall reading ability, having the children do phonics instruction prior to sight-word  training appeared to be slightly more beneficial than doing the training in the opposite order(51)",
+            "Morphological awareness instruction: Morphological awareness refers to the ability to recognize and manipulate the smallest units of meaning in a language, including base words, prefixes, and suffixes. Recent studies have indicated that morphological awareness intervention can improve reading skills \u2013Researchers in the United States examined the effectiveness of a multilinguistic intervention to improve reading and spelling in 22 second-grade students who struggled with literacy.(32) Participants were randomly assigned to a treatment with a phonological and orthographic emphasis or a treatment with an additional morphological awareness focus. The orthographic treatment included word sorts, word building, and applied orthographic pattern activities. The morphological intervention group included word sorts, word building, and applied activities to learn morphological patterns (e.g., plural \u2013s, past tense \u2013ed, \u2013tion).  After 9 consecutive days with 90-minute  treatment sessions at a literacy camp, both groups performed better on standardized measures of word identification and word attack and on a nonstandardized spelling test of orthographic patterns. The morphological intervention group performed better on standardized measures of reading comprehension and spelling and on a nonstandardized spelling test of morphological patterns. The researchers concluded that the findings support the use of a multilinguistic approach for primary grade students with language and literacy deficits \u2013Researchers in the United States implemented a 9-week  morphological awareness intervention with kindergarten\u2013second-grade  students from low socioeconomic status homes (N = 61).(33) Intervention was delivered within the school setting 4 days/week in 25-minute sessions in groups of 4\u20135. Students were taught to analyze, recognize, orally produce, and determine the spelling patterns of multimorphemic words. Results indicated that the most significant gains were on morphological awareness tasks. Students also made gains on other literacy tasks (word reading, reading comprehension, and spelling)",
+            "Fluency instruction: Fluency is the ability to read accurately with speed and proper expression. There are two main approaches that have been used for building fluency, guided repeated oral reading and independent silent reading \u2013Guided repeated oral reading: Children who have poor reading fluency are often asked to repeatedly read passages with guidance from a teacher, clinician, parent, or peer to have multiple exposures to the same words and to increase their speed and accuracy during text reading -The NRP concluded that guided repeated reading improves word recognition, fluency, and comprehension across a range of grade levels(18) -Authors of a synthesis of research examining fluency interventions specifically for students with learning disabilities evaluated 24 studies and concluded that repeated reading interventions for students with LD were associated with improvements in reading rate, accuracy, and comprehension.(2) In addition, repeated reading with a model (teacher reading with students) was found to be more effective than repeated reading without a model. In addition, fluency developed more quickly when students were aware of their fluency goals and were given corrective feedback and information on their progress -Authors of a more recent review of research regarding repeated reading with children with LD found that this practice is lacking a strong evidence base due to the lack of studies meeting methodological criteria for quality research based on standards set by Horner et al. and Gersten et al.(19,20) The authors proposed that even in the absence of firm evidence, teachers and clinicians can continue to implement repeated reading practice because 1) it is aligned with multiple theoretical frameworks that suggest its use for students who need to improve fluency and 2) effect sizes in meta-analyses of fluency interventions have indicated that repeated reading is likely to positively affect fluency outcomes for those who need to improve fluency(21) \u2013Independent silent reading: In this approach, students are asked to read independently and silently with limited guidance or feedback. The NRP concluded that there is not sufficient research evidence of high methodological quality to support the practice of independent silent reading.(18) Authors of a synthesis of fluency interventions for students with LD confirmed that there is little evidence to suggest that independent silent reading builds fluency for these students(2) \u2013Video self-modeling  and peer modeling: Researchers in the United States compared the effects of video self-modeling and peer modeling on reading fluency for 6 children with learning disabilities in a multiple baseline design study. In the self-modeling  treatment group (n = 3), students watched a video of themselves reading fluently once a day  for 2 weeks.(31) The peer modeling group (n = 3) watched a peer read fluently once a day for 2 weeks. Each group was administered twice-weekly curriculum-based  measures of reading fluency at baseline, during intervention, and at follow-up  (up to 24 probes dependent on student attendance). A comparison group (n = 3) also received the curriculum-based  measures to distinguish the effects of the probes/researchers\u2019 presence from the treatment itself. Students in both experimental groups improved their fluency, with 2 students in the self-modeling  group making substantial and immediate gains beyond the other students. Positive changes in attitude were also seen in both experimental groups",
+            "V ocabulary instruction: V ocabulary knowledge has long been recognized as an important component of reading instruction. For most students who struggle with language and reading, vocabulary instruction is an essential part of comprehensive reading intervention \u2013The NRP found that there is some evidence that vocabulary instruction leads to gains in reading comprehension and that the following methods may be useful: previewing words before text reading, repeated exposure to words in various contexts, using computer technology to review words, and actively engaging the student in word learning.(18) The NRP concluded that vocabulary instruction was important for improving reading comprehension but found little research to specify the best methods of vocabulary instruction and the measurement of vocabulary growth(18) \u2013Authors of a study conducted in the United States examining vocabulary instruction within an RTI model (see below for full description of RTI model) used shared story-book  reading to teach new vocabulary words to students who were at risk for reading difficulties and to students who were not at risk for reading difficulties.(22) Participants included 224 1st first-grade  students, with 98 identified as being at risk for reading difficulty. In a quasi-experimental  design, all students were provided with whole-class  vocabulary instruction (Tier 1) and 49 of the at-risk  students were provided with additional, more intensive instruction (20-minute,  small-group  instruction/2 x week). Intervention took place over 2 weeks (2 books/8 target words). Results indicated that the at-risk  students who received intensive instruction scored significantly higher on posttest measures of target word knowledge than the control group of at-risk  students immediately after intervention; however, these gains were not maintained at 4 weeks postintervention.(22) The researchers suggested that vocabulary intervention might need to be lengthened so that the at-risk  children can maintain their gains in word knowledge(22)",
+            "Text comprehension instruction: Students can be taught specific cognitive strategies or reasoning skills with the goal of improving their comprehension \u2013The NRP found that teaching a combination of reading comprehension techniques is most effective. Types of strategies/ techniques include:(18) -comprehension monitoring: Students are taught to be more aware of their understanding (or lack thereof) -cooperative learning: Students work together to use reading strategies -graphic and semantic organizers: Students make visual or graphic representations of what they read -question answering: The teacher/SLP poses comprehension questions before, during, or after reading -question generation: Students are taught to ask themselves questions about what they read -story structure: Students are taught to use story mapping to help them recall the details and parts of a story -summarization: After reading a text, students are asked to summarize (orally or in writing) what they have just read \u2013Authors of a meta-analysis  of 40 reading comprehension intervention studies published between 1995 and 2006 found that effect sizes were high for criterion-referenced  measures (0.69 for treatment effects; 0.75 for generalization effects) and moderate for standardized measures (0.52).(23) The authors concluded that these outcomes were similar to, though slightly lower than, those of previously published meta-analyses.  A wide variety of treatment methods were found to be effective, including text enhancements, questioning, and cognitive strategies. Most of the treatment approaches included strategies to assist students in attending to and thinking more systematically about what they had just read. Examples of strategies include highlighting, outlining, illustrating, organization of text, summarizing the text, predicting outcomes, proving main ideas, analyzing text structure, and providing explanations. The authors concluded that students with reading difficulties did not spontaneously employ such strategies and that any instruction to help them systematically employ these techniques would improve their ability to construct meaning from text \u2013Authors of a meta-analysis  conducted in Germany analyzed the results of 22 RCTs of reading interventions for children and adolescents with reading disabilities (date range of publication of reviewed RCTs was unspecified).(30) Findings include: -Phonics instruction was the most investigated approach and the only approach that had statistically confirmed efficacy for reading and spelling performance  -Mean effect sizes of other reading treatment approaches were not significant -Subgroup analyses did not yield definitive conclusions about specific factors that contributed to an intervention\u2019s efficacy \u2013A research synthesis of 18 studies on interventions designed to improve learning from informational text for students with learning disabilities in elementary school (K\u20135)  was conducted.(35) Findings included moderate to large effect sizes on researcher-developed  measures for cognitive strategy instruction. Researchers also found that social studies interventions utilizing graphic organizers were associated with improved outcomes; however, improvements using graphic organizers for science content were not statistically significant. Researchers also found that more than 90% of interventions focused on basic skills (fact recall, generating the main idea) rather than more advanced textual analysis as proposed by recent Common Core State Standards (CCSS)",
+            "Computer technology and reading instruction: The NRP reported positive findings from the limited research studies on computer use in reading instruction.(18) Two promising trends include the use of hypertexts to link to definitions or supporting material and the use of computers for word processing(18) \u2013In a longitudinal study, researchers in Sweden examined the effects of three computerized interventions on reading skills of 130 children with reading disabilities in second grade.(29) Participants were randomly assigned to4treatment groups and received 1 of 4 interventions: 1) a phonologicallyoriented computerized program, 2) a reading-comprehension-oriented  computerized program, 3) a combination of the two programs, 4) traditional specialized reading instruction. All participants received 25one-on-one  instruction sessions of 15\u201320minutes,  with their special education teacher. All groups improved their reading skills. The group that received combined computerized training showed more improvement than the group with traditional special instruction. At 1-year  follow-up,  the group with the combined training had the least number of students requiring special education services (7 out of 25)",
+            "Early intervention: Early intervention for reading (kindergarten\u2013third  grade) is supported not only by treatment effects in multiple research studies, but also by fMRI studies indicating that systematic, evidence-based  reading intervention can lead to significant and lasting changes in brain organization.(5) Specifically, fMRI studies have measured activation of the left occipito-temporal  area in poor readers before intervention and found the activation to differ from that of typical readers. After intervention, the subjects improved in reading fluency and showed more typical activation patterns in this area as well as other areas in both hemispheres(5)",
+            "Parent training in shared book reading: Shared book reading between a parent and child has the potential for bolstering language development and emergent literacy(34) \u2013Researchers in the United States conducted a methodological review of studies investigating Reach Out and Read (ROR), a program that teaches parents strategies to incorporate while sharing books with children.(34) ROR is a national initiative aimed at improving literacy skills of children from economically disadvantaged backgrounds by distributing books and by supporting medical professionals to provide details about the importance of reading and strategies to incorporate into shared book reading. The review found variable quality and methodological limitations among some of the 11 studies investigating ROR. They also found that none of the studies followed children after school entry to determine if the effects of shared book reading led to academic success. They recommended further studies with more robust experimental designs to assess the effects of ROR",
+            "RTI: The RTI approach is a multitiered framework that involves universal screening to identify students at risk for reading difficulties, systematic evidence-based classroom instruction, ongoing progress monitoring, and implementation of effective interventions for students who require more intensive instruction.(7,24) Tier 1 of the model involves providing high-quality, evidence-based  instruction in a general education classroom. All students are screened at the beginning of the school year with a criterion-referenced  or norm-referenced  instrument to determine which students may benefit from additional instruction (e.g., students who fall below the 25th percentile on a screening measure). Tier 2 consists of small-group  instruction and is directed towards students who continue to have difficulties despite the high-quality intervention. Their responsiveness to more intensive intervention is monitored after relatively short periods of time (e.g., 8 weeks). Tier 3 is provided for students who respond minimally to the second tier intervention and require specialized, more intensive instruction. When students fail to respond or respond minimally to the most intensive tier of instruction, they receive a comprehensive evaluation to determine their eligibility for special education services and may receive a diagnosis of LD or reading disability. Multiple research studies on RTI have indicated promising gains for children who receive early, evidence-based  intervention.(25,26,27) SLPs work in collaboration with general and special education teachers within an RTI model in roles such as the following: \u2013Collaborate with school professionals to design interventions to improve Tier 1 instruction(28)  \u2013Administer progress monitoring measures to determine if the children are meeting benchmarks and to identify those who need additional instruction(28) \u2013Deliver Tier 2 and Tier 3 support for at-risk  students(28)",
+            "For detailed information on RTI and research on RTI, please see Clinical Review\u2026Response to Intervention (RTI) ; CINAHL Topic ID Number: T709175and the RTI Action Network website at http://www.rtinetwork.org/ . Problem Goal Intervention Expected Progression Home Program The student has poor phonemic awarenessThe student will increase phonemic awarenessPhonemic awareness instruction _ See Treatment summary , above for specific information on phonemic awareness instructionProgression will depend on the student's level of phonemic awareness. Phonemic awareness instruction can vary by activity (segmenting, blending, identifying initial sounds in words) and type of words (single syllable, multisyllable, nonsense words)Homework to practice newly learned phonemic awareness skills is recommended The student has poor decoding and word reading skillsThe student will increase decoding and word reading skillsPhonics instruction _ See Treatment summary , above for specific information on phonics instructionProgression will depend on the student's letter- sound awareness. Scope and sequence of phonics instruction are provided in most reading curriculumsHomework to practice newly learned phonics skills is recommended The student has poor morphological awarenessThe student will increase morphological awarenessMorphological awareness instruction See Treatment summary , above for specific information on morphological awareness instructionProgression will vary depending on student skillsHomework to practice newly learned morphological awareness skills is recommended The student has low oral vocabularyThe student will increase oral vocabularyVocabulary instruction _ See Treatment summary , above for specific information on vocabulary instructionProgression will depend on the student's vocabulary knowledge. Target words are chosen for their relevanceHomework to practice newly learned vocabulary is recommended The student has poor fluency (speed and intonation) while readingThe student will increase reading fluencyFluency intervention _ See Treatment summary , above for specific information on fluency instructionProgression will depend on the student's level of fluency (measured by words per minute read accurately). The student will increase the number of words per minuteFluency can be practiced (guided reading) at home with a parent/caregiver  The student has poor reading comprehension abilityThe student will increase reading comprehension abilityTeach techniques or strategies to increase the student's comprehension of text _ See Treatment summary , above for specific information on reading comprehension instructionProgression will depend on the student's use of strategies at baseline. Difficulty will vary with reading material (fictional narrative vs. academic text) and specific strategy (summarizing, story mapping)Comprehension strategies can be used with home assignments ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved reading ability  e.g., grade-level  performance": [
+            "Dynamic assessment",
+            "Woodcock-Johnson  III Diagnostic Reading Battery (WJ-III  DRB)",
+            "Test of Word Reading Efficiency (TOWRE)",
+            "Test of Early Reading Efficiency\u20133  (TERA-3)"
+        ],
+        "improved vocabulary": [
+            "Peabody Picture V ocabulary Test\u20134  (PPVT-4)",
+            "Test of Narrative Language"
+        ],
+        "increased phonemic awareness": [
+            "Comprehensive Test of Phonological Processing (CTOPP)"
+        ],
+        "improved writing ability": []
+    },
+    "maintenance or prevention": [
+        "Screening measures: Screening measures are often administered school-wide  and are used to identify students who may be at risk for reading difficulties and to prevent future reading difficulties. They typically are short measures (1\u20133 minutes) for assessing early literacy skills(7) Impaired phonological awareness, poor print knowledge, reduced verbal short-term memory, and poor rapid naming abilities in pre-kindergarten  are associated with poor reading abilities in early elementary school.(53) Screening measures should assess these pre-reading abilities",
+        "Progress-monitoring  measures determine how the child is performing at certain times of the year (benchmarks). These measures are also short and are standardized or criterion based. DIBELS can be used as a screening measure or a progress-monitoring  tool for students in kindergarten to the sixth grade. DIBELS assesses phonological awareness, alphabetic principle knowledge, reading fluency, vocabulary, and comprehension. Further description of DIBELS and assessments are available online at https://dibels.uoregon.edu/assessment Patient/Family Education",
+        "See the list of resources for patients/caregivers on reading and reading disorders at the U.S. National Institutes of Health, Eunice Kennedy Shriver website, https://www.nichd.nih.gov/health/topics/reading/resources/patients Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on February 10, 2017  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Shaywitz SE, Shaywitz BA. Dyslexia (specific reading disability). Biol Psychiatry . 2005;57(11):1301-1309.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Chard DJ, Vaughn S, Tyler B. A synthesis of research on effective interventions for building reading fluency with elementary students with learning disabilities. J Learn Disabil . 2002;35(5):386-406.  (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Shaywitz SE, Shaywitz BA. The new science of reading and its implications for the classroom. Educ Canada . 2004;44(1):20-23.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Shaywitz SE, Morris R, Shaywitz BA. The education of dyslexic children from childhood to young adulthood. Annu Rev Psychol . 2008;59:451-475.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Lyon GR, Shaywitz SE, Shaywitz BA, Chhabra V. Evidence-based  reading policy in the United States: how scientific research informs instructional practices. Brookings Pap Educ Policy . 2005;209-250.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Melby-Lerv\u00e5g  M, Lyster SH, Hulme C. Phonological skills and their role in learning to read: a meta-analytic  review. Psychol Bull . 2012;138(2):322-352.  doi:10.1037/a0026744. (M)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Fletcher JM, Vaughn S. Response to intervention: preventing and remediating academic difficulties. Child Dev Perspect . 2009;3(1):30-37.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Anthony JL, Aghara RG, Dunkelberger MJ, Anthony TI, Williams JM, Zhang Z. What factors place children with speech sound disorders at risk for reading problems? Am J Speech Lang Pathol . 2011;20(2):146-160.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Semel E, Wiig EH, Secord WA. Clinical Evaluation of Language Fundamentals. 5th ed. San Antonio, TX: The Psychological Corporation; 2013. (PP)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hammill DD, Newcomer PL. Test of Language Development-Primary:4 . 4th ed. Austin, TX: PRO-ED; 2008. (PP)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Dunn LM, Dunn DM. Peabody Picture Vocabulary Test-4. 4th ed. Bloomington, MN: Pearson; 2007. (PP)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Gillam R, Pearson NA. The Test of Narrative Language . Austin, TX: Pro-Ed; 2004. (PP)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Bridges MS, Catts HW. The use of dynamic screening of phonological awareness to predict risk for reading disabilities in kindergarten children. J Learn Disabil . 2011;44(4):330-338.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Elleman AM, Compton DL, Fuchs D, Fuchs LS, Bouton B. Exploring dynamic assessment as a means of identifying children at risk for developing comprehension difficulties. J Learn Disabil . 2011;44(4):348-357.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Wagner RK, Torgesen JK, Rashotte CA. Comprehensive Test of Phonological Processing CTOPP . Austin, TX: PRO-ED; 1999. (PP)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Schrank FA, Mather N, Woodcock RW. Woodcock-Johnson  III(r) Diagnostic Reading Battery . Rolling Meadows, IL: Riverside Publishing; 2004. (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Torgesen JK, Wagner RK, Rashotte CA. Test of Word Reading Efficiency-Second  Edition. Austin, TX: PRO-ED; 2012. (PP)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Teaching children to read: an evidence-based  assessment of the scientific research literature on reading and its implications for reading instruction, 2000. U.S. Department of Health and Human Services: Eunice Kennedy Shriver National Institute of Children Health & Human Development; 2006. National Institute of Child Health and Human Development. Report of the National Reading Panel  Web site. http://www.nichd.nih.gov/publications/pubs/nrp/pages/smallbook.aspx . October 2006. Accessed July 16, 2018. (M)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Horner RH, Carr EG, Halle J, McGee G, Odom SL, Wolery M. The use of single-subject  research to identify evidence-based  practice in special education. Exceptional Child . 2005;71(2):165-179.  (G)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Gersten R, Fuchs LS, Compton D, Coyne MD, Greenwood C, Innocenti MS. Quality indicators for group experimental and quasi-experimental  research in special education. Except Children . 2005;71(2):149-164.  (G)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Chard DJ, Ketterlin-Geller  LR, Baker SK, Doabler C, Apichatabutra C. Repeated reading intervention for students with learning disabilities: status of the evidence. Except Children. 2009;75(3):263-281.  (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Pullen PC, Tuckwiller ED, Konold TR, Maynard KL, Coyne MD. A tiered intervention model for early vocabulary instruction: The effects of tiered instruction for young students at risk for reading disability. Learn Disabil Res Pract . 2010;25(3):110-123.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Berkeley S, Scruggs TE, Mastropieri MA. Reading comprehension instruction for students with learning disabilities, 1995-2006:  a meta-analysis.  Remedial Special Educ . 2010;31(6):423-436.  (M)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Fuchs D, Fuchs LS. Introduction to Response to Intervention: what, why and how valid is it? Read Res Q . 2006;41(1):93-99.  (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Fletcher JM, Vaughn S. Response to intervention models as alternatives to traditional views of learning disabilities: response to the commentaries. Child Dev Perspect . 2009;3(1):48-50.  (X)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Wanzek J, Vaughn S. Response to varying amounts of time in reading intervention for students with low response to intervention. J Learn Disabil . 2008;41(2):126-142.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Simmons DC, Coyne MD, Kwok O, McDonagh S, Harn B, Kame'enui EJ. Indexing response to intervention: a longitudinal study of reading risk from kindergarten through third grade. J Learn Disabil . 2008;41(2):158-173.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Justice LM. Evidence-based  practice, response to intervention, and the prevention of reading difficulties. Lang Speech Hear Serv Sch . 2006;37(4):284-297.  (X)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Falth L, Gustafson G, Tjus T, Heimann M, Svensson I. Computer-assisted  interventions targeting reading skills of children with reading disabilities \u2013 a longitudinal study. Dyslexia. 19(1):37-53.  doi:10.1002/dys.1450. (RCT)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Galuschka K, Ise E, Krick K, Schulte-Korne  G. Effectiveness of treatment approaches for children and adolescents with reading disabilities: a meta-analysis  of randomized controlled trials. PLoS One . 9(2):e89900. doi:10.1371/journal.pone.0089900. (M)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Decker MM, Buggey T. Using video self- and peer modeling to facilitate reading fluency in children with learning disabilities. J Learn Disabil . 2014;47(2):167-177. doi:10.1177/0022219412450618. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Wolter JA, Dilworth V. The effects of a multilinguistic morphological awareness approach for improving language and literacy. J Learn Disabil . 2013;47(1):76-85. doi:10.1177/0022219413509972. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Apel K, Brimo D, Diehm E, Apel L. Morphological awareness intervention with kindergartners and first- and second-grade  students from low socioeconomic status homes: a feasibility study. Lang Speech Hear Serv Sch . 2013;44(2):161-173.  doi:10.1044/0161-1461(2012/12-0042).  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Yeager Pelatti C, Pentimonti JM, Justice LM. Methodological review of the quality of Reach Out and Read: does it \u2018work\u2019?. Clin Pediatr . 2014;53(4):343-350. doi:10.1177/0009922813507995. (SR)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Ciullo S, Lo YL, Wanzek J, Reed DK. A synthesis of research on informational text reading interventions for elementary students with learning disabilities. J Learn Disabil . Advance online publication. 2014;0022219414539566. doi:10.1177/0022219414539566. (RV)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Hogan TP, Adlof SM, Alonzo CN. On the importance of listening comprehension. Int J Speech Lang Pathol . 2014;16(3):199-207.  doi:10.3109/17549507.2014.904441. (RV) "
+        },
+        {
+            "number in article": 37,
+            "reference": "Reid DK, Hresko WP, Hammill DD. Test of Early Reading Ability (TERA-3).  Austin, TX: PRO-ED; 2001. (PP)"
+        },
+        {
+            "number in article": 38,
+            "reference": "De Groot BJ, Van den Bos KP, Van der Meulen BF, Minnaert AE. Rapid naming and phonemic awareness in children with reading disabilities and/or specific language impairment: Differentiating processes? J Speech Lang Hear Res . 2015;58(5):1538-1548.  doi:10.1044/2015_JSLHR-L-14-0019.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Hakim A, Ghorbanibirgani A. Prevalence of dyslexia among male students in primary shools and its relationship with obesity and being overweight in Ahvaz, Iran. Int J Community Based Nurs Midwifery . 2015;3(2):116-122.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Dahle AE, Knivsberg A. Internalizing, externalizing and attention problems in dyslexia. Scand J Disabil Res . 2014;16(2):179-193.  doi:10.1080/15017419.2013.781953. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Christmann CA, Lachmann T, Steinbrink C. Evidence for a general auditory processing deficit in developmental dyslexia from a discrimination paradigm using speech versus nonspeech sounds matched in complexity. J Speech Lang Hear Res . 2015;58(1):107-121.  doi:10.1044/2014_JSLHR-L-14-0174.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Dandache S, Wouters J, Ghesqui\u00e8re P. Development of reading and phonological skills of children at family risk for dyslexia: A longitudinal analysis from kindergarten to sixth grade. Dyslexia. 2014;20(4):305-329.  doi:10.1002/dys.1482. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Sermier Dessemontet R, de Chambrier AF. The role of phonological awareness and letter-sound  knowledge in the reading development of children with intellectual disabilities. Res Dev Disabil . 2015;41-42:1-12.  doi:10.1016/j.ridd.2015.04.001. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Kudo MF, Lussier CM, Swanson HL. Reading disabilities in children: A selective meta-analysis  of the cognitive literature. Res Dev Disabil . 2015;40:51-62.  doi:10.1016/ j.ridd.2015.01.002. (M)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Mascheretti S, Marino C, Simone D, et al. Putative risk factors in developmental dyslexia: A case-control  study of Italian children. J Learn Disabil . 2015;48(2):120-129. doi:10.1177/0022219413492853. (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Thompson PA, Hulme C, nash HM, Gooch D, Hayiou-Thomas  E, Snowling MJ. Developmental dyslexia: Predicting individual risk. J Child Psychol Psychiatry . 2015;56(9):976-987.  doi:10.1111/jcpp.12412. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Maciejewska B, Wiskirska-Wo#nica  B, #widzi#ski P, Michalak M. Assessing auditory processing disorders in children with developmental dyslexia using auditory cognitive event-related  potentials. Folia Phoniatr Logop . 2013;65(3):129-135.  doi:10.1159/000354167. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Tran C, Wigg KG, Zhang K, et al. Association of the ROBO1 gene with reading disabilities in a family-based  analysis. Genes Brain Behav . 2014;13(4):430-438.  doi:10.1111/ gbb.12126. (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Mammarella IC, Ghisi M, Bomba M, et al. Anxiety and depression in children with nonverbal learning disabilities, reading disabilities, or typical development. J Learn Disabil . Advance online publication. April 14, 2014. doi:10.1177/0022219414529336. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Moura O, Sim\u00f5es MR, Pereira M. WISC-III cognitive profiles in children with developmental dyslexia: Specific cognitive disability and diagnostic utility. Dyslexia. 2014;20(1):19-37.  doi:10.1002/dys.1468. (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "McArthur G, Castles A, Kohnen S, et al. Sight word and phonics training in children with dyslexia. J Learn Disabil . 2015;48(4):391-407.  doi:10.1177/0022219413504996. (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Ferrer E, Shaywitz BA, Holahan JM, Marchione KE, Michaels R, Shaywitz SE. Achievement Gap in Reading Is Present as Early as First Grade and Persists through Adolescence. J Pediatr. November 2015;167(5):1121-5.e2.  doi:10.1016/j.jpeds.2015.07.045. (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Carroll JM, Solity J, Shapiro LR. Predicting dyslexia using prereading skills: the role of sensorimotor and cognitive abilities. J Child Psychol Psychiatry . June 2016;57(6):750-8. doi:10.1111/jcpp.12488. (R)"
+        }
+    ]
+}

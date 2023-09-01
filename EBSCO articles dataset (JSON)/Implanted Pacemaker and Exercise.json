@@ -1,0 +1,358 @@
+{
+    "metadata": {
+        "title": "Patients with Pacemakers, and Exercise",
+        "synonyms": [
+            "exercise and patients with pacemakers",
+            "implanted pacemaker and exercise",
+            " artificial pacemaker and exercise"
+        ],
+        "anatomical location body part affected": [
+            "Heart/sinoatrial (SA) node and/or atrioventricular (A V) node; sometimes also the His-Purkinje system of bundle branches"
+        ],
+        "area of specialty": [
+            "cardiovascular rehabilitation",
+            "home health"
+        ],
+        "description": [
+            "An implanted cardiac pacemaker is a pulse generator that contains a battery, electronics, and leads. The leads travel to the myocardium and send depolarizing pulses as well as monitor electrical activity of the heart. The stimulus applied to the heart is measured by amplitude (volts) and duration (milliseconds). Optimization of these measurements is important to prolong battery life and reduce risk of stimulation of nearby tissues, such as the phrenic nerve(1)",
+            "The most common indications for placement of a pacemaker are(1,2) \u2013HR that is too slow and associated with symptoms (symptomatic bradycardia) \u2013HR that fails to increase appropriately with exercise or general physical activity (chronotropic incompetence [CI]) \u2013diseases of the A V node, sinus node, or His-Purkinje  system that disrupt cardiac signaling and are due to inflammation, infarction, aging, or fibrosis \u2013sinus node dysfunction \u2013acquired atrioventricular (A V) block \u2013chronic bifascicular block \u2013following acute myocardial infarction \u2013after cardiac transplantation \u2013congenital heart disease \u2013hypertrophic cardiomyopathy \u2013neurocardiogenic syncope and hypersensitive carotid sinus syndrome \u2013tachycardia \u2013cardiac resynchronization therapy for patients with severe systolic heart failure",
+            "CI occurs when the heart is unable to achieve 70% of the age-predicted  HR maximum (or 100bpm) during maximum physical exertion;(1) it can contribute to disability and a reduction in ADLs(3)",
+            "Pacemaker implantationimprovesCI (i.e., increase in HR and thus cardiac output) during exerciseusing an accelerometer that detects motion of the body(1)",
+            "An exercise performance test is important for assessment of pacemaker HR responsiveness and patient signs, symptoms, and physical capacity; all provide a rational basis for the exercise prescription(3,4)",
+            "Prescribed exercise training is indicated in patients with pacemakers to counteract the cardiovascular deconditioning and muscle atrophy that may have developed because of disability, as well as to further improve functional capacity, hemodynamic measures, physical activity, and quality of life(3,5) ",
+            "This review does not discuss special conditions that may also cause symptomatic bradycardia and be indications for a permanent pacemaker, including post-myocardial  infarction, cardiac transplantation, neuromuscular disease (e.g., myotonic dystrophy, Erb dystrophy, Emery-Dreifuss  muscular dystrophy), sleep apnea syndrome, or cardiac sarcoidosis.(4) This review also does not cover patients at increased risk of sudden cardiac death who have a permanent pacemaker with cardioverter defibrillator(4)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "I42.2": "other hypertrophic cardiomyopathy",
+            "I44.0": "atrioventricular block, first degree",
+            "I44.1": "atrioventricular block, second degree",
+            "I44.2": "atrioventricular block, complete",
+            "I45.2": "bifascicular block",
+            "I49.5": "sick sinus syndrome",
+            "Q24.6": "congenital heart block",
+            "Z95.0": "presence of cardiac pacemaker (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Dizziness and/or lightheadedness",
+            "Increased fatigue",
+            "Syncope/fainting",
+            "Decreased tolerance to exercise",
+            "Bradyarrhythmia, sinus node dysfunction, or A V conduction deficit",
+            "Heart palpitations",
+            "Mental status changes",
+            "Angina pectoris",
+            "Some patients may be asymptomatic Causes, Pathophysiology, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop the exam and notify physician if patient reports unexpected symptoms such as chest pain, shortness of breath, dizziness, etc.",
+            "CI is common in patients with pacemakers.(3,4,8) Assessment of the patient\u2019s chronotropic reserve (see Special tests , below) should be conducted to determine the peak oxygen consumption using cardiopulmonary exercise testing(8)",
+            "Contraindications for exercise testing and training(3) \u2013Up to 2 days after acute coronary syndrome \u2013Severe untreated cardiac arrhythmias \u2013Cardiac thrombus \u2013Acute heart failure with hemodynamic instability \u2013Acute systemic illness \u2013Uncontrolled hypertension \u2013Severe obstructive hypertrophic cardiomyopathy \u2013Advanced A V block  \u2013Aortic stenosis \u2013Acute myocarditis and pericarditis"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "potential causes of reduced functional capacity in patients with pacemakers": [
+            "Prolonged illness with extended physical inactivity leading to:\u2013muscle weakness\u2013cardiovascular deconditioning",
+            "Impaired muscle function, as suggested by atrophy, poor strength, and insufficient peripheral O2 utilization duringfatigue-limited exercise(3)",
+            "Decreased ability to regulate HR: delayed increase in HR with exercise, submaximal peak HR, HR instability duringexercise, or inadequate recovery of HR(8)",
+            "CI: the failure of HR to increase normally during ADLs, or the inability to achieve 85% of age-predicted  maximum HRdespite full effort on incremental exercise test testing.(2) Because maximal-achievable cardiac output is reduced, CI limitsVO2  peak and aerobic exercise performance(8)",
+            "Poor chronotropic reserve (i.e., peak achievable exercise HR minus resting HR)"
+        ],
+        "pathophysiology": [
+            "The major cardiac conduction defects that indicate pacemaker implantation:\u2013Sinus node dysfunction/Sick sinus syndrome: characterized by paroxysmal or chronic sinus arrest(2)\u2013Acquired A V block(2)-Second-degree  A V block type II (Mobitz type II or non-Wenckebach):  sudden interruption of A V conduction withconstant PR interval on ECG-Third-degree  or complete A V block: absence of conduction from atria to ventricles (complete A V dissociation)\u2013Bifascicular block: impaired conduction below the A V node in the right and left bundles of His (2)",
+            "SA node disease results in slow and irregular impulse formation,whereas A V node disease slows impulse propagation to thebundle of His. Bifascicular block further slows activation of the ventricles. All three conditions cause:\u2013slow HR associated with cardiac insufficiency (symptomatic bradycardia)\u2013inadequate HR response to physical activity (CI)\u2013irregular slow cardiac rhythm (bradyarrhythmia)",
+            "Five-letter  coding identifies the permanent pacemaker type and function; however, it is common to see them referred to byonly the first 3 letters. For example, A VI refers to pacing of the atrium, sensing of the right ventricle, and inhibition of thepacemaker by the patient\u2019s own HR response(7,9)\u20131st letter: the cardiac chamber(s) containing a pacing lead-A = atrium-V = ventricle-D = dual (both atrium and ventricle)\u20132nd letter: the cardiac chamber(s) being sensed by the generator-A, V , or D-O = none (sensing function turned off)\u20133rd letter: adaptive response of pacemaker to sensing patient\u2019s HR-I = inhibited-T = triggered (paces the heart)-D = dual (inhibited or triggered)-O = none (sensing function turned off)\u20134th letter: ability of pacemaker to vary the HR-O = no rate responsiveness-R = rate modulation according to demand (e.g., exercise)\u20135th letter: whether the pacemaker has multisite pacing capability (A, V , D, or O), or has an anti-tachycardia function",
+            "Rate-adaptive  (I, T, or D) pacemakers affect HR during exercise that can be evaluated for proper response by exercisetesting and, therefore, taken into account when prescribing exercise(8,9)",
+            "Numerous studies indicate that rate-modulated  (rate-responsive) pacemakers improve cardiac performance compared tofixed-rate pacemakers(8)",
+            "A V sequential biventricular pacing is the best configuration for patients with hypertrophic obstructive cardiomyopathy andimproves quality of life and functional capacity(10)",
+            "In heart failure (HF), rate-adaptive  pacing has demonstrated improvements in overall survival and exercise capacity inthose with symptoms of CI(8)\u2013Known as cardiac resynchronization therapy (CRT), biventricular pacing is indicated for patients in whom heart failureis diagnosed, who have a wide QRS segment (> 120 ms), or who have a left bundle branch block (LBBB), indicatingcardiomyopathy(3)",
+            "Participation in exercise and sport (except collision sports) should be considered for patients with pacemakers who do nothave pathological substrates for fatal arrhythmias(11)"
+        ],
+        "modifiable risk factors that may contribute to poor functional capacity": [
+            "Poor adherence to therapeutic regimen, including continued:\u2013smoking\u2013physical inactivity\u2013dietary habits that may promote obesity, diabetes, or hyperlipidemia\u2013abuse of alcohol or drugs",
+            "Obesity",
+            "Sedentary lifestyle",
+            "Muscle weakness"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Restrict patient from raising arms overhead and performing heavy upper extremity activities, such as weight lifting, swimming, golf, or bowling, for 3 to 4 weeks after pacemaker implantation(3)",
+        "Any activity that could damage the pacemaker, such as contact sports, should always be avoided(7) ",
+        "All pacemaker manufacturers offer pacemakers that are safe for MRI; however, older models of pacemakers must be checked for MRI compatibility(7)",
+        "Notify physician immediately if patient presents with recent onset of signs and symptoms of acute illness Unusual fatigue Fever Malaise Flulike symptoms (e.g., chills, headache, dizziness, muscle aches) Pulmonary crackles/rales Nausea Diarrhea",
+        "Notify physician immediately if patient presents with any complications of pacemaker use. Most complications can be identified in the hospital or within the first 6 months following implantation(2) Bleeding/hematoma or local infection at site of implantation Hiccupping due to stimulation of phrenic nerve (pulse voltage set too high) Angina-like  chest pain (may result from coronary artery disease or venous/cardiac perforation of lead wire) Infections Pericardial effusion or tamponade Pneumothorax Dissection of the coronary sinus Perforation Contraindications to cardiac rehabilitation(12) \u2013Uncontrolled inflammatory or infectious pathology \u2013Symptomatic or severe aortic stenosis \u2013Intracavity thrombus \u2013Complex ventricular arrhythmias \u2013Unstable angina \u2013Severe obstructive cardiomyopathies \u2013Recent thrombophlebitis with or without pulmonary embolism \u2013Acute decompensated congestive heart failure \u2013Severe pulmonary hypertension \u2013Any musculoskeletal condition that disallows exercise participation",
+        "There is an increased risk for DVT in the femoral vein when it is used for access; monitor for signs and symptoms (e.g., swelling, redness) and refer to physician immediately should they occur(4)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop the exam and notify physician if patient reports unexpected symptoms such as chest pain, shortness of breath, dizziness, etc.",
+            "CI is common in patients with pacemakers.(3,4,8) Assessment of the patient\u2019s chronotropic reserve (see Special tests , below) should be conducted to determine the peak oxygen consumption using cardiopulmonary exercise testing(8)",
+            "Contraindications for exercise testing and training(3) \u2013Up to 2 days after acute coronary syndrome \u2013Severe untreated cardiac arrhythmias \u2013Cardiac thrombus \u2013Acute heart failure with hemodynamic instability \u2013Acute systemic illness \u2013Uncontrolled hypertension \u2013Severe obstructive hypertrophic cardiomyopathy \u2013Advanced A V block  \u2013Aortic stenosis \u2013Acute myocarditis and pericarditis"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "Is the patient being treated for complications of cardiovascular disease (e.g., coronary artery disease, hypertension, HF, chronic renal insufficiency)",
+                    "surgical management": [],
+                    "medications": "Patients with pacemakers often take cardiac medications (e.g., antihypertensives, antiarrhythmic medications, and psychoactive medications(4)), which may affect exercise HR or BP. Document these and confirm that they are being taken",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: The laboratory workup may include:",
+                        "echocardiography(4)",
+                        "electrocardiogram  rest and exercise(4)",
+                        "urinalysis",
+                        "blood glucose",
+                        "serum potassium, creatinine, and calcium",
+                        "hematocrit",
+                        "treadmill or cycle ergometer exercise test after pacemaker implantation that may be used for exercise prescription(8)",
+                        "Pharmacologic stress testing (i.e., cardiovascular stress is induced by pharmacologic agents) is indicated when exercise testing is not possible because of physical limitations(4)",
+                        "Chest X-ray:  identify cardiomegaly, pulmonary edema, and pleural effusions(6)",
+                        "Ambulatory 24-hour  Holter monitoring: assists in monitoring results of antiarrhythmic treatments(4)",
+                        "CT scan or MRI if structural heart disease is suspected(4)"
+                    ],
+                    "alternative therapies": "Document any use of herbal, behavioral, or other alternative therapies for health, and whether they help",
+                    "previous therapy": "Document whether the patient has previously received exercise therapy and what specific program was followed"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms where applicable",
+                "nature of symptoms": "Document reported symptoms",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment. The Borg Rating of Perceived Exertion (RPE) Scale can be used as appropriate (e.g., for patients on betablockers)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "If present, document number of wakings/night; document presence of sleep apnea or other sleep disorder and relevant interventions (e.g., continuous positive airway pressure [CPAP])",
+                "other symptoms": "Document other symptoms the patient may be experiencing that could exacerbate inability to exercise and/or symptoms that may indicate referral to physician (e.g., dizziness, chest pain, extreme fatigue) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________ ",
+                "respiratory status": "Document respiratory status and use of any supplemental oxygen, including parameters set by physician. Does the patient have any history of respiratory compromise?Negative emotional states (anxiety, depression, stress, etc.) are closely related to heart disease and may affect outcomes and compliance(13)"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document prior exercise therapy for any other conditions and details regarding history of heart disease",
+                    "comorbid diagnoses": "Is there any history of stroke, kidney disease, diabetes, osteoporosis, or pulmonary or renovascular disease? Also document any history of orthopedic, psychiatric, or neurological disease",
+                    "medications previously prescribed": "Obtain a comprehensive list of all prescribed and OTC medications and herbal remedies and use of illegal drugs",
+                    "other symptoms": "Ask the patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient want to participate in recreational sports? What does the patient\u2019s occupation involve? Does the patient smoke? To what activities does the patient expect to return? How much daily physical activity does the patient usually get? Does the patient drive? Driving restrictions advise patients with an implanted cardiac device to avoid operating a vehicle for 3 months in Japan and the European Union and for 6 months after last shock in the United States and United Kingdom(14)",
+                "functional limitations assistance with ADLs adaptive equipment": "If applicableAsk about family situation, employment status, and working conditions that may increase stress/anxiety",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be appropriate \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Determine height, weight, and BMI",
+            "assistive and adaptive devices": "Is an assistive device being used for ambulation or ADLs?",
+            "balance": "Confirm that static and dynamic balance reactions are appropriate for use of exercise equipment such as treadmill or elliptical trainer and that the patient is not at risk for falls; use such tests as Berg Balance Scale or Tinetti Balance Assessment Tool",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Confirm that peripheral pulses are present in all limbs",
+            "functional mobility": "Confirm normalcy in gross movement during transfers and functional tasks using the upper extremities (e.g., reaching, pulling, pushing, holding) and lower extremities (e.g., steps, squatting, kneeling, kicking)",
+            "gait locomotion": "Prior to prescribing a walking exercise program, confirm that ambulatory function is normal, including synchrony of limb movements and gait speed, as well as posture in walking to allow for most efficient gait \u201310-meter  walk test for gait speed \u2013Safety with ambulation can be assessed using Dynamic Gait Index (DGI) \u2013Prescribe ambulatory devices as appropriate",
+            "muscle strength": "Manually scan strength in functional tasks (e.g., handgrip, pushing, pulling, sit-up,  squatting). Assess strength using manual muscle tests (MMT), dynamometry, or weights in muscle groups targeted for exercise training",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "Assess for functional ROM/flexibility in all extremitiesAssess deep tendon reflexesAssess ability to complete self-care  and ADLs; the Barthel Index can be used for objective measure as well as the FIMScan dermatomes for normal sensation",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests \u2013SF-36  Health Survey quality of life assessment \u2013In compliance with medical guidelines, assess HR, BP, and perceived exertion responses, and for adverse signs/symptoms during graded exercise testing on a treadmill or cycle ergometer(3)  \u2013The treadmill test used to evaluate patient performance should allow for gradual progression in exertion as treadmill speed and incline are increased (e.g., in the modified Naughton or Balke protocols)(3) \u2013According to the American Heart Association, exercise testing can also be performed with a cycle ergometer, although oxygen uptake was found to be significantly higher when testing on a treadmill(3) -Pedaling speeds of 50 to 80 rotations per minute resulted in the highest values of HR and VO 2 -Initial power output should be between 10 and 25 watts, with an increase of 25 watts every 2 to 3 minutes until the end of the test is reached \u2013The 6-minute  walk test is often used as an exercise test due to the ease of performing and readministering the test(3)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Discussion with the patient\u2019s cardiologist is important regarding medications that the patient is taking and to formulate an appropriate exercise prescription (3)",
+                "Exercise testing should be used to evaluate HR and rhythm response prior to beginning an exercise program (3)",
+                "When an implantable cardiac defibrillator is present, the peak HR during the exercise test and exercise training program",
+                "should be maintained at least 1015  beats per minute below the rate that will trigger shock(3)",
+                "After the first 24 hours following device implantation, mild upper extremity ROM activities can be performed and may be useful to prevent subsequent joint complications(7)",
+                "To maintain device and incision integrity, for 34 weeks after implant rigorous upper extremity activities such as swimming, bowling, lifting weights, elliptical machines, and golfing should be avoided. However, lower extremity activities are allowed(7)",
+                "Systolic BP exceeds 250 mm Hg or diastolic BP exceeds 115 mm Hg(15)",
+                "Hypertension is poorly controlled (resting systolic BP > 160 mm Hg)(15)",
+                "Systolic BP fails to rise more than 20 mm Hg(11)",
+                "Systolic BP progressively drops with exercise(11)",
+                "Exertional symptoms such as chest discomfort, dizziness, or dyspnea suggest cardiac insufficiency(15)",
+                "Electrotherapeutic modalities are indicated only when prescribed by the referring physician for coexisting conditions",
+                "No specific international policies address the use of electrotherapeutic modalities in patients with pacemakers. However, review of the literature and standard practice guidelines based largely on the recommendations from pacemaker manufacturers suggest that TENS and neuromuscular electrical stimulation (NMES)should be used with much caution. It may be possible to safely administer these modalities for musculoskeletal pain at a safe distance from the pacemaker with close monitoring of the device and patient(16)",
+                "Rehabilitation professionals should always use their professional judgment regarding the use of modalities "
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Tailor the exercise prescription to fit each patient\u2019s measured functional ability, symptoms, and cardiorespiratory responses to exercise testing(12)",
+                "The following considerations should be kept in mind when prescribing exercise for patients with pacemakers:",
+                "Monitor BP on a regular basis during exercise. According to standard exercise guidelines, exercise testing or exercise training should be terminated if:",
+                "To prevent an exaggerated BP response to exercise, provide the patient with a thorough orientation to using the prescribed exercise equipment with adequate warm-up  time",
+                "Research on the safety and appropriateness of resistance exercise (weight lifting) is limited in patients with pacemakers, and thus general guidelines for weight-lifting  exercise are not available specifically for this population",
+                "In addition to monitoring HR and BP, use the patient\u2019s perceived exertion and any other symptoms to manage exercise intensity for either aerobic or resistance training",
+                "Extend the cooldown period and avoid having the patient stop suddenly after exercise, because this may cause a precipitous fall in systolic BP (orthostatic hypotension and possibly syncope) due to venous pooling",
+                "Clinicians should follow the exercise guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+                "Patients with osteoporosis should avoid high-intensity  exercise training due to the increased risk of fractures",
+                "Contraindications/precautions to use of electrotherapeutic modalities"
+            ]
+        },
+        "diagnosis need for treatment": "Status-post  pacemaker implantation/physical inactivity contributing to reduced functional capacity in ADLs and to increased risk for cardiovascular comorbidities. Cardiac rehabilitation increases quality of life and decreases healthcare costs. It has been shown to increase VO 2 max and improve endothelial function and myocardial reserve flow.(12) In addition, exercise therapy may be indicated for postoperative shoulder pain and reduced function",
+        "rule out": "Angina pectoris, osteoporosis, diabetes mellitus, and peripheral artery disease",
+        "prognosis": [
+            "CI proved to be a prognostic indicator of adverse events in patients with heart failure(4,8)",
+            "Authors of a study involving 1118 patients with heart failure found that HR reserve < 60% during exercise was associated with increased all-cause  mortality and all-cause hospitalization(8)",
+            "HR recovery after ceasing exercise can be used as a prognostic marker to predict adverse events(8)",
+            "In patients with CI, exercise electrocardiographic testing can reasonably provide information on prognosis(4)",
+            "Exercise was found to be safe and effective for patients undergoing cardiac resynchronization therapy who had been medically stable for the past month(3) \u2013Aerobic exercise is highly recommended and leads to improvement in functional capacity \u2013Many studies have shown the safety of mild to moderate exercise, but several adverse events have been reported, such as worsening of heart failure and discharge of inappropriate shocks from the pacing device",
+            "The impact of stress, depression, and hostile thought patterns on cardiac morbidity and mortality is modest(13)",
+            "Mortality after pacemaker implantation varies from 1% to 4% and is affected by the following variables:(6) \u2013Renal failure \u2013High New York Heart Association (NYHA) class \u2013Low ejection fraction \u2013High BMI \u2013Stroke \u2013Low platelet count"
+        ],
+        "referral to other disciplines": "Physician for management of symptoms related to pacemaker syndrome; clinical exercise testing laboratory for direct measurement of VO 2  peak; nutritionist for dietary management and advice on weight control; occupational therapist for limitations in ADLs; psychiatrist/psychologist for stress/anxiety disorder and depression; nurse educator; social worker; smoking cessation program",
+        "other considerations": [
+            "Assessment of VO 2  peak is widely practiced in cardiac rehabilitation programs as a measure of the patient\u2019s cardiorespiratory endurance capacity for physical activities and basis for aerobic exercise prescription, along with activity-related adverse signs and symptoms",
+            "VO2  peak can be measured directly in a cardiopulmonary exercise testing laboratory or estimated from standard treadmill or cycle ergometer testing protocols. The 6MWT can be used to predict VO 2  peak(3)",
+            "The prescribed exercise training HR should be based on the monitored HR and perceived exertion responses during maximal, symptom-limited treadmill or cycle ergometer testing(3)",
+            "Implantation of a permanent pacemaker commonly results in postoperative ipsilateral shoulder pain and disability that indicate the need for physical therapy(19)"
+        ],
+        "treatment summary": [
+            "Aerobic exercise training  (3) \u2013Patients should exercise 3 to 5 times a week and the duration of each exercise session should be 30 minutes to 1 hour \u2013Intensity of exercise should achieve 80% of the patient\u2019s HR reserve, which could be determined using the 6MWT \u2013The Borg rate of perceived exertion scale could also be used to determine intensity of exercise. Recommended intensity is between 10 and 14 on a 20- point scale to achieve a positive exercise effect \u2013Exercise modalities that could be used include walking aerobic exercises (either using a treadmill or normal walking) or using a stationary bicycle or ergometer \u2013Exercises should be adhered to for at least 8 to 12 weeks \u2013Home exercises can be given to prolong the benefits of exercise ",
+            "Resistance exercise training \u2013Although exercise therapy should target muscle weakness, the intensity of resistance exercise that is generally safe and effective in patients with pacemakers is unclear \u2013The patient should avoid lifting weights for 3 to 4 weeks after pacemaker implantation(3) \u2013Type of activity: Circuit training.(11) Weight-lifting exercises on machines or using free weights (e.g., leg press, chest press, leg extension, lat pull-down,  leg curls, shoulder press, biceps curl, triceps press)(17,18) \u2013Intensity: Low to moderate intensity.(17) Resistance training at 30\u201350%  of 1-RM  should be used to build muscular endurance; training at 50\u201370%  of 1-RM  should be used to increase strength(11) \u2013Duration: 2\u20133 sets of 10\u201320  maximal repetitions per exercise, taking about 30 min. to complete the exercise session(18) \u2013Frequency: 2\u20133 nonconsecutive days per week(11)",
+            "Shoulder rehabilitation \u2013Authors of an RCT included 62 pacemaker candidates who were randomly divided into two groups after pacemaker implantation. One group received physical therapy for adhesive capsulitis after device implantation and the other group did not. Authors found that physical therapy and exercise education significantly reduced the incidence of adhesive capsulitis following pacemaker implantation(19) \u2013Specific exercises (3 days per week) involved strengthening and/or stretching shoulder girdle muscles . Problem Goal Intervention Expected Progression Home Program Reduced strength, aerobic endurance, and functional exercise capacityImprovement of functional exercise capacity to age-norm or betterExercise therapy _ See review in Treatment summary , above, for: _ Aerobic exercise _ Resistance exerciseGradually progress the intensity and duration of exercises to the maintenance phaseProvide the patient with a home program at discharge from supervised exercise. Physical fitness can continue to improve with an independent progressive exercise program ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved aerobic endurance": [
+            "Graded exercise testing, 6MWT"
+        ],
+        "improved strength": [
+            "MMT, use of machines or free weights"
+        ],
+        "improved functional exercise capacity in adls": [
+            "6MWT, patient report"
+        ],
+        "improved quality of life": [
+            "SF-36",
+            "Barthel Index"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continue prescribed exercise training through independent home program",
+        "Weight reduction and control, as indicated",
+        "Dietary program, as prescribed",
+        "Smoking cessation",
+        "Attend regular check-ups  every 3 to 12 months with physician to assess proper functioning of pacemaker(20) Batteries typically last 6 to 10 years; wires may need to be replaced as well Some pacemakers can be checked remotely using a phone or the Internet  \u2013Guidelines updated in 2012 suggest the following minimum frequency of monitoring for pacemakers, implantable cardio-defibrillators,  and CRTs(21) -Within 72 hours of implantation and up to 12 weeks post-implantation,  all monitoring in person -Every 3 to 12 months for pacemaker/CRT-pacemaker,  in person or remote -Every 3 to 6 months for implantable cardio-defibrillators  and CRT defibrillators, in person or remote -Annually until battery depletion, in person -Every 1 to 3 months at signs of battery depletion, in person or remote \u2013Remote monitoring is being researched and has been found to be effective in reducing in-office  visit costs without increasing the risk of major cardiovascular events(22)"
+    ],
+    "patient education": [
+        "National Library of Medicine, NIH, MedlinePlus information on pacemakersand implantable defibrillators, https:// medlineplus.gov/pacemakersandimplantabledefibrillators.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Mulpuru SK, Madhavan M, McLeod CJ, Cha YM, Friedman PA. Cardiac pacemakers: function, troubleshooting, and management: part 1 of a 2-part series. J Am Coll Cardiol . 2017;69(2):189\u2013210.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Dalia T, Amr BS. Pacemaker Indications. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Tedjasukmana D, Triangto K, Radi B. Aerobic exercise prescription in heart failure patients with cardiac resynchronization therapy. J Arrhythm . 2021;37:165-172.  doi:10.1002/ joa3.12475. (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Kusumoto FM, Schoenfeld MH, Edgerton JR, et al. 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: Executive summary. Heart Rhythm . 2019;16(9):e227-e279.  doi:10.1016/j.hrthm.2018.10.036. (G)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Alswyan AH, Liberato AC, Dougherty CM. A systematic review of exercise training in patients with cardiac implantable devices. J Cardiopulm Rehabil Prev . March 2018;38(2):70-84.  doi:10.1097/HCR.0000000000000289. (SR)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Puette JA, Malek R, Ellison MB. Pacemaker. StatPearls . January 6, 2021. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Ferri FF. Heart Block, Complete. Ferri FF, ed. 2021 Ferri\u2019s clinical advisor: 5 books in 1 . Philadelphia, PA: Mosby Elsevier; 2021. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Zweerink A, van de Lingen AL, Handoko ML, van Rossum AC, Allaart CP. Chronotropic incompetence in chronic heart failure: a state-of-the-art  review. Circ Heart Fail . August 2018;11(8):e004969. doi:10.1161/CIRCHEARTFAILURE.118.004969. (SR)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Lak HM, Goyal A. Pacemaker Types and Selection. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Tolosana JM, Trucco E. Cardiac pacing in patients with hypertrophic obstructive cardiomyopathy. Glob Cardiol Sci Pract . August 2018;2018(3):29. doi:10.21542/gcsp.2018.29. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Pelliccia A, Sharma S, Gati S, et al. 2020 ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease: The task force on sports cardiology and exercise in patients with cardiovascular disease of the European Society of Cardiology (ESC). Eur Heart J . 2021;42(1):17-96.  doi:10.1093/eurheartj/ehaa605. (G)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Tess;er J, Bordoni B. Cardiac Rehabilitation. StatPearls . Treasure Island, FL: StatPearls Publishing; 2021. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Chauvet-Gelinier  JC, Bonin B. Stress, anxiety and depression in heart disease patients: A major challenge for cardiac rehabilitation. Ann Phys Rehabil Med . January 2017;60(1):6-12.  doi:10.1016/j.rehab.2016.09.002. (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Watanabe E, Abe H, Watanabe S. Driving restrictions in patients with implantable cardioverter defibrillators and pacemakers. J Arrhythm . December 2017;33(6):594-601. doi:10.1016/j.joa.2017.02.003. (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Hansen D, Niebauer J, Cornelissen V, et al. Exercise prescription in patients with different combinations of cardiovascular disease risk factors: a consensus statement from the EXPERT working group. Sports Med . May 2018;48:1781-1797.  doi:10.1007/s40279-018-0930-4.  (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Badger J, Taylor P, Swain I. The safety of electrical stimulation in patients with pacemakers and implantable cardioverter defibrillators: A systematic review. J Rehabil Assist Technol Eng . 2017;4:1-9.  doi:10.1177/2055668317745498. (SR)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Liu Y, Lee DC, Li Y, et al. Associations of resistance exercise with cardiovascular disease morbidity and mortality. Med Sci Sports Exerc . 2019;51(3):499-508.  doi:10.1249/ MSS.0000000000001822. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Schroeder EC, Franke WD, Sharp RL, Lee DC. Comparative effectiveness of aerobic, resistance, and combined training on cardiovascular disease risk factors: a randomized controlled trial. PloS One . 2019;14(1):e0210292. doi:10.1371/journal.pone.0210292. (RCT)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Jorat MV, Namayandeh SM, Mehdipour Namdar Z, Aslani A. Prevention of adhesive capsulitis following pacemaker implantation: A randomized controlled study. Pacing Clin Electrophysiol . 2020;43(9):1000-1003.  doi:10.1111/pace.13999. (RCT)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Pacemaker Implantation. NHS Web site. https://www.nhs.uk/conditions/pacemaker-implantation/recovery/ . Published October 2018. (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/AHA/HRS Focused update of the 2008 guidelines for device-based  therapy of cardiac rhythm abnormalities. J Am Coll Cardiol. 2012;60(14):1297-1313.  (G)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Watanabe E, Yamazaki F, Goto T, et al. Remote management of pacemaker patients with biennial in-clinic evaluation: continuous home monitoring in the Japanese at-home study: a randomized clinical trial. Circ Arrhythmia Elec . May 2020;13(5):e007734. doi:10.1161/CIRCEP.119.007734. (RCT)"
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "metadata": {
+        "title": "Response to Intervention (RTI)",
+        "synonyms": [
+            "response to instruction",
+            "response to intervention and instruction (rtii or rti)",
+            "recognition and response (rti model used for preschool children)",
+            "multi-tier  system of supports (mtss)"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [],
+        "description": [
+            "RTI is an approach for providing instruction (usually in reading) to all children within a classroom. It has also been used as a framework to identify learning disabilities.(32)One of the purposes of RTI is to provide students with high-quality instruction that matches their academic or behavioral needs.(34)There are fivecore principles of properly implementing an RTI program: universal screening, high-quality core reading program, progress monitoring, increasingly intensive tiers of intervention, and fidelity of implementation(33)"
+        ],
+        "indications": [
+            "RTI methods can be used as part of the process of identifying students with learning disabilities.In the RTI process, all children are evaluated for their mastery of certain educational material, and those who do not meet the educational goals or reach educational benchmarks receive additional intervention/instruction"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "code": "Not applicable. RTI is conducted primarily in the general education setting and is provided to all students, not",
+            "description": " just those in whom a specific medical condition or speech, language, or learning disability is diagnosed"
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Not applicable Indications for procedure"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "As potential learning disability (LD) identification is embedded within this preventive framework, schools are faced with questions about how best to operate this process. Professional concerns expressed about using RTI as a part of specific learning disability (SLD is a disorder in one or more basic psychological processes involved in understanding or using language) identification typically revolve around issues related to instruction and assessment. Although sound instruction is paramount to successful implementation of RTI, assessment data should drive decision-making. Therefore, progress monitoring is one of the most critical features of successful RTI implementation. Careful progress monitoring aids teachers and student support teams in making instructional decisions throughout all levels of the RTI system and provides data to corroborate SLD identification(12)",
+            "RTI is an approach to prevent literacy difficulties and delays from occurring; therefore, in the RTI model, Tier 1 instruction is provided to all students within a classroom. The curriculum implemented at Tier 1 must be supported by empirical evidence and should be demonstrated to be effective for a wide group of learners, including those at risk for delays(12)",
+            "Since most children receiving Tier 1 instruction do not have an identified speech-language  concern, the examination questions discussed below might not be necessary for the majority of students receiving instruction through an RTI model. Examination will differ considerably between those children without suspected speech-language  difficulties and those children with suspected speech-language  difficulties who have already experienced academic failure",
+            "The following information contained under History might be relevant if a speech-language  disorder is suspected or if a child has a significant medical history. Obtaining a medical history for each child in a general education classroom is unnecessary. The information contained under Relevant tests and measures  is specific to RTI. For information on the examination of a child with a suspected or identified speech, language, or literacy disorder, please see the series of Clinical Reviews  on those topics"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [
+        "RTI primarily focuses on literacy instruction in the elementary education setting, with Tier 1 instruction provided to all students and subsequent tiers provided to children who do not meet educational goals with Tier 1 instruction. However, RTI has also been used in early childhood education settings with preschool children identified with developmental delays or as at risk for educational delay, at the secondary level with students with delayed reading skills,(7) for teaching appropriate social behavior,(8) for teaching preschool children who use augmentative and alternative communication (AAC),(9) with English-language  learners,(9,10) and with preschool children who stutter if they do not present with risk factors for persistent stuttering(11)"
+    ],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {
+        "rti is primarily performed in the general education classroom and should be implemented in close collaboration with the classroom teacher and other educational professionals  e.g., school and district administrators, special education teachers,": [],
+        "the slp must be aware of cultural considerations when assessing communicative functioning and developing intervention strategies. communication and literacy needs of children should be considered with respect to the cultural, familial, and": [],
+        "the slp should consider the language abilities of the child and the language that the child speaks at home when evaluating language and literacy ability. for more information on evaluating bilingual school-aged  children, please see clinical": []
+    },
+    "guidelines for use of procedure": {
+        "see description use  under indexing metadata description , above, and treatment summary  under  assessment plan of care  , below": []
+    },
+    "examination": {
+        "contraindications precautions to examination": [
+            "As potential learning disability (LD) identification is embedded within this preventive framework, schools are faced with questions about how best to operate this process. Professional concerns expressed about using RTI as a part of specific learning disability (SLD is a disorder in one or more basic psychological processes involved in understanding or using language) identification typically revolve around issues related to instruction and assessment. Although sound instruction is paramount to successful implementation of RTI, assessment data should drive decision-making. Therefore, progress monitoring is one of the most critical features of successful RTI implementation. Careful progress monitoring aids teachers and student support teams in making instructional decisions throughout all levels of the RTI system and provides data to corroborate SLD identification(12)",
+            "RTI is an approach to prevent literacy difficulties and delays from occurring; therefore, in the RTI model, Tier 1 instruction is provided to all students within a classroom. The curriculum implemented at Tier 1 must be supported by empirical evidence and should be demonstrated to be effective for a wide group of learners, including those at risk for delays(12)",
+            "Since most children receiving Tier 1 instruction do not have an identified speech-language  concern, the examination questions discussed below might not be necessary for the majority of students receiving instruction through an RTI model. Examination will differ considerably between those children without suspected speech-language  difficulties and those children with suspected speech-language  difficulties who have already experienced academic failure",
+            "The following information contained under History might be relevant if a speech-language  disorder is suspected or if a child has a significant medical history. Obtaining a medical history for each child in a general education classroom is unnecessary. The information contained under Relevant tests and measures  is specific to RTI. For information on the examination of a child with a suspected or identified speech, language, or literacy disorder, please see the series of Clinical Reviews  on those topics"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document if a medical condition has been diagnosed that might affect the child\u2019s learning and/or school performance. Document if a speech, language, or developmental delay has previously been diagnosed",
+                "course of treatment": {
+                    "medical management": "Document if the child is currently under medical management",
+                    "surgical management": [],
+                    "medications": "Determine whether or not the child currently has a prescription for any medications; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  The U.S. Individuals with Disabilities Education Act (IDEA) of 2004 approves the RTI model for both the prevention and identification of learning disabilities. A comprehensive individual exam will not be scheduled until a child has not responded to three tiers of instruction/intervention, each lasting 12 weeks. However, it should be pointed out that an advantage of an RTI model is that children receive intervention prior to formal identification.(1) This model includes 1) screening all children for reading difficulties, 2) monitoring the progress of children at risk for reading difficulties, and 3) providing increasingly intensive interventions based upon the results of progress monitoring assessments. When a child does not respond adequately to intensive intervention, he or she should be referred for a comprehensive evaluation of eligibility for special education services. In this model, three criteria are important for identifying a learning disability(1)",
+                        "low achievement on norm-referenced  test",
+                        "poor response to evidence-based  instruction; and",
+                        "confirmation that low achievement is not due to other factors or another disability (e.g., intellectual disability, sensory disorder, limited English proficiency)",
+                        "If a child is referred to speech and language assessment, diagnostic tests might include comprehensive speech, language, and cognitive testing as well as reading assessment "
+                    ],
+                    "alternative therapies": "If the child has medical or speech/language concerns, document any use of home remedies or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether child has had speech, occupational, or physical therapy for any condition(s) and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Does the child have hearing or vision difficulties? -Does the child have difficulties with speech or language?",
+                "body chart": "",
+                "nature of symptoms": " Nature of symptoms -Does the child read slowly or have difficulty reading?(13) -Does the child have an aversion to reading and try to avoid reading at home or at school?(13) -Does the child have difficulty spelling?(13) -Was the child delayed in speaking? -Does the child have difficulty relating past events, telling stories, or explaining? -Does the child have frequent mispronunciations, difficulty with word retrieval, or need extra time to provide an oral response?(14) -Does the child have any other behavioral problems and/or school difficulties?(13)",
+                "rating of symptoms": "",
+                "pattern of symptoms": "Document changes in symptoms/difficulties based upon the type of instruction provided; also document changes in symptoms due to external variables",
+                "sleep disturbance": "",
+                "other symptoms": "Document other symptoms child might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, confusion, difficulty hearing, poor attention)",
+                "respiratory status": "Note history of respiratory status as necessaryDocument any psychosocial issues that affect academic performance or social skills. Refer to school counselor or other mental health professionals as necessaryDocument presence of hearing loss and/or history of hearing loss. Does child wear hearing aids and/or cochlear implant(s)? Are they in working order? An SLP or school nurse might administer a hearing screen and make referrals to audiology as necessary Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe __________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Ask child\u2019s family/primary caregiver/school nurse about other problems, including hearing loss, behavioral problems, motor problems, cognitive problems, and feeding/eating problems",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask child\u2019s family/primary caretaker about any other symptoms the child is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include receive intervention services? If so, are they home, school, or clinic based? Does the child enjoy reading activities/avoid reading activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Obtain information on adaptive behaviors (as needed) and any adaptive equipment the child is using for reading, communication, mobility, and/or eating",
+                "living environment": "Does the child\u2019s living environment support literacy development? What language(s) are spoken in the home? Does the child display literacy skills in the home language? Relevant tests and measures (listed in order of administration)  Screening measures  (12) Screening measures frequently are used to determine if the child is likely to meet or fail to meet educational goals(12) In kindergarten and 1st grade, screening measures frequently focus on reading readiness or reading ability(12) Screening measures typically are given only once(12) An example of a screening measure is the Get Ready to Read (GRTR) screening tool (20 items examining print knowledge, emerging writing, and phonological awareness)(25) Studies indicate that schools save money by conducting two stages of screening, which reduces false positives; that is, students who unnecessarily enter expensive secondary prevention(12) Progress monitoring tools Eye-tracking  software can be a valuable, objective tool for psycho-behavioral  interventions in neurodevelopmental disorders(35) Students are frequently (14 times per month) given brief (13 minute) assessments to determine whether or not they are mastering the curriculum and meeting long-term  benchmark goals(12) Scores might be plotted on a graph to evaluate the student\u2019s rate of progress over time and his or her level of performance(12) The use of criterion-referenced  progress-monitoring  measures that can reliably capture growth over time is critical within an RTI framework. Progress-monitoring  measures are considered dynamic indices because they measure change in response to systematic instruction(12) -If results from progress-monitoring  tools consistently show that the student is not progressing as desired when given Tier 1 instruction, the student should be referred for Tier 2 intervention(12) -Progress monitoring is continued on a weekly basis for students receiving Tier 2 intervention. Those who respond well to Tier 2 intervention and make desired improvement might return to Tier 1 intervention only. However, for students who continue to have difficulty making desired progress, Tier 2 intervention should be continued or Tier 3 intervention provided(12) Progress-monitoring  tools should be quick and easy to administer, score, and analyze since they are intended to be used frequently(15) Researchers investigating RTI programs have developed Individual Growth & Development Indicators 2.0 (IGDIs 2.0), which are a set of measures used for monitoring the growth and development of children as a result of participation in -Picture-naming  vocabulary (oral language)(26,27) -Which one doesn\u2019t belong? (comprehension)(26,27) -First sounds (phonological awareness)(26,27) -Rhyming (phonological awareness)(26,27) -Sound identification (alphabet knowledge)(26,27)(15) -Dynamic Indicators of Basic Early Literacy Skills (DIBELS)(16) -The DIBELS trademark has now been sold to the University of Oregon in 2018 and new information can be found//dibels.uoregon.edu/ -DIBELS 8th edition is a universal screening and benchmark assessment tool for students in kindergarten through 8th grade -A battery of short 1- minute to assess fluency -Letter Naming Fluency (LNF) -Phonemic Segmentation Fluency (PSF) -Nonsense Word Fluency (NWF) -Word Reading Fluency (WRF) -Oral Reading Fluency (ORF)  -Tracking Narrative Language Progress (TNL-Pr)(17) -Used by SLPs to monitor progress in narrative abilities -Measures macro-  and microstructures of narrative production -For use with school-aged  children -Requires the elicitation of a narrative -Narrative Assessment Procedure (NAP)(18) -Measures language production skills -For use with preschool-aged  children -Requires the elicitation of a narrative"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to children with certain communication diagnoses are mentioned below, including with regard to modalities. Rehabilitation and educational professionals should always use their professional judgment",
+                "Children who present with an obvious communication disorder might be referred for speech-language  services without initially going through the first tiers of RTI. RTI was not designed to be used with students who have a significant communication disorder and who obviously require specialized services.(11) Children with severe phonological disorders or apraxia of speech often require direct speech-language services rather than intervention through an RTI model",
+                "In the United States, special education law (IDEA 2004) grants parents the right to request an evaluation for special education services at any time whether or not their child has received RTI in the general classroom. Participation in an RTI program is not a reason to delay or deny evaluations requested by parents(11)",
+                "The RTI model is not an appropriate intervention model for some students with communication disorders, including preschoolers who stutter and display risk factors for persistent or school-aged stuttering. Rather, these students should receive speech therapy that specifically targets their communication impairment(11)",
+                "In a survey-based  study conducted in the United States with responses gathered from 211 special education teachers who use RTI in their school system, researchers asked participants about perceived barriers to effective implementation of RTI. The following are the barriers most often reported by this sample: burdensome and time-consuming  paperwork involved, knowledge gaps/lack of training in the treatment team (especially among the general education teachers), negative attitudes regarding RTI among school faculty, and lack of resources(24)"
+            ]
+        },
+        "diagnosis need for treatment": "Tier 1 instruction is provided to all children within a class regardless of whether or not they have a diagnosis. Children who do not meet educational/literacy goals with Tier 1 instruction will be provided with additional tiers of instruction and/or special education (including speech therapy) services as appropriate",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "Referral to a behavioral psychologist or behavior specialist might be warranted to assist with behavioral therapy and/or challenging behaviors",
+        "other considerations": [
+            "Rule out hearing loss, second-language  learning difficulties, vision difficulties, and lack of adequate reading instruction",
+            "The use of RTI in countries other than the United States may differ in many ways, complicating RTI research \u2013For example, researchers who conducted a study comparing RTI in the United States and Finland came to the following conclusions:(30) -In the United States, RTI is used for diagnosing and preventing learning disabilities whereas RTI in Finland mainly exists to provide administrative structure for support -RTI in the United States has explicit definitions for intensity, duration, and content of the support provided within each tier, something that is lacking in the Finish version -In the United States, no special educational services are assumed for Tier 1 and 2, but in the Finish system special educational services start at the onset of support, no matter the tier "
+        ],
+        "treatment summary": [
+            "Please see Description/use  under Indexing Metadata/Description  at the beginning of this paper for a general summary of the RTI model",
+            "SLPs possess a unique set of skills that make them valuable contributors to the RTI model in a school setting. Relevant areas of expertise include language development; language content, form, and use; the relationship between oral language and literacy development; phonemic awareness; data analysis; and how to make clinical/educational decisions based on data collected(20)",
+            "Speech-language  pathologists have important roles and responsibilities in RTI frameworks. Speech-language  pathology practice in schools has evolved to emphasize service delivery that is grounded in grade-level  curriculum. This focus on literacy and providing just-in-time  assistance for students is emphasized, as it is a natural fit for the specialized knowledge/ skills of the school-based  SLP(22)",
+            "As SLPs become involved in the implementation of the RTI model, their roles might shift to include a greater focus on literacy instruction in the general education classroom in order to prevent  reading and literacy delays (pre-referral activities).This is in contrast to a traditional model wherein an SLP serves children who have been identified with a language and/or literacy delay (post-referral intervention).(5) Additionally, service delivery might shift away from a pull-put model to providing more intervention within the classroom and spending greater amounts of time in consultation with other school staff and/or parents(21)",
+            "SLPs involved in the implementation of RTI might shift from a caseload focus to a workload focus. In a traditional caseload perspective, an SLP\u2019s amount of work is calculated based on the number of children with a speech/language disability for whom the SLP provides direct services. A workload focus considers a wider variety of tasks for which the SLP is responsible: consulting with classroom teachers, consulting with agencies outside the school, classroom/student observations, and paperwork(22)",
+            "As SLPs become involved in RTI, they must expand their field of knowledge to include: 1) the ways in which speech and language, classroom instruction, and student performance affect one another; 2) grade-level  curriculum standards; 3) federal mandates regarding school accountability, including requirements to document \u201cadequate yearly progress\u201d; 4) the number of students with disabilities attending a particular school and the testing modifications and accommodations permitted for those students;(22)and 5) how to critically evaluate and develop sound, valid progress-monitoring instruments(15)",
+            "Although RTI has primarily been used in and discussed regarding elementary education,(7) it has also been implemented in rural areas(34) and secondary schools(7,23) \u2013Using the RTI model in secondary school has been advocated to address the literacy needs of older students and to prevent them from failing academically. Due to the oral language basis of literacy, SLPS have an important role in this arena(7)",
+            "It may be that not all students should start in Tier 1(28) \u2013Based on an RCT conducted in the United States in which researchers compared two models of RTI in a group of 522 students entering first grade: typical RTI and dynamic RTI -In typical RTI, all students began in Tier 1 and progressed through the subsequent Tiers (2 and 3) as indicated based on poor performance in literacy skills. In dynamic RTI, students who had the weakest reading abilities (based on initial screening scores) were \u201cfast-tracked\u201d  into Tier 2 or 3 depending on their skill profile. There were 34 schools included in the yearlong trial and researchers trained the teachers to implement each of the two RTI conditions in the same manner across schools. The only difference between the conditions was the timing of initiation of Tier 2 and 3 for pupils with the poorest initial scores -Researchers found that dynamic RTI was significantly more effective for improving overall reading scores by the end of first grade than typical RTI and the effect size was moderate. Researchers also concluded that it is possible to determine which students will require more intensive intervention based on initial screening scores",
+            "STEPS-K  program(31) \u2013Developed by two occupational therapists, designed to improve visual and fine motor skills for kindergarten children prior to the onset of handwriting \u2013Provides a system for collaboration between OTs and teachers",
+            ". Problem Goal Intervention Expected Progression Home Program  Child has difficulty achieving grade-level goals for language and/ or literacyChild will achieve grade-level proficiency in language and literacyRTI _ Foundational principles include tiered instruction to provide individualized, optimal support to each student; universal screening to identify students at risk for reading difficulties; systematic evidence-based classroom instruction and evidence-based intervention; ongoing progress monitoring; and implementation of effective interventions for students who require more intensive instruction(1) _ _ See Description/ use and Treatment summary , aboveStudents who do not achieve language/ literacy goals with Tier 1 intervention will move to Tier 2 and Tier 3 as necessaryN/A ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "provision of high-quality  instruction and learning opportunities": [
+            "Dynamic Indicator of Basic Early Literacy Skills (DIBELS),(16) Tracking Narrative Language Progress (TNL-Pr),(17)andthe Narrative Assessment Procedure (NAP)(18)"
+        ],
+        "early and effective identification and intervention for struggling readers": [
+            "Dynamic Indicator of Basic Early Literacy Skills (DIBELS),(16) Tracking Narrative Language Progress (TNL-Pr),(17)andthe Narrative Assessment Procedure (NAP)(18)",
+            "IGDIs 2.0(26,27)",
+            "Smaller amounts of paperwork(7)\u2013Change from the traditional service-delivery  model could make better use of the SLP's time, thus minimizing the highworkload(7)",
+            "Research based(7)",
+            "Fewer referrals(7)",
+            "Proactive interventions(7)\u2013SLPs will be better able to address prevention and early intervention, possibly benefiting more students in the long run(7)",
+            "Faster student improvement(7)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Tier 1 intervention includes core instruction as well as screening of all children to determine if they should be moved to the more intensive instruction of Tier 2. Children are screened periodically to determine if they are responding positively to the  instruction provided and to identify their need for Tier 3 instruction. One goal of RTI is more intensive intervention early on to prevent a child from being referred to special education(10)"
+    ],
+    "patient education": [
+        "See booklets with parent information on reading and helping children to read at the U.S. National Institute of Child Health & Human Development website, https://www.nichd.nih.gov/health/topics/reading/conditioninfo/pages/teach.aspx Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Fletcher JM, Vaughn S. Response to intervention: preventing and remediating academic difficulties. Child Dev Perspect . 2009;3(1):30-37.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Fletcher JM, Vaughn S. RTI models as alternatives to traditional views of learning disabilities: response to the commentaries. Child Dev . 2009;3(1):48-50.  (X)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Wanzek J, Vaughn S. Response to varying amounts of time in reading intervention for students with low response to intervention. J Learn Disabil . 2008;41(2):126-142.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Simmons DC, Coyne MD, Kwok OM, McDonagh S, Ham BA, Kame\u2019enui EJ. Indexing response to intervention: a longitudinal study of reading risk from kindergarten through third grade. J Learn Disabil . 2008;41(2):158-173.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Justice LM. Evidence-based  practice, response to intervention, and the prevention of reading difficulties. Lang Speech Hear Serv Sch . 2006;37(4):284-297.  (X)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kayser H. Response to intervention and implication for Latino children. Perspect Sch Based Issues . 2009;10(4):111-114.  (X)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Ehren BJ, Whitmire K. Speech-language  pathologists as primary contributors to response to intervention at the secondary level. Semin Speech Lang . 2009;30(2):90-104.  (X)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Hawken LS, Vincent CG, Schumann J. Response to intervention: challenges and opportunities. J Emot Behav Disord . 2008;16(4):213-225.  (X)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Brown JE, Sanford A. Response to intervention for English language learners: appropriately using screening and progress monitoring tools to improve national outcomes. National Center on Response to Intervention. http://www.rti4success.org/sites/default/files/rtiforells.pdf . Published March 2011. Accessed June 8, 2020. (PP)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Linan-Thompson  S, Ortiz AA. Response to intervention and English-language  learners: instructional and assessment considerations. Semin Speech Lang . 2009;30(2):105-120. (X)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Gottwald SR, Reeves NA. Response to intervention: how do fluency disorders fit in?. Perspect Fluen Fluen Disord . 2011;21(1):6-10.  (X)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Stecker PM, Fuchs D, Fuchs LS. Progress monitoring as essential practice within response to intervention. Rural Spec Educ Q . 2008;27(4):10-17.  (X)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Shaywitz SE, Shaywitz BA. The new science of reading and its implications for the classroom. Educ Canada . 2004;44(1):20-23.  (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Shaywitz SE, Morris R, Shaywitz BA. The education of dyslexic children from childhood to young adulthood. Annu Rev Psychol . 2008;59:451-475.  (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Gillam SL, Justice L. RTI progress monitoring tools. ASHA Leader . 2010;15(11):12-15.  (PP)"
+        },
+        {
+            "number in article": 16,
+            "reference": "DIBELS 8th Edition. University of Oregon Web site. https://dibels.uoregon.edu/assessment/dibels/dibels-eighth-edition . Accessed June 8, 2020. (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Gillam S, Gillam R. Tracking Narrative Language-Progress  (TNL-Pr). Two-hour  seminar presented at the American Speech-Language-Hearing  Association annual convention, New Orleans, LA. 2009. (PP)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Justice L, Bowles R, Pence K, Gosse C. A scalable tool for assessing children's language abilities within a narrative context: the NAP (Narrative Assessment Protocol). Early Child Res Q . 2010;25:218-234.  (PP)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Lyon GR, Shaywitz SE, Shaywitz BA, Chhabra V. Evidence-based  reading policy in the United States: how scientific research informs instructional practices. Brookings Pap Educ Policy . 2005;209-250.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Rudebusch J, Wiechmann JA. How to fit response to intervention into a heavy workload. The ASHA Leader . 2011;10-13.  (X)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Ehren BJ, Montgomery J, Rudebusch J, Whitmire K. New roles in response to intervention: creating success for schools and children. American Speech-Language-Hearing Association Web site. http://www.asha.org/uploadedFiles/slp/schools/prof-consult/rtiroledefinitions.pdf . Published November 2006. Accessed June 8, 2020. (PP)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Westby C. Response to intervention. Word of Mouth: A newsletter dedicated to speech and language in school-age  children. 2005;17(2):1-4.  (X)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Ehren B. Response-to-intervention:  SLPs as linchpins in secondary schools. ASHA Leader . 2009;10-13.  (X)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Werts MG, Carpenter ES, Fewell C. Barriers and benefits to response to intervention: Perceptions of special education teachers. Rural Spec Educ Q . 2014;33(2):3-11.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Carta JJ, Greenwood CR, Atwater J, McConnell SR, Goldstein H, Kaminski RA. Identifying preschool children for higher tiers of language and early literacy instruction within a response to intervention framework. J Early Interv . 2014;36(4):281-291.  doi:10.1177/1053815115579937. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "McConnell SR, Wackerle-Hollman  AK, Roloff TA, Rodriguez M. Designing a measurement framework for response to intervention in early childhood programs. J Early Interv . 2014;36(4):263-280.  doi:10.1177/1053815115578559. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Greenwood CR, Carta JJ, Goldstein H, Kaminski RA, McConnell SR, Atwater J. The Center for Response to Intervention in Early Childhood: Developing evidence-based  tools for a multi-tier approach to preschool language and early literacy instruction. J Early Intervention . 2014;36(4):246-262.  doi:10.1177/1053815115581209. (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Al Otaiba S, Connor CM, Folsom JS, et al. To wait in Tier 1 or intervene immediately: A randomized experiment examining first grade Response to Intervention (RTI) in reading. Except Child . 2014;81(1):11-27.  (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Ciullo S, Lembke ES, Carlisle A, Thomas CN, Goodwin M, Judd L. Implementation of evidence-based  literacy practices in middle school response to intervention. Learn Disabil Q. 2016;39(1):44-57.  doi:10.1177/0731948714566120. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Bjorn PM, Aro MT, Koponen TK, Ruchs LS, Ruchs DH. The many faces of special education within the RTI frameworks in the United States and Finland: Response to intervention. Learn Disabil Q . 2016;39(1):58-66.  doi:10.1177/9731948715594787. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Koelbl H, Myman Y, Wuestefeld AC, Elenko B, Ohl A. Occupational therapists\u2019 perceptions of STEPS-K:  a response to intervention (RTI) program. J Occup Ther Sch Early Interv. 2016;9(3):269-280.  doi:10.1080/19411243.2016.1207213. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Bj\u00f6rn PM, Aro M, Koponen T, Fuchs LS, Fuchs D. Response-To-Intervention  in Finland and the United States: Mathematics Learning Support as an Example. Front Psychol . 2018;9:800. doi:10.3389/fpsyg.2018.00800. (RV)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Otaiba SA, Wanzek J, Yovanoff P. Response to Intervention. Eur Sci J. 2015;2015(Suppl 0):260-264.  (RV)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Ruiz MI. Beyond Traditional Response to Intervention: Helping Rural Educators Understand English Learners\u2019 Needs. Rural Special Education Q . 2020;39(1):35-53. doi:10.1177/8756870519894661. (RV)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Fletcher-Watson  S, Hampton S. The potential of eye-tracking  as a sensitive measure of behavioural change in response to intervention. Sci Rep. 2018;8(1):14715. doi:10.1038/s41598-018-32444-9.  (RV)"
+        }
+    ]
+}

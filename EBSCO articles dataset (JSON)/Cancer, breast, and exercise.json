@@ -1,0 +1,402 @@
+{
+    "metadata": {
+        "title": "Breast Cancer and Exercise",
+        "synonyms": [
+            "breast cancer in women and exercise",
+            "breast cancer and physical activity"
+        ],
+        "anatomical location body part affected": [
+            "Breast/mammary tissue (can also involve chest muscle and skin, lymph nodes, or other organs such as bone if metastasis occurs)"
+        ],
+        "area of specialty": [
+            "oncology",
+            "women\u2019s health"
+        ],
+        "description": [
+            "Breast cancer accounts for 25.1% of all cancers and is the most common form of cancer in women. The incidence of breast cancer is expected to increase to 85 cases per 100,000 women in 2021 (1)",
+            "Cancer-related  fatigue (CRF) is defined as a persistent tiredness or exhaustion that can be physical, cognitive, or emotional and that is related to cancer or treatment of cancer. CRF is disproportional to the activity performed and interferes with physical functioning (1)",
+            "Sixty to ninety percent of women with breast cancer experience fatigue, and one in four cancer survivors experiences severe fatigue (1)",
+            "There is overwhelming evidence to support the benefits of exercise on physical and psychosocial outcomes of women during and after cancer treatment (2)",
+            "Women with breast cancer are at a greater risk for experiencing decreased cardiorespiratory fitness, muscular strength, and bone health, which can impact quality of life. Cancer-related  treatments, such as chemotherapy and radiation, as well as obesity and physical inactivity contribute to these negative health outcomes (3)",
+            "This Clinical Review  focuses on exercise training for management of breast cancer-related  fatigue and reduced physical function. See Clinical Review ... Cancer-Related  Fatigue and Exercise ; CINAHL Topic ID Number: 5000015209 for additional information on exercise to manage fatigue during and after treatment in other types of cancer"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "C50": "malignant neoplasm of breast",
+            "C50.0": "Malignant neoplasm of nipple and areola",
+            "C50.1": "Malignant neoplasm of central portion of breast",
+            "C50.2": "Malignant neoplasm of upper-inner quadrant of breast",
+            "C50.3": "Malignant neoplasm of lower-inner quadrant of breast",
+            "C50.4": "Malignant neoplasm of upper-outer quadrant of breast",
+            "C50.5": "Malignant neoplasm of lower-outer quadrant of breast",
+            "C50.6": "Malignant neoplasm of axillary tail of breast",
+            "C50.8": "Malignant neoplasm of overlapping lesion of breast",
+            "C50.9": {
+                "base": "Malignant neoplasm of breast, unspecified site",
+                "ICD-10-CA": "modification in Canada: code range C50.0-C50.9 subdivided and fourth",
+                "digit": " digit added to identify",
+                "0": " 0 right",
+                "1": " 1 left",
+                "9": " 9 unspecified side"
+            },
+            "(ICD": {
+                "base": "codes are provided for the reader\u2019s reference, not for billing purposes)",
+                "Reimbursement": " Reimbursement for therapy will depend on insurance contract coverage. No specific issues or information regarding",
+                "reimbursement": " reimbursement has been identified for therapeutic exercise in breast cancer patients",
+                "Presentation/signs": "and symptoms",
+                "Common": " Common symptoms of cancer-related  fatigue: (4)",
+                "Physical": " Physical fatigue",
+                "Stress": " Stress",
+                "Attention": " Attention deficit",
+                "Difficulty": " Difficulty concentrating",
+                "Mental": " Mental fatigue",
+                "Bodily": " Bodily pain",
+                "Short-term": " Short-term  memory loss",
+                "Nausea": " Nausea",
+                "Up": " Up to 35% of breast cancer survivors develop lymphedema. In many cases following treatment, the involved",
+                "shoulder(s)": " shoulder(s) may have reduced ROM and strength, which can lead to reduced ability to perform ADLs (5)",
+                "Depression": " Depression and anxiety (4)",
+                "Reduced": " Reduced health-related  quality of life (HRQoL) due in large part to functional decline associated with physical Reduced cardiovascular fitness (3)",
+                "inactivity": " inactivity (3)",
+                "Elevated": " Elevated BMI due to weight gain (6)",
+                "Causes,": " Causes, Pathogenesis, & Risk Factors"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "-Reimbursement for therapy will depend on insurance contract coverage. No specific issues or information regarding reimbursement has been identified for therapeutic exercise in breast cancer patients \u2013Presentation/signs and symptoms -Common symptoms of cancer-related  fatigue: (4) -Physical fatigue -Stress -Attention deficit -Difficulty concentrating -Mental fatigue -Bodily pain -Short-term  memory loss -Nausea -Up to 35% of breast cancer survivors develop lymphedema. In many cases following treatment, the involved shoulder(s) may have reduced ROM and strength, which can lead to reduced ability to perform ADLs (5) -Depression and anxiety (4) -Reduced health-related  quality of life (HRQoL) due in large part to functional decline associated with physical inactivity (3) -Elevated BMI due to weight gain (6) -Reduced cardiovascular fitness (3) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "-Common symptoms of cancer-related  fatigue: (4) -Physical fatigue -Stress -Attention deficit -Difficulty concentrating -Mental fatigue -Bodily pain -Short-term  memory loss -Nausea -Up to 35% of breast cancer survivors develop lymphedema. In many cases following treatment, the involved shoulder(s) may have reduced ROM and strength, which can lead to reduced ability to perform ADLs (5) -Depression and anxiety (4) -Reduced health-related  quality of life (HRQoL) due in large part to functional decline associated with physical inactivity (3) -Elevated BMI due to weight gain (6) -Reduced cardiovascular fitness (3) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Individualized screening/assessment for exercise prescription is highly recommended due to the wide variability of tolerance for increased physical activity among patients with breast cancer",
+            "Fitness testing may be contraindicated in patients with bone metastasis",
+            "Fatigue might prevent completing a functional evaluation in a single appointment"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes  of fatigue and functional decline": [
+            "Sedentary lifestyle (3)",
+            "Depression and anxiety(4)",
+            "Cancer and adjuvant treatment (3)\u2013Tumorigenesis/carcinogenesis (6)\u2013Radiation therapy\u2013Chemotherapy\u2013Endocrine therapy",
+            "Anemia (often associated with chemotherapy) (4)",
+            "Stress (4)",
+            "Sleep problems (4)"
+        ],
+        "pathogenesis  of fatigue and functional decline": [
+            "The cause of cancer-related  fatigue is ambiguous.Many factors contribute; they may be due to the cancer itself or itstreatment (4)\u2013Neuropsychological impairment\u2013Muscle metabolism dysregulation\u2013Disruption in circadian rhythm\u2013Elevated mediators of inflammation and stress\u2013Immune activation\u2013Changes in hormones due to effects on the hypothalamic-pituitary  axis\u2013Premature menopause in women or androgen deprivation in men",
+            "Patients may experience multiple forms of fatigue, including: (4)\u2013physical fatigue (stress, physical inactivity, idleness)\u2013mental fatigue (reduced attention span, problems with learning and concentration, short-term  memory loss)",
+            "Other factors that can contribute to functional decline in patients with breast cancer include\u2013depression and anxiety (4)\u2013emotional distress (4)\u2013disturbed sleep (e.g., anxiety, sleep apnea) (4)\u2013severe dehydration\u2013poor appetite (6)\u2013hypothyroidism (4)\u2013immunosuppression\u2013low-grade  inflammation, as indicated by elevated serum proinflammatory cytokines (4)\u2013metastasis to other sites, including the lungs, bones, lymph nodes, and liver"
+        ],
+        "risk factors": [
+            "Female (4)",
+            "Factors associated with increased risk of breast cancer in women\u2013Personal or family history of breast cancer. The most common risk factor for hereditary breast cancer is an inheritedmutation in the BRCA1  gene or BRCA2  gene because these mutations reduce production of tumor suppressor proteins (6)\u2013Middle age (peak incidence after age 40) (7)\u2013Mammographic increased breast density (8)\u2013Increased endogenous estrogen during lifespan (e.g., early menarche, late menopause, later age at first pregnancy ornulliparity) (6,8)",
+            "Obesity and type 2 diabetes (i.e., obesity-related  insulin resistance) (6,7)",
+            "Metabolic syndrome (i.e., abdominal obesity, insulin resistance, hyperinsulinemia, and subacute chronic inflammation)(6)",
+            "Reproductive factors (age at menarche, age at first birth, age at menopause, use of oral contraceptives, use of hormonereplacement therapy) (7)",
+            "Lifestyle factors, such as alcohol consumption(7)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients with bone metastasis require medical clearance for exercise",
+        "Obtain clearance, specific precautions, and safety instructions/parameters from patient\u2019s oncologist regarding plans for exercise testing and training",
+        "Confirm that the patient does not have any unstable cardiac disease, acute infection, or other acute medical condition that would contraindicate exercise",
+        "In patients with postmastectomy complications (e.g., lymphedema, shoulder injury), do not take blood pressure (BP), draw blood, or give injections on the affected upper extremity, as these can worsen the lymphedema/complication. Also, advise patient to avoid constrictive clothing or jewelry that might block lymph drainage (9)",
+        "Modify the exercise program as needed to accommodate the patient\u2019s fatigue level, which can be monitored with a visual analog scale (V AS) or brief fatigue inventory (BFI) (4)",
+        "For additional information on contraindications/precautions for patients with lymphedema who have had surgical treatment for breast cancer, see Clinical Review ... Lymphedema Following Surgical Treatment for Breast Cancer ; CINAHL Topic ID Number: 5000015499",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Individualized screening/assessment for exercise prescription is highly recommended due to the wide variability of tolerance for increased physical activity among patients with breast cancer",
+            "Fitness testing may be contraindicated in patients with bone metastasis",
+            "Fatigue might prevent completing a functional evaluation in a single appointment"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Attempt to identify symptoms that may contribute to patient\u2019s functional decline",
+                "course of treatment": {
+                    "medical management": "What medical treatment has the patient undergone?",
+                    "surgical management": [
+                        "Surgical management:  Was an oncology surgical procedure such as mastectomy performed? Is the patient receiving ongoing postoperative care? Are there postsurgical guidelines to follow during treatment?"
+                    ],
+                    "medications": "Obtain a complete list of prescribed medications. Are they being taken? Epirubicin or doxorubicin plus cyclophosphamide and docetaxel are commonly used in chemotherapy. Erythropoiesisstimulating  agents (e.g., darbepoetin, epoetin) may reduce functional decline in anemic patients by decreasing the need for blood transfusions and increasing hemoglobin, and methylphenidate (a psychostimulant) may relieve cancerrelated  fatigue(4). Aromatase inhibitors (AIs) such as exemestane, anastrozole, or letrozole may be prescribed to decrease circulating estrogen levels. (8) Study results are mixed regarding the use of modafinil and Lcarnitine  for treating cancer-related  fatigue (4)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Document the laboratory tests and imaging studies that confirmed cancer in this patient"
+                    ],
+                    "alternative therapies": "Document any home remedies the patient has been using",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other ongoing conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " What specific ADLs are the most difficult or aggravating? How well does the patient cope with fatigue or depression?",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a V AS or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if  pain   is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night and factors that interfere with sleep",
+                "other symptoms": "Document any other symptoms that increase disability in ADLs and/or indicate need for medical consultation. Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder incontinence, saddle anesthesia)",
+                "respiratory status": "Document the need for supplemental oxygen, if applicable Barriers to learning -Are there any barriers to learning? Yes__/No__ -If Yes, describe  ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Is there a past history of other cancer-related  illness? What was the patient\u2019s regular physical activity status prior to onset of breast cancer?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, other cancers, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders Breast cancer survivors are at a greater risk for developing comorbid conditions such as osteoporosis, sarcopenia, and cardiovascular disease (3)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient currently on work disability? What does her work require? Did the patient participate in recreational activities or sports prior to this referral? ",
+                "functional limitations assistance with ADLs adaptive equipment": "What functional limitations does patient have? Does the patient require assistance with ADLs? Document assistive devices that are being used (e.g., cane, crutches, walker, wheelchair)",
+                "living environment": "Identify barriers to mobility in the home and whether any modifications regarding stairs, number of floors in home, lack of caregivers are necessary. What support system (family/caregiver) is available?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While the following tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures:  (While the following tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Document height, weight, and BMI. Is weight loss indicated?",
+            "assistive and adaptive devices": "Assess for need, appropriate fit, and appropriate use. Patient may require cane or walker to compensate for severe mobility deficits or severe fatigue. Also consider need for assistive devices to increase safety with bathing, toileting, and transfers",
+            "balance": "Assess static and dynamic balance; use Berg Balance Scale (BBS) as appropriate. Does impaired balance restrict the patient\u2019s independent use of exercise modalities?",
+            "cardiorespiratory function and endurance": [
+                "Assess vital signs: heart rate (HR), BP, and respiratory rate",
+                "Assess functional aerobic endurance with 6-minute  walk for distance test (6MWT) at self-paced  speed, with rest pauses as needed",
+                "The American College of Sports Medicine (ACSM) recommends 150 minutes of moderate-intensity  exercise or 75 minutes of vigorous-intensity  aerobic exercise each week, as well as resistance training 2 times a week for large muscle groups, for cancer survivors. Initially, the ACSM recommends three 20-minute  moderate-intensity  walking sessions per week with progression as tolerated (10) -Exercise should be within 50% to 75% of heart rate reserve -Rate of perceived exertion should be between 11 and 14 -These treatment recommendations should be flexible, especially during chemotherapy"
+            ],
+            "circulation": "Assess peripheral pulses",
+            "functional mobility": "Assess ability to perform functional tasks that involve using the upper extremities (e.g., reaching, pulling, pushing, holding) and lower extremities (e.g., ascending/descending steps, squatting, kneeling, kicking). Utilize FIM for objective measurement, as indicated",
+            "gait locomotion": "Assess walking ability, including synchrony of limb movements and gait speed, as well as posture. Assess safety with Dynamic Gait Index (DGI)Assess joint mobility if indicated by the presence of impaired ROM or movement limitations in functional tasks",
+            "muscle strength": "Scan general strength using manual muscle testing (MMT) and strength in functional tasks (e.g., handgrip, pushing, pulling, sit-up,  legpress). Use weight machines for strength testing as indicated for a resistance exercise program. Note if weak or tight chest and shoulder muscles contribute to inefficient movement patterns",
+            "observation inspection palpation including skin assessment": [
+                "Observe for any gross deformity",
+                "Inspect for muscle atrophy",
+                "Assess pain/tenderness in reported areas",
+                "Measure arm circumference in patients with breast cancer-related  lymphedema (BCRL)"
+            ],
+            "posture": "Assess in sitting, standing, and during gait",
+            "range of motion": "Assess ROM and flexibility as indicated by movement limitations in functional tasks. If lymphedema is present, assess shoulder ROM and compare affected side to unaffected side if symptoms are unilateral",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Assess severity of fatigue with V AS. Were fatigue symptoms exacerbated by certain activities during the exam?a 22-item  numeric rating scale with 4 subscales that evaluate subjective fatigue, with each item rated from 0 (none) to 10 points (a great deal) (4)evaluates severity of fatigue and impact on daily life for patients with cancera brief 20-question  survey that assesses cancer-related  fatigue distressa questionnaire that assesses fatigue and anemia-related  symptoms in patients with cancer using 41 questions on a five-point  Likert scale  \u2013Short-Form  Health Survey (SF-36)  and the EORTC QLQ-C30 questionnaire may be used to evaluate patient-reported outcomes for general health and QOLa higher score indicates more pain and disability",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Modify treatment if reported fatigue level becomes moderately severe or higher",
+                "Ensure close supervision with instruction throughout exercise and functional training sessions",
+                "Electrotherapeutic modalities or functional electrical stimulation should not be used to treat patients with breast cancer unless specifically ordered/approved by the referring physician",
+                "Rehabilitation professionals should always use their professional judgment regarding the use of modalities",
+                "Consult with physician regarding the risks and benefits if resistance exercise is planned for a patient with bone metastasis",
+                "Avoid treating patient in a very warm environment, which may exacerbate fatigue symptoms"
+            ]
+        },
+        "diagnosis need for treatment": "Breast cancer/reduced functioning in ADLs and QOL due to persistent fatigue and reduced exercise tolerance; increased risk of cognitive deficits due to physical inactivity; overweight",
+        "rule out": "Physician should investigate all reversible causes of functional decline (e.g., malnutrition, medications, severe dehydration, anemia, sleep apnea, hypothyroidism). Other possible reasons for unexplained persistent fatigue include Epstein-Barr  virus infection, heart failure, depression, and myopathic conditions",
+        "prognosis": [
+            "Moderately strong evidence from RCTs indicates that supervised aerobic and/or resistance training can have positive effects on physical functioning, general fatigue, and HRQoL in breast cancer survivors (4) \u2013Authors of an RCT (N = 91) studied a group of ethnicallydiverse, obese, and physically inactive breast cancer survivors and found that a 16-week  aerobic and resistance training program that aimed to improve metabolic syndrome also demonstrated improvements in HRQoL, depression, fatigue, and physical fitness. These positive effects were maintained after a 3-month  follow-up(3) \u2013Authors of a meta-analysis  involving 2,183 participants found that yoga had a small but significant impact on mitigating fatigue in patients with cancer-related  fatigue (1) \u2013In an RCT involving 337 female participants in Australia, investigators found that exercise was the most beneficial for women who lived in an urban area, who were 55 years old or younger, who had stage II+ breast cancer, or who had at least one comorbidity at time of diagnosis. They also found lower mortality rates in the physical activity group compared to the control group (11) \u2013The results of a meta-analysis  indicated that exercise significantly decreased BMI and improved overall QOL. Authors concluded that exercise should be prescribed to breast cancer survivorsbecause of its multitude of benefits and a lack of adverse effects (12)",
+            "Authors of a small study including 24 overweight or obese sedentary postmenopausal women found that a 10-week moderate-intensity exercise intervention increased cardiovascular fitness as measured by VO 2 maximum. However, the intervention did not have a significant impact on sex hormone-binding  globulin, insulin, insulinresistance, or body fat percentage (13)",
+            "Authors of a non-randomized  control trial allowed 28 patients with early-stage  breast cancer to choose between an exercise training group and a usual-care  group and measured VO 2 peak before and after anthracycline chemotherapy (14) \u2013In the usual-care  group, a 15% reduction in VO 2 peak was observed, which approximates what would typically be seen after aging 15 years \u2013The decrease in VO 2 peak was significantly different in the exercise group compared to the usual-care group. There was a decrease in VO 2 peak of 0.24 L/min in the usual-care  group and a decrease of 0.1 L/min in the exercise group \u2013Two participants in the exercise group (N = 14) did not demonstrate a decrease in VO 2 peak after undergoing chemotherapy, whereas all participants in the usual-care  group (N = 14) demonstrated decreases in VO 2 peak despite recommendations to maintain physical activity levels",
+            "In an RCT 236 patients with stage II breast cancer were divided into three groups: continuous training at moderate intensity, high-intensity  interval training, and control group. Those in the exercise groups participated in 36 sessions of 70 minutes, 3 times a week (15)  \u2013Significant changes in exercise tolerance, muscle strength, and VO 2 max were observed in both exercise groups, but not in the control group \u2013There was a significant reduction in cancer-related  fatigue in the high-intensity  exercise group only \u2013Overall, the study concluded that high-intensity  interval training is safe and effective for women with stage II breast cancer",
+            "Aerobic training is safe but not feasible in patients with metastatic (stage IV) breast cancer. Sixty-five  women with stage IV breast cancer were allocated into an exercise group (N = 33) or a stretching group (N = 32). The exercise program consisted of 36 treadmill walking sessions 3 times a week between 55% and 80% VO 2 peak for 12 weeks. Contrary to hypothesis, aerobic training was not associated with an increase in cardiorespiratory fitness or improvement in patient-reported outcomes (16)"
+        ],
+        "referral to other disciplines": "Psychiatrist for depression; physician for new or increasing pain; oncologist for unexplained malaise or weight loss; recreational therapist for supervised group exercise; aquatic exercise therapist for pool training; occupational therapist for ADL training; sleep therapist for insomnia; social work for support groups",
+        "other considerations": [
+            "The American Cancer Society (ACS) general guidelines on exercise may help cancer survivors and their families make informed choices on physical activity during the continuum of cancer care. However, in 2018, nearly half (46.7%) of Americans did not meet the recommended amount of moderate to vigorous physical activity (17)",
+            "Authors of asmall randomized control trial (N = 17) including female breast cancer survivors compared the effects of moderate-intensity exercise and high-intensity  interval training (HIIT) exercise on cognitive function and found that HIIT may be an effective exercise intervention to improve cognition, aerobic fitness, and cerebrovascular function in female breast cancer survivors (18)"
+        ],
+        "treatment summary": [
+            "The American College of Sports Medicine (ACSM) exercise program guide for cancer survivors recommends vigorous aerobic exercise for 75 minutes per week or 150 minutes of moderate-intensity  exercise per week, and strength exercise at least 2 days per week (10)",
+            "Authors of a 2020 meta-analysis  including 29 studies found that resistance exercise does not have a negative effect on breast-cancer-related  lymphedema (BCRL). In fact, resistance exercises increase muscle strength in patients with BCRL (19)",
+            "Patients who engaged in exercise (such as brisk walking) at a rate of nine or greater metabolic equivalents (METs) for 2 to 3 hours a week before and after breast cancer diagnosis had a 45% lower risk of death compared to sedentary individuals (20)",
+            "In an RCT that included 2,361 breast cancer survivors, researchers found that the most active women had a 53% lower mortality risk compared to the least active women (20)",
+            "Engaging in at least 150 minutes of moderate physical activity per week reduced all-cause  mortality by 24% among breast cancer survivors(20)",
+            "Patients with very low levels of physical activity (less than or equal to 1.5 METs) demonstrated a 22% increase in breast cancer mortality (20)",
+            "In a literature review, authors found that many RCTs and systematic reviews indicated that physical activity has a protective effect against recurrence of and mortality from breast cancer (20)",
+            "Weight gain during adulthood or excessive body fat can increase the risk of breast cancer during and after menopause, (21) whereas weight loss may lower the risk of breast cancer (22)",
+            "Recommendations from the American Cancer Society (ACS) (17) \u2013Maintain a healthy weight throughout life. Avoid weight gain in adulthood \u2013Be physically active. Adults should aim for 150 to 300 minutes of moderate-intensity  exercise per week or 75 to 150 minutes of vigorous-intensity  physical activity per week. Reaching or exceeding 300 minutes of physical activity is desirable \u2013Children and adolescents should meet or exceed at least 1 hour of moderate or vigorous physical activity per day \u2013Limit sedentary activities, such as screen time, television watching, and lying down \u2013It is recommended to not drink alcohol. Persons who drink alcohol should limit consumption to one drink a day for women and two drinks a day for men  \u2013Follow a healthy diet at all ages, including consuming a variety of fruits, vegetables, and grains while avoiding red and processed meats, sugary drinks, and processed grains",
+            "Authors of a systematic review of exercise maintenance in patients with breast cancer found that, of 17 articles reviewed, only 6 demonstrated that significantintervention effects were maintained over time. More research must be done regarding physical activity delivery and mode so that the benefits of physical activity can be maintained in patients with breast cancer (23)",
+            "In an observational study (N = 1340 breast cancer survivors post chemotherapy) investigators found that meeting the minimum guidelines for physical activity reduced mortality and recurrence of breast cancer. Meeting minimum guidelines had similar advantages in overall survival compared with meeting and exceeding the guidelines (24)",
+            "Authors of an RCT (N = 143) conducted a study of breast cancer patients during adjuvant therapy (25) \u2013The Adapted Physical Activity and Diet (APAD) intervention was evaluated against usual care to determine its effectiveness at decreasing fatigue, anxiety, depression, BMI, and fat mass and enhancing muscular performance and overall QoL \u2013Participants in the APAD intervention group participated in moderate-intensity  exercise 3 times a week and consulted with a dietitian 9 times \u2013Patient-reported  outcomes were measured at baseline, 18 weeks (after chemotherapy), and 26 weeks (end of radiotherapy and intervention), as well as 6 and 12 months post intervention \u2013Significant beneficial effects were observed in all patient-reported  outcomes (depression, anxiety, fatigue, QoL) at 18 and 26 weeks. Positive effects on fatigue and QoL persisted at 12-month  follow-up \u2013At 26 weeks, significant positive effects were observed in BMI, fat mass, and increased muscular endurance, but these did not persist when tested at 6 months or 12 months post intervention \u2013Overall conclusions were that a diet and exercise intervention should begin during early stages of breast cancer diagnosis",
+            "van der Leeden et al. explored the importance of comorbidities associated with breast cancer and tailoring an individual exercise program based on these comorbidities. They list possible adaptations to exercise based on comorbidity in their study (26) \u2013Appropriate hygiene or home exercise program for individuals with leukopenia \u2013Avoiding high impact exercises and avoiding point pressure when using equipment for individuals with thrombopenia \u2013Avoid using dumbbells with individuals with loss of sensation in the upper extremities due to risk of dropping them",
+            "Thirty-six  studies were included in a systematic review that examined the effects of exercise on QoL in patients with breast cancer (27) \u2013Twenty-two  of 25 studies reported a significant positive effect of aerobic exercise on QoL in patients with breast cancer \u2013Seven of 8 studies reported a significant positive effect of resistance training on QoL in patients with breast cancer. These studies also described the positive effects of combined aerobic and resistance exercise on QoL \u2013Increased adherence to the intervention was associated with improved fatigue, physical well-being,  and QoL \u2013Eight of 12 studies reported that exercising beyond the recommended 150 minutes was associated with a decreased risk of adverse events in breast cancer patients as well as improved QoL \u2013Eight of 11 studies that examined lymphedema found that aerobic and resistance exercise had no negative effects on existing lymphedema and did not cause lymphedema",
+            "Home-based  exercise training \u2013Authors of an RCT (N = 82 breast cancer patients) found that adherence to a home-based  exercise intervention was 55 percent. Lower adherence was observed in patients who were obese or who had average or below-average  lower body strength (28) \u2013Authors of an RCT (N = 351 overweight breast cancer survivors) found that a facility-based  program may be more beneficial than an at-home  exercise program for improving lymphedema outcomes (29) \u2013Authors of an RCT in Taiwan (N = 159 women in stages I\u2013III of breast cancer who experience insomnia, pain, fatigue, or depression) found that an at-home  brisk walking program reduced fatigue in women with breast cancer who were undergoing chemotherapy (30)",
+            "Progressive resistance training (PRE) \u2013Authors of an RCT studying women undergoing breast cancer surgery with axillary lymph node dissection (N = 158) found no evidence that progressive resistance exercise (PRE) can prevent lymphedema in the first year after breast cancer diagnosis but found that PRE is safe for women with breast cancer (31)  \u2013In an RCT including 158 women researchers found that a 50-week  PRE intervention (supervised for the first 20 weeks and self-administered  for the next 30 weeks) had significant effects on social and emotional functioning and also had a positive impact on pain, sleep, and fatigue (32) \u2013Authors of an RCT of women with breast cancer who underwent axillary lymph node dissection found that PRE provided no benefit in reducing arm pain postoperatively. However, PRE did not increase pain during either short-term  or long-term rehabilitation (33) \u2013. Problem Goal Intervention Expected Progression Home Program Reduced QOL related to sedentary lifestyle/ physical inactivityIncreased recreational activity or exercise program to enhance HRQoLTherapeutic modalities Individualized aerobic and/or resistive exercise training, as indicatedExercise frequency, intensity, and duration, as indicated and toleratedProvide written instructions for safe, independent exercise program Reduced cardiorespiratory fitness and/or strengthImproved fitness Therapeutic modalities  As aboveAs above As above Functional decline in ADLs (in part, due to reduced posture, balance, gait)Improved function in daily activitiesFunctional training Specific exercises for improving posture, balance, functional mobility, and/or gait, as indicatedIndividualized progression of functional trainingAs above ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced cancer-related  fatigue r-pfs": [],
+        "improved hrqol eortc qlq-c  questionnaire, sf-": [],
+        "reduced pain v as": [],
+        "improved strength mmt": [],
+        "improved cardiorespiratory endurance mwt, vo peak": [],
+        "improved functional mobility reassessment of posture, balance, and gait, as indicated; fim": [],
+        "reduced disability, as indicated spadi": []
+    },
+    "maintenance or prevention": [
+        "Continue prescribed home exercise program",
+        "Maintain ACS and/or ACSM recommendations for physical activity and diet (10,17)"
+    ],
+    "patient education": [
+        "American Cancer Society (ACS), \u201cAmerican Cancer Society Guideline for Diet and Physical Activity for Cancer Prevention,\u201d at https://www.cancer.org/healthy/eat-healthy-get-active/acs-guidelines-nutrition-physical-activity-cancer-prevention.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Dong B, Xie C, Jing X, Lin L, Tian L. Yoga has a solid effect on cancer-related  fatigue in patients with breast cancer: a meta-analysis.  Breast Cancer Res Treat . August 2019;177(1):5-16.  doi:10.1007/s10549-019-05278-w.  (M)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Neil-Szramko  SE, Winters-Stone  KM, Bland KA, Campbell KL. Updated systematic review of exercise studies in breast cancer survivors: attention to the principles of exercise training. Br J Sports Med . April 2019;53(8):504-512.  doi:10.1136/bjsports-2017-098389.  (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Dieli-Conwright  CM, Courneya KS, Demark-Wahnefried  W, et al. Aerobic and resistance exercise improves physical fitness, bone health, and quality of life in overweight and obese breast cancer survivors: a randomized controlled trial. Breast Cancer Res . December 2018;20(124). doi:10.1186/s13058-018-1051-6.  (RCT)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Mohandas H, Jaganathan SK, Mani MP, Ayyar M, Thevi GR. Cancer-related  fatigue treatment: an overview. J Cancer Res Ther . October 2017;13(6):916-929.  doi:10.4103/ jcrt.JCRT_50_17. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Dean LT, Moss SL, Ransome Y, et al. \u201cIt still affects our economic situation\u201d: long-term  economic burden of breast cancer and lymphedema. Support Care Cancer . May 2019;27(5):1697-1708.  doi:10.1007/s00520-018-4418-4.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Adraskela K, Veisaki E, Koutsilieris M, Philippou A. Physical exercise positively influences breast cancer evolution. Clin Breast Cancer . October 2017;17(6):408-417. doi:10.1016/j.clbc.2017.05.003. (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Lee A, Mavaddat N, Wilcox AN, et al. BOADICEA: a comprehensive breast cancer risk prediction model incorporating genetic and nongenetic risk factors. Genet Med . August 2019;21(8):1708-1718.  doi:10.1038/s41436-018-0406-9.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Waks AG, Winer EP. Breast cancer treatment: a review. JAMA. January 2019;321(3):288-300.  doi:10.1001/jama.2018.19323. (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Gillespie TC, Sayegh HE, Brunelle CL, Daniell KM, Taghian AG. Breast cancer-related  lymphedema: risk factors, precautionary measures, and treatments. Gland Surg . 2018;7(4):379-403.  doi:10.21037/gs.2017.11.04. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Kirkham AA, Bonsignore A, Bland KA, et al. Exercise prescription and adherence for breast cancer: one size does not FITT all. Med Sci Sports Exerc . February 2018;50(2):177-186.  doi:10.1249/MSS.0000000000001446. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Hayes SC, Steele ML, Spence RR, et al. Exercise following breast cancer: exploratory survival analyses of two randomised, controlled trials. Breast Cancer Res Treat . 2018;167(2):505-514.  doi:10.1007/s10549-017-4541-9.  (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Falcetta FS, Tr\u00e4sel HD, de Almeida FK, Falcetta MR, Falavigna M, Rosa DD. Effects of physical exercise after treatment of early breast cancer: systematic review and meta-analysis.  Breast Cancer Res Treat . 2018;170(3):455-476.  doi:10.1007/s10549-018-4786-y.  (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Khoramjah M, Korshidi D, Karimi M. Effect of moderate-intensity  aerobic training on some hormonal and metabolic factors associated with breast cancer in overweight postmenopausal women. Iran J Ageing . May 2019;14(1):74-83.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Howden EJ, Bigaran A, Beaudry R, et al. Exercise as a diagnostic and therapeutic tool for the prevention of cardiovascular dysfunction in breast cancer patients. Eur J Prev Cardiol. February 2019;26(3):305-315.  doi:10.1177/2047487318811181. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Pereira-Rodr\u00edguez  JE, Pe\u00f1aranda-Florez  DG, Pereira-Rodr\u00edguez  R, Pereira-Rodr\u00edguez  P, Vel\u00e1squez-Badillo  X, Ca\u00f1izares-P\u00e9rez  YA. Fatigue associated with breast cancer after a training program. Acta M\u00e9d Costarric . March 2020;62(1):18-25.  (RCT)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Scott JM, Iyengar NM, Nilsen TS, et al. Feasibility, safety, and efficacy of aerobic training in pretreated patients with metastatic breast cancer: a randomized controlled trial. Cancer. June 2018;124(12):2552-2560.  doi:10.1002/cncr.31368. (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Rock CL, Thomson C, Gansler T, et al. American Cancer Society guideline for diet and physical activity for cancer prevention. CA: A Cancer Journal for Clinicians . 2020;70(4):245\u2013271.  doi:10.3322/caac.21591. (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Northey JM, Pumpa KL, Quinlan C, et al. Cognition in breast cancer survivors: a pilot study of interval and continuous exercise. J Sci Med Sport . May 2020;22(5):580-585. doi:10.1016/j.jsams.2018.11.026. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Hasenoehrl T, Palma S, Ramazanova D, et al. Resistance exercise and breast cancer\u2013related  lymphedema\u2014a systematic review update and meta-analysis.  Support Care Cancer. August 2020;28(8):3593-3603.  doi:10.1007/s00520-020-05521-x.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Wirtz P, Baumann FT. Physical activity, exercise and breast cancer - what is the evidence for rehabilitation, aftercare, and survival? A review. Breast Care . April 2018;13(2):93-101.  doi:10.1159/000488717. (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "American Institute for Cancer. Diet, Nutrition, Physical Activity and Cancer: A Global Perspective. Continuous Update Project. The Third Expert Report. World Cancer Research Fund/American Institute for Cancer Research Web site. wcrf.org/dietandcancer . Published 2018."
+        },
+        {
+            "number in article": 22,
+            "reference": "Chlebowski RT, Luo J, Anderson GL, et al. Weight loss and breast cancer incidence in postmenopausal women. Cancer. October 2019;125:205#212. doi:10.1002/cncr.31687. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Abdin S, Lavall\u00e9e JF, Faulkner J, Husted M. A systematic review of the effectiveness of physical activity interventions in adults with breast cancer by physical activity type and mode of participation. Psycho#Oncol . July 2019;28(7):1381-1393.  doi:10.1002/pon.5101. (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Cannioto RA, Hutson A, Dighe S, et al. Physical activity before, during, and after chemotherapy for high-risk breast cancer: relationships with survival. J Natl Cancer Inst . January 2021;113(1):54-63.  doi:10.1093/jnci/djaa046. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Carayol M, Ninot G, Senesse P, et al. Short-and  long-term  impact of adapted physical activity and diet counseling during adjuvant breast cancer therapy: the \u201cAPAD1\u201d randomized controlled trial. BMC Cancer . December 2019;12(737). doi:10.1186/s12885-019-5896-6.  (RCT)"
+        },
+        {
+            "number in article": 26,
+            "reference": "van der Leeden M, Huijsmans RJ, Geleijn E, et al. Tailoring exercise interventions to comorbidities and treatment-induced  adverse effects in patients with early stage breast cancer undergoing chemotherapy: a framework to support clinical decisions. Disabil Rehabil . February 2018;40(4). doi:10.1080/09638288.2016.1260647. (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Zhang X, Li Y, Liu D. Effects of exercise on the quality of life in breast cancer patients: a systematic review of randomized controlled trials. Support Care Cancer . January 2019;27:9-21.  doi:10.1007/s00520-018-4363-2.  (SR)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Lund LW, Ammitzboll G, Hansen DG, Andersen EA, Dalton SO. Adherence to a long-term  progressive resistance training program, combining supervised and home-based exercise for breast cancer patients during adjuvant treatment. Acta Oncol . May 2019;58(5):650-657.  doi:10.1080/0284186X.2018.1560497. (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Schmitz KH, Troxel AB, Dean LT, et al. Effect of home-based  exercise and weight loss programs on breast cancer-related  lymphedema outcomes among overweight breast cancer survivors: the WISER survivor randomized clinical trial. JAMA Oncol . August 2019;5(11):1605-1613.  doi:10.1001/jamaoncol.2019.2109. (RCT)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Huang HP, Wen FH, Yang TY, et al. The effect of a 12-week home-based  walking program on reducing fatigue in women with breast cancer undergoing chemotherapy: a randomized controlled study. Int J Nurs Stud . November 2019;99. doi:10.1016/j.ijnurstu.2019.06.007. (RCT)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Ammitzboll G, Johansen C, Lanng C. Progressive resistance training to prevent arm lymphedema in the first year after breast cancer surgery: results of a randomized controlled trial. Cancer. May 2019;125:1683-1692.  doi:10.1002/cncr.31962. (RCT)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Ammitzboll G, Kristina Kj\u00e6r T, Johansen C, et al. Effect of progressive resistance training on health-related  quality of life in the first year after breast cancer surgery\u2013results from a randomized controlled trial. Acta Oncol . May 2019;58(5):665-672.  doi:10.1080/0284186X.2018.1563718. (RCT)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Ammitzboll G, Andersen KG, Bidstrup PE, et al. Effect of progressive resistance training on persistent pain after axillary dissection in breast cancer: a randomized controlled trial. Breast Cancer Res Treat . 2020;179:173-183.  doi:10.1007/s10549-019-05461-z.  (RCT)"
+        }
+    ]
+}

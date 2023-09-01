@@ -1,0 +1,473 @@
+{
+    "metadata": {
+        "title": "Epilepsy  Speech Therapy",
+        "synonyms": [
+            "seizure disorder  speech therapy"
+        ],
+        "anatomical location body part affected": [
+            "The brain"
+        ],
+        "area of specialty": [
+            "adult neurological disorders",
+            "pediatric genetic and/or neurological disorders"
+        ],
+        "description": [
+            "Epilepsy, the most common neurological condition, affects persons of all ages and is characterized by \u201cpersistent, unprovoked seizures\u201d occurring more than 24 hours apart; two or more seizures are considered persistent.(1,2,34) A seizure occurs when a short but intense surge of electrical activity alters the function of a part of, or all of, the brain.(2) Seizures can last anywhere from a few seconds to a few minutes and can have many symptoms, from overt body convulsions to subtle blank staring.(2) The term \u201cictus\u201d is sometimes used as a synonym for \u201cseizure,\u201d and the time period immediately following a seizure is termed \u201cpostictal.\u201d(2) For an individual with an age-dependent epilepsy syndrome, epilepsy is considered resolved if the person is past the applicable age and has been seizure-free  for the last 10 years, having had no seizure medicines for the last 5 years.(34) There are different types of epilepsy and seizures, described below",
+            "Types of epilepsy: There are many different syndromes and disease processes that can cause seizures; a patient\u2019s seizures might evolve from one type into another over the course of the disease.(3) The following are descriptions of specific types of epilepsy: \u2013Benign partial epilepsy with centrotemporal spikes (BECTS): the most common childhood idiopathic epilepsy, with age of onset usually between 3 and 13 years; electroencephalography (EEG) is characterized by high-voltage  focal or multifocal centrotemporal sharp waves, usually followed by slow waves; these spikes seem to be activated by sleep(4) -Prognosis generally is good; however, long-term learning, language, and behavioral deficits might be present(4) -BECTS has been associated with other childhood syndromes, including continuous spike-wave  syndrome, electrical status epilepticus during sleep, acquired epileptic frontal syndrome, Landau-Kleffner syndrome, and early developmental dysphasia(4) -For detailed information on Landau-Kleffner syndrome, see Clinical Review\u2026Landau-Kleffner  Syndrome: Communicative Disorders ; CINAHL Topic ID Number: T709047 \u2013Juvenile myoclonic epilepsy (JME): a common epilepsy syndrome marked by onset in the early teenage years; strong genetic component with symptoms such as myoclonic, generalized tonic-clonic,  and absence seizures (see below for seizure descriptions)(4) -Although JME appears to be a lifelong syndrome, symptoms respond favorably to drug treatment \u2013Mesial temporal lobe epilepsy (MTLE): an epilepsy syndrome characterized by mesial temporal sclerosis (loss of neurons and scarring in the temporal lobe)(4) -Most common form of epilepsy; seizures originate in the temporal lobe(5)  -Incidence of seizures might be significantly lessened or eliminated by temporal lobectomy(4,5) -There also exists a nonmesial temporal lobe epilepsy; patients do not have the same lesions/sclerosis as patients with mesial temporal lobe epilepsy(5) \u2013Nocturnal frontal lobe epilepsy (NFLE): an epilepsy syndrome characterized by paroxysmal arousals (sudden, brief arousals from sleep), hyperkinetic seizures, asymmetric bilateral tonic seizures, and/or epileptic nocturnal wanderings (sleepwalking behaviors)(4)",
+            "Types of seizures: There are several different types of seizures. Patients with epilepsy might experience one or more types of seizure(2) \u2013Autonomic seizures: very rare; associated with an change in the autonomic system, such as tachycardia(3) \u2013Dialeptic seizures: a term for a seizure involving loss of consciousness, regardless of the underlying type of epilepsy(3) \u2013Epileptic spasms: tonic and myoclonic features; generally occur between the ages of 3 and 12 months; also referred to as infantile spasms; related to West syndrome; infants who present with these spasms might develop other types of seizures at ages 3\u20135 years(3) \u2013Generalized seizures (affecting the entire brain)(1,2) -Absence: most common in children; very short seizure characterized by a blank stare and brief loss of consciousness; sometimes accompanied by rapid eye blinking and/or chewing movements(2) -Atonic: marked by a sudden loss of muscle tone resulting in a subsequent loss of posture(3) -Tonic-clonic:  also referred to as grand mal seizures; usually associated with loss of consciousness; often begin with an abrupt cry, followed by a fall and rigidity (tonic phase); progress to muscle twitches, shallow or temporarily suspended breathing, and/or alteration in skin color (clonic phase); might involve loss of bladder or bowel control; seizure usually lasts several minutes, followed by confusion and exhaustion(2,3) -Myoclonic: involve sudden jerking movements that usually involve both sides of the body; movements might be very subtle or very blatant(3) -Versive seizures: characterized by continued unnatural turning of the eyes and head to one side; might occur immediately prior to a tonic-clonic seizure(3) \u2013Partial seizures (involving a focal part of the brain)(1,2) -Simple: consciousness generally is unimpaired and seizure might present with motor signs, somatosensory or sensory symptoms (e.g., olfactory hallucinations), autonomic symptoms, or psychic symptoms (i.e., disturbances of higher cortical functions such as speech and language)(1,2) -Akinetic seizures: marked by an incapacity to execute voluntary movements(3) -Aphasic seizures: characterized by an inability to use or comprehend spoken language(3) -Automotor seizures: exemplified by manual and oral automatisms such as chewing, swallowing, lip smacking, or hand movements; occur commonly with temporal lobe epilepsies(3) -Gelastic seizures: seizure characterized by laughing(3) -Hypermotor seizures: seizures are usually short in duration and consciousness is maintained; patient presents with large, violent movements of proximal body segments(3) -Hypomotor seizures: seizure activity that occurs in patients whose state of consciousness cannot be assessed during or after the seizure (such as infants or severely intellectually disabled patients); motor activity is either significantly reduced or completely absent(3) -Complex (similar to simple partial seizures; however, patient loses consciousness and generally has amnesia regarding the event)(1,2) \u2013Nonepileptic seizures (episodic, paroxysmal events that are not related to abnormal electrical activity in the brain)(2) \u2013Status epilepticus: prolonged, repetitive seizure activity that lasts longer than 20 to 30 minutes, during which time the patient is unconscious; status epilepticus is a medical emergency associated with poor functional outcomes; can result in death(2,3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "294.8": "other specified organic brain syndromes (chronic) [used for epileptic psychosis]",
+            "345.0": {
+                "base": "generalized nonconvulsive epilepsy",
+                "345.00": "generalized nonconvulsive epilepsy, without mention of intractable epilepsy",
+                "345.01": "generalized nonconvulsive epilepsy, with intractable epilepsy",
+                "345.1": "generalized convulsive epilepsy",
+                "345.10": " 345.10 generalized convulsive epilepsy, without mention of intractable epilepsy",
+                "345.11": " 345.11 generalized convulsive epilepsy, with intractable epilepsy",
+                "345.2": "petit mal status, epileptic",
+                "345.3": "grand mal status, epileptic",
+                "345.4": "partial epilepsy, with impairment of consciousness",
+                "345.40": " 345.40 partial epilepsy, without mention of intractable epilepsy",
+                "345.41": " 345.41 partial epilepsy, with intractable epilepsy",
+                "345.5": "partial epilepsy, without mention of impairment of consciousness",
+                "345.50": " 345.50 partial epilepsy, without mention of impairment of consciousness, without mention of intractable epilepsy",
+                "345.51": " 345.51 partial epilepsy, without mention of impairment of consciousness, with intractable epilepsy",
+                "345.6": "infantile spasms",
+                "345.60": " 345.60 infantile spasms, without mention of intractable epilepsy",
+                "345.61": " 345.61 infantile spasms, with intractable epilepsy",
+                "345.7": "epilepsiapartialis continua",
+                "345.70": " 345.70 epilepsiapartialis continua, without mention of intractable epilepsy",
+                "345.71": " 345.71 epilepsiapartialis continua, with intractable epilepsy",
+                "345.8": "other forms of epilepsy",
+                "345.80": " 345.80 other forms of epilepsy, without mention of intractable epilepsy",
+                "345.81": " 345.81 other forms of epilepsy, with intractable epilepsy",
+                "345.9": "epilepsy, unspecified",
+                "345.90": " 345.90 epilepsy, unspecified, without mention of intractable epilepsy",
+                "345.91": " 345.91 epilepsy, unspecified, with intractable epilepsy"
+            }
+        },
+        "ICD-10 codes": {
+            "G40.001": "localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractablewith status epilepticus",
+            "G40.009": "localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractablewithout status epilepticus",
+            "G40.011": "localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable with status epilepticus",
+            "G40.019": "localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable without status epilepticus",
+            "G40.101": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable with status epilepticus",
+            "G40.109": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,not intractable without status epilepticus",
+            "G40.111": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable with status epilepticus",
+            "G40.119": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,intractable without status epilepticus",
+            "G40.201": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable with status epilepticus",
+            "G40.209": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable without status epilepticus",
+            "G40.211": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable with status epilepticus",
+            "G40.219": "localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable without status epilepticus",
+            "G40.301": "generalized idiopathic epilepsy and epileptic syndromes,not intractable with status epilepticus",
+            "G40.309": "generalized idiopathic epilepsy and epileptic syndromes,not intractable without status epilepticus",
+            "G40.311": "generalized idiopathic epilepsy and epileptic syndromes,intractable with status epilepticus",
+            "G40.319": "generalized idiopathic epilepsy and epileptic syndromes,intractable without status epilepticus",
+            "G40.401": "other generalized epilepsy and epileptic syndromes, not intractable with status epilepticus",
+            "G40.409": "other generalized epilepsy and epileptic syndromes, not intractable without status epilepticus",
+            "G40.411": "other generalized epilepsy and epileptic syndromes, intractable with status epilepticus",
+            "G40.419": "other generalized epilepsy and epileptic syndromes, intractable without status epilepticus",
+            "G40.B01": "juvenile myoclonic epilepsy, not intractablewith status epilepticus",
+            "G40.B09": "juvenile myoclonic epilepsy, not intractablewithout status epilepticus",
+            "G40.B11": "juvenile myoclonic epilepsy, intractablewith status epilepticus",
+            "G40.B19": "juvenile myoclonic epilepsy, intractablewithout status epilepticus",
+            "G40.501": "epileptic seizures related to external causes, not intractable, with status epilepticus",
+            "G40.509": "epileptic seizures related to external causes, not intractable, without status epilepticus",
+            "G40.801": "other epilepsy, not intractable, with status epilepticus",
+            "G40.802": "other epilepsy, not intractable, without status epilepticus",
+            "G40.803": "other epilepsy, intractable, with status epilepticus",
+            "G40.804": "other epilepsy, intractable, without status epilepticus",
+            "G40.811": "Lennox-Gastaut syndrome not intractable, with status epilepticus",
+            "G40.812": "Lennox-Gastaut syndrome not intractable, without status epilepticus",
+            "G40.813": "Lennox-Gastaut syndrome intractable, with status epilepticus",
+            "G40.814": "Lennox-Gastaut syndrome intractable, without status epilepticus",
+            "G40.821": "epileptic spasms not intractable, with status epilepticus",
+            "G40.822": "epileptic spasms not intractable, without status epilepticus",
+            "G40.823": "epileptic spasms intractable, with status epilepticus",
+            "G40.824": "epileptic spasms intractable, without status epilepticus",
+            "G40.89": "other seizures",
+            "G40.901": "epilepsy, unspecified not intractable with status epilepticus",
+            "G40.909": "epilepsy, unspecified not intractable without status epilepticus",
+            "G40.911": "epilepsy, unspecified not intractable with status epilepticus",
+            "G40.919": "epilepsy, unspecified not intractable without status epilepticus _ (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition"
+        ],
+        "presentation signs and symptoms": [
+            "The following signs and symptoms of speech/language impairment have been reported in patients with epilepsy: \u2013Aphasia (ictal and postictal)(3,6,7) -Generally resulting from seizure activity in the patient\u2019s speech-dominant  hemisphere(3,6) -Aphasia can occur during or after the seizure(7) -In a functional magnetic resonance imaging (fMRI) study conducted in the United Kingdom with 21 children with left focal epilepsy (ages 5\u201312  years) and 48 neurotypical children (ages 4\u201312  years), researchers found that children with  left focal epilepsy were unable to recruit the ventral system during language tasks. In the neurotypical children, both ventral and dorsal systems of the brain were activated during language tasks. Lack of ventral system recruitment was also consistent with poorer language abilities as measured by standardized assessments of language (Clinical Evaluation of Language Fundamentals, Fourth Edition [CELF-4]  for ages 5+ or CELF-Preschool  edition[CELF-P],  as well as the Expressive One Word Picture V ocabulary Test [EOWPVT])(35) \u2013Apraxia of speech(7) \u2013Cognitive or psychosocial deficits(7,8) -In a population-based  study in Norway,researchers compared children with epilepsy to a typically developing control group and found that children with epilepsy, as a group, develop psychosocial problems, mild cognitive impairment, and executive functioning deficits more frequently than typically developing peers(8) \u2013Dysarthria(7) \u2013Speech automatisms (involuntary, undirected words or phrases; might occur during or after the seizure) -Speech automatisms in a second language (SLSAs)(6) -Rare; spoken in a patient\u2019s second language which the patient might produce during a complex partial seizure and/or an atypical absence seizure -Foreign language ictal speech automatisms (FLISAs)(9) -Extremely rare; spoken by a monolingual patient in a foreign language -Only ever documented in male patients with nondominant hemisphere temporal lobe epilepsy",
+            "The outward signs and symptoms of epilepsy include those associated with seizures. These include but are not limited to: \u2013Body convulsions(2) \u2013Loss of consciousness(2,3) \u2013Blank stare(2) \u2013Smacking of the lips(2) \u2013Jerking of the arms and legs(2) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Patients with epilepsy often experience depression and emotional disorders due to their chronic medical problems, social isolation, and speech, language, and/or cognitive differences.(2) The speech-language  pathologist (SLP) must proceed with sensitivity during evaluations of speech, language, and cognition and refer to psychiatry or psychology as needed",
+            "Maintain awareness of and sensitivity to cultural differences during any evaluation of speech, language, or cognitive abilities"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  the cause of epilepsy is unknown; however, the following have been identified as elements that might contribute to the development of epilepsy:": [],
+        "pathogenesis:  a seizure occurs when a short but intense surge of electrical activity alters the function of a part of, or all of, the brain": [],
+        "risk factors": [
+            "Sex (more common in males vs. females) (1)",
+            "Low socioeconomic status(1)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "If a patient is experiencing a seizure during a speech evaluation or therapy session Stay calm and reassure other individuals nearby that the patient will be okay(2) Do not hold the patient down or try to restrict his or her movements(2) Time the seizure (see below regarding specific time-related precautions)(2) Clear an area around the patient of anything hard or sharp(2) Loosen anything around the patient\u2019s neck that could restrict breathing or cause choking(2) Put something flat and soft under the patient\u2019s head(2) Turn the patient gently onto one side to help keep the airway clear(2) Do not try to force the patient\u2019s mouth open. A person having a seizure CANNOT swallow his or her tongue. Efforts to restrain the tongue could injure the patient\u2019s teeth or jaw(2)  Do not attempt CPR except in the unlikely event that the patient does not start breathing again after the seizure has ended(2) Stay with the patient until the seizure ends naturally(2) Be gentle and reassuring as the patient\u2019s consciousness returns(2) Call a taxi, friend, or relative to help the patient get home if he or she seems confused or unable to get home independently(2)",
+        "Patients with epilepsy can experience seizures at any time; if a patient experiences a seizure that lasts longer than 5 minutes, seek medical attention(2) After 10 minutes of uninterrupted seizure activity, a patient might be experiencing status epilepticus (prolonged seizure activity lasting over 30 minutes). Call 911. This is a medical emergency with a poor prognosis(2)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Patients with epilepsy often experience depression and emotional disorders due to their chronic medical problems, social isolation, and speech, language, and/or cognitive differences.(2) The speech-language  pathologist (SLP) must proceed with sensitivity during evaluations of speech, language, and cognition and refer to psychiatry or psychology as needed",
+            "Maintain awareness of and sensitivity to cultural differences during any evaluation of speech, language, or cognitive abilities"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was epilepsy diagnosed in the patient? What type of epilepsy has been diagnosed? What types of seizures does the patient experience and how frequent are their occurrence?",
+                "course of treatment": {
+                    "medical management": "The goal of medical management for epilepsy is the elimination of seizures(10)",
+                    "surgical management": [
+                        "Surgical management:  If a patient with epilepsy has been prescribed two or three drug regimens and seizures are not under control (intractable epilepsy), the patient might be a candidate for surgery(12,13)",
+                        "Anterior temporal lobectomy is the most common surgical procedure used to treat epilepsy(5,13)",
+                        "In a prospective case study with an 18-year-old female patient who underwent 2 right temporal lobectomies for intractable epilepsy, researchers found that the second procedure resulted in severely impaired speech recognition in noise. Prior to the first procedure, the patient\u2019s auditory processing scores in quiet and noisy environments were within normal limits. After the first procedure (which was relatively conservative), speech recognition in quiet environments was still normal and speech recognition in noise was slightly reduced, but still within normal limits. The patient required further resection of the temporal lobe because the seizures continued. After the second surgery, in which her right superior temporal gyrus and residual temporal lobe tissue was removed, speech recognition in quiet was still intact; however, speech processing in noise was severely impaired(31)",
+                        "Extratemporal resection(13)",
+                        "Hemispherectomy (removal of an entire hemisphere of the brain; for very severe epilepsy; usually performed only on children)(13)",
+                        "Corpus callosotomy (surgery to sever the corpus callosum, which connects the two brain hemispheres, thereby interrupting the distribution of seizures from one hemisphere to another; also for very severe epilepsy; most candidates",
+                        "for this surgery have intellectual disability and/or LennoxGastaut  syndrome)(13) ",
+                        "Vagal nerve stimulation(13,29)",
+                        "Evidence-based  guidelines for vagal nerve stimulation developed by the American Academy of Neurology cite level C (weak) evidence to support the consideration of vagal nerve stimulation for children with epilepsy, for",
+                        "LennoxGastaut-associated  seizures, and for improving mood in adults with epilepsy(29)",
+                        "Authors of a case study reported dyspnea and dysphonia in a 59-year-old  male with refractory epileptic seizures for years following post vagal nerve stimulation device implantation. The episodes of dysphonia and dyspnea were associated with activation of the device. The patient participated in voice therapy, which was helpful for improving dysphonia; however, the episodes of dyspnea continued with vagal nerve stimulation device activation. With the respiratory and phonatory strategies he learned, he was able to manage the dyspnea and no longer experienced \u201cbreathing attacks\u201d(33)",
+                        "Gamma knife radiosurgery(13)",
+                        "Deep brain stimulation(13)",
+                        "Goal of brain surgery for patients with epilepsy is improved quality of life and seizure control(5)",
+                        "Prior to surgery, the patient might undergo language mapping of the brain to identify the patient\u2019s individual language centers(5)",
+                        "Electrocortical stimulation of the brain is performed during language tasks (such as confrontation naming) and errors are recorded; if a patient makes a naming error while a specific part of his or her brain is being stimulated, it is presumed that this part of the brain houses language functions",
+                        "The mapping is completed prior to surgery so that when the lobectomy is performed, the surgeons are able to preserve as much of the patient\u2019s functional language centers as possible",
+                        "In a pilot study conducted in Canada involving two patient case studies, researchers introduced an intraoperative language mapping technique to individually tailor the language mapping to each patient; both patients had good language outcomes 6 weeks postoperatively; scores of one of the patients were within normal range and the other had only a mild language deficit(5)"
+                    ],
+                    "medications": "Determine what medications the primary physician and/or neurologist have prescribed; are they being taken? Antiepileptic drugs (AEDs)(10,11,12) AEDs are used to control neuronal excitability or improve inhibitory neurotransmission, subsequently reducing seizure activity in patients with epilepsy(12) AEDs block seizures; however, they do not appear to treat the underlying epilepsy(12) AEDs include valproate/valproic acid, carbamazepine, phenytoin, and phenobarbital(10)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for individuals suspected of having epilepsy are:",
+                        "Electroencephalography (EEG)(4,11,14,15)",
+                        "History and physical from patient\u2019s primary physician, as well as neurologist",
+                        "Imaging studies (CT scan, chest X-ray,  MRI, fMRI)(4,16)",
+                        "Long-term  monitoring for epilepsy (video/EEG monitoring)(11,14,17)",
+                        "Neuropsychological evaluation(8,11,18)",
+                        "To be completed by qualified psychiatrist or neuropsychologist",
+                        "Should be completed prior to the start of treatment for epilepsy as well as any time the drug regimen is changed(11)",
+                        "Might include IQ testing (Stanford-Binet; Wechsler Intelligence Scale for Children-Revised [WISC-R])(8)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., special diets) or alternative therapies (e.g., acupuncture) and whether or not they help A ketogenic diet is a high-fat,  average protein, and low-carbohydrate  diet intended to treat intractable epilepsy; commonly used in patients for whom surgery is unadvisable(2) Approximately one third of children who try the ketogenic diet become seizure free, or almost seizure free; one third improve, but still have some seizures; the last one third either do not respond at all or find it too difficult to continue with the diet, either because of side effects or because they cannot tolerate the food(2)",
+                    "previous therapy": "Document whether patient has had speech, occupational, physical, cognitive, or psychological therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Are there factors (such as lights or noise) that seem to trigger, aggravate, or ameliorate seizures?(2) -Side effects of AEDs might exacerbate existing cognitive-communication  deficits(19) -AEDs have been linked to postoperative delirium, reduced cognitive processing speed, impaired attention and short-term recall, and reduced verbal fluency(19)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "What symptoms does the patient have during his or her seizures?  -Does the patient experience auras? -An aura is a subjective symptom of a seizure(3) -An aura is a \u201cwarning\u201d sign that occurs immediately prior to a seizure; a patient might report odd sensations in specific parts of the body(3) -Document nature of symptoms (visual, auditory, olfactory, gustatory, psychic, abdominal, autonomic and/or somatosensory)(3)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables (such as bright lights)",
+                "sleep disturbance": "Document number of wakings/night -Patients with epilepsy sometimes have difficulty sleeping and/or report that sleep is not restful(4)",
+                "other symptoms": "Document other symptoms patient might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician",
+                "respiratory status": "Does the patient require supplemental oxygen? Nasal cannula? Does the patient have a tracheostomy tube? Does the patient require ventilator support?Document psychosocial status and/or behavioral problems -In a study with 90 children with epilepsy conducted in Canada, researchers found that verbal memory and emotional and behavioral difficulty were associated with increased risk of poor health-related  quality of life(30) -If the patient or patient\u2019s family reports symptoms of depression, anxiety, or other psychosocial or behavioral disturbance, refer to behavioral specialist or mental health professional for additional assessmentDocument hearing abilities, including hearing loss, history of ear infections, and use of hearing aids or cochlear implants Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have a history of another developmental or neurological disorder?",
+                    "comorbid diagnoses": "Ask patient or family/caregiver about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders Reproductive dysfunction, including polycystic ovary syndrome, hypothalamic amenorrhea, premature ovarian failure, and functional hyperprolactinemia, occur more commonly in patients with epilepsy compared to the general population(10) Obesity/weight gain is associated with a ketogenic diet and valproate/valproic acid(10) Patients with epilepsy are at an increased risk for bone fractures when compared to the nonepileptic population(10) Long-term  use of AEDs might affect a patient\u2019s thyroid function(10)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient and/or caregiver about other symptoms the patient is experiencing (including depression or anxiety)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Does the patient require use of a communication device? -Does the patient require hearing aids or cochlear implants? If so, are they in good working order? -Does the patient wear glasses? -Does the patient require a cane or walker?",
+                "living environment": "With whom does patient live (e.g., family members, caregivers)? -Identify if there are barriers to age appropriate independence in the home; any modifications necessary?  -Has the home been modified in any way to promote patient safety? -Is the patient exposed to any other languages at home, at school, or in the community? -What percentage of time is each language spoken around/to the patient? What is the patient\u2019s fluency level in each language?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "Patients with epilepsy might exhibit speech and/or language impairment as a result of the disease and/or the treatment (i.e., AEDs or lobectomy).(5) A full speech/language evaluation to include standardized tests of speech and language might be performed at the therapist\u2019s discretion \u2013In a study conducted in the United States, researchers compared the performance of 17 patients with temporal lobe epilepsy on memory and language tasks to the performance of 17 healthy age-matched  control subjects(22) -Patients with left-sided  temporal lobe epilepsy obtained significantly lower scores in memory, letter fluency, and naming compared to controls -Patients with right-sided  temporal lobe epilepsy obtained significantly lower scores in letter fluency and naming compared to controls \u2013In a study conducted in the United States, researchers examined language deficits following damage to the left inferior8 patients with left inferior temporal damage due to stroke and 8 patients who had undergone a left anterior temporal lobectomy(23)  -Focal damage to the left inferior temporal lobe resulted in significant anomia, characterized by semantically appropriate circumlocution -Patients had increased difficulty with naming living items vs. naming nonliving items \u2013In a study conducted in Sweden, researchers compared 20 children with epilepsy (and without concomitant learning disability, cerebral palsy, or autism spectrum disorder [ASD]) to 30 typically developing children; all of the children were between 6 years 0 months and 6 years 11 months(18) -Investigators concluded that children with epilepsy might still develop specific speech, receptive and expressive language, auditory attention, and/or visuoperceptual deficits -Compared to the typically developing children, children with epilepsy had difficulty with short-term  and narrative recall and oral motor ability, including positions and movements, and took longer to process information \u2013In a study conducted in Austria, researchers compared 20 children aged 6\u201315  years with a diagnosis of BECTS to 20 age-matched  healthy controls; researchers tested children in the domains of IQ, expressive and receptive grammar, expressive and receptive vocabulary, auditory discrimination and verbal memory, reading and writing skills, and school performance(24) -When compared to the test scores of the typically developing subjects, the children with BECTS had significantly worse scores in the domains of adjective derivations, expressive grammar, comprehension of emotionally salient content, and receptive and expressive vocabulary -No significant differences were found in auditory discrimination abilities, auditory verbal memory, or reading and writing skills \u2013In a study conducted in the Netherlands, researchers compared fMRI results from 34 patients with cryptogenic (i.e., nonsymptomatic) localization-related  epilepsy with an epileptic focus in the frontal or temporal lobes to those taken from 19 healthy controls(25) -The patients with epilepsy had significantly more difficulties in language function, as evidenced by lower scores on word-generation,  word-fluency,  and reading tests -Additionally, the reduced language skills in the patients with epilepsy were correlated with a loss of functional connectivity in the language networks of the brain when compared to the brains of healthy controls \u2013In a study conducted in the Netherlands, researchers found that children with epilepsy were more likely to have pragmatic language deficits than children with other neurological disorders or typically developing children(26) -Researchers compared the performance on the Children\u2019s Communication Checklist (CCC) of 30 children with epilepsy to that of 30 children with various neurological disorders other than epilepsy and 30 typically developing children(26) -In comparison to the typically developing children, both of the other groups had greater prevalence of pragmatic language difficulties; however, these deficits were significantly more profound in the epilepsy group(26) \u2013In a study conducted in the United States with 25 children with focal, localization-related  epilepsy, researchers found that children with epilepsy had poorer language and narrative production abilities than did typically developing peers(28)those with a recent diagnosis of epilepsy and minimal prior seizure experience (n = 10) and those with chronic history of epilepsy and frequent seizure activity (n = 15). Each of these groups was then age- and gender-matched  to a control group of typically developing peers without epilepsy(28)the CELF-4,  or for children under age 5 years, the CELF-P.  Additionally, narratives were elicited using the wordless picture book Frog, Where Are You?  (28) -Children with epilepsy, as a group, scored significantly lower than age- and gender-matched, typically developing peers on the standardized tests of language abilities (CELF-4  [current edition is the CELF-5],  CELF-P  [current edition is the CELP-P-2])(28) -On average, the language scores of the children with epilepsy fell within 1 standard deviation (SD) below the normative mean, which, although significantly below the scores of the children without epilepsy, might not trigger a diagnosis of language impairment or qualify these children for services in a public school system; however, guidelines for each school system vary(28) -The largest differences in language ability were observed in narrative production. Structural analysis and listener judgments revealed that the children with epilepsy produced shorter utterances with fewer scorable story elements; often the children with epilepsy produced more words but provided less information in a narrative as compared to the typically developing peers(28)  -The group of children with chronic epilepsy had the greatest language differences/impairments relative to the typically developing control group versus the group of children with recently diagnosed epilepsy compared to their age-/gender-matched  typically developing control group(28) -All of the children with epilepsy in this study were on AEDs; researchers noted that it is difficult to determine if language deficits are related to epilepsy or AEDs(28)Assess speech and articulation; document presence of reduced speech intelligibility as a result of apraxia (motor planning impairment) or dysarthria (muscle weakness/reduced coordination of oral motor movements) -For detailed information on symptoms, assessment, and treatment of apraxia, please see Clinical Review\u2026Apraxia ofT708586 and Clinical Review\u2026Speech Sound DisordersT708888 -For detailed information on symptoms, assessment, and treatment of dysarthria, please see the series of Clinical Reviews on dysarthriaStandardized tests of language used in research with patients with epilepsy include(5) standardized test of expressive and receptive language skills as well as visual-spatial  and quantitative skills; for use with adults (age 18 and older)(5,22,23) standardized test of confrontation-naming  ability; for use with adults (norms provided for persons aged 18 to 89)(18) standardized test of children\u2019s spoken and written language; subtests measure oral language, reading, writing, and spelling; normed for children 5 years 0 months through 12 years 11 monthsnormed for persons aged 2 years 6 months to 90 years; standardized test for receptive vocabulary(18)(5) standardized test that assesses expressive and receptive language skillsAssess vocal quality and other appropriate voice parameters (e.g., intensity, pitch, range); neurological impairment can affect vocal quality. Refer to otolaryngologist for complete workup to rule out laryngeal pathologies prior to completing a full evaluation -For detailed information on voice disorders, see the series of Clinical Reviews on this topicRule out or identify atypical speech disfluencies (stuttering) -For detailed information on disorders of fluency, see the series of Clinical Reviews on this topicWhen age appropriate, assess reading and writing skills as part of a complete evaluation of communication; portions of standardized tests for aphasia provide standardized tests of both reading and writing -For detailed information on acquired reading disorders, see the series of Clinical Reviews on acquired dyslexiaSpeech Therapy ; CINAHLT708854Assess swallowing function with a bedside swallowing examination (BSE) if there are concerns about swallowing and aspiration risk \u2013It might be necessary to perform an instrumental evaluation of swallowing (such as a videofluoroscopic swallow study [VFSS] or fiberoptic endoscopic evaluation of swallowing [FEES]) to rule out aspiration \u2013For detailed information on evaluations of swallowing disorders, see the series of Clinical Reviews on in-depth BSEs and instrumental evaluations of swallowing (e.g., VFSS, FEES)",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Patients with epilepsy might experience a period of confusion during and after a seizure.(2,7) Cognitive deficits sometimes persist beyond the time period immediately surrounding a seizure \u2013The Mini-Mental  State Examination (MMSE) and the Neurobehavioral Cognitive Status Examination (NCSE) are evidence-based  screening tools for cognitive functioning(20,21)assesses overall cognitive impairment; sections include Orientation to Time, Orientation to Place, Registration, Attention and Calculation, Recall, Naming, Repetition, Comprehension, Reading, Writing, and Drawing(20)assesses orientation, attention, auditory and visual memory, spatial perceptual skills, calculations, and reasoning; skills are scored separately so that specific deficits can be identified(21)An oral mechanism examination should be completed in all patients withIs the face symmetrical at rest? Is the face symmetrical while making movements (smiling, raising the eyebrows, closing the eyes)? Are there any abnormal movements (twitching, spasms, grimacing)? Is the patient drooling or mouth breathing?Are the lips symmetrical at rest? Are the lips symmetrical during movements? Is the range of motion normal? Is the strength normal? Is the lip tissue healthy? Is there any scarring or cleft? -Authors of a study conducted in Australia with 11 individuals (10 of whom had epilepsy) with speech impairment associated with dysfunction of the GRIN2A  gene reported reduced lingual range of motion and poor lingual coordination among several of the study subjects(36)Is the tongue normal in appearance? Any atrophy? Any discolorations? Any bleeding? Is the range of motion normal? Is the strength normal? Are abnormal or involuntary movements of the tongue present? -Authors of a study conducted in Australia with 11 individuals (10 of whom had epilepsy) with speech impairment associated with dysfunction of the GRIN2A  gene reported the presence of abnormal lingual movements and posturing present during oral motor assessment(36)Is the hard palate intact? Any signs of fistulas, fissures, scarring? Are the height and width normal? Any prostheses present? Is the coloration normal? \u2013Soft palate -Is the coloration normal (should be pink and white)? -Any signs of cleft or bifid uvula? Does the patient sound hyper-  or hyponasal during conversational speech? -Place a small mirror under the patient\u2019s nose during production of nonnasal sounds; fogging or clouding might indicate nasal emission, which would indicate the need for a referral to the otolaryngologistAre there any missing teeth? Are the teeth in good repair? Does the patient wear braces or retainers? Is there a significant overbite or underbite?",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve; for detailed information on assessment of a tracheostomy tube and use of a speaking valve, see Clinical Review\u2026Passy-Muir  Tracheostomy & Ventilator Swallowing and Speaking Valve ; CINAHL Topic IDT708919"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the  potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Patients with epilepsy most likely present with some type of speech, language, and/or cognitive deficits. Goals of speech therapy will be determined following a thorough evaluation by the SLP",
+        "rule out": "Epilepsy syndrome is characterized by persistent, unprovoked seizure activity. The patient\u2019s medical team will rule out seizures of known causes, such as febrile seizures and seizures associated with acute systemic illness, intoxication, substance abuse or withdrawal, or acute neurological insult (such as head injury or stroke).(1) The medical team will also rule out other conditions such as: Hypoglycemia(14) Migraines(14) Panic attacks(14) Paroxysmal movement disorders(14)condition most often misdiagnosed as epilepsy; conversion disorder resulting in pseudoseizures(14) Sleep disorders(14) Transient global amnesia(14) Transient ischemic attack (TIA)(14)",
+        "prognosis": [],
+        "referral to other disciplines": "The following referrals might be appropriate for patients who present with epilepsy Referral to psychotherapy in the case of suspected PNEAs(14) Referral to an endocrinologist might be appropriate for all patients with epilepsy due to the possibility of AEDs affecting thyroid function as well as comorbidities related to hormones(10) Refer to ophthalmologist if vision problems are noted or reported by the patient during examination Refer to audiologist and/or otolaryngologist if patient fails hearing screening and/or appears to have difficulty hearing during the evaluation Refer to learning disabilities specialist if parents or teachers of a child with epilepsy report difficulty in school subjects",
+        "other considerations": [
+            "Patients with epilepsy who are at a higher risk for SUDEP are those with generalized tonic-clonic  seizures, an early age of epilepsy onset, symptomatic epilepsy, comorbid intellectual disability, who have experienced an unusually stressful life event, are on multiple AEDs, and/or are young and male(10)"
+        ],
+        "treatment summary": [
+            "Authors of a case study conducted in the United States with a 61-year-old  male patient with temporal lobe epilepsy (acquired at the age of 50) reported a treatment protocol to address proper-name retrieval deficits. The patient experienced ongoing seizure activity throughout the intervention period. Initial language evaluation revealed that the patient had average to high-average  performance on verbal and visual memory tests, mild word-finding  deficits for common nouns, and moderate difficulty with proper-name  retrieval (70% accuracy). The patient also reported problems recalling names in social situations. For treatment stimuli, researchers selected 20 items (famous persons or places) that were familiar to the patient, but not named correctly at baseline; 10 of these items were trained and 10 were used as controls. Treatment  protocol involved 2 hours of training per day for 5 days; all of the stimuli were delivered on a computer screen. For each training picture, the patient was asked to name the item only if he felt confident in his answer. Regardless of whether the patient correctly named the person/place, the therapist then provided verbally semantic features (e.g., \u201cHe is an American actor\u201d), showed two additional picture exemplars of the person/place, provided the patient with the number of target syllables and initial/total sounds in the name, and finally showed the picture along with the written name. The patient was then asked to write and say the name 3 times each. Immediately following the training protocol, the patient was 90\u2013100% accurate naming trained items in probe sessions as well as in the sessions 3 months later. There was no change in accuracy of naming untrained items (accuracy was 50% or less in each assessment)(32) \u203aThe following are suggestions from the literature as well as references to Clinical Reviews that address various deficits . Problem Goal Intervention Expected Progression Home Program Aphasia Improve receptive and/ or expressive language skillsFunctional training _ Patient and/or family/ caregiver is trained to use strategies or techniques appropriate for the patient\u2019s specific language deficits _ _ (For detailed information on assessment and treatment of aphasia, see the series of Clinical Reviews on this topic)Progression will vary according to specific goals of the patientHome program will vary with respect to the goals of the patient Anomia Improve word-finding abilitiesFunctional training _ _ Examples include:",
+            "Train patient to utilize word-finding strategies",
+            "Improve word-finding abilities through tasks specifically targeting word-finding _ _ (For detailed information on assessment and treatment of anomia, see the series of Clinical Reviews on this topic)Patient will improve in naming tasks beginning at the word level and progressing to conversational speech requiring fewer cues from the SLP and eventually becoming independent in the use of strategiesHome program will vary with respect to the goals of the patient  Dysarthria/oral-motor deficitsImprove speech intelligibilitySpeech intelligibility strategies _ Examples include:",
+            "Use of exaggerated articulation to produce intelligible speech; SLP will educate the patient on how to make appropriately exaggerated articulatory movements",
+            "Increase intensity of vocal volume",
+            "Train patient and caregivers to improve communication efficacy: make eye contact, ensure adequate lighting, use nonverbal enhancements such as writing or communication boards _ _ (For detailed information on assessment and treatment of dysarthria, see series of Clinical Reviews on this topic)The patient practices speech intelligibility strategies in syllables, with word lists, sentences, and eventually conversational speechHome program will vary with respect to the goals of the patient Acquired apraxia of speechImprove fluency of speech; to improve speech outputFunctional training _ Train patient to utilize pacing strategies to improve fluency of speech _ _ (For detailed information on assessment and treatment of acquired apraxia of speech, seeClinical Review\u2026 Apraxia of Speech (Acquired) , referenced above)The patient practices pacing strategies in syllables, with word lists, sentences, and eventually conversational speechHome program will vary with respect to the goals of the patient . "
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved receptive language skills": [
+            "CELF-5",
+            "CELF-P-2",
+            "ITPA",
+            "BDAE",
+            "WAB",
+            "PPVT-4"
+        ],
+        "improved expressive language skills": [
+            "CELF-5",
+            "CELF-P-2",
+            "ITPA",
+            "BDAE",
+            "WAB"
+        ],
+        "improved naming abilities": [
+            "BNT",
+            "EOWVT"
+        ],
+        "improved memory skills": [
+            "MMSE",
+            "NCSE"
+        ],
+        "improved speech speech fluency skills": [],
+        "the progress of school-aged  children with individualized education plans  ieps  will be measured quarterly to yearly using goals set by the iep team": []
+    },
+    "maintenance or prevention": [
+        "By identifying seizure triggers, patients and caregivers might be able to prevent some seizures(2)",
+        "The Epilepsy Foundation provides a \u201cself-evaluation  tool\u201d online to assess how well an individual patient\u2019s epilepsy is being controlled(2)",
+        "Maintenance of speech/language skills will depend on continued use of strategies and techniques acquired in therapy Patients with poorly controlled epilepsy/frequent seizures might have more difficulty maintaining skills acquired in speech therapy",
+        "Speech, language, or cognitive deficits that result as side effects of medications might be prevented by working with a patient\u2019s physician to determine the best possible drug treatment regimen"
+    ],
+    "patient education": [
+        "The International League Against Epilepsy (ILAE) is an association of physicians and other health professionals whose vision is to create \u201ca world in which no person\u2019s life is limited by epilepsy.\u201d National chapters of this organization may be found in over 100 different countries; view its website at https://www.ilae.org/",
+        "The Epilepsy Foundation is a nonprofit organization dedicated to epilepsy education and providing resources to patients with epilepsy; view its website at https://www.epilepsy.com/ Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on November 4, 2016  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Banerjee PN, Filippi D, Allen Hauser W. The descriptive epidemiology of epilepsy-a  review. Epilepsy Res . 2009;85(1):31-45.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "\"About Epilepsy\" page. The Epilepsy Foundation Web site. http://www.epilepsy.com/start-here/about-epilepsy-basics . Accessed December 27, 2017. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Noachtar S, Peters AS. Semiology of epileptic seizures: a critical review. Epilepsy Behav . 2009;15(1):2-9.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Beghi E. The concept of the epilepsy syndrome: how useful is it in clinical practice?. Epilepsia. 2009;50(suppl 5):4-10. (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Bandur DL, Parrent AG, Stevens DA. A tailored approach to language mapping in epilepsy surgery: some preliminary findings. J Med Speech Lang Pathol . 2007;15(2):107-117. (C)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Chauvir\u00e9 V, Adam C, Hazemann P, Baulac M, Navarro V. Speech automatisms in a second language in complex partial seizures: a video-EEG  study. Neurology . 2007;68(20):1739-1740.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Beach WA. Disorders of communication: why do they talk like that?. Am J Electroneurodiagnostic Technol . 2007;47(1):29-46.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "H\u00f8ie B, Sommerfelt K, Waaler PE, Alsaker FD, Skeidsvoll H, Mykletun A. The combined burden of cognitive, executive function, and psychosocial problems in children with epilepsy: a population-based  study. Dev Med Child Neurol . 2008;50(7):530-536.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Montavont A, Kahane P, Guenot M, Ryvlin P. Foreign language ictal speech automatisms in nondominant temporal lobe epilepsy. Neurology . 2008;71(20):1579-1585.  (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Luef G, Rauchenzauner M. Epilepsy and hormones: a critical review. Epilepsy Behav . 2009;15(1):73-77.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Stefan H, Hopfeng\u00e4rtner R. Epilepsy monitoring for therapy: challenges and perspectives. Clin Neurophysiol . 2009;120(4):653-658.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Schmidt D. Drug treatment of epilepsy: options and limitations. Epilepsy Behav . 2009;15(1):56-65.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Noachtar S, Borggraefe I. Epilepsy surgery: a critical review. Epilepsy Behav . 2009;15(1):66-72.  (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Benbadis S. The differential diagnosis of epilepsy: a critical review. Epilepsy Behav . 2009;15(1):15-21.  (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Noachtar S, R\u00e9mi J. The role of EEG in epilepsy: a critical review. Epilepsy Behav . 2009;15(1):22-33.  (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Gaillard WD, Berl MM, Moore EN. Atypical language in lesional and nonlesional complex partial epilepsy. Neurology . 2007;69(18):1761-1771.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "American Clinical Neurophysiology Society. Guideline twelve: guidelines for long-term  monitoring for epilepsy. J Clin Neurophysiol . 2008;25(3):170-180.  (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Selassie GR, Viggedal G, Olsson I, Jennische M. Speech, language, and cognition in preschool children with epilepsy. Dev Med Child Neurol . 2008;50(6):432-438.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Youse KM. Medications that exacerbate or induce cognitive-communication  deficits. Perspect Neurophysiol Neurogenic Speech Lang Disord . 2008;18(4):137-143.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-Mental  State\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Lamarre CJ, Patten SB. A clinical evaluation of the Neurobehavioral Cognitive Status Examination in a general psychiatric inpatient population. J Psychiatry Neurosci . 1994;19(2):103-108.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "McDonald CR, Ahmadi ME, Hagler DJ. Diffusion tensor imaging correlates of memory and language impairments in temporal lobe epilepsy. Neurology . 2008;71(23):1869-1876. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Antonucci SM, Beeson PM, Labiner DM, Rapcsak SZ. Lexical retrieval and semantic knowledge in patients with left inferior temporal lobe lesions. Aphasiology . 2008;22(3):281-304.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "V\u00f6lkl-Kernstock  S, Bauch-Prater  S, Ponocny-Seliger  E, Feucht M. Speech and school performance in children with benign partial epilepsy with centro-temporal  spikes (BCECTS). Seizure. 2009;18(5):320-326.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Vlooswijk MC, Jansen JF, Majoie HJ. Functional connectivity and language impairment in cryptogenic localization-related  epilepsy. Neurology . 2010;75(5):395-402.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Broeders M, Geurts H, Jennekens-Schinkel  A. Pragmatic communication deficits in children with epilepsy. Int J Lang Commun Disord . 2010;45(5):608-616.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Rosenberger LR, Zeck J, Berl MM. Interhemispheric and intrahemispheric language reorganization in complex partial epilepsy. Neurology . 2009;72(21):1830-1836.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Strekas A, Ratner NB, Berl M, Gaillard WD. Narrative abilities of children with epilepsy. Int J Lang Commun Disord . 2013;48(2):207-219. doi:10.1111/j.1460-6984.2012.00203.x.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Morris GL, III, Gloss D, Buchhalter J, Mack KJ, Nickels K, Harden C. Evidence-based  guideline update: vagus nerve stimulation for the treatment of epilepsy: report of the Guideline Development Subcommittee of the American Academy of Neurology. Neurology . 2013;81(16):1453-1459.  doi:10.1212/WNL.0b013e3182a393d1. (G)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Hrabok M, Sherman EM, Bello-Espinosa  L, Hader W. Memory and health-related  quality of life in severe pediatric epilepsy. Pediatrics . 2013;131(2):e525-e532. doi:10.1542/peds.2012-1428.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Nagle S, Musiek FE, Kossof EH, Jallo G, Boatman-Reich  D. Auditory processing following consecutive right temporal lobe resections: a prospective case study. J Am Acad Audiol. July 2013;24(7):535-43.  doi:10.3766/jaaa.24.7.2. (C)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Minkina I, Ojemann JG, Grabowski TJ, Silkes JP, Phatak V, Kendall DL. Treatment of proper name retrieval deficits in an individual with temporal lobe epilepsy. Am J Speech Lang Pathol . May 2013;22(2):S250-5.  doi:10.1044/1058-0360(2012/12-0048).  (C)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Gillespie AI, Helou LB, Ingle JW, Baldwin M, Rosen CA. The role of voice therapy in the treatment of dyspnea and dysphonia in a patient with a vagal nerve stimulation device. J Voice. January 2014;28(1):59-61.  doi:10.1016/j.jvoice.2013.08.007. (C)"
+        },
+        {
+            "number in article": 34,
+            "reference": "A Revised Definition of Epilepsy. International League Against Epilepsy . http://www.epilepsy.com/article/2014/4/revised-definition-epilepsy . Accessed December 27, 2017. (GI)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Croft LJ, Baldeweg T, Sepeta L, Zimmaro L, Berl MM, Gaillard WD. Vulnerability of the ventral language network in children with focal epilepsy. Brain. August 2014;137(Pt 8):2245-57.  doi:10.1093/brain/awu154. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Turner SJ, Mayes AK, Verhoeven A, Mandelstam SA, Morgan AT, Scheffer IE. GRIN2A: an aptly named gene for speech dysfunction. Neurology. Neurology . 2015;84(6):586-593.  doi:10.1212/WNL.0000000000001228. (R)"
+        }
+    ]
+}

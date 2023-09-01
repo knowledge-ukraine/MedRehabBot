@@ -1,0 +1,470 @@
+{
+    "metadata": {
+        "title": "Knee Pain  Unspecified Site \u2013 Conservative Management",
+        "synonyms": [
+            "pain, knee  conservative management",
+            "nonspecific knee pain  nonspecific, conservative management"
+        ],
+        "anatomical location body part affected": [
+            "Knee/tibiofemoral joint, patellofemoral joint, intraarticular and extraarticular structures around the knee"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "geriatric rehabilitation",
+            "pediatric rehabilitation",
+            "home health",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Numerous etiological factors and conditions may cause knee pain, including trauma, sudden exercise overload, training errors/overuse, systemic disease, biomechanical irritation, and inflammatory conditions, such as osteoarthritis (OA)",
+            "The attending physician may have diagnosed obvious causes such as acute fracture, stress fracture, soft tissue damage, and neurovascular compromise, as well as infection and tumors in medical cases",
+            "The prescription to treat knee pain will likely specify the site of injury and a diagnosis, if imaging and laboratory tests were performed, or if there is a history of deformity or related medical problem",
+            "A history of recent direct or indirect trauma will usually disclose the mechanism of injury",
+            "Common knee conditions that impair weight-bearing  include muscle or tendon strain, ligament sprain, meniscal tear, bursitis, fascial enthesitis, patellar maltracking, and articular cartilage damage",
+            "Typical causes of knee pain include OA, patellofemoral pain syndrome (PFPS), and meniscal, tendon, and ligament injuries(27)",
+            "Conservative management of knee pain involves protection, rest, icing, compression, and elevation (PRICE), as well as patient education, activity modification, and therapeutic exercise. Exercise-based  therapy is the foundation of treatment for OA and PFPS.(27) In a survey of patient preferences for management of chronic knee pain, physical therapy was the most popular(1)",
+            "See the Clinical Review  on specific knee condition and/or surgery if it was performed"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M29.6": "pain in limb",
+            "M25": {
+                "base": "other joint disorders, not elsewhere classified",
+                "M25.5": "pain in joint",
+                "M25.6": "stiffness of joint, not elsewhere classified",
+                "M25.8": "other specified joint disorders",
+                "M25.9": "joint disorder, unspecified",
+                "719": "other and unspecified disorders of joint"
+            },
+            "Use": "optional subclassification code 6: lower leg, to indicate site of involvement (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Mobility G-code set": {
+                "G8978": "Mobility: walking and moving around functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8979": "Mobility: walking and moving around functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8980": "Mobility: walking and moving around functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement have been identified for common knee pain"
+        ],
+        "presentation signs and symptoms": [
+            "Knee pain (usually, but not always unilateral) \u2013 acute or chronic stage, site unspecified",
+            "Patient recalls feeling or hearing pop at time of contact injury",
+            "Grinding, clicking, or popping during bending of knee",
+            "Patient complains of knee \u2018locking\u2019 or \u2018giving way\u2019",
+            "Patient complains of pain when ascending/descending stairs, squatting, jumping, or turning activities",
+            "Antalgic gait",
+            "Swelling either immediately after injury or overnight. A \u2018fluid wave\u2019 on either side of patella",
+            "Tenderness to palpation",
+            "Limited active or passive range of motion",
+            "Ligamentous laxity upon testing Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Attempt to minimize patient apprehension and muscle guarding during examination of the knee joint",
+            "The physical exam should include assessment of the hip, knee, and foot",
+            "Assure maximum protection in cases of knee instability",
+            "Consider postponing the exam in cases with unresolved inflammation, infection or healing of soft tissue, or severe hematoma"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Direct trauma to knee (e.g., blunt blow, motor vehicle accident)",
+            "Sudden excessive torque, high-impact  force, or pressure on knee (e.g., sprain/strain from simple fall or jumping)",
+            "Activity-related  trauma in contact or noncontact sports\u2013The mechanism of knee ligament or meniscus injury often involves sudden deceleration and rotation/twisting of kneewith the foot planted\u2013Additional varus or valgus forces with knee hyperextension may produce associated intraarticular damage",
+            "Activity-related  overuse (acute unaccustomed physical activity or repeated microstress)\u2013In a systematic review, knee was most common site of lower extremity injuries in runners(4)\u2013PFPS and patellar tendinopathy are the most common diagnosis in running-related  knee pain(3)",
+            "Age-related  (OA, degenerative conditions, apophysitis in the young)",
+            "Rheumatologic (rheumatoid arthritis, gout)",
+            "Infectious (bacterial, postviral, Lyme disease)",
+            "Referred pain from hip or back",
+            "Vascular (popliteal artery aneurysm, deep vein thrombosis)",
+            "Others: tumor, cyst, plica"
+        ],
+        "pathogenesis": [
+            "In the absence of a specific diagnosis on referral, the pathogenesis of the pain may not be understood. However, treatmentdecisions can be made according to the history, signs, and symptoms present upon physical examination",
+            "Patient may recall mechanism of injury(5,6,22)\u2013If swelling after injury-Immediate \u2013 indicates hemarthrosis from fracture or cruciate ligament tear-Few hours \u2013 indicates intraarticular lesion, for example, meniscus tear\u2013Noise at time of injury-Pop \u2013 indicates anterior cruciate ligament (ACL) tear-Crunch \u2013 indicates medial meniscal tear-Tearing sensation \u2013 indicates collateral ligament injury\u2013Swelling, redness, warmth \u2013 signs of inflammation (consider infection)\u2013Does knee ever lock (i.e., cannot fully extend due to physical block)?-Usually due to torn meniscus \u2013 refer within 24 hours\u2013Catching or clicking \u2013 indicates loose body, torn meniscus, degenerative joint disease\u2013Snapping \u2013 indicates inflamed synovial plica\u2013Does knee give way?-Occasional giving way is common with patellofemoral pain or symptomatic degenerative joint disease-True giving way \u2013 subluxing patella, loose body due to previous trauma or osteochondritis dissecans, torn meniscus,chronic ligamentous instability\u2013Grating sensation \u2013 patellofemoral pain, degenerative joint disease\u2013Pain when bending and walking down stairs\u2013Pain with prolonged sitting may indicate patellar tracking issues\u2013How does problem limit daily activities?\u2013Exercise-related  knee pain often increases with the same physical activity that caused it and then decreases with rest\u2013Are other joints involved?",
+            "The location of knee pain is often associated with certain conditions(3,7,22)\u2013Anterior knee pain that involves patella indicates the following:-PFPS-Chondromalacia patella-Patellar tendinitis (jumper\u2019s knee)-Quadriceps tendinitis-Patellar subluxation/dislocation-Bursitis (prepatellar or suprapatellar)-Patellar apophysitis (Sinding-Larsen-Johansson syndrome)-Patellofemoral articular cartilage defect\u2013Anterior knee pain that does not involve patella indicates the following:-ACL tear-Tibiofemoral OA-Tibialapophysitis (Osgood-Schlatter  disease)-Synovial chondromatosis-Osteochondritis dissecans-Tibial eminence fracture\u2013Medial knee pain indicates the following:-Medial (tibial) collateral ligament sprain-Medial meniscal tear (may also produce posterior pain)-Anserine tendinopathy (pes anserine strain)-Medial tibiofemoral articular cartilage defect-Medial plica syndrome\u2013Lateral knee pain indicates the following-Lateral (fibular) ligament sprain-Lateral meniscal tear (may also produce posterior pain)-Iliotibial band friction syndrome-Lateral tibiofemoral articular cartilage defect\u2013Posterior knee pain indicates the following:-Popliteal (Baker\u2019s) cyst-Posterior cruciate ligament (PCL) tear-Distal hamstrings strain-Proximal gastrocnemius strain-Popliteus strain/tendinitis\u2013Nonspecific knee pain indicates the following-Knee OA-Deep vein thrombosis (DVT)-Femur/tibia fracture-Cellulitis-Pseudogout (calcium pyrophosphate deposition disease)-Tumor/cyst around knee-Referred pain from hip (slipped capital femoral epiphysis, Legg-Calve-Perthes  disease)-Neurovascular compromise",
+            "A comprehensive exam of the knee includes:(5)\u2013lower extremity alignment\u2013effusion\u2013joint line tenderness\u2013ROM\u2013muscle tone/strength\u2013apprehension test (patellar instability)\u2013patellar grind test (patellar dysfunction/maltracking)\u2013Lachman test (ACL integrity)\u2013anterior drawer test (ACL integrity)\u2013posterior drawer test (PCL integrity)\u2013posterior sag sign (PCL integrity)\u2013pivot shift test (anterolateral knee instability/ACL tear)\u2013valgus/varus stress test (medial collateral ligament [MCL]/lateral collateral ligament [LCL] integrity)\u2013McMurray test (meniscal tear)\u2013Ege\u2019s test (meniscal tear)\u2013Ober\u2019s test (iliotibial band tightness)\u2013Homans\u2019 test (for DVT)\u2013Thomas test"
+        ],
+        "risk factors": [
+            "History of previous injuries in runners(4,8)",
+            "High-risk  sports involving cutting, jumping, and/or deceleration\u2013Noncontact (e.g., skateboarding, skiing, soccer, basketball, handball, volleyball, running)\u2013Contact (e.g., football, rugby, hockey, wrestling)",
+            "High weekly training distance in male runners(4,8)",
+            "Obesity(3,9)",
+            "Reduced quadriceps and hamstring flexibility may contribute to patellar tendinitis in athletes(4)",
+            "Improper footwear; poor running technique",
+            "Muscle imbalance(3)",
+            "Knee varus or valgus malalignment(3)",
+            "Ankle/foot and/or hip malalignment(3)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Unexplained inability to bear weight, with signs of fracture or infection",
+        "Severe swelling of knee in a patient with apparent febrile illness",
+        "Assess degree of injury/stage of healing and treat appropriately",
+        "Obtain parental or guardian consent in pediatric cases",
+        "Confirm physician orders on weight-bearing  status, ROM restrictions, and exercise therapy",
+        "Evaluate for safety limitations in knee joint ROM, weight-bearing,  and comorbidity/illness that may affect therapeutic planning",
+        "Significant neurological deficits are not usually associated with knee pain. Notify referring physician immediately if sensory or motor deficits are found in the involved limb",
+        "Notify referring physician immediately on discovery of evidence suggestive of DVT or thrombophlebitis",
+        "Refer immediately to emergency care if evidence of ischemia or paralysis is present in the affected limb",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Attempt to minimize patient apprehension and muscle guarding during examination of the knee joint",
+            "The physical exam should include assessment of the hip, knee, and foot",
+            "Assure maximum protection in cases of knee instability",
+            "Consider postponing the exam in cases with unresolved inflammation, infection or healing of soft tissue, or severe hematoma"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "See Causes , Pathogenesis , & Risk Factors , above",
+                "course of treatment": {
+                    "medical management": "Conservative treatment usually consists of protection (compression sleeve or brace), activity modification, patient education, and pain medication, as needed for reduction of inflammation",
+                    "surgical management": [
+                        "Surgical management:  See Clinical Review on specific knee condition if surgery was performed"
+                    ],
+                    "medications": "Determine what medications have been prescribed; are they being taken? NSAIDs for acute knee sprain or strain(3,5) Ibuprofen 200-800  mg t.i.d. Naproxen 375-500  mg b.i.d. Indomethacin 25-50  mg t.i.d. Acetaminophen safe and effective in doses up to 3 g/day for analgesia in OA(3,10) Intraarticular corticosteroid injection may provide short-term  pain relief in knee OA(3,11)",
+                    "diagnostic tests completed": [
+                        "X-rays  help in diagnosis of OA, osteochondral lesions, and PFPS(3)",
+                        "MRI is \u2018gold standard\u2019 for soft tissue imaging(3)",
+                        "CT scan to rule out occult knee fracture(3)",
+                        "Ultrasound may help diagnose tendinopathy(3)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions, and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "List factors that aggravate or ease the patient\u2019s symptoms",
+                "body chart": "Use body chart to document location and nature of symptoms ",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if anyDocument the need for supplemental oxygen or need for ventilator support",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could indicate physician referral (e.g., marked increase in swelling) Barriers to learning Are there any barriers to learning? Yes__ No__ If yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Prior knee injuries or surgeries?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in gym classes, sports, or other recreational activities? Is the patient in school? Does the patient work? If so, what repetitive motions is he/she required to perform that require knee movement?",
+                "functional limitations assistance with ADLs adaptive equipment": "Independence with ADLs?",
+                "living environment": "Stairs that patient is required to ascend/descend daily, number of floors in home, with whom patient lives (caregivers, etc.). Identify if there are barriers to independence in the home, work, or school and whether any modifications appear necessary"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (while tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "Measure height and weight; assess body mass index (BMI) for obesity. Assess for edema with knee circumference measurements. Evaluate for leg length discrepancy",
+            "assistive and adaptive devices": "Evaluate need for assistive ambulatory device (e.g., cane, crutches, possibly a walker or wheelchair in older persons) and modify prescription, as appropriate. Assess fit and ensure safe operation of assistive devices. Assess appropriateness of knee brace, if applicable, and ability to correctly don/doff",
+            "balance": "(Assess for nonsymmetrical weight-bearing  in bipedal standing.) If not stable, assess stability in standing using assistive device. When appropriate for weight-bearing  status, assess in single-leg  stand and for dynamic balance with perturbations",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess for palpable tibial and pedal pulses. Evaluate for DVT. Assess peripheral pulses in cases with \u2013Localized calf tenderness and erythema are present \u2013Calf circumference is more than 3 cm greater than that of uninvolved limb \u2013Superficial veins in calf are prominent \u2013Homans' sign (pain in calf on passive ankle dorsiflexion) is presentScan entire lower extremity for intact neurological functionAssess ability in transfers, steps, and gait while staying within physician\u2019s guidelines. In evaluation for return to sport, assess ability to perform single-leg  squat without hip internal rotation, jog, walk sideways, run, hop, and jump and land with controlled knee valgus",
+            "functional mobility": "",
+            "gait locomotion": "Assess gait when ambulatory assistive device is discontinued and patient is full weight-bearing  status; observe for limp, stiff knee pattern, and decreased stance on affected limb. If ambulatory, observe for altered or antalgic gait pattern in walking (and running, when appropriate, in runners). 6MWT can be used to assess endurance and dynamic gait index (DGI) if safety during gait is compromised Assess for normal dynamic tracking of patella in active ROM within postoperative guidelines. Postpone ligament stress testing until physician\u2019s orders permit",
+            "muscle strength": "Assess using manual muscle testing (MMT) \u2013After patient is full weight-bearing  and ambulatory, isometric strength testing is usually safe \u2013Manually test static strength at the hip, knee (in 40\u00b0 flexion), and ankle. Expect quadriceps weakness, which is due in part to inhibition and reduced voluntary muscle control in knee pain. Assess for quadriceps extensor lag (deficit in active knee extension) \u2013Compare quadriceps/hamstrings strength ratio to uninvolved side \u2013Assess for activation of the vastus medialis obliquus at terminal knee extension and involuntary coactivation of hamstrings during knee extension",
+            "observation inspection palpation including skin assessment": [
+                "Observe for knee deformity/malalignment",
+                "Inspect for swelling compared to unaffected knee",
+                "Assess skin condition for lesions and infection (warm, swollen, and red) \u2022Palpation:  Assess for localized tenderness around knee and calf, quadriceps atrophy localized to tendon attachments (quadriceps, distal hamstrings, proximal gastrocnemius) and the presence of a popliteal cyst"
+            ],
+            "posture": "Assess lower extremity alignment in standing and knee alignment in walking when patient can ambulate safely on treadmill. Assess ankle alignment in subtalar neutral",
+            "range of motion": "Assess active-assisted/active  and passive ROM of the knee joint, as well as the hip and ankle joints. Assess for knee flexion contracture that may contribute to extensor lag. Assess entire LE for functional ROM",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assure that Achilles tendon reflex is intact",
+            "sensory testing": "Assess the following \u2013Touch and thermal (warm and cold) sensation around knee \u2013Sensation and movement in foot/toes \u2013Proprioception at knee joint",
+            "special tests specific to diagnosis": "See Causes , Pathogenesis , & Risk Factors , above, for list of knee tests to consider",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Cold urticaria",
+                "Cold intolerance",
+                "Paroxysmal cold hemoglobinuria",
+                "Cryoglobulinemia",
+                "Raynaud\u2019s disease or phenomenon",
+                "Over a regenerating peripheral nerve",
+                "Over a circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "With individuals with poor cognition",
+                "In the very young and the very old ",
+                "Persons with an aversion to cold",
+                "Over areas with a lack of intact thermal sensation",
+                "Over areas of vascular insufficiency or vascular disease",
+                "Over areas of recent hemorrhage or potential hemorrhage",
+                "Over areas of known malignancy",
+                "Over areas of acute inflammation",
+                "Over infected areas where infection may spread",
+                "Over areas where liniments or heat rubs have recently been applied",
+                "In any situation deemed unreliable by the practitioner",
+                "Over the trunk or heart region in patients with demand-type pacemakers and implantable cardioverter defibrillators (ICDs)",
+                "Over the pelvic, abdominal, lumbar, or hip region of a pregnant woman",
+                "Over the carotid bodies",
+                "Over the phrenic nerve, eyes, or gonads",
+                "Over areas of known peripheral vascular disease",
+                "Over areas of active osteomyelitis",
+                "Over areas of hemorrhage",
+                "With patients without intact sensation",
+                "With patients who cannot communicate",
+                "With patients with compromised mental ability",
+                "With cardiac dysfunction (uncontrolled hypertension or hypotension, irregular heart beat)",
+                "Over active or previous neoplasms",
+                "With electrodes -Over compromised skin, unless treating wound specifically -Over tissues that are vulnerable to hemorrhage",
+                "Cervical region in patients with history of stroke or seizures",
+                "Do not use within five yards of diathermy units or other source of electromagnetic radiation",
+                "During pregnancy, over the abdomen and low-back",
+                "Over active bone growth at the epiphysis",
+                "Over a known or suspected area for cancer",
+                "Over the infected tissue in a tuberculosis infection",
+                "Over an area of active bleeding  can be used in area of hematoma",
+                "Over skin with impaired circulation  recommend using pulsed",
+                "Following are considered contraindications, but have no evidence to support -Myositis ossificans -Deep vein thrombosis or thrombophlebitis -Acute injury -Recently irradiated tissue -Impaired sensation due to nerve damage -Skin disease -Implanted cardiac pacemaker or other implanted electronics -Reproductive organs -Eyes -Anterior neck -Metal implants, head, and heart often listed, but consensus is these should not be contraindications",
+                "Ultrasound, continuous   precautions(12)",
+                "Over plastic or cemented implants ",
+                "Over spinal cord and superficial or regenerating nerves (poor evidence)",
+                "Ultrasound, pulsed   contraindications(12)",
+                "Over low-back  and abdomen during pregnancy",
+                "Over known or suspected area of malignancy",
+                "Over area of active bleeding",
+                "Following are considered contraindications, but have no evidence to support -Myositis ossificans -Deep vein thrombosis or thrombophlebitis -Recently irradiated tissue -Implanted cardiac pacemaker or other implanted electronics -Reproductive organs -Eyes -Anterior neck",
+                "Ultrasound, pulsed   Precautions(12)",
+                "Over epiphysis with active bone growth",
+                "Over infected area",
+                "Over acute injury",
+                "Over area of impaired sensation due to nerve damage",
+                "With patients with impaired cognition or communication",
+                "Over areas of impaired circulation",
+                "In the presence of skin disease",
+                "Over plastic and cemented implants",
+                "Over spinal cord and superficial or regenerating nerves (poor evidence)"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with knee pain are at risk for falls; follow facility protocols for fall prevention and post fall prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall prevention strategies. Discharge criteria should include independence with fall prevention strategies",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Cryotherapy  contraindications(12)",
+                "Cryotherapy  precautions(12)",
+                "Thermotherapy  contraindications(12)",
+                "Electrotherapy  contraindications (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(12)",
+                "Electrotherapy precautions(12)",
+                "Therapeutic ultrasound, continuous  contraindications(12)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Knee pain; reduced knee ROM and strength; deficits in ADLs and functional mobility (e.g., gait, dynamic posture, balance, transfers)",
+        "rule out": "Concomitant lower extremity pain not localized to knee",
+        "prognosis": [
+            "Prognostic studies on outcomes in nonspecific knee pain are lacking. The time frame for resolution of pain and recovery of knee function will likely depend on the type of injury, the extent of soft tissue damage (whether there is permanent damage), joint stability, presence of infection, coexisting conditions, and patient motivation to comply with prescribed exercises.(3) Minor acute injuries should heal completely in two to eight weeks",
+            "Researchers of a multicenter, prospective study conducted in the Netherlands found that higher BMI, lower level of education, more comorbidities, higher activity limitation scores, and joint space tenderness were more often associated with patients with more pain at presentation and a faster pain progression over five years than patients with a mild pain progression(28) \u2013Based on a study of 705 patients with early symptomatic knee OA"
+        ],
+        "referral to other disciplines": "Orthopedist for specific \u201cred flags\u201d and persisting inability to achieve full ROM or normal strength; occupational therapist for deficits in ADLs; pain management specialist for unremitting pain; weight-loss  clinic for obese patients; aquatic therapist for pool exercise. Acupuncture may help to reduce knee pain in patients who do not exercise(13)",
+        "other considerations": [
+            "Older adults \u2013Poor performance on a short physical performance battery (i.e., time for five repeated chair stands, walking speed over four meters, and standing balance) was a useful measure of functional capacity in a population of 1,006 older persons (mean age 75 years) with chronic knee pain and perceived disability in ADLs(14) \u2013Location of knee pain in older adults may determine disability(29) -Based on a study conducted in the United States of 2959 painful knees as part of the Osteoarthritis Initiative -A combined pain pattern of both tibiofemoral and patellofemoral pain was associated with greater odds of reporting pain, symptoms, sports, or recreational activity limitations and lower knee-related  quality of life compared with either tibiofemoral or patellofemoral pain alone  \u2013Lifestyle modifications, such as physical activity for 150 min/week, maintaining a healthy weight/diet can decrease knee pain associated with OA(26) \u2013Authors of a systematic review and narrative synthesis concluded that long-term  (3-30  months) exercise is safe for most older adults with knee pain(30) \u2013Older patients with chronic knee pain were found to have more work productivity if their work involved at least 30% sitting time and higher levels of support from co-workers(32) -Based on a questionnaire study conducted in Australia of 129 workers \u2013Adding an internet-based  intervention with home exercise and automated pain-coping  skills training (PCST) to educational materials improved pain and function in patients > 50 years old with chronic knee pain(33) -Based on an RCT conducted in Australia of 148 community-dwelling  adults -PCST consisted of eight weekly interactive, automated modules, which included progressive relaxation, activity-rest cycling, and distraction techniques, as well as participation in seven Skype sessions with physiotherapists over 12 weeks. Control group only received educational materials -Outcomes were pain during walking and physical function (WOMAC) at three months",
+            "Obesity \u2013A program of quadriceps strengthening and dietary advice was associated with reduced knee pain and improved ADLs function in overweight persons compared to controls(15) \u2013The current recommendations from the American Academy of Orthopedic Surgeons for the treatment of knee OA focus on exercise-based  therapies and targeted weight loss(27)"
+        ],
+        "treatment summary": [
+            "There is good consensus that exercise-based  therapy is the first-line treatment for knee OA and PFPS, two of the most common causes of knee pain treated with conservative management(27)",
+            "There is good quality evidence that active rehabilitation (stretching, strengthening, exercise programs) is just as effective as arthroscopy at reducing pain and improving function in patients with nontraumatic degenerative medial meniscal tears without mechanical symptoms(27)",
+            "Protection, rest, icing, compression, and elevation (PRICE) for pain, and edema management(3)",
+            "Activity modification in overuse injuries(3)",
+            "Manual therapy \u2013OA knee pain decreased and ADLs improved in 26 patients (mean age 56.5 years) treated with the Macquarie Injury Management Group Protocol (three sessions per week, two weeks) compared to controls(16) \u2013Similarly, six sessions of transverse friction massage to the lateral retinaculum increased knee flexion and improved stair climbing in anterior knee pain(17) \u2013Authors of an RCT comparing manual therapy to supervised exercise therapy demonstrated that those receiving manual therapy had significant improvements with pain and functional outcomes(24) -RCT study from India involving 74 patients with anterior knee pain (age range of 18-65)  randomized into manual therapy + exercise (experimental group) or supervised exercise group (control group). Sessions lasted for 15-20  minutes for a total of six treatment sessions over a two-week  period -Control group performed supervised self-exercises consisting of stretches to the hamstring, rectus femoris, and iliotibial band for 30 second holds twice per session. Strengthening exercises consisted of exercises for the knee flexors and knee extensors -Experimental group received transverse friction massages to the lateral retinaculum as per the Cyriax model with the knee in full extension and knee in full flexion. Patients also performed supervised exercise programs and performed exercises similar to the control group",
+            "Therapeutic ROM and strengthening exercises(18) \u2013Main objective for patients suffering from anterior knee pain is to strengthen the vastus medialis(25)",
+            "Functional exercises to improve posture, balance, and gait, as indicated(19)",
+            "Patient education with home program(19)",
+            "Knee braces can be used for stabilizing traumatic knee ligament and tendon tears, but have uncertain evidence in the treatment of chronic knee pain and should never replace physical therapy(27)  . Problem Goal Intervention Expected Progression Home Program Pain/edema Reduce pain/edema Physical agents and mechanical modalities _ Cryotherapy and elevation for pain and edema. Heat, whirlpool, and contrast baths to relieve stiffness. Electrical point stimulation may contribute to long- lasting changes in pain(23) _ _ Joint protection _ Restrict weight- bearing according to physician instructions. Continue bracing or compression sleeve for joint protection, but avoid prolonged immobilization, which has adverse effectsN/A Recommend strategies for the home to assist in relieving pain/effusion as appropriate and indicated for each"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes outcome measures": [
+            "Resolution of pain and swelling\u2013V AS, circumferential measurement",
+            "Functional ROM (> 120\u00b0 flexion); full knee extension\u2013Knee goniometry",
+            "Lower-extremity  strength comparable to unaffected side\u2013MMT",
+            "Full unassisted weight-bearing",
+            "Normal symmetrical gait\u2013Gait assessment, 6MWT(20), TUG(20), DGI",
+            "Normal balance\u2013Berg Balance Test, 1-leg  hop test",
+            "Normal flexibility\u2013Flexibility assessment, Sit-and-reach  test",
+            "Normal proprioception",
+            "Appropriate physical fitness and clearance for return to regular activities/sport with physician\u2019s approval\u2013International Knee Documentation Committee Subjective Knee Form(21)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continue knee rehabilitation exercises after discharge, including progressive quadriceps strengthening and dynamic balance training",
+        "Researchers in Finland conducted a life course study of men in the military from age 18 through age 50 and found that higher BMI at age 20 was predictive of knee pain and functional limitations (walking difficulties, limping) later in life, and that severe obesity that develops during a lifetime increases the risk of knee pain by 80% and functional limitations by more than 90%(31) Based on a study of 1913 men who participated in the Health 2000 Study (follow-up) The authors suggested that prevention of obesity early in life may prevent the development of knee pain and functional disability later in life"
+    ],
+    "patient education": [
+        "Knees and Hips: A Troubleshooting Guide to Knee and Hip Pain . Harvard Health Publications, Harvard Medical School, https://www.health.harvard.edu/special-health-reports/knees-and-hips-a-troubleshooting-guide-to-knee-and-hip-pain  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Mitchell HL, Hurley MV. Management of chronic knee pain: a survey of patient preferences and treatment received. BMC Musculoskelet Disord . 2008;9:123. (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "McMahon PJ, Kaplan LD, Popkin CA. Sports medicine. In: Skinner HB, McMahon PJ, eds. Current Diagnosis & Treatment in Orthopedics . 5th ed. New York, NY: McGraw-Hill Education; 2014:88-94.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Sikule K, Stevenson JH. Knee pain. In: Domino FJ, ed. The 5-Minute Clinical Consult Standard 2018 . 26th ed. Philadelphia, PA: Wolters Kluwer; 2018:566-567.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "van Gent RN, Siem D, van Middelkoop M, van Os AG, Bierma-Zeinstra  SM, Koes BW. Incidence and determinant of lower extremity injuries in long distance runners: a systematic review. Br J Sports Med . 2007;41(8):469-480.  (SR)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Taunton JE, Ryan MB, Clement DB, McKenzie DC, Lloyd-Smith  DR, Zumbo BD. A retrospective case-control  analysis of 2002 running injuries. Br J Sports Med . 2002;36(2):95-101.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Martin SD, Ince S. Knees and Hips: A Troubleshooting Guide to Knee and Hip Pain from Harvard Medical School . Boston, MA: Harvard Medical School; 2008. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Calmbach WL, Hutchens M. Evaluation of patients presenting with knee pain: Part II. Differential diagnosis. Am Fam Physician . 2003;68(5):917-922.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Wen DY. Risk factors for overuse injuries in runners. Curr Sports Med Rep . 2007;6(5):301-313.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Rejeski WJ, Ip EH, Marsh AP, Zhang Q, Miller ME. Obesity influences transitional states of disability in older adults with knee pain. Arch Phys Med Rehabil . 2008;89(11):2102-2107.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Zhang W, Jones A, Doherty M. Does paracetamol (acetaminophen) reduce the pain of osteoarthritis? A meta-analysis  of randomized controlled trials. Ann Rheum Dis . 2004;63(8):901-907.  (M)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Bellamy N, Campbell J, Robinson V, Gee T, Bourne R, Wells G. Intraarticular corticosteroid for treatment of osteoarthritis. Cochrane Database Syst Rev. 2006:2. Art No: CD005328. doi:10.1002/14651858.CD005328.  (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "White A, Foster NE, Cummings M, Barlas P. Acupuncture treatment for chronic knee pain: a systematic review. Rheumatology (Oxford) . 2007;46(3):384-390.  (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Cecchi F, Molino-Lova  R, Di Iorio A. Measures of physical performance capture the excess disability associated with hip pain or knee pain in older persons. J Gerontol A Biol Sci Med Sci . 2009;64(12):1316-1324.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Jenkinson CM, Doherty M, Avery AJ. Effects of dietary intervention and quadriceps strengthening exercises on pain and function in overweight people with knee pain: randomised controlled trial. BMJ. 2009;339:b3170. (RCT)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Pollard H, Ward G, Hoskins W, Hardy K. The effect of a manual therapy knee protocol on osteoarthritic knee pain: a randomized controlled trial. J Can Chirop Assoc . 2008;52(4):229-242.  (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "den Dolder P, Roberts DL. Six sessions of manual therapy increase knee flexion and improve activity in people with anterior knee pain: a randomized controlled trial. Aust J Physiother . 2006;52(4):261-264.  (RCT)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Coppack RJ, Etherington J, Wills AK. The effects of exercise for the prevention of overuse anterior knee pain: a randomized controlled trial. Am J Sports Med . 2011;39(5):940-948.  (RCT)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Solving nagging knee pain. Consum Rep Health . 2011;23(6):7. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Logerstedt DS, Snyder-Mackler  L, Ritter RC, Axe MJ. Knee pain and mobility impairments: meniscal and articular cartilage lesions. J Orthop Sports Phys Ther . 2010;40(6):A1-A35.  (G)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Greco NJ, Anderson AF, Mann BJ. Responsiveness of the International Knee Documentation Committee Subjective Knee Form in comparison to the Western Ontario and McMaster Universities Osteoarthritis Index, modified Cincinnati Knee Rating System, and Short Form 36 in patients with focal articular cartilage defects. Am J Sports Med"
+        },
+        {
+            "number in article": 2010,
+            "reference": " 38(5):891-902.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Luke A, Ma CB. Sports medicine & outpatient orthopedics. In: Papadakis MA, McPhee SJ, eds. Current Medical Diagnosis & Treatment 2018 . 57th ed. New York, NY: McGraw-Hill  Education; 2018:1717-1718.  (GI)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Gornoski LE, Coronado RA, George SZ. Clinical outcomes of electro-therapeutic  point stimulation in conjunction with exercise for the treatment of patients with chronic knee pain: a case series. Orthop Phys Ther Pract . 2014;26(3):182-187.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Patle S, Bhave S. A study on the efficacy of manual therapy as an intervention to supervised exercise therapy in patients with anterior knee pain: a randomised controlled trial. Indian J Physiother Occup Ther . 2015;9(2):92-96.  doi:10.5958/0973-5674.2015.00060.X.  (RCT)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Werner S. Anterior knee pain: an update of physical therapy. Knee Surg Sports Traumatol Arthrosc . 2014;22(10):2286-2294.  doi:10.1007/s00167-014-3150-y.  (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Connelly AE, Tucker AJ, Kott LS, Wright AJ, Duncan AM. Modifiable lifestyle factors are associated with lower pain levels in adults with knee osteoarthritis. Pain Res Manag . 2015;20(5):241-248.  (RV)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Jones BQ, Covey CJ, Sineath MH. Nonsurgical Management of Knee Pain in Adults. Am Fam Physician . 2015;92(10):875-883.  (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Bastick AN, Wesseling J, Damen J, et al. Defining knee pain trajectories in early symptomatic knee osteoarthritis in primary care: 5-year results from a nationwide prospective cohort study (CHECK). J Gen Practice . 2016;66(642):e32. doi:10.3399/bjgp15X688129. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Farrokhi S, Chen Y-F, Piva SR, et al. The influence of knee pain location on symptoms, functional status, and knee-related  quality of life in older adults with chronic knee pain: data from the osteoarthritis initiative. Clin J Pain . 2016;32(6):463-470.  doi:10.1097/AJP.0000000000000291. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Quicke JG, Foster NE, Thomas MJ, Holden MA. Is long-term  physical activity safe for older adults with knee pain?: a systematic review. Osteoarthritis Cartilage . 2015;23(9):1445-1456.  doi:10.1016/j.joca.2015.05.002. (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Frilander H, Viikari-Juntura  E, Heliovaara M, et al. Obesity in early adulthood predicts knee pain and walking difficulties among men: a life course study. European Journal of Pain. 2016;20(8):1278-1287.  doi:10.1002/ejp.852. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Agaliotis M, Mackey MG, Heard R, Jan S, Fransen M. Personal and workplace environmental factors associated with reduced worker productivity among older workers with chronic knee pain. J Occup Environ Med . 2017;59(4):e24-e34.  doi:10.1097/JOM.0000000000001000. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Williamson OD. An online exercise program plus automated coping skills raining improved pain and function in chronic knee pain. ACP J Club . June 20, 2017;166(12):6. (RCT) "
+        }
+    ]
+}

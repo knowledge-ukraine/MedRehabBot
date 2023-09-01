@@ -1,0 +1,329 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "pet-facilitated  therapy  occupational therapy",
+            "animal-assisted  intervention occupational therapy",
+            "occupational therapy: animal-assisted  therapy",
+            "pet visitation therapy",
+            "companion animal visits"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "pediatric rehabilitation",
+            "geriatric rehabilitation",
+            "home health",
+            "acute care"
+        ],
+        "description": [
+            "Animal-assisted  therapy (AAT) is an intervention that can be used with children or adults in which an animal that has met specific criteria is used as an integral part of therapy sessions.(1,2) AAT can be delivered and/or directed by a healthcare provider who has been trained in these techniques.(1) AAT is intended to promote improvement in a person\u2019s physical, social, emotional, or cognitive functioning and can be provided in a variety of settings, including groups or individual sessions.(1,2) Trained animals who have met specific criteria can be taught to reinforce behaviors in human patients, such as throwing, walking, or verbally responding.(1) The specific goals of AAT are determined by the treating therapist based on a thorough evaluation.(2) Animals can be incorporated into the lives of patients and healthcare providers in other ways as well:",
+            "Animal-assisted  activities (AAAs) can be provided in a variety of settings by specially trained professionals, paraprofessionals, or volunteers and animals that have met certain standards (see guidelines below). The animal interactions are geared toward enhancing education, motivation, and recreation; however, these activities are not specifically therapeutic in nature(1,12)",
+            "Resident animals (RAs) live permanently in a facility (e.g., nursing home, assisted living facility, rehabilitation hospital). Care for the animals is provided by those in their home environment, including by staff, volunteers, and/or residents.(1) RAs can be included in facility activities and therapy schedules if they meet specific criteria (e.g., proper training, appropriate temperament).(1,12) They also might participate in general interactions with facility residents without a therapeutic plan(1) \u2013RAs provide opportunities for residents to perform increased physical activity and ADLs through the care of animals (e.g., feeding, grooming, exercise) and can offer a sense of purpose, prompting better self-care(1)",
+            "Assistance animals are animals that are trained in order to be permanently placed with individuals with disabilities(3,25) \u2013Service animals: physical disability(3) \u2013Hearing animals: hearing impairment(3) \u2013Guide animals: visual impairment/loss(3) \u2013Companion animals: provide emotional and social support \u2013Medical alert animals can help individuals with psychiatric impairment, seizures, diabetes, or other medical problems(3)"
+        ],
+        "indications": [
+            "AAT is indicated for a variety of functional impairments and/or underlying diagnoses. Interactions with animals can provide emotional and physical health  benefits for diverse human populations, including older adults, children and adults with developmental and/or acquired physical and/or cognitive disability, individuals with sensory impairments such as blindness and/or hearing loss, and patients with emotional, behavioral, or psychosocial disturbances(1)"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "code": "None specifically for AAT",
+            "description": ""
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this intervention",
+            "Occupational therapy sessions that include AAT can be billed to third-party  payers as long as sessions meet the guidelines for intervention(3)",
+            "The Joint Commission and CARF International (an independent, nonprofit accreditor of health and human services; formerly the Commission on Accreditation of Rehabilitation Facilities) both support the use of AAT in therapy as long as it is appropriate for the needs and goals of the individual patient(3) Indications for device/equipment"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Occupational therapy evaluations should utilize a client-centered approach to most effectively evaluate deficits and needs(4) \u2013A client-centered  approach includes the following principles: -The patient is uniquely qualified to make decisions about his or her occupational functioning(4) -The patient should have an active role in determining goals and desired outcomes(4)  -The patient-therapist  relationship should be interdependent(4) -Evaluation and treatment should be patient-centered and focus on the patient\u2019s culture, roles, and interests(4) -When the patient is able to define the problems that he or she would like to work on, the patient also becomes a problem solver(4) -The patient should evaluate his or her own performance and set personal goals(4)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Occupational therapy evaluations should utilize a client-centered approach to most effectively evaluate deficits and needs(4) \u2013A client-centered  approach includes the following principles: -The patient is uniquely qualified to make decisions about his or her occupational functioning(4) -The patient should have an active role in determining goals and desired outcomes(4)  -The patient-therapist  relationship should be interdependent(4) -Evaluation and treatment should be patient-centered and focus on the patient\u2019s culture, roles, and interests(4) -When the patient is able to define the problems that he or she would like to work on, the patient also becomes a problem solver(4) -The patient should evaluate his or her own performance and set personal goals(4)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Review medical chart and physician reports to ascertain information regarding the patient\u2019s diagnosis, medical treatments, and functional impairments. For what reason has the patient been referred for AAT?",
+                "course of treatment": {
+                    "medical management": "Document medical management of underlying diagnosis to date",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Note the results of all diagnostic tests completed to date",
+                        "Diagnostic imaging (e.g., MRI, CT scan, chest X-ray)",
+                        "Blood work (e.g., CBC, platelets, PT/INR, PTT, BUN, creatinine, glucose, urinalysis)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Note respiratory status -Does the patient require supplemental oxygen? Tracheostomy tube, nasal cannula, or breathing mask? -Does the patient require mechanical ventilation? If so, why, what type, what are the settings? -Does the patient become short of breath? If so, when? Standing? Walking? With exercise? When exposed to animal dander? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document previous history of the same or similar diagnoses and/or functional impairments; document previous use of AAT as well as whether the patient was successful in this type of therapy",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she is experiencing "
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -What are the patient\u2019s daily occupations and role(s) within his or her family? -Is he or she currently employed? -Is the patient hoping to return to work? -What activities and hobbies did the patient enjoy prior to the onset of functional impairments? -Did the patient enjoy animals prior to onset of functional impairments? -Is the patient afraid of animals or a specific type of animal? This would be a contraindication for AAT(3) -For children with developmental disabilities and delays, is the child interested in animals? -A patient/caregiver interview is often helpful to gain insight into the patient\u2019s hobbies, family/community roles, interests, prior work status, and home responsibilities",
+                "functional limitations assistance with ADLs adaptive equipment": "What current assistive or adaptive equipment is available to the patient at home? Can it still be used based on patient\u2019s current level of functioning? -Document both high-  and low-tech  adaptations and equipment",
+                "living environment": " Living environment -Who is the patient\u2019s primary caregiver? -With whom does the patient live (e.g., spouse/partner, parents, children, siblings, grandparents, caregivers)? Does the patient currently reside in a facility? -Are there pets in the home? -Identify if there are barriers to independence in the home; are any modifications necessary? -Inquire about the levels of the home, including stairs and number of floors"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Document height, weight, and BMI, as this might determine if patient is appropriate for AAT involving animal riding (e.g., horses, dolphins, elephants)",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or use of assistive and adaptive devices \u2013Animals can be used as assistive technology for individuals with disabilities(1)",
+            "balance": "Evaluate static and dynamic balance functionally during ADL tasks involving weight shifting \u2013Tinetti Balance Scale(6) \u2013Berg Balance Scale",
+            "cardiorespiratory function and endurance": [
+                "Assess heart rate, blood pressure, and respiratory rate regularly pre/during/post activity; use Borg Rating of Perceived Exertion (RPE) Scale if indicated -Authors of a meta-analysis  of the effects of AAT sessions on stress found that there were significant improvements in heart rate, self-reported  anxiety, and self-reported  stress after AAT sessions compared with prior to AAT(20) -Document any negative change in vital signs that occurs after an animal is introduced into the therapy session; fear of or discomfort around animals is a contraindication for AAT",
+                "Monitor breathing to assist with determining fatigue and endurance levels"
+            ],
+            "circulation": "Assess pulse bilaterally; note any discrepancies or abnormalitiesAssess patient for involvement of cranial and peripheral nervesBed mobility and transfers should be assessed to determine the amount of assistance needed for the patient to perform each activity \u2013Test static and dynamic activitiesa measurement of mobility; includes tasks such as standing from a seating position, walking, turning, stopping, and sitting down, all of which are important for independent mobility(7)an 18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(8)",
+            "functional mobility": "",
+            "gait locomotion": "Observe patient\u2019s gait and ability to climb stairs (assisted or unassisted)  \u2013Note use of braces or ambulatory aids for walking \u2013If the patient presents with impaired gait, referral to physical therapy is appropriateAssess joint integrity and mobility \u2013Document presence of contracturesAssess fine and gross motor function of the upper extremities; describe the quality of movement \u2013Observe manual dexterity; serial opposition or rapidly touching each finger to thumb in succession \u2013Modified Ashworth Scale (mAS) -Used to assess tone and reflexes -Severity of spasticity can be graded on the mAS \u2013Motor Assessment Scale -Assesses motor function; includes disability and impairment measures; assessments include those of arm and hand movements, tone, and mobility \u2013Arm Motor Ability Test (AMAT) -Evaluates arm functional ability and quality of movement; 28 tasks including eating with a spoon, opening a jar, tying a shoelace, and using the telephone \u2013Jebsen Test of Hand Functionwriting, turning over stacked index cards, simulated eating, moving empty and weighted cans, and picking up small objects \u20139-hole  peg test for fine motor control",
+            "muscle strength": "Assess muscle strength \u2013Manual muscle testing (MMT) to evaluate strength in both upper extremities, including the shoulder, elbow, forearm, wrist, and fingers; do not perform MMT on muscles with contractures or abnormal tone or on muscles with coordination issues \u2013Dynamometer to evaluate hand strength bilaterally; note any differences between the two hands \u2013Assess grip force in functional tasks \u2013Assess pinch strength with pinch gauge",
+            "observation inspection palpation including skin assessment": [
+                "Patients with open wounds are not good candidates for AAT(3)",
+                "Observe for and document presence of skin breakdown or scratches upon initial evaluation and at the start of each treatment session; report new or changing skin breakdown to patient\u2019s nurse and/or physician \u2022Perception (e.g., visual field, spatial relations)",
+                "Ocular motor screening includes tracking through all planes, visual accommodation, and clarity of vision",
+                "Document complaints of double vision, optic pain, or visual field cuts",
+                "Document use of eye patching",
+                "Referral to ophthalmology or neuro-ophthalmology  is appropriate if symptoms of visual disturbances are noted during"
+            ],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Document patient\u2019s ability to communicate, level of arousal, memory, attention, problem solving, and orientation to person, place, time, and situation \u2013A brief cognitive assessment such as the Mini-Mental  State Examination (MMSE) as indicated and appropriate(5)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients who need this intervention or those with a diagnosis for which this intervention is used may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols \u203aDiagnosis/need for device/equipment:  The OT must consider the patient\u2019s risk factors and deficits to determine if the patient is an appropriate candidate for the use of AAT in occupational therapy"
+            ],
+            "general": "The OT must consider the patient\u2019s risk factors and deficits to determine if the"
+        },
+        "diagnosis need for treatment": " diagnosis",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": " Referral to other disciplines Referral to physical therapy if the patient has difficulty with gait, balance, or lower extremity strength deficits Referral to speech therapy if the patient presents with a speech, language, cognitive, or swallowing problem Referral to neuropsychology for significant cognitive impairment Referral to ophthalmology or neuro-ophthalmology  for assessment and treatment of visual disturbances Referral to dietitian if the patient has any feeding or swallowing difficulties and may be at risk for malnutrition; patient may require nutritional supplements or supplemental feedings Referral to recreational or vocational therapist for returning to activities of leisure and employment Referral to audiology if the patient appears to have a hearing loss Referral to psychiatry, psychology, or social work if patient appears depressed or anxious, is having difficulty coping, and/ or might benefit from assistance with issues such as facility placement Refer patient to allergist if the patient develops new respiratory or sinus symptoms after beginning AAT",
+        "other considerations": [
+            "AAT participants can occasionally become overly involved and possessive of the animals, resulting in an atmosphere of competition rather than social cooperation(1)",
+            "Patients sometimes perceive that an animal has rejected them (often due to unrealistic expectations of an animal\u2019s behavior toward them), which can exacerbate low self-esteem(1)",
+            "Death of a therapy animal can generate intense feelings of grief and sometimes guilt in both patients and staff(1)"
+        ],
+        "treatment summary": [
+            "ROM \u2013Petting or brushing an animal\u2019s fur/hair(2) \u2013Throwing a ball to be fetched by a dog(2) \u2013Swinging a toy to be chased by a cat(2)",
+            "Muscle strength \u2013Squeezing out a tube of something (e.g., topical cream, hairball remedy, food/treat) for an animal(2) \u2013Milking a cow(2) \u2013Brushing an animal\u2019s fur or hair; can add weights to a brush to increase difficulty(2) \u2013Scooping kitty litter into a litter box(2) \u2013Lifting and carrying bags of pet food(2)",
+            "Hand contractures \u2013Petting an animal with an open hand(2) \u2013Attempting to feed an animal from an open hand(2) \u2013Leaning on an opened hand while playing with an animal using the other hand(2)",
+            "Sensory processing \u2013Petting soft animals, such as rabbits or hamsters(2) \u2013Petting animals with different textured hair, fur, or skin(2)",
+            "Fine motor skills \u2013Clipping on a leash and/or buckling a collar(2) \u2013Retrieving a small treat from a container(2)",
+            "Mobility \u2013Taking a dog for a walk(2)",
+            "Memory \u2013Remembering to feed an animal according to a schedule; incorporating memory strategies and devices as needed(2) \u2013Learning about and reporting on different breeds or types of animals(2)",
+            "Attention \u2013Following directions related to animal care(2) \u2013Answering questions about a specific animal\u2019s characteristics(2) \u2013Watching animals play or run for a specific amount of time(2)",
+            "Social skills \u2013Taking turns petting or playing with an animal(2) \u2013Discussing an animal or past experiences with animals with the OT or a peer(2) \u2013Sharing tasks of caring for one animal with a partner(2) \u2013Learning about treating an animal (and fellow human) with kindness and gentleness(2) \u2013Engaging in social communication(11) -Authors of a pilot study, conducted in Canada, involving 3 female children with language impairment found that AAT used in a play-based  speech-language pathology setting appeared to facilitate increased sustained social interaction in 2 of the 3 girls",
+            "Self-care  skills \u2013Participating in the proper care of an animal(2) \u2013Grooming an animal(2) \u2013Feeding an animal and providing water(2) \u2013Dressing a dog in dog clothes that are appropriate for the weather(2) \u2013Buying a treat at the pet store for the animal(2) ",
+            "Self-esteem \u2013Success in any of the abovementioned activities can promote increased self-esteem(2)",
+            "Authors of a pilot study in the United States suggested that AAT can be feasible in group therapy sessions and can be incorporated in a fitness program in order to engage older residents in physical activity(15)",
+            "Authors of an RCT conducted in Italy concluded that AAT positively affects global functioning and school attendance in children and adolescents with psychiatric disorders(14) \u2013Thirty-four  participants between 11 and 17 years of age in whom an acute psychiatric disorder had been diagnosed were included in this study \u2013Participants were equally divided into the treatment group (AAT group) or the control group \u2013The treatment group received AAT intervention in structured sessions which were individualized to the recipient; AAT group treatments were performed weekly for 3\u20134 months \u2013Significant improvements were noted in all outcome measures, which included global functioning, reduction in care, and increased school attendance",
+            "Authors of an RCT conducted in Korea suggest that caring for insects can be a low-cost  alternative to AAT that can reduce depression and have positive effects on cognitive function in community-dwelling older adults(16) \u2013Based on an 8-week  study involving 94 older adults who were randomized to either the insect-caring  group (n = 46) or control group (n = 48) \u2013The insect-caring  group were given the tasks of caring for 5 crickets in a cage with appropriate instructions on care and management \u2013The insect-caring  group had lower scores on the Geriatric Depression Scale (GDS-15)  and improved scores on the MMSE compared to the control group",
+            "Authors of a study in Italy suggest that equine-assisted  therapy (EAT) can improve executive function and social function in children with ASD(17) \u2013Twenty-eight  children with ASD (all males; ages 6\u201312) participated in this study \u2013Sessions were held once per week for 6 months for 60\u201370 minutes per session (20 minutes of grooming; 10 minutes of hand-walking  the horse; 20\u201330  minutes of horseback riding; 10 minutes of closing session)",
+            "Incorporating dogs in OT treatment has been shown to improve communication, behavioral regulation, and participation in children and adolescents with ASD(22) \u2013The presence of dogs facilitated engagement, enjoyment, and motivation to participate with therapy",
+            "In a similar study in which dogs were incorporated into a therapy program, improvements in social-communication behaviors were found in psychiatrically hospitalized youths with ASD. Participants in the interventiondisplayed positive emotional expressions, spoke more, and were able to maintain longer levels of eye contact with adults and peers(23)",
+            "Authors of a study conducted in Korea compared the effects of simulated horseback riding to real horseback riding and found that simulated horseback riding produced similar results in muscle activity of the trunk and thigh, suggesting that a simulated horseback experience can be an effective alternative to actual riding to improve postural control and balance(24) See Description , Indications of device/equipment , and Guidelines for use of device/equipment , above . Problem Goal Intervention Expected Progression Home Program  Reduced fine motor skills(2)Improved fine motor skills(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesGradual progression of intensity of exercises and functional tasks should allow increased strength, function, and ROMN/A Limited wheelchair mobility(2)Improved wheelchair skills(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesGradual progression of intensity of exercises and functional tasks should allow increased mobility with wheelchair/increased upper extremity strengthN/A Reduced balance in static and dynamic tasks(2)Improved balance in static and dynamic tasks(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesGradual progression of intensity of exercises and functional tasks should allow increased balance in static and dynamic tasksN/A  Poor attention (sustained, alternating, selective, divided) skills(2)Improved attention skills(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesProgression of therapeutic tasks will vary according to the individual patient\u2019s goalsN/A Low self-esteem(2)Increased self-esteem(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesProgression of therapeutic tasks will vary according to the individual patient\u2019s goalsN/A Lack of leisure/ recreation skills(2)Development of leisure/ recreation skills(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesProgression of therapeutic tasks will vary according to the individual patient\u2019s goalsN/A  Loneliness and/or anxiety(2)Reduced loneliness and/or anxiety(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesProgression of therapeutic tasks will vary according to the individual patient\u2019s goalsN/A Reduced motivation or participation in therapeutic tasks(2)Increased participation in therapeutic tasks(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesAddition of animals will increase motivation for therapeutic tasksN/A Limited social interaction(2)Increased social interaction(2)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesProgression of therapeutic tasks will vary according to the individual patient\u2019s goalsN/A  Poor physical fitness/ overall health(2)Improved physical fitness/overall health(1)Prescription, application of devices and equipment _ AAT _ _ AAT in nature _ _ See Treatment summary , above, for specific therapy activitiesGradual progression of intensity of exercises and functional tasks should allow increased strength, function, and ROMN/A ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved fine motor skills": [
+            "Jebsen Test of Hand Function, 9-hole  peg test"
+        ],
+        "improved wheelchair skills": [
+            "Functional assessment"
+        ],
+        "improved balance in static and dynamic tasks": [
+            "Functional assessment, Berg Balance Scale, Tinetti"
+        ],
+        "increased verbal interactions": [],
+        "improved attention skills": [],
+        "increased self-esteem  and quality of life": [
+            "SF-36,  COPM"
+        ],
+        "development of leisure recreation skills": [],
+        "reduced loneliness and or anxiety": [],
+        "increased participation in therapeutic tasks and adls": [
+            "FIM, Physical Self-Maintenance  Scale (PSMS), Assessment of Motor and Process Skills (AMPS), Kohlman Evaluation ofLiving Skills (KELS), Frenchay Activities Index, and Barthel Activities of Daily Living Index"
+        ],
+        "increased social interaction": [
+            "SF-36"
+        ],
+        "improved physical fitness overall health": [
+            "BMI, heart rate, blood pressure, respiratory rate, RPE"
+        ],
+        "outcomes of occupational therapy should be measured during a reevaluation at the conclusion of therapy": [
+            "Reliable measurements can be obtained by comparing scores on specific tasks/tests taken from both the initial anddischarge evaluations, utilizing standardized tests whenever possible"
+        ]
+    },
+    "maintenance or prevention": [
+        "Gains achieved during the course of therapy can be maintained through continued practice of the activities performed in therapy as well as through additional interaction with animals"
+    ],
+    "patient education": [
+        "For guidelines for AAAs, AAT, and RA programs, see the policies set forth by the American Veterinary Medical Association (A VMA): https://www.avma.org/policies/animal-assisted-interventions-guidelines",
+        "Information about AAT for patients and professionals is available at the American Humane Association website: http://www.americanhumane.org/publication/therapy-animals-supporting-kids-task-program-manual/ ",
+        "See the Pet Partners website for information about therapy animals, AAT, and professional resources: https://petpartners.org/? pid=183 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Guidelines for animal-assisted  activity, animal-assisted  therapy and resident animal programs. American Veterinary Medical Association  Web site. https://ebusiness.avma.org/ files/productdownloads/guidelines_AAA.pdf . 2011. (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Poleshuck LR. Animal-assisted  therapy for children and adolescents with disabilities. Work. 1997;9(3):285-293.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Dono J. Introducing companion animals into nursing homes. Nurs Residential Care . 2005;7(6):265-268.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Gillen G. Cerebrovascular accident/stroke. In: Pendleton HM, Schultz-Krohn  W, eds. Pedretti's Occupational Therapy Practice Skills for Physical Dysfunction . 8th ed. St. Louis, MO: Mosby Elsevier; 2018:810-836.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \u201cMini-mental  state\u201d. A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Tinetti ME, Williams TF, Mayewski R. Fall Risk Index for elderly patients based on number of chronic disabilities. Am J Med . 1986;80(4):429-434.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Podsiadlo D, Richardson S. The timed \"Up and Go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc . 1992;39(2):142-148.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Jenkins CD, Laux JM, Ritchie MH, Tucker-Gail  K. Animal-Assisted  Therapy and Rogers\u2019 Core Components Among Middle School Students Receiving Counseling Services: A Descriptive Study. J Creativity Ment Health . 2014;9(2):174-187.  doi:10.1080/15401383.2014.899939. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hiroharu K, Shinpei O, Tsutani K, et al. Effectiveness of animal-assisted  therapy: A systematic review of randomized controlled trials. Complement Ther Med  Web site. http:// dx.doi.org/10.1016/j.ctim.2013.12.016 . 2014;22(2):371-390.  (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Boyer VE, Mundschenk NA. Using animal-assisted  therapy to facilitate social communication: a pilot study. Can J Speech Lang Pathol Audiol . 2014;38(1):26-38.  (C)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Ernst L. Animal-Assisted  Therapy: An Exploration of Its History, Healing Benefits, and How Skilled Nursing Facilities Can Set Up Programs. Ann Long Term Care . 2014;22(10):27-32.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Flynn R, Roach P. Animal-assisted  therapy in dementia care: a critical appraisal of evidence. J Dement Care . 2014;22(4):32-35.  (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Stefanini MC, Martino A, Allori P, Galeotti F, Tani F. The use of animal-assisted  therapy in adolescents with acute mental disorders: a randomized controlled study. Complement Ther Clin Pract . 2015;21(1):42-46.  (RCT)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Grubbs B, Artese A, Schmitt K, Cormier E, Panton L. A pilot study to assess the feasibility of group exercise and animal-assisted  therapy in older adults. J Aging Phys Act . 2016;24(2):322-331.  doi:10.1123/japa.2015-0107.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Ko HJ, Youn CH, Kim SH, Kim SY. Effect of pet insects on the psychological health of community-dwelling  elderly people: A single-blinded,  randomized, controlled trial. Gerontology . 2016;62(2):200-209.  doi:10.1159/000439129. (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Borgi M, Loliva D, Cerino S, et al. Effectiveness of a standardized equine-assisted  therapy program for children with autism spectrum disorder. J Autism Dev Disord . 2016;46(1):1-9.  doi:10.1007/s10803-015-2530-6.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Gocheva V, Hund-Georgiadis  M, Hediger K. Effects of animal-assisted  therapy on concentration and attention span in patients with acquired brain injury: A randomized controlled trial. Neuropsychology . 2018;32(1):54-64.  doi:10.1037/neu0000398. (RCT)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Wortman RA, Vallone T, Karnes M, Walawander C, Daly D, Fox-Garrity  B. Pinnipeds and PTSD: An analysis of a human-animal  interaction case study program for a veteran. Occup Ther Int . 2018;2018:2686728. doi:10.1155/2018/2686728. (C)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Ein N, Li L, Vickers K. The effect of pet therapy on the physiological and subjective stress response: A meta-analysis.  Stress Health . 2018;34(4):477-489.  doi:10.1002/ smi.2812. (M)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Denzer-Weiler  C, Hreha K. The use of animal-assisted  therapy in combination with physical therapy in an inpatient rehabilitation facility: A case report. Complement Ther Clin Pract. 2018;32:139-144.  doi:10.1016/j.ctcp.2018.06.007. (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "London MD, Mackenzie L, Lovarini M, Dickson C, Alvarez-Campos  A. Animal assisted therapy for children and adolescents with autism spectrum disorder: parent perspectives. J Autism Dev Disord . 2020;50(12):4492-4503.  doi:10.1007/s10803-020-04512-5.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Germone MM, Gabriels RL, Guerin NA, Pan Z, Banks T, O'Haire ME. Animal-assisted  activity improves social behaviors in psychiatrically hospitalized youth with autism. Autism. 2019;32(7):1740-1751.  doi:10.1177/1362361319827411. (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Kim MJ, Kim TY, Oh S, Yoon BC. Equine exercise in younger and older adults: simulated versus real horseback riding. Percept Motor Skills . 2018;125(1):93-108. doi:10.1177/0031512517736463. (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "L\u00f3pez-Cepero  J. Current status of animal-assisted  interventions in scientific literature: a critical comment on their internal validity. Animals. 2020;10(6):985. doi:10.3390/ ani10060985. (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Jones MG, Rice SM, Cotton SM. Incorporating animal-assisted  therapy in mental health treatments for adolescents: A systematic review of canine assisted psychotherapy. PLoS One . 2019;14(1):e0210761. doi:10.1371/journal.pone.0210761. (RV)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Rodrigo-Claverol  M, Malla-Clua  B, Marquilles-Bonet  C, et al. Animal-assisted  therapy improves communication and mobility among institutionalized people with cognitive impairment. Int J Environ Res Public Health . 2020;17(16):5899. doi:10.3390/ijerph17165899. (RV)"
+        }
+    ]
+}

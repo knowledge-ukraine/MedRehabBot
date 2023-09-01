@@ -1,0 +1,355 @@
+{
+    "metadata": {
+        "title": "Erectile Dysfunction and Exercise",
+        "synonyms": [
+            "male erectile disorder and exercise",
+            "impotence and exercise",
+            "male sexual dysfunction and exercise"
+        ],
+        "anatomical location body part affected": [
+            "Penis/penile arteries, testes"
+        ],
+        "area of specialty": [
+            "cardiovascular rehabilitation",
+            "neurological rehabilitation",
+            "urology"
+        ],
+        "description": [
+            "Erectile dysfunction (ED) is the physical component of sexual dysfunction in men with normal energy drive (libido) for sexual activity. Patients with ED report the inability to achieve an erection or maintain adequate rigidity of their penis for satisfactory sexual intercourse(1,2,3,4)",
+            "ED is primarily a vascular disease. Among men in the United States, ED is associated with increased cardiovascular disease (CVD) risk and premature mortality risk(24,26)",
+            "The prevalence of ED is associated with reduced physical activity. Authors of a cross-sectional  study (n = 692 men, 50 to 85 years of age) in the United States found that for every 30 minutes per day of moderate-to-vigorous  physical activity, participants had 43% reduced odds of having ED(25)",
+            "A program that includes regular aerobic exercise, weight loss, and improved antioxidant status may help to improve erectile function, as well as improve overall vascular health, in men with ED(5,6,9,27)",
+            "This Clinical Review focuses on the role of therapeutic exercise for men with ED",
+            "Additional information on therapeutic exercise training in men who may have coexisting ED can be found in  Clinical Review ... Diabetes Mellitus, Type 2, and Exercise  ; CINAHL Topic ID Number: 5000008912;  Clinical Review ... Peripheral Artery Disease and Exercise  ; CINAHL Topic ID Number: 5000015198;  Clinical Review ... Angina Pectoris, Stable  ; CINAHL Topic ID Number: 5000010242; and  Clinical Review ... Multiple Sclerosis and Exercise  ; CINAHL Topic ID Number: 5000015215"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for exercise therapy will depend on insurance contract coverage. No specific special agencies, issues, or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "The primary complaint is inadequate erection for sexual intercourse \u2013In a 2006 survey of men in Canada (N = 3,921 men aged 40 to 88 years) seen by primary care physicians, the prevalence of ED was 49.4%(2)",
+            "Metabolic syndrome (MetS): this is a diagnostic category that includes abdominal (central) obesity, hypertriglyceridemia, hyperglycemia/diabetes, low high-density lipoprotein (HDL) cholesterol, and hypertension(28)",
+            "Patients may present with reduced aerobic fitness due to inadequate physical activity(25)  Causes, Pathophysiology, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Exam may be normal in asymptomatic patients with ED(2)",
+            "Stop the evaluation if the patient experiences shortness of breath, chest pain, abnormal fatigue, tachycardia, syncope, arrhythmia, or dizziness. Contact the referring physician immediately",
+            "Red flag complications that warrant stopping the evaluation and referral back to physician(2) \u2013Anemia \u2013Enlarged lymph nodes \u2013Fever \u2013Testicular mass \u2013Unintentional/unexplained weight loss"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "The etiology of ED is primarily vascular disease (i.e., diminished endothelium-dependent  vasodilation) in the penilearteries(1,7,8)",
+            "Arteriogenic/vasculogenic\u2013Hypertension(7)\u2013Peripheral vascular disease(7)\u2013Ischemic heart disease(7)\u2013Diabetes(7,22)\u2013Atherosclerosis(22)\u2013Corporal veno-occlusive  mechanism dysfunction\u2013Pelvic irradiation",
+            "Neurogenic(7)\u2013Spinal cord injury(10,22)\u2013Multiple sclerosis(7)\u2013Multiple system atrophy (MSA)\u2013Cerebral injury\u2013Parkinson disease(22)\u2013Alzheimer disease(22)\u2013Efferent nerve damage\u2013Temporal lobe epilepsy\u2013Peripheral neuropathy(7)",
+            "Surgical(7,8)\u2013Radical prostatectomy(15)\u2013Cystectomy\u2013Anterior urethroplasty(20)\u2013Perineal, penile, urethral, or pelvic surgery\u2013Rectum resection\u2013Aorto-iliac  surgery",
+            "Psychogenic(7,8)\u2013Major life-event  stress(22)\u2013Depression(22)\u2013Performance anxiety(22)\u2013Partner-related  difficulties\u2013History of sexual abuse or other traumatic event",
+            "Endocrine(7,8)\u2013Hypogonadism/low testosterone(18)\u2013Hyperprolactinemia\u2013Hypothyroidism or hyperthyroidism\u2013Hypocortisolism/hypercorticalism\u2013Klinefelter\u2019s syndrome(18)",
+            "Traumatic(7,8)\u2013Pelvic fracture\u2013Urethral rupture\u2013Saddle trauma\u2013Penile injury",
+            "Anatomical or structural(7,8)\u2013Peyronie disease(18)-It is estimated that 8% of men with Peyronie\u2019s disease are under the age of 40 years, with 40% of these menexperiencing ED(18)\u2013Cavernous fibrosis\u2013Hypospadias\u2013Epispadias\u2013Micropenis\u2013Penile fracture",
+            "Medication side effects(7,8)\u2013Antihypertensives such as thiazides and clonidine, antiandrogens, cimetidine\u2013Antiarrhythmics\u2013Antidepressants such as SSRIs\u2013Antipsychotics",
+            "Illicit/recreational substances(7,8)\u2013Alcohol\u2013Marijuana\u2013Nicotine\u2013Opiates\u2013Cocaine\u2013Methadone maintenance"
+        ],
+        "pathogenesis": [
+            "Atherosclerosis with endothelial damage to the penile arteries supplying the corpus cavernosum is the most commonunderlying pathophysiology of arteriogenic ED(1,8)",
+            "In nearly all cases of arteriogenic ED, the penile arteries fail to dilate adequately because the endothelial cells do notrelease sufficient amounts of vasoactive relaxing factors such as nitric oxide (NO) into the cells of the corpus cavernosafollowing parasympathetic stimulation(1,7,8)",
+            "NO-induced  vasodilatation is impaired due to reduced intracavernosal cyclic guanosine monophosphate (cGMP) levels,which are responsible for smooth muscle relaxation, influx of blood into the penis, and controlling the outflow of blood,which causes engorgement(7,8)",
+            "Other contributors to vasodilation during erection include vasoactive intestinal peptide (VIP) and prostaglandins E1 andE2(7,8)",
+            "Spinal reflexes and neurohumoral pathways also facilitate penile erection. This central mechanism is triggered bynoncholinergic, nonadrenergic neurons in the brain that release NO and activate the paraventricular nucleus (PVN) of thehypothalamus. ED secondary to decreased libido is associated with reduced activation of the PVN(7,8)",
+            "The impairment of endothelium-dependent  vasodilationin ED is shared with the pathophysiology of CVD and MetS.(9,28)Patients with ED should thus be evaluated for potential CVD"
+        ],
+        "risk factors": [
+            "Older age(22)",
+            "MetS: independent of obesity(28)",
+            "Diabetes, cardiovascular disease, and increased fasting glucose level are independently associated with risk of ED(2,8)",
+            "Conditions that promote atherosclerosis in penile arteries (e.g., hyperlipidemia, cigarette smoking, hypertension,hyperglycemia)(7)",
+            "Psychiatric or psychological disorders(8)\u2013Depression, anxiety, history of sexual abuse(22)",
+            "Tobacco, illicit drug, and alcohol use(8)",
+            "Pelvic trauma (8)",
+            "Radical prostatectomy or transurethral resection of the prostate(8)",
+            "Pelvic or prostatic radiation(7)",
+            "Endocrine disorders, thyroid disease, gonadal disease(8)",
+            "Bicycle riding may be associated with increased risk of ED due to perineal compression and possible trauma of thepudendal nerve within Alcock's canal(29)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Ensure that physician\u2019s referral specifies exercise prescription/training",
+        "Undiagnosed exertional chest pain",
+        "Uncontrolled hypertension (diastolic blood pressure [BP] greater than 110 mmHg and/or systolic BP greater than 180 mmHg at rest)",
+        "Orthostatic hypotension with symptoms",
+        "Acute systemic illness",
+        "Tachycardia/bradycardia: heart rate (HR) greater than 100 beats/min. or less than 50 beats/min. at rest",
+        "Recent embolism",
+        "Thrombophlebitis/deep vein thrombosis (DVT)",
+        "Uncontrolled diabetes (e.g., hyperglycemia greater than 250 mg/dL, ketonuria)",
+        "Severe orthopedic conditions that would restrict safe exercise",
+        "Uncontrolled metabolic conditions, such as acute thyroiditis, hypokalemia, hyperkalemia, hypovolemia",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/ Plan of Care  (10)"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Exam may be normal in asymptomatic patients with ED(2)",
+            "Stop the evaluation if the patient experiences shortness of breath, chest pain, abnormal fatigue, tachycardia, syncope, arrhythmia, or dizziness. Contact the referring physician immediately",
+            "Red flag complications that warrant stopping the evaluation and referral back to physician(2) \u2013Anemia \u2013Enlarged lymph nodes \u2013Fever \u2013Testicular mass \u2013Unintentional/unexplained weight loss"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Etiology of illness -When was ED diagnosed in the patient? -Was onset associated with preexisting conditions and lifestyle factors that increase ED risk, such as diabetes, cardiovascular disease, obesity, or physical inactivity? -Was onset related to pelvic/genitourinary trauma or surgery? -Screen patient for cardiovascular risk factors -What is patient\u2019s current level of confidence in erectile function?",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [
+                        "Surgical management:  Has the patient received an implantable penile prosthesis, such as an inflatable device? Were there any surgical complications (e.g., infection)? Has the device failed?(8)"
+                    ],
+                    "medications": " Clinical practice guidelines published by the American College of Physicians recommend phosphodiesterase type 5 (PDE5) inhibitors as the firstline  medical treatment for ED(8) PDE5 inhibitors have demonstrated effectiveness in patients with diabetes mellitus, type 2 (DM2) and central neurological disorders(3,4) PDE5 inhibitors are taken in anticipation of sexual intercourse. The evidence is insufficient to compare the efficacy and adverse effects of different PDE5 inhibitors because there are few headto-head  comparison trials(16) The American College of Physicians guidelines and Alberta Medical Association Guidelines state that PDE5 inhibitors in conjunction with prescribed nitrate medications are an absolute contraindication. PDE5 inhibitors can combine with cardiac nitrates to cause excessive vasodilation and hypotension, which can result in death(16) Testosterone therapy can be prescribed via intramuscular injections, transdermal gels, or via oral prescription for individuals with low testosterone; however, the American College of Physicians does not recommend for, or against, hormonal treatment in the management of patients with ED(16)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Screening tests for ED include:",
+                        "Complete blood count (CBC)(7)",
+                        "Total and free serum testosterone(7)",
+                        "Prostate-specific  antigen (PSA)(8)",
+                        "Thyroid function(7)",
+                        "Fasting blood glucose(7)",
+                        "Fasting serum lipid panel(7)",
+                        "The American College of Physicians guidelines do not recommend for, or against, routine use of hormonal blood"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting). The majority of the assessment is to rule out any underlying functional impairments that can impede the patient\u2019s ability to safely participate in an aerobic exercise and conditioning program as indicated",
+            "anthropometric characteristics": "Document height, weight, and BMI. Compare to normative data. ED is associated with central obesity(28) and increased BMI(19)",
+            "assistive and adaptive devices": "Assess need for and appropriateness of assistive device. ED is not associated with impaired mobility; however, an underlying medical condition or previous surgery may require the need for an assistive/ adaptive device",
+            "balance": "Assess static and dynamic sitting and standing balance as indicated. Balance impairments may be present due to comorbidities. Impairments that reduce balance are not a direct result of ED",
+            "cardiorespiratory function and endurance": [
+                "In 2012, the Princeton III Consensus Expert Panel Conference published recommendations regarding the evaluation and management of patients with ED and cardiovascular disease(17) -Patients should undergo stress testing and an analysis of their exercise abilities in order to thoroughly assess their cardiovascular health status prior to prescribing treatment for ED -All patients should be properly assessed prior to prescription of any medications for ED since patients with cardiovascular disease may be asymptomatic",
+                "Assess HR and BP at rest, during activity, and post activity",
+                "Perform graded exercise test (GET) if facility has the necessary equipment and monitoring devices. If not, use the 6-minute  walk for distance test (6MWT) and monitor patient\u2019s level of exertion with dyspnea scale and/or Borg Rating of Perceived Exertion (RPE) Scale.(10) Sedentary patients may have reduced aerobic work capacity (AWC)"
+            ],
+            "circulation": "Assess distal pedal pulses and note any asymmetry or diminished palpation. Assess ankle-brachial  index (ABI) and note any abnormality Assess dermatomes and myotomes in bilateral upper extremity (UE) and lower extremity (LE), as indicatedAssess basic ADLs and level of assistance required to safely and independently perform them, as indicated. Use Timed Up and Go (TUG) test and/or Timed Up and Down Stairs (TUDS) test to assess functional limitations",
+            "functional mobility": "",
+            "gait locomotion": "Assess gait for any significant deviations, decreased speed, etc. Assess safety with Dynamic Gait Index (DGI)Assess bilateral UE and LE joint mobility for crepitus, contractures, or hypermobility, as indicatedAssess UE, LE, and trunk for abnormal tone (flaccidity or spasticity), as indicated",
+            "muscle strength": "Assess gross functional strength with manual muscle testing (MMT) or handheld dynamometer (if tone is normal), including trunk strength and core stability. Assess handgrip strength with dynamometer",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Document the patient\u2019s posture in sitting and standing, noting any asymmetry",
+            "range of motion": "Assess gross functional flexibility and ROM with goniometry or by observation of movement for bilateral UEs and LEs",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess bilateral deep tendon reflexes and protective righting responses to challenges in balance, as indicated",
+            "sensory testing": "Assess sensation to light touch and proprioception in bilateral UE and LE, as indicated",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013International Index of Erectile Function\u20135  (IIEF-5) -A self-administered  questionnaire designed to measure the severity of ED and assess treatment-related changeserectile function, orgasmic function, sexual desire, intercourse satisfaction, and overall satisfaction -On a scale from 1 to 30, scores can range from 26\u201330 points (no ED), 17\u201321  points (mild ED), 12\u201316  points (mild to moderate ED), 8\u201311  points (moderate ED), 5\u20137 (severe ED) \u2013Quality of Erection Questionnaire (QEQ) -6-item,  patient-reported  questionnaire -The total score is converted to a 0\u2013100 scale(11) \u2013The Sexual Encounter Profile (SEP) is a 5-question  survey that is meant to be completed after each attempt of sexualerection, individual satisfaction, and couple satisfaction domains(12)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess as indicated for comorbidities. Is the patient alert and oriented x 4? Any noted deficits should not be considered a direct result of ED, but they may affect the patient\u2019s ability to compensate(7)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Physical therapy guidelines are lacking for treating ED symptoms",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the referring physician",
+                "Rehabilitation professionals should always use their professional judgment when implementing therapeutic exercise or when using physical or electrotherapeutic modalities",
+                "Comorbidities will likely influence the need for targeted treatment and should be addressed per physician\u2019s orders and findings on physical exam"
+            ]
+        },
+        "diagnosis need for treatment": "ED/decreased aerobic fitness secondary to physicallyinactive lifestyle will most likely be the primary focus of physical therapy intervention. Goals for physical therapy treatment include the following: Patient education Improve aerobic endurance Increase functional strength Reduce functional impairments, such as decreased balance associated with comorbidities (e.g., DM neuropathy) Weight-loss  management program Pelvic floor muscle strengthening (15) ",
+        "rule out": " Rule out Cancer (e.g., testicular, prostate) Genitourinary trauma or surgery Psychogenic causes",
+        "prognosis": [
+            "Oral medications for the treatment of ED have high success rates \u2013Authors of a cohort study (n = 952) in the United States found that of patients who reported no successful intercourse attempts during a 4-week  baseline period, 81% had at least one successful intercourse attempt following a 12-week treatment period with tadalafil(13) \u2013Authors of a 2011 literature review found that patients treated with sildenafil or vardenafil had high success rates. However, tadalafil had higher patient preference because its longer duration of action (36 hours) increased the time available to initiate sexual activity(14) \u2013Authors of a 2016 systematic review and meta-analysis  of 7 studies (n = 478 participants allocated to aerobic, pelvic, or combined exercise interventions, or usual care) found that short-term  and long-term  aerobic exercise of moderate-to-vigorous  intensity may reduce the severity of ED(27)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician specialist in urology or sexologyHabitual dietary flavonoid (fruit and vegetable) intake is associated with reduced incidence of ED, based on large epidemiological studies(30,31) Behavioral psychologist/psychiatrist for counseling and to address any underlying psychiatric conditions associated with ED",
+        "other considerations": [
+            "Patients with ED and central neurological disease or concomitant libido impairment caused by depression may not benefit from PDE5 inhibitors(4) \u203aThe severity of ED and improvement with treatment may be assessed with the IIEF-5  and the Sexual Encounter Profile(7)"
+        ],
+        "treatment summary": [
+            "Scientific evidence suggests that a comprehensive approach to CVD risk reduction will improve overall vascular health, including sexual function(8)",
+            "Aerobic exercise \u2013Aerobic exercise training and general physical activity appear to be effective as complementary treatment for ED(27)",
+            "PFM rehabilitation increases the intracavernosal pressure, which may improve the ability to maintain an erection(23)",
+            "Patients should be properly educated on the red flag signs associated with prescribed medications for ED. These include dizziness, shortness of breath, arrhythmia, tachycardia, and syncope. Patients also need to be instructed to contact their physician immediately should any of these occur(8)",
+            "A home exercise walking program can decrease the severity of symptoms of ED in men who have had a myocardial infarction (MI) \u2013Based on an RCT (n = 100 men with recent MI) in Brazil(21) \u2013Patients were randomized into a home exercise group and a control group -Home exercise group ambulated unsupervised for 4 times a week for a month after discharge from the hospital -Patients were advised to warmup for 5 minutes, followed by an endurance walk training period that began with 20 minutes during the first week and increased progressively by 5 minutes every other week. A 5-minute  cool-down  was performed after the endurance period -Control group received only usual post-MI  care -Results showed that after 30 days the men in the home exercise group had a 71% decrease in the severity of ED, whereas the control group reported a 9% increase in ED . Problem Goal Intervention Expected Progression Home Program  Reduced aerobic exercise/ activity and AWCReduced frequency and severity of ED symptoms; reduced negative impact on HRQoLFunctional training _ Individualized prescription of exercise program for improving aerobic fitness _ _ Encourage compliance with medical and psychological managementGradually progress frequency, duration, and intensity of exercise to recommended levels(10)Provide patient with simple instructions for home exercise. Referral to other specialists, as appropriate ."
+        ]
+    },
+    "desired outcomes outcome measures": {},
+    "maintenance or prevention": [
+        "Continue with prescribed home exercise program which includes moderate, daily physical activity and any other patient-specific  exercises(2)",
+        "Recommended lifestyle changes and reduction in risk factors associated with ED(2,8) Patients should be encouraged to quit smoking, participate in regular physical activity, continue with weight management, reduce or stop alcohol intake, and abstain from illicit drugs(8) Maintain a healthy diet, particularly by eating fruits and vegetables with flavonoids(17,30,31)",
+        "Patients need to be encouraged to manage their risk factors associated with DM and CVD(8)",
+        "Encourage patients to seek and receive psychological counseling if ED is associated with psychological factors(8)",
+        "Followup with referring physician regarding any adverse effects associated with prescribed medications(2) Patients taking testosterone replacement need annual prostate examinations and blood testing to monitor hormone, liver enzymes, hemoglobin, and PSA levels(8) The frequency of testing should be increased for patients at a higher risk for prostate cancer, including Blacks and those with a family history(8)"
+    ],
+    "patient education": [
+        "Mayo Clinic website, \u201cDiseases and conditions: Erectile dysfunction,\u201d https://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/symptoms-causes/syc-20355776 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Ph\u00e9 V, Roupr\u00eat M. Erectile dysfunction and diabetes: a review of the current evidence-based  medicine and a synthesis of the main available therapies. Diabetes Metab . 2012;38(1):1-13.  doi:10.1016/j.diabet.2011.09.003. (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Rew KT, Heidelbaugh JJ. Erectile dysfunction. Am Fam Physician . November 15, 2016;94(10):820-827.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Isidro ML. Sexual dysfunction in men with type 2 diabetes. Postgrad Med J . 2012;88(1037):152-159.  doi:10.1136/postgradmedj-2011-130069.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Lombardi G, Nelli F, Celso M, Mencarini M, Del Popolo G. Treating erectile dysfunction and central neurological diseases with oral phosphodiesterase type 5 inhibitors. Review of the literature. J Sex Med . 2012;9(4):970-985.  doi:10.1111/j.1743-6109.2011.02615.x.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Duca Y, Calogero AE, Cannarella R, et al. Erectile dysfunction, physical activity and physical exercise: Recommendations for clinical practice. Andrologia . 2019;51(5):e13264. doi:10.1111/and.13264. (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Hsiao W, Shrewsberry AB, Moses KA. Exercise is associated with better erectile function in men under 40 as evaluated by International Index of Erectile Function. J Sex Med . 2012;9(2):524-530.  doi:10.1111/j.1743-6109.2011.02560.x.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Wincze JP, Lai C. Erectile dysfunction. In: Ferri FF, ed. 2017 Ferri's Clinical Advisor: 5 Books in 1 . Philadelphia, PA: Mosby, Inc; 2017:451-452.  (G)"
+        },
+        {
+            "number in article": 8,
+            "reference": "McMahon CG. Current diagnosis and management of erectile dysfunction. Med J Aust . 2019;210(10):469-476.  doi:10.5694/mja2.50167. (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Meldrum DR, Gambone JC, Morris MA, Esposito K, Giugliano D, Ignarro LJ. Lifestyle and metabolic approaches to maximizing erectile and vascular health. Int J Impot Res . 2012;24(2):61-68.  doi:10.1038/ijir.2011.51. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "American College of Sports Medicine. Spinal cord injury. In: ACSM\u2019s Guidelines for Exercise Testing and Prescription . 11th ed. Philadelphia, PA: Wolters Kluwer; 2021:354-360.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Porst H, Gilbert C, Collins S. Development and validation of the quality of erection questionnaire. J Sex Med . 2007;4(2):372-381.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Mulhall JP, King R, Kirby M. Evaluating the sexual experience in men: validation of the sexual experience questionnaire. J Sex Med . 2008;5(2):365-376. doi:10.1111/j.1743-6109.2007.00694.x.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Shabsigh R, Kim ED, Rosen RC, et al. Response to treatment with tadalafil in men with erectile dysfunction who reported no successful intercourse attempts at baseline. Int J Impot Res . 2008;20(6):554-560.  doi:10.1038/ijir.2008.38. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Morales AM, Casillas M, Turbi C. Patients' preference in the treatment of erectile dysfunction: a critical review of the literature. Int J Impot Res . 2011;23(1):1-8.  doi:10.1038/ ijir.2010.29. (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Wong C, Louie DR, Beach C. A systematic review of pelvic floor muscle training for erectile dysfunction after prostatectomy and recommendations to guide further research. J Sex Med. 2020;17(4):737-748.  doi:10.1016/j.jsxm.2020.01.008. (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Qaseem A, Snow V, Denberg TD, et al. Hormonal testing and pharmacologic treatment of erectile dysfunction: A clinical practice guideline from the American College of Physicians. Ann Intern Med . 2009;151(9):639-649.  (G)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Nehra A, Jackson G, Miner M, et al. The Princeton III Consensus recommendations for the management of erectile dysfunction and cardiovascular disease. Mayo Clin Proc . 2012;87(8):766-778.  doi:10.1016/j.mayocp.2012.06.015. (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Ludwig W, Phillips M. Organic causes of erectile dysfunction in men under 40. Urol Int. 2014;92(1):1-6.  doi:10.1159/000354931. (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Collins CE, Jensen ME, Young MD, Callister R, Plotnikoff RC, Morgan PJ. Improvement in erectile function following weight loss in obese men: the SHED-IT randomized controlled trial. Obes Res Clin Pract . 2013;7(6):e450-e454.  (RCT)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Blaschko SD, Sanford MT, Cinman NM. De novo erectile dysfunction after anterior urethroplasty: a systematic review and meta-analysis.  BJU Int. 2013;112(5):655-663. doi:10.1111/j.1464-410X.2012.11741.x.  (SR)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Begot I, Peixoto TC, Gonzaga LR, et al. A home-based  walking program improves erectile dysfunction in men with an acute myocardial infarction. Am J Cardiol . 2015;115(5):571-575.  (RCT)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Leff J. Can lifestyle changes improve erectile dysfunction?. Today\u2019s Dietitian . 2015;17(4):44-48.  (X)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Lavoisier P, Roy P, Dantony E, Watrelot A, Ruggeri J, Dumoulin S. Pelvic-floor  muscle rehabilitation in erectile dysfunction and premature ejaculation. Phys Ther . 2014;94(12):1731-1743.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Loprinzi PD, Nooe A. Erectile Dysfunction and Mortality in a National Prospective Cohort Study. J Sex Med . 2015;12(11):2130-2133.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Loprinzi PD, Edwards M. Association Between Objectively Measured Physical Activity and Erectile Dysfunction among a Nationally Representative Sample of American Men. J Sex Med. 2015;12(9):1862-1864.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Fang SC, Rosen RC, Vita JA, Ganz P, Kupelian V. Changes in erectile dysfunction over time in relation to Framingham cardiovascular risk in the Boston Area Community Health (BACH) Survey. J Sex Med . January 2015;12(1):100-108.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Silva AB, Sousa N, Azevedo LF, Martins C. Physical activity and exercise for erectile dysfunction: systematic review and meta-analysis.  Br J Sports Med . Advance online publication. October 5, 2016;pii: bjsports-2016-096418.  (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Dow CA, Lincenberg GM, Greiner JJ, Stauffer BL, DeSouza CA. Endothelial vasodilator function in normal-weight  adults with metabolic syndrome. Appl Physiol Nutr Metab . October 2016;41(10):1013-1017.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Baran C, Mitchell GC, Hellstrom WJ. Cycling-related  sexual dysfunction in men and women: A review. Sex Med Rev . 2014;2:93-101.  (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Cassidy A, Franz M, Rimm EB. Dietary flavonoid intake and incidence of erectile dysfunction. Am J Clin Nutr . February 2016;103(2):534-541.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Liu ZM, Wong CK, Chan D, Tse LA, Yip B, Wong SY. Fruit and Vegetable Intake in Relation to Lower Urinary Tract Symptoms and Erectile Dysfunction Among Southern Chinese Elderly Men: A 4-Year Prospective Study of Mr OS Hong Kong. Medicine (Baltimore) . January 2016;95(4):e2557. (R)"
+        }
+    ]
+}

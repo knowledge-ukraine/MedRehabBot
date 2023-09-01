@@ -1,0 +1,524 @@
+{
+    "metadata": {
+        "title": "Neck Pain, Chronic  Idiopathic",
+        "synonyms": [
+            "chronic cervicalgia, idiopathic",
+            "neck pain, chronic, nontraumatic",
+            "trapezius myalgia, idiopathic",
+            "neck tension syndrome, idiopathic",
+            "mechanical neck disorder, idiopathic",
+            "chronic nonspecific neck pain",
+            "chronic cervicalgia",
+            "trapezius myalgia",
+            "neck tension syndrome",
+            "mechanical neck disorder",
+            "chronic idiopathic neck pain"
+        ],
+        "anatomical location body part affected": [
+            "Cervical and upper thoracic spine and supporting soft tissue structures"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Chronic neck pain is characterized by pain that persists for months",
+            "See Clinical Review\u2026Neck Pain, Chronic: Whiplash ; Topic ID Number: T708910 for a review of chronic neck pain in persons with whiplash-associated  disorders"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {
+            "Changing & Maintaining Body Position G-code set": {
+                "G8981": "Changing & maintaining body position functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8982": "Changing & maintaining body position functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8983": "Changing & maintaining body position functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Carrying, Moving & Handling Objects G-code set": {
+                "G8984": "Carrying, moving & handling objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, moving & handling objects functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, moving & handling objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Self Care G-code set": {
+                "G8987": "Self care functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8988": "Self care functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8989": "Self care functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code set": {
+                "G8990": "Other physical or occupational primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other physical or occupational primary functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other physical or occupational primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code set": {
+                "G8993": "Other physical or occupational subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other physical or occupational subsequent functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other physical or occupational subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement for initial treatment of CNP have been identified; however, use caution with non-finalized  cases of worker\u2019s compensation or third-party insurance claims"
+        ],
+        "presentation signs and symptoms": [
+            "Mechanical neck pain with impaired cervical mobility for more than 1 month",
+            "Cervicogenic headache(5,6)",
+            "Pain-restricted  active and passive range of motion (ROM)(7)",
+            "Cervical muscle weakness(7)",
+            "Forward head posture(43)",
+            "Work-related  stress and disability(8)",
+            "Sleep disturbance(5,6)",
+            "High body mass index (BMI) consistent with obesity(3)",
+            "Impaired proprioception and balance(43) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Although chronic neck pain is in many cases idiopathic, the following factors may contribute to CNP\u2013Increased muscle tension due to stress, anxiety, and fatigue\u2013Poor posture causing increased soft tissue strain and muscle spasm\u2013Nerve root irritation due to postural impairments and joint/disc degeneration\u2013Degenerative disc and joint changes placing increased stress on facet joints or soft tissue and nerve root irritation\u2013Shoulder impingement\u2013Ossified stylohyoid ligament complex"
+        ],
+        "pathogenesis": [
+            "Gradual onset, unlike in patients with traumatic neck injuries such as whiplash, which generates a different pattern ofCNP(9)",
+            "Hypothetical etiological mechanisms\u2013Static neck postures: cause cervical muscle strain, which increases tension and stiffness, leading topain-restricted ROM(4,7)\u2013Reduces cervical muscle activation, as indicated by low electromyographic amplitude and fatigue in-deep cervical flexors (longus colli and longus capitis). Reduced activation of cervical flexors occurs during bothcognitive tasks and functional movement(1,2)-anterior scalene and sternocleidomastoid(10)\u2013Abnormal depolarization of motor end plates: may promote myofascial trigger points or \u201ccontraction knots\u201d(11)\u2013Changes in motor control: cervical motion is altered in CNP, even though head position sense is not(12)\u2013Impaired cervical ROM: associated with postural changes (in seated position), including reduced extension in the uppercervical spine and reduced flexion in the lower cervical spine(13)"
+        ],
+        "risk factors": [
+            "Sedentary lifestyle/physical inactivity(7)\u2013\u201cTrapezius myalgia\u201d prevalent in computer workers(15,16)",
+            "Increased use of computers\u2013There is limited evidence to support an association between computer work and CNP",
+            "CNP is associated with occupational stress and increased neck muscle tension(4,7)\u2013In theory, persistent neck muscle fatigue results from poor static posture of the head and shoulders(9)\u2013Substandard workspace ergonomics may contribute to increased cervical muscle tension(8,10)",
+            "Restricted cervical ROM(7)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Notify the referring physician if the patient presents with any signs of acute illness: fever, chills, night sweats, nausea, vomiting, diarrhea",
+        "Following orthopedic procedures, it is important to educate the patient and caregivers on the difference between normal postoperative pain and abnormal findings (e.g., infection, bleeds)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Consult with the referring surgeon regarding any contraindications and specific orders for treatment intervention following cervical spine surgery",
+            "Notify and consult with referring physician on positive findings for \u2013spinal derangement \u2013upper motor neuron disease \u2013vertebral artery insufficiency test"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury -When did the symptoms first begin? How long have they been present? How have they progressed since onset?  -Typically, CNP is a gradual onset of reduced cervical mobility and pain",
+                "course of treatment": {
+                    "medical management": "What medical treatment intervention has occurred? Document any current treatment plan. Who comprises the medical team?Determine what medications were prescribed and what medications are currently being taken. Are the medications effective for pain relief? Nonsteroidal anti-inflammatory  drugs (NSAIDs) are commonly taken for pain Sleep disturbances may be treated with agents such as zolpidem (Ambien), clonazepam (Klonopin), and trazodone (Desyrel) Evidence is lacking to support botulinum toxin intramuscular injections for reducing CNP and associated disability, or to improve quality of life(17) Evidence is lacking to support injection of local anesthetics for relief of CNP(37)",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Document the results of plain radiographs and any imaging studies of the neck. Patients",
+                        "with normal Xray findings and no neurological signs/symptoms need no further imaging studies(18)",
+                        "American College of Radiology guidelines, as of 2013, recommend that patients with CNP initially undergo anterior/ posterior and lateral radiographs of the cervical spine and, in select cases, open mouth and swimmer\u2019s views. Oblique views are no longer recommended as a standard part of the initial radiographs. Additional recommendations are:(40)",
+                        "Those with normal radiographs and neurologic signs and symptoms should undergo cervical magnetic resonance imaging (MRI) that includes the craniocervical junction and upper thoracic region",
+                        "Computer tomography (CT) or CT myelography might be recommended for those who are claustrophobic or for whom an MRI is contraindicated",
+                        "Discography is not recommended",
+                        "Diagnostic facet injections are of limited value"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., massage, acupuncture) and whether or not they helped. Does the patient use a cervical collar or a cervical traction device?",
+                    "previous therapy": "Has patient had physical therapy, dry needling, or chiropractic for this or related conditions? What specific treatments were helpful or not helpful?"
+                },
+                "aggravating easing factors": " Aggravating/easing factors (and length of time before the symptoms come on or are eased) -Aggravating factors may include work-related  static head postures -Easing factors may involve stretching, massage, and relaxing the neck",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, stiffness, tingling). Patients may experience neurogenic pain as well as mechanical, referred, or radicular pain depending on the cause -The pain is more often constant than intermittent, dull and aching than sharp",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "If present, document the number of wakings/night. Inquire about sleep position and number of pillows",
+                "other symptoms": "Document other symptoms the patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., severe headaches, dizziness, temporomandibular pain, night sweats, swelling, loss of weight, rash)",
+                "respiratory status": "Is there any known respiratory compromise? Does the patient require use of supplemental oxygen? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________ (e.g., foreign language)"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Ask patient about comorbidities, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, neurologic deficits, autoimmune disorders, musculoskeletal disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs). Is there a history of substance abuse? Smoking?",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing, such as visual impairments, hearing loss, dizziness, nausea, headaches, fainting. Dysarthria, dysphagia, drop attacks (fainting), double vision, and dizziness are known as \u201cthe five Ds\u201d and are signs of vertebral artery insufficiency. All neck patients should be questioned about the above symptoms"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient attend school (home/traditional setting)? Does the patient work inside/outside of the home? If so, what are the job duties? Is the patient currently on work disability? Does the patient drive? Does the patient participate in recreational or competitive sports? Is the patient involved in leisure activities and/or community programs?Are current symptoms of CNP limiting patient\u2019s ability to engage in any of these activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "What ADLs can the patient perform independently? Document any noted limitations or use of adaptive equipment",
+                "living environment": "Identify if there are barriers to independence in the home and whether any modifications are necessary (e.g., stairs, number of floors in home, lack of caregivers). With whom does the patient live (siblings, caregivers, spouse)?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Document patient\u2019s height, weight, and BMI",
+            "assistive and adaptive devices": "Assess patient for trial of orthopedic pillow, especially in cases of sleep disturbance with morning neck pain and stiffness. Assess patient\u2019s work station for ergonomic chair and desk",
+            "balance": "Assess static and dynamic sitting and standing balance. Use the Berg Balance Scale (BBS) \u2013In a 2013 systematic review, researchers concluded that patients with idiopathic neck pain (INP) or whiplash-associated disorders (WADs) have balance and proprioception impairments compared to controls. There was a statistically significant difference for at least one balance impairment measurement in patients with idiopathic neck pain (INP) and whiplash-associated  pain (WAP) in 11 of the 12 studies included(43)Assess patient\u2019s ability to maintain proper body mechanics with lifting and carrying. Re-create  patient\u2019s work environment and assess his or her ergonomic set-up Cranial/peripheral nerve integrityneck flexion (C1-C2), neck lateral flexion (C3), shoulder elevation (C4), shoulder abduction (C5), elbow flexion/wrist extension (C6), elbow extension/wrist flexion (C7), thumb extension/ulnar deviation (C8), and hand intrinsics (T1) \u2013Assess upper limb neural tension for ulnar, median, and radial nerves and compare bilaterallyAssess cervical and thoracic joint mobility and note each level as hypo/hypermobile or normal. Assess shoulder joint mobility as part of cervical scan and note any joint restrictions/limitations. Note any symptom reproduction with joint mobility testing",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "Assess cervical and bilateral upper extremity muscle strength using manual muscle testing (MMT)",
+            "observation inspection palpation including skin assessment": [
+                "Palpate cervical, thoracic, and bilateral shoulder soft tissue structures. Note any tenderness to palpation, increased tissue tension, or symptom reproduction",
+                "A V AS can be used to assist with quantification of symptoms",
+                "Musculature may feel tight and fibrous due to adhesions or contraction knots",
+                "The superficial cervical muscles (trapezius, levator scapulae, anterior and medial scalenes, semispinalis capitis, sternocleidomastoid) and deep cervical flexors (longus colli and longus capitis) often have tender points",
+                "Note location of any surgical scars and healing stage"
+            ],
+            "posture": " Posture \u2013Assess patient\u2019s postural alignment in sitting and standing, in particular the position of the head, neck, shoulders, and scapulae \u2013Assess for loss of normal cervical lordosis ",
+            "range of motion": "Assess active and passive cervical and bilateral shoulder ROM of the cervical spine",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess bilateral upper extremity deep tendon reflexes. If there is any concern for myelopathy, assess lower extremity reflexes and upper motor neuron signs",
+            "sensory testing": "Assess cervical and bilateral upper extremity dermatomes for light touch, sharp/dull, and thermal (warm and cold) sensation",
+            "special tests specific to diagnosis": " Special tests \u2013Compression test  \u2013 With patient sitting, examiner presses straight down on patient\u2019s head; test positive if reproduces patient\u2019s pain(44) \u2013Distraction test \u2013With  patient supine, examiner applies distractive force while slightly flexing patient\u2019s neck. Positive if pain is reduced(44) \u2013Spurling\u2019 s test  \u2013 With patient sitting, examiner passively side bends and rotates head to one side and applies overpressure; test positive if pain radiates into ipsilateral arm(44) \u2013Shoulder abduction test \u2013 With patient sitting, examiner passively places patient\u2019s hand on patient\u2019s head; test positive if patient\u2019s referred symptoms decrease(44) \u2013Vertebral artery insufficiency (VBI) test  \u2013Minimum level of assessing VBI consists of sustained end range rotation to one side. Patient remains in the position for 10 seconds and is assessed for nystagmus and dizziness. Patient returns back to neutral for 10 seconds. Repeat on opposite side. To further assess VBI, examiner might move patient\u2019s head into cervical extension and lateral flexion; examiner then rotates head to same side and holds position for 10 seconds \u2013Hoffmann\u2019 s sign (finger flexor test)  \u2013Examiner taps or flicks the terminal phalanx or nail of the 3rd or 4th finger; test positive if terminal phalanx of thumb flexes \u2013Short Form 36 (SF-36)  Health Survey -Quality of life measurement",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Cold intolerance",
+                "Raynaud\u2019s syndrome",
+                "Medical instability",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Over a regenerating peripheral nerve",
+                "Over a circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Paroxysmal cold hemoglobinuria",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "Individuals with poor cognition",
+                "In the very young or very old",
+                "Persons with aversion to cold",
+                "Over areas with a lack of intact thermal sensation",
+                "Over areas of vascular insufficiency or vascular disease",
+                "Over areas of recent hemorrhage or potential hemorrhage ",
+                "Over areas of known malignancy",
+                "Over areas of acute inflammation",
+                "Over infected areas where infection may spread",
+                "Over areas where liniments or heat rubs have recently been applied",
+                "In any situation deemed unreliable by the practitioner",
+                "Over the trunk or heart region in patients with demand-type pacemakers and implantable cardioverter defibrillators (ICDs)",
+                "Over the pelvic, abdominal, lumbar, or hip region of a pregnant woman",
+                "Over the carotid bodies",
+                "Over the phrenic nerve, eyes, or gonads",
+                "Over areas of known peripheral vascular disease",
+                "Over areas of active osteomyelitis",
+                "Over areas of hemorrhage",
+                "With patients without intact sensation",
+                "With patients who cannot communicate",
+                "With patients with compromised mental ability",
+                "With cardiac dysfunction (uncontrolled hypertension or hypotension, irregular heartbeat)",
+                "Over active or previous neoplasms",
+                "With electrodes -Over compromised skin, unless treating wound specifically -Over tissues that are vulnerable to hemorrhage -Cervical region in patients with history of stroke or seizures",
+                "Do not use within 5 years of diathermy units or other source of electromagnetic radiation",
+                "During pregnancy, over the abdomen and low back",
+                "Over active bone growth at the epiphysis",
+                "Over a known or suspected area for cancer",
+                "Over the infected tissue in a tuberculosis infection",
+                "Over an area of active bleeding  can be used in area of hematoma",
+                "Over skin with impaired circulation  recommend use pulsed",
+                "Following are considered contraindications but have no evidence to support -Myositis ossificans -Deep vein thrombosis or thrombophlebitis -Acute injury -Recently irradiated tissue -Impaired sensation due to nerve damage -Skin disease -Implanted cardiac pacemaker or other implanted electronics -Reproductive organs -Eyes -Anterior neck",
+                "Metal implants, head, and heart often listed but consensus is there should not be contraindications",
+                "Over plastic or cemented implants",
+                "Over spinal cord and superficial or regenerating nerves (poor evidence)",
+                "Over low back and abdomen during pregnancy",
+                "Over known or suspected area of malignancy",
+                "Over area of active bleeding",
+                "Following are considered contraindications but have no evidence to support  -Myositis ossificans -Deep vein thrombosis or thrombophlebitis -Recently irradiated tissue -Implanted cardiac pacemaker or other implanted electronics -Reproductive organs -Eyes -Anterior neck",
+                "Over epiphysis with active bone growth",
+                "Over infected area",
+                "Over acute injury",
+                "Over area of impaired sensation due to nerve damage",
+                "With patients with impaired cognition or communication",
+                "Over areas of impaired circulation",
+                "In the presence of skin disease",
+                "Over plastic and cemented implants",
+                "Over spinal cord and superficial or regenerating nerves (poor evidence)",
+                "Direct eye exposure",
+                "Pregnancy",
+                "Active malignancy",
+                "Active hemorrhage",
+                "Open growth plates",
+                "Over the endocrine system",
+                "Impaired sensation",
+                "Indirect eye exposure",
+                "Acute cervical trauma",
+                "Osteoporosis or osteopenia",
+                "Patients using steroids or other medications that can lead to compromise of bone integrity",
+                "Rheumatologic disorders",
+                "Joint hypermobility/instability",
+                "Pregnancy",
+                "Prior surgical stabilization or decompression",
+                "Spinal implant/ prosthetic discs",
+                "Nonmechanical pain"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Cryotherapy  contraindications(19)",
+                "Cryotherapy  precautions(19)",
+                "Superficial heat contraindications(19)",
+                "Electrotherapy  contraindications(19)",
+                "Electrotherapy  precautions(19)",
+                "Therapeutic ultrasound, continuous  contraindications(19)",
+                "Therapeutic ultrasound, continuous precautions(19)",
+                "Therapeutic ultrasound, pulsed  contraindications(19)",
+                "Therapeutic ultrasound, pulsed precautions(19)",
+                "Laser contraindications(19)",
+                "Laser precautions(19)",
+                "Mechanical traction contraindications(19)"
+            ]
+        },
+        "diagnosis need for treatment": "Physical therapy is needed to restore cervical ROM;improve cervical, thoracic, and upper extremity muscle strength and endurance; improve functional mobility; provide patient education regarding proper body mechanics and ergonomics; reduce complaints of pain; and improve quality of life",
+        "rule out": " Rule out  (20) Cervical fracture/dislocation Spinal cord injury Osteoarthritis Degenerative/herniated cervical disc disease Cervical radiculitis/radiculopathy Myelopathy Shoulder impingement Fibromyalgia Infection/inflammation Malignancy  Congenital cervical malformation (e.g., Klippel-Feil  syndrome) Rheumatoid arthritis",
+        "prognosis": [
+            "The estimated lifetime prevalence of chronic neck syndromes is about 50%, although fewer than half of those afflicted seek medical attention(21)",
+            "In a Netherlands primary care population (N = 329, ages 18 to 70), younger age, lower pain intensity, and absence of low back pain were associated with better outcomes at the end of treatment period (exercise therapy or manual therapy) and at 52 weeks follow-up(22)",
+            "Untreated depression is associated with lower quality of life, decreased work function, and increased healthcare utilization(23)",
+            "Psychological and secondary gain issues can negatively impact outcomes(21)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician for recalcitrant pain Ergonomist for workplace evaluation Acupuncturist for pain management Personal trainer for home/gym exercise supervision Psychologist for anxiety/depression Dietitian for weight management, as indicated Ergonomic assessment of workplace, as indicated",
+        "other considerations": [
+            "Based on a three-group  randomized controlled trial in the United Kingdom, acupuncture sessions and Alexander technique lessons led to significant reduction in CNP and disability compared with usual care at 12 month follow-up(45) \u2013The Alexander technique is an education series of self-care to reduce habits of poor posture, excessive muscle tension, stress, pain, and malcoordination \u2013Five hundred seventeen participants with an average duration of 6 years of neck pain were randomized into three groups. The first group averaged 10 acupuncture sessions plus usual care, the second group had 14 Alexander lessons plus usual care, and the third group had usual care only \u2013Primary outcome measure analysis utilizing the Northwick Park Questionnaire (NPQ) showed an overall 32% reduction for the acupuncture group and a 31% reduction for Alexander lesson group compared with 23% for the usual care group",
+            "Authors of a systematic review of literature of cognitive-behavioral therapy (CBT) as a treatment option for individuals with subacute and chronic neck pain concluded that improvements were not clinically meaningful and the articles had a low quality of evidence(46)",
+            "Cognitive factors (e.g., pain-related  fear, pain vigilance/awareness, self-efficacy,  catastrophizing beliefs) were strongly related to levels of pain and disability in 94 patients with CNP(24)"
+        ],
+        "treatment summary": [
+            "Exercise therapy is an important component of effective pain management in CNP.(2,4) A home program for self-management  of pain, including therapeutic/functional exercises, should be instructed and given to patients to perform on a daily basis",
+            "Based on a 2007 systematic review of the literature (88 randomized controlled trials included) on the efficacy of conservative treatment for CNP, the only treatment with strong evidence of benefit was a multimodal approach that included stretching, strengthening, and mobilization/manipulation. The benefits included reduced pain, improved function, and global perceived effect(35)",
+            "Based on the same 2007 systematic review (88 randomized controlled trials included) interventions with moderate evidence of benefit are the following:(35) \u2013Neck strengthening and stretching exercises \u2013Low-level  laser therapy (LLLT) \u2013Low-frequency  pulsed electromagnetic field (but not long-term effects) \u2013Intermittent traction \u2013Acupuncture (but not long-term  effects) ",
+            "Therapeutic exercises \u2013Moderate-quality  evidence supports combined cervical and scapulothoracic muscle strengthening and stretching to reduce pain and tenderness, as well as to improve functional outcomes, in persons with CNP(7,8,15,25,26,27,28) \u2013The addition of specific neck-strengthening  exercises to a treatment regimen may be more effective than just stretching and aerobic exercise in reducing pain and disability(7,26,27) \u2013Based on a 2012 Cochrane Review of 21 trials(25) -Moderate-quality  evidence indicates that combined cervical and scapulothoracic stretching and strengthening are beneficial for pain relief immediately post treatment and at intermediate follow-up;  it also improved function short term and intermediate term for CNP -Low to moderate quality evidence indicates that upper extremity stretching and strengthening or a general exercise program are not beneficial for improving outcomes in patients with CNP \u2013A yoga (Iyengar) program can reduce nonspecific CNP and improve quality of life(41) -Based on a study conducted in Germany in which 51 patients were randomized to either a traditional home-based exercise program or yoga program -82.4% of the patients were females and the median age of participants was 47.8 years -The yoga group attended a 9-week  yoga course (90 minutes, once a week). Emphasis was on strengthening and lengthening the neck and shoulder muscles and improving neck stability and overall posture. Patients were instructed to practice their yoga exercises at home for 10 minutes a day -The exercise group received a self-care  exercise manual and was instructed to practice exercises 10 minutes daily -Patients in the yoga group reported significantly less neck pain and disability and greater quality of life as measured by the NDI and SF-36  compared to the exercise group. ROM and proprioceptive acuity improved significantly in the yoga group compared to the exercise group. There was no significant change in ROM, proprioceptive acuity, disability, or quality of life in the exercise group pre and post intervention \u2013Patients who participated in neck strengthening and endurance exercises maintained the positive gains in ROM, strength, and pressure pain threshold at 3 years post-initial treatment intervention (27) -Finnish researchers conducted a randomized controlled trial that included 118 women with nonspecific CNP -Patients participated in neck strengthening and endurance exercises and were followed up at 12 months and 3 years to reassess neck pain, disability, ROM, and pain pressure threshold -There were no additional statistically significant improvements made between the 12-month  follow-up  and 3-year follow-up;  however, the improvements recorded at the 12-month  follow-up  were maintained at the 3-year  follow-up -Researchers concluded that a 12-month  exercise program is adequate to maintain long-term  effects and that exercises may not need to be performed regularly for the remainder of the subject\u2019s life \u2013Gentle training of the deep cervical flexors (longus capitis and longus colli were targeted) increased their activation, improved cervical angle in sitting, and reduced V AS pain ratings compared to \u201cendurance-strength\u201d  training of the dominant superficial flexors (anterior scalene and sternocleidomastoid)(2,28,29,30,47) \u2013Researchers in Korea investigated the effects of neurac (neuromuscular activation) training on pain, function, fatigability, balance ability, and quality of life with CNP patients(48) -Neurac consists of tailored exercises and techniques in suspension slings which aim to restore pain-free and functional movement patterns through high levels of neuromuscular stimulation -Twenty subjects with neck pain for at least 3 months; 10 in the experimental group and 10 in the control group participated. Neurac training was conducted 3 times per week for 4 weeks -V AS and NDI scores, sway length and velocity with eyes open and closed, and fatigue symptom scores all decreased significantly",
+            "Manual therapy \u2013Manual nonmanipulative mobilization techniques (not including massage) may reduce pain,(31) and mobilization plus exercise appears to provide greater long-term benefits(4) \u2013In a 2010 systematic review that included 17 randomized controlled trials, researchers concluded the following:(32) -High-quality  evidence indicates that manual therapy and exercise therapy separately provide the same long-term  (12 months) positive outcomes in persons with acute or chronic neck pain, even though manual therapy is associated with more immediate (4 weeks) pain relief -Moderate-quality  evidence indicates greater pain reduction and improved QOL when exercise and manual therapy are combined than for manual therapy alone  \u2013Manipulation of the cervical and thoracic spine can improve disability related to chronic mechanical CNP but not necessarily improve ROM or pain in the short term(42) -Based on a randomized controlled study conducted in the United States in which 82 patients were assigned to a cervical spine manipulation group or a full manipulation group that received mid-cervical, cervico-thoracic,  and thoracic joint manipulations -Neck pain intensity, NDI, and cervical ROM were calculated at baseline and 1 week following joint manipulation -Patients who received the full manipulation reported greater reduction in disability than those in the cervical group, whereas both groups reported similar reduction in neck pain and increases in cervical ROM \u2013The addition of thoracic spine thrust manipulations to non-thrust  cervical manipulations can improve short-term outcomes in patients with CNP -Based on a randomized trial that compared two groups but did not include controls(38) -The experimental group received spinal thrusts (x2) targeted to T1-T3  and T4-T7  in one treatment session while the comparison group received only the non-thrust  cervical manipulation -Numeric pain and disability ratings improved more in the experimental group than the comparison group at 1-week follow-up \u2013Authors of a 2016 RCT study in Italy suggest that patients with CNP may benefit more from a global postural reeducation (GPR) program than manual therapy (MT) treatment alone(49) -Ninety six subjects with CNP were included (74 women, 22 men) -Patients were randomized to either the GPR group or the MT group -Both groups received 9 sessions of 60 minute treatments -Outcome measures used in this study included the V AS, NDI, assessment of ROM, and kinesiophobia (Tampa Scale of Kinesiophobia) -Those in the GPR group showed significant differences in pain reduction and disability (after 6 months) compared to those in the MT group",
+            "Therapeutic modalities \u2013Warm or cold modalities (according to patient preference) can be used to reduce pain and enhance relaxation of tight neck and upper back muscles prior to exercise or manual therapy \u2013Authors of a 2013 systematic review found variable evidence on the effects of LLLT and suggest that LLLT may be beneficial for reducing chronic neck pain and improving function/quality of life in patients with CNP; however, further trials are needed on larger long-term  dosage of LLLT(50) \u2013Authors of a 2013 Cochrane systematic review and meta-analysis  included 20 small randomized controlled trials that assessed the short-,  intermediate-,  and long-term effects of electrotherapy as a modality to reduce pain and improve function, quality of life, and disability in adults with CNP (with/without radiculopathy or cervicogenic headaches)(39) -Researchers were unable to make any definite statements on the efficacy and clinical usefulness of electrotherapy modalities for neck pain since the evidence is of low or very low quality -Evidence indicates that pulsed electromagnetic field therapy (PEMF), repetitive magnetic stimulation (rMS), and transcutaneous electrical nerve stimulation (TENS) were more effective than placebo; however, the evidence was of low or very low quality -Galvanic current, iontophoresis, electromagnetic stimulation (EMS), and a static magnetic field did not reduce pain or disability",
+            "Other options \u2013Use of orthopedic pillow can improve patient outcomes; however, it is not independently effective(33) -Based on a randomized controlled trial conducted in Canada that included 151 subjects with CNP -Subjects who received neck strengthening exercises in conjunction with the use of an orthopedic pillow achieved the most improvement compared to the subjects who received exercises and placebo (hot/cold packs and massage), exercises, placebo and pillow, or pillow and placebo \u2013Evidence is lacking or of poor quality to support workplace intervention for relief of CNP or preventing work-related musculoskeletal disorders in the neck and shoulder(14,15,36) "
+        ]
+    },
+    "desired outcomes outcome measures": {},
+    "maintenance or prevention": [
+        "Continue neck strengthening and postural exercises to maintain improved function(27)",
+        "Ergonometric assessment of workplace for risk factors "
+    ],
+    "patient education": [
+        "Mayo Clinic Website, \u201cNeck pain,\u201d http://www.mayoclinic.org/diseases-conditions/neck-pain/basics/definition/con-20028772 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Falla D. Unravelling the complexity of muscle impairment in chronic neck pain. Man Ther . 2004;9(3):125-133.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Falla D, O'Leary S, Farina D, Jull G. The change in deep cervical flexor activity after training is associated with the degree of pain reduction in patients with chronic neck pain. Clin J Pain . 2012;28(7):628-634.  (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Nilsen TI, Holtermann A, Mork PJ. Physical exercise, body mass index, and risk of chronic pain in the low back and neck/shoulders: longitudinal data from the Nord-Trondelag Health Study. Am J Epidemiol . 2011;174(3):267-273.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Gross AR, Goldsmith C, Hoving JL. Conservative management of mechanical neck disorders: a systematic review. J Rheumatol . 2007;34(5):1083-1102.  (SR)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Hall T, Briffa K, Hopper D. Clinical evaluation of cervicogenic headache: a clinical perspective. J Man Manipulative Ther . 2008;16(2):73-80.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Page P. Cervocogenic headaches: an evidence-led  approach to clinical management. Int J Sports Phys Ther . 2011;6(3):254-266.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Ylinen J. Physical exercises and functional rehabilitation for the management of chronic neck pain. Eura Medicophys . 2007;43(1):119-132.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Viljanen M, Malmivaara A, Uitti J, Rinne M, Palmroos P, Laippala P. Effectiveness of dynamic muscle training, relaxation training, or ordinary activity for chronic neck pain: randomized controlled trial. BMJ. 2003;327(7413):475. (RCT)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Kwan O, Freil J. A review and methodologic critique of the literature supporting 'chronic whiplash injury': part I - research studies. Med Sci Mont . 2003;9(8):RA203-RA215.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Falla D, Rainoldi A, Merletti R, Jull G. Myoelectric manifestations of sternocleidomastoid and anterior scalene muscle fatigue in chronic neck pain patients. Clin Neurophysiol . 2003;114(3):488-495.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "McPartland JM. Travell trigger points - molecular and osteopathic perspectives. J Amer Osteopath Assoc . 2004;104(6):244-249.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Woodhouse A, Vasseljen O. Altered motor control patterns in whiplash and chronic neck pain. BMC Musculoskelet Discord . 2008;9:90. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Rudolfsson T, Bj\u00f6rklund M, Djupsj\u00f6backa M. Range of motion in the upper and lower cervical spine in people with chronic neck pain. Man Ther . 2012;17(1):53-59.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Aas RW, Tuntland H, Holte KA. Workplace interventions for neck pain in workers. Cochrane Database Syst Rev . 2011;(4):CD008160. doi:10.1002/14651858.CD008160.pub2. (SR)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Korhonen T, Ketola R, Toivonen R, Luukkonen R, Hakkanen M, Viikari-Juntura  E. Work-related  and individual predictors for incident neck pain among office employees working with video display units. Occup Environ Med . 2003;60(7):475-482.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Andersen LL, Kjar M, S\u00f8gaard K, Hansen L, Kryger AI, Sj\u00f8gaard G. Effect of two contrasting types of physical exercise on chronic neck muscle pain. Arthritis Rheum . 2008;59(1):84-91.  (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Langevin P, Peloso PM, Lowlock J. Cochrane Database Syst Rev . 2011;(7):CD008626. doi:10.1002/14651858.CD008626.pub2.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Daffner RH. Radiologic evaluation of chronic neck pain. Am Fam Physician . 2010;82(8):959-964.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Gorski JM, Schwartz LH. Shoulder impingement presenting as neck pain. J Bone Joint Surg Am . 2003;85(4):635-638.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Pawl RP. Chronic neck syndromes: an update. Compr Ther . 1999;25(5):278-282.  (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Schellingerhout JM, Verhagen AP, Heymans MW. Which subgroups of patients with non-specific  neck pain are more likely to benefit from spinal manipulation, physiotherapy, or usual care?. Pain. 2008;139(3):670-680.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Bair MJ, Robinson RL, Katon W, Kroenke K. Depression and pain comorbidity. Arch Intern Med . 2003;163(20):2433-2445.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Thompson DP, Urmston M, Oldham JA, Woby SR. The association between cognitive factors, pain and disability in patients with idiopathic chronic neck pain. Disabil Rehabil . 2010;32(21):1758-1767.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Kay TM, Gross A, Goldsmith CH. Exercises for mechanical neck disorders. Cochrane Database Syst Rev . 2005;(3):CD004250. doi:10.1002/14651858.CD004250.  (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Ylinen JJ, Takala EP, Nykanen MJ, Kautiainen HJ, Hakkinen AH, Airaksinen OV. Effects of twelve-month  strength training subsequent to twelve-month  stretching exercise in treatment of chronic neck pain. J Strength Cond Res . 2006;20(2):304-308.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Ylinen J, Hakkinen A, Nykanen M, Kautiainen H, Takala EP. Neck muscle training in the treatment of chronic neck pain: a three-year  follow-up study. Eura Medicophys . 2007;43(2):161-169.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Falla D, Jull G, Russell T, Vicenzino B, Hodges P. Effect of neck exercise on sitting posture in patients with chronic neck pain. Phys Ther . 2007;87(4):408-417.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "O'Leary S, Falla D, Hodges PW, Jull G, Vincenzino B. Specific therapeutic exercise of the neck induces immediate local hypoalgesia. J Pain. 2007;8(11):832-839.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "O'Leary S, Falla D, Kim M, Jull G. Specificity in retraining craniocervical flexor muscle performance. J Orthop Sports Phys Ther . 2007;37(1):3-9.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Vernon H, Humphreys K, Hagino C. Chronic mechanical neck pain in adults treated by manual therapy: a systematic review of change scores in randomized clinical trials. J Manipulative Physiol Ther . 2007;30(3):215-227.  (SR)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Miller J, Gross A, Sylva J. Manual therapy and exercise for neck pain: a systematic review. Man Ther . 2010;15(4):334-354.  (SR)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Helewa A, Goldsmith CH, Smythe HA, Lee P, Obright K, Stitt L. Effect of therapeutic exercise and sleeping neck support on patients with chronic neck pain: a randomized clinical trial. J Rheumatol . 2007;34(1):151-158.  (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Kroeling P, Gross AR, Goldsmith CH. A Cochrane review of electrotherapy for mechanical neck disorders. Spine. 2005;30(21):E641-E648.  (SR)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Gross AR, Goldsmith C, Hoving JL. Conservative management of mechanical neck disorders: a systematic review. J Rheumatol . 2007;34(5):1083-1102.  (SR)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Hoe VC, Urquhart DM, Kelsall HL, Sim MR. Ergonomic design and training for preventing work-related  musculoskeletal disorders of the upper limb and neck in adults. Cochrane Database Syst Rev . 2012;(8):CD008570. doi:10.1002/14651858.CD008570.pub2.  (SR)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Mosshammer D, Mayer B, Joos S. Local anesthetics injection therapy for musculoskeletal disorders: a systematic review and meta-analysis.  Clin J Pain . 2013;29(6):540-50. doi:10.1097/AJP.0b013e318261a474. (SR)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Masaracchio M, Cleland JA, Hellman M, Hagins M. Short-term  combined effects of thoracic spine thrust manipulation and cervical spine nonthrust manipulation in individuals with mechanical neck pain: a randomized clinical trial. J Orthop Sports Phys Ther . 2013;43(3):118-127.  doi:10.2519/jospt.2013.4221. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Kroeling P, Gross A, Graham N, et al. Electrotherapy for neck pain. Cochrane Database Syst Rev . 2013;(4):CD004251. doi:10.1002/14651858.CD004251.pub2.  (SR)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Newman JS, Weissman BN, Angevine PD, et al. Expert panel on musculoskeletal imaging. ACR Appropriateness Criteria: chronic neck pain. Online publication. 2013 Guideline Summary NGC-10155 . (G)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Cramer H, Lauche R, Hohman C, et al. Randomized controlled trial comparing yoga and home-based  exercise for chronic neck pain. Clinical J Pain . 2013;29(3):216-223. doi:109.1097/AJP.0b013e318251026c. (RCT)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Saavedra-Hernandez  M, Arroyo-Morales  M, Cantarero-Villanueva  I, et al. Short-term  effects of spinal thrust joint manipulation in patients with chronic neck pain: a randomized controlled trial. Clin Rehabil . 2013;27(6):504-512.  doi:10-1177/0269215512464501.  (RCT)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Silva A, Cruz AL. Standing balance in patients with whiplash-associated  neck pain and idiopathic neck pain when compared with asymptomatic participants: a systematic review. Physiother Theory Pract . 2013;29(1):1-18.  doi:10.3109/09593985.2012.677111. (SR)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Cleland J, Koppenhaver S. Netter's Orthopaedic Clinical Examination: An Evidence-Based  Approach. 2nd ed. Philadelphia, PA: Saunders/Elsevier; 2011. (GI)"
+        },
+        {
+            "number in article": 45,
+            "reference": "MacPherson H, Tibrook H, Richmond S, et al. Alexander technique lessons or acupuncture sessions for persons with chronic neck pain: a randomized controlled trial. Ann Intern Med . 2015;163(9):653-676.  doi:10.7326/M15-0667.  (RCT)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Monticone M, Cedraschi C, Ambrosini E, et al. Cognitive-behavioral  treatment for subacute and chronic neck pain: a Cochrane review. Spine. 2015;40(19):1495-1504.  (SR)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Gallego Izquierdo T, Pecos-Martin  D, Lluch Girbes E, et al. Comparison of cranio-cervical  flexion training versus cervical proprioception training in patients with chronic neck pain: a randomized controlled clinical trial. J Rehabil Med . 2016;48(1):48-55.  doi:10.2340/16501977-2034.  (RCT)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Yun S, Kim YL, Lee SM. The effect of neurac training in patients with chronic neck pain. J Phys Ther Sci . 2015;27(5):1303-1307.  (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Pillastrini P, de Lima e Sa Resende F, Banchelli F, et al. Effectiveness of global posture re-education  in patients with chronic nonspecific neck pain: Randomized controlled trial. Phys Ther . 2016;96(9):1408-1416.  doi:10.2522/ptj.20150501.  (RCT)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Gross AR, Dziengo S, Boers O, et al. Low level laser therapy (LLLT) for neck pain: a systematic review and meta-regression.  Open Orthop J . 2013;20(7):396-419. doi:10.2174/1874325001307010396. (SR)"
+        }
+    ]
+}

@@ -1,0 +1,743 @@
+{
+    "metadata": {
+        "title": "Cerebral Palsy  an Overview",
+        "synonyms": [
+            "palsy",
+            "cerebral  an overview"
+        ],
+        "anatomical location body part affected": [
+            "Central nervous and musculoskeletal systems"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "orthopedic rehabilitation",
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "Cerebral palsy (CP) is a disorder characterized by abnormal tone, posture, and movement patterns that is caused by a static (i.e., nonprogressive) lesion in the developing brain in the prenatal through neonatal period(1)",
+            "The incidence of CP is 2\u20133 per 1,000 live births(1)",
+            "Anatomical classification of CP \u2013Diplegia \u2013 lower extremities are more involved than upper extremities -For additional information on diplegia, see Clinical Review\u2026Cerebral Palsy: Spastic Diplegia; CINAHL Topic ID Number: T708898 \u2013Hemiplegia \u2013 one side of the body is affected by CP; injury to brain located principally in one hemisphere(1) -For additional information on hemiplegia, see Clinical Review\u2026Cerebral Palsy: Spastic Hemiplegia; CINAHL Topic ID Number: T708899 \u2013Quadriplegia/tetraplegia \u2013 all extremities are affected similarly(2) \u2013Triplegia \u2013 the lower extremities and one upper extremity are affected; very rare(3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G80": {
+                "base": "cerebral palsy",
+                "G80.0": "spastic quadriplegic cerebral palsy",
+                "G80.1": "spastic diplegic cerebral palsy",
+                "G80.2": "spastic hemiplegic cerebral palsy",
+                "G80.3": "dyskinetic cerebral palsy",
+                "G80.4": "ataxic cerebral palsy",
+                "G80.8": "other cerebral palsy",
+                "G80.9": "cerebral palsy, unspecified"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "There are government programs that provide economic assistance to families in need. These may include public assistance, access to affordable healthcare options, food and nutrition supplements, and tax credits. Individuals who may require assistance are encouraged to apply for programs through their state and local government agencies(107)",
+            "Presentation/signs and symptoms:  Classifications of physiological types of CP vary; the types listed below are from United Cerebral Palsy (UCP). UCP is an international nonprofit organization consisting of a network of affiliates. Signs and symptoms as well as certain secondary impairments are listed from various references. The clinician should recognize that although the lesion is static, the secondary conditions (e.g., muscle weakness) can worsen over time(1)  \u2013General signs and symptoms of CP -Atypical muscle tone(1) -Atypical deep tendon reflexes(1) -Pain may be present as a result of arthritis, overuse syndromes, or musculoskeletal deformities(1) -Secondary musculoskeletal complications, including scoliosis, joint contractures, cervical instability, hip subluxation, foot/ankle deformities such as equinus and calcaneus deformity, osteophytes, and cervical spinal stenosis, may be observed as the patient ages(1) -Muscle weakness and limited range of motion (ROM)(1) -Difficulty with motor control, coordination, and isolating muscle groups for movement -Cognitive impairments ranging from mild to severe(1) -Dyspraxia and other speech and language disorders(7) -Seizures(7) -Hearing loss(7) -Feeding difficulties(7) -Incontinence(7) -Visual impairments(7) \u2013Spastic CP -Approximately 70\u201380%  of CP cases(8) -Initially may present with hypotonia in infancy(8) -Hyperreflexia -Difficulty with motor control, coordination, and isolating muscle groups for movement -Delayed developmental motor milestones -Decreased ROM -Severe musculoskeletal deformities may develop as a result of prolonged spasticity(5) -Thoracolumbar scoliosis with pelvic obliquity is most prevalent; marked lordosis is typical in these patients; the scoliosis is often a C-shaped curve (no compensatory curve)(5) -Hip dislocation may occur(5) -Muscle and joint contractures may develop(5) -Calcaneal varus, usually with a plantar flexion bias(5) -Dynamic equinus is a frequent finding in patients with lower extremity spasticity(9) \u2013Ataxic CP -Rare form; ~5\u201310%  of CP cases(8) -Damage to the cerebellum due to sequelae of a tumor removal(14) -Affects primarily balance, coordination, depth perception, gait, and rapid alternating movements(8) -Gait is characterized by a wide base of support and unsteadiness -Tremor on intention may be observed(8) -Hypotonia; athetoid movements may be detected in the antigravity position(14) -Developmental delay in motor milestones(14) -Deficits with language skills(14) \u2013Dyskinetic CP -Approximately 10\u201320%  of CP cases(8) -Dyskinesia is an umbrella term for various movement disorders, including chorea, athetosis, and dystonia -Chorea: abrupt, jerky distal movements -Athetosis: slow, writhing, persistent movements in the proximal extremities and trunk -Dystonia: writhing movements leading to sustained atypical postures -Abnormal involuntary movement patterns  -Postural tone fluctuates and is typically hypotonic(14) -Postural instability(14) -Impaired co-contraction  of muscle groups(14) -Hypermobility present in most joints \u2013For more information regarding CP, see Clinical Review\u2026Cerebral Palsy: Spastic Hemiplegia ; CINAHL Topic ID Number: T708899; Clinical Review\u2026Cerebral Palsy: Spastic Diplegia ; CINAHL Topic ID Number: T708898; Clinical Review\u2026Cerebral Palsy: Botulinum Toxin Type A Injections and Nonstandard Treatment Interventions ; CINAHL Topic ID Number:T708990; Clinical Review\u2026Cerebral Palsy: Speech Therapy ; CINAHL Topic ID Number:T708777; and Clinical Review\u2026Dysphagia: Cerebral Palsy (Children) ; CINAHL Topic ID Number: T708945 Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "Classifications of physiological types of CP vary; the types listed below are from United Cerebral Palsy (UCP). UCP is an international nonprofit organization consisting of a network of affiliates. Signs and symptoms as well as certain secondary impairments are listed from various references. The clinician should recognize that although the lesion is static, the secondary conditions (e.g., muscle weakness) can worsen over time(1)  \u2013General signs and symptoms of CP -Atypical muscle tone(1) -Atypical deep tendon reflexes(1) -Pain may be present as a result of arthritis, overuse syndromes, or musculoskeletal deformities(1) -Secondary musculoskeletal complications, including scoliosis, joint contractures, cervical instability, hip subluxation, foot/ankle deformities such as equinus and calcaneus deformity, osteophytes, and cervical spinal stenosis, may be observed as the patient ages(1) -Muscle weakness and limited range of motion (ROM)(1) -Difficulty with motor control, coordination, and isolating muscle groups for movement -Cognitive impairments ranging from mild to severe(1) -Dyspraxia and other speech and language disorders(7) -Seizures(7) -Hearing loss(7) -Feeding difficulties(7) -Incontinence(7) -Visual impairments(7) \u2013Spastic CP -Approximately 70\u201380%  of CP cases(8) -Initially may present with hypotonia in infancy(8) -Hyperreflexia -Difficulty with motor control, coordination, and isolating muscle groups for movement -Delayed developmental motor milestones -Decreased ROM -Severe musculoskeletal deformities may develop as a result of prolonged spasticity(5) -Thoracolumbar scoliosis with pelvic obliquity is most prevalent; marked lordosis is typical in these patients; the scoliosis is often a C-shaped curve (no compensatory curve)(5) -Hip dislocation may occur(5) -Muscle and joint contractures may develop(5) -Calcaneal varus, usually with a plantar flexion bias(5) -Dynamic equinus is a frequent finding in patients with lower extremity spasticity(9) \u2013Ataxic CP -Rare form; ~5\u201310%  of CP cases(8) -Damage to the cerebellum due to sequelae of a tumor removal(14) -Affects primarily balance, coordination, depth perception, gait, and rapid alternating movements(8) -Gait is characterized by a wide base of support and unsteadiness -Tremor on intention may be observed(8) -Hypotonia; athetoid movements may be detected in the antigravity position(14) -Developmental delay in motor milestones(14) -Deficits with language skills(14) \u2013Dyskinetic CP -Approximately 10\u201320%  of CP cases(8) -Dyskinesia is an umbrella term for various movement disorders, including chorea, athetosis, and dystonia -Chorea: abrupt, jerky distal movements -Athetosis: slow, writhing, persistent movements in the proximal extremities and trunk -Dystonia: writhing movements leading to sustained atypical postures -Abnormal involuntary movement patterns  -Postural tone fluctuates and is typically hypotonic(14) -Postural instability(14) -Impaired co-contraction  of muscle groups(14) -Hypermobility present in most joints \u2013For more information regarding CP, see Clinical Review\u2026Cerebral Palsy: Spastic Hemiplegia ; CINAHL Topic ID Number: T708899; Clinical Review\u2026Cerebral Palsy: Spastic Diplegia ; CINAHL Topic ID Number: T708898; Clinical Review\u2026Cerebral Palsy: Botulinum Toxin Type A Injections and Nonstandard Treatment Interventions ; CINAHL Topic ID Number:T708990; Clinical Review\u2026Cerebral Palsy: Speech Therapy ; CINAHL Topic ID Number:T708777; and Clinical Review\u2026Dysphagia: Cerebral Palsy (Children) ; CINAHL Topic ID Number: T708945 Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Congenital CP \u2013 occurs as a result of injury to the child\u2019s brain prior to or during birth(8)",
+            "Acquired CP \u2013 occurs as a result of injury to the brain after birth, or during the first few years of life (typically by age 2years). It can be the result of an infection, traumatic brain injury (TBI), anoxia, or ischemia(3,8)\u2013approximately 10% of cases of CP are acquired(8)",
+            "Approximately 20% of cases of CP are associated with known risk factors",
+            "Current evidence does not support that perinatal asphyxia is a major cause of CP(90)"
+        ],
+        "pathogenesis": [
+            "An injury occurs in a region or multiple regions in the brain, resulting in permanent damage to brain tissue during theperiod of infant brain development(8)",
+            "A review of the literature on brain imaging patterns in children with CP published during 1995\u20132012  indicates that brainabnormalities were observed in 86% of neuroimaging scans. White-matter  injury was the most common imaging finding,but with high heterogeneity. Grey-matter  injury, malformations, focal vascular insults, and miscellaneous findings (indescending order) were also observed(80)"
+        ],
+        "risk factors  prenatal": [
+            "Gestational age (<= 33 weeks\u2019 gestation)(10)",
+            "Nuchal cord(10)",
+            "Low birth weight (i.e., < 5.5 pounds or 2 \u00bd kg)(7)",
+            "Multiple birth",
+            "Menkes syndrome\u2014copper cannot be absorbed by the GI tract(2)",
+            "TORCH ( toxoplasmosis, other infections [e.g., syphilis], rubella, cytomegalovirus, herpes) syndrome",
+            "Intraventricular hemorrhage(3)",
+            "Maternal infection(8)",
+            "Chorioamnionitis(12)\u2014the membranes that cover the fetus become inflamed(2)",
+            "In vitro fertilization (IVF)(10)",
+            "Mother and infant blood-type  incompatibility(8)",
+            "Placenta complications(8)",
+            "Intrauterine growth retardation(6)",
+            "Intracranial hemorrhage(6)",
+            "Periventricular leukomalacia (PVL)(1)"
+        ],
+        "risk factors  postnatal": [
+            "Severe jaundice(8)",
+            "Bacterial meningitis(7)",
+            "Viral encephalitis(7)",
+            "Falls(7)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "New clinicians may require training on how to address the emotional needs of the parents of a child with CP",
+        "Patients with CP have an increased risk for fractures(124,125) Critical periods of bone health (CPBH) differ for individuals with CP compared to the general population \u2013Males with CP have greater relative fracture risk across the lifespan (2.9\u20135.6  times higher) and increased rate of fractures (14 times higher) compared to age-matched  peers without CP \u2013For females with CP fracture risk is increased at set points:between ages 18 and 21, perimenopausal, and postmenopausal Patients with CP are at increased risk for osteoporosis secondary to osteopenia from decreased weight-bearing(108) Immobility often leads to osteoporosis, predisposing the patient to fractures 41% of fractures occur after surgery and during physical therapy treatments Common fractures occur in the long bones such as the distal femur(108) Patients with CP who are ambulatory have an increased risk of traumatic and stress fractures",
+        "Seizures are common in children with CP.(7,66) During a seizure:(66) Stay with the patient Comfort the individual and speak calmly Clear sharp or hard objects Do not hold down extremities Use aspiration precautions: rotate head to side, assess airway, and wait for tonic-clonic  activity to pass before administering artificial respiration if indicated",
+        "Clinicians should be aware of any feeding tubes and take appropriate precautions during examination and treatment",
+        "A patient with oral motor dysfunction may not be able to safely manage liquids/foods and may be at risk for aspiration. Consult with family, nurse, and/or speech-language  pathologist (SLP) for restrictions",
+        "Consult with family/healthcare providers for restrictions/healthcare plan related to a diagnosis of gastroesophageal reflux disease (GERD). Try to schedule therapy sessions either before meals or several hours after",
+        "In patients with shunts, monitor for signs/symptoms of shunt malfunction (e.g., seizures, irritability, headaches, vomiting)(14)",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Etiology of illness -What type of CP does the patient have? -If known, where is the lesion located in the brain? -What was the birth history?",
+                "course of treatment": {
+                    "medical management": " Medical management(66) Significant contractures Joint subluxation/dislocation Curvature of the spine affecting (or potential to affect) overall function and/or respiration Difficulty with hygiene and/pain due to musculoskeletal deviations and/or spasticity The patient\u2019s medical team needs to carefully decide how (and if) to treat spasticity in patients with CP. Generally a reduction in spasticity is useful to the patient; however, in some instances spasticity can facilitate function in otherwise weak muscles. To avoid inadvertent loss of function, the entire clinical picture should be evaluated prior to implementing any treatment strategies to reduce spasticity(16) Children may require gastrostomy due to significant feeding/swallowing impairments. Based on a 2014 systematic review, evidence for the effectiveness of surgical interventions (such as gastrostomy tube, jejunostomy tube and fundoplication) for feeding difficulties is low. Studies of gastrostomy typically demonstrate significant improvements in weight gain(87) The level of investigation into the efficacy of various(16) Physical therapy and/or orthotic management Oral medications (e.g., diazepam) Chemodenervation  botulinum toxin, phenol, or alcohol injections Dorsal rhizotomy Intrathecal baclofen Orthopedic surgery Document other aspects of medical management,including respiratory function and growth and nutrition",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Determine what medications clinician has prescribed, if any; are they being taken? Do they effectively control symptoms? Botulinum toxin, intrathecal baclofen, and diazepam may be used for spasticity; pamidronate to increase bone mineral density; and glycopyrrolate to reduce drooling Antiseizure medications may be prescribed as indicated(17) Dopamine receptor blockers may be prescribed to decrease involuntary movements Patients may also be treated with medications for pain management, bowel and bladder dysfunction, and behavioral problems (e.g., anxiety, ADHD)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Testing may consist of:",
+                        "MRI to assess location and size of brain injury(1)",
+                        "Cranial ultrasound(18)",
+                        "X-ray  to assess for orthopedic concerns such as scoliosis, femoral anteversion, hip dysplasia",
+                        "EEG assessment may be completed(17)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, Brain Gym, hyperbaric chamber treatment) and whether they help In a 2019 systematic review and meta-analysis involving 12 studies, researchers in South Korea investigated the impact of hippotherapy (therapeutic horseback riding) on function, gait, and balance of children with CP. Researchers found that hippotherapy had a significant effect on gait but not on function and balance measures(67) In a follow-up  randomized controlled study conducted by the same South Korean researchers, hippotherapy positively affected gross motor function and balance in 91 children with CP presenting at various Gross Motor Function Measure (GMFM) levels (IIV).  The GMFM88,  GMFM-66,  and Pediatric Balance Scale (PBS) were used as outcome",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) May be age and setting specific; recommendations are a guide and should be implemented as appropriate for each unique patient",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Is there a functional/true leg-length  discrepancy present? \u2013Note height and weight and calculate BMI. Compare to age- and sex-matched  growth curves",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013What devices does the patient have? Assess safety and fit of current devices, as well as need for additional devices \u2013The Family Impact of Assistive Technology Scale is designed to rate the effect assistive technology (e.g., postural control devices) has on a child with disability and their family. The test is geared toward children who cannot sit independently. Further testing needs to be completed to fully assess validity and reliability of this new instrument(21)",
+            "balance": " Balance \u2013Assess static and dynamic balance reactions in developmentally appropriate postures \u2013The PBS can be used on patients older than age 5 years \u2013The Timed Up and Go (TUG) test can be used as an objective measure of balance and mobility \u2013The TUG is considered the best predictor of walking ability in adults with CP \u2013The Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)  assesses higher-level  balance skills in patients aged 4\u201321  years \u2013Fivetimes sit-to-stand-test  (FTSTS) has been found to be a reliable measure for assessment of functional balance ability and lower-limb  strength in children with mild to moderate CP(59)  \u2013Based on a 2014 systematic review, the Pediatric Reach Test (PRT), Sitting Assessment for Children with Neuromotor Dysfunction (SACND), Segmental Assessment of Trunk Control (SATCo), and Trunk Control Measurement Scale (TCMS) are recommended for use in clinical practice to assess sitting balance in children and adolescents with CP(82)",
+            "cardiorespiratory function and endurance": [
+                "Document vital signs at rest and during mobility",
+                "Document distance patient can safely propel wheelchair -The 6-minute  push test (6MPT) and the one-stroke  push test (1SPT) are reproducible functional tests for children and adolescents with CP who self-propel  a wheelchair(75)",
+                "Six-minute  walk for distance test (6MWT) or TUG test may be used in ambulatory population",
+                "An accelerometer can be used to measure habitual physical activity in ambulant children with CP(92) -The ActiGraphGT3X+ accelerometer has been found to be reliable under controlled walking and stepping conditions, as well as in a community environment, to measure physical activity in independently ambulating children and adolescents with CP(92)",
+                "Note respiratory rate, use of diaphragm and accessory muscles, atypical breathing patterns, and color changes in lips, skin, and fingers",
+                "In a study in the Netherlands that involved 70 children with CP and 31 typically developing children, researchers found that children with CP had decreased aerobic and anaerobic exercise responses compared with typically developing children(65)",
+                "Results of a study conducted in South Korea indicate that children with spastic diplegic CP and hemiplegic CP have lower respiratory function in terms of maximum inspiratory and expiratory pressures (MIP and MEP), forced vital capacity (FVC), and forced expiratory volume in 1 second (FEV1) compared to children with normal development.(93) No significant differences were found between children with spastic diplegic CP and hemiplegic CP(93)"
+            ],
+            "circulation": " Circulation \u2013Assess pedal pulses \u2013Note capillary refill time \u2013Note temperature and color of skin Ergonomics/body mechanics \u2013Body mechanics are often impaired; the clinician should document compensatory strategies Functional mobility  (including transfers, etc.) \u2013WeeFIM for overall functional assessment \u2013Quick functional assessment tests that can be used for adolescents with CP -GMFM(89) -Timed Up and Down Stairs (TUDS) test -TUG test -Sit-to-Stand  (STS) test -Lateral Step-Up  (LSU) test -1-minute  walk test -10-meter  walk test",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Assess child\u2019s gait and document any gait abnormalities and/or asymmetries \u2013Common atypical gait patterns include decreased and/or absent heel strike, increased stance phase, increased hip/knee flexion in all phases of gait, increased hip internal rotation with adduction, decreased trunk/pelvic disassociation(22) \u2013Common gait deviations in CP can be grouped into gait patterns of spastic hemiplegia and spastic diplegia. Clinical gait analysis (CGA) is used to identify, quantify, and understand how gait deviationsimpair function. CGA uses video, kinematic and kinetic measurements, electromyography, and plantar pressure data \u2013Formal gait analysis, ideally at a computerized motion analysis laboratory, is beneficial prior to surgical intervention to properly identify abnormal gait biomechanics due to spastic muscle patterns -Three-Dimensional  Gait Analysis (3-DGA)  is used to evaluate gait in an objective manner and is reported to have high intrarater reliability(23) \u2013Children with CP have difficulty activating plantar flexors, which impairs the push-off  phase of gait. Gait training improves gait symmetry and facilitates push-off  in children with CP(24)  -Sixteen children with CP and 14 typically developing children (4\u201315  years) were recruited -Ground reaction force at push-off  (dPF) was calculated from foot pressure measurements from insoles and gait kinematics were recorded by a three-dimensional  video analysis during treadmill and over-ground  walking -Measurements were taken at baseline and after 4 weeks of 30 minutes daily inclined treadmill training \u2013In a 2018 systematic review and meta-analysis  including 41 studies that investigated the effects of functional gait training on walking ability in children and young adults with CP, researchers found strong evidence that functional gait training results in clinically important benefits including improved walking speed. Weaker evidence was found that functional gait training improved walking endurance and gait-related  gross motor function (41) \u2013In a study with 209 children and adolescents with CP conducted in the United States, researchers found that in order to reliably measure the stepping activity of children and adolescents with CP, it is necessary to monitor walking activity over(52) -at least 8days for individuals aged 2 to 5 years who are at GMFCS level I (walking without restrictions), 6 days for those at level II (walking without assistive devices but some assistance and limitations for stairs/community walking), and 2 days for those at level III (walking only with assistive devices) -at least 6days for individuals aged 6 to 14 years at GMFCS levelI, 5 days for those at level II, and 4 days for those at level III Joint integrity and mobility \u2013High risk for developing joint contractures in children with spasticity since full ROM is not achieved; document any joint contractures \u2013Assess upper and lower extremities for joint crepitus \u2013Document joint hypermobility using Beighton Hypermobility Scale(106) \u2013Assess hip joint integrity via Galeazzi sign and/or Ortolani maneuver Motor function (motor control/tone/learning) \u2013Assess upper and lower extremities and trunk for coordination, hypertonicity, hypotonicity, and dystonia \u2013Assess spasticity using Modified Ashworth Scale or Tardieu Scale -The Tardieu Scale was found to have good to excellent intrarater and interrater reliability when assessing ankle plantar flexors or elbow flexors in children with CP in a study comprising 6 examiners; reliability was significantly increased following 1 day of training(25) \u2013Assess for ankle clonus and indicate number of beats, if present \u2013Assess movement pattern during age-appropriate  functional and/or play activities (e.g., ball handling, jumping, kicking, running) -Observe quality of movement patterns and the ability to isolate muscle groups (such as hip abductors and hip extensors when rolling) -Indicate any abnormal patterns, reflexes, or tone observed with specific activity \u2013Refer for assessment for adaptive play and leisure equipment when appropriate; adaptive bicycles and other adaptive equipment can allow children with CP to experience and participate in play and leisure activities with their able-bodied peers(56)",
+            "muscle strength": " Muscle strength \u2013Use manual muscle testing (MMT) and/or handheld dynamometry as indicated. MMT is not valid in the presence of abnormal tone. It is appropriate for children aged 4\u20135 years and above who can follow directions for testing. Assess trunk strength for flexion and extension and isolate upper and lower trunk rotation.(13)Document the patient\u2019s ability to isolate muscle groups against gravity (i.e., hip abductors in side-lying,  hip extensors in prone) \u2013Handheld dynamometry has been found to have acceptable reliability in children with CP for testing hip flexors, hip extensors (in supine), knee flexors and extensors, and ankle dorsiflexors (with stabilization). To analyze changes in muscle strength in children in relation to an intervention or maturation, strength should be reported relative to body weight or as a torque measurement (relative to lever length). Measurement error varies across more impaired and less impaired limbs \u2013Use the Selective Control Assessment of the Lower Extremity (SCALE) to determine extent of selective (isolated) motor control available(76) \u2013Assess strength through function in the younger population and in those who are unable to follow verbal commands due to cognitive deficits  \u2013Fourteen children from the Netherlands with hemiplegic (n = 6) or diplegic (n = 8) CP had their lower extremity strength measured via a handheld dynamometer(30) -The authors concluded that evaluating strength via handheld dynamometers can be reliable in assessing changes in isometric muscle strength when using the mean of at least two trialsUse one of the following functional tests to assess developmental skills \u2013Test of Infant Motor Performance (TIMP) -Clinical tool designed to assess motor performance in infants 34 weeks postconceptional age to 4 months post-term(26) -Can be used to document progress in postural and motor control(27) -Reported to have excellent test-retest  and rater reliability (in clinicians with proper instruction on use of TIMP)(26) -Sensitivity is 92% and specificity is 76% for predicting motor performance at 1 year(26) -For additional information on the TIMP, see Clinical Review\u2026Test of Infant Motor Performance (TIMP) ; CINAHLT902532 \u2013The WeeFIM is a clinically useful tool for assessing self-care,  sphincter control, transfers and locomotion, and communication and social cognition(28) -The WeeFIM is most useful in children aged 2\u20135years(28) -The WeeFIM has been studied in various countries and found to be valid in gross domain assessment(28) \u2013The Functional Walking Test (FWT) measures a child\u2019s ability to kneel, stand from kneeling position, stand, walk, and climb stairs(29) \u2013The Peabody Developmental Motor Scales, Second Edition (PDMS-2)  has good test-retest  reliability(13) \u2013The GMFM and the Pediatric Evaluation of Disability Inventory (PEDI) are appropriate outcome measures (13) -The GMFM is an outcome measure that classifies children with CP based on their level of independence with gross motor skills(18) -Can be used to track progress (or regression) in gross motor skills, as it is sensitive to motor change -The original GMFM had 88 items (GMFM-88);  the latest version has 66 items (GMFM-66).  Based on a 2014 systematic review, both versions of the GMFM are effective in measuring change in gross motor function in children with CP(78) -PEDI(18) -Developed for use with infants and children (aged 6 months to 7.5 years) -Can be used to track progress (or regression) in domains of self-care,  mobility, and social function -Results from a 2014 systematic review indicate that the PEDI has the strongest psychometric properties in school-aged children(79) \u2013The Manual Ability Classification System (MACS) is a classification system designed to categorize children 4 to 18 years of age with CP based on the use of their hands for functional activities(77,102)Children are able to handle most objects easily and successfully on their ownChildren are able to handle most objects on their own but with minimal decreased ability and/or speedChildren are able to handle objects but with difficulty and require help in preparing and/or modifying",
+            "observation inspection palpation including skin assessment": [
+                "Assess skin integrity and monitor tolerance to orthotics, if in use; document wearing schedule",
+                "Note redness, ability to blanch, any breakdown in skin; measure and stage any wounds and notify MD \u2022Oral mechanism exam and related tests",
+                "Screen patient for oral motor dysfunction/feeding problems that may compromise nutritional/health status. Examine for signs of weak suck, delayed/absent tongue lateralization, tongue thrust, weak lip closure, uncoordinated swallowing mechanism, tonic bite, hyperactive gag reflex, and poor seating/posture during feeding secondary to unstable trunk(13) "
+            ],
+            "posture": " Posture \u2013Assess posture in sitting and standing, with and without braces \u2013Assess posture in wheelchair as indicated \u2013Observe for signs of scoliosis (rib hump, shoulder elevation, pelvic asymmetry)(11) -Twenty to twenty five percent of individuals with CP develop scoliosis -The course of scoliosis in CP varies from idiopathic curves. In CP the curve can progress after skeletal maturityT708447",
+            "range of motion": " Range of motion \u2013Assess passive and active ROM for upper and lower extremities; use goniometry \u2013In the younger population, ROM can be assessed though functional movement if patient is resistant to hands-on assessment(13) -Hip abduction with knees flexed (adductor magnus, brevis, and longus muscles) -Hip extension in the Thomas test position with the knee extended (iliopsoas muscle) and flexed (rectus femoris muscle) -Knee extension with hip flexion (popliteal angle \u2013hamstring muscles) -Ankle dorsiflexion with knee flexed (soleus muscle) and knee extended (gastrocnemius muscle) Reflex testing/protective reactions \u2013Assess for anterior, posterior, and lateral protective reactions in sitting, prone, and standing \u2013Assess for primitive reflexes (e.g., Moro, asymmetrical tonic neck, parachute), which may be abnormally absent or persistent \u2013Assess deep tendon reflexes bilaterally for C5, C6, C7, L4, and S1; hyperreflexia often elicited Self-care/activities  of daily living  (objective testing) \u2013Evaluate or inquire about ADLs; note any assistive devices used \u2013The Canadian Occupational Performance Measure (COPM) may be used to assess function in the domains of self-care, leisure, and productivity(31) \u2013The Assessment of Life Habits (LIFE-H)  tool may be used to evaluate ADLs in children aged 5\u201313  years \u2013Results of a 2014 systematic review suggest that the Assessment of Motor and Process Skills (AMPS) is the most effective measure to evaluate ADL performance or capacity and is suitable for children and adolescents, but further research should examine the reliability of the AMPS over time in children and adolescents with CP(79)",
+            "self-care activities of daily living": " activitiesChildren are able to handle a limited selection of easily managed objects in adapted situationsChildren cannot handle objects and have severely limited ability to perform simple actions -Results of a 2014 Swedish study that included 1,267 children with CP suggest MACS levels are stable over time and the classification system has excellent predictive value(77)",
+            "reflex testing": "",
+            "sensory testing": " Sensory testing \u2013Stereognosis, joint position sense, and two-point discrimination are often impaired in children with CP(32) -Assess tactile sensation using Semmes Weinstein monofilaments(32) -Assess two-point  discrimination using paper clips(32) -Use the Sensory Integration and Praxis Test (SIPT) to assess stereognosis and graphanesthesia(32)",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Assess orientation to name, place, date, and time (as age appropriate) \u2013Assess ability to follow simple commands. How many steps? \u2013The Neonatal Behavioral Assessment Scale may be used for newborns \u2013Note any adaptive communication devices used by child/family",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Adults with CP often experience mobility decline in early to middle adulthood, with reduced balance and increased fall risk(63)",
+                "Raynaud\u2019s syndrome",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation",
+                "Hypertension  cold can lead to an increase in blood pressure",
+                "Hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement over superficial nerves for extended periods (> 1 hour)",
+                "Cold may be counterproductive if being used to facilitate muscle relaxation and reduce in pain in patients who do not tolerate the modality",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Malignant tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls;(71) follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment and knowledge of best-practice evidence",
+                "Clinicians should include the family/caregivers in the treatment sessions, explain and demonstrate therapeutic treatment interventions, and provide oral and written instructions for a home program as indicated. Whenever possible, interventions for patients with CP should be family-centered  and function-focused(72) ",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Cryotherapy  contraindications(33)",
+                "Cryotherapy  precautions(33)",
+                "Thermotherapy  contraindications(33)"
+            ]
+        },
+        "diagnosis need for treatment": "Most children with CP will require periodic courses of physical therapy throughout their lifespan, with the degree/intensity of physical therapy varying depending on the child\u2019s needs. Intervention should be tailored to meet the needs of the child/family at each particular stage of development as well as recovery from postsurgical procedures. The goals of physical therapy are numerous but generally include prevention of musculoskeletal deformity, maximization of mobility and age-appropriate  functional skills, and patient/family education It is important to note that although early diagnosis is key to initiating rehabilitative services, up to 50% of children with CP diagnosed before the age of 2 years have spontaneous resolution of symptoms and, therefore, CP may have been inaccurately diagnosed(4)",
+        "rule out": " Rule out Progressive neurologic disorder Idiopathic toe-walkingX-linked  genetic disorder, slowly progressive, begins in infancy",
+        "prognosis": [
+            "In an observational cohort study conducted in the United States involving 80 children with CP ages 2 through 6, researchers found that the ability to transfer from sit to stand and stand to sit predicted independent walking(34)",
+            "Canadian researchers found that of 258 children and adolescents with CP, 53.2% of children and 57.5% of adolescents attended regular schools; however, 41% of these children and adolescents required special education resources(85) \u2013The remainder of the children and adolescents in the study attended special schools and 84.6%of all children and adolescents were receiving at least one rehabilitative service, with physical therapy and occupational therapy the most common services provided \u2013Services were primarily one time a week and conducted in the school setting for both children and adolescents, but for the adolescents services were more frequently consultations rather than direct weekly therapies \u2013Children with lower IQ, greater motor impairments, and greater activity limitations were significantly more likely to receive occupational therapy, physical therapy, speech-language  therapy, or special education",
+            "The TUG test is a reliable and responsive measure of mobility and balance in children with CP(35) \u2013Based on a prospective observational study of children ages 3 to 10 years with CP in GMFCS levels I\u2013III \u2013Researchers used minimal detectable change (MDC) using baseline data and minimal clinically important difference (MCID) values based on the GMFCS levels  \u2013MDC values ranged from 1.40 to 8.74 seconds and MCID estimates ranged from 0.22 to 5.31 seconds, both of which were of statistical significance",
+            "Factors associated with lower physical activity in children aged 8\u201317 years with CP include decreased participation in the home and community, female sex, older age (adolescents), and decreased performance on the 6MWT(94) \u2013Older age and reduced community participation were associated with high inactivity \u2013GMFM\u2013Section  E (walking, running, jumping) score is also an important predictor of daily physical activity(95)",
+            "Survival(109) \u2013Approximately 80% of individuals with no severe impairments survive beyond 58 years \u2013For those individuals with severe or multiple impairments, mortality increases with severity of impairment \u2013Approximately 80% of individuals with severe impairments (4 or more disabilities) survive to age 20",
+            "Authors of a cross-sectional  register study conducted in Sweden of 3545 individuals with CP aged 4\u201318  years using data collected from 2017 to 2018 assessed pain in this population(36) \u2013Overall prevalence of pain was 44% \u2013Older age and female sex were associated with increased risk of pain \u2013Pain was most common in the lower extremities \u2013Pain intensity was higher at older ages and higher GMFCS levels \u2013Approximately two-thirds  of all children and adolescents with CP reported pain that disturbed ADLs and one-third reported pain that disrupted sleep"
+        ],
+        "referral to other disciplines": " Referral to other disciplinesThe typical goal of surgery in this population is to improve ROM and manipulate musculoskeletal deformities with the aim of improving overall function(15)Many anecdotal reports of psychosocial issues were reported in the literature as parents and children cope with the effects of CP. A referral to a specialist may be warranted, and each case should be evaluated on an individual basis. The clinician needs to avoid generalizations based on level of impairment and assess the needs of each family separatelyIf feeding or speech concerns are present, a speech therapy evaluation is indicated \u2013Researchers in the United Kingdom reported that in a population of adolescents with spastic diplegic CP (n = 346), 63% had impaired speech of varying severity; 32% of the 346 reported being provided with 1 or more types of augmentative and alternative communication (AAC), but 75% of these adolescents reported that AAC was only for use at school and for communication assistance(84) Occupational therapy as indicated for feeding and fine-motor  deficits",
+        "other considerations": [
+            "There are numerous assessment tools available to assist in monitoring various domains related to patient/family QOL; examples include:(13) \u2013Pediatric Quality of Life Inventory \u2013Lifestyle Assessment Questionnaire \u2013Family Support Scale \u2013Health Utilities Index \u2013Strengths and Difficulties Questionnaire",
+            "School setting \u2013Children with CP may have difficulty with executive functioning and working memory, increasing risk for learning disabilities. Additionally,due to motor impairments children with CP may have difficulty with school engagement (e.g., following school routines and participating in school activities)(37) -Researchers in Portugal conducteda nine-week narrative-based  educational intervention program (Story-tool)  to promote self-regulation  and executive functioning (EF) stimulation in children with CP -15 children age range 8 to 12 years with cognitive performance level on the WISC-III  above medium-low participated in the study. Participants received 18 sessions, 60 minutes each of the Story-tool intervention to foster self-regulation  and EF skills to promote school engagement -Outcome measures included pre and post intervention neuropsychological assessment and self-report questionnaire -Researchers found that the intervention significantly improved three dimensions of school engagement: behavioral, emotional, and cognitive "
+        ],
+        "treatment summary": [
+            "Strength training \u2013Based on a 2016 review of the literature on exercise and physical activity guidelines for persons with CP conducted in the Netherlands, the following recommendations were made:(38) -Cardiovascular exercise a minimum of 2\u20133 times/week, at an intensity between 60 and 90% of peak heart rate or between 50 and 65% of VO 2 peak -Exercise duration minimum of 20 minutes per session for atleast 8 consecutive weeks when training 3 times per week, or for 16 consecutive weeks if training only 2 times per week -Pre-workout  warmup and cooldown are recommended to prevent musculoskeletal injury \u203aGuidelines of the Cincinnati Children\u2019s Hospital Medical Center recommend including a progressive strength-training exercise program as part of comprehensive physical therapy management for individuals with CP aged 4 to 20 years(74)",
+            "Strength training may improve muscle strength, balance, gait speed, and gross motor function without increasing spasticity in children and adolescents with spastic CP(112) \u2013Based on the results of a 2021 systematic review and meta-analysis  conducted in Spain of 27 RCTs involving 847 patients age range 0 to 22 years \u2013Meta-analysis  demonstrated significant differences in favor of strength training compared to standard physical therapy interventions and untreated control group",
+            "Lower limb strength training with resistance bands may improve gross motor function in children with CP(40) \u2013Based on the results of an experimental study conducted in India involving 12 children with CP between ages 4 and 10 years with baseline GMFCS level I and II \u2013The children received strength training with resistance bands 3 times per week for 6 weeks. Strengthening exercises included 3 sets of 10 repetitions of hip flexion, extension, abduction, adduction, knee extension, knee flexion, and ankle plantarflexion and dorsiflexion \u2013Outcome measures included pre and post assessment of GMFM scale \u2013Results showed significant improvements in pre and post score of the components D (standing) and E (walking, running, and jumping) of the GMFM, 9.49% and 6.39%, respectively",
+            "Results of a related study conducted in Spain suggest that the use of strengthening with resistive bands may improve motor function in children with CP(110) \u2013Based on a 2019 systematic review and meta-analysis  of 15 studies (12 RCTs, 3 non RCT), authors found that resistance therapy intervention significantly improved motor function as measured by the GMFM, Lateral Step Up (LSU), TUG, and Mobility Questionnaire",
+            "Functional progressive resistive exercise (FPRE) may improve muscle tone, dynamic balance, and functional ability in children with spastic CP(111) \u2013Based on a 2020 RCT conducted in Korea involving 25 children age range 6 to 13 years with spastic diplegic CP divided into 2 groups, FPRE group (n = 13) and control group (N = 12) \u2013The FPRE group exercised 30 minutes, 3 times per week for 6 weeks. FPRE protocol consisted of ROM exercise, stretching, sit to stand, half kneeling, side-step  up, and standing exercises. The control group received conventional therapy (FES, standing frame, and mat activities) for the same duration and frequency \u2013Knee extensor strength, ultrasound imaging of the quadricep muscle, muscle tone, dynamic balance, and functional ability scored using the GMFM-88  were measured pre and post intervention \u2013Results showed significant improvements on all outcome measures in the FPRE group compared to the control group",
+            "Progressive resistive exercises performed using circuit training to increase trunk and lower extremity strength may improve overall strength, balance, and function(86) \u2013Based on an RCT with 60 children with spastic diplegic CP conducted in Saudi Arabia \u2013Children in the experimental group participated in a 6-week supervised circuit strengthening program in conjunction with traditional physical therapy; the control group participated solely in traditional physical therapy. Strength training sessions were 3 times a week. Six to 10 repetitions per exercise were completed and repetitions progressed to a higher weight when the subject could perform 3 sets of 12 repetitions \u2013Balance, strength, and functional ability improved significantly compared to the control group as measured by the PBS, handheld dynamometer, and the GMFM \u2013Results of a feasibility study conducted in Australia suggest that a community-based,  low-dose  group exercise program can improve balance and strength in children with CP(96)  \u2013Ten children with CP, aged 8\u201315  years, participated in an 8-week  program in a community gym using simple equipment \u2013Strength of elbow flexors, hip abductors, ankle dorsiflexors, and ankle plantar flexors improved. Functional strength as measured by seated throw, distance jump, and lateral step-up and balance as measured by the Movement Assessment Battery for Children (MABC), the lateral and forward reach tests, and the BOT also showed improvement \u2013The researchers noted that this study demonstrates that results of strength and balance training studies conducted in clinical research settings with specialized equipment translate into clinical practice in a low-cost,  low-dose community program",
+            "Strength training combined with botulinum toxin type A treatments might lead to greater reductions of spasticity in children with CP(60) \u2013Based on a study with 15 children with spastic diplegic CP conducted in Australia(60) \u2013Children were receiving bilateral lower-limb  botulinum toxin type A treatments from their physicians(60) \u2013The strength training was done 3 times per week for 10 weeks and was coordinated and progressed by a physical therapist every 2 weeks \u2013Lower limbs were targeted for the strength-training  exercises and each program was individualized to the specific study participant\u2019s needs \u2013Researchers found that over the course of the study period the injections appeared to reduce spasticity and the strength training did not increase it; strength and functional gains were found in all muscles that were both trained and treated with injections",
+            "Functional training \u2013Static upper limb weight-bearing  exercises may improve body alignment in individuals with spastic hemiparetic CP(4) -Based on the results of an RCT including 11 participants with CP divided into intervention group (IG; n = 6) and control group (CG; n = 5). Individuals in the IG performed stretching exercises of the major muscle groups of upper and lower limbs and weight-bearing  exercises in prone and sitting, 40 minutes, 2 times per week for 12 weeks. CG did not perform any type of motor therapy for duration of study -Outcome measures included GMFM-88,  Pediatric Berg Balance Scale, Trunk Impairment Scale (TIS), 6MWT, 10MWT, TUG, and Edinburgh Visual Gait Scale (EVGS) and were assessed pre and post intervention -Results showed the IG demonstrated significant improvements on the 6MWT, TUG, TIS, and Pediatric Berg Balance Scale. Authors concluded that the intervention was effective in improving static and dynamic balance, increasing gait speed, and improving weight shift to the affected side \u2013Goal-directed  functional therapy (GDT) was reported to be more effective than activity-focused  therapy (AT) for children with CP, leading to improved abilities in self-care and mobility(51) -Based on a nonrandomized, comparative study conducted in Sweden -Forty-four  children with CP participated in the study -The children were divided into 2 groups and received 1 of 2 interventions -Group 1 \u2013 GDT; group session 1x/week; daily practice; 12 weeks duration -Group 2 \u2013 AT; individual session 1x/week; daily practice; 12 weeks duration -GDT is different from AT in that GDT -Identifies individually tailored treatment goals -Implements regular group meetings for therapy -Incorporates specific parental education at the beginning of therapy -Results -Preintervention \u2013 Scores on the PEDI caregiver assistance in self-care  scale were significantly higher in group 2 -Postintervention \u2013 The between-group  comparison revealed that group 1 experienced significantly greater improvements in mobility and self-care",
+            "Gait training \u2013Functional gait training may be more effective in improving walking speed than conventional physical therapy interventions(41) -Based on a 2017 systematic review and meta-analysis of 41 studies including 11 RCTs that investigated the effects of functional gait training on walking ability in children and young adults with CP -Functional gait training included both over-ground training and/or treadmill-based  gait training, and use of partial weight support systems -Virtual reality and biofeedback were used to increase patient engagement  \u2013Treadmill gait training might be more effective for improving functional balance in children with CP as compared to over-ground  gait training(70) -Based on an RCT conducted in Brazil with 15 children with CP (7 randomized to experimental/treadmill training group and 8 to the control/over-ground  gait training) -Treadmill training protocol consisted of two 30-minute  sessions per week for 7 weeks; the child was instructed to walk at 60% of maximal speed for the first and final 5 minutes of each session and 80% of maximal for the 20 minutes in between -Although both the treadmill and over-ground  gait training protocols led to within-group  improvements in functional balance, the mean increase on the Berg Balance Scale score in the treadmill group was 14.7 points whereas the mean increase for the control group was 3.2 points \u2013Researchers in Germany found a high degree of variability in responses to robot-enhanced  repetitive treadmill training in patients with early-developed  movement disorders that included CP(97) -Eighty-three  patients aged 4\u201318  years participated in treadmill walking for a mean total of 7.2 hours -Determinants of inter-individual  variability in treatment responses included gross motor abilities at baseline and age",
+            "Postural control techniques \u2013Water-based  exercise may improve postural control in children with spastic CP(42) -Based on a quasi-experimental  design conducted in Korea of 20 preschoolers with spastic CP who participated in water-based  exercises -Participants performed 3 different types of leg exercises for flexor, extensor, and abductor muscles of the lower leg, one 40-minute  session per week for 8 weeks -Trunk control was measured via the Korean-trunk control measurement scale (K-TCMS)  before and after the intervention -Results showed improvements post intervention on the K-TCMS  in the domains of static sitting, dynamic sitting, and dynamic reaching \u2013Balance training using the Biodex balance system is more effective than traditional physical therapy in improving balance in children with CP(81) -Based on an RCT in Egypt -Thirty children with spastic diplegic CP were randomly selected to participate in traditional physical therapy only or traditional physical therapy in conjunction with Biodex balance training for 30 minutes a day, 3 days a week, for 3 months -Both groups had significant improvement in balance parameters at the end of 3 months; however, the Biodex training group had greater improvement in balance and stability compared to the control group -Outcome measures were the PBS, fall-risk balance testing on the Biodex, static and dynamic balance stability on the Biodex, and directional control on the Biodex",
+            "Neurodevelopmental treatment (NDT) \u2013NDT may improve gross motor function in children with CP -Researchers from a study in Iran concluded that children being treated with NDT techniques may show improvements in lying and rolling, sitting, crawling, kneeling, and standing(43)",
+            "Electrotherapeutic modalities \u2013Functional electrical stimulation in combination with standard physical therapy may improve motor activity in children with CP(44) \u2013Neuromuscular electrical stimulation (NMES) may improve gross motor function in children with CP(45) -Based on the results of a meta-analysis  conducted in Brazil of 6 RCTs involving 174 participants that investigated the effect of NMES combined with other therapies on gross motor function assessed by the GMFM scale -Researchers found that NMES combined with other therapies (e.g., treadmill walking and strengthening) resulted in greater improvements in gross motor function compared to standard physical therapy or neurodevelopmental treatment \u2013NMES may improve gait in children with spastic CP(46) -Based on a 2019 systematic review of 18 studies involving 212 participants that investigated gait-specific  NMES for children with CP -Results showed that single-channel  gait-specific  NMES improved ankle motion in the swing phase of gait, but did not improve more complex gait issues common in CP such as flexed knee and stiff knee gait",
+            "Prescription, application of devices and equipment  \u2013Ankle-foot  orthosis (AFO) -There is substantial evidence that AFOs that control the foot and ankle in stance and swing phases can improve gait efficiency in ambulant children with CP (GMFCS levels I\u2013III).  Use of AFOs may reduce the energy cost of gait(98) -AFOs are typically used to optimize gait dynamics through application of a mechanical constraint to the ankle that controls motion -AFOs might improve plantar flexor tone in the lower extremities of patients with CP(98) -Based on a cross-sectional  population-based study of 2200 children age range 0\u201319  years with GMFCS levels ranging from I to V conducted in Sweden -Researchers found that AFOs were used in 51% of the children to improve ankle function and increase ROM. Of the children who wore AFOs 70% were at GMFCS IV\u2013V  levels, with the highest use among 5-year-olds -Furthermore, treatment goals (e.g., increased ROM) were achieved in almost 75% of the AFO users \u2013Seating/positioning interventions -Adaptive seating is recommended for individuals with CP to develop and maintain optimum posture and functional use of upper extremities(47) -Based on a prospective study conducted in Turkey involving 20 children with spastic CP GMFCS levels III\u2013V  that investigated the effectiveness of different seating adaptations for maximal postural alignment and function -Postural control and function were measured with the Seated Postural Control Measure Sitting Assessment Scale, and taken in three different systems: standard chair, adjustable seating system, and custom-made  orthosis -Researchers found significant differences between the standard chair and adjustable seating system in regards to foot control, arm control, and total seating assessment scale scores, with no significant differences noted between the adjustable seating system and custom-made orthosis -Researchers concluded that both the adjustable seating system which is adaptable as a patient grows and thecustom-made  orthosis (lower cost) are beneficial -Adaptive seating systems in children with severe CP may improve postural control, upper extremity function, self-care, and play behavior at hom(48) -Based on the results of a 2015 systematic review conducted in the Netherlands that investigated the effect of adaptive seating on young persons less than 19 years with severe CP in regards to outcomes across all domains of the International Classification of Functioning, Disability and Health for Children and Youth version(ICF-CY) \u2013Environmental modifications (e.g., handrails, car wheelchair hoists, portable ramps) improve mobility, social function, and self-care  in children with CP(49) \u2013In a review of the literature investigating the effect of wheelchair positioning on upper extremity function in children with CP, an investigator compiled the following recommendations:(50) -The child\u2019s pelvis should be held in neutral -A functional sitting position (FSO) is recommended to facilitate the use of the child\u2019s upper extremities -FSO \u2013 hip belt, abduction orthosis, a cutout tray, footrests, and orientation in space of 0\u201315\u00ba.  Also included was a forward sloped seat of 0\u201315\u00ba -The child\u2019s head, shoulders, and trunk should be slightly anterior to the ischial tuberosities \u2013Early use of powered mobility can have a positive impact on the psychosocial and play skills of children with CP or orthopedic disabilities(57) -Based on a study conducted in the United States of 23 children with CP or another type of disability aged 18 months to 6 years(57) -Significant increases in both parental perception of positive social skills and the number of mobility activities during free play (although no increase in the interaction with toys and objects was seen)(57)",
+            "Passive stretching \u2013Researchers from a study in the United Kingdom found that passive stretching can increase overall muscle length immediately post-stretch  in children with CP. Passive stretching is suitable for short-term  gain in increasing muscle length, which may lead to long-term changes(39)",
+            "Constraint-induced  movement therapy \u2013Constraint-induced  movement therapy can improve grasping ability, daily function, and temporal/spatiotemporal control of reaching in children with unilateral CP(55)  -Based on an RCT conducted in Taiwan with 24 children with CP receiving constraint-induced  therapy and 23 children with CP receiving traditional rehabilitation; children were 6 to 12 years of age and had unilateral spastic CP(55) -Both groups received individualized therapist-based interventions at home for 3.5\u20134  hours per day, 2 days per week for 4 weeks(55) -In the experimental group, the participants wore an elastic bandage and restraint mitt that limited both finger and wrist movement in the less affected arm; therapy sessions involved function tasks (reaching, grasping, manipulating household items) with the more affected arm(55) -At the conclusion of the 4 weeks of the study, the children in the experimental group demonstrated significantly greater improvement on outcome measures(55) -Improved grasping ability measured by the PDMS-2 -Improved functional use of affected arm measured by the Pediatric Motor Activity Log -Improved temporal and spatiotemporal efficiency of reaching as measured by reaction time, movement time, and peak velocity \u2013Modified constraint-induced  movement therapy can improve hand dexterity and grip strength in children with CP(61) -Based on a small RCT conducted in South Korea(61) -Twenty subjects with CP total; 10 received traditional rehabilitation and 10 participated in a modified constraint-induced movement therapy program(61) -All participants participated in 30-minute traditional sessions that took place semi-weekly; the experimental group additionally received 60-minute  constraint-induced  movement therapy sessions with the nonaffected arm restrained by a string and splint.During these sessions participants were guided through 13 functional activities with the un-constrained hand(61) -At the conclusion of the study, the children in constraint-induced  movement therapy group showed significantly greater improvement in the following measures: block and box test (hand dexterity test), grip strength, and WeeFIM(61) \u2013A combination of constraint-induced  movement therapy and bimanual training might produce the best outcomes for children with CP(64) -Based on a systematic review that included 7 studies; authors of the review found that both constraint-induced movement therapy and bimanual therapy produced similar improvements in the abilities of the affected arm as well as overall functional performance. Because constraint-induced movement therapy appears to yield more improvements in unimanual tasks with the impaired arm and bimanual training is more effective for improving performance of bimanual and functional tasks, authors recommended considering an approach to therapy that includes both types of training(64) \u2013Results of an RCT conducted in Israel suggest that both modified constraint-induced  movement therapy and bimanual therapy provided in a school-based  setting can lead to improvements in bimanual skill and quality of movement patterns(99) -Twelve children with hemiplegic CP were randomized to receive modified constraint-induced  movement therapy or hand-arm  bimanual intensive therapy for 2 hours per day, 6 days per week in a special education preschool/kindergarten -After 8 weeks of intervention, both groups demonstrated comparable improvement on the Assisting Hand Assessment and the Quality of Upper Extremity Skills Test \u2013In a pilot study conducted in Taiwan, researchers found that group constraint-induced  movement therapy could be a feasible and effective alternative to individual, one-on-one constraint-induced  movement therapy in clinical practice(69)",
+            "Vibration treatment \u2013In an RCT conducted in Croatia with 89 children with CP, researchers found that the addition of sound-based  vibration treatment significantly reduced spasticity and increased motor function as compared to traditional physical therapy interventions alone(58) -Intervention period was 12 weeks, during which time all subjects received three 40-minute  sessions per week; children in the intervention group received the addition of sound-based  vibration treatment twice per week -Vibration treatment was delivered using a vibroacoustic bedpad; children were placed on the bedpad in supine position for 20 minutes -At the conclusion of the study, the children in the experimental group showed a significantly greater reduction in spasticity (as measured by the Modified Ashworth Scale) and a significantly greater increase in gross motor function (as measured by the GMFM) than the group that received traditional physical therapy interventions only  -Researchers emphasized that vibration treatment should be used as a complement to traditional physical therapy interventions and should not replace active therapist-based  intervention \u2013A trunk-targeted  intervention combined with vibration can improve posture and gait in children with CP(62) -Based on a study conducted in South Africa with 27 children with CP aged 6 to 13 years(62) -Intervention consisted of selective trunk-targeted exercises to activate and strengthen abdominal muscles; all exercises were performed on a vibrating platform; therapy program was 4 weeks long, with 2 sessions in the first week, 3 sessions in the second, and 3 to 4 sessions in the third and fourth weeks(62) -Significant improvements were seen in gait speed, sitting posture, standing posture, and abdominal strength(62) \u2013Whole-body  vibration (WBV) may improve strength and balance in children with CP(83) -Based on an RCT conducted in Egypt with 30 children with spastic diplegic CP. All children received traditional physical therapy 1 hour a day, 5 days a week for 3 months. In addition to traditional therapy, the experimental group received WBV training for 9 minutes a day, 5 days per week for the 3 months -Using the Biodex balance system, the children in the WBV group showed a significant improvement in knee extensor peak torque at 60\u00b0/sec and 90\u00b0/sec and overall stability index compared to the control group \u2013WBV training can improve joint sense and gait in children with CP(105) -Based on an RCT conducted in Korea with 24 children with CP -The children were randomized to either the conventional PT group (n = 12) or WBV with physical therapy group (n = 12) -Both groups received physical therapy twice a week for 3 weeks that included passive stretching of the lower limbs and techniques to reduce spasticity and facilitate normal movement patterns. However, the WBV group also performed their specific intervention and were asked to stand on the platform with knees slightly flexed to 30\u00b0. The platform moved in a side-to-side  pattern with a frequency of 20-24Hz  and an amplitude of 1\u20132mm.  The duration was set at 3 minutes of vibration followed by 3 minutes of rest for 3 sets -The WBV training group showed significant improvements in gait speed and step width as well as joint proprioception compared to the control group \u2013For additional information on WBV training, see Clinical Review\u2026Whole-Body  Vibration Training: an Overview; CINAHL Topic ID Number: T709253",
+            "Children with spastic cerebral palsy may improve gross motor functions and functional ambulation when using Adeli suit therapy (AST)(103) \u2013Based on a case series study from Korea involving two patients with spastic CP \u2013The Adeli suit uses a series of \u201celastic bands and pulleys that create artificial force\u201d that works to prevent muscle atrophy and is used for the maintenance of muscle tone. The suit uses hooks, rings, and bungee-like  cords that allow the physical therapist to mimic flexor and extensor patterns of major muscle groups in order to reposition limbs and correct for abnormal muscle alignment \u2013Both participants applied the AST for 60 minutes, 5x/week for 4 weeks . Problem Goal Intervention Expected Progression Home Program Gross motor delay Maximize age- appropriate gross motor functionNDT, functional training, GDT _ Referral to adaptive physical education programs as indicated _ _ (See Treatment summary )Progress each patient as indicated and appropriateImplement a home program that incorporates activities that foster carryover of newly acquired skills _ _ Ensure patient and parent/caregiver receive proper education on home program  Gait deviations with decreased independenceImprove gait with increased independence, improved energy efficiency, and appropriate use of adaptive equipment as indicatedGait training, ankle strengthening, GDT, balance training _ (See Treatment summary ) _ _ Prescription, application of devices and equipment _ Assess need for assistive devices and adaptive equipment and implement as indicated _ _ (See Treatment summary )Progress each patient as indicated and appropriateImplement a home program that incorporates activities that foster carryover of newly acquired skills Decreased functional capacity/impaired ability to perform ADLs and leisure activitiesIncrease independence with ADLs and leisure activities, including mobility on/off playground equipmentFunctional training, strength training _ Referral to adaptive physical education programs _ _ Prescription, application of devices and equipment _ Assess need for assistive devices and adaptive equipment, and implement as indicated _ Constraint-induced therapy _ _ (See Treatment summary )Progress each patient as indicated and appropriateImplement a home program that incorporates activities that foster carryover of newly acquired skills  Contractures of muscle and joint tissue _ _ Decreased bone mineral density (osteopenia/ osteoporosis)(8)Prevent secondary complications such as contractures, decreased bone mineral density, pain, and orthopedic deformities as ableFunctional training _ ROM, stretching, and positioning programs as indicated _ _ Assess need for orthotics _ _ (See Treatment summary )Progress each patient as indicated and appropriateImplement a home program that incorporates maintenance of functional ROM Musculoskeletal deformities such as scoliosis and hip dysplasia. Hip dysplasia can lead to hip subluxation/ dislocationIndependent with orthotic managementPrescription, application of devices and equipment _ Assess need for assistive devices and adaptive equipment, and implement as indicated _ _ Referral to an orthotist as indicated _ _ (See Treatment summary )Progress each patient as indicated and appropriateHome program should incorporate orthotic management Decreased strength, muscle imbalances, and atrophyImprove strength _ _ Improve muscle balance _ _ Reduce/prevent atrophyFunctional training _ Therapeutic exercise can be implemented to strengthen weakened muscles(16) _ _ For the younger child, strengthening can be accomplished through play and functional/ developmental activities _ _ (See Treatment summary )Progress patient as appropriateProvide patient and family/ caregivers with written instructions regarding functional activities that can be performed at home as indicated  Decreased endurance Improve endurance _ Increase daily physical activityFunctional training, aerobic training, gait training _ (See Treatment summary )Progress as indicated Implement a home program that incorporates endurance activities Muscle tone abnormalities _ _ Abnormal postural tone _ _ Persistent neonatal reflexesNormalize muscle tone as able _ _ Improve postural alignmentInterventions to normalize muscle tone _ Stretching may serve to decrease hypertonicity for brief periods (e.g., hours)(16) _ _ Therapeutic exercise should be implemented to strengthen weakened muscles(16) _ _ Teach caregiver/patient tone management techniques _ _ (See Treatment summary )N/A Implement a home program that incorporates tone management techniques Decreased coordination _ _ Decreased balance reactions _ _ Decreased protective reactionsImprove coordination _ _ Improve balance reactions _ _ Improve protective reactionsFunctional training _ Incorporate strategies to improve the patient\u2019s balance _ _ (See Treatment summary )Progress as indicated Balance activities may be added to the patient\u2019s home exercise program as indicated. Ensure the caregivers can safely carry out the prescribed interventions Skin breakdown due to impaired sensationPrevent skin breakdown _ _ Increase awareness of sensory limitations/ pressure-relieving strategiesIntegumentary repair and protection techniques _ Instruct the patient and family how to perform pressure- relieving techniques in the wheelchair or in bed _ _ Any wounds should be staged and monitored closelyN/A Home program should include the care/ prevention of wounds as indicated  Poor alignment in wheelchairImprove alignment in wheelchairPrescription, application of devices and equipment _ Complete a wheelchair assessment as appropriate and indicated _ _ Inquire about primary use of wheelchair (e.g., home, community, school, all settings) _ _ Clinicians must recognize the diverse needs of children with CP and the importance of a custom-built wheelchair. Ensure there is room for growth as funding may be limited _ _ (See Treatment summary )N/A Home program should incorporate positioning strategies Nutritional deficits due to feeding difficulties/oral motor dysfunction(8)Reduce nutritional deficitsTherapeutic intervention _ Refer to appropriate specialists as indicatedN/A N/A ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes outcome measures": [
+            "Attainment of gross motor milestones\u2013PDMS-2,  BOT-2,  TIMP, PEDI, MACS",
+            "Improved gait pattern with increased independence",
+            "Appropriate use of adaptive equipment\u2013Use of assistive/adaptive devices",
+            "Increased independence with ADLs and leisure activities\u2013Independence during functional activities\u2013GMFM, TIMP, WeeFIM, PDMS-2,  PEDI, BOT-2,  PBS, COPM, MACS, AMPS",
+            "Restored or maintained ROM\u2013Goniometric measurement of ROM",
+            "Prevention of secondary complications such as contractures, decreased bone mineral density, pain, skin breakdown, andorthopedic deformities as able\u2013Skin integrity",
+            "Independence with orthotic management",
+            "Improved strength, reduced/prevention of atrophy\u2013MMT, handheld dynamometry",
+            "Improved endurance\u2013Measures of endurance (e.g., 6MWT)",
+            "Normalized muscle tone as able\u2013Modified Ashworth Scale, Tardieu Scale",
+            "Improved postural alignment, improved alignment in wheelchair",
+            "Improved coordination\u2013MACS",
+            "Improved balance and protective reactions\u2013BOT-2,  PBS",
+            "Increased awareness of sensory limitations/pressure-relieving strategies",
+            "Increased daily physical activity\u2013Accelerometry, self-reported  physical activity"
+        ]
+    },
+    "maintenance or prevention": [
+        "Children and adolescents with CP are less likely to participate in sports, clubs, and organized activities compared to peers without CP or developmental disabilities(88)",
+        "Adults with CP have been shown to participate in lower levels of physical activity and spend increased time in sedentary behavior(100)",
+        "Results of an RCT conducted in the Netherlands indicate that a lifestyle intervention program designed to increase physical activity in adolescents and young adults with spastic CP was not effective (101) Fifty-seven  patients with spastic CP aged 16 to 25 years completed the study A 6-month  lifestyle intervention consisting of fitness training and counseling on physical behavior and sports participation was implemented Physical activity was measured objectively using activity monitor and subjectively using self-reported  Physical Activity Scale for Individuals with Disabilities The intervention was ineffective at eliciting behavioral change",
+        "Healthcare services to manage the needs of adults with CP are often inadequate.(91)Children and adolescents with CP would benefit from more proactive planning for the transition to adult health care to continue to receive optimal intervention",
+        "Home exercise program should be implemented with a focus on: preventing ROM loss preventing pressure sores orthotic wearing schedule exercises/activities to maintain strength and function",
+        "Researchers who examined the use of therapeutic video games for patients with CP found that these games encourage children to be more compliant with their home exercise program(104) The game system uses an LED pencil that the patient moves to \u201cfollow the road until the final destination\u201d Two rehabilitation games were developed to simulate upper extremity movements including flexion, extension, pronation, and supination. The games were designed with different difficulty levels that can be increased or decreased depending on the patient\u2019s progress in the game"
+    ],
+    "patient education": [
+        "National Institute of Neurological Disorders and Stroke, https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Hope-Through-Research/Cerebral-Palsy-Hope-Through-Research",
+        "United Cerebral Palsy, https://www.ucp.org/  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Patel DR, Neelakantan M, Pandher K, Merrick J. Cerebral palsy in children: A clinical overview. Translational Pediatrics . 2020;9(Suppl 1):S125-S135.  doi:10.21037/ tp.2020.01.01. (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Venes D, ed. Taber's Cyclopedic Medical Dictionary . 22nd ed. Philadelphia, PA: FA Davis Company; 2013. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Niedzwecki CM, Roge DL, Schwabe AL. Cerebral Palsy. In: Braddom RL, ed. Physical Medicine and Rehabilitation . 5th ed. Philadelphia, PA: Elsevier Saunders; 2016:1053-1071.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "De Oliveira EAR, Moraes LD, dos Santos JF, Ozu MHU, Misao MH, Narumia LC. Upper limb weight-bearing  effect on the body alignment of individuals with cerebral palsy who have spastic hemiparesis: A randomized clinical trial. Fisioter Mov . 2019;32:e003216. (RCT)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Spastic Cerebral Palsy. Cerebral Palsy Alliance Web site. https://cerebralpalsy.org.au/our-research/about-cerebral-palsy/what-is-cerebral-palsy/types-of-cerebral-palsy/spastic-cerebral-palsy  updated 2018 . Published November 18,"
+        },
+        {
+            "number in article": 2015,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kurjak A, Predojevic M, Stanojevic M, et al. Intrauterine growth restriction and cerebral palsy. Acta Inform Med . 2010;18(2):64-82.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Cerebral Palsy. Symptoms and Causes. Mayo Clinic Web site. http://www.mayoclinic.org/diseases-conditions/cerebral-palsy/symptoms-causes/dxc-20236552 . Published September 1, 2021. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "UCP: United Cerebral Palsy Web site. http://www.ucp.org . Accessed January 25, 2015. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Gill H, Bajaj A, Singh J, Sareen A. To study the efficacy of electromyographic biofeedback training on dynamic equinus deformity and gait in children with spastic cerebral palsy. IOSR-JSPE . 2014;1(3):35-39.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "MacLennan AH, Thompson SC, Gecz J. Cerebral palsy: causes, pathways, and the role of genetic variants. Am J Obstet Gynecol . 2015;213(6):779-788.  doi:https:// doi.org/10.1016/j.ajog.2015.05.034. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Hagglund G, Pettersson K, Czuba T, Persson-Bunke  M, Rodby-Bousquet  E. Incidence of scoliosis in cerebral palsy. Acta Orthop . 2018;89(4):443-447.  doi:https:// doi.org/10.1080/17453674.2018.1450091. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Tita ATN, Andrews WW. Diagnosis and management of clinical chorioamnionitis. Clin Perinatol . 2010;37(2):339-354.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Akba# AM. Assessments and outcome measures of cerebral palsy. Cerebral Palsy - Current Steps. IntechOpen . 2016. https://www.intechopen.com/chapters/51622 . doi:https:// doi.org/10.5772/64254. (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Senesac CR. Management of clinical problems of children with cerebral palsy. Umphred DA, Burton GU, Lazaro RT, Roller ML, eds. Neurologic Rehabilitation . 7th ed. St. Louis, MO: Mosby; 2019. (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Cloake T, Gardner A. The management of scoliosis in children with cerebral palsy: A review. J Spine Surg . 2016;2(4):299-309.  doi:https://doi.org/10.21037/jss.2016.09.05. (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Sadowska M, Sarecka-Hujar  B, Kopyta I. Cerebral palsy: Current opinions on definition, epidemiology, risk factors, classification and treatment options. Neuropsychiatric Disease and Treatment . 2020;16:1505-1518.  doi:10.2147/NDT.S235165. (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Cerebral palsy: Hope through research. National Institute of Neurological Disorders and Stroke, National Institutes of Health Web site. https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Hope-Through-Research/Cerebral-Palsy-Hope-Through-Research . Published 2021. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Tecklin JS. Pediatric Physical Therapy . 5th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2015. (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Swiggum M, Hamilton ML, Gleeson P, Roddey T. Pain in children with cerebral palsy: implications for pediatric physical therapy. Pediatr Phys Ther . 2010;22(1):86-92. doi:10.1097/PEP.0b013e3181cd18a7. (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Oucher scale. Measuring pain in children. University of Arizona College of Medicine Phoenix Web site. https://nasemso.org/wp-content/uploads/PFD-Pain-Assessment-CE-Gross.pdf . (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Delarosa E, Horner S, Eisenberg C, Ball L, Renzoni AM, Ryan SE. Family impact of assistive technology scale: development of a measurement scale for parents of children with complex communication needs. Augment Altern Commun . 2012;28(3):171-80.  (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Tugui RD, Antonescu D. Cerebral palsy gait, clinical importance. Maedica. 2013;8(4):388-393.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Van den Noort JC, Ferrari A, Cutti AG, Becher JG, Harlaar J. Gait analysis in children with cerebral palsy via inertial and magnetic sensors. Med Biol Eng Comput . 2013;51(4):377-386.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Lorentzen J, Frisk R, Willerslev-Olsen  M, Bouyer L, Farmer SF, Nielsen JB. Gait training facilitates push-off and improves gait symmetry in children with cerebral palsy. Hum Mov Sci. 2020;69:102565. doi:https://doi.org/10.1016/j.humov.2019.102565. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Gracies JM, Burke K, Clegg NJ, et al. Reliability of the Tardieu Scale for assessing spasticity in children with cerebral palsy. Arch Phys Med Rehabil . 2010;91(3):421-428. doi:10.1016/j.apmr.2009.11.017. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "The Test of Infant Motor Performance and the Harris Infant Neuromotor Test. Web site. http://thetimp.com/ . Accessed January 25, 2015. (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Richards CL, Malouin F. Cerebral palsy: definition, assessment and rehabilitation. Handb Clin Neurol . 2013;111:183-195.  (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Maddux AB, Cox-Martin  M, Dichiaro M, Bennett TD. The association between the Functional Status Scale and the Pediatric Functional Independence Measure in children who survive traumatic brain injury. Pediatr Crit Care Med . 2018;19(11):1046-1053.  doi:https://doi.org/10.1097/PCC.0000000000001710. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Quinn A, O'Regan M, Horgan F. Psychometric evaluation of the functional walking test for children with cerebral palsy. Disabil Rehabil . 2011;33(25-26):2397-2403.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Willemse K, Brehm MA, Scholtes VA, Jansen L, Woudenberg-Vos  H, Dallmeijer AJ. Reliability of isometric lower-extremity  muscle strength measurements in children with cerebral palsy: implications for measurement design. Phys Ther . 2013;93(7):935-941.  doi:10.2522/ptj.20120079. (RV)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Pendleton HM, Schultz-Krohn  W. Pedretti's Occupational Therapy: Practice Skills for Physical Dysfunction . 7th ed. St. Louis, MO: Mosby Elsevier; 2013. (GI)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Auld ML, Johnston LM. Perspectives on tactile intervention for children with cerebral palsy: a framework to guide clinical reasoning and future research. Disabil Rehabil . 2018;40(15):1894-1854.  doi:https://doi.org/10.1080/09638288.2017.1312571. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Begnoche DM, Chiarello LA, Palisano RJ, Gracely EJ, McCoy SW, Orlin MN. Predictors of independent walking in young children with cerebral palsy. Phys Ther . 2016;96(2):183-192.  doi:https://doi.org/10.2522/ptj.20140315. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Carey H, Martin K, Combs-Miller  S, Heathcock JC. Reliability and responsiveness of the timed up and go test in children with cerebral palsy. Pediatr Phys Ther . 2016;28(4):401-408.  doi:https://doi.org/10.1097/PEP.0000000000000301. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Eriksson E, H\u00e4gglund G, Alriksson-Schmidt  AI. Pain in children and adolescents with cerebral palsy \u2013 a cross-sectional  register study of 3545 individuals. BMC Neurol . 2020;20(10):15. doi:https://doi.org/10.1186/s12883-019-1597-7.  (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Periera A, Rosario P, Lopes S, et al. Promoting school engagement in children with cerebral palsy: a narrative based program. Int J Environ Res Public Health . 2019;16(19):3634. doi:https://doi.org/10.3390/ijerph16193634. (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Verschuren O, Peterson MD, Balemans A, Hurvitz E. Exercise and physical activity recommendations for people with cerebral palsy. Dev Med Child Neurol . 2016;58(8):798-808.  doi:https://doi.org/10.1111/dmcn.13053. (RV)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Theis N, Korff T, Kairon H, Mohaghegi AA. Does acute passive stretching increase muscle length in children with cerebral palsy? Clin Biomech . 2013;28:1061-1067.  (RV)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Shah VS, Shaikh S, Udani V, Khandare S, Modi A. Effects of lower limb strength training on gross motor functions in children with cerebral palsy. Int J Contemp Pediatr . 2018;5(5):1923-1927.  doi:https://doi.org/10.18203/2349-3291.ijcp20183532.  (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Booth ATC, Buizer AI, Meyns P, Oude Lansink ILB, Steenbrink F, van der Krogt MM. The efficacy of functional gait training in children and young adults with cerebral palsy: a systematic review and meta-analysis.  Dev Med Child Neurol . 2018;60(9):866-883.  doi:https://doi.org/10.1111/dmcn.13708. (M)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Kim HK, Shin HK. The effects of water-based  exercise on postural control in children with spastic cerebral palsy. Phys Ther Rehabil Sci . 2017;6(2):77-82.  doi:https:// doi.org/10.14474/ptrs.2017.6.2.77. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Labaf S, Shamsoddini A, Hollisaz MT, Sobhani V, Shakibaee A. Effects of neurodevelopmental therapy on gross motor function in children with cerebral palsy. Iran J Child Neurol. 2015;9(2):36-41.  (RV)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Mukhopadhyay R, Mahadevappa M, Lenka PK, Biswas A. Therapeutic effects of functional electrical stimulation on motor cortex in children with spastic cerebral palsy. Conf Proc IEEE Eng Med Biol Soc . 2015;2015:3432-3435.  (RV)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Salazar AP, Pagnussat AS, Pereira GA, Scopel G, Lukrafka JL. Neuromuscular electrical stimulation to improve gross motor function in children with cerebral palsy: a meta-analysis.  Braz J Phys Ther . 2019;23(5):378-386.  doi:10.1016/j.bjpt.2019.01.00. (M)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Mooney JA, Rose J. A scoping review of neuromuscular electrical stimulation to improve gait in cerebral palsy: The arc of progress and future strategies. Front Neurol . 2019;10:887. doi:https://doi.org/10.3389/fneur.2019.00887. (SR)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Sahinoglu D, Coskun G, Bek N. Effects of different seating equipment on postural control and upper extremity function in children with cerebral palsy. Prosthet Orthot Int . 2017;41(4):85-94.  doi:https://doi.org/10.1177/0309364616637490. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Angsupaisal M, Maathuis CGB, Hadders-Algra  M. Adaptive seating systems in children with severe cerebral palsy across International Classification of Functioning, Disability and Health for Children and Youth version domains: a systematic review. Dev Med Child Neurol . 2015;57(10):919-931.  doi:https://doi.org/10.1111/dmcn.12762. (SR)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Home modifications. My Child at Cerebral Palsy Web site. http://www.cerebralpalsy.org/resources/government-resources/housing/home-modifications . Accessed February 21,"
+        },
+        {
+            "number in article": 2017,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Stavness C. The effect of positioning for children with cerebral palsy on upper-extremity  function: a review of the evidence. Phys Occup Ther Pediatr . 2006;26(3):39-53.  (SR)"
+        },
+        {
+            "number in article": 51,
+            "reference": "L\u00f6wing K, Bexelius A, Brogren Carlberg E. Activity focused and goal directed therapy for children with cerebral palsy - do goals make a difference?. Disabil Rehabil . 2009;31(22):1808-1816.  (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Ishikawa S, Kang M, Bjornson KF, Song K. Reliably measuring ambulatory activity levels of children and adolescents with cerebral palsy. Arch Phys Med Rehabil . 2013;94(1):132-137.  doi:10.1016/j.apmr.2012.07.027. (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Mutoh T, Tsubone H, Takada M, et al. Impact of long-term  hippotherapy on the walking ability of children with cerebral palsy and quality of life of their caregivers. Front Neurol . 2019;10:834. doi:https://doi.org/10.3389/fneur.2019.00834. (R)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Ramstad K, Jahnsen R, Skjeldal OH, Diseth TH. Mental health, health related quality of life and recurrent musculoskeletal pain in children with cerebral palsy 8-18 years old. Disabil Rehabil . 2012;34(19):1589-1595.  doi:10.3109/09638288.2012.656794. (R)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Chen CL, Kang LJ, Hong WH, Chen FC, Chen HC, Wu CY. Effect of therapist-based  constraint-inducted  therapy at home on motor control, motor performance and daily function in children with cerebral palsy: a randomized controlled study. Clin Rehabil . 2013;27(3):236-245.  doi:10.1177/0269215512455652. (RCT)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Pickering DM, Horrocks L, Visser K, Todd G. Adapted bikes: what children and young people with cerebral palsy told us about their participation in adapted dynamic cycling. Disabil Rehabil Assist Technol . 2013;8(1):30-37.  doi:10.3109/17483107.2012.680942. (R)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Guerette P, Furumasu J, Tefft D. The positive effects of early powered mobility on children\u2019s psychosocial and play skills. Assist Technol . 2013;25(1):39-48.  (R)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Katusic A, Alimovic S, Mejaski-Bosnjak  V. The effect of vibration therapy on spasticity and motor function in children with cerebral palsy: a randomized controlled trial. NeuroRehabilitation . 2013;32(1):1-8.  doi:10.3233/NRE-130817.  (RCT)"
+        },
+        {
+            "number in article": 59,
+            "reference": "Kumban W, Amatachaya S, Emasithi A, Siritaratiwat W. Five-times-sit-to-stand  test in children with cerebral palsy: reliability and concurrent validity. NeuroRehabilitation . 2013;32(1):9-15.  doi:10.3233/NRE-130818.  (R)"
+        },
+        {
+            "number in article": 60,
+            "reference": "Williams SA, Elliott C, Valentine J, Gubbay A, Shipman P, Reid S. Combining strength training and botulinum neurotoxin intervention in children with cerebral palsy: the impact on muscle morphology and strength. Disabil Rehabil . 2013;35(7):596-605.  doi:10.3109/09638288.2012.711898. (R)"
+        },
+        {
+            "number in article": 61,
+            "reference": "Yu J, Kang H, Jung J. Effects of modified constraint-induced  movement therapy on hand dexterity, grip strength and activities of daily living of children with cerebral palsy: a randomized control trial. J Phys Ther Sci . 2012;24(10):1029-1031.  (RCT)"
+        },
+        {
+            "number in article": 62,
+            "reference": "Unger M, Jelsma J, Stark C. Effect of a trunk-targeted  intervention using vibration on posture and gait in children with spastic type cerebral palsy: A randomized control trial. Dev Neurorehabil . 2013;16(2):79-88.  doi:10.3109/17518423.2012.715313.   (RCT)"
+        },
+        {
+            "number in article": 63,
+            "reference": "Morgan P, McGinley J. Performance of adults with cerebral palsy related to falls, balance and function: a preliminary report. Dev Neurorehabil . 2013;16(2):113-120. doi:10.3109/17518423.2012.725107.   (R)"
+        },
+        {
+            "number in article": 64,
+            "reference": "Dong VA, Tung IH, Siu HW, Fong KN. Studies comparing the efficacy of constraint-induced  movement therapy and bimanual training in children with unilateral cerebral palsy: a systematic review. Dev Neurorehabil . 2013;16(2):133-143.  doi:10.3109/17518423.2012.702136. (SR)"
+        },
+        {
+            "number in article": 65,
+            "reference": "Balemans AC, Van ely L, De Heer SJ, et al. Maximal aerobic and anaerobic exercise responses in children with cerebral palsy. Med Sci Sports Exerc . 2013;45(3):561-568. doi:10.1249/MSS.0b013e3182732b2f. (R)"
+        },
+        {
+            "number in article": 66,
+            "reference": "Chin EM, Gwynn HE, Robinson S, Hoon AH, Jr. Principles of medical and surgical treatment of cerebral palsy. Neurol Clin . 2020;38(2):397-416.  doi:https://doi.org/10.1016/ j.ncl.2020.01.009. (R)"
+        },
+        {
+            "number in article": 67,
+            "reference": "Kim HK, Shin HK. The effects of water-based  exercise on postural control in children with spastic cerebral palsy. Phys Ther Rehabil Sci . 2017;6(2):77-82.  doi:https:// doi.org/10.14474/ptrs.2017.6.2.77. (R)"
+        },
+        {
+            "number in article": 68,
+            "reference": "Carlon SL, Taylor NF, Dodd KJ, Shields N. Differences in habitual physical activity levels of young people with cerebral palsy and their typically developing peers: a systematic review. Disabil Rehabil . 2013;358(8):647-655.  doi:10.3109/09638288.2012.715721. (SR)"
+        },
+        {
+            "number in article": 69,
+            "reference": "Wu WC, Hung JW, Tseng CY, Huang YC. Group constraint-induced  movement therapy for children with hemiplegic cerebral palsy: a pilot study. Am J Occup Ther . 2013;67(2):201-208.  doi:10.5014/ajot.2013.004374. (R)"
+        },
+        {
+            "number in article": 70,
+            "reference": "Grecco LA, Tomita SM, Christov\u00e3o TC, Pasini H, Sampaio LM, Oliveira CS. Effect of treadmill gait training on static and functional balance in children with cerebral palsy: a randomized controlled trial. Braz J Phys Ther . 2013;17(1):17-23.  (RCT)"
+        },
+        {
+            "number in article": 71,
+            "reference": "Morgan P, McGinley J. Performance of adults with cerebral palsy related to falls, balance and function: a preliminary report. Dev Neurorehabil . 2013;16(2):113-120. doi:10.3109/17518423.2012.725107. (R)"
+        },
+        {
+            "number in article": 72,
+            "reference": "Aydin R, Nur H. Family-centered  approach in the management of children with cerebral palsy. Turkish J Phys Med Rehabil . 2012;58(3):229-235.  (RV)"
+        },
+        {
+            "number in article": 73,
+            "reference": "Parkinson KN, Dickinson HO, Arnaud C, Lyons A, Colver A; SPARCLE group. Pain in young people aged 13 to 17 years with cerebral palsy: cross-sectional,  multicentre European study. Arch Dis Child . 2013;98(6):434-440.  doi:10.1136/archdischild-2012-303482.  (R)"
+        },
+        {
+            "number in article": 74,
+            "reference": "Best evidence statement (BESt). Strengthening (progressive resistive exercise) for individuals with cerebral palsy age 4-20 years who demonstrate muscle weakness. Cincinnati (OH): Cincinnati Children's Hospital Medical Center. Cincinnati Children's Hospital Medical Center . July 26, 2010;9p. (G)"
+        },
+        {
+            "number in article": 75,
+            "reference": "Verschuren O, Ketelaar M, De Groot J, Vila Nova F, Takken T. Reproducibility of two functional field exercise tests for children with cerebral palsy who self-propel  a manual wheelchair. Dev Med Child Neurol . 2013;55(2):185-190.  doi:10.1111/dmcn.12052. (R)"
+        },
+        {
+            "number in article": 76,
+            "reference": "Fowler EG, Staudt LA, Greenberg MB, Oppenheim WL. Selective Control Assessment of the Lower Extremity (SCALE): development, validation, and interrater reliability of a clinical tool for patients with cerebral palsy. Dev Med Child Neurol . 2009;51(8):607-614.  doi:10.1111/j.1469-8749.2008.03186.x.  (R)"
+        },
+        {
+            "number in article": 77,
+            "reference": "Ohrvall AM, Krumlinde-Sundholm  L, Eliasson AC. The stability of the Manual Ability Classification System over time. Dev Med Child Neurol . 2014;56(2):185-189.  doi:10.1111/ dmcn.12348. (R)"
+        },
+        {
+            "number in article": 78,
+            "reference": "Alotaibi M, Long T, Kennedy E, Bavishi S. The efficacy of GMFM-88  and GMFM-66  to detect changes in gross motor function in children with cerebral palsy (CP): a literature review. Disability & Rehabil . 2014;36(8):617-627.  doi:10.3109/09638288.2013.805820. (SR)"
+        },
+        {
+            "number in article": 79,
+            "reference": "James S, Ziviani J, Boyd R. A systematic review of activities of daily living measures for children and adolescents with cerebral palsy. Dev Med Child Neurol . 2014;56(3):233-244.  doi:10.1111/dmcn.12226. (SR)"
+        },
+        {
+            "number in article": 80,
+            "reference": "Reid SM, Dagia CD, Ditchfield MR, Carlin JB, Reddihough DS. Population-based  studies of brain imaging patterns in cerebral palsy. Dev Med Child Neurol . 2014;56(3):222-232.  doi:10.1111/dmcn.12228. (RV)"
+        },
+        {
+            "number in article": 81,
+            "reference": "El-Shamy  SM, Abd El Kafy EM. Effect of balance training on postural balance control and risk of fall in children with diplegic cerebral palsy. Disability & Rehabil . 2014;36(14):1176-1183.  doi:10.3109/09638288.2013.833312. (RCT)"
+        },
+        {
+            "number in article": 82,
+            "reference": "Banas BB, Gorgon EJR. Clinimetric properties of sitting balance measures for children with cerebral palsy: a systematic review. Phys Occup Ther Pediatr . 2014;34(4):313-334. doi:10.3109/01942638.2014.881952. (SR)"
+        },
+        {
+            "number in article": 83,
+            "reference": "El-Shamy  SM. Effect of whole-body  vibration on muscle strength and balance in diplegic cerebral palsy. Am J Phys Med Rehabil . 2014;93(2):114-121.  doi:10.1097/ PHM.0b013e3182a541a4. (RCT)"
+        },
+        {
+            "number in article": 84,
+            "reference": "Cockerill H, Elbourne D, Allen E, et al. Speech, communication and use of augmentative communication in young people with cerebral palsy: the SH&PE population study. Child Care Health Dev . March 2014;40(2):149-157.  doi:10.1111/cch.12066. (R)"
+        },
+        {
+            "number in article": 85,
+            "reference": "Majnemer A, Shikako-Thomas  K, Lach L, Shevell M, Law M, Poulin C. Rehabilitation service utilization in children and youth with cerebral palsy. Child Care Health Dev . 2014;40(2):275-282.  doi:10.1111/cch.12026. (R)"
+        },
+        {
+            "number in article": 86,
+            "reference": "Tedla JS. Strength training effects on balance in spastic diplegia subjects: a randomized controlled trial. J Pediatric Neuro . 2014;12(1):15-28.  doi:10.3233/JPN-140634.  (RCT)"
+        },
+        {
+            "number in article": 87,
+            "reference": "Ferluga ED, Sathe NA, Krishnaswami S, Mcpheeters ML. Surgical intervention for feeding and nutrition difficulties in cerebral palsy: a systematic review. Dev Med Child Neurol . 2014;56(1):31-43.  doi:10.1111/dmcn.12170. (SR)"
+        },
+        {
+            "number in article": 88,
+            "reference": "Smith KJ, Peterson MD, O'Connell NE, et al. Risk of depression and anxiety in adults with cerebral palsy. JAMA Neurol . 2019;76(3):294-300.  doi:https://doi.org/10.1001/ jamaneurol.2018.4147. (R)"
+        },
+        {
+            "number in article": 89,
+            "reference": "Chrysagis N, Skordilis EK, Koutsouki D. Validity and clinical utility of functional assessments in children with cerebral palsy. Arch Phys Med Rehabil . 2014;95(2):369-374. doi:10.1016/j.apmr.2013.10.025. (R)"
+        },
+        {
+            "number in article": 90,
+            "reference": "Ellenberg JH, Nelson KB. The association of cerebral palsy with birth asphyxia: a definitional quagmire. Dev Med Child Neurol . March 2013;55(3):210-6.  doi:10.1111/ dmcn.12016. (SR)"
+        },
+        {
+            "number in article": 91,
+            "reference": "Kwon JY, Chang HJ, Yi SH, Shin HY, Kim YH. Effect of hippotherapy on gross motor function in children with cerebral palsy: a randomized controlled trial. J Alt Compl Med . 2015;21(1):15-21.  doi:10.1089/acm.2014.0021. (RCT)"
+        },
+        {
+            "number in article": 92,
+            "reference": "Mitchell LE, Ziviani J, Boyd RN. Variability in measuring physical activity in children with cerebral palsy. Med Sci Sports Exercise . 2015;47(1):194-200.  doi:10.1249/ MSS.0000000000000374. (R)"
+        },
+        {
+            "number in article": 93,
+            "reference": "Kwon YH, Lee HY. Differences in respiratory pressure and pulmonary function among children with spastic diplegic and hemiplegic cerebral palsy in comparison with normal controls. J Phys Ther Sci . 2015;27(2):401-403.  doi:10.1589/jpts.27.401. (R)"
+        },
+        {
+            "number in article": 94,
+            "reference": "Mitchell LE, Ziviani J, Boyd RN. Characteristics associated with physical activity among independently ambulant children and adolescents with unilateral cerebral palsy. Dev Med Child Neurol . 2015;57(2):167-174.  doi:10.1111/dmcn.12560. (R)"
+        },
+        {
+            "number in article": 95,
+            "reference": "Bania TA, Taylor NF, Baker RJ, Graham HK, Karimi L, Dodd KJ. Gross motor function is an important predictor of daily physical activity in young people with bilateral spastic cerebral palsy. Dev Med Child Neurol . 2014;56(12):1163-1171.  doi:10.1111/dmcn.12548. (R)"
+        },
+        {
+            "number in article": 96,
+            "reference": "Auld ML, Johnston LM. \u2018Strong and steady\u2019: a community-based  strength and balance exercise group for children with cerebral palsy. Disabil Rehabil . 2014;36(24):2065-2071. doi:10.3109/09638288.2014.891054. (R)"
+        },
+        {
+            "number in article": 97,
+            "reference": "Schroeder AS, Von Kries R, Riedel C, et al. Patient-specific  determinants of responsiveness to robot-enhanced  treadmill therapy in children and adolescents with cerebral palsy. Dev Med Child Neurol . 2014;56(12):1172-1179.  doi:10.1111/dmcn.12564. (R)"
+        },
+        {
+            "number in article": 98,
+            "reference": "Wingstrand M, Hagglund G, Rodgy-Bousquet  E. Ankle-foot  orthoses in children with cerebral palsy: a cross sectional population-based  study of 2200 children. BMC Musculoskelet Disord . 2014;15:327. doi:https://doi.org/10.1186/1471-2474-15-327.  (G)"
+        },
+        {
+            "number in article": 99,
+            "reference": "Gelkop N, Burshtein DG, Lahav A, et al. Efficacy of constraint-induced  movement therapy and bimanual training in children with hemiplegic cerebral palsy in an educational setting. Phys Occup Ther Peds . 2015;35(1):24-39.  doi:10.3109/01942638.2014.925027. (R)"
+        },
+        {
+            "number in article": 100,
+            "reference": "Ryan JM, Crowley VE, Hensey O, Broderick JM, McGaney A, Gormley J. Habitual physical activity and cardiometabolic risk factors in adults with cerebral palsy. Res Dev Disabil. 2014;35(9):1995-2002.  doi:10.1016/j.ridd.2014.03.051. (R)"
+        },
+        {
+            "number in article": 101,
+            "reference": "Slaman J, Roebroek M, Dallmijer A, Twisk J, Stam H, Van Den Berg-Emons  R. Can a lifestyle intervention programme improve physical activity behavior among adolescents and young adults with spastic cerebral palsy? A randomized controlled trial. Dev Med Child Neurol . 2015;57(2):159-166.  doi:10.1111/dmcn.12602. (RCT)"
+        },
+        {
+            "number in article": 102,
+            "reference": "Jeevanantham D, Dyszuk E, Bartlett D. The Manual Ability Classification System: A scoping review. Pediatr Phys Ther . 2015;27(3):236-241.  doi:10.1097/ PEP.0000000000000151. (SR)"
+        },
+        {
+            "number in article": 103,
+            "reference": "Lee BH. Clinical usefulness of Adeli suit therapy for improving gait function in children with spastic cerebral palsy: a case study. J Phys Ther Sci . 2016;28(6):1949-1952.  (C)"
+        },
+        {
+            "number in article": 104,
+            "reference": "Lee WC, Reyes-Fernandez  MC, Posada-Gomez  R, Juarez-Martinez  U, Martinez-Slbaja  A, Alor-Hernandez  G. Using health games for rehabilitation of patients with infantile cerebral palsy. J Phys Ther Sci . 2016;28(8):2293-2298.  (R)"
+        },
+        {
+            "number in article": 105,
+            "reference": "Ko MS, Sim YJ, Kim DH, Jeon HS. Effects of three weeks of whole-body  vibration training on joint-position  sense, balance, and gait in children with cerebral palsy: a randomized controlled study. Physiother Can . 2016;68(2):99-105.  (RCT)"
+        },
+        {
+            "number in article": 106,
+            "reference": "Malek S, Reinhold EJ, Pearce GS. The Beighton Score as a measure of generalized joint hypermobility. Rheumatol Int . 41(10):1707-1726.  https://www.ncbi.nlm.nih.gov/pmc/ articles/PMC8390395/ . (SR)"
+        },
+        {
+            "number in article": 107,
+            "reference": "Government resources. My Child at CerebralPalsy.org Web site. http://www.cerebralpalsy.org/resources/government-resources . Accessed February 21, 2017. (GI)"
+        },
+        {
+            "number in article": 108,
+            "reference": "American Academy for Cerebral Palsy and Developmental Medicine (AACPDM). Osteoporosis in cerebral palsy. https://www.aacpdm.org/publications/care-pathways/osteoporosis-in-cerebral-palsy . Published 2016. (G)"
+        },
+        {
+            "number in article": 109,
+            "reference": "Blair E, Langdon K, McIntyre S, Lawerence D, Watson L. Survival and mortality in cerebral palsy: observations to the sixth decade from a data linkage study of a total population register and National Death Index. BMC Neurol . 2019;19(1):11. doi:https://doi.org/10.1186/s12883-019-1343-1.  (R)"
+        },
+        {
+            "number in article": 110,
+            "reference": "Collado-Garrido  L, Paras-Bravo  P, Calvo-Martin  P, Santibanez-Marguello  M. Impact of resistance therapy on motor function in children with cerebral palsy: a systematic review and meta-analysis.  Int J Environ Res Public Health . 2019;16(22):4513. doi:https://doi.org/10.3390/ijerph16224513. (SR)"
+        },
+        {
+            "number in article": 111,
+            "reference": "Cho H-J, Lee B-H. Effect of functional progressive resistance exercise on lower extremity structure, muscle tone, dynamic balance and functional ability in children with spastic cerebral palsy. Children. 2020;7(8):85. doi:https://doi.org/10.3390/children7080085. (R)"
+        },
+        {
+            "number in article": 112,
+            "reference": "Merino-Andr\u00e9s  J, Garc\u00eda de Mateos-L\u00f3pez  A, Damiano DL, S\u00e1nchez-Sierra  A. Effect of muscle strength training in children and adolescents with spastic cerebral palsy: A systematic review and meta-analysis.  Clin Rehabil . 2022;36(1):4-14.  doi:https://doi.org/10.1177/02692155211040199. (SR)"
+        }
+    ]
+}

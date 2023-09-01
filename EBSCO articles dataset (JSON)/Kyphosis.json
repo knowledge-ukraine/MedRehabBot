@@ -1,0 +1,464 @@
+{
+    "metadata": {
+        "title": "Kyphosis",
+        "synonyms": [
+            "postural kyphosis",
+            "hunchback",
+            "humpback",
+            "roundback",
+            "dowager\u2019s hump",
+            " scheuermann\u2019s disease (adolescent kyphosis)",
+            "curvature of the spine",
+            "gibbus deformity",
+            " dorsum rotundum",
+            "hyperkyphosis",
+            "roundback of the spine",
+            "age-related  hyperkyphosis"
+        ],
+        "anatomical location body part affected": [
+            "Primarily the thoracic spine; might also indirectly affect the cervical and lumbar spine, as well as the shoulder and hip joints"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "pediatric rehabilitation",
+            "geriatric rehabilitation",
+            "women\u2019s health"
+        ],
+        "description": [
+            "Kyphosis is a sagittal deviation in spinal alignment, or backward curve of the spine",
+            "The normal sagittal spinal curve is kyphotic in the thoracic spine: the normal range is 20\u201350  degrees of curvature between T3 and T12 using the Cobb technique(3)",
+            "The term kyphosis, when indicating a condition, refers to excessive anterior concavity of the thoracic spine (> 50\u00b0).(3,10) The terms kyphotic deformity, hyperkyphosis, and excessive thoracic kyphosis (ETK) are often used to specify a kyphosis that is excessive in order to differentiate it from normal kyphosis(3) \u2013For purposes of this Clinical Review, the term kyphosis refers to a backward curve exceeding normal values",
+            "Kyphosis is called flexible or postural if the patient can correct voluntarily. If full correction cannot be achieved, it is called fixed or structural(3) \u2013Postural or flexible kyphosis is typically a cosmetic concern, although it can be associated with back pain, and rarely requires bracing or surgery(3)",
+            "Kyphosis affects an estimated 20\u201340%  of older adults and can impair pulmonary function and ADLs, as well as reduce quality of life and predict mortality independent of underlying spinal osteoporosis(10)",
+            "Women with kyphosis have a slower gait, impaired balance, and increased postural sway, which can all lead to an increased risk for falls and fractures, and reduced quality of life(10,16)",
+            "Kyphosis is associated with impaired lower extremity function in older men(14)",
+            "The etiology of age-related  kyphotic posture is complex because many factors contribute to degenerative changes in the spine(10)",
+            "In pediatric patients, kyphosis typically is congenital or caused by Scheuermann\u2019s disease (which are both structural), but can be postural (flexible) as well(3,31)",
+            "Muscles that tend to be short and tight in patients with kyphosis are the sternocleidomastoid, upper trapezius, suboccipitals, levatorscapulae, scalenes, pectoralis major and minor, subclavius, serratus anterior, and anterior intercostals(15)",
+            "Muscles that tend to be weak, lengthened, and inhibited in patients with kyphosis are the rhomboids, middle trapezius, thoracic erector spinae, suprahyoids, longuscapitis, and longuscolli(15)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M40.00": "postural kyphosis, site unspecified",
+            "M40.03": "postural kyphosis, cervicothoracic region",
+            "M40.04": "postural kyphosis, thoracic region",
+            "M40.05": "postural kyphosis, thoracolumbar region",
+            "M40.10": "other secondary kyphosis, site unspecified",
+            "M40.12": "other secondary kyphosis, cervical region",
+            "M40.13": "other secondary kyphosis, cervicothoracic region",
+            "M40.14": "other secondary kyphosis, thoracic region",
+            "M40.15other": "secondary kyphosis, thoracolumbar region",
+            "M40.202": "unspecified kyphosis, cervical region",
+            "M40.203": "unspecified kyphosis, cervicothoracic region",
+            "M40.204": "unspecified kyphosis, thoracic region",
+            "M40.205": "unspecified kyphosis, thoracolumbar region",
+            "M40.209": "unspecified kyphosis, site unspecified",
+            "M40.292": "other kyphosis, cervical region",
+            "M40.293": "other kyphosis, cervicothoracic region",
+            "M40.294": "other kyphosis, thoracic region",
+            "M40.295": "other kyphosis, thoracolumbar region",
+            "M40.299": "other kyphosis, site unspecified",
+            "R29.3": "abnormal posture (ICD codes are provided for the reader\u2019s reference only, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy depends on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Patients are sometimes asymptomatic. The severity of the kyphosis determines the severity of symptoms and postural changes",
+            "Postural deviations",
+            "Pain \u2013Can be located in the lumbar, thoracic, or cervical regions but typically reported at the level of the apex of the kyphotic curve(1) \u2013Shoulder pain(8)",
+            "Stiffness(12)",
+            "Impaired balance(1)",
+            "Impaired functional mobility(1) \u2013Decreased gait speed, decreased safety, poor ability to turn 360\u00b0(1) \u2013Difficulty with stair negotiation \u2013Increased postural sway(10)",
+            "Impaired respiratory function(8) and reduced endurance and/or fatigue(12)",
+            "Neurological symptoms(3)",
+            "Headaches(8)",
+            "Skin breakdown at apex of the curve(11) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Scheuermann\u2019s disease(3,31)\u2013The most common form of structural kyphosis; patients usually present during their adolescent growth spurt\u2013Defined by wedging (> 5\u00b0) of 3 or more consecutive vertebral bodies at the apex of the deformity\u2013Etiology is likely multifactorial; possibly due to an underlying genetic or metabolic problem, and influenced by repetitivemechanical stress\u2013Typically present with apex in lower thoracic spine, sharper curve at the apex, low back pain, and inability to correct thedeformity\u2013Neurological symptoms are rare and usually due to a thoracic disk herniation",
+            "Congenital kyphosis(3)\u2013Results from a failure of formation or failure of segmentation\u2013Type I: anterior failure of formation; there is an absence of a vital portion of the vertebrae-If untreated, results in neurological dysfunction due to compression of the spinal cord at the apex\u2013Type II: anterior failure of segmentation with fusion of the involved vertebrae-Progression is slower and more variable and neurological dysfunction is less likely",
+            "Postural kyphosis: can result from faulty posture and slouching, which leads to atypical lengthening of the spinal ligaments.This sometimes leads to abnormal formation of the vertebrae in adolescents(2,10)",
+            "Osteoporosis/degenerative changes: Thoracic kyphosis can develop as a result of aging and decreased bone integrity inolder adults, mostly women. Contributing factors may include vertebral fractures, degenerative disc disease, decreasingheight after age 25, and spinal extensor muscle weakness(33)",
+            "Neuromuscular disease: cerebral palsy, Parkinson\u2019s disease, and muscular dystrophy(8)",
+            "Cancer-related:  radiation therapy, tumors, and neoplastic conditions (e.g., eosinophilic granuloma, leukemia)(3)",
+            "Injury/trauma (e.g., fracture)(3,11)\u2013Occurs when more focal height is lost in the anterior aspect than the posterior aspect(11)",
+            "Infection(3,11)\u2013Mechanical integrity of the anterior column is lost due to the infectious process(11)",
+            "Other orthopedic causes: postsurgical compensation (e.g., following laminectomy),(3) fractures, ankylosing spondylitis,(11)decreased spinal extension mobility, dehydration of the intervertebral disks, reduced back extensor muscle strength,(10)andspondylosis(12)",
+            "Other conditions: spinal tuberculosis (TB),(12) vitamin D deficiency,(8)Marfan syndrome,(3) bone dysplasia,(3)spinabifida,(12) Paget\u2019s disease,(12)and neurofibromatosis(12)"
+        ],
+        "pathogenesis": [
+            "The development of the thoracic kyphosis varies depending on the cause of the deformity. Once the deformity begins,however, there is similar development of secondary muscular and postural problems regardless of the underlying cause\u2013Cervical and lumbar hyperlordosis sometimes occur as compensation for the kyphosis. The cervical hyperlordosis resultsin a forward head posturing. In more severe cases, often those resulting from osteoporosis, the head might need to bepositioned into severe capital and cervical extension for the patient to look ahead of himself or herself for gait and otheractivities. This compensatory posturing results in a tightening of posterior neck musculature, thereby limiting overallcervical flexion\u2013The anterior muscles of the chest, including the pectoralis minor and major, become tightened, and the shoulders becomerounded and internally rotated\u2013The musculature of the upper back becomes stretched and weakened, contributing to abducted scapulae, roundedshoulders, and slouched posturing\u2013The hip flexors (iliopsoas) might become tightened and shortened, resulting in hip flexion contracture, further reducingthe patient\u2019s ability to stand upright\u2013In cases in which severe kyphotic deformity exists, patients sometimes experience difficulty breathing due to a structuralrestriction of the lungs or breathe inefficiently, relying on accessory muscles"
+        ],
+        "risk factors": [
+            "The risk of kyphotic deformity increases with the following:\u2013Age(8)-Older adults are at the greatest risk for developing kyphosis(8)-In a study of 280 patients ranging from 18 to > 65 years, two thirds of the women and one half of the men > 65 yearshad a thoracic kyphosis angle (TKA) > 40\u00b0(8)\u2013Sex: females are at a greater risk than males-The rate of increase in kyphosis with age is greater in females than males, with the rate increasing in postmenopausalwomen(8)-Adolescent females and female older adults are at the greatest risk for developing kyphosis(8)\u2013Orthopedic conditions-Osteoporosis-Spinal fracture-Poor posture-Ankylosing spondylitis-Postsurgical kyphotic progression especially in cases of skeletally immature patients or suboptimal surgical stabilization\u2013Congenital conditions-Marfan syndrome-Hurler syndrome-Ehlers-Danlos  syndrome-Achondroplasia\u2013Cancer-Spinal tumor-Radiation therapy-Myelodysplasia\u2013Family history\u2013Body composition-In a United States study, 475 men (mean age of 74 years) were randomly selected from the Osteoporotic Fracturesin Men study to determine if poor paraspinal muscle composition contributes to increased kyphosis in men. Resultsindicate that among men with a BMI < 30kg/m2 and no prevalent vertebral fractures, the group with the lowestparaspinal muscle volume had increased kyphosis compared with the group with the highest paraspinal musclevolume(7)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients with severe kyphotic deformity can have notable balance deficits and impaired gait. These patients should be assessed for safety, fall risk, and the need for assistive devices",
+        "Patients with kyphotic deformity are at an increased risk for compression fracture or other fracture of the spine and should be referred back to the physician if fracture is suspected",
+        "Monitor patients for new onset or worsening of numbness and weakness in extremities, worsening of gait and/or balance, and loss of bowel and bladder control. If any of these is present, immediately refer back to physician or emergency services(12)",
+        "Assess and respect the person\u2019s self-reported  pain level during every session",
+        "Obtain specific precautions/contraindications for post-surgical  patients",
+        "Older pediatric patients sometimes have psychosocial issues that need to be addressed due to the effect of kyphosis on their appearance and body image or because they have to wear a brace(12)",
+        "Spinal flexion and joint mobilizations/manipulations are contraindicated in patients with spinal osteoporosis(33) For detailed information on osteoporosis, see the Clinical Review \u2026Osteoporosis; Item number: T709162",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " -When was the condition diagnosed? -How has the curve progressed since onset? -What is the current nature of referral?  -What is the underlying cause of the kyphosis? In adolescents and younger adults, postural deficits are often the reason for the kyphotic deformity. In older adults, osteoporosis, surgery, radiation therapy, or vertebral compression fracture typically contribute",
+                "course of treatment": {
+                    "medical management": "Surgery might be required to stabilize the spine; surgery can also be indicated for cosmetic reasons. Surgical treatment for kyphosis generally is indicated only for large kyphotic curves and/or spinal cord or nerve root impingement. Surgery should be considered only after failure of a trial of conservative treatment Surgical intervention often is required in thoracic kyphotic curves > 80\u00b0 and in thoracolumbar curves > 65\u00b0(1) Surgery is indicated only in symptomatic patients for whom conservative treatment has failed. For these patients, an anterior, posterior, or combined anterior/posterior spinal fusion is performed(1,27) Posterior fixation alone is not always sufficient for long-term  spinal stabilization and can be not as effective in preventing late kyphotic deformity in patients with thoracolumbar fractures. An anterior or combined anteriorposterior  approach is indicated with a TKA > 2530\u00b0  and presence of a pedicle fracture due to the high degree of instability Posterior laminectomy or laminoplasty with instrumented fusion are surgical interventions for treatment of degenerative cervical kyphosis with stenotic myelopathy(13) Researchers in Japan who conducted an RCT found that corrective spinal surgery for kyphosis in postmenopausal women was not as effective as nonoperative treatment for improvement of spinal alignment and quality of life(17) Bracing can be used to reduce pain and limit progression of the curve. Body bracing in a growing child or adolescent who has Scheuermann\u2019s disease may be able to stop the progression of kyphosis. Bracing is not indicated once growth has stopped(2,12)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed. Are they being taken? Are they effective? NSAIDs, analgesics, and muscle relaxants occasionally are used to control symptoms",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Standing posterior-anterior  and lateral X-rays are used to assess for kyphotic deformity. The current gold standard for measuring thoracic kyphosis is a standing lateral radiograph in order to measure the Cobb angle (the degree of curvature)(6)",
+                        "To measure the Cobb angle, draw lines parallel to the superior endplate of the top vertebra of the curve and the inferior endplate of the bottom vertebra of the curve, and then measure the angle between those two lines by drawing lines perpendicular to each parallel line and extending the lines until they intersect",
+                        "Cobb angle measurements help determine the severity of the curve. Presence of other pathologies, including",
+                        "scoliosis, spondylolisthesis, and compression fracture, may also be investigated using Xrays",
+                        "MRI is indicated when the patient is under 10 years of age or there is rapid progression of a curve, abnormal neurological findings, or atypical pain(3)",
+                        "Pulmonary function tests might be indicated if the severity of kyphosis affects the patient\u2019s breathing"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "The patient might report increased pain with prolonged static positioning or other prolonged activities. Identify exacerbating and relieving factors",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Patients typically present with gradual onset of mid-back  pain, achiness, or stiffness that has worsened over time",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much). Use the Oucher Scale for pain assessment in children",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables ",
+                "sleep disturbance": "Document number of wakings/night related to condition. Make note of position patient sleeps in, number of pillows required, and whether wakings are related to position",
+                "other symptoms": "Document other symptoms patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia, hyperreflexia)",
+                "respiratory status": "Is there any known respiratory compromise? Patients with severe kyphosis sometimes present with dyspnea, poor endurance, and fatigue(1) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any history of spinal disease, surgery, infection, tumor, or trauma?",
+                    "comorbid diagnoses": " Comorbid diagnoses Commonly associated conditions include osteoporosis, vertebral fracture, scoliosis, Marfan syndrome, and EhlersDanlos  syndrome History of chronic respiratory conditions such as asthma and COPD is associated with development of rib cage restrictions that can contribute to kyphosis(1,2) Ask patient about other problems, including diabetes, cancer, cardiovascular disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she is experiencing. Spinal stenosis can occur as a complication of kyphosis. Symptoms of resulting neurologic compromise can occur"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Identify leisure/occupational activities that may contribute to the kyphotic deformity, such as prolonged desk/computer work. Examples of leisure activity choices that may require prolonged periods of spinal flexion include bicycling, knitting, and gardening. Does the patient work or go to school? What are the job duties? How does the patient access the community (e.g., driving, public transport, walking)?",
+                "functional limitations assistance with ADLs adaptive equipment": "Is the kyphosis severe enough to limit function or gait? Does the patient report impairment in ADLs? -Restriction with cervical extension and rotation may affect driving. Loss of shoulder ROM can result from restricted scapular excursion over the thorax, which can interfere with overhead ADLs",
+                "living environment": "Inquire about home layout including stairs, number of floors in home, and with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) Complete a general assessment as indicated with a focus on the items listed below",
+            "anthropometric characteristics": "Curvature assessment using Cobb angle requires X-ray  of the spine. Cobb angle, originally used to measure lateral curve in scoliosis, is adapted to classify sagittal curvature in kyphosis(6,26,30) \u2013Clinicians generally measure the sagittal kyphosis angle visually -This method is not known to be reliable or capable of measuring changes over time in response to intervention -Clinical measurement of thoracic kyphosis using gravity-dependent  inclinometers has excellent interrater reliability(30) -Inclinometers were placed on T1/T2 and T12/L1 \u2013Other nonradiological measurements of the thoracic curvature that are found to be reliable and valid include the -Debrunner kyphosis angle \u2013 A two-armed  kyphometer is used with upper arm placed on C7 and lower arm on T12 -Flexicurve kyphosis index \u2013 A flexible device is placed on C7 and molded to the spine in the caudal direction. The apex kyphosis height relative to the length of the entire thoracic spine is calculated -Flexicurve kyphosis angle \u2013 The kyphosis angle is geometrically calculated from a paper tracing of the curve  -Spinal Mouse \u2013 a handheld, computer-assisted  device that measures the kyphotic curve by gliding the device along the spinal curve -In a systematic review of the literature, which included 27 studies, the strongest level of evidence for reliability was for the use of the Debrunner kyphometer, Spinal Mouse, and Flexicurvekyphosis index (ICC 0.7 to 0.9). The Flexicurve kyphosis index has the highest level of validity(6) -In Brazil, authors of a systematic review of 52 articles examined the scientific evidence to validate noninvasive methods of assessing kyphosis in the sagittal plane. Photogrammetry, flexible ruler, archometer, and Debrunner\u2019s kyphometer were instruments found to produce valid results with thoracic kyphosis(26) -Rancho Bernardo Block Method \u2013The  patient lies supine and 1.7 cm blocks are placed under the head until a neutral position (i.e., the patient\u2019s head is neither extended nor flexed and the eyes are directed towards the ceiling) is achieved; the number of blocks is recorded(14) \u2013Document patient\u2019s height and weight \u2013Measure for leg-length  discrepancy",
+            "assistive and adaptive devices": "Assess the need for assistive/adaptive devices. The patient may require a walker if postural deformities are severe enough to impair balance and safety",
+            "balance": "Assess static and dynamic sitting and standing balance. Balance may be assessed using the Berg Balance Scale \u2013The Berg Balance Scale involves the assessment of 14 tasks, with a score of at least 45/56 required for independent ambulation",
+            "cardiorespiratory function and endurance": [
+                "If the kyphosis is severe enough, gait and endurance are limited due to difficulty breathing. Pulmonary compromise secondary to severe kyphosis can occur. Patients with pulmonary compromise sometimes use accessory muscles to assist with breathing as a method of compensation",
+                "Displacement of the center of gravity increases energy costs for standing and walking",
+                "Vital capacity, peak flow, and other expiratory respiratory parameters should be assessed when the kyphosis is greater",
+                "than 4050\u00b0(1)"
+            ],
+            "circulation": "Assess distal pedal pulses. They should be normalNeurological involvement is uncommon, but peripheral nerves should be screened. A neurologic exam should be performed when the patient complains of weakness, sensory changes, or gait abnormalities(1) \u2013Inquire about workstation and home computer/study setup. Recreate setup to identify inappropriate setup that can be modified to be more ergonomically correct. Note should be made of armrest height and lumbar support in chairs used \u2013Assess posture and body mechanics in sitting and with functional and occupational activitiesComplete a mobility assessment as indicated \u2013Can use FIM or WeeFIM for objective measurement \u2013The Timed Up & Go (TUG) test is a test of basic mobility that involves having the patient stand from a chair, walk around an object 8 feet away, and return to the chair. Times of greater than 8.5 seconds indicate an increased risk for falls. Taking more than 12 seconds to perform this test is considered impaired mobility in women aged 65\u201385  years and discriminates between community dwellers and institution dwellers",
+            "functional mobility": "",
+            "gait locomotion": "Assess for gait deviations due to difficulty maintaining upright posture and for impaired balance due to kyphosis \u2013The Dynamic Gait Index (DGI) can be used for objective measure of gait safety \u2013Functional Gait Assessment (FGA)(16) \u2013Decreased gait speed, antalgic gait pattern, and decreased balance are associated with kyphosis(8) -Can assess gait speed with the 10-minute  walk test (10MWT) \u2013Assess for knee position during gait -There is a high prevalence of thoracic kyphosis in combination with knee varus deformity caused by knee osteoarthritis in older adults -It is unclear whether correcting the postural malalignment during walking reduces the knee adduction moment. Researchers in Japan found that a decrease of thoracic kyphosis is related to a decrease of knee adduction moment during gait in a healthy population and suggested that inducing a decrease of thoracic kyphosis would be beneficial for patients with knee varus deformity moment(18) Assess vertebral and bilateral shoulder joint mobility, noting hypo and hypermobility segments. Use the Paris Stoddard Scale for joint mobility. Joint mobility should not be assessed if the patient has a positive history of osteopenia or osteoporosis(33)Vertebral mobility and joint alignment are abnormal, and the kyphotic deformity usually is fixed in the thoracic or thoracolumbar spine",
+            "muscle strength": "Assess bilateral upper and lower extremity and trunk strength using manual muscle testing (MMT) with a focus on proximal muscle groups and the trunk \u2013Can use functional strength testing as well, such as repeated chair stands (assess ability and time)(14)",
+            "observation inspection palpation including skin assessment": [
+                "Inspect skin for breakdown over apex of curve(11) \u2022Palpation:  Assess scapular and paraspinal musculature for atrophy and any discomfort, pain, or trigger points upon palpation of the vertebrae and paraspinal musculature. Increased pain may be present at the apex(1)"
+            ],
+            "posture": "Identify the location of the kyphotic deformity. Measure the severity of the curve using a kyphometer or flexometer (e.g., Flexicurve, Spinal Mouse) \u2013Assess for coexisting scoliosis using Adam\u2019s forward bending test. (Patient bends at waist, arms toward floor. Examiner stands behind patient and looks for elevated and rotated segments) \u2013Observe for any other postural deficiencies that have developed secondary to the kyphosis, including cervical and lumbar hyperlordosis, anteversion/retroversion of the pelvis, abdominal prominence, forward head posture, hip flexion contracture, scoliosis, and rounded (internally rotated) shoulders \u2013Assess alignment of the cervical spine. Cervical sagittal malalignment is common and can increase postoperatively(19) \u2013Assess for patient\u2019s ability to correct deformity with thoracic hyperextension. Postural kyphotic curve can improve but true kyphosis does not \u2013New York Posture Rating chart can be used for objective measurementDetermine ROM and flexibility of the spine and the upper and lower extremities. There may be decreased hip extension, trunk extension, and cervical flexion. Shoulder ROM, particularly abduction and flexion, might be affected by restriction of scapular excursion over the thorax",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess deep tendon reflexes for hyperreflexia.(11) They should be normal unless there is underlying neurological impairmentsAssess ADLs as indicated",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special Tests \u2013Neck Disability Index (NDI)(13) \u2013Oswestry Disability Index (ODI) \u2013SF-36(16,17) \u2013Roland-Morris  Disability Questionnaire (RDQ)(17)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria ",
+                "Impaired circulation",
+                "Hypertension - cold can lead to an increase in blood pressure",
+                "Patients commonly have hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement of cold packs over superficial nerves for extended periods (> 1 hour)",
+                "Cold may be counterproductive if being used to facilitate muscle relaxation and reduce pain in patients who do not tolerate the modality",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Malignant tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs",
+                "Stimulation through or across the chest",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Over carotid sinuses",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Over pharyngeal area",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Cancer",
+                "Used in close proximity to diathermy treatment"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls. Follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Modify treatment to avoid increasing pain intensity",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgement in their assessment and treatment decisions",
+                "Cryotherapy  contraindications(4)",
+                "Cryotherapy precautions(4)",
+                "Thermotherapy  contraindications(4)",
+                "Electrotherapy  contraindications/precautions (in some cases, when approved by the treating physician , electrotherapy can be used under some of the circumstances listed below when benefits outweigh the perceived risk)(4)"
+            ]
+        },
+        "diagnosis need for treatment": "Patients with kyphosis present with impaired functional mobility, inefficient gait/gait asymmetry/deceased gait speed, decreased static and dynamic balance, loss of ROM and strength, and back/neck pain. Treatment is generally based on severity of the deformity, the presence of symptoms, and the natural history of the underlying disease process(3)",
+        "rule out": " Rule out Scoliosis Spondylolisthesis Compression fracture Lateral listhesis Deformity secondary to presence of tumor Parkinson\u2019s disease with associated stooping posture Spinal tuberculosis (TB) Rickets Ankylosing spondylitis ",
+        "prognosis": [
+            "Persons with Scheuermann\u2019s disease who exercise with the Schroth therapy method, often used to treat scoliosis, may decrease the thoracic curve angle(31)",
+            "In a case report, a 32-year-old  man with thoracic hyperkyphosis, forward head posture, and headaches for 7 years as the result of a work-related  injury was treated with manipulation, traction, and cervical and thoracic extension exercises in 36 sessions over 13 weeks. Substantial improvements were reported in posture and patient-reported  symptoms(25)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Orthopedic physician if patient is not progressing or if kyphotic deformity is worsening. Bracing or surgery may need to be considered Pain management specialist for intractable pain Respiratory therapist if pulmonary function is compromised by severe kyphosis Occupational therapist for ergonomic assessment and adaptations as indicated Pulmonologist for preoperative assessment in cases of severe deformity",
+        "other considerations": [
+            "Patients with less severe deformities are likely to gain relief from conservative treatment (exercise, conditioning programs, NSAIDs, and muscle relaxants), whereas patients with larger, fixed deformities will likely require surgical intervention",
+            "Surgical interventions can include ostomies and posterior vertebral column resection (PVCR) \u2013PVCR complication rates are as high as 32%, according to a systematic review of 7 studies of 390 patients. Major complications include excessive blood loss, neurological complications, and junctional collapse due to fracture or fixation failure(27) \u2013According to a meta-analysis,  the incidence of the complication proximal junctional kyphosis (PJK) following spinal fusion is 30%.Risk factors for PJK were age at surgery > 55 years, T5-T12  > 40\u00b0 , low bone mineral density, and sagittal vertical axis preoperative to postoperative difference of >5 cm(32)"
+        ],
+        "treatment summary": [
+            "Despite insufficient evidence to recommend any specific therapy program or the use of any specific modality, pain management, strengthening, and stretching are the main recommended physical therapy interventions. A comprehensive trunk/core strengthening program should be utilized with an emphasis on thoracic extension exercises. Stretching of the anterior chest/shoulder, hip flexors, and other tightened muscles is also important in attempts at reducing the deformity. In more severe kyphotic deformities or with older patients, the physical therapy treatment plan may also involve gait and balance training",
+            "Authors of a systematic review published in 2014 found that a scarcity of high-quality  studies prevented them from drawing a definitive conclusion on the effect of exercise on hyperkyphotic posture. A few RCTs that focused on improving back extensor muscle strength showed modest improvement in posture, but some did not, so the authors advised that there is a need for more high-quality  and well-designed  studies(10)",
+            "In a prospective RCT, researchers in Iran found that participation in corrective exercise programs led to a statistically significant reduction in thoracic kyphosis angle, as measured by a Flexicurve ruler, compared with a control group. A comprehensive group that also performed simultaneous correction of the kyphosis during the exercises showed even greater improvement(9) \u2013The treatment intervention lasted 12 weeks; participants were ages 18 to 25 years and had a thoracic hyperkyphosis angle \u2265 42\u00b0 \u2013Three groups of 20 participants each: control, local corrective exercise program (LCEP), and comprehensive corrective exercise program (CCEP) \u2013Exercises included pectoral muscles stretching and thoracic spine extensor muscle strengthening, with an emphasis on improving the endurance of the extensor muscles",
+            "Authors of an RCT conducted in India suggested the importance of performing corrective exercises that promote scapular stability to allow individuals with hyperkyphosis to have improved upright posture in the upper thoracic spine(24) \u2013Thirty subjects were randomized to either the corrective exercise group or conventional therapy for 8weeks \u2013Corrective exercises included scapular stabilization exercises, deep cervical flexor endurance training, pectoralis major and minor stretching, thoracic strengthening exercises, breathing exercises, and postural education \u2013All exercises were performed in 15 repetitions, 3x/day for 45-minute  durations 4 days/week",
+            "Authors of a small study conducted in Iran found that both full-time and part-time  wearing of a Milwaukee brace resulted in correction of hyperkyphosis < 70\u00b0 in teenagers(23) ",
+            "Authors of an RCT conducted in China found significant improvements in postural thoracic kyphosis in teenagers after a corrective functional exercise program(29) \u2013Based on 164 subjects (intervention group n = 81, control group n = 83) with a thoracic kyphosis angle > 40\u00b0 measured with the SpinalMouse \u2013The intervention group received exercises specific to correct postural thoracic kyphosis and the control group received a state-regulated  exercise curriculum \u2013Both groups had significant improvements in pre-test  to post-test  measurements of the postural thoracic angle. The intervention group had approximately 9\u00b0improvement and the control group 5\u00b0",
+            "Researchers in Iran compared the efficacy of a manual therapy program and an exercise program to improve postural hyperkyphosis among young adults in an RCT involving 46 participants(20) \u2013The exercise group focused on stretching and strengthening exercises in 15-minute  sessions over 5 weeks \u2013The manual therapy group received 15 sessions of manual techniques that included massage, mobilization, muscle energy, and myofascial release \u2013Kyphosis angle and back extensor muscle strength were measured \u2013After treatment, the angle of thoracic kyphosis was reduced and back extensor muscle strength was greater in both groups, indicating that manual therapy was as effective as exercise therapy",
+            "The effect of joint mobilization and stretching of the thoracic cage for very severe COPD was reported in a case study of a 73-year-old woman with thoracic kyphosis conducted in South Korea(21) \u2013The program consisted of 30-minute  sessions 3 times per week for 8 weeks \u2013Outcomes measured included respiratory function, spinal curve, and thoracic and lumbar spinal movement \u2013No noticeable changes in respiratory function were observed; however, there were positive changes that included decreased thoracic kyphosis curve, increased lumbar lordosis curve, and increased spinal movement",
+            "Authors of an RCT in the United States found no sex differences in response to kyphosis-specific  exercise intervention in older adults(28) \u2013101 participants, \u226560 years with kyphosis \u2265 40\u00b0Cobb angle \u201360 women and 41 men were randomized into 3-month  exercise group and a waitlist control group \u2013Primary outcome Cobb angle showed no statistically significant differences in groups after 3 months. The kyphometer-measured  difference favored the exercise group by 4.8\u00b0",
+            "In response to the identified need for adequately designed RCTs examining the effect of exercise on hyperkyphosis, the effectiveness of targeted multimodal spine-strengthening  exercise for treatment of older, community-dwelling  men and women with hyperkyphosis is being investigated in an RCT in the United States(22) \u2013One hundred men and women with thoracic kyphosis \u2265 40\u00b0 are randomized to no-exercise  intervention or to spine-strengthening  exercise intervention that includes exercise and postural training delivered by a physical therapist in a group of 10 participants, 3 times a week for 6 months \u2013The goal is to provide clinicians with evidence of the efficacy of a spinal exercise program on hyperkyphosis and physical function and represents a paradigm shift in focus from use of lower extremity strengthening exercises to improve physical function in older adults . Problem Goal Intervention Expected Progression Home Program  Excessive kyphosis Decrease severity of kyphotic curveManual therapy _ Manual therapy to address tightened muscles through stretching, facilitating thoracic extension, and assisting patient in achieving upright posture. Massage to help mobilize tissue and lengthen tightened musculature. Joint mobilizations to help improve thoracic spine extension _ _ Therapeutic exercises Pectoral muscle stretching; thoracic spine extensor muscle strengthening and endurance training(14) _"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased severity of kyphotic curve": [
+            "Measurement of the kyphotic curve using a kyphometer or Flexicurve"
+        ],
+        "reduced pain and tenderness in the region of the kyphotic curve": [
+            "Pain scale (V AS)"
+        ],
+        "corrected faulty posture, reduced eliminated secondary postural deficits and increased length of shortened muscles": [
+            "Posture assessment",
+            "New York Posture Rating chart"
+        ],
+        "increased strength of weakened muscles": [
+            "MMT",
+            "Functional strength testing"
+        ],
+        "improved balance": [
+            "Berg Balance Scale"
+        ],
+        "improved gait": [
+            "DGI",
+            "FGA",
+            "10MWT"
+        ],
+        "improved endurance": [
+            "6MWT"
+        ],
+        "improved functional mobility": [
+            "FIM",
+            "TUG"
+        ],
+        "improved flexibility rom": [
+            "Goniometry/flexibility reassessment"
+        ],
+        "improved quality of life, functional capacity": [
+            "NDI",
+            "ODI",
+            "SF-36",
+            "RDQ"
+        ]
+    },
+    "maintenance or prevention": [
+        "Patients with kyphosis should be instructed in a comprehensive strengthening and stretching program, with emphasis on thoracic extension stretching/strengthening. Postural education and proper ergonomic workstations at work/home are also helpful in preventing progression or return of kyphotic deformity",
+        "Prevention of poor standing and sitting habits in adolescence might help prevent development of postural kyphosis"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Negrini S, Di Felice F, Donzelli S, Zaina F. Scoliosis and kyphosis. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculosketal Disorders, Pain and Rehabilitation . 4th ed. Philadelphia, PA: Saunders/Elsevier; 2019:882-889.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Mayo Clinic Staff. Kyphosis. MayoClinic website Web site. https://www.mayoclinic.org/diseases-conditions/kyphosis/symptoms-causes/syc-20374205 . Accessed September 18,"
+        },
+        {
+            "number in article": 2019,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Mistovich RJ, Spiegel DA. Kyphosis (round-back).  In: Kliegman RM, Stanton BF, St Geme JW III, Schor NR, Behrman RE, eds. Nelson Textbook of Pediatrics . 20th ed. Philadelphia, PA: Elsevier Saunders; 2016:3291-3292.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: F. A. Davis; 2016:42-44,  322-323. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Barr KP, Concannon LG, Harrast MA. Low back pain. In: Cifu DX, ed. Braddom\u2019s Physical Medicine and Rehabilitation . 5th ed. Philadelphia, PA: Elsevier Saunders; 2016:711-746.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Barrett E, McCreesh K, Lewis J. Reliability and validity of non-radiographic  methods of thoracic kyphosis measurement: a systematic review. Man Ther . 2014;19(1):10-17. doi:10.1016/j.math.2013.09.003. (SR)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Katzman WB, Miller-Martinez  D, Marshall LM. Kyphosis and paraspinal muscle composition in older men: a cross-sectional  study for the Osteoporotic Fractures in Men (MrOS) research group. BMC Musculoskelet Disord . 2014;15(1):19-19.  doi:10.1186/1471-2474-15-19.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Stetts DM, Carpenter JG. Evidence-based  physical therapy practice for thoracic spinal pain. In: Steets DM, ed. Physical Therapy Management of Patients with Spinal Pain . 4th ed. Philadelphia, PA: SLACK; 2014:365-367.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Seidi F, Rajabi R, Ebramhimi I, Alizadeh MH, Minoonejad H. The efficiency of corrective exercise interventions on thoracic hyper-kyphosis  angle. J Back Musculoskelet Rehabil . 2014;27(1):7-16.  doi:10.3233/BMR-130411.   (RCT)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Bansal S, Katzman WB, Giangregorio LM. Exercise for improving age-related  hyperkyphotic posture: A systematic review. Arch Phys Med Rehabil . 2014;95(1):129-140. doi:10.1016/j.apmr.2013.06.022. (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Cassidy RC, Shaffer WO. Kyphosis. Medscape website Web site. http://emedicine.medscape.com/article/1264959-overview#showall . Published 2015. Accessed September 18, 2019. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Kyphosis. NHS Website Web site. http://www.nhs.uk/conditions/Kyphosis/Pages/Introduction.aspx . Published September 19, 2015. Accessed September 18, 2019. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Yeh KT, Lee RP, Chen IH, et al. Laminoplasty instead of laminectomy as a decompression method in posterior instrumented fusion for degenerative cervical kyphosis with stenosis. J Orthop Surg Res . 2015;10:138. doi:10.1186/s13018-015-0280-y.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Katzman WB, Harrison SL, Fink HA, et al. Physical function in older men with hyperkyphosis. J Gerontol A Biol Sci Med Sci . 2015;70(5):635-640.  doi:10.1093/gerona/glu213. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Burns D. Using massage to treat thoracic hyperkyphosis in a middle-aged  office worker. J Australian Association Massage Therapists . 2014;12(3):20-23.  (C)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Sangtarash F, Manshadi FD, Sadeghi A. The relationship of thoracic kyphosis to gait performance and quality of life in women with osteoporosis. Osteoporos Int . 2015;26(8):2203-2208.  doi:10.1007/s00198-015-3143-9.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Miyakoshi N, Hongo M, Kobayashi T, Abe T, Abe E, Shimada Y. Improvement of spinal alignment and quality of life after corrective surgery for spinal kyphosis in patients with osteoporosis: A comparative study with non-operated  patients. Osteoporos Int . 2015;26(11):2657-2664.  doi:10.1007/s00198-015-3163-5.  (RCT)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Ota S, Kano R, Fukuta S, Miyai R, Masaoka N, Yoshida A. Does decrease of the thoracic kyphosis influence decrease knee adduction moment during gait? A preliminary study of a healthy population. J Phys Ther Sci . 2015;27:3077-3079.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Oh T, Scheer JK, Eastlack R, et al. Cervical compensatory alignment changes following correction of adult thoracic deformity: a multicenter experience in 57 patients with a 2-year follow-up.  J Neurosurg: Spine . 2015;22(6):658-665.  doi:10.3171/2014.10.SPINE14829. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Kamali F, Shirazi SA, Samaneh E, Mirshami M, Ghanbari A. Comparison of manual therapy and exercise therapy for postural hyperkyphosis: a randomized clinical trial. Physiother Theory Pract . 2016;32(2):92-97.  doi:10.3109/09593985.2015.1110739. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Wang JS. Effect of joint mobilization and stretching on respiratory function and spinal movement in very severe COPD with thoracic kyphosis. J Phys Ther Sci . 2015;27:3329-3331.  (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Katzman WB, Vittinghoff E, Kado DM, et al. Study of Hyperkyphosis, Exercise and Function (SHEAF) Protocol of a randomized controlled trial of multimodal spine-strengthening  exercise in older adults with hyperkyphosis. Phys Ther . 2016;96(3):371-381.  doi:10.2522/ptj.20150171. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Mehdikhani M, Behtash H, Ganjavian MS, Khalaj N. Orthotic treatment of idiopathic hyperkyphosis with Milwaukee brace. J Back Musculoskelet Rehabil . 2016;29(3):515-519. doi:10.3233/BMR-150651.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Senthil P, Sudhakar S, Radhakrishnan R, Jeyakumar S. Efficacy of corrective exercise strategy in subjects with hyperkyphosis. J Back Musculoskelet Rehabil . 2017;30(6):1285-1289.  doi:10.3233/BMR-169668.  (RCT)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Fortner MO, Oakley PA, Harrison DE. Alleviation of chronic spine pain and headaches by reducing forward head posture and thoracic hyperkyphosis: a CBP\u00ae case report. J Phys Ther Sci . 30(8):1117-1123.  doi:10.1589/jpts.30.1117. (C)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Adami Sedrez J, Tarrag\u00f4 Candotti C, Silveira Furlanetto T, Fagundes Loss J. Non-invasive  postural assessment of the spine in the sagittal plane: a systematic review. Rev Motricidade . 2016;12(2):140-154.  doi:10.6063/motricidade.6470. (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Yang C, Zheng Z, Liu H, et al. Posterior vertebral column resection in spinal deformity: a systematic review. Eur Spine J . 2016;25(8):2368-2375. doi:10.1007/s00586-015-3767-7.  (SR)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Katzman WB, Parimi N, Gladin A, et al. Sex differences in response to targeted kyphosis specific exercise and posture training in community-dwelling  older adults: a randomized controlled trial. BMC Musculoskelet Disord . 2017;18:1-11.  doi:10.1186/s12891-017-1862-0.  (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Feng Q, Wang M, Zhang Y, Zhou Y. The effect of a corrective functional exercise program on postural thoracic kyphosis in teenagers: a randomized controlled trial. Clin Rehabil. 2018;32(1):48-56.  doi:10.1177/0269215517714591. (RCT)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Barrett E, Lenehan B, O\u2019Sullivan K, Lewis J, McCreesh K. Validation of the manual inclinometer and flexicurve for the measurement of thoracic kyphosis. Physiother Theory Pract. 2018;34(4):301-308.  doi:10.1080/09593985.2017.1394411. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Bezalel T, Kalichman L. Improvement of clinical and radiographical presentation of Scheuermann disease after Schroth therapy treatment. J Bodywork Movement Ther . 2015;19(2):232-237.  doi:10.1016/j.jbmt.2014.04.008. (C)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Liu F, Wang T, Yang S, Wang H, Yang D, Ding W. Incidence and risk factors for proximal junctional kyphosis: a meta-analysis.  Eur Spine J . 2016;25(8):2376-2383. doi:10.1007/s00586-016-4534-0.  (M)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Sinaki M. Osteporosis. In: Cifu DX, ed. Braddom\u2019s Physical Medicine and Rehabilitation . 5th ed. Philadelphia, PA: Elsevier Saunders; 2016:747-768.  (GI) "
+        }
+    ]
+}

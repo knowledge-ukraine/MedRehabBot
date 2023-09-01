@@ -1,0 +1,578 @@
+{
+    "metadata": {
+        "title": "Rheumatoid Arthritis  Occupational Therapy",
+        "synonyms": [
+            "arthritis, rheumatoid  occupational therapy",
+            "occupational therapy rheumatoid arthritis",
+            "ra: occupational therapy",
+            "inflammatory arthritis: occupation therapy"
+        ],
+        "anatomical location body part affected": [
+            "The diarthrodial joints, including cartilage, joint capsule, synovial membrane, synovial fluid, bursa, tendon, muscle, and bone; rheumatoid arthritis (RA) is a systemic disease that ultimately affects the entire person"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "hand therapy"
+        ],
+        "description": [
+            "RA is a chronic, inflammatory, systemic disease that most prominently affects the diarthrodial joints (freely mobile joints held together by a joint capsule; also called synovial joints).(1,2) In RA, the immune system attacks the body\u2019s own tissues (specifically the synovial membrane, a thin membrane that lines the joints) rather than foreign cells such as bacteria or viruses.(3) This causes synovitis and tenosynovitis, resulting in both joint pain and systemic inflammation.(1,4) Individuals with RA often experience intermittent periods of intense disease activity, referred to as flares, followed by periods of remission with no disease activity or symptoms, and is variable with regard to onset and progression.(1,4) For others the disease is continuously active and gets worse over time.(1) Clinically distinguishing features of RA include morning stiffness that lasts for over 1 hour and the gel phenomenon (stiffness that occurs after long periods of sitting or inactivity)(1,4)",
+            "RA typically involves 3 or more joints, but in 2010 the American College of Rheumatology and the European League Against Rheumatism updated guidelines aimed at identifying RA in patients with synovitis in at least one joint in the absence of an alternative diagnosis to explain the synovitis, and a score of at least 6 (of the possible 10) from 4 domains. These 4 domains include(42) \u2013the number and site(s) of involved joint \u2013serologic abnormalities (presence of rheumatoid factor or anti-citrullinatedpeptide/protein  antibody) \u2013elevations of inflammatory markers (erythrocyte sedimentation rate and/or C-reactive protein [CRP]) \u2013the duration of symptoms",
+            "The 2010 diagnosis criteria allowfor early diagnosis of RA(42)",
+            "RA is a systemic disease and can affect extraarticular body systems such as the heart, pulmonary and GI systems, and skin(1,4)",
+            "The course of RA in any given patient can vary significantly; there are at least three known disease courses: \u2013Monocyclic: having one episode that ends within 2 to 5 years of initial diagnosis with no recurrence; typically, monocyclic cases occur if RA is diagnosed very early in the course of the disease and/or the patient has aggressive treatment(21) \u2013Polycyclic: symptoms and levels of disease activity fluctuate over the course of the patient\u2019s lifetime(21)  \u2013Progressive: the symptoms of RA become increasingly severe, and the course of the disease is unremitting(21)",
+            "For more information on rheumatoid arthritis, see  Clinical Review...Rheumatoid Arthritis;  CINAHL Topic ID Number: T708757 or application of equipment . Desired Outcomes/Outcome Measures"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M05": {
+                "base": "seropositive rheumatoid arthritis",
+                "M05.0": "Felty\u2019s syndrome",
+                "M05.1": "rheumatoid lung disease, such as",
+                "J99.0": " J99.0 rheumatoid lung disease",
+                "M05.2": "rheumatoid vasculitis",
+                "M05.3": "rheumatoid arthritis with involvement of other organs and systems, such as",
+                "G63.6": " G63.6 polyneuropathy in other musculoskeletal disorders",
+                "G73.7": " G73.7 myopathy in other diseases classified elsewhere",
+                "I32.8": " I32.8 pericarditis in other diseases classified elsewhere",
+                "I39": " I39 endocarditis and heart valve disorders in diseases classified elsewhere",
+                "I39.0": " I39.0 mitral valve disorders in diseases classified elsewhere",
+                "I39.1": " I39.1 aortic valve disorders in diseases classified elsewhere",
+                "I39.2": " I39.2 tricuspid valve disorders in diseases classified elsewhere",
+                "I39.3": " I39.3 pulmonary valve disorders in diseases classified elsewhere",
+                "I39.4": " I39.4 multiple valve disorders in diseases classified elsewhere",
+                "I39.8": " I39.8 endocarditis, valve unspecified, in diseases classified elsewhere",
+                "I41.8": " I41.8 myocarditis in other diseases classified elsewhere",
+                "I52.8": " I52.8 other heart disorders in other diseases classified elsewhere"
+            },
+            "M05.8": "other seropositive rheumatoid arthritis",
+            "M05.9": "seropositive rheumatoid arthritis, unspecified",
+            "M06": {
+                "base": "other rheumatoid arthritis",
+                "M06.0": "seronegative rheumatoid arthritis",
+                "M06.1": "adult-onset Still\u2019s disease",
+                "M06.2": "rheumatoid bursitis",
+                "M06.3": "rheumatoid nodule",
+                "M06.4": "inflammatory polyarthropathy",
+                "M06.8": "other specified rheumatoid arthritis",
+                "M06.9": "rheumatoid arthritis, unspecified"
+            },
+            "Optional": {
+                "base": "subclassification codes to indicate site of involvement for M05, M06",
+                "0": "multiple sites",
+                "1": "shoulder region",
+                "2": "upper arm",
+                "3": "forearm",
+                "4": "hand",
+                "5": "pelvic region and thigh",
+                "6": "lower leg",
+                "7": "ankle and foot",
+                "8": "other",
+                "9": "site unspecified"
+            },
+            "M45": {
+                "base": "ankylosing spondylitis (rheumatoid arthritis of spine)",
+                "Optional": "subclassification codes to indicate site of involvement for M45",
+                "0": " 0 multiple sites in spine",
+                "1": " 1 occipito-atlanto-axial  region",
+                "2": " 2 cervical region",
+                "3": " 3 cervicothoracic region",
+                "4": " 4 thoracic region",
+                "5": " 5 thoracolumbar region",
+                "6": " 6 lumbar region",
+                "7": " 7 lumbosacral region",
+                "8": " 8 sacral and sacrococcygeal region",
+                "9": " 9 site unspecified"
+            },
+            "(ICD": {
+                "base": "codes are provided for the readers\u2019 reference, not for billing purposes)",
+                "Reimbursement:": "Reimbursement for therapy will depend on insurance contract coverage. No specific issues or",
+                "information": " information regarding reimbursement has been identified",
+                "Presentation/signs": "and symptoms: The onset of symptoms of RA can be sudden, with inflammation of multiple joints",
+                "happening": " happening at once(1)",
+                "Presenting": " Presenting signs and symptoms of RA can vary significantly in extent and degree from patient to patient(1,2)",
+                "Anemia(3)": " Anemia(3)",
+                "Decreased": " Decreased tear and saliva production(3) Decreased appetite(1) Decreased function of the joint(1) Decreased appetite(1) Decreased function of the joint(1) Decreased ROM(1) Decreased ROM(1) Decreased endurance(1) Decreased functioning as a result of pain(1)",
+                "Depression(3)": " Depression(3)",
+                "Generalized": " Generalized aching, weakness, and fatigue throughout the body(1,3,4)",
+                "Joint": " Joint deformity(1,3)",
+                "Malaise(1,3,4)": " Malaise(1,3,4)",
+                "Morning": " Morning stiffness (lasts longer than 1 hour; hallmark feature of RA)(1,4) Morning stiffness(1)",
+                "Pain,": " Pain, inflammation, warmth, and tenderness in multiple joints(1,2,3)",
+                "Rheumatoid": " Rheumatoid nodules: soft tissue masses that form under the skin; often seen on weight-bearing surfaces such as over",
+                "the": " the extensor surface of the proximal ulna or at the olecranon(2,3,4)",
+                "Soreness(1)": " Soreness(1)",
+                "Synovitis": " Synovitis (inflammation of the synovial membrane)(1,4)",
+                "Tendon": " Tendon sheath inflammation (tenosynovitis)(1)",
+                "Weight": " Weight loss(3) Weight loss(1) Weight loss(1)",
+                "Signs": " Signs and symptoms associated with the specific stages of the inflammatory process of RA include:",
+                "acute(1)": " acute(1)",
+                "Cold,": " Cold, sweaty hands(1)",
+                "Fever(1,4)": " Fever(1,4)",
+                "Gel": " Gel phenomenon (most prominent in the acute stage)(1) Gel phenomenon(1)",
+                "Hot,": " Hot, red joints(1)",
+                "Limited": " Limited ROM of the joint(1) Limited endurance(1) Limited endurance(1) Limited ROM(1)",
+                "Overall": " Overall stiffness(1)",
+                "Pain": " Pain at rest and with movement(1) Pain and tenderness of the joint at rest; movement decreases the pain(1) Pain with movement due to stiffness, disuse from prior stages, and instability of the joint(1)",
+                "Reduced": " Reduced muscle strength(1) Reduced muscle strength(1)",
+                "Severe": " Severe inflammation(1)",
+                "Tingling": " Tingling and numbness of the hands and feet(1) Tingling and numbness of the hands and feet(1)",
+                "subacute(1)": " subacute(1)",
+                "Inflammation": " Inflammation from acute stage subsides in subacute stage(1)",
+                "Mild": " Mild fever(1,4)",
+                "Warm,": " Warm, pink joints(1)",
+                "During": " During acute and subacute stages of RA, patient fatigue can be severe enough that it results in joint disuse and loss of",
+                "strength(1)": " strength(1)",
+                "chronic-active(1)": " chronic-active(1)",
+                "Increased": " Increased activity levels as compared to that in the acute or subacute stage(1)",
+                "Low-grade": " Low-grade  inflammation(1)",
+                "Minimal": " Minimal pain and tenderness at rest and with movement(1)",
+                "No": " No fever(1) No inflammation in this stage(1)",
+                "chronic-inactive(1)": " chronic-inactive(1)",
+                "Muscle": " Muscle atrophy(1)",
+                "Possible": " Possible contractures(1)",
+                "Residuals": " Residuals symptoms from above stages(1)",
+                "Causes,": " Causes, Pathogenesis, & Risk Factors"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No specific issues or information regarding reimbursement has been identified \u2013Presentation/signs and symptoms:  The onset of symptoms of RA can be sudden, with inflammation of multiple joints happening at once(1) -Presenting signs and symptoms of RA can vary significantly in extent and degree from patient to patient(1,2) -Anemia(3) -Decreased tear and saliva production(3) -Depression(3) -Generalized aching, weakness, and fatigue throughout the body(1,3,4) -Joint deformity(1,3) -Malaise(1,3,4) -Morning stiffness (lasts longer than 1 hour; hallmark feature of RA)(1,4) -Pain, inflammation, warmth, and tenderness in multiple joints(1,2,3) -Rheumatoid nodules: soft tissue masses that form under the skin; often seen on weight-bearing surfaces such as over the extensor surface of the proximal ulna or at the olecranon(2,3,4) -Soreness(1) -Synovitis (inflammation of the synovial membrane)(1,4) -Tendon sheath inflammation (tenosynovitis)(1) -Weight loss(3) -Signs and symptoms associated with the specific stages of the inflammatory process of RA include: -acute(1) -Cold, sweaty hands(1) -Decreased appetite(1) -Decreased function of the joint(1) -Fever(1,4) -Gel phenomenon (most prominent in the acute stage)(1) -Hot, red joints(1) -Limited ROM of the joint(1) -Overall stiffness(1) -Pain at rest and with movement(1) -Reduced muscle strength(1) -Severe inflammation(1) -Tingling and numbness of the hands and feet(1) -Weight loss(1) -subacute(1) -Decreased appetite(1) -Decreased function of the joint(1) -Decreased ROM(1) -Gel phenomenon(1) -Inflammation from acute stage subsides in subacute stage(1)  -Limited endurance(1) -Mild fever(1,4) -Morning stiffness(1) -Pain and tenderness of the joint at rest; movement decreases the pain(1) -Tingling and numbness of the hands and feet(1) -Warm, pink joints(1) -Weight loss(1) -During acute and subacute stages of RA, patient fatigue can be severe enough that it results in joint disuse and loss of strength(1) -chronic-active(1) -Decreased ROM(1) -Increased activity levels as compared to that in the acute or subacute stage(1) -Limited endurance(1) -Low-grade  inflammation(1) -Minimal pain and tenderness at rest and with movement(1) -No fever(1) -Reduced muscle strength(1) -chronic-inactive(1) -Decreased endurance(1) -Decreased functioning as a result of pain(1) -Limited ROM(1) -Muscle atrophy(1) -No inflammation in this stage(1) -Pain with movement due to stiffness, disuse from prior stages, and instability of the joint(1) -Possible contractures(1) -Residuals symptoms from above stages(1) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "The onset of symptoms of RA can be sudden, with inflammation of multiple joints happening at once(1) -Presenting signs and symptoms of RA can vary significantly in extent and degree from patient to patient(1,2) -Anemia(3) -Decreased tear and saliva production(3) -Depression(3) -Generalized aching, weakness, and fatigue throughout the body(1,3,4) -Joint deformity(1,3) -Malaise(1,3,4) -Morning stiffness (lasts longer than 1 hour; hallmark feature of RA)(1,4) -Pain, inflammation, warmth, and tenderness in multiple joints(1,2,3) -Rheumatoid nodules: soft tissue masses that form under the skin; often seen on weight-bearing surfaces such as over the extensor surface of the proximal ulna or at the olecranon(2,3,4) -Soreness(1) -Synovitis (inflammation of the synovial membrane)(1,4) -Tendon sheath inflammation (tenosynovitis)(1) -Weight loss(3) -Signs and symptoms associated with the specific stages of the inflammatory process of RA include: -acute(1) -Cold, sweaty hands(1) -Decreased appetite(1) -Decreased function of the joint(1) -Fever(1,4) -Gel phenomenon (most prominent in the acute stage)(1) -Hot, red joints(1) -Limited ROM of the joint(1) -Overall stiffness(1) -Pain at rest and with movement(1) -Reduced muscle strength(1) -Severe inflammation(1) -Tingling and numbness of the hands and feet(1) -Weight loss(1) -subacute(1) -Decreased appetite(1) -Decreased function of the joint(1) -Decreased ROM(1) -Gel phenomenon(1) -Inflammation from acute stage subsides in subacute stage(1)  -Limited endurance(1) -Mild fever(1,4) -Morning stiffness(1) -Pain and tenderness of the joint at rest; movement decreases the pain(1) -Tingling and numbness of the hands and feet(1) -Warm, pink joints(1) -Weight loss(1) -During acute and subacute stages of RA, patient fatigue can be severe enough that it results in joint disuse and loss of strength(1) -chronic-active(1) -Decreased ROM(1) -Increased activity levels as compared to that in the acute or subacute stage(1) -Limited endurance(1) -Low-grade  inflammation(1) -Minimal pain and tenderness at rest and with movement(1) -No fever(1) -Reduced muscle strength(1) -chronic-inactive(1) -Decreased endurance(1) -Decreased functioning as a result of pain(1) -Limited ROM(1) -Muscle atrophy(1) -No inflammation in this stage(1) -Pain with movement due to stiffness, disuse from prior stages, and instability of the joint(1) -Possible contractures(1) -Residuals symptoms from above stages(1) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Use of resistance exercises is contraindicated in acute and chronic-active  stages of RA; resistance can damage inflamed tissue and joints(4)",
+            "Modification of active/passive ROM testing and muscle strength testing might be necessary for joints exhibiting signs of acute inflammation(4)",
+            "Resistive manual muscle testing (MMT) is contraindicated during acute flares(4)",
+            "The therapist should be gentle and move slowly while handling painful swollen joints(4)",
+            "Palpation should be gentle and repeated as few times as possible(4)",
+            "Proceed with caution when examining, palpating, or manipulating joints with skin that is fragile as a result of RA or medication side effects(4)",
+            "Patient should be positioned comfortably and fully supported during examination, and testing should be performed with as few position changes as possible(4)",
+            "Activity should stop when the patient feels pain, fatigue, or discomfort(4)",
+            "Physician\u2019s orders and protocol should be followed at all times(4)",
+            "Vigorous stretching and vigorous manipulative techniques are contraindicated(4)",
+            "Rupture of a popliteal cyst, a common finding in patients with RA affecting the knee joints, can mimic deep vein thrombosis (DVT). If patient displays signs and symptoms of DVT (e.g., calf swelling, redness, and pain), refer to physician immediately",
+            "Document the time of day that the examination takes place, as joint stiffness and functional ability often fluctuate significantly over the course of the day(1,4) \u2013Also note the most recent administration of pain and/or anti-inflammatory  medications as this can also impact the level of function(4)",
+            "Evaluations for patients with RA should utilize a client-centered approach to most effectively evaluate deficits and needs(4,28) \u2013A client-centered  approach includes the following principles:  -The patient is uniquely qualified to make decisions about their occupational functioning(4) -The patient should have an active role in determining goals and desired outcomes(4) -The patient-therapist  relationship should be interdependent(4) -Evaluation and treatment should focus on the patient\u2019s culture, roles, interests, etc.(4) -When the patient can define the problems that they would like to work on, the patient also becomes a problem solver(4) -The patient should evaluate their own performance and set personal goals(4)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  the exact cause of ra is unknown.   ra develops when an unknown trigger causes an autoimmune response in the synovial membrane of the joints in an individual with a genetic predisposition for ra": [],
+        "pathogenesis": [
+            "The clinical presentation of RA varies significantly; both genetic and environmental factors will affect the progression,extent, and pattern of the disease within a specific patient(1)",
+            "As RA progresses, the patient\u2019s synovial membrane changes into disorganized lymphoid granulation tissue(1)\u2013Both resident and infiltrating cells contribute to hyperplasia of the synovial membrane and erosion of the cartilage or bonein RA(1)",
+            "The patient\u2019s immune system begins to attack the synovial membrane of the joints, leading to inflammation(1)\u2013The inflammation leads to increased heat, swelling, pain, and redness and decreased ROM in the affected joint(1)\u2013As this inflammation continues, the synovial membrane cells multiply and create a mass called pannus(1,2)\u2013The pannus weakens and eventually destroys the underlying cartilage of the joint(1,2,4)\u2013The joint space becomes obliterated by fibrous adhesions(1)\u2013This entire process results in continuous tissue damage(1)",
+            "Scar tissue can form between the bone ends of the joint, resulting in permanent loss of joint function and mobility. Swellingof the joints can lead to instability(4)"
+        ],
+        "risk factors": [
+            "Age (can develop at any age; however, risk increases with age)(4)",
+            "Sex (higher incidence in females)(3,4,21)\u2013In women, some factors related to reproductive and breastfeeding history have been linked to increased risk for RA(21)-Most studies related to birth history and RA have found that women who have never had a live birth have a slight tomoderately increased risk of RA-Some studies have found that RA is less common in women who breastfeed-Women with irregular menstrual cycles as well as those with polycystic ovarian syndrome (PCOS) have an increasedrisk of RA-There is mixed evidence regarding the association between use of oral contraceptives and hormone replacement therapyand RA risk",
+            "Genetic predisposition(1)",
+            "Cigarette smoking(6,21)",
+            "High birth weight(6)",
+            "Geographic location (higher risk associated with living in the Northeast and Midwest United States)(6)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Special considerations required to most effectively evaluate and treat the patient with RA include increased awareness of pain, joint stiffness and deformity, fatigue, and coping strategies(4)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Use of resistance exercises is contraindicated in acute and chronic-active  stages of RA; resistance can damage inflamed tissue and joints(4)",
+            "Modification of active/passive ROM testing and muscle strength testing might be necessary for joints exhibiting signs of acute inflammation(4)",
+            "Resistive manual muscle testing (MMT) is contraindicated during acute flares(4)",
+            "The therapist should be gentle and move slowly while handling painful swollen joints(4)",
+            "Palpation should be gentle and repeated as few times as possible(4)",
+            "Proceed with caution when examining, palpating, or manipulating joints with skin that is fragile as a result of RA or medication side effects(4)",
+            "Patient should be positioned comfortably and fully supported during examination, and testing should be performed with as few position changes as possible(4)",
+            "Activity should stop when the patient feels pain, fatigue, or discomfort(4)",
+            "Physician\u2019s orders and protocol should be followed at all times(4)",
+            "Vigorous stretching and vigorous manipulative techniques are contraindicated(4)",
+            "Rupture of a popliteal cyst, a common finding in patients with RA affecting the knee joints, can mimic deep vein thrombosis (DVT). If patient displays signs and symptoms of DVT (e.g., calf swelling, redness, and pain), refer to physician immediately",
+            "Document the time of day that the examination takes place, as joint stiffness and functional ability often fluctuate significantly over the course of the day(1,4) \u2013Also note the most recent administration of pain and/or anti-inflammatory  medications as this can also impact the level of function(4)",
+            "Evaluations for patients with RA should utilize a client-centered approach to most effectively evaluate deficits and needs(4,28) \u2013A client-centered  approach includes the following principles:  -The patient is uniquely qualified to make decisions about their occupational functioning(4) -The patient should have an active role in determining goals and desired outcomes(4) -The patient-therapist  relationship should be interdependent(4) -Evaluation and treatment should focus on the patient\u2019s culture, roles, interests, etc.(4) -When the patient can define the problems that they would like to work on, the patient also becomes a problem solver(4) -The patient should evaluate their own performance and set personal goals(4)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was RA diagnosed in the patient? For what specific complaint is patient presenting? Does the patient present with any systemic symptoms/complications that have been or need to be addressed by the physician? -Note the duration of the patient\u2019s most recent exacerbation(s) and remission(s) -With which joint(s) does the patient have the most difficulty?(4)",
+                "course of treatment": {
+                    "medical management": "There is no cure for RA; however, medical treatments are available for symptom management(1,4) Patients with painful joints often delay seeking medical care for 2-4 years after symptoms first present(1) RA can be difficult to diagnose in its early stages; however, early diagnosis and treatment are essential for maximizing functional outcomes(1,3) There is no test specifically for RA; diagnosis is based on medical history, symptomatology, physical examination, and radiographic images(3,5) alleviate pain and stiffness of the joints(1,4) reduce the swelling of the joints(1,4) preserve maximal joint function and muscle strength(1,4) prevent disability and disease-related morbidity(4) minimize adverse effects of the long-term  use of medications(1,4) maintain functional status(1,4) promote normal growth and development (for children with RA)(1) physical management (including occupational and physical therapy)(1) psychosocial management(1) nutritional therapy(1) pharmacological management(1) management of comorbidities(1) Surgery for patients with RA is indicated for severely damaged joints and involves total joint replacement; knee and hip joint replacements are associated with the most positive outcomes with respect to increased function and mobility(1,4) In addition to joint replacements, surgical interventions for RA include arthrodesis (joint fusion), synovectomy (excision of diseased synovium), and tenosynovectomy (removal of diseased tendon sheaths)(4)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken as prescribed? Does the patient feel they are adequately controlling symptoms? Treatment with disease-modifying  antirheumatic drugs (DMARDs) should begin as soon as a diagnosis of RA is(1,2,4) Conventional (nonbiological) DMARDsare considered the first line of therapy Methotrexate is the most common nonbiological DMARD and may be used alone or in combination with another agent depending on the degree of disease activity  Biological DMARDs include tumor necrosis factor inhibitors (TNF), abatacept, and tocilizumab Short term NSAIDs or corticosteroids may provide symptom relief during flares(1,2,4)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Comprehensive medical history and physical examination by the physician(1,4)",
+                        "Laboratory tests including blood work(1,4)",
+                        "Rheumatoid factor (RF) is an antibody found in the blood serum of approximately 85% of patients with RA; however, it can also be present with other inflammatory diseases(4)",
+                        "ESR, C-reactive  protein levels, anti-CCP antibodies may also be measured(2)",
+                        "Radiograph examinations of the joints(1,4)",
+                        "Tests of joint fluid and/or tissue to evaluate for infections and/or inflammation(1)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help Authors of a systematic review of dietary interventions for RA found that no specific diet was effective in managing or improving the symptoms of RA(7)",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful(4)"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased). Are there any activities or positions that aggravate or ease symptoms?",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, stiff, sharp, dull, aching, burning, numbness, tingling) -See Presenting signs and symptoms , above, for a full list of symptoms associated with the four stages of RA",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)(4) -Document the location of pain; if possible, attempt to have the patient distinguish between pain in the joint and pain in the soft tissue(4)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables(4) -Morning stiffness that lasts longer than 1 hour is a hallmark feature of inflammatory arthritis; this symptom distinguishes RA from noninflammatory arthritis (such as osteoarthritis)(1) -Intensity and duration of morning stiffness is used as a gross estimate of the overall severity of RA(1) -An activity diary in which the patient records main activities and rates the severity of pain and fatigue during the activity can be useful for determining symptom patterns(27)",
+                "sleep disturbance": "Pain in RA can significantly impair the patient\u2019s ability to have restful sleep;(4) document difficulty sleeping and number of wakings/night, if present",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) -Patients with RA (especially severe RA) are at an increased risk for anger, depression, anxiety, and other psychosocial issues(1,4,21) -The findings of a study conducted in England indicate that although patients with RA would like psychological support, few patients feel that they are asked about social and emotional issues or offered support to manage them(29) -Patients with RA are at increased risk for developing lymphoma(1) -Felty\u2019s syndrome is the occurrence of splenomegaly and neutropenia simultaneously with RA; present in less than 1% of patients with RA(1,2)",
+                "respiratory status": "Note respiratory status -Patients with RA can have pulmonary involvement such as pleuritis, interstitial fibrosis, pulmonary nodules, pneumonitis, and other pulmonary obstructive diseases(1,5)  -Does the patient require supplemental oxygen? Tracheostomy tube, nasal cannula, or breathing mask? -Does the patient become short of breath?(5) If so, when? Standing? Walking? With exercise? Barriers to learning -Are there any barriers to learning? Yes __No __ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Any prior history of arthritis, a joint replacement, or fusion surgery (e.g., knee, hip, wrist, elbow)?(4)",
+                    "comorbid diagnoses": "Ask patient about other problems, including history of falls, diabetes, cancer, heart disease, psychiatric disorders, orthopedic and disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -What are the patient\u2019s occupation(s) and role(s) within his or her family?(1,4) -The Role Checklist and the Worker Role Inventory are appropriate measures for patients with RA(3) -Is the patient currently employed? If so, is the patient currently able to work? If not, are they planning to return to work?(1) -What activities, hobbies, etc., does the patient enjoy? Identify the activities that make up the patient\u2019s occupational performance.(1) What is the patient\u2019s current and prior level of activity? What aspects of RA (e.g., limited hand function, joint stiffness) impair the patient\u2019s ability to participate in desired activities?(1,4) -Understanding of a patient\u2019s occupational history is best obtained through a patient and/or caregiver interview with open-ended  questions(4)",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -What assistive or adaptive equipment is available to the patient at home? Can it still be used based on patient\u2019s current level of functioning?(4) -Document both high-  and low-tech  adaptations and equipment(4) -Patient\u2019s functional status can be classified according to the American College of Rheumatology Classification of Global Functional Status in Rheumatoid Arthritis(4,5)completely able to perform usual ADLs (self-care,  vocational, and avocational)(4)able to perform usual self-care  and vocational activities but limited in avocational activities(4)able to perform usual self-care activities, but limited in vocational and avocational activities(4)limited in ability to perform usual self-care,  vocational, and avocational activities(4)",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc.(4) -Identify if there are barriers to independence in the home; any modifications necessary?(4)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Note BMI \u2013Patients with RA can have decreased appetite, leading to weight loss(1) \u2013In addition to weight loss, changes in the immune system of patients with RA can result in a higher metabolism and leaner body mass; refer for nutritional counseling to improve body composition, if appropriate(1)",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or use of assistive and adaptive devices to determine the devices that are most appropriate and will best serve the patient\u2019s needs; incorrect use of devices can increase risk of falls(1) -patient\u2019s grip strength, pinch strength, and overall muscle strength(8) -extent of joint involvement including ROM, pain, deformities, etc.(8) -patient\u2019s personal preferences and willingness/readiness to use a specific device(8) -cost; patient\u2019s ability to afford the device(8) -mobility aids (appropriateness is usually determined by the physical therapist [PT]) -Cane (single-point  and four-pronged  canes) -Walker, rolling walker -Wheelchair; motorized wheelchair(8) -Crutches -Hemi-walker -Handrails on stairways -Joint stabilizing orthotic devices and splints(1,4) -bathroom equipment -Grab bars next to the toilet/shower(4) -Shower chairs, bars, and/or benches(4) -Raised toilet seat(4) -Bathmat(8) -ADL/IADL aids -Reachers; long-handled  equipment(8) -Bath mitt or long-handled  sponge -Shoehorn(4) -Elastic shoelaces(4) -Dressing sticks; sock aids(4) -Modified eating utensils(4) -Built-up  handles on adaptive silverware require less active ROM for grasp,making use easier for patients with RA who have limited hand and wrist ROM(34) -Adaptive writing instruments(8) -Adaptive kitchen and cooking equipment(4) -Adaptive/ergonomic computer/mouse/keyboard(8) -Text-to-speech  software(4)",
+            "balance": "Balance and postural control \u2013Evaluate static and dynamic balance functionally during ADL tasks \u2013Tinetti Balance Scale(9) \u2013Berg Balance Scale",
+            "cardiorespiratory function and endurance": [
+                "Assess heart rate, blood pressure, and respiratory rate regularly pre/during/post activity; use Borg Rating of Perceived Exertion (RPE) Scale if indicated(1)",
+                "Patients can have cardiac manifestations of RA, including rheumatoid carditis, endocardial (valve) inflammation, conduction defects, coronary arteritis, and granulomatous aortitis(1,5) ",
+                "Monitor breathing to assist with determining fatigue and endurance levels(5) -Fatigue and reduced endurance often occur during the acute and subacute stages of RA(1)"
+            ],
+            "circulation": "Assess pulse bilaterally; note any discrepancies or abnormalities \u2013Patients with RA commonly experience numbness and tingling in the hands and feet; however, this is usually due to impingement of nerves rather than poor circulation(1,5)Assess proper body mechanics with functional mobility to assist in energy conservation \u2013An ergonomic assessment of the workplace may be indicated for patients with RA desiring to maintain employment status or return to work(3,10) -Adaptations of the work environment and specific job responsibilities may be necessary for a person with RA to continue to be employed(3) \u2013The Ergonomic Assessment Tool for Arthritis (EATA) is a comprehensive assessment that can identify areas of need and provide guidance for appropriate ergonomic accommodations in the workplace(10)Assess bed mobility and transfers to determine the amount of assistance needed for the patient to perform each activity(4) \u2013Test static and dynamic activities(4)a measurement of mobility; includes tasks such as standing from a seating position, walking, turning, stopping, and sitting down, all of which are important for independent mobility(11)an 18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(12)",
+            "functional mobility": "",
+            "gait locomotion": "Observe patient\u2019s gait and ability to climb stairs (assisted or unassisted) \u2013Gait abnormalities are present in patients with RA who have involvement of the hip, knee, foot, and/or ankle joints(1) \u2013Note use of braces or ambulatory aids for walking \u2013Refer to physical therapy for full evaluation and treatment if gait deviations are observedAssess and document joint integrity, stability, mobility, and deformity(4) \u2013Joint mobility assessment is contraindicated for acutely inflamed joints; proceed with caution(4) \u2013Document mobility in each of the patient\u2019s affected joints; assess flexion, extension, abduction, adduction, and rotation as appropriate given the specific joint(1) -Joint involvement in RA is usually symmetrical; however, some patients do experience an asymmetrical pattern of joint involvement(1) \u2013Note pain at rest and with movement of the joints(1) -Painful joints are often held in flexion to maximize joint volume and minimize distension of the joint capsule(1) \u2013Document presence and location of crepitus (popping or cracking sound of the joint) as well as which movements cause it(4) \u2013Document presence and location of rheumatoid nodules(4) \u2013Document presence and extent of any joint deviations (change in normal joint position)(4) \u2013Document presence and location of joint deformity as assessed by observation and palpation; this information can be compared to both past and future evaluations to document change over time(1,4) -Nodes are bony enlargements that indicate joint damage from osteoarthritis; these can also occur in patients with RA(4) \u2013Document the extent and location of inflammation and/or synovitis(1,4) -Effusion is excess fluid in the joint capsule; seen as fusiform swelling that conforms to the shape of the joint(4) -Boggy swelling is thin and full of fluid and feels puffy, spongy, and soft to the touch; seen in acute/active stages of RA(4) -Chronic synovitis is firm to the touch because the joint fills with synovial tissue(4) \u2013Assess joint instability by applying stress to the individual joints in medial/lateral and anterior/posterior directions; document the location of joints with instability(4) \u2013Note the presence of contractures; these can occur from prolonged limitation of joint ROM(1) -Contractures result from adhesions that form during periods of joint pain and subsequent disuse(1) reliable and valid assessment of the use of joint protection strategies in patients with mild to moderate hand and upper limb joint involvement due to RA(13) \u2013Specific joint manifestations in patients with RA -Hand -Hands are usually the most severely affected by RA(1) -Fusiform or spindle-shaped  fingers that result from swelling in the proximal interphalangeal (PIP) and metacarpophalangeal (MCP) joints are a typical sign of RA(1) -The distal interphalangeal (DIP) joints are not usually affected in RA(1)hand deformity that results from a combination of PIP joint flexion and DIP joint hyperextension(1,4)hand deformity that results from contractures of the interosseus and flexor muscles and tendons that produce a flexion contracture of the MCP joint, compensatory hyperextension of the PIP joint, and flexion of the DIP joint(1,4)characterized by flexion of the DIP joint; caused by a rupture of the terminal extensor tendon as it crosses the DIP joint, resulting in an inability to extend the distal phalanx(4)floppy joints due to loss of bone with excessive skin due to shortening of the bones(4)occurs when thickening or nodule formation of the tendon along with tenosynovial inflammation results in the trapping of the tendon in a flexed position(1,4)involves the extensors at the thumb; results in severe pain and discomfort, reduced hand function, and loss of gripping ability(1) -Thumb deformities are classified into three categoriesMCP inflammation results in stretching of the joint capsule and boutonniere-like deformity(1)edema of the carpometacarpal (CMC) joint results in volar subluxation during ankylosis of the adductor pollicisover time, RA affecting both MCP joints results in exaggerated adduction of the first metacarpus, flexion of the MCP joint, and hyperextension of the DIP joint and the patient establishes a compensatory method to achieve pinching(1) -Wrist -Ulnar deviation of the MCP joints together with radial deviation of the radiocarpal joint results in a \u201czig-zag\u201d presentation of the hand(1) -Dorsiflexion of the wrist is often limited in patients with RA(1)occurs in patients with RA; results from the development of pannus along the volar aspect of the wrist, which then impinges on the median nerve; causes paresthesia of the palmar aspect of the thumb, the second and third digits, and the radial aspect of the fourth digit(1)T709200 and  Clinical Review\u2026Rheumatoid ArthritisT708628 -Elbow -Patients with RA often experience reduced ROM in the elbow due to flexion contractures and inflammation(1) -Note the presence of a bulge at the elbow joint; this results from synovial swelling/thickening between the radial head and olecranon(1)sharp pain when firm pressure is placed on the lateral epicondyle of the elbow over the tendons of the wrist extensor muscles(1) -Shoulder -The shoulder is commonly affected by RA; shoulder involvement can increase significantly over time as RA progresses(1) -Glenohumeral, acromioclavicular, and thoracoscapular joints most susceptible to involvement in RA(1)  -Pain, tenderness, and reduced ROM of the shoulder joint often results in limitation of the patient\u2019s ability to complete ADLs(1) -Tendinitis, capsulitis, and bursitis are usually the causes of shoulder pain in patients with RA(1) -Head, neck, and cervical spine -Cervical spine is frequently affected by RA(1) -Involvement of C1 and C2 can result in life-threatening  conditions (e.g., atlantoaxial subluxation)(1) -Temporomandibular (TMJ) joints can be involved in RA; inflammation results in inability to fully open the mouth(1) -Hoarseness resulting from inflammation of the cricoarytenoid joints occurs in up to 30% of patients with RA(1) -Hip -Approximately half of patients with RA have involvement of the hip joint(1) -Hip pain and discomfort in the hip joint can result in functional mobility problems and difficulty with self-care  (such as lower-body dressing)(1) -Knee -Symptoms of involvement of the knee joint include a bulge in the posterior knee resulting from hypertrophy and swelling of the joint capsule (Baker's [popliteal] cyst)(1) -Swelling, quadriceps muscle atrophy, ligamentous laxity, and knee joint instability are more noticeable during standing or walking(1) -Contractures at the knee can result from the patient holding his or her hips/knees in a flexion position to relieve joint pain(1) -Foot and ankle -RA involvement is less common in the ankle joint(1) -When involvement of the ankle is observed, it is almost always in conjunction with involvement of the midfoot or metatarsophalangeal (MTP) joint(1) -Claw toes, hammertoes, cock-up  toes, and hallux valgus are common manifestations of RA in the foot(1)Assess fine and gross motor function of the upper extremities and hands; describe the quality of movement(1) \u2013It is impossible to estimate the extent of a patient\u2019s hand function based on the appearance of the hand; patients with significant joint deformities can sometimes perform very well on both formal and informal assessments of hand function(4) -Arthritis Hand Function Test (AHFT)(1) -Cochin Rheumatoid Hand Disability Scale(1) -Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure(1) -Jebsen-Taylor  Hand Function Test(4) -Michigan Hand Outcomes Questionnaire (MHQ)(1) -Sequential Occupational Dexterity Assessment (SODA)(1)",
+            "muscle strength": "MMT to evaluate strength in both upper extremities; do not perform MMT with contracted muscles or muscles with tone and coordination issues(3,4) \u2013For patients with arthritis, strength testing differs from normal procedures; resistance is applied at the end of range of pain-free  motion rather than the true end of the patient\u2019s ROM(4) -Additionally consider joint protection principles when applying resistance and discontinue resistance completely if the patient experiences pain(4) \u2013Patients with RA often have reduced muscle strength and endurance and sometimes muscle atrophy a result of disuse(1) \u2013Strength and function of the muscles can fluctuate with joint stiffness(1) \u2013Assess grip and pinch strength with dynamometer and pinchmeter(4) ",
+            "observation inspection palpation including skin assessment": [
+                "Note any signs of skin breakdown and improper wear of any splints or braces"
+            ],
+            "posture": "Poor posture can impact the patient\u2019s ability to complete occupational tasks such as feeding, dressing, oral care, transfers, and meal preparation \u2013Contractures, joint immobility, pain, and limited ROM can result in postural deficits in patients with RA(1) \u2013Note posture with/without adaptive equipment, including a wheelchair seating system, if applicable",
+            "range of motion": "AROM and PROM will be impaired in joints affected by RA; AROM will likely be more affected than PROM(1,4) \u2013Assess ROM using goniometer(3,4) -Can be difficult on a hand with joint deformities(4) -Assessing composite flexion, composite extension, and thumb opposition might be an appropriate functional measurement of the ROM of the hand(4) \u2013Note joint stiffness or instability during ROM testing(4) -Hard end-feel  in the presence of contracture indicates bony blockage -Firm end-feel  in which there is still some give to the joint indicates that the joint capsule or ligaments are limiting ROM(4) \u2013Patients with RA frequently have reduced ROM due to disuse and pain of the joints(1) -Limitations in ROM for patients with RA can result from ankylosis (lack of joint mobility), subluxation (volar or dorsal displacement of joints), and dislocation (the articulating surfaces of the joints are no longer in contact)(1,4)",
+            "self-care activities of daily living": "",
+            "reflex testing": "Document abnormal reflexes \u2013RA affecting the lower cervical spine can result in cord-root compression; C5 cord compression can result in decreased biceps jerk reflex(1)Assess safety and ability to perform ADLs hair, upper and lower body dressing, managing clothing, using the toilet, applying makeup or shaving the face, bathing, eating \u2013RA significantly limits an individual\u2019s ability to perform ADLs and IADLs(1) -Reduced hand strength and dexterity in patients with RA will impact all ADLs and IADLs(1) \u2013The FIM, the Assessment of Motor and Process Skills (AMPS), the Kohlman Evaluation of Living Skills (KELS), the Disability Rating Index (DRI), the Klein-Bell  Activities of Daily Living Scale (Klein-Bell),  the Performance and Satisfaction in Activities of Daily Living (PS-ADL),  Barthel Activities of Daily Living Index, and the Performance Assessment of Self-Care  Skills (PASS) are appropriate standardized measures for ADLs in patients with RA(3,14) \u2013For high-functioning  patients, assess IADLs such as driving (including car transfers), meal preparation, shopping, and housework -Patients with RA who are parents of young children will have a unique set of IADLs needs such as carrying/lifting the child; feeding, dressing, and bathing the child; diaper changing; physical play with the child; discipline; homework help, etc.(15) -Lawton and Brody Instrumental Activities of Daily Living Scale -Includes items related to using the telephone, taking public transportation, shopping, meal preparation, housework, and medication and money management",
+            "sensory testing": "Sensation is often impaired in patients with RA(1,3,4)  \u2013Tactile and proprioceptive sensation is most often affected in this population(1) -Impairments of sensation can be due to impingement of the nerve due to soft tissue loss(1) \u2013General sensory testing includes light touch, pain, temperature, tactile localization, two-point  discrimination; sensation can be assessed with a set of monofilaments(3) \u2013Phalen\u2019s test and Tinel\u2019s test can be used in the case of suspected carpel tunnel nerve compression(4) \u2013With known or suspected cervical spine involvement, assess light touch, sharp-dull  touch, and proprioception(4)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Occupational performance measures(3) -Role Checklist(3) -Assessment of Motor and Process Skills (AMPS)(3) -Occupational Performance History Interview II (OPHI II)(3) -The Canadian Occupational Performance Measure (COPM) evaluates function through evaluation at baseline and status throughout treatment, utilizing the patient\u2019s direct input in the scale(3,4) -The COPM allows patients to identify goals in therapy that are personally meaningful; useful for a client-centered approach to therapy(4) \u2013QOL -RA can significantly affect the patient\u2019s QOL due to the impact on daily activities, socialization, and overall health(30) -The Short Form Health Survey (SF-36)  evaluates overall independence, emotional and mental health, limitations to previous roles, and social status; it is valid, reliable, and sensitive for the RA population(3) -Health Assessment Questionnaire (HAQ)(16) -Arthritis Impact Measurement Scale 2 (AIMS2)(16) -Arthritis Self-Efficacy  Scale (ASES)(16) -There are personal factors that might influence a patient\u2019s perception of function and disability(25) -The authors of a study conducted in Austria identified 12 personal factors common to a cohort of 15 patients with RA, then identified, through a systematic review, which patient-reported  outcome measures included these factors. Some of these 12 personal factors were adaptation to changed living conditions, job satisfaction, meaningful activities for the individual and/or the societal context, self-efficacy,  and sense of coherence and social appreciation -The London Coping with Rheumatoid Arthritis Questionnaire -General Self-Efficacy  Scale -Arthritis Self-Efficacy  Scale -Rheumatoid Arthritis Self-Efficacy Questionnaire -Revised Ways of Coping Inventory",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "Perception is sometimes impaired in patients with RA(1) \u2013Involvement of the eye occurs in less than 1% of patients with RA -Sj\u00f6gren\u2019s syndrome, characterized by dry eyes and mouth, is associated with advanced RA(1,2) -Other ocular complications that occur in patients with RA include episcleritis, scleritis, and scleromalacia due to sclera nodules(2) \u2013Auditory changes can occur because of the inflammation of the inner ear bony joints(1) \u2013Note visual and auditory abilities and deficits; refer to reports from audiologist and/or ophthalmologist, as available",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Note patient\u2019s ability to communicate and level of arousal as well as memory, attention, problem solving, and orientation to person, place, time, and situation  -Memory, attention, and problem-solving  deficits have sometimes been documented in patients with RA as a consequence of depression(4) \u2013Refer to neurologist for a full evaluation if cognitive deficits are present without a known underlying cause(1)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Exercise in short, frequent sessions throughout the day versus one long session",
+                "To avoid fatigue, alternate activities",
+                "Stop activity when fatigue and pain begin",
+                "Decrease the level of activity or remove the activity from the program if pain lasts for more than 12 hours after the end of the activity",
+                "During disease flares, increase rest; inflamed joints are damaged easily ",
+                "Resume exercise routine gradually when flare subsides",
+                "Avoid deformity positions (e.g., ulnar deviation of the MCP joints of the hand)",
+                "Change positions every 2030  minutes throughout the day to avoid static positioning",
+                "When possible, use larger and stronger muscles and larger joints during activities (e.g., carry a shoulder bag versus a clutch purse)",
+                "Avoid high-impact  sports and contact sports",
+                "When joints are inflamed, patients should avoid excessive bending and stooping",
+                "Increased pain and joint inflammation may occur if therapy is overly aggressive",
+                "Stretching techniques should not be performed on swollen joints",
+                "Heavy resistance should not be used if it causes joint stress",
+                "Joint mobilization should not be performed on inflamed joints",
+                "There must be a balance between prevention of contractures and adhesions with stretching and mobilization on the one hand, and the protection of the joint capsule, ligaments, and tendons that are weakened by the disease on the other",
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation",
+                "Hypertension  cold can lead to an increase in blood pressure",
+                "Hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement over superficial nerves for extended periods (> 1 hour)",
+                "Cold may be counterproductive if being used to facilitate muscle relaxation and reduce pain in patients who do not tolerate the modality",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Malignant tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs",
+                "Stimulation through or across the chest",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Over carotid sinuses",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Over pharyngeal area",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity ",
+                "Osteoporosis",
+                "Cancer",
+                "Used in close proximity to diathermy treatment",
+                "Over the region of a cardiac pacemaker",
+                "Over the pelvis, abdominal, and lumbar regions during pregnancy",
+                "Over the eyes and testes",
+                "In an area with infection or bleeding",
+                "If a tumor is present in the area",
+                "In the area of DVT or thrombophlebitis",
+                "Over the heart, stellate, or cervical ganglia",
+                "Over epiphyseal plates",
+                "Sensory deficits",
+                "Individuals who cannot communicate effectively (e.g., impaired cognition, language barrier)",
+                "Circulatory impairments",
+                "Plastic or metal implants",
+                "Note: Always decrease ultrasound intensity if the patient complains of discomfort",
+                "Additionally, the therapist must comply with any state licensure or other training requirements(4)"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "General recommendations for therapeutic intervention for patients with RA(5,17)",
+                "Cryotherapy  contraindications(4,18)",
+                "Cryotherapy  precautions(4,18)",
+                "Thermotherapy  contraindications(18)",
+                "Electrotherapy  contraindications/precautions (in some cases, when approved by the treating physician, electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(18)",
+                "Therapeutic ultrasound  contraindications(18)",
+                "Therapeutic ultrasound  precautions(18)",
+                "In general, patients with RA can have unstable vascular reactions to heat and cold; therefore, monitoring the patient carefully during the use of these modalities is essential(4)",
+                "Prior to the use of physical agents and modalities, the treating therapist must have specific training and education in the proper use and safe delivery of these modalities beyond entry-level preparation(4)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "The overall goals of rehabilitation programs for patients with RA are reduced pain, joint protection, and improved functional status.(4) The role of the occupational therapist (OT) is to provide support and education; gather pertinent information regarding the patient\u2019s current and prior functional status, current home environment, and living situation; and train the patient to safely, efficiently, and adequately perform ADLs/IADLs, school activities, and/or job duties as independently as possible(3,4)",
+        "rule out": "The differential diagnosis of RA includes ankylosing spondylitis(5) chronic Lyme arthritis(2) crystal-induced  arthritis(5) gout; pseudogout(2,5) enteropathic arthritis(5) osteoarthritis(2) paraneoplastic syndrome(2) psoriatic arthritis(2,5) spondyloarthropathies(5) systematic lupus erythematosus (SLE)(2)",
+        "prognosis": [
+            "There is no cure for RA; however, treatment methods can improve symptoms and functioning in patients with RA(1) \u2013Earlier diagnosis and development of new therapeutics appear to have ameliorated historically increased mortality in patients with RA(37) -The goal of treatment is remission or low disease activity as evaluated by a composite disease activity measure -Treatment target is achievable in approximately 75\u201380%  of patients, although some may require multiple treatment regimens  \u2013When RA goes untreated, it causes significant disability and shortened life expectancy(2)",
+            "Both physical and functional outcomes are difficult to predict in patients with RA(1) \u2013Early diagnosis and treatment of RA can slow progression of joint damage in up to 90% of patients, preventing irreversiblejoint damage and disability(37)",
+            "The onset of RA is most often gradual, but it can be abrupt as well(1)",
+            "RA is typically cyclical in nature, with exacerbations and remissions(1)",
+            "Features of RA that appear to have prognostic significance include: \u2013the number and length of remissions(1) \u2013the levels of RF in the blood(1) \u2013presence of rheumatoid nodules(1,4) \u2013the extent of bone erosion visualized radiographically at the initial evaluation(1) \u2013sustained disease activity for more than 1 year(1)",
+            "Work disability is a frequent long-term  consequence of RA(32) \u2013Patients with RA have a 236% higher relative prevalence of functional disability compared to age-matched  controls without RA(32) \u2013Patients with RA lose an estimated 13.7\u201320.3  workdays per year(32) \u2013RA-related  disability is associated with loss of work productivity(38) -Authors of a study (N = 150) evaluated patients with RA who experienced minor difficulties in functioning and assessed themfor presenteeism (workers\u2019 presence on the job, but with reduced productivity due to illness or disease) -After 1 year,more RA-related  disability, poorer mental health, and health deterioration were longitudinally associated with more hours lost at work because of health limitations"
+        ],
+        "referral to other disciplines": " Referral to other disciplines PT for ambulation, gait training, lower extremity strengthening/ROM program, etc.(1) Otolaryngologist (ENT) and/or speech-language  pathologist (SLP) to address hoarseness, if present(1) Registered dietician to improve nutritional intake and body composition(1) Wound care nurse or specialist if signs of pressure ulcers are present Case management or social worker to address emotional and financial needs and provide support(1) Psychiatrist or psychologist if the patient presents with signs of anger, depression, or distress(1)",
+        "other considerations": [],
+        "treatment summary": [
+            "There is some evidencethat patients with RA can benefit from occupational therapy \u2013Authors of a 2019 narrative review examined 7 studies from 2021 to 2019 on the role of nonpharmacological interventions in the management of RA-related  fatigue. They concluded that physical activity and psychosocial interventions (e.g., cognitive behavioral therapy) can provide small to moderate benefit in decreasing self-reported  fatigue in patients with RA(41) \u2013Authors of a 2017systematic review evaluated 51 evidence level 1 studies published between 2000 and 2014. Outcome measures evaluated were ability to perform ADLS, pain, fatigue, depression, self-efficacy,  and disease symptoms. Strong evidencesupported the use of aerobic exercise, resistive exercise,aquatic therapy, patient education, self-management, cognitive-behavioral  approaches, multidisciplinary approaches, and joint protection to improve outcome measures. Some evidence supported the use of dynamic exercise, tai chi, and yoga to improve outcome measures(40)  \u2013According to the Scottish Intercollegiate Guidelines Network\u2019s (SIGN) national clinical guideline for the management of RA, the benefits of skilled occupational therapy for patients with respect to improved QOL is clear; however, there are limited studies from which efficacy conclusions can be drawn, and evidence from RCTs is absent(19) -SIGN\u2019s guideline emphasizes that occupational therapy should focus on: -improving ADLs, providing equipment and adaptations as necessary(19) -maximizing function and level of independence of the patient(19) -educating patients on joint protection strategies, including how to reduce strain, properly use assistive devices, utilize rest schedules and energy-conservation  techniques, and use proper exercise and splinting techniques(19) \u2013Authors of a critical appraisal of6 systematic reviews on the efficacy of interventions used by OTs for adults with RA that were published between 2007 and 2013 reported that there was sufficient evidence to support the use of therapeutic exercise, patient education on joint protection strategies, and splinting for pain, inflammation, and grip strength. There was insufficient evidence to support the use of tai chi as an intervention for RA(23)",
+            "Specific occupational therapy interventions will vary according to patient goals and characteristics (e.g., comorbidities, age, prior level of function, motivation for therapy) but can include the following: \u2013Hand therapy for patients with RA -Hand therapy is an essential part of rehabilitation for patients with RA due to the significant impact of hand dysfunction on ADLs and IADLs(1) -A certified hand therapist (CHT) is an OT or PT with a minimum of 5 years of clinical experience and 4,000 or more hours in direct practice in hand therapy(20) -Most practicing CHTs are OTs (85%)(20) -For additional information on hand therapy in patients with RA, see Clinical Review\u2026Rheumatoid Arthritis: Hand Therapy (Occupational Therapy) ; referenced above \u2013ADLs/IADLs(3,4) -Introduce assistive and/or adaptive equipment to increase safety and independence with ADLs/IADLs(4) -Incorporate frequent rest breaks into ADLs/IADLs -Gradually increase the demands placed on the patient for ADLs/IADLs(4) -In general, patients with RA should not engage in activities that require the hand to be in a static position for a prolonged period of time(4) \u2013Splinting/orthosis use(1,3,4) -Indicated for reducing inflammation, decreasing pain, supporting unstable joints, limiting undesirable joint motion, increasing ROM, and properly positioning joints(4) -Resting hand orthosis is very common in the treatment of RA(4) -Orthoses can be utilized appropriately in all stages of RA(4) -Stage I (early): resting orthoses for decreased inflammation and pain as well as joint protection(4) -Stage II (moderate): day orthoses to provide comfort and decrease deforming stresses on joints; night orthoses to relive pain and/or protect joints against deformity; orthoses designed to improve ROM(4) -Stage III (severe): day orthoses to promote increased function; night orthoses for positioning and comfort(4) -Stage IV (terminal): day orthoses to promote increased function; night orthoses for positioning and comfort(4) -Special considerations for use of orthoses in patients with RA -The added weight of the orthosis can put additional stress on the upper extremity, resulting in pain and fatigue; ensure the splint is as lightweight as possible(4) -Forces are transferred from the splinted to adjacent, unsplinted joints, which can cause these joints to become more symptomatic(4) -Skin tolerance can be problematic because of the increased risk of fragile skin in patients with RA(4) -Patients with sensory impairments will need close monitoring when using an orthosis to identify signs of pressure(4) -Modify orthosis straps as needed to allow for increased ease and decreased joint stress when donning and doffing(4)  -Authors of a systematic review on the efficacy of working wrist splints in patients evaluated 23 studies, including 9 RCTs. Both qualitative and quantitative studies were included in the systematic review. Authors reported there was strong quantitative and qualitative evidence that working wrist splints reduce pain in individuals with RA. Qualitative studies indicated that the primary use of splints for persons with RA was for reduction of pain and swelling. Additionally, there was moderate evidence that working wrist splints improve grip strength. There was insufficient evidence that working wrist splints improve function in persons with RA(24) \u2013Therapy gloves(26) -The authors of a systematic review evaluating glove use in RA found that use of therapy gloves (i.e., any type of gloves that aim to deliver treatment \u2013manage pain, restore function, \u201crelax or calm or calm the wearer\u201d) are most useful in decreasing symptoms versus improving function \u2013Therapeutic and conditioning exercises(3,4) -There is no exercise program that is universally appropriate for patients with RA; all exercise programs must be specifically tailored to the needs of a given patient(4) -Exercise programs for patients with RA should avoid unnecessary joint stress that causes pain and joint swelling and should work within the patient\u2019s comfortable ROM(4) -Authors of a study demonstrated that their strengthening and stretching for RA of the hand (SARAH) program was effective at improving function, increasing grip strength, and stabilizing pain. The program is a tailored and progressive 12-week  exercise program aimed at improving function in patients with RA in their hands and wrists. Online training for occupational therapists is available at https://www.futurelearn.com/courses/exercises-for-rheumatoid-arthritis-in-hands-a-course-for-healthcare-professionals (36) -Train the patient to perform each exercise slowly, smoothly, and with proper technique; additionally, educate the patient on the rationale for each specific exercise(4) -Strengthening upper and lower extremities with resistance (isometric or isotonic) as indicated by physician order; not appropriate for acute stage(4) -Discontinue any resistance exercise if the patient reports pain or if the exercise creates deforming forces or it compromises joint stability(4) -Grip strengthening exercises can be performed with light putty for the joints in the hand(4) -Active or passive stretching can be incorporated to increase joint mobility; not appropriate for acute stage(4) -Cardiovascular exercise(4) -Appropriate exercises include stationary bicycling, walking, low-impact  aerobics, and tai chi(4) -Health-enhancing  physical activity and energy conservation(28) -Researchers in Sweden conducting an RCT designed to assess the impact of therapy focusing on facilitating \u201chealth-enhancing  physical activity\u201d and fatigue management found that providing \u201cperson-centered\u201d  therapy significantly reduced reported levels of fatigue -Intervention included encouraging a combination of moderately and vigorous physical activity and education around balancing life activities \u2013Pain and swelling management(3) -Rest(4) -Rest is a way for a patient with RA to reduce both pain and inflammation(4) -Rest can be indicated for the entire body or achieved locally through splinting or avoiding/modifying activity to allow rest for a specific joint(4) -During stages of active systemic inflammation, 8 to 10 hours of sleep with periods of rest in the afternoon are recommended for patients with RA(4) -Thermotherapy and cryotherapy(4) -Can be helpful for management of pain as well as maintaining or improving the patient\u2019s ROM(4) -Thermotherapy can increase blood flow, relieve pain, and increase tissue elasticity; however, because it is possible for thermotherapy to increase inflammation as well, do not use thermotherapy with acutely inflamed joints(4)  -Thermotherapy can be delivered through hot packs, paraffin, fluidotherapy, and hydrotherapy in a heated pool or warm shower/bath(4) -Cryotherapy can be delivered through ice packs or gel packs -Gentle ROM exercises(1) \u2013Assistive and adaptive equipment(3,4) -Environmental modifications(3,4) -Technology/equipment(3,4) -Home visit if possible(3) \u2013Work-related  interventions -Based on a survey of nurses, doctors, and physiotherapists (N = 73), occupational therapy is the most appropriate profession for addressing work-related  difficulties due to RA. Study authors found that more than 70% of the patients with RA these healthcare professionals treated were of working age. There is a need for more work-related support(31) -Work interventions provided by occupational therapy and the percentage of OTs who provided this intervention included: -provision of solutions for work-based  problems (62%) -applying lifestyle balance skills, including coping and self-management  (61%) -advice on retraining and/or return to work (55%) -customizing condition management skills specifically to match the work tasks of clients (52%) -Authors of a study in the United Kingdomsought to determine the feasibility of conducting a vocational rehabilitation (VR) program to increase job retention in patients with RA, undifferentiated inflammatory arthritis, or psoriatic arthritis(39) -Patients in the control group received usual care for work problems, including an average of 45 minutes of work advice and a written self-help advice booklet -Patients in the experimental group received the same treatment as the control group with the addition of a VR program for 4 weeks. This included topics such as identifying work problems, action planning, developing an individualized program including self-management  at work, job accommodations, employment rights, and a work site visit -Results showed that VR may decrease risk of job loss and improve productivity, confidence managing arthritis at work, physical ability, pain, and perceived health. There were no changes seen in the control group. -This was a feasibility study and due to the low number of participants more research is needed. An RCT currently underway is evaluating this further (the WORKWELL trial) \u2013Education -Patient education -Arthritis education groups can improve the patient\u2019s understanding of the disease and provide essential social and emotional support as group members share common disease-related experiences -Energy-conservation  techniques: pacing oneself and balancing activity with rest breaks(1,3) -Joint protection strategies(1,4) -Respect pain(4) -Maintain muscle strength(4) -Maintain joint ROM, use each joint in its most stable and anatomical/functional plane(4) -Avoid positions of deformity(4) -Use the strongest joints possible for each task(4) -Ensure the correct pattern of movement in activities(4) -Avoid prolonged static positions(4) -Avoid participation in activities that can\u2019t be stopped immediately if they become too stressful(4) -Balance activity with adequate rest(4) -Reduce the force and effort used in all tasks (with assistive devices as needed)(4) -Authors of an RCT (N = 224) evaluated the effectiveness of a self-management  program for joint protection and physical activity in patients with RA. Patients were randomly assigned to either an 8-week  program for  self-management  of joint protection and physical activity (experimental group)or standard care for rheumatology (control)(33) -Self-management  program: Program was based on Bandura\u2019s theory of self-efficacy.  It focused on teaching patients to become aware of behaviors that could promote joint protection and improve physical activity -Compared to the control group, at the 6-month follow-up  patients in the experimental group demonstrated significantly greater improvement in physical functioning, self-efficacy  with respect to pain management, and self-management behaviors -No differences between the two groups were found at the 2- or 3-month  follow-up.  The authors concluded that patients with RA may need a longer duration of self-management  training to incorporate the changes into their life and see noticeable improvements -Family/caregiver education(3) -Authors of a study interviewed 59 patients with RA to understand the influence significant others can have on patients\u2019 participation in everyday life. Conclusions based on the interviews were:(35) -significant others can both facilitate and hinder participation in everyday life -including significant others in the rehabilitation process is important. There is a need to identifywhen and how the significant others can be involved. Educate them on the diagnosis to help facilitate their participation . Problem Goal Intervention Expected Progression Home Program Pain and inflammation of the jointsDecrease pain and inflammation(4)Physical agents and mechanical modalities _ Rest; orthoses for rest and positioning day and night(4) _ _ Cryotherapy(4) _ _ Thermotherapy(4) _ _ Hydrotherapy _ _ Functional training _ Joint protection strategies(4) _ _ See Treatment summary , aboveAlternate joint loading or movement with rest to increase energy level and reduce joint swelling and inflammation(4)Provide patient and caregiver with education regarding pain and swelling management at home  Impairment of ADLs/ IADLsIncrease independence with ADLs/IADLs; increased safety and efficiency when performing ADLs/ IADLsFunctional training _ ADL/IADL training _ Environmental modifications _ _ Assistive device prescription and training _ _ Energy-conservation strategies _ _ See Treatment summary , aboveInitially, break ADL/ IADL tasks down into separate parts; with increased patient tolerance, have the patient perform progressively longer segments of each ADL/ IADL task at a timeCaregiver education for use and maintenance of assistive devices is important for carryover of ADL/ IADL training into the home environment; provide the patient\u2019s family with a plan for maximizing home safety for ADLs/IADLs with environmental modifications as appropriate  Reduced upper extremity and hand/ wrist ROM; reduced strengthIncrease and/or maintain ROM and strength(4)Functional training _ Gentle AROM and/or PROM to the point of pain with gentle to no stretch depending on the patient\u2019s current status(4) _ _ Educate the patient regarding proper positioning(4) _ _ Resistive exercises (isometric or isotonic with physician order); cardiovascular exercises(4) _ _ Hand exercise program(36) _ _ Physical agents and mechanical modalities _ Cryotherapy(4) _ _ Thermotherapy(4) _ _ Splinting(4) _ _ See Treatment summary , aboveGradual progression of intensity of exercises; increase the resistance, frequency, and/or duration of each exercise as the patient\u2019s strength increases; active- assisted ROM and strengthening exercises are progressed as tolerated(4) _ _ Take each major joint through the full comfortable ROM; the joints that are the most stiff will require the most attention(4) _ _ Exercise programs that result in pain lasting longer than 1 to 2 hours after completion should be modified and/or decreased in intensity(4) _ _ The number of repetitions for each exercise will depend on the patient\u2019s potential inflammatory response; on days that the patient reports increased inflammation, lower the overall number of repetitions(4)Exercise programs can be performed once daily at home, even during acute flares(4)  Reduced functional mobility; reduced community mobilityIncrease functional mobility at home and within the community settingFunctional training _ Functional transfer training with assistive devices as appropriate(4) _ _ Joint protection strategies _ Energy-conservation strategies _ _ Assistive device training _ _ See Treatment summary , aboveProgression will vary among patients based on the interventions selected and the response to treatment tasks _ _ Gradual progression of intensity of exercises; increase the resistance, frequency, and/or duration of each exercise as the patient\u2019s strength increases; active- assisted ROM and strengthening exercises are progressed as toleratedProvide patient and family/ caregivers with written instructions regarding functional activities that can be performed at home and correct use and/ or application of equipment ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes: desired outcomes for occupational therapy in patients with ra will vary according to an individual patient\u2019s goals and characteristics; however, possible outcomes include:": []
+    },
+    "maintenance or prevention": [
+        "There are no known measures to prevent RA; however, research has associated certain environmental factors with a decreased risk of RA(6) Alcohol consumption (\u2265 5 drinks, or 80 gm ethanol, per week is associated with decreased risk of RA)(6)  Long-term  breastfeeding of \u2265 13 months is associated with decreased risk of RA(6) Although research studies have examined whether vitamin D, oral contraceptives, and red meat influence risk of RA, there have been no consistent conclusions(6)"
+    ],
+    "patient education": [
+        "Education about the disease process is an extremely important part of occupational therapy for patients with RA that has been found to increase patients\u2019 self-efficacy  and lead to improved use of disease-management behaviors(3,4) Provide education regarding: \u2013the basic underlying pathology of RA(4) \u2013that prolonged synovitis can lead to irreversible joint damage/disability(4) \u2013how to monitor the signs and symptoms of RA(4) \u2013how to modify tasks if pain or fatigue sets in(4) \u2013community and online resources for RA(4)",
+        "Caregiver education is important for carryover of ADL/IADL training into the home environment; provide the patient\u2019s family with a plan for maximizing home safety for ADLs/IADLs with environmental modifications as appropriate(3,4)",
+        "Tips for living with arthritis from AOTA: http://www.aota.org/about-occupational-therapy/patients-clients/adults/arthritis.aspx",
+        "See the \u201cRheumatoid Arthritis\u201d page on the Arthritis Foundation website, http://www.arthritis.org/about-arthritis/types/",
+        "Patient fact sheets available from the American College of Rheumatology website, http://www.rheumatology.org/I-Am-A/Patient-Caregiver Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Mullen TM. Rheumatic Diseases. In: Atchison BJ, Dirette DK, eds. Conditions in Occupational Therapy: Effect on Occupational Performance . 6th ed. Philadelphia, PA: Wolters Kluwer; 2021:423-443.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Hellmann DB, Imboden JB, Jr. Rheumatologic, immunologic, & allergic disorders. In: Papadakis MA, McPhee SJ, eds. 2017 Current Medical Diagnosis & Treatment . 60th ed. New York, NY: McGraw-Hill  Education; 2021:834-838.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Vaughn P. Arthritis. In: Boyt Schell BA, Gillen G, Scaffa ME, eds. Willard & Spackman's Occupational Therapy . 13th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2018:1110-1112.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Deshaies L. Arthritis. In: Pendleton HM, Schultz-Krohn  W, eds. Pedretti's Occupational Therapy: Practice Skills for Physical Dysfunction . 8th ed. St. Louis, MO: Mosby Elsevier; 2017:951-982.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Williams FH. Rheumatoid arthritis. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia: Saunders Elsevier; 2018:813-819.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Liao KP, Alfredsson L, Karlson EW. Environmental influences on risk for rheumatoid arthritis. Curr Opin Rheumatol . 2009;21(3):279-283.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Hagen KB, Byfuglien MG, Falzon L, Olsen SU, Smedslund G. Dietary interventions for rheumatoid arthritis. Cochrane Database Syst Rev. 2009. Art No: CD006400. doi:10.1002/14651858.CD006400.  (SR)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Eckloff SG, Thornton BC. Prescribing assistive devices for patients with rheumatoid arthritis: careful selection of equipment helps patients perform daily functions. J Musculoskelet Med . 2002;19(1):27-34.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Tinetti ME, Williams TF, Mayewski R. Fall risk index for elderly patients based on number of chronic disabilities. Am J Med . 1986;80(3):429-434.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Backman CL, Village J, Lacaille D. The Ergonomic Assessment Tool for Arthritis: development and pilot testing. Arthritis Rheum . 2008;59(10):1495-1503.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Podsiadlo D, Richardson S. The timed \"Up & Go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc . 1991;39(2):142-148. doi:10.1111/j.1532-5415.1991.tb01616.x.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Hammond A, Lincoln N. Development of the Joint Protection Behavior Assessment. Arthritis Care Res . 1999;12(3):200-207.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Archenholtz B, Dellhag B. Validity and reliability of the instrument Performance and Satisfaction in Activities of Daily Living (PS-ADL)  and its clinical applicability to adults with rheumatoid arthritis. Scand J Occup Ther . 2008;15(1):13-22.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Grant M. Mothers with arthritis, child care and occupational therapy: insight through case studies. Br J Occup Ther . 2001;64(7):322-329.  (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Hammond A, Young A, Kidao R. A randomised controlled trial of occupational therapy for people with early rheumatoid arthritis. Ann Rheum Dis . 2004;63(1):23-30.  (RCT) "
+        },
+        {
+            "number in article": 17,
+            "reference": "Kisner C, Holtgrefe K. Joint, connective tissue, and bone disorders and management. In: Kisner C, Colby LA, eds. Therapeutic Exercise: Foundations and Techniques . 7th ed. Philadelphia, PA: FA Davis Company; 2017:330-338.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Management of early rheumatoid arthritis. Scottish Intercollegiate Guidelines Network (SIGN)  Web site. . 2011;(SIGN publication no. 123). (G)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Who is a certified hand therapist? Hand Therapy Certification Commission Web site. http://www.htcc.org/consumer-information/the-cht-credential/who-is-a-cht . (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Centers for Disease Control and Prevention. Rheumatoid arthritis (RA). Centers for Disease Control and Prevention Web site. https://www.cdc.gov/arthritis/basics/rheumatoid-arthritis.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Farthritis%2Fbasics%2Frheumatoid.htm . Published July 22,"
+        },
+        {
+            "number in article": 2016,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 22,
+            "reference": "National Collaborating Centre for Chronic Conditions. Rheumatoid Arthritis: The Management of Rheumatoid Arthritis and Treatment in Adults. London (UK): National Institute for Health and Clinical Excellence (NICE); 2009. (G)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Ekelman BA, Hooker L, Davis A, et al. Occupational therapy interventions for adults with rheumatoid arthritis: an appraisal of the evidence. Occup Ther Health Care . October 2014;28(4):347-61.  doi:10.3109/07380577.2014.919687. (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Ramsey L, Winder RJ, McVeigh JG. The effectiveness of working wrist splints in adults with rheumatoid arthritis: a mixed methods systematic review. J Rehabil Med . June 13, 2014;46(6):481-92.  doi:10.2340/16501977-1804.  (SR)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Dur M, Coenen M, Stoffer MA, et al. Do patient-reported  outcome measures cover personal factors important to people with rheumatoid arthritis? A mixed methods design using the International Classification of Functioning, Disability and Health as frame of reference. Health Qual Life Outcomes . 2015;13:27. doi:10.1186/s12955-015-0214-8.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Nasir SH, Troynikov O, Massy-Westropp  N. Therapy gloves for patients with rheumatoid arthritis: A review. Ther Adv Musculoskelet Dis . 2014;6(6):226-237. doi:10.1177/1759720X14557474. (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Hammond A. Rheumatoid arthritis, osteoarthritis, and fibromyalgia. In: Radomski MV, Trombly Latham CA, eds. Occupational Therapy for Physical Dysfunction . 8th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2020:1215-1243.  (GI)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Feldthusen C, Dean E, Forsbald-d'Elia  H, Mannerkorpi K. Effects of person-centered  physical therapy on fatigue-related  variables in persons with rheumatoid arthritis: a randomized controlled trial. Arch Phys Med Rehabil . 2016;97(1):26-36.  doi:10.1016/j.ampr.2015.09.022. (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Dures E, Almeida C, Caesley J, et al. Patient preferences for psychological support in inflammatory arthritis: a multicenter survey. Ann Rheum Dis . 2016;75(1):142-147. doi:10.1136/annrheumdis-2014-205636.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Andrade JA, Brandao MB, Pinto MRC, Lanna CD. Factors associated with activity limitations in people with rheumatoid arthritis. Am J Occup Ther . 2016;70(4):1. doi:10.5014/ ajot.2016.017476. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Codd Y, Stapleton T, Kane D, Mullan R. A survey to establish current practice in addressing work participation with inflammatory arthritis in the Irish clinical setting. Musculoskeletal Care . 2018;16(1):158-162.  doi:10.1002/msc.1198. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Lo J, Chan L, Flynn S. A systematic review of the incidence, prevalence, costs, and activity and work limitations of amputation, osteoarthritis, rheumatoid arthritis, back pain, multiple sclerosis, spinal cord injury, stroke, and traumatic brain injury in the United States: A 2019 update. Arch Phys Med Rehabil . 2021;102(1):115-131.  doi:10.1016/ j.apmr.2020.04.001. (SR)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Shao JH, Yu KH, Chen SH. Effectiveness of a self-management  program for joint protection and physical activity in patients with rheumatoid arthritis: A randomized controlled trial. Int J Nurs Stud . 2021;116:103752. doi:10.1016/j.ijnurstu.2020.103752. (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "McDonald S, Levine D, Barnes H, et al. Effectiveness of adaptive silverware on active range of motion (ROM) in individuals with rheumatoid arthritis.2020 AOTA Annual Conference & Expo. American Journal of Occupational Therapy . 2020;74(Sup 1):1. doi:10.5014/ajot.2020.74S1-PO2714.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Bergstr\u00f6m M, Sverker A, Larsson Ranada \u00c5, et al. Significant others' influence on participation in everyday life - the perspectives of persons with early diagnosed rheumatoid arthritis. Disabil Rehabil . 2020;42(3):385-393.  doi:10.1080/09638288.2018.1499825. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Williamson E, Srikesavan C, Thompson J, et al. Translating the Strengthening and Stretching for Rheumatoid Arthritis of the Hand Programme from clinical trial to clinical practice: An effectiveness\u2013implementation  study. Hand Ther . 2020;25(3):87-97.  doi:10.1177/1758998320948538. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Aletaha D, Smolen JS. Diagnosis and management of rheumatoid arthritis: a review. JAMA. 2018;320(13):1360-1372.  doi:10.1001/jama.2018.13103. (GI)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Boot CRL, de Wind A, van Vilsteren M, van der Beek AJ, van Schaardenburg D, Anema JR. One-year predictors of presenteeism in workers with rheumatoid arthritis: disease-related  factors and characteristics of general health and work. J Rheumatol . 2018;45(6):766-770.  doi:10.3899/jrheum.170586. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Hammond A, O'Brien R, Woodbridge S, et al. Job retention vocational rehabilitation for employed people with inflammatory arthritis (WORK-IA):  a feasibility randomized controlled trial. BMC Musculoskelet Disord . 2017;18(1):315. doi:10.1186/s12891-017-1671-5.  (RCT)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Siegel P, Tencza M, Apodaca B, Poole JL. Effectiveness of occupational therapy interventions for adults with rheumatoid arthritis: a systematic review. Am J Occup Ther . 2017;71(1):7101180050p1-7101180050p11.  doi:10.5014/ajot.2017.023176. (SR)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Cramp F. The role of non-pharmacological  interventions in the management of rheumatoid-arthritis-related  fatigue. Rheumatology (Oxford) . 2019;58(Suppl 5):v22-v28. doi:10.1093/rheumatology/kez310. (RV)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Littlejohn EA, Monrad SU. Early Diagnosis and Treatment of Rheumatoid Arthritis. Prim Care . 2018;45(2):237-255.  doi:10.1016/j.pop.2018.02.010. (GI) "
+        }
+    ]
+}

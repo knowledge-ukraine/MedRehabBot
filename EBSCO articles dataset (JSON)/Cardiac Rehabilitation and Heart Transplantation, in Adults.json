@@ -1,0 +1,328 @@
+{
+    "metadata": {
+        "title": "Heart Transplantation and Exercise in Adults",
+        "synonyms": [
+            "transplantation, heart and exercise, in adults",
+            "exercise and heart transplantation, in adults",
+            "heart transplantation and cardiac rehabilitation, in adults",
+            " cardiac rehabilitation and heart transplantation",
+            "in adults"
+        ],
+        "anatomical location body part affected": [
+            "Heart/cardiovascular system"
+        ],
+        "area of specialty": [
+            "acute care",
+            "cardiovascular rehabilitation"
+        ],
+        "description": [
+            "Heart transplantation (HTx) is the surgical option for end-stage  heart disease/failure. Life expectancy increases in successful cases",
+            "In adults, HTx is most often performed for advanced dilated cardiomyopathy, ischemic heart failure, valvular disease, or a failed primary transplant",
+            "Candidates are commonly classified New York Heart Association (NYHA) class IV: symptoms of cardiac insufficiency at rest, unable to carry out any physical activity without discomfort, and very poor cardiorespiratory fitness as measured by peak oxygen uptake (VO 2 peak) on exercise testing(1)",
+            "The continuing relatively poor physical capacity after HTx likely results in large part from muscular disuse and aerobic deconditioning associated with prolonged illness and physical inactivity(2)",
+            "In addition, autonomic denervation of the donor heart diminishes cardiac reserve because sympathetic neural stimulation is lost. The blunted sympathetic drive impairs chronotropic and ionotropic responses to exercise(2)",
+            "Transplant recipients are thus commonly referred to exercise rehabilitation for improving VO 2 peak, as well as for reducing coronary risk factors, either preexisting or related to immunosuppressive drug therapy, which is known to promote hyperlipidemia, hypertension, diabetes, and obesity",
+            "For the first few months after HTx, the heart does not respond normally to sympathetic nervous stimulation. Usually the resting HR is higher than expected and the HR response to exercise is delayed, with the peak HR being lower than expected(2)",
+            "Supervised exercise training post HTx reliably increases VO 2 peak, lean tissue mass, and muscle strength, even though ventricular function of the grafted heart usually does not improve(13)",
+            "This review discusses the altered cardiac responses to exercise after HTx and the role of exercise training in restoring physical work capacity"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "Z94.1": "heart transplant status",
+            "Z48.21": "encounter for aftercare following heart transplant (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition",
+            "Phase III and IV (long-term  maintenance phase) of cardiac rehabilitation might not be reimbursed by some insurance providers;(4) clinicians/patients should clarify this information with insurance provider prior to beginning services ",
+            "For Medicare recipients, see https://www.medicare.gov/coverage/cardiac-rehabilitation-programs"
+        ],
+        "presentation signs and symptoms": [
+            "Presentation specifically for cardiac rehabilitation exercise training",
+            "Reduced daily physical activity",
+            "Poor age-related  functional exercise capacity",
+            "Sternotomy scar characteristic of open-heart  surgery",
+            "Resting HR might be somewhat elevated(2)",
+            "Possible adverse signs/symptoms of immunosuppressive therapy \u2013Muscle weakness \u2013Fatigue \u2013Increased hair growth \u2013Bruising \u2013Hypertension Causes, Pathophysiology, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop the exam and notify physician if patient reports unexpected symptoms such as chest pain, shortness of breath, dizziness, etc.",
+            "Chronotropic incompetence is common after HTx.(2) The actual peak HR achieved during standard exercise testing should be documented rather than estimated from age",
+            "The Borg rate of perceived exertion (RPE) target should be between 11 and 13 on the 6\u201320  RPE scale(16)",
+            "In the absence of exertion-related  symptom limitations, exercise testing on a treadmill or cycle ergometer should be terminated at predetermined endpoints specific to the patient(2)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Potential causes of reduced functional capacity after HTx\u2013Although cardiac function improves significantly, peak exercise capacity remains below predicted for sex and age.(2)Contributing factors include the following:-Prolonged illness and extended physical inactivity leading to-muscle weakness-cardiovascular deconditioning-Orthotopic autonomic denervation-Complications of immunosuppressive therapy, such as corticosteroid-induced myopathy, might reduce muscle functionand bone density-Chronic graft rejection-Transplant vasculopathy"
+        ],
+        "pathophysiology": [
+            "Impaired muscle function is associated with atrophy, reduced strength, and insufficient peripheral O2 utilization duringfatigue-limited  exercise",
+            "Sympathetic denervation of the donor heart blunts the recipient\u2019s chronotropic response (i.e., the increase in HR at the onsetof exercise, as well as the HR achieved during submaximal-  and maximal-effort  exercise)\u2013This \u201cchronotropic incompetence\u201d is a major factor limiting submaximal or peak HR and exercise performance after HTx"
+        ],
+        "risk factors": [
+            "Risk factors for poor functional capacity after HTx\u2013Poor adherence to therapeutic regimen\u2013Smoking\u2013Physical inactivity\u2013Dietary habits that might promote obesity, diabetes, or hyperlipidemia\u2013Abuse of alcohol, drugs, or illegal substances\u2013Complications of immunosuppressive therapy (e.g., obesity and corticosteroid-induced  myopathy)\u2013Allograft rejection"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Immunosuppressive medications help block rejection of the transplanted heart; however, they increase susceptibility to infection and various types of cancer. Clinicians should remain alert for new infections and postpone exercise during active infection",
+        "Metabolic complications of immunosuppressive therapy include arterial hypertension, chronic renal insufficiency, hyperlipidemia, diabetes, and osteoporosis",
+        "Notify physician immediately if a patient presents with recent onset of signs and symptoms of acute illness, including unusual fatigue fever  malaise flu-like  symptoms (e.g., chills, headache, dizziness, muscle aches) pulmonary crackles/rales nausea diarrhea",
+        "Postpone physical activity/exercise therapy and notify physician in case of(2) resting systolic BP over 200 mmHg resting diastolic BP over 110 mmHg symptoms such as severe headache, dizziness, or lightheadedness during exercise fatigue resolves very slowly after exercise",
+        "Lower-extremity  weakness and cramps might restrict exercise capacity before cardiac responses become limiting",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop the exam and notify physician if patient reports unexpected symptoms such as chest pain, shortness of breath, dizziness, etc.",
+            "Chronotropic incompetence is common after HTx.(2) The actual peak HR achieved during standard exercise testing should be documented rather than estimated from age",
+            "The Borg rate of perceived exertion (RPE) target should be between 11 and 13 on the 6\u201320  RPE scale(16)",
+            "In the absence of exertion-related  symptom limitations, exercise testing on a treadmill or cycle ergometer should be terminated at predetermined endpoints specific to the patient(2)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "Is the patient being treated for complications of HTx (e.g., arterial hypertension, chronic renal insufficiency, hyperlipidemia, neurological disease, diabetes, osteoporosis)?",
+                    "surgical management": [],
+                    "medications": "Determine what medications have been prescribed. Confirm that they are being taken. Lifelong daily immunosuppressive medication is required to prevent organ rejection. Most patients are treateda combination of calcineurin inhibitor (cyclosporine A or tacrolimus), antimetabolite agent (azathioprine [Imuran] or mycophenolatemofetil), and corticosteroid. Other immunosuppression treatments include radiation and plasmapheresis. Patients might also receive treatment for coexisting morbidities such as hypertension or diabetes",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "The workup might include",
+                        "ECG",
+                        "urinalysis",
+                        "blood glucose",
+                        "serum potassium, creatinine, and calcium",
+                        "hematocrit",
+                        "lipid profile  HDL cholesterol, LDL cholesterol, triglycerides",
+                        "optional  urinary albumin/creatinine ratio or urinary albumin excretion",
+                        "cardiopulmonary exercise stress test before and/or after treatment"
+                    ],
+                    "alternative therapies": "Document use of herbal, behavioral, or other alternative therapies for health, and whether they help",
+                    "previous therapy": "Document whether patient has received pre-,early, and/or post-HTx  physical therapy and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms ",
+                "nature of symptoms": "Document reported symptoms",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment. The Borg RPE Scale can be used",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "If present, document number of wakings/night",
+                "other symptoms": "Document other symptoms patient might be experiencing that could worsen ability to exercise and/or symptoms that might indicate referral to physician (e.g., dizziness, shortness of breath, syncope)",
+                "respiratory status": "Note any history of use or need for supplemental oxygen, mechanical ventilator, asthma inhaler, etc. Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any prior exercise therapy for chronic conditions? Document history of cardiovascular problems",
+                    "comorbid diagnoses": "Any history of stroke, kidney disease, diabetes, or renovascular disease?",
+                    "medications previously prescribed": "Obtain a comprehensive list of all prescribed and OTC medications, herbal remedies, and use of illegal street drugs",
+                    "other symptoms": "Ask patient about other symptoms he or she might be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient want to participate in recreational sports or return to a previous activity? Did the patient work previously? If so, does he or she plan to return to work? What duties does the job entail? Is current physical condition limiting the patient\u2019s ability to return to preferred activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Inquire about ADL status and functional limitations. Is the patient using any adaptive equipment?Ask about family situation and with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary; how many stairs, numbers of floors in home",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be appropriate \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Determine BMI and waist circumference \u2013Patients who have undergone HTx are at risk for increases in BMI, body fat percentage, and waist circumference when admission to a cardiac rehabilitation program is delayed(12)",
+            "assistive and adaptive devices": "Assess fit and use of prescribed assistive devices, if applicable",
+            "balance": " Balance \u2013Confirm that static and dynamic balance reactions are adequate for use of exercise equipment such as treadmill or elliptical trainer \u2013Berg Balance Scale (BBS)(5) -An outcome measure designed to measure static balance and fall risk in an adult population during 14 different activities -Grading is based on a 0 to 4 scale in which all of the points are tallied for a final score",
+            "cardiorespiratory function and endurance": [
+                "Assess HR, BP, and respiratory rate during quiet rest and with activity",
+                "The 6-minute  walk test for distance, administered in a hospital setting, was found to be a safe and practical submaximal measure of functional exercise capacity in heart transplantation.(6) This is a submaximal aerobic/endurance test, in which clinicians measure the distance walked by patients over the span of 6 minutes. The average distance walked by chronic heart failure patients is between 310 and 427 meters, depending upon the severity of the condition(7)"
+            ],
+            "circulation": "Confirm that peripheral pulses are present in all limbs",
+            "functional mobility": "Assess normalcy in gross movement during transfers and functional tasks using the upper extremities (e.g., reaching, pulling, pushing, holding, etc.) and lower extremities (e.g., steps, squatting, kneeling, kicking). The FIM or Timed Up and Go (TUG) test can be used for objective measurement ",
+            "gait locomotion": "Prior to prescribing a walking exercise program, confirm that ambulatory function is normal, including synchrony of limb movements and gait speed, as well as posture in walking. The 10MWT can be used to assess gait speedAssess passive accessory movement if there is a history of joint pain",
+            "muscle strength": "Manually scan strength in functional tasks (e.g., handgrip, pushing, pulling, sit-up,  squatting). Assess strength using manual muscle testing (MMT), dynamometry, or weights in muscle groups targeted for exercise training to calculate 1-repetition  maximum (1-RM)",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "Determine that normal functional ROM and flexibility are present in all extremities",
+            "self-care activities of daily living": "",
+            "reflex testing": "Check that deep tendon reflexes are normal",
+            "sensory testing": "Scan dermatomes for normal sensation Special test specific to diagnosis \u2013In compliance with medical guidelines, assess HR, BP, adverse signs/symptoms, and perceived exertion responses during graded exercise testing on a cycle ergometer or treadmill, keeping in mind that target HR can be used in only one-third  of HTx patients one year after procedure(2)a general health outcome measure",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "systolic BP exceeds 260 mmHg or diastolic BP exceeds 115 mmHg",
+                "systolic BP fails to rise more than 20 mmHg",
+                "systolic BP falls more than 10 mmHg",
+                "exertional symptoms, such as chest discomfort (uncommon because of denervation), arrhythmia, lightheadedness, or dyspnea, suggest insufficiency",
+                "An RPE between 11 and 13 on the 620  RPE scale was found to maintain exercise HR in the exercise training zone (between anaerobic threshold HR and respiratory compensation point HR) in patients with HTx undergoing both land and water training(16) -Based on a Brazilian study of 15 women considered clinically stable an average of 4 years after HTx"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment in their assessment and treatment decisions",
+                "Patients with this diagnosis might be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Tailor the exercise prescription to fit each patient\u2019s measured functional ability, symptoms, and cardiorespiratory responses to exercise testing(2)",
+                "Monitor BP on a regular basis during exercise. According to standard exercise guidelines,(2) exercise testing or exercise training should be terminated if",
+                "BP higher than 180/110 mmHg is an absolute contraindication and BP higher than 160/100 mmHg is a relative contraindication to resistance exercise(8)",
+                "To prevent an exaggerated BP response to exercise, provide the patient with a thorough orientation to using the prescribed exercise equipment and adequate warm-up time(2)",
+                "Research on the safety and appropriateness of resistance exercise (weightlifting) after HTx is limited, and thus general guidelines for including weightlifting in the training program are not available",
+                "In addition to monitoring HR and BP, use the patient\u2019s RPE and any other symptoms to manage exercise intensity for either aerobic or resistance training",
+                "Extend the cooling-down  period and avoid having the patient stop suddenly after exercise because this might cause a precipitous drop in systolic BP (orthostatic hypotension and possibly syncope) due to venous pooling(2) "
+            ]
+        },
+        "diagnosis need for treatment": "Status post HTx/physical inactivity contributes to reduced functional capacity and increases risk for comorbidities",
+        "rule out": "N/A",
+        "prognosis": [
+            "There is an association between early cardiac rehabilitation and long-term survival(17) \u2013Based on a retrospective review conducted in the United States of 201 patients who underwent HTx between 2000 and 2013 \u2013The number of cardiac rehabilitation sessions in the first 90 days after HTx predicted survival at 1\u20135 years and at 10 years after HTx \u2013Other predictors of survival included pre-HTx  6MWT results, weight at HTx, and BMI and systolic BP at cardiac rehabilitation enrollment",
+            "Nonadherence to pharmacologic and nonpharmacologic treatment program after HTx has a negative effect on prognosis. Authors of a systematic review found that reducing the daily dose of immunosuppressant improved patient adherence and that there was weak evidence to support the use of psychoeducational interventions(18)",
+            "Moderate to severe organ rejection was found to be associated with changes in electrocardiogram (e.g., prolonged QRS, right bundle branch block) in a study in the United States of 220 adults who underwent HTx(14)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician for management of symptoms related to immunosuppression Clinical exercise testing laboratory for measurement of VO 2peak Nutritionist for dietary management and advice on weight control Occupational therapist for limitations in ADLs Psychiatrist/psychologist for stress/anxiety disorder Smoking cessation programs",
+        "other considerations": [
+            "VO2 peak is widely used to assess aerobic work capacity in patients who have undergone HTx because it reflects the integrated function of the heart, lungs, and blood vessels to deliver oxygen and the working muscles to utilize it",
+            "Deficits in both central factors and peripheral factors contribute to the observed lower VO 2 peak in HTx recipients(2)",
+            "Based on a systematic review of 3 studies, there is insufficient evidence to support exercise as an intervention to decrease psychological distress in patients who have undergone HTx(11)",
+            "Patients who have undergone HTx are at greater risk for increases in BMI, body fat percentage, and waist circumference when admission to a cardiac rehabilitation program is delayed(12) \u2013Based on retrospective Canadian research study of 43 heart transplant patients",
+            "Rehabilitation training prior to HTx was found to improve hemodynamic parameters(19) \u2013Based on an Iranian study of 18 patients who were candidates for HTx and underwent 3 months of exercise training",
+            "Transcutaneous electrical acupoint stimulation (TEAS), applied to PC5 and PC6 acupoints, was found to decrease HR variability during treatment and to improve hemodynamics after treatment(20) \u2013Based on a Brazilian study of 22 patients with HTx \u2013TEAS was for 40 minutes and used the following parameters: intensity of 0.8\u20131.9 mA and a frequency of 5\u201330  Hz. The PC5 and PC6 acupuncture points are located in the anterior region of the forearm near the wrist"
+        ],
+        "treatment summary": [
+            "Authors of a 2017 Cochrane review of cardiac rehabilitation for HTx patients concluded that(15) \u2013there was moderate-quality  evidence suggesting that exercise-based  cardiac rehabilitation improves exercise capacity \u2013there was moderate-quality  evidence that exercise has no impact on health-related  quality of life in the short-term  (median 12 weeks follow-up) \u2013long-term  follow-up  data are incomplete and further good quality research is needed on long-term  effects of exercise-based  cardiac rehabilitation",
+            "General considerations \u2013Following HTx, patients should be mobilized and start low-level  exercise while in the hospital(9) pending physician approval \u2013Resistance training might be initiated 6 to 8 weeks after HTx(9) pending physician approval  \u2013High-intensity  interval training (HIIT) is being used more frequently as a safe treatment for patients who have undergone HTx -Based on a randomized controlled crossover trial in Denmark of patients who had undergone HTx more than 1 year prior to the initiation of the program. Sixteen patients completed the study and were included in data analysis(10) -A year of HIIT was found to improve exercise capacity but not left ventricular function in 52 stable patients with HTx in an RCT conducted in Norway(13)",
+            "Aerobic exercise training after HTx \u2013Type of activity: Rhythmic movement with the legs (e.g., walking, jogging, or cycling), arms (e.g., upper-body  cycle ergometer), or both legs and arms (e.g., elliptical trainer with arm levers) \u2013Intensity: \u201cModerate\u201d exertion, equaling 11 to 13 on the Borg RPE Scale(2,16)or HR equal to 60\u201380%  of VO 2 peak \u2013Duration: Continuous or discontinuous exercise totaling 30\u201345  minutes of physical activity per day. Five hours or more per week for promoting weight loss, as advised",
+            "Resistance exercise training after HTx \u2013Although exercise therapy should target muscle weakness, the intensity of strengthening exercise that is generally safe and effective post HTx is unclear \u2013Resistance training at 40\u201360%  of 1-RM  is considered safe and effective in persons with cardiovascular diseases(8) -Type of activity: weight-lifting  exercises on machines or using free-weights  (e.g., leg press, chest press, leg extension, latissimus dorsi pull-down,  leg curls, shoulder press, biceps curl, triceps press) -Intensity: 40\u201360%  of 1-RM  for each exercise -Duration: 1\u20133 sets of 10 repetitions per exercise, taking about 30 minutes to complete the exercise session -Frequency: 2\u20133 nonconsecutive days per week",
+            "Combined aerobic and resistance exercise training after HTx \u2013Researchers of a Canadian RCT involving 22 participants (mean age 57 years, mean 5 years post HTx) who underwent 12 weeks of supervised aerobic and strength training found improvements in VO 2peak, leg and total lean tissue mass, and muscle strength (chest press and leg press) when compared to control group (n = 21)(3) -Aerobic program -For the first 8 weeks, treadmill and cycle exercise 5 days/week at HR equal to 60\u201380%  of VO 2peak, for 30\u201345  minutes -For the final 4 weeks, continuous aerobic training was performed 3 days/week at HR equal to 80% of VO 2peak, for 45 minutes -In addition, during the final 4 weeks interval cycle training was performed 2 days/week at 90\u2013100%  of peak power for 30 seconds followed by 30-second  rest, for 10 to 25 repetitions, as tolerated -Strength program -1\u20132 sets of 10\u201315  reps, at 50% of 1-RM,  2 days/week -3 upper extremity exercises (chest press, latissimus dorsi pull-down, biceps curl) -1 lower extremity exercise (leg press) -No adverse events were associated with the 12-week  training program -Training did not change left ventricular function",
+            "A single exercise bout, either heated-water-based  exercise or land-based  exercise, was found to lower ambulatory BP in patients with HTx when compared to nonexercised control intervention(21) \u2013Based on Brazilian study of 18 patients who were, on average, 5 years post HTx \u2013Exercise bout was 30 minutes \u2013The authors suggest that exercise may be a tool to counteract hypertension in this population",
+            "Patients with existing osteoporosis \u2013Avoid high-intensity  exercise training and trunk flexion because of the increased risk of fractures . Problem Goal Intervention Expected Progression Home Program  Reduced strength, aerobic endurance, and functional exercise capacityImprovement of strength, aerobic endurance, and functional exercise capacity to age-norm or betterExercise therapy _ See review in Treatment summary _ _ Monitor vitals _ _Gradually progress the intensity and duration of exercises to the maintenance phaseProvide the patient with an independent home program at discharge from supervised exercise. ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved strength": [
+            "Strength assessed by MMT, with machines, or using free weights to calculate 1-RM"
+        ],
+        "improved aerobic endurance": [
+            "VO2peak, aerobic endurance assessed by graded exercise testing, 6MWT"
+        ],
+        "improved functional exercise capacity": [
+            "Functional aerobic capacity assessed by 6-minute  walk distance(6) or graded exercise test(2)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continue prescribed exercise training through independent home program",
+        "Weight reduction and control, as indicated",
+        "Dietary program, as prescribed"
+    ],
+    "patient education": [
+        "A guide to HTx surgery from the University of Ottawa Heart Institute is found at https://www.ottawaheart.ca/sites/default/files/uploads/heart-transplant-patient-guide.pdf",
+        "Information from the Mayo Clinic on HTx surgery is available at https://www.mayoclinic.org/tests-procedures/heart-transplant/about/pac-20384750 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Criteria Committee of the New York Heart Association. In: Nomenclature and Criteria for Diagnosis of Diseases of the Heart and Great Vessels . 9th ed. Boston, MA: Little, Brown & Co; 1994:253-256.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "American College of Sports Medicine. ACSM's Guidelines for Exercise Testing and Prescription . 9th ed. Baltimore, MD: Wolters Kluwer/Lippincott Williams & Wilkins; 2014. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Haykowsky M, Taylor D, Kim D, Tymchak W. Exercise training improves aerobic capacity and skeletal muscle function in heart transplant recipients. Am J Transplant . 2009;9(4):734-739.  (RCT)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Cardiac rehabilitation. Genesis Heart Institute Web site. http://www.genesishealth.com/ghi/conditions-services/services/cardiac_rehabilitation/ . Accessed September 26, 2019. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "La Porta F, Caselli S, Susassi S, Cavallini P, Tennant A, Franceschini M. Is the Berg Balance Scale an internally valid and reliable measure of balance across different etiologies in neurorehabilitation? A revisited Rasch analysis study. Arch Phys Med Rehabil . 2012;93(7):1209-1216.  doi:10.1016/j.apmr.2012.02.020. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Doutreleau S, Di Marco P, Talha S, Charloux A, Piquard F, Geny B. Can the six-minute  walk test predict peak oxygen uptake in men with heart transplant?. Arch Phys Med Rehabil. 2009;90(1:51-57).  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Rasekaba T, Lee AL, Naughton MT, Williams TJ, Holland AE. The six-minute  walk test: a useful metric for the cardiopulmonary patient. Intern Med J . 2009;39(8):495-501. doi:10.1111/j.1445-5994.2008.01880.x.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Williams MA, Haskell WL, Ades PA, et al; American Heart Association Council on Clinical Cardiology; American Heart Association Council on Nutrition, Physical Activity, and Metabolism. Resistance exercise in individuals with and without cardiovascular disease: 2007 update: a scientific statement from the American Heart Association Council on Clinical Cardiology and Council on Nutrition, Physical Activity, and Metabolism. Circulation . 2007;116(5):572-584.  (PP)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Alfonso JD, Allred DB, Eapen BC. Chronic medical conditions: Pulmonary disease, organ transplantation, and diabetes. In: Cifu DX, ed. Braddom\u2019s Physical Medicine & Rehabilitation . 5th ed. Philadelphia, PA: Elsevier; 2016:613-616.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Dall CH, Snoer M, Christensen S, et al. Effect of high-intensity  training versus moderate training on peak oxygen uptake and chronotropic response in heart transplant recipients: A randomized crossover trial. Am J Transplant . Advance online publication. 2014. doi:10.111/ajt.12873. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Conway A, Schadewaldt V, Clark R, et al. The effectiveness of non-pharmacological  interventions in improving psychological outcomes for heart transplant recipients: a systematic review. Eur J Cardiovasc Nurs . 2014;13(2):108-115.  doi:10.1177/1474515113519519. (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Marzolini S, Grace SL, Brooks D, et al. Time-to-referral,  use, and efficacy of cardiac rehabilitation after heart transplantation. Transplantation . Advance online publication. 2015;99(3):594\u2013601.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Rustad LA, Nyrtroen K, Amundsen BH, Gullestad L, Aakjus S. One year of high-intensity  interval training improves exercise capacity, but not left ventricular function, in stable heart transplant recipients: a randomised controlled trial. Eur J Prev Cardiol . 2014;21(2):181-91.  doi:10.1177/2047487312469477. (RCT)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Hickey KT, Sciacca RR, Chen B, et al. Electrocardiographic correlates of acute allograft rejection among heart transplant recipients. Am J Crit Care . 2018;27(2):145-150. doi:10.4037/ajcc2018862. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Anderson L, Nguyen TT, Dall CH, Burgess L, Bridges C, Taylor RS. Exercise-based  cardiac rehabilitation in heart transplant recipients. Cochrane Database Syst Rev . 2017;4:CD012264. doi:10.1002/14651858.CD012264.pub2.  (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Ciolac EG, Castro RE, Greve JM, Bacal F, Bocchi EA, Guimar\u00e3es GV. Prescribing and regulating exercise with RPE after heart transplant: a pilot study. Med Sci Sport Exerc . 2015;47(7):1321-1327.  doi:10.1249/MSS.0000000000000553. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Rosenbaum AN, Kremers WK, Schirger JA, et al. Association between early cardiac rehabilitation and long-term  survival in cardiac transplant recipients. Mayo Clin Proc . 2016;91(2):149-156.  doi:10.1016/j.mayocp.2015.12.002. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Marcelino CA, Diaz LJ, da Cruz DM. The effectiveness of interventions in managing treatment adherence in adult heart transplant patients: a systematic review. JBI Database Syst Rev Implement Rep . 2015;13(9):279-308.  doi:10.11124/jbisrir-2015-2288.  (SR)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Maleki M, Fatolahi H, Feylizadeh A, Abedi B. The effect of rehabilitation training and total checkup as a noninvasive method on hemodynamic parameters in patients who candidate for heart transplantation. Int Arch Health Sciences . 2019;6(1):24-29.  doi:10.4103/iahs.iahs_56_18. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Moreira BR, Duque AP, Massolar CS, et al. Transcutaneous electrical stimulation of PC5 and PC6 acupoints modulates autonomic balance in heart transplant patients: a pilot study. J Acupunct Meridian Stud . 2019;12(3):84-89.  doi:10.1016/j.jams.2019.04.001. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Castro RE, Guimar\u00e3es GV, Da Silva JM, Bocchi EA, Ciolac EG. Postexercise hypotension after heart transplant: water- versus land-based  exercise. Med Sci Sports Exerc . 2016;48(5):804-810.  doi:10.1249/MSS.0000000000000846. (R)"
+        }
+    ]
+}

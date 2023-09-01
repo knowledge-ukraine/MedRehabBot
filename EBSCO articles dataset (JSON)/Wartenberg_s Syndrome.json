@@ -1,0 +1,319 @@
+{
+    "metadata": {
+        "title": "Wartenberg's Syndrome",
+        "synonyms": [
+            "radial neuritis, wartenberg",
+            "neuritis, wartenberg\u2019s radial",
+            "wartenberg\u2019s syndrome",
+            "cheiralgia paresthetica"
+        ],
+        "anatomical location body part affected": [
+            "As the radial nerve enters the forearm, it bifurcates, with the superficial radial nerve (SRN) being one of the two diverting branches. The SRN then continues distally down the radial side of the forearm between the brachioradialis and extensor carpi radialis longus, where it eventually terminates into the dorsal digital nerves. As the SRN traverses the forearm, it becomes most superficial at about 9 cm proximal to the radial styloid process(1)",
+            "The SRN provides sensation to the dorsal thumb, index, middle finger, and areas proximal to the proximal interphalangeal (PIP) joints(1)"
+        ],
+        "area of specialty": [
+            "hand therapy",
+            "neurological rehabilitation",
+            "orthopedic rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Wartenberg\u2019s syndrome is an injury to or compression/entrapment of the SRN along any portion of the nerve tract. The offending stimulus is usually direct trauma, external compression, or a mass(2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "354.3": "lesion of radial nerve"
+        },
+        "ICD-10 codes": {
+            "G56.30": "lesion of radial nerve, unspecified upper limb (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Carrying, Moving & Handling Objects G-code set": {
+                "G8984": "Carrying, moving & handling objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, moving & handling objects functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, moving & handling objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Self Care G-code set": {
+                "G8987": "Self care functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8988": "Self care functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8989": "Self care functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code set": {
+                "G8990": "Other physical or occupational primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other physical or occupational primary functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other physical or occupational primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code set": {
+                "G8993": "Other physical or occupational subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other physical or occupational subsequent functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other physical or occupational subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Sensory symptoms limited to lateral one third of forearm, lateral wrist and hand, and dorsum of hand to web space between middle and ring fingers (to PIP joint)",
+            "Paresthesia and hypesthesia in the distribution of the SRN",
+            "Pain (in the form of electric shock) may radiate from the radial forearm to the dorsal thumb and index finger(3)",
+            "Repetitive wrist movements, especially twisting when pouring drinks, can aggravate the pain(3)",
+            "Pain rather than dysfunction is the major complaint",
+            "Motor weakness is not seen with this condition Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Extreme pain and edema may limit examination in the acute stage. Physician may perform digital block to decrease pain during assessment"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Wearing tight bracelets or an overly tightened wristwatch(1)",
+            "Overly tightened handcuffs(4)",
+            "Compression by space-occupying  mass (tumor, ganglion cyst)(2)",
+            "Direct trauma(1)",
+            "Iatrogenic causes (surgery, venipuncture)(5)",
+            "Repeated exposure to extremely cold temperature(6)",
+            "Repetitive wrist dorsiflexion with the wrist joint loaded(7)",
+            "Tenosynovitis in de Quervain\u2019s disease may lead to irritation of the nearby SRN; 48% of those with Wartenberg\u2019s syndromehave also been found to have de Quervain\u2019s disease(5)"
+        ],
+        "pathogenesis": [
+            "Although entrapment or compression can occur anywhere along the pathway of the SRN, the most common site ofentrapment is usually between the brachioradialis tendon and extensor carpi radialis longus tendon(5)",
+            "As the forearm undergoes pronation and supination, the brachioradialis and extensor carpi radialis longus tendons convergeonto and diverge away from the SRN, respectively. The \u201cscissor-like\u201d action of these two tendons during forearm motioncan subsequently compress the nerve(5)",
+            "The SRN is believed to be most susceptible to compression at the posterior border of the brachioradialis as the nervebecomes more superficial(1)"
+        ],
+        "risk factors": [
+            "No age-specific  or occupational risk factors have been identified in epidemiological studies",
+            "Female gender",
+            "Wearing tight-fitting  bracelets or wristwatches",
+            "The SRN is the most commonly affected nerve (89%) in peripheral nerve injuries induced from overtightened handcuffs(4)",
+            "There have been individual reports of alcohol use being associated with Wartenberg\u2019s syndrome(4)",
+            "Use of a constrictive wrist bands or racquetball straps have been reported to cause Wartenberg\u2019s syndrome(8)",
+            "Extensive wheelchair use(7)",
+            "Diabetes(6)",
+            "Distal radius fracture(6)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Because a high percentage of cases of Wartenberg\u2019s syndrome involve de Quervain\u2019s disease, detection of the two conditions concomitantly present in a patient must be uncovered or an iatrogenic injury may result, especially during postsurgical management(5)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Extreme pain and edema may limit examination in the acute stage. Physician may perform digital block to decrease pain during assessment"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -When did symptoms first appear? -What were the symptoms at onset and how have they progressed? -Was a traumatic event involved, or did symptoms slowly surface? -What was the patient doing just prior to the emergence of symptoms? -Does the patient wear jewelry or equipment around the wrists?",
+                "course of treatment": {
+                    "medical management": " Medical management Ask about patient\u2019s past and current medical management How has the pain responded to treatment? Did the patient have surgery for this problem? Does the patient wear a splint?",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Determine what medications clinician has prescribed; are they being taken? NSAIDs are commonly prescribed",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Radiographs to assess the wrist and rule out fracture ",
+                        "MRI to rule out tumors and cysts(2)",
+                        "Electromyographic and nerve conduction studies to assess degree and location of nerve damage, as well as course of recovery, but are of limited value in this condition"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Note length of time each activity is performed before the symptoms come on or are eased -Carrying, lifting, and pouring drinks may elicit immediate symptoms, requiring several minutes to rest and allow for symptoms to subside(3)",
+                "body chart": " Body chart -Use body chart to document location and nature of symptoms -Symptoms limited to lateral one third of forearm, lateral (radial) wrist and hand, and dorsum of hand to web space between middle and ring fingers (to proximal interphalangeal joint) -Pain may radiate into the hand from the dorsal wrist near the radial styloid process",
+                "nature of symptoms": " Nature of symptoms -Ask about onset of symptoms (sudden or gradual) and how they have changed over time -Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling) -Symptoms are commonly described as a constant, burning pain, with occasional electric-like shocks(3)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of awakenings/night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician Barriers to learning -Are there any barriers to learning? Yes___ No___ -If Yes, describe _______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any prior wrist/hand problems, fractures, or surgery?",
+                    "comorbid diagnoses": " Comorbid diagnoses Ask the patient about other diagnoses, including diabetes, cancer, heart disease, psychiatric disorders, and orthopedic disorders Recent pregnancy? Inquire about alcohol use(4)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs and supplements)",
+                    "other symptoms": "Ask the patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -Does the patient wear bracelets or tie objects around the involved wrist? -Ask about adverse effects of condition on occupational and recreational activities -Inquire about repetitive wrist movements at work -In a case series of 15 patients with Wartenberg\u2019s syndrome, 33.3% had work-related symptoms(9)",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": " Living environment -Stairs and number of floors in home? -With whom does patient live? -Identify if there are barriers to independence in the home; any modifications necessary? "
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "In patients wearing a splint/orthosis, assess hand function with splint/orthosis on and off to assure that splint/orthosis allows mobility of thumb and fingers",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Radial pulses and capillary filling of the hand should be assessed. Although typically normal, in the case of overtightened handcuffs or bracelets, circulation may concomitantly be compromised(4) Cranial/peripheral nerve integrity \u2013Evaluate upper limb neurodynamic mobility, especially in a modified SRN biased position(3) -Position patient in a Finkelstein test position (clenched fist around a flexed thumb with the wrist in ulnar deviation) -Compare bilaterally Joint integrity and mobility \u2013Assess accessory motion of radiocarpal and intercarpal joints, which should not be impaired by this condition \u2013If indicated, screen cervical spine, shoulder, and elbow joints to uncover any proximal involvement(3)",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": " Muscle strength \u2013Assess handgrip and pinch-grip  strength. Intrinsic muscle strength of involved hand should be normal(10) \u2013Also assess the strength of dorsal and radial forearm muscles. These muscles are innervated by the posterior interosseous nerve and should be normal(10) \u2013Any weakness found (handgrip, pinch-grip,  or wrist drop) is a sign of a proximal radial nerve injury or more severe condition not associated with Wartenberg\u2019s syndrome(1)",
+            "observation inspection palpation including skin assessment": [
+                "Assess integrity of skin in distribution area for dryness and irritation (flaking, scaling, and redness)",
+                "Assess involved area for deformities, possible neuroma/cyst, and adhesions/trophic changes",
+                "Look for signs of compression, such as ecchymosis, hand edema, or lacerations(4)"
+            ],
+            "posture": " Posture \u2013Assess upper extremity alignment at elbow and wrist \u2013Also assess head, shoulder, and spine posture as misalignments in these areas may affect peripheral nerve mobility(3)",
+            "range of motion": " Range of motion \u2013Measure active and passive range of motion (ROM) at wrist (flexion, extension, radial deviation, and ulnar deviation) and forearm using a goniometer; pronation may elicit symptoms. Compare to uninvolved side \u2013Screen cervical spine, shoulder, and elbow ROM to uncover any proximal involvement(3)",
+            "self-care activities of daily living": "Determine whether there are deficits in hand function/dexterity that may limit independence in self-care  or other activities of daily living. The manual ability measure (MAM) may be useful for assessing UE use for functional tasks(16,17)",
+            "reflex testing": "Upper-extremity  deep tendon reflexes should be normal",
+            "sensory testing": "Assess sensation in distribution of SRN. A patient with Wartenberg\u2019s syndrome may have diminished sensation to touch and pinprick over the dorsoradial hand, thumb, and index finger(10)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisThis is a test for assessing the presence of an irritated SRN. A light percussion is performed by the examiner(5)Under the brachioradialis tendonWristwatch levelFirst compartment level (at the radial styloid process)Distal to Zone III \u2013A positive Tinel\u2019s sign will reproduce symptoms a patient with Wartenberg\u2019s syndrome complains of (i.e., numbness, tingling, burning into the dorsal thumb, index, and middle finger)May elicit symptoms due to the traction placed on the SRN",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide and does not replace orders from a physician or the specific protocols of the treatment clinic",
+                "Electrotherapy  contraindications/precautions(12) -Do not place electrodes near: -Carotid bodies, cardiac pacemakers or implantable cardioverter defibrillators (ICDs), phrenic nerve or urinary bladder stimulators, phrenic nerve, eyes, gonads, areas with known peripheral vascular disease, areas with hemorrhage, areas with active osteomyelitis -Impaired sensation, mental status, communication -Cardiovascular disease (e.g., uncontrolled hyper-  or hypo-tension,  irregular heart rate) -Malignancy/neoplasms -Electrodes near compromised skin or neck/craniofacial regions in patients with a history of seizures or cerebrovascular accident (CV A) -Proximity of electromagnetic radiation -In pregnant women, near the pelvis, lumbar spine, hips, abdomen or with a history of spontaneous abortion"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Avoid repetitive wrist extension with ulnar deviation ",
+                "Tenosynovitis in de Quervain\u2019s disease may lead to inflammation of the nearby superficial radial nerve(11) (see Clinical Review \u2026 de Quervain\u2019 s Syndrome ; CINAHL Topic ID Number: T708422)",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment in their assessment and treatment decisions",
+                "Contraindications/precautions to use of modalities"
+            ]
+        },
+        "diagnosis need for treatment": "Painful symptoms in the distribution of the SRN that interfere with daily activities. Therapy referral after surgical decompression",
+        "rule out": " Rule out De Quervain\u2019s disease(1) Degenerative joint disease of wrist joint Radial tunnel syndrome(3) Posterior interosseous neuropathy Wartenberg\u2019s migrant sensory neuritis Radial nerve palsy Ganglion cyst, neuroma(13) Carpal tunnel syndrome Lateral antebrachial cutaneous neuritis(1) Cervical radiculopathy(3)",
+        "prognosis": [
+            "Spontaneous recovery from Wartenberg\u2019s syndrome is common(1)",
+            "Rehabilitation may take as long as 3 months(10)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Hand surgeon Occupational/physical therapist with hand therapy experience",
+        "other considerations": [
+            "A single cortisone injection may be considered by the physician,(10) but efficacy has not been established(1)",
+            "Wartenberg\u2019s syndrome may present with symptoms over the 1st dorsal compartment of the hand, which can be misdiagnosed as de Quervain\u2019s disease(1)",
+            "A patient with sensory symptoms consistent with Wartenberg\u2019s syndrome along with weakness in muscles innervated by the posterior interosseous nerve will most likely have a lesion that is more proximal, such as a cervical radiculopathy(1)",
+            "Wartenberg\u2019s sign is the abduction or clawing of the little finger with extension of the fingers. The test is not associated with Wartenberg\u2019s syndrome. A positive Wartenberg\u2019s sign is indicative of an ulnar nerve injury. If this is seen on evaluation, follow-up  with the referring physician regarding potential ulnar nerve involvement should be considered",
+            "Patients who do not improve with conservative treatment are candidates for surgical decompression(11) "
+        ],
+        "treatment summary": [
+            "There are no randomized controlled studies on the efficacy of treatment for Wartenberg\u2019s syndrome.(1) The removal of external compressing forces (e.g., wristwatch, bracelet) is an extremely important element during initial treatment(1,10)",
+            "Treatment for most nerve injuries typically involves rest, splinting, and medication, followed by joint mobilization and strengthening(10) . Problem Goal Intervention Expected Progression Home Program Increased pain, paresthesia, and hyperesthesiaReduce/resolve symptomsPhysical agents and mechanical modalities _ Apply peripheral nerve stimulation (PNS) or high- intensity transcutaneous electrical nerve stimulation (TENS) to reduce pain(14,15) _ _ Activity modification _ Instruct patient on avoidance of repetitive wrist/forearm rotation, as well as avoiding bracelets and wristwatches.(1) Stress the importance of relative rest of the involved hand.(10) Modify job activities to reduce intensive stress onto the hand/ wrist to help alleviate symptoms(9) _ _ Prescription, application of devices and equipment _ Fabricate or fit a thumb spica splint/ orthosis to help reduce symptoms(3)N/A Reinforce activity modification concepts along with avoiding external compression onto the forearm/wrist area(1)  Decreased ROM secondary to painNormalize ROM without symptomsManual therapy _ Manual stretching of restricted musculature and mobilization of radiocarpal, radioulnar, and intercarpal joints, if indicated. Mobilization of adhesions, as indicated. Perform neurodynamic interventions by beginning with neural sliding techniques that emphasize the SRN(3)Manual therapy _ Progress neurodynamic interventions with passive neural tensioner techniques that emphasize the SRNInstruct patient on nerve slider or tensioner exercises for self-mobilization. Note that nerve tensioner maneuvers are less complicated and may be easier for patients to reproduce at home(3) Postural deficits Improve posture Patient education _ Educate patient on proper posture concepts _ _ Therapeutic exercises _ Stretch anterior shoulder and chest muscles while strengthening scapular retractors and deep cervical flexorsProgress exercises while maintaining proper postureProvide home exercises along with a posture modification program Decreased strength or potential for muscle atrophy due to disuseImprove or maintain strengthTherapeutic exercises _ Strengthen hand, wrist, forearm, and elbow musculature,(10) ensuring to avoid pain. Also consider strengthening the shoulder for proximal stabilityProgress as appropriate Instruct patient in a home exercise program to complement the physical therapy program, which should be progressed as the patient moves through phases of healing Decreased functional use of involved handNormalize functional ability for ADLs and work-related activitiesFunctional training _ Provide gentle, pain-free functional exercises that simulate ADLs and work-related activitiesProgress exercises by increasing intensity and/or repetition to more closely simulate activity level of the patientProgress home exercise program appropriate for activity of the patient ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduce resolve symptoms": [
+            "V AS",
+            "Sensory testing"
+        ],
+        "full rom": [
+            "Goniometry"
+        ],
+        "improve posture": [
+            "Postural assessment"
+        ],
+        "improve or maintain strength": [
+            "Manual muscle and myotomal testing",
+            "Isokinetic testing",
+            "Hand dynamometry"
+        ],
+        "adequate functional ability to complete adls iadls": [
+            "Manual Ability Measure-36  (MAM)(16,17)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continued avoidance of activities or objects that aggravate the wrist"
+    ],
+    "patient education": [
+        "For an overview of the anatomy, pathophysiology, etiology, epidemiology and prognosis of radial nerve entrapment (including Wartenberg\u2019s syndrome) as well as presentation, assessment and treatment see \u201cRadial Nerve Entrapment\u201d from Medscape Reference at https://emedicine.medscape.com/article/1244110-overview",
+        "For an overview of Wartenberg\u2019s syndrome including a diagram of the anatomy and site of compression, see \u201cWartenberg's Syndrome\u201d from Orthobullets.com at http://www.orthobullets.com/hand/6025/wartenbergs-syndrome Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on May 27, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Dang AC, Rodner CM. Unusual compression neuropathies of the forearm, part I: radial nerve. J Hand Surg Am . 2009;34(10):1906-1914.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "McFarlane J, Trehan R, Olivera M, Jones C, Blease S, Davey P. A ganglion cyst at the elbow causing superficial radial nerve compression: a case report. J Med Case Reports . 2008;2:122. (C)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Gonz\u00e1lez-Iglesias  J, Huijbregts P, de-Las-Pe\u00f1as  C, Cleland JA. Differential diagnosis and physical therapy management of a patient with radial wrist pain of 6 months' duration: a case. J Orthop Sports Phys Ther . 2010;40(6):361-368.  (C)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Grant AC, Cook AA. A prospective study of handcuff neuropathies. Muscle Nerve . 2000;23(6):933-938.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Lanzetta M, Foucher G. Association of Wartenberg's syndrome and De Quervain's disease: a series of 26 cases. Plast Reconstr Surg . 1995;96(2):408-412.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Tosun N, Tuncay I, Akpinar F. Entrapment of the sensory branch of the radial nerve (Wartenberg's syndrome): an unusual cause. Tohoku J Exp Med . 2001;193(3):251-254.  (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Hara Y. Dorsal wrist joint pain in tetraplegic patients during and after rehabilitation. J Rehabil Med . 2003;35(2):57-61.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Toth C. Peripheral nerve injuries attributable to sport and recreation. Phys Med Rehabil Clin N Am . 2009;20(1):77-100.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Stahl S, Kaufman T. Cheiralgia paresthetica - entrapment of the superficial branch of the radial nerve: a report of 15 cases. Eur J Plast Surg . 1997;20(2):57-59.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Neal S, Fields KB. Peripheral nerve entrapment and injury in the upper extremity. Am Fam Physician . 2010;81(2):147-155.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Plate AM, Green SM. Compressive radial neuropathies. Instr Course Lect . 2000;49:295-304.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz's Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Stahl S, Kaufman T, Ben-David  B. Neuroma of the superficial branch of the radial nerve after intravenous cannulation. Anesth Analg . 1996;83(1):180-182.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Ellrich J, Lamp S. Peripheral nerve stimulation inhibits nociceptive processing: an electrophysiological study in healthy volunteers. Neuromodulation . 2005;8(4):225-332.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Lazarou L, Kitsios A, Lazarou I, Sikaras E, Trampas A. Effects of intensity of transcutaneous electrical nerve stimulation (TENS) on pressure pain threshold and blood pressure in healthy humans: a randomized, double-blind,  placebo-controlled  trial. Clin J Pain . 2009;25(9):773-780.  (RCT)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Chen CC, Palmon O, Amini D. Responsiveness of the Manual Ability Measure-36  (MAM-36):  changes in hand function using self-reported  and clinician-rated  assessments. Am J Occup Ther . 2014;68(2):187-93.  doi:10.5014/ajot.2014.009258. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Chen CC, Bode RK. Psychometric validation of the Manual Ability Measure-36  (MAM-36)  in patients with neurologic and musculoskeletal disorders. Arch Phys Med Rehabil . 2010;91(3):414-20.  doi:10.1016/j.apmr.2009.11.012. (R)"
+        }
+    ]
+}

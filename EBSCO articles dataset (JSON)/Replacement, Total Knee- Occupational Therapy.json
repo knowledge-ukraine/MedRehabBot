@@ -1,0 +1,405 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "arthroplasty, knee replacement",
+            "total knee arthroplasty",
+            "replacement arthroplasty, knee",
+            "total joint replacement, knee",
+            "joint replacement, knee"
+        ],
+        "anatomical location body part affected": [
+            "Knee/the medial and/or lateral femoral condyles, the medial and/or lateral tibial plateaus, and, in some cases, the femoral trochlea and patella"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "home health",
+            "acute care",
+            "geriatric rehabilitation"
+        ],
+        "description": [
+            "Knee replacement is an elective surgical procedure in which damaged cartilage and bone are removed from the joint and replaced with an artificial joint (prosthesis)(3)",
+            "Knee replacement is the gold standard treatment for knee pain resistant to medical management in end-stage  knee osteoarthritis (OA)(1)",
+            "The major types of knee replacement(1) \u2013Hemiarthroplasty or partial knee replacement \u2013 This procedure is for isolated, single-compartment  disease. The articular surfaces are removed from either the medial or lateral condyle and plateau and replaced with prosthetic components made of metal alloys cemented to the bone ends with a polyethylene spacer between them (i.e., metal on polyethylene) \u2013Bicompartmental total knee replacement (TKR) \u2013 The surfaces of both compartments (i.e., both medial and lateral) are removed and replaced with prosthetic components, as above. The anterior cruciate ligament usually is removed \u2013Tricompartmental TKR \u2013 The articular surfaces of the femur, tibia, and patella are removed and replaced with prosthetic components, as above. The patella is usually resurfaced with all-polyethylene  components",
+            "A TKR involves replacing the knee joint with an implant that attaches the tibia to the femur(6) \u2013Three types of TKRs; classified by how much constraint is built into the artificial joint(8) -Totally constrained: femoral portion is physically attached to the tibial portion and requires no ligamentous or soft tissue support -Semiconstrained: two separate components that glide on each other; however, constructed in such a manner as to prevent excessive femoral glide -Totally unconstrained: relies completely on the body\u2019s ligaments and soft tissues to preserve the stability of the artificial joint \u2013Semiconstrained and totally unconstrained are the most used types; totally unconstrained offers the patient the most normal ROM and gait(8)",
+            "In appropriate candidates for TKR, knee pain can be significantly reduced and function and QOLimproved(40) or application of equipment . Desired Outcomes/Outcome Measures"
+        ],
+        "indications": [
+            "Failure of the knee joint caused by OA or other nontraumatic diseases of the knee, cumulative trauma, rheumatoid arthritis (RA), severe genu varum/valgum, juvenile idiopathic arthritis, avascular necrosis, osteonecrosis, inflammatory arthritis(1,2,18)",
+            "TKR is usually recommended for patients who have debilitating knee pain (with activity or at rest) that interferes with normal function (walking, self-care, sleeping) and has not been helped by other treatment(3)",
+            "TKR generally is recommended for patients aged 60 and older(3) \u2013Younger patients are more at risk of putting too much stress on the repaired joint, causing premature wearing of the joint(3) \u2013TKR is indicated for younger patients who have systemic arthritis with multiple joint involvement and resulting limited function(43)"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "Z96.651": "Presence of right artificial knee joint",
+            "Z96.652": "Presence of left artificial knee joint",
+            "Z96.653": "Presence of artificial knee joint, bilateral (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Patient will likely be wearing a compressive dressing early on(2)",
+            "Pain and swelling about the knee(2)",
+            "Significant limitations in knee active and passive ROM(2) and patellar mobility",
+            "Quadriceps muscle weakness(2)",
+            "Impaired mobility and gait deviations(2)",
+            "Impaired balance and proprioception(2)",
+            "Impaired sensation at the knee(2) Surgical Indications, Contraindications, & Complications"
+        ],
+        "contraindications precautions to test": [
+            "Confirm weight-bearing  orders and any other restrictions noted by physician prior to starting evaluation",
+            "Inquire about any complications during surgery and patient\u2019s general medical status",
+            "Be sensitive to pain in patients who have undergone TKR; ensure that the patient has a reliable means of communicating pain throughout evaluation and treatment",
+            "Patients who have undergone TKR are at increased risk for DVT; monitor for signs and symptoms throughout evaluation",
+            "Note the patient\u2019s most recent blood work prior to evaluation and place the patient on hold if he or she has low hematocrit and/or hemoglobin",
+            "Monitor blood pressure for orthostatic hypotension throughout evaluation"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Adhere to weight-bearing  precautions as specified by the physician(7)",
+        "Use recommended ambulatory device (e.g., walker, crutches) to increase stability during out-of-bed  activities(7)",
+        "Avoid any rotation at the knee for up to 12 weeks post-surgery.(7) For 6\u20138 weeks, avoid high-impact activities (such as running or aerobics)(6)",
+        "Avoid excessive activity and/or weight gain; these can increase wear on the knee replacement implant(6)",
+        "Prophylactic antibiotics are required prior to dental work, medical procedures, or surgery(6)",
+        "Monitor for signs/symptoms of DVT (e.g., popliteal or calf pain, calf swelling, erythema, warmth, and Homans\u2019 sign upon squeezing calf/passive dorsiflexion of ankle)",
+        "Monitor for signs/symptoms of infection, including increased erythema, edema, and pain around surgical site. Also note any drainage from incisions",
+        "Follow up if patient has signs of anemia (low hematocrit or hemoglobin levels) or low blood pressure after surgery",
+        "End evaluation/treatment and notify medical team if signs of DVT, PE, or infection are present",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Confirm weight-bearing  orders and any other restrictions noted by physician prior to starting evaluation",
+            "Inquire about any complications during surgery and patient\u2019s general medical status",
+            "Be sensitive to pain in patients who have undergone TKR; ensure that the patient has a reliable means of communicating pain throughout evaluation and treatment",
+            "Patients who have undergone TKR are at increased risk for DVT; monitor for signs and symptoms throughout evaluation",
+            "Note the patient\u2019s most recent blood work prior to evaluation and place the patient on hold if he or she has low hematocrit and/or hemoglobin",
+            "Monitor blood pressure for orthostatic hypotension throughout evaluation \u203aHistory (variable depending on postoperative stage at which patient is presenting for evaluation)",
+            "History of present illness/injury \u2013Mechanism of injury or etiology of illness:  What was the underlying disease or injury that necessitated TKR?(6) Is this a revision? Patient may report a history of increasing knee dysfunction, slips/falls due to knee pain or instability before surgery. Note whether the patient has had one or both knees replaced; patients undergoing TKR can also require total hip replacement; note all surgeries for joint replacement as well as their dates(7) \u2013Course of treatment -Medical management -Prior to TKR, the patient\u2019s physician will conduct a thorough assessment of the knee, including a measurement of pain level and functional impairment, a medical history, and an assessment of current health status to determine appropriateness for TKR(6) -Review the details of the patient\u2019s medical history and physician reports; note the date(s) of surgery as well as any complications or infections -Note the surgical technique used for the TKR as well as the physician order for weight-bearing  status and desired amount of knee flexion post-surgery(7) -Following TKR, the physician may recommend use of compression stockings, use of a compression pump, and/or local cryotherapy to maintain circulation and manage swelling(6,8,20) -Patient may also have a Hemovac to drain excess blood, which may be left in place 1\u20132 days following surgery(7)  -Incision site care includes the application of dry, sterile gauze dressings for as long as drainage is present; staples and sutures usually are removed 10\u201314  days after surgery(8) -Patients who do not achieve acceptable ROM in a timely manner may undergo MUA -Medications for current illness/injury:  Determine what medications clinician has prescribed; are they being taken? Are they effectively controlling symptoms? -Postsurgical pain control(6,8) -May include patient-controlled  epidural analgesia, patient-controlled  intravenous analgesia, or oral analgesia(7) -Antithrombotic prophylaxis(20) -Muscle relaxant if needed for spasms -Diagnostic tests completed -Preoperative electrocardiography (especially for older adult patients) to assess cardiopulmonary function(45) -Preoperative lab work (complete blood count [CBC], erythrocyte sedimentation rate, serum electrolytes, renal function, prothrombin time and activated partial thromboplastin time, urinalysis, and urine culture)(45) -Imaging of the affected knee to assess positioning/alignment -Home remedies/alternative therapies:  Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help -Previous therapy:  Document whether patient had PT or OT in the past and, if so, what specific treatments were helpful or not helpful \u2013Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased): Is there swelling of the joint after activity or ambulation? Are there any activities or positions that aggravate or alleviate symptoms? \u2013Body chart:  Use body chart to document location and nature of symptoms \u2013Nature of symptoms:  Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Patients commonly present with pain and stiffness. May have secondary symptoms such as back, hip, or foot pain due to compensations \u2013Rating of symptoms:  Use a visual analog scale (V AS) or 0\u201310  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if  pain   is present now and how much ) \u2013Pattern of symptoms:  Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables \u2013Sleep disturbance:  Document number of wakings/night, if any \u2013Other symptoms:  Document other symptoms the patient may be experiencing that could exacerbate the condition and/ or symptoms that could be indicative of a need to refer to a physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) -After TKR, the patient is at increased risk of myocardial infarction, stroke, pneumonia, and blood clots as a result of general anesthesia(6) -Monitor for symptoms of blood clots (DVT and PE) -Symptoms of DVT include popliteal or calf pain, calf swelling, erythema, warmth, and Homans\u2019 sign upon squeezing calf/passive dorsiflexion of ankle -Chest pain and shortness of breath are symptoms of PE(6) \u2013Respiratory status:  Does patient require the use of supplemental oxygen? Does patient require the use of oxygen prior to surgery? \u2013Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________",
+            "Medical history \u2013Past medical history -Previous history of same/similar diagnosis:  Ask about other knee surgeries, such as arthroscopy, ligament repair, or meniscus debridement. Document any previous knee injury, trauma, or fracture or any other lower extremity dysfunction -Comorbid diagnoses:  Document history of OA, RA, gout, orthopedic surgeries (particularly lower extremity), and repetitive or specific injury; inflammatory or respiratory syndromes, particularly those that required steroid use; clotting disorders and/or use of blood thinners; and coronary disease  -Medications previously prescribed:  Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs) -Other symptoms:  Ask the patient about other symptoms he or she may be experiencing",
+            "Social/occupational history \u2013Patient\u2019s goals:  Document what the patient hopes to accomplish with therapy and in general \u2013Vocation/avocation and associated repetitive behaviors, if any:  What movements do the patient\u2019s occupation or recreational activities require? Does the patient plan to return to work?(6) \u2013Functional limitations/assistance with ADLs/adaptive equipment:  Document prior level of function and need for assistive or adaptive devices. What devices does the patient have at home? \u2013Living environment:  Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members) -Identify if there are barriers to independence in the home; any modifications necessary? -To ensure safety, environmental modifications often are necessary for patients who have undergone TKR(6) -Modifications include installation of grab bars, use of assistive devices such as a shower chair and commode, placing nonskid strips or stickers in the shower/tub, and removing loose carpets(6,7) -The patient may require the creation of a temporary living space on a first floor or somewhere close to a bathroom while he or she is recovering from TKR(6)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) Clinician should utilize tests as appropriate depending on days postop and patient\u2019s tolerance/recovery. If the patient is receiving PT, duplication of services/ evaluation should be avoided",
+            "anthropometric characteristics": "Document height and weight. Determine BMI and whether patient is overweight or obese",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013Evaluate and fit assistive device to patient \u2013Assess need for bedside commode, elevated toilet seat, shower chair, shower bench, or reacher(6,8) \u2013Following TKR, a cohort of patients assessed for adaptive equipment (AE) use used the AE for an average of 4 weeks following surgery(19)",
+            "balance": "Balance typically is impaired following TKR. Assess using functional reach test, Tinetti Balance Scale, and/or the Berg Balance Scale depending on weight-bearing  precautions and apparent functional status(6)",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess peripheral pulses below knee(s). Take circumferential measurements of calf, knee, and possibly thigh to assess edemaMeasure knee circumference to monitor swelling Functional mobility  (including transfers, etc.) \u2013Assess bed mobility and transfers \u2013Ensure patient is compliant with weight-bearing  status during mobility and encourage proper body mechanics during functional tasksa measurement of mobility; includes tasks such as standing from a seated position, walking, turning, stopping, and sitting down, all of which are important for independent mobility(41) \u2013A knee immobilizer or brace may be prescribed as needed for support during ambulation(7) \u2013Administer Functional Independence Measure (FIM), as indicated(12)",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Document weight-bearing  status provided by physician \u2013Typically, PT will provide gait training \u2013Evaluate need for assistive device (or refer to PT as appropriate). Postoperative patients may require Zimmer splint for ambulation secondary to lack of quadriceps strength  -Dynamic Gait Index (DGI) -6MWT(9) -Stair-Climbing  Test (SCT)(9) -TUG test(9) \u2013Document gait deviations Joint integrity and mobility \u2013Pain and/or crepitus may be noted on examining the noninvolved knee \u2013Assess patellar mobility",
+            "muscle strength": "Assess lower extremity strength using manual muscle testing (MMT), with special attention to knee flexion and extension (as tolerated). Compare bilaterally(6) \u2013Specific attention should be paid to quadriceps muscle strength, which frequently is affected by both OA and TKR(31) \u2013Muscle inhibition of the quadriceps and hamstrings can interfere with MMT(8) -In the immediate postoperative phase, the quadriceps and hamstrings may not be able to adequately stabilize the knee; in this case the patient will require a knee immobilizer(7,8) -Assess for an extension lag \u2013 a quadriceps strength and/or motor control issue; the patient will be unable to maintain full extension of the knee during a straight leg raise \u2013Briefly assess upper extremities and document any abnormalities; dynamometer to evaluate hand strength bilaterally; assess grip force in functional tasks; assess pinch strength using a pinch meter",
+            "observation inspection palpation including skin assessment": [
+                "Document any previous scarring. Assess surgical site for healing and signs of infection (e.g., odor, exudate, erythema), adhesions, or dehiscence(8)",
+                "Assess for any skin breakdown",
+                "Inspect lower extremity for signs of a DVT"
+            ],
+            "posture": "Note general posture in sitting, standing, and during gait",
+            "range of motion": " Range of motion \u2013Assess active and passive ROM in knee flexion and extension using goniometry, and compare bilaterally(9) \u2013Assess lower extremity flexibilityDocument need for assistance with ADLs. Assess safety (e.g., balance during activities) and ability to perform ADLs (e.g., brushing teeth, combing hair, dressing upper and lower extremities, clothing management, using the toilet, applying makeup or shaving the face, bathing, eating) \u2013Patients who have undergone TKR will initially need to perform dressing and grooming while in the sitting position(8) \u2013Sponge bathing may be required during the initial 7\u201310  days after surgery to protect the incision(7) \u2013For high-functioning  patients, assess IADLs such as driving (car transfers), meal preparation, shopping, and housework -Bench-type  seats are recommended for car transfers; bucket seats in small cars are not recommended(7) -Lawton and Brody Instrumental Activities of Daily Living Scale -Includes items related to using the telephone, using public transportation, shopping, meal preparation, housework, and medication and money managementA 14-item self-assessment  designed to determine the manner in which knee symptoms affect a patient\u2019s ability to complete ADLs(42) \u2013The FIM, the Assessment of Motor and Process Skills (AMPS), the Katz Index of Independence in Activities of Daily Living, and the Barthel ADL Index (BI) are appropriate standardized measures for ADLs(6)",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Assess involved knee for proprioception, light touch, deep pressure, or two-point  discrimination. Sensation around surgical site will likely be diminished",
+            "special tests specific to diagnosis": "Knee pain, stiffness, and function may be assessed using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) subscales \u2013The Short-Form  Health Survey (SF-36)  evaluates overall independence, emotional and mental health, limitations to previous roles, and social status(6,11)  \u2013The Canadian Occupational Performance Measure (COPM) evaluates function through evaluation at baseline and status throughout treatment, utilizing the patient\u2019s direct input in scale(6) -The COPM allows patients to identify goals in therapy that are personally meaningful; useful for a client-centered approach to therapy \u2013Knee Injury and Osteoarthritis Outcome Score (KOOS)(13) -Developed in Sweden; validated in many languages(13) -Appropriate for patients with mild to moderate OA and those who have undergone TKR(13) \u2013Lower Extremity Functional Scale (LEFS)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess cognition in cases of postsurgical confusion or history of cognitive impairment",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Patients in non-Western  cultures tend to perform ADLs in a kneeling, squatting, or cross-legged  position more often than patients in Western cultures(14)",
+                "Arthroscopic portal sites are well healed (usually a full incision)",
+                "Heightened joint irritability (associated with iatrogenic injury and bleeding into the joint) resolves"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Ensure that weight-bearing  orders from physician are being followed and provide appropriate assistive device for maintenance of these orders; if physician has ordered the patient to wear a brace during ambulation, ensure compliance",
+                "To ensure relevance and appropriateness of treatment programs, decisions about goals and course of therapy should be made in collaboration with the patient, the caregivers, and other healthcare professionals. Cultural background, language preference, and patient interests must also be considered(14)",
+                "Physician\u2019s precautions after TKR may include postponing functional rehabilitation until:",
+                "Educate patient on the importance of early mobility and ankle pumps for the prevention of DVT and flexion contracture",
+                "Patients who have undergone TKR are at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies"
+            ]
+        },
+        "diagnosis need for treatment": "OT following TKR may be indicated to teach techniques for safe transfers (e.g., toilet, commode, tub/shower chair, car), bed mobility, lower body dressing and bathing, use of adaptive equipment for ADLs, balance during self-care  activities, and home modifications (e.g., removal of throw rugs, cords, etc. that may be fall hazards)(6,7)",
+        "rule out": "N/A",
+        "prognosis": [
+            "Artificial knee joints generally have good longevity \u2013Based on a systematic review and meta-analysis  of studies reporting at least 15-year  survival rate of TKRs, 82.3% of TKRs last 25 years. TKR survival is not the only measure of success, however. One of five patients reports continued pain after TKR surgery(26) \u2013Authors of a study of the reasons for TKR revisions found the most common reason was infection (36.1%), followed by aseptic loosening (21.9%) and periprosthetic fracture (13.7%)(27)",
+            "Cemented knee arthroplasties tend to result in better functional outcomes than cementless approaches(20)",
+            "Patients may take 3\u20136 months to regain preoperative lower extremity strength and function(15)",
+            "Preoperative joint function is a predictor of function post TKR(8)",
+            "Patients with RA show more improvement following knee arthroplasty than patients with OA(8)",
+            "Quadriceps strength is a significant contributing factor in functional outcomes post TKR(8,11)  \u2013Studies in the United States have found that improved postoperative strengthening can enhance the benefits of TKR;(8,11) however, there is no evidence that a preoperative quadriceps strengthening program will improve postoperative functional outcomes(8)"
+        ],
+        "referral to other disciplines": "As indicated, to PT; respiratory therapy; social services for outcomes management; home health agencies; referring physician for failure of ROM to improve",
+        "other considerations": [
+            "The therapeutic progression after partial knee replacement (hemiarthroplasty) may be more aggressive than is typical for a patient who has undergone TKR.(1) However, follow physician orders and progress the patient as indicated by tolerance to interventions",
+            "The functional reserve of adjacent joints (hip and ankle) and the contralateral limb may influence gait velocity more than knee pain 3 months after TKR(16)",
+            "The American Academy of Orthopaedic Surgeons (AAOS) does not recommend the use of continuous passive motion (CPM) after TKR. Surgical outcomes are not better for patients using CPM than for patients who do not use CPM(39)",
+            "Home-based  rehabilitation is comparable to hospital-based  rehabilitation in supporting recovery following TKR for OA and in overall cost-effectiveness(24) \u2013Authors of a systematic review and meta-analysis  compared the effects of home-based  and hospital-based  rehabilitation on physical function, QOL, and rehabilitation cost for patients undergoing TKR for OA \u201310 RCTs were included in the review and meta-analysis \u2013The authors found that both types of rehabilitation promoted improved knee flexion ROM and reduced pain within the first 12 weeks following surgery. After 52 weeks, pain scores were somewhat better for the hospital-based  group, while knee flexion ROM was better for the home-based  group. However, there was no significant difference between the groups for general physical function at 12 or 52 weeks. The costs of the rehabilitation programs were also similar \u2013The authors concluded that home-based  rehabilitation is a feasible alternative to hospital-based  rehabilitation following TKR for OA"
+        ],
+        "treatment summary": [
+            "OT is effective in improving functional status of patients following TKR Specific OT interventions will vary according to patient goals and characteristics (e.g., comorbidities, age, prior level of function), but can include the following: -ADLs/IADLs(6,7,8) -Initially, patients will perform ADLs from a sitting position(8) -Introduce assistive and/or adaptive equipment to increase safety and independence with ADLs/IADLs(7,8) -Instruct on how to properly don and doff knee immobilizer or brace if required by the patient(7) -Gradually increase the demands placed on the patient for ADLs/IADLs(8) -Includes increasing the demands of balance required for each task as the patient\u2019s strength and stability improve(17) -Functional mobility and transfer training(7,8,17) -Bed mobility(7,8) -Bed to chair transfers with knee immobilizer(8) -Toilet/commode transfers(7,8) -Shower chair/tub seat transfers(7) -Car transfers(7) -Therapeutic and conditioning exercises(6,8,17) -Strengthening upper and lower extremities(6,8) -The patient progresses from PROM exercises to low-resistance dynamic exercise for the affected lower extremity as tolerated according to physician orders(8) -Pain and swelling management(6) -Ice and compression as needed(11) -Assistive and adaptive equipment(6) -Environmental modifications(6,8)  -Technology/equipment(6) -Education(6,17) -Patient education(6) -Energy-conservation  techniques(6,8) -Joint protection strategies; knee precautions(8) -Instruct on avoiding prolonged static positioning of the knee with daily activities(7) -Safety, fall prevention, knee precautions(6,17) -Family education(6)",
+            "Recommendations and treatments \u2013Authors of a systematic review and meta-analysis  found that an exercise rehabilitation program should last at least 8 weeks to improve pain, physical function, stiffness (measured by WOMAC), knee extension strength, active knee flexion ROM, TUG results, and gait speed(28) \u2013The AAOS recommends that patients can return to driving following a TKR when they areno longer on narcotic pain medicines, strength has returned to baseline, and reflexes have returned to baseline(30) -This most commonly occurs around 4 weeks, but can range between 2 and 8 weeks. More recent studies lean towards 2 weeks, which is likely due to improved surgical techniques(29,30) \u2013Improving functional outcomes -Authors of an RCT (N = 20) compared an eccentric-concentric  versus concentric program on muscular strength and QOL after TKR(31) -Both groups participated in a standard rehabilitation program and then each group had separate additional exercises -Eccentric-concentric  group: performed 3\u20134 sets of 5\u201310  repetitions of eccentric flexion exercises on the leg press and eccentric extension exercises on the seated leg curl machine and/or pulley -Concentric group: performed 3\u20135 sets of 5\u201310  repetitions of concentric exercises for the knee extensors and flexors -Eccentric-concentric  group showed significant improvement over the concentric group in physical function tests: TUG and 10-meter  walk test. Hamstring muscle peak torque, self-reported  physical function, and QOL tests were also all significantly better -Authors of a meta-analysis  of RCTs on progressive resistance exercise (PRE) foundthat PRE may lead to improvements in physical function and greater ultimate strength(32) -An early progressive resistive exercise program can promote improved balance following TKR(21) -Authors of an RCT compared the static, semidynamic, and dynamic balance of patients receiving routine rehabilitation (control group) to those receiving extra early resistive exercises in addition to routine rehabilitation (experimental group) -Both groups participated in a routine 6-week  rehabilitation program consisting of 3 1-hour  therapy sessions per week focusing on edema and pain control, increasing ROM, thigh muscle strengthening, isometric and isotonic exercises for the knee flexors and extensors, and gait training. The experimental group completed additional isotonic progressive resistive exercises targeting the knee extensor muscles -Patients in both groups had improved scores on measures of static, semidynamic, and dynamic balance 7 weeks and 9 weeks post-surgery,  but those in the experimental group showed the greatest improvement in scores -Neuromuscular electrical stimulation (NMES) can promote improved functional recovery during the early postoperative period following TKR(22) -Authors of a meta-analysis  investigating the efficacy of NMES after TKR found that NMES used as an adjunct to traditional rehabilitation produced somewhat better scores on measures of physical functioning during the initial weeks after surgery than traditional rehabilitation alone. However, the benefits of NMES over traditional rehabilitation alone waned over time -Study included 6 RCTs, each of which contained a control group (traditional rehabilitation alone) and an experimental group (traditional rehabilitation and NMES) -The use of NMES specifically targeted activation of the quadriceps muscle -The authors concluded that NMES can support improved functional recovery during the initial weeks after TKR and may be most beneficial for patients with severe lack of muscular activation  -Balance and proprioceptive training can increase balance and function following TKR. Authors of asystematic review and meta-analysis  found that balance and proprioceptive exercises can easily and safely be added to traditional rehabilitation programs and lead to positive functional outcomes(33) -Pilates-based  exercises used in addition to standard exercise programs can promote improved balance, physical functioning, and QOL following TKR(25) -Authors of a study compared the effectiveness of Pilates-based exercises used in conjunction with a standard rehabilitation program (study group) with standard rehabilitation alone (control group) in improving hip and knee strength, knee ROM, postural control and balance, and QOL after TKR -Patients in both groups participated in a standard exercise program throughout their hospitalization. After discharge, patients in the control group were instructed to continue with a standard exercise program and patients in the study group were instructed in Pilates-based exercises to complete in addition to the standard exercise program. Patients in both groups were monitored on a weekly basis by a physiotherapist -At 6-week  follow-up,  patients in the study group showed significantly better scores on measures of balance, physical function, and physical components of QOL than those in the control group -Aquatic therapy as part of the post-surgical  rehabilitation for TKR may support improved subjective physical function and pain up to 6 months after surgery(23) -Authors of a systematic literature review investigating the effectiveness of aquatic therapy as part of the rehabilitation process for total hip replacement and TKR found moderate evidence to support its use during the rehabilitation process \u2013Increasing overall physical activity following TKR: -Despite TKR success at decreasing pain and improving physical function of most patients, overall physical activity levels do not necessarily increase.(34)Finding ways to encourage increased activity levels is important to the patient\u2019s overall health -Authors of an RCT (N = 45) evaluated the feasibility of using a physical activity feedback method (Fitbit) to assess patients\u2019 activity levels following TKR. They found this method to be a feasible intervention that should be studied further(35) -Authors of an RCT compared financial incentives and health coaching in increasing patients\u2019 physical activity levels following TKR(36) -Four groups consisted of a control group (received only calls to monitor general recovery), telephone health coaching (received calls to motivate patients to stay active), financial incentive (patients provided with financial rewards for set goals), and telephone health coaching with financial incentives -The telephone health coaching with financial incentives led to ameaningful increase in step count and physical activity compared to the control \u2013Authors of an RCT (N = 104) evaluated the benefit of adding an intensive functional rehabilitation (IFR) program to a standard rehabilitation program. The addition of the IFR program for 2 weeks did not significantly improve ADLs (measured by the FIM and BI) in patients following TKR(37) . Problem Goal Intervention Expected Progression Home Program  Impairment of ADLs/ IADLsIncreased independence with ADLs/IADLs; increased safety and efficiency when performing ADLs/ IADLsFunctional training _ _ ADL/IADL training(6,7,8) incorporating joint protection and"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduction elimination of pain and edema: v as, circumferential measurements": [],
+        "increased strength: mmt": [],
+        "improved functional mobility, gait, and endurance: mwt, dgi, tug test": [],
+        "improved balance: functional reach test, tinetti balance scale, and or the berg balance scale ": [],
+        "improved adls iadls; level of independence: fim, womac subscales, copm, koos, lefs, sf-,  bi, lawton and brody instrumental activities of daily living scale": []
+    },
+    "maintenance or prevention": [
+        "Preoperative exercise and education program are recommended. A preoperative education program should include patient expectations during hospital stay and for discharge planning, a postoperative rehabilitation program, safe transferring techniques, use of assistive devices, and fall prevention(38)",
+        "Continue exercises found effective and well-tolerated  to maintain physical functioning",
+        "Educate the patient that high-impact,  high-load  activities (e.g., running, water skiing) should be avoided to prevent knee component damage",
+        "Joint precautions should be observed throughout the rehabilitation period"
+    ],
+    "patient education": [
+        "American Academy of Orthopaedic Surgeons website, https://orthoinfo.aaos.org/en/treatment/total-knee-replacement/",
+        "Patient education manuals available to download in English and Spanish on the National Association of Orthopaedic Nurses website, http://www.orthonurse.org/patienteducation",
+        "General information and patient handouts on the NIH website, MedlinePlus, https://medlineplus.gov/kneereplacement.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Johansen JA, Evans BG. Knee arthroplasty. In: Wiesel BB, Sankar WN, Delahay JN, Wiesel SW, eds. Orthopaedic Surgery: Principles of Diagnosis and Treatment . Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2011:736-752.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "NIH Consensus Statement on total knee replacement December 8-10, 2003. J Bone Joint Surg Am . 2004;86(6):1328-1335.  (G)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Ma CB. Knee joint replacement. Medline Plus Web site. https://medlineplus.gov/ency/article/002974.htm . Published July 13, 2015. Accessed February 23, 2018. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Dutton M. The knee. Morita J, Kearns B, eds. Dutton\u2019s Orthopaedic Examination, Evaluation, and Intervention . 5th ed. New York, NY: McGraw-Hill  Medical; 2019. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Fitzsimmons SE, Vazquez EA, Bronson MJ. How to treat the stiff total knee arthroplasty? A systematic review. Clin Orthop Relat Res . 2010;168(4):1096-1106.  (SR)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Keller J, Stone K. Hip and knee replacements. Boyt Schell BA, Gillen G, eds. Willard & Spackman's Occupational Therapy . 13th ed. Philadelphia, PA: Wolters Kluwer Health/ Lippincott Williams & Wilkins; 2018. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Murphy LF, Lawson S. Orthopedic conditions: hip fractures and hip, knee, and shoulder replacements. In: Pendelton HM, Schultz-Krohn  W, eds. Pedretti\u2019s Occupational Therapy Practice Skills for Physical Dysfunction . 8th ed. St. Louis, MO: Elsevier Inc; 2018:1004-1029.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Groomes TE. Total knee replacement. Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Saunders Elsevier; 2018. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Stevens-Lapsley  JE, Balter JE, Wolfe P, Eckhoff DG, Kohrt WM. Early neuromuscular electrical stimulation to improve quadriceps muscle strength after total knee arthroplasty: a randomized controlled trial. Phys Ther . 2012;92(2):210-226.  (RCT)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Crosbie J, Naylor JM, Harmer AR. Six minute walk distance or stair negotiation? Choice of activity assessment following total knee replacement. Physiother Res Int . 2010;15(1):35-41.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Mizner RL, Petterson SC, Snyder-Mackler  L. Quadriceps strength and the time course of functional recovery after total knee arthroplasty. J Orthop Sports Phys Ther . 2005;35(7):424-436.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "de Groot IB, Favejee MM, Reijman M, Verhaar JA, Terwee CB. The Dutch version of the Knee Injury and Osteoarthritis Outcome Score: a validation study. Health Qual Life Outcomes . 2008;6:16. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Mulholland SJ, Wyss UP. Activities of daily living in non-Western  cultures: range of motion requirements for hip and knee joint implants. Int J Rehabil Res . 2001;24(3):191-198. doi:10.1097/00004356-200109000-00004.  (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Judd DL, Eckhoff DG, Stevens-Lapsley  JE. Muscle strength loss in the lower limb after total knee arthroplasty. Am J Phys Med Rehabil . 2012;91(3):220-230.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Tali M, Maaroos J. Lower limbs function and pain relationships after unilateral total knee arthroplasty. Int J Rehabil Res . 2010;33(3):264-267.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "DeJong G, Hsieh CH, Gassaway J, et al. Characterizing rehabilitation services for patients with knee and hip replacement in skilled nursing facilities and inpatient rehabilitation facilities. Arch Phys Med Rehabil . 2009;90(8):1269-1283.  doi:10.1016/j.apmr.2008.11.021.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Nakama GY, Peccin MS, Almeida GJ, Lira Neto Ode A, Queiroz AA, Navarro RD. Cemented, cementless or hybrid fixation options in total knee arthroplasty for osteoarthritis and other non-traumatic  diseases. Cochrane Database Syst Rev . October 17, 2012;(10):CD006193. doi:10.1002/14651858.CD006193.pub2.  (SR)"
+        },
+        {
+            "number in article": 19,
+            "reference": "McNaught J, Paul L. The use of adaptive equipment following total knee replacement. Br J Occup Ther . 2015;78(3):187-195.  doi:10.1177/0308022614562797. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Skinner HB, Sekiya JK, Jameel O, McMahon PJ. Adult reconstructive surgery: total knee arthroplasty. Skinner HB, McMahon PJ, eds. Current Diagnosis and Treatment in Orthopedics . 6th ed. New York, NY: McGraw Hill Education; 2021. (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Molla RY, Sadeghi H, Kahlaee AH. The effect of early progressive resistive exercise therapy on balance control of patients with total knee arthroplasty: a randomized controlled trial. Top Geriatr Rehabil . 2017;33(4):286-294.  doi:10.1097/TGR.0000000000000165. (RCT)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Bistolfi A, Zanovello J, Ferracini R, et al. Evaluation of the effectiveness of neuromuscular electrical stimulation after total knee arthroplasty: a meta-analysis.  Am J Phys Med Rehabil. 2018;97(2):123-130.  doi:10.1097/PHM.0000000000000847. (M)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Wilkins B. The effectiveness of aquatic therapy following total hip or total knee arthroplasty: a systematic literature review. Aqualines . 2017;29(2):15-21.  (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Li D, Yang Z, Kang P, Xie X. Home-based  compared with hospital-based  rehabilitation program for patients undergoing total knee arthroplasty for osteoarthritis: a systematic review and meta-analysis  of randomized controlled trials. Am J Phys Med Rehabil . 2017;96(6):440-447.  doi:10.1097/PHM.0000000000000621. (M)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Karaman A, Yiksel I, Kinikli GI, Caglar O. Do Pilates-based  exercises following total knee arthroplasty improve postural control and quality of life? Physiother Theory Pract . 2017;33(4):289-295.  doi:10.1080/09593985.2017.1289578. (RCT)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Evans JT, Walker RW, Evans JP, Blom AW, Sayers A, Whitehouse MR. How long does a knee replacement last? A systematic review and meta-analysis  of case series and national registry reports with more than 15 years of follow-up.  Lancet. 2019;393(10172):655-663.  doi:10.1016/S0140-6736(18)32531-5.  (M)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Postler A, L\u00fctzner C, Beyer F, Tille E, L\u00fctzner J. Analysis of total knee arthroplasty revision causes. BMC Musculoskelet Disord . February 14, 2018;19(1):55. doi:10.1186/s12891-018-1977-y.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Umehara T, Tanaka R. Effective exercise intervention period for improving body function or activity in patients with knee osteoarthritis undergoing total knee arthroplasty: a systematic review and meta-analysis.  Braz J Phys Ther . 2018;22(4):265-275.  doi:10.1016/j.bjpt.2017.10.005. (M)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Hartman J, Thornley P, Oreskovich S, Adili A, Bedi A, Khan M. Braking time following total knee arthroplasty: a systematic review. J Arthroplasty . 2018;33(1):284-290.e1. doi:10.1016/j.arth.2017.08.012. (SR)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Na A, Richburg K, Gugala Z. Clinical considerations for return to driving a car following a total knee or hip arthroplasty: a systematic review. Biomed Res Int . July 6, 2020;2020:8921892. doi:10.1155/2020/8921892. (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Teissier V, Leclercq R, Schiano-Lomoriello  S, Nizard R, Portier H. Does eccentric-concentric  resistance training improve early functional outcomes compared to concentric resistance training after total knee arthroplasty? Gait Posture . 2020;79:145-151.  doi:10.1016/j.gaitpost.2020.04.020. (RCT)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Liu H, Cong H, Chen L, Wu H, Yang X, Cao Y. Efficacy and safety of lower limb progressive resistance exercise for patients with total knee arthroplasty: a meta-analysis  of randomized controlled trials. Arch Phys Med Rehabil . 2021;102(3):488-501.  doi:10.1016/j.apmr.2020.05.021. (M)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Dom\u00ednguez-Navarro  F, Igual-Camacho  C, Silvestre-Mu\u00f1oz  A, Roig-Casas\u00fas  S, Blasco JM. Effects of balance and proprioceptive training on total hip and knee replacement rehabilitation: A systematic review and meta-analysis.  Gait Posture . 2018;62:68-74.  doi:10.1016/j.gaitpost.2018.03.003. (M)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Hammett T, Simonian A, Austin M, et al. Changes in physical activity after total hip or knee arthroplasty: a systematic review and meta-analysis  of six- and twelve-month outcomes. Arthritis Care Res . 2018;70(6):892-901.  doi:10.1002/acr.23415. (M)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Paxton RJ, Forster JE, Miller MJ, Gerron KL, Stevens-Lapsley  JE, Christiansen CL. A feasibility study for improved physical activity after total knee arthroplasty. J Aging Phys Act. 2018;26(1):7-13.  doi:10.1123/japa.2016-0268.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Losina E, Collins JE, Deshpande BR, et al. Financial incentives and health coaching to improve physical activity following total knee replacement: a randomized controlled trial. Arthritis Care Res . 2018;70(5):732-740.  doi:10.1002/acr.23324. (RCT)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Tanaka R, Hayashizaki T, Taniguchi R, Kobayashi J, Umehara T. Effect of an intensive functional rehabilitation program on the recovery of activities of daily living after total knee arthroplasty: A multicenter, randomized, controlled trial. J Orthop Sci . 2020;25(2):285-290.  doi:10.1016/j.jos.2019.04.009. (RCT)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Jette DU, Hunter SJ, Burkett L, et al. Physical therapist management of total knee arthroplasty. Phys Ther . 2020;100(9):1603-1631.  doi:10.1093/ptj/pzaa099. (GI)"
+        },
+        {
+            "number in article": 39,
+            "reference": "American Academy of Orthopaedic Surgeons. Avoid routine use of continuous passive motion (CPM) after knee arthroplasty. https://www.choosingwisely.org/clinician-lists/aaos-avoid-routine-use-of-continuous-passive-motion-cpm-after-knee-arthroplasty/ . Published May 12, 2020. (GI)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Piva SR, Schneider MJ, Moore CG, et al. Effectiveness of later-stage  exercise programs vs usual medical care on physical function and activity after total knee replacement: a randomized clinical trial. JAMA Netw Open . February 1, 2019;2(2):e190018. doi:10.1001/jamanetworkopen.2019.0018. (RCT)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Sep\u00falveda-Loyola  W, Phu S, Bani Haasan E, et al. The joint occurrence of osteoporosis and sarcopenia (osteosarcopenia): definitions and characteristics. J Am Med Dir Assoc. 2020;21(2):220-225.  doi:10.1016/j.jamda.2019.09.005. (GI)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Lee HG, An J, Lee BH. The effect of progressive dynamic balance training on physical function, the ability to balance and quality of life among elderly women who underwent a total knee arthroplasty: a double-blind  randomized control trial. Int J Environ Res Public Health . March 3, 2021;18(5):2513. doi:10.3390/ijerph18052513. (RCT)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Marino A, Pontikaki I, Truzzi M, et al. Early joint replacement in juvenile idiopathic arthritis (JIA): trend over time and factors influencing implant survival. Arthritis Care Res . Advance online publication. May 31, 2020. doi.1002/acr.24337. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Gemayel AC, Varacallo M. Total knee replacement techniques. StatPearls . Treasure Island, FL: StatPearls Publishing; 2021. (GI)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Preoperative Planning and Questions to Ask Your Surgeon. Healthline Web site. https://www.healthline.com/health/total-knee-replacement-surgery/what-happens-in-the-preoperative-evaluation#what-happens-in-the-pre-op . Published April 15, 2020. (GI)"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "metadata": {
+        "title": "Cortical Deafness",
+        "synonyms": [
+            "deafness, cortical",
+            "central hearing loss",
+            "hearing loss, central"
+        ],
+        "anatomical location body part affected": [
+            "Cortical deafness results from damage to the central auditory nervous system (left and right auditory cortices or their radiations)(1)"
+        ],
+        "area of specialty": [
+            "adult neurological disorders"
+        ],
+        "description": [],
+        "indications": [],
+        "ICD-9 codes": {
+            "389.14": "central hearing loss"
+        },
+        "ICD-10 codes": {
+            "H90.5": "unspecified sensorineural hearing loss (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Cortical deafness is an inability to interpret either verbal or nonverbal sounds despite partial to complete preservation of hearing ability(2) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "When conducting the examination, the speech-language  pathologist (SLP) must be aware of symptoms of the underlying disorder that may affect the speech, language, and hearing performance of the patient, such as chronic pain, depression, fatigue, level of arousal, and cognitive ability",
+            "Include the family/caregiver in the examination as the patient's comprehension might be impaired due to cortical deafness, language difficulties, and/or cognitive impairment"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: cortical deafness is very rare and is usually caused by bilateral brain damage affecting the area of heschl\u2019s gyri. ,  embolic stroke is often the underlying cause of the brain damage.   bilateral brain stem lesions are a rare source": [],
+        "pathogenesis: cortical deafness can begin as total, sudden deafness due to a stroke or other neurological injury or disease. the patient might later start to hear sounds but would be unable to distinguish their meaning": [],
+        "risk factors": [
+            "Any condition that results in damage to the auditory cortex or its radiations on both sides of the brain (e.g., traumatic braininjury, stroke, progressive neurological disease)(4,5,6)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "When conducting the examination, the speech-language  pathologist (SLP) must be aware of symptoms of the underlying disorder that may affect the speech, language, and hearing performance of the patient, such as chronic pain, depression, fatigue, level of arousal, and cognitive ability",
+            "Include the family/caregiver in the examination as the patient's comprehension might be impaired due to cortical deafness, language difficulties, and/or cognitive impairment"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was the onset of the hearing loss? Does the patient have a previous history of hearing loss (prior to the onset of cortical deafness)?",
+                "course of treatment": {
+                    "medical management": "What medical management has the patient received for this and other conditions?",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Cortical deafness is diagnosed by a physician and/or an audiologist. The following tests typically are used:",
+                        "Pure tone audiometry (air-conduction  and bone-conduction  thresholds): Pure tone audiometry tests the patient's ability to detect pure tones. Tone detection is tested at different frequencies; the pure tone threshold is the softest level at which a patient can detect a tone 50% of the time. The patient with cortical deafness has relatively preserved performance on pure tone audiometry; however, there are cases in which pure tone performance is disturbed(2)",
+                        "Speech audiometry: The purpose of speech audiometry is to assess an individual's threshold of hearing and understanding speech: The speech reception threshold (SRT) is the intensity at which a patient can correctly repeat or in some other way indicate 50% of the words presented.(7) Patients with cortical deafness usually have poor SRT scores(3)",
+                        "Word discrimination test: Word discrimination tests assess the patient's ability to identify and discriminate phonemes and words at various intensities. All phonemic and word discrimination tasks should be performed without the opportunity for lip reading. Patients with cortical deafness always have impaired word discrimination ability(2)",
+                        "Computerized tomography (CT)/magnetic resonance imaging (MRI): A physician can order an MRI or CT scan to determine location of brain damage(1)",
+                        "Otoacoustic emission (OAE) testing: The purpose of OAE testing is to determine cochlear function, specifically hair cell function. Patients with cortical deafness usually have normal inner ear function(4) ",
+                        "Evoked auditory potentials (EAPs): EAPs are used to assess brain activity in the acoustic nerve and auditory pathways of the brainstem. For patients with cortical deafness, brainstem EAPs (early EAPs) usually are normal; however, middle and late EAPs usually are compromised(2,8)",
+                        "Identification of nonspeech sounds: The patient is asked to identify environmental sounds such as a cat meowing or a car starting by pointing to a series of pictures after hearing the sound.(2) The ability to identify environmental stimuli is impaired in patients with cortical deafness(2)",
+                        "Other tests include sound localization, rhythm perception, loudness perception, and pitch perception. All of these usually are impaired in a patient with cortical deafness(2)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had an audiological evaluation, aural rehabilitation, or speechlanguage  therapy for this or other conditions and, if so, if past treatments were helpful"
+                },
+                "aggravating easing factors": "For the purpose of the differential diagnosis, the audiologist might assess if the hearing impairment is accompanied by tinnitus (perception of ringing or high-pitched  noise), vertigo, imbalance, aural fullness, otorrhea (ear discharge), headache, facial nerve dysfunction, or head/neck paresthesias(1)",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms -Is the patient responsive to speech? -Can the patient understand any speech? -Is the patient responsive to environmental sounds? -Can the patient interpret and assign meaning to verbal and environmental sounds? -What is the patient\u2019s ability to localize sound?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition (e.g., sinus infection) and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, hemiparesis) Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe ________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has the patient previously experienced hearing loss? Does the patient have a history of familial hearing loss?",
+                    "comorbid diagnoses": "Ask patient and/or caregiver about other medical issues, if relevant",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient and/or caregiver about other symptoms he or she is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient work? If so, does the patient need to communicate at work? Is the patient's ability to communicate in the work setting affected by his or her hearing loss? Is the patient required to speak on the telephone? Does the patient participate in sports or hobbies that require extensive communication? How has the hearing loss affected the patient's socialization?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any limitations that the patient may have with ADLs; document any use of adaptive equipment",
+                "living environment": "Document with whom patient lives (e.g., caregivers, family members). Identify specific situations in which the patient has difficulty communicating. Has the patient\u2019s ability to live independently been affected?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Note if the patient has used or currently uses hearing aids or any devices to hear and communicate ",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "An audiologist or physician will perform the diagnostic tests for cortical deafness. See Diagnostic tests completed , above",
+            "speech and language examination": " Speech and language examination (including reading)Many patients with cortical deafness also have aphasia.(9,10)For detailed information on assessment and treatment of aphasia, see the series of Clinical Reviews on aphasiaAssess oral motor skills and articulation as necessary. Generally, patients with cortical deafness do not have articulation disorders; however, there are reported cases of patients with cortical deafness and anarthria, an inability to control the muscles used for speech(1,14)An individual with cortical deafness is unable to understand spoken language, but reading and writing skills are sometimes relatively well preserved.(14) Assess reading and writing ability as this might be the way in which the patient can functionally communicateIf the patient is unable to communicate verbally, he or she might benefit from use of AAC, even if the system is as simple as a pen and paper.(14) Assess as necessary. For detailed information about assessment and treatment with AAC, see the series of Clinical Reviews on this topic",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "Some patients with cortical deafness also have dysphagia. Refer to the series of Clinical Reviews on dysphagia assessment and treatment",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve. For detailed information on assessment of patients with tracheostomies, see ClinicalAdults with Tracheostomy ; CINAHL Topic ID Number assessment of a tracheostomy tube and use of a speaking valve, see Clinical Review\u2026Passy-Muir Tracheostomy &T708919"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with cortical deafness are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Patients with cortical deafness are at risk for swallowing and feeding difficulties. Ensure that the patient and family/ caregivers are aware of potential aspiration risks and educated about prevention strategies when appropriate"
+            ]
+        },
+        "diagnosis need for treatment": "Speech-language  treatment or aural rehabilitation might be warranted if the patient or patient\u2019s communication partner(s) can benefit from instruction in specific communication strategies to compensate for hearing loss",
+        "rule out": "Etiology will be determined by an audiologist or an otolaryngologist, who will rule outThe individual presents with a mild, moderate, severe, or profound hearing loss in one or both ears and has reduced ability to hear faint sounds and perceive speech due to damage to the inner ear (cochlea) or to the nerve pathways from the inner ear to the auditory cortex. For detailed information on sensorineural hearing loss, please see the series of Clinical Reviews on this topicThe individual presents with a mild, moderate, severe, or profound hearing loss in one or both ears and has a reduced ability to hear faint sounds and perceive speech due to a disruption in the conduction of sound through the outer ear canal to the eardrum and ossicles of the middle ear. For detailed information on conductive hearing loss, please see the series of Clinical Reviews on this topicThe individual has a combination of sensorineural hearing loss and conductive hearing lossThe individual has difficulty understanding speech, particularly in environments with competing auditory stimuli.(11) For detailed information on auditory neuropathy, see Clinical Review\u2026Auditory Neuropathy Spectrum Disorder in Adults ; CINAHL Topic ID Number: T708775The individual is unable to understand spoken language and to repeat or write dictation but has no other signs of aphasia.(2) The individual usually has fluent verbal output and no problems in reading or spontaneous writing.(3) For detailed information on pure word deafness, see Clinical Review...Agnosia, Auditory Verbal ; CINAHL Topic ID Number: T903016The individual has relatively normal pure tone hearing but is unable to recognize environmental sounds, some words, and music.(2) Auditory agnosia might also cause difficulties with pitch perception, rhythm perception, rhythm  production, timbre perception, syllable perception, and voice perception(2) (cortical deafness is the combination of the symptoms of auditory agnosia and pure word deafness)(3)Individuals with cortical deafness often have inconsistent auditory behavior; a psychogenic hearing loss, a nonorganic hearing loss of psychological origin, may be misdiagnosed(3)",
+        "prognosis": [],
+        "referral to other disciplines": "An audiologist or physician will primarily be involved in aural rehabilitation activities",
+        "other considerations": [],
+        "treatment summary": [
+            "Treatment summary: Aural rehabilitation might be provided by the audiologist or SLP; there are no studies that have determined effective speech-language  therapy or aural rehabilitation for patients with cortical deafness. Treatment suggestions are based upon clinical report . Problem Goal Intervention Expected Progression Home Program Difficulty understanding conversational partnerIncrease understanding by instructing conversational partner on the use of techniques to assist patient in understanding spoken languageSpeech modification techniques by conversational partner _ Adaptive techniques that the patient's family members/ conversational partners may use include facing patient directly to make sure they have his/her attention, speaking at a normal volume while enunciating clearly (without using exaggerated lip movement), using a slow speaking rate, avoiding covering mouth with hand or other objects, and accompanying oral language with written cues (dependent upon patient's ability to read)The patient's conversational partners will learn to adapt speech so that the patient can better understand spoken languageSpeech adaptations should be practiced and used in the home and community  Poor auditory discriminationPatient will improve auditory discrimination skillsAuditory discrimination therapy _ The SLP can assist the patient in improving auditory discrimination skills by training in phonemic and word discrimination. These exercises include phoneme to grapheme matching and word to picture matchingPatient will learn to discriminate progressively similar auditory stimuliN/A Inability to communicate verbally _Patient will communicate with familiar and unfamiliar partners _Augmentative and alternative communication (AAC)  In cases in which patients with cortical deafness do not regain hearing ability and cannot learn to communicate through lip reading, the patient should be provided with AAC to communicate (e.g., writing)(14) _ For detailed information on AAC, see the series of Clinical Reviews on this topic _Progression will depend on the patient\u2019s course of therapy, the specific deficits, and the extent to which the patient\u2019s language abilities are affected. For those patients with severe aphasia in addition to cortical deafness, AAC might need to be very simple _The patient will utilize AAC in all communication settings including home, therapy, and the community ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved functional communication": [
+            "Speech and language reassessment"
+        ],
+        "increased speech discrimination": [
+            "Word discrimination test(2)"
+        ],
+        "improved speech and nonspeech identification ability": [
+            "Identification of nonspeech sounds(2)",
+            "Other tests, including sound localization, rhythm perception, loudness perception, and pitch perception(2)"
+        ]
+    },
+    "maintenance or prevention": [
+        "The patient's ability to hear will most likely improve during recovery from the injury to the brain. The audiologist and physician should regularly monitor hearing ability  Patient and Family Education",
+        "Inform the patient and patient's family about the nature of the hearing loss, including what is altered and what is preserved and ways that they can improve communication(2)",
+        "See information regarding cortical deafness at http://www.dizziness-and-balance.com/disorders/hearing/cent_hearing.html Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on November 11, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Kaga K, Nakamura M, Takayama Y, Momose H. A case of cortical deafness and anarthria. Acta Otolaryngol . 2004;124(2):202-205.  (C)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Lechevalier B, Lambert J, Moreau S, Platel H, Viader F. Auditory disorders related to strokes. In: Godefroy O, Bogousslavsky J, eds. The Behavioral and Cognitive Neurology of Stroke. New York, NY: Cambridge University Press; 2007:348-368.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Hain TC. Central hearing loss. Dizziness-and-Balance.com  Web site. http://www.dizziness-and-balance.com/disorders/hearing/cent_hearing.html . Published June 21, 2015. Accessed February 26, 2018. (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Bellis TJ. When the Brain Can't Hear: Unraveling the Mystery of Auditory Processing Disorder . New York, NY: Simon & Schuster, Inc; 2002. (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Setzen G, Cacace AT, Eames F. Central deafness in a young child with Moyamoya disease: paternal linkage in a Caucasian family: two case reports and a review of the literature. Int J Pediatr Otorhinolaryngol . 1999;48(1):53-76.  (C)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Tobias E, Mann C, Bone I, de Silva R, Ironside J. A case of Creutzfeldt-Jakob  disease presenting with cortical deafness. J Neurol Neurosurg Psychiatry . 1994;57(7):872-873. (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "ASHA Committee on Audiologic Evaluation. Determining threshold level for speech. American Speech-Language-Hearing  Association Web site. http://www.asha.org/policy/GL1988-00008/ . Published 1988. Accessed February 26, 2018. (G)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Musiek FE, Baran JA, Shinn JB, Guenette L, Zaidan E, Weihing J. Central deafness: an audiological case study. Int J Audiol . 2007;46(8):433-441.  (C)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Graham J, Greenwood R, Lecky B. Cortical deafness - a case report and review of the literature. J Neurol Sci . 1980;48(1):35-49.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Mendez MF, Geehan GR. Cortical auditory disorders: clinical and psychoacoustic features. J Neurol Neurosurg Psychiatry . 1988;51(1):1-9.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Hood LJ, Berlin CI, Morlet T, Bashears S, Rose K, Tedesco S. Considerations in the clinical evaluation of auditory neuropathy/auditory dys-synchrony.  Semin Hear . 2002;23(3):201-208.  (G)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Griffiths TD. Central auditory pathologies. Br Med Bull . 2002;63(1):107-120.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Ramdasi R, Chagla A, Mahore A. Vasospasm causing reversible cortical deafness in subarachnoid hemorrhage. Neurol India . 2014;62(4):469-470. doi:10.4103/0028-3886.141292.  (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kaga K, Shinjo Y, Enomoto C, Shindo M. A case of cortical deafness and loss of vestibular and somatosensory sensations caused by cerebrovascular lesions in bilateral primary auditory cortices, auditory radiations, and postcentral gyruses \u2013 complete loss of hearing despite normal DPOAE and ABR. Acta Otolaryngol . 2015;135(4):389-394. doi:10.3109/00016489.2014.980914. (C)"
+        }
+    ]
+}

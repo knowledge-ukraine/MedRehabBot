@@ -1,0 +1,465 @@
+{
+    "metadata": {
+        "title": "Falls in Older Adults",
+        "synonyms": [],
+        "anatomical location body part affected": [
+            "Fall-related  trauma to various body parts, including the head"
+        ],
+        "area of specialty": [
+            "acute care",
+            "cardiovascular rehabilitation",
+            "pulmonary rehabilitation",
+            "home health",
+            "oncology",
+            "neurological rehabilitation",
+            "orthopedic rehabilitation",
+            "geriatric rehabilitation"
+        ],
+        "description": [
+            "A fall can be defined as an event that results in a person coming to rest inadvertently on the ground or floor or other lower level (1,2)",
+            "In older adults, accidental falls are associated with low physical functioning, reduced postural and gait stability, slow righting responses, and orthostatic hypotension(1)",
+            "Falls in older adults are seldom due to a single cause. Numerous intrinsic factors (e.g., orthopedic problems, poor balance, restricted mobility, peripheral neuropathy, depression symptoms, cognitive impairment), as well as extrinsic factors (e.g., environmental/situational hazards, certain medications), may contribute to postural instability and increase the risk of accidental falls",
+            "In community-dwelling  older adults, falls typically occur during regular activity and involve outdoor or indoor situational hazards (e.g., stumbling on uneven ground, tripping on home obstacle or sidewalk curb, slipping on wet surface, using stairs or escalator, entering or exiting a vehicle).(2) Modification of fall risk factors in the physical environment likely helps to prevent older adults from falling",
+            "In nursing home residents, falls may involve situational hazards (e.g., a loose rug or object on the floor), but are more often associated with an uncontrolled transfer from bed to chair or chair to standing, or a lack of grab bars/assistive devices.(3) Restricted mobility is thus an intrinsic fall risk factor. Physical restraints (lap belts, geriatric chair) may be required to prevent falls in older adults in assisted-living  facilities, but these should always be used according to state laws and/or hospital policy and directly supervised",
+            "Lower-extremity  muscle weakness and functional deficits in proprioception, balance, and gait contribute to postural instability and falls in older adults(1,5,6)",
+            "Therapeutic exercises and functional training that address specific impairments in strength and ROM to reduce deficits in transfers, posture, balance, and gait in older adults are effective in the prevention of falls(7,8)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "R29.6": "tendency to fall, not elsewhere classified",
+            "W00": "fall on same level involving ice and snow",
+            "W01": "fall on same level from slipping, tripping, and stumbling",
+            "W03": "other fall on same level due to collision with, or pushing by, another person",
+            "W04": "fall while being carried or supported by other persons",
+            "W05": "fall involving wheelchair",
+            "W06": "fall involving bed",
+            "W07": "fall involving chair",
+            "W08": "fall involving other furniture",
+            "W10": "fall on and from stairs and steps",
+            "W18": "other fall on same level",
+            "W19": "unspecified fall",
+            "Z91.81": "history of falling (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. Several issues regarding reimbursement have been identified",
+            "Most insurance coverage has a requirement of medical necessity, which some fall-prevention  activities per se do not meet",
+            "In the United States, Medicare is the primary payer for health care for older adults \u2013Falls prevention is addressed across a range of Medicare regulations, initiatives, and coverage guidelines \u2013Some Medicare claims-processing  contractors explicitly recognize Z91.81 and R29.6 (history of falling, tendency to fall) in their outpatient occupational therapy and outpatient physical therapy local coverage policies. Other contractors and plans may differ \u2013Different reimbursement models exist under Medicare that govern provision of care to homebound and non-homebound patients. Many providers, such as hospital outpatient departments, do not allow for provision of care in the home -The physical therapist (PT) is responsible for following Medicare guidelines on frequency, duration, and certification to ensure payment \u2013Medicare has implemented payment provisions as a financial incentive to prevent \u201chospital-acquired\u201d  conditions. Hospitals are no longer reimbursed for a higher paying diagnosis-related  group (DRG) when it is a secondary diagnosis that could have been prevented",
+            "Inquire about any ongoing legal claims"
+        ],
+        "presentation signs and symptoms": [
+            "First-time  or recurrent faller",
+            "Soft-tissue  injuries (bruises, lacerations)",
+            "Fracture (for additional information, see Clinical Review on specific fracture [e.g., hip, humerus, clavicle])",
+            "Cognitive impairment (for additional information, see Clinical Reviews  on traumatic brain injury [TBI])",
+            "Comorbidities (cardiovascular, neurological, musculoskeletal, metabolic, psychiatric)",
+            "Use of an assistive ambulatory device",
+            "Activity avoidance/restriction and mobility coping strategies due to fear of falling(8) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop the examination and refer to physician if patient presents with a new or untreated fall-related  injury ",
+            "Consult with physician in cases of active inflammation or apparent infection of unhealed wounds",
+            "Consult with physician in cases of severe disability requiring hands-on  assistance",
+            "Reduce the risk of a fall during assessment \u2013Keep wheelchair or other moveable chair close to the patient to allow the patient to sit if necessary \u2013Use gait belt as indicated to keep patient upright -If the patient sways too far to be kept upright, the gait belt can be used to gently guide him or her to the floor slowly to avoid injury",
+            "Use good body mechanics to avoid injury to self",
+            "Older adults with known risk factors for falls should be specifically questioned about falls on a periodic basis. Many older adults do not volunteer this information due to fears of being institutionalized or having activities restricted. These patients will not necessarily mention falling as a presenting complaint History"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: typically, there are multiple interacting causes": [
+            "Intrinsic factors\u2013Age-related  decline in physical and executive functioning with reduced ability to engage in activities associated with riskof falling(9)\u2013Chronic disease (multiple pathologies; see Pathogenesis , below) associated with postural instability due to:(2)-Lower extremity weakness/paresis-Restricted lower-extremity  ROM-Pain in weight-bearing  joints-Deficits in sensation, proprioception, and balance-Gait abnormalities\u2013Frailty(31)",
+            "Extrinsic factors\u2013Medications(1)-Antihypertensives, antidepressants, benzodiazepines, and opioids are the four most commonly used drug classesassociated with an increased risk of falls or hip fractures in older adults-Anticholinergic medication has been associated with an increase in recurrent falls in women ages 65\u201379(27)\u2013Environmental hazards(2)-Common indoor examples include loose, unsecured rugs, clutter, poor lighting, pets, extension cords, and unstablefurniture-Outdoor hazards include uneven terrain, cracked sidewalks, sloping driveways, slippery surfaces (wet or icy), andvariable curb and step heights"
+        ],
+        "pathogenesis": [
+            "Postural control dysfunction results from impairment at one or more of the following levels: peripheral sensory systems,CNS, and effector organs(16)\u2013Dysfunction in peripheral sensory systems can cause impairment of vision, vestibular functions, and somatosensation\u2013Dysfunction in CNS components can cause impairments in muscle perfusion, speed/attention, strength, and posturalreflexes\u2013Dysfunction in effector systems can lead to impairments in strength, flexibility, and endurance\u2013Combinations of deficits across these systems may result in instability and falls(16)",
+            "In older adults, chronic comorbidities that can contribute to impaired postural control may include:\u2013reduced vision and hearing(1)-Visual impairments (e.g., decreased accommodation, night vision, acuity, peripheral vision, and contrast sensitivity;binocular visual field loss; cataracts; glaucoma)-Auditory impairments (e.g., wax accumulation, increased high-frequency  threshold, or reduced speech discrimination)-Presbyopia requiring multifocal glasses (especially on stairs)\u2013neurological conditions associated with reduced balance and/or vertigo(1)-TBI/postconcussion syndrome-Stroke-Parkinson\u2019s disease (PD)-Multiple sclerosis (MS)-Peripheral or diabetic neuropathy-Vestibular disorders-Dementia\u2013musculoskeletal conditions(1)-Decreased lower-extremity  ROM-Muscle weakness, especially in the quadriceps and postural muscles due to primary muscle mass loss (sarcopenia) and/or disuse(2)-Joint pain-Lower back pain-Neck pain\u2013cardiovascular conditions associated with lightheadedness(1)-Postural hypotension-Post myocardial infarction-Heart failure-Arrhythmias\u2013incontinence (i.e., urinary or fecal urgency)"
+        ],
+        "risk factors": [
+            "History of falling(1)",
+            "Sleep disturbances \u2013 can lead to daytime disorientation and reduced ability to negotiate hazards in the physical environment",
+            "Medications that alter consciousness (e.g., psychotropics) or are associated with drowsiness, dizziness, or lightheadedness(e.g., antihistamines, tranquilizers, antihypertensives, antidepressants, type I antiarrhythmics, diuretics)",
+            "Cognitive impairment",
+            "Depression",
+            "Obesity",
+            "Chronic pain",
+            "Foot pain",
+            "Chronic illness (e.g., diabetes mellitus type 2, cancer)(32)",
+            "Females > males",
+            "Gait abnormalities",
+            "Age > 80 years",
+            "Age-related  decline in response time during dual-tasking  conditions with dynamic balance demands(1)",
+            "Environmental factors(2)\u2013Inadequate or excessive lighting\u2013Slippery floor\u2013Surfaces with glare or optical patterns\u2013Inappropriate footwear\u2013Area rugs, loose carpets/cords/wiring\u2013Low toilet seats and seating surfaces\u2013Fragile support structures (e.g., old furniture, loose towel bars)\u2013Items on floor\u2013Outdoor hazards \u2013 ice, wind, rain, fallen leaves, uneven pavement",
+            "Demographic factors: housebound, lives alone",
+            "Fear of falling (more common in females) associated with:(2)\u2013history of falling\u2013compromised balance and/or gait\u2013difficulty with instrumental activities of daily living (IADLs)\u2013compromised cognitive function\u2013pain",
+            "Polypharmacy (\u2265 4 medications) (1,18)\u2013Authors of the Irish Longitudinal Study on Ageing, a prospective, population-based  cohort study involving 6,666 adultsaged > 50 years, indicated that polypharmacy including antidepressants or benzodiazepine was associated with injuriousfalls and a greater number of falls(18)-Participants reported regular medication use at baseline. Any falls, and whether they were injurious, were reported 2years later. The associations between polypharmacy or fall-risk-increasing  medications and falls were assessed withregression analysis-Polypharmacy including antidepressants was associated with injurious falls and greater number of falls, butantidepressant use without polypharmacy and polypharmacy without antidepressant use were not-Use of diazepines was associated with a greater number of falls independent of polypharmacy, but was associated withinjurious falls when coupled with polypharmacy",
+            "Older women (ages 65\u201389)  with type 2 diabetes and a low score on the Geriatric Depression Scale-15  (GDS-15)  andthe Timed Up and Go (TUG) test have a higher risk for falls, due to deficits in functional mobility, gait, and dynamicbalance(28)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Obtain general mobility and weight-bearing  restrictions from physician. Multiple precautions may be warranted depending on concomitant trauma and severity of injury",
+        "In postoperative cases, obtain specific orders regarding activity/exercise from surgeon",
+        "Modify treatment to accommodate underlying diseases and conditions that may disturb balance (e.g., visual/hearing impairment, postural hypotension, hypoglycemia, head trauma, joint pain, cardiac insufficiency, hemiplegia, incontinence)",
+        "Use extreme caution with physical restraints (e.g., straps, belts) to prevent falls, and follow state laws and facility guidelines. Direct supervision is necessary when restraints are used",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop the examination and refer to physician if patient presents with a new or untreated fall-related  injury ",
+            "Consult with physician in cases of active inflammation or apparent infection of unhealed wounds",
+            "Consult with physician in cases of severe disability requiring hands-on  assistance",
+            "Reduce the risk of a fall during assessment \u2013Keep wheelchair or other moveable chair close to the patient to allow the patient to sit if necessary \u2013Use gait belt as indicated to keep patient upright -If the patient sways too far to be kept upright, the gait belt can be used to gently guide him or her to the floor slowly to avoid injury",
+            "Use good body mechanics to avoid injury to self",
+            "Older adults with known risk factors for falls should be specifically questioned about falls on a periodic basis. Many older adults do not volunteer this information due to fears of being institutionalized or having activities restricted. These patients will not necessarily mention falling as a presenting complaint"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness Explore the circumstances of recent fall(s) -Does the patient report a trip, loss of balance, fainting, functional impairment (e.g., \u201clegs gave out\u201d), or some other mechanism of falling? What direction was the fall? -Recurrent backward falls are associated with degenerative brain diseases(16) -Symptoms preceding the fall -Any dizziness, light-headedness? -Activity at the time of the fall -Any assistive device being used? -Was patient hurrying or reaching for something? -Location of fall -Was the fall in familiar or unfamiliar surroundings? -Any environmental hazards (e.g., obstacles, slippery floor)? -The bathroom is the most common location of falls reported by older adults(2) -Time of day of fall -If at night, were lights on? -Medications taken; any use of alcohol? After the fall, was patient able to get up? -Did the patient lose consciousness? If so, for how long? -What injuries occurred at the time of the fall? Have the injuries healed? Has the patient changed his or her lifestyle or discontinued any activities since the fall? Was the fall witnessed? Any caregivers present? Is there a history of previous falls or near falls? Identify factors (see Risk factors ) that may have contributed to the fall. Document comorbidities that might contribute to falls (e.g., vestibular disorder, poor vision, peripheral neuropathy, multiple sclerosis, stroke). Any recent illnesses (e.g., respiratory or urinary tract infections)?",
+                "course of treatment": {
+                    "medical management": "What emergent care and followup  care (medical/surgical) did the patient receive after falling? Any complications?",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Classes of medications associated with falls include tricyclic antidepressants (TCAs), SSRIs, prescription analgesics, tranquilizers, antihypertensives, and various antiarthritis  drugs (1)",
+                    "diagnostic tests completed": [
+                        "brain scans for TBI",
+                        "MRI for soft-tissue  damage",
+                        "radiographic imaging for fracture",
+                        "ECG to screen for heart disease",
+                        "ambulatory ECG monitor (if arrhythmias are suspected) and blood pressure monitoring (if low blood pressure is suspected)",
+                        "tilt-table  testing in patients with recurrent syncope/fainting ",
+                        "ultrasound bone scans",
+                        "ophthalmology/audiology exam"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) for pain and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for falls, near falls, balance problems, lower extremity weakness, joint pain, gait disturbances, and/or foot problems, and what specific treatments were helpful or not helpful. Has the patient had any previous education about fall prevention?"
+                },
+                "aggravating easing factors": "Document factors and situations that increase the patient\u2018s risk and fear of falling (e.g., urinary urgency, poor lighting, getting dressed/undressed, walking up or down stairs). Document factors that alter fall-related symptoms (e.g., vertigo, joint pain, faintness) such as position changes, head movement, or weight-bearing.  It may be appropriate to ask the patient or caregiver whether lapses in judgment may be an aggravating factor",
+                "body chart": "Use body chart to document location and nature of symptoms if applicable. Many relevant symptoms (e.g., fatigue, dizziness, reduced attention, psychomotor slowing) cannot be specifically located on a body chart",
+                "nature of symptoms": "Document nature of symptoms associated with falls (e.g., knee pain, lightheadedness, drop foot, poor vision). Are symptoms constant or intermittent; generally increasing, decreasing, or staying the same? Describe nature of any pain (e.g., sharp or dull, aching, throbbing)",
+                "rating of symptoms": " Rating of symptoms Fear of falling may be assessed with the single question\u2014\u201cAre you afraid of falling?\u201d\u2014and a 4-category  response scale (never, occasionally, often, very often)(9) Use a visual analog scale (V AS) or 010  scale to assess pain associated with ambulatory activity",
+                "pattern of symptoms": "Document when the patient feels unsteady (e.g., when rising from a chair, standing or walking, using stairs, changing directions, or reaching)",
+                "sleep disturbance": "Document number of wakings/night. Does patient complain of daytime fatigue? Does patient report taking medications to assist with falling asleep or staying asleep? Does the patient nap during the day? How frequently?",
+                "other symptoms": "Document other symptoms patient may be experiencing that could increase the risk of falls (e.g., mobility problems, continence problems)",
+                "respiratory status": "Does the patient use supplemental oxygen? Any history of shortness of breath? COPD? Barriers to learning Are there any barriers to learning? Yes__ No__ If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "How many falls in the past year? Recurrent fallers are at higher risk(2) Obtain a description of the course of the problem over time. Various patterns (e.g., acute vs gradual onset) may suggest differing clusters of contributors(16)",
+                    "comorbid diagnoses": "Ask patient about other medical problems (e.g., diabetes, cancer, cardiovascular disease, psychiatric disorders, orthopedic disorders, chronic kidney disease) and whether these reduce mobility",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "(e.g., does the patient participate in recreational activities, games, or exercise groups that may increase risk of falling?) Risk patterns differ by overall mobility capacity. Active older adults may experience falls for different reasons than persons who cannot stand and walk(16) In one study, fracture risk was reported to be higher in older persons with better balance, suggesting that activity increases the risk of producing sufficient force to fracture(16)",
+                "functional limitations assistance with ADLs adaptive equipment": "Does patient modify activity or restrict/avoid activities because of fear of falling? What adaptive equipment does the patient use?",
+                "living environment": "Does the patient live alone? Has the patient modified his/her physical environment due to falling? Document stairs and number of floors in home. Does a caregiver provide assistance? Identify if there are barriers to  independence in the home or if any modifications are necessary. Are there any pets in the home? See Maintenance and prevention , below, for more information about environmental modifications Some aspects of the patient\u2019s adaptations may be explored through interview, but a home assessment may be necessary to obtain a complete picture"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "Document patient\u2019s height, weight, and BMI \u2013Obesity (BMI > 30) can increase risk of falls -In a study conducted in Australia, obesity was associated with a 25% higher risk of having fallen in the previous 12 months compared to non-obese individuals(19)",
+            "assistive and adaptive devices": "Assess need for an ambulatory or adaptive device. If such a device has been prescribed, is it appropriate (including fit) and being used correctly?",
+            "balance": "Assess static and dynamic balance in sit and stand. Include at least one objective balance test, such as the Berg Balance Scale (BBS) or TUG, in the examination(33,35,36) \u2013Two assessment tools used together would better evaluate the characteristics of falls in older adults since they tend to be multifactorial(36) \u2013The BBS and TUG are generally used in community-dwelling settings, and the Hendrich II Fall Risk Model and STRATIFY are more often used in hospital admissions(36) \u2013A change of 6.5 points between two BBS assessments was found necessary to achieve the 95% confidence level that a genuine change in balance function has occurred(10) -Based on a study of 42 community-dwelling  adults older than 65 years with a history of falls and an initial mean BBS of 39 \u2013Tandem test (i.e., stand toes of one foot to heel of the other foot) or semi-tandem  test (i.e., stand with big toe of one foot touching the side of heel of the other foot) for 10 seconds \u2013Posturography \u2013 quantification of postural sway in standing, usually using a force plate to record the excursions of the center of pressure \u2013Romberg test \u2013 can detect visual dependence. Patient is asked to stand with feet together, first with eyes open, then with eyes closed -Tests whether proprioceptive and vestibular input is sufficient for patient to maintain balance when visual input is eliminated",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess distal pulses in lower extremities. Assess blood pressure in supine, sit, and stand. Document symptoms of postural hypotension, such as lightheadedness, confusion, nausea, and faintingAssess safety, ability, and need for adaptive equipment in general mobility \u2013In a study conducted in Brazil, the functional test that best discriminated older women with low vs. high concern about falls was the TUG test(20) -One hundred thirty-five  older women (mean age 72.6 years) were divided into two groups based on their Falls Efficacythose with low concern (n = 56) and those with high concern (n = 79)TUG, five times sit-to-stand  test (5TSTS), handgrip, unipedal stance, and gait velocity",
+            "functional mobility": "",
+            "gait locomotion": "Note preferred walking speed, step length, step symmetry, and gait abnormalities (e.g., limp, shuffle, contact between swing foot and stance foot) \u2013Observe for increased gait variability (stride-to-stride fluctuations in walking) -Meta-analysis  performed on 10 good quality studies with a total of 999 cases and 4,502 controls showed that fear of falling is associated with a statistically significant increase in gait variability(21) \u2013A change of 2.9 points between two Dynamic Gait Index (DGI) assessments was found necessary to achieve the 95% confidence level that a genuine change in gait function has occurred(10)  -Based on a study of 42 community-dwelling  adults older than 65 years with a history of falls and an initial mean DGI of 12.7 \u2013Gait speed can be measured using the 10-meter  walk test (10MWT) \u2013Where available, spatiotemporal gait parameters can be measured with an electronic walkway \u2013Assess for appropriateness and safety of ambulatory assistive devices used during gait assessmentAssess as appropriate for patients with neurological disorders. Screen for motor control impairments that may be medication-induced,  such as extrapyramidal symptoms (e.g., acute dyskinesias, dystonic reactions, tardive dyskinesia, parkinsonism, akinesia). Note presence of any spasticity, rigidity, or cogwheeling. Assess coordination of gross and fine motor skills as indicated",
+            "muscle strength": "Assess gross functional strength of upper and lower extremities, with special attention to quadriceps strength. Assess for weakness in the spinal extensors, which may cause forward lean and increase risk for falls(5) \u2013Results of a systematic review suggest that in addition to muscle strength, muscle fatigue is a contributor to fall risk in older adults and is often overlooked(22) -Six studies that incorporated extrinsic measures of muscle fatigue, such as declines in maximal voluntary contraction or available active ROM, were included -Muscle fatigue induces deteriorations in reactive postural control",
+            "observation inspection palpation including skin assessment": [
+                "Foot problems in older adults, such as hallux valgus, callus, metatarsalgia, plantar fasciitis, swelling, deformed nails, and flattened arches, may affect biomechanics and increase fall risk"
+            ],
+            "posture": "Assess posture in sitting and standing and for postural instability. Forward head position and thoracic kyphosis contribute to postural sway and increased reliance on hip strategies to maintain balance(1,6)",
+            "range of motion": "Assess gross functional ROM and flexibility. Decreased ankle ROM (e.g., due to contracture or limited by ankle-foot  orthosis) impairs the use of ankle strategy to maintain balance, increasing postural sway with greater reliance on hip strategies and trunk muscle strength(1,4,6)",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess patella and Achilles tendon reflexes Self-care/activities  of daily living  (objective testing) \u2013Assess need for adaptive equipment (e.g., handrails, shower bench, raised toilet seat, cane, or walker) to complete ADLs and IADLs safely \u2013Assess patient\u2019s confidence and fear of falling during ADLs with the ABC Scale, maximum score of 1,600 points",
+            "sensory testing": "Peripheral sensory testing is important since neuropathy is common in older adults. Altered proprioception and reduced sensation of the lower extremities can contribute to greater reliance on hip strategies to maintain balance(1,6) \u2013Although proprioception is important for balance, testing for proprioception is not sensitive. Testing vibratory sense with a tuning fork over a bony prominence tests similar nerve fibers and is more sensitive(16) \u2013A patient with impaired vision should be referred for an eye examination to assess for deficits in acuity, peripheral vision, and depth perception(34)",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "Screen for visual field and spatial relations problems in patients with history of stroke. Visual-spatial  attention may also be impaired in age-related neurological disorders associated with increased risk of falling, such as Alzheimer\u2019s disease,leading to difficulty in planning and guiding movements(1)",
+            "arousal attention cognition": "Assess orientation x 4 (name, place, date, reason) and ability to follow instructions. Does patient demonstrate an obvious deficit in problem solving/executive function? Any apparent judgment problems? \u2013Cognitive function can be screened using the Mini-Mental State Examination (MMSE) as indicated",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "In a longitudinal study in Japan that examined the association between habitual walking and multiple or injurious falls, the incidence of falls was lower in walkers than non-walkers  only in persons who had fewer than two risk factors for falls. In older adults with two or more risk factors, the incidence of falls was higher in walkers than non-walkers -Risk factors identified:",
+                "-Poor balance  < 10-second  one-legged standing",
+                "-Mobility limitation  reported difficulty with 10 steps or 400 m without rest",
+                "-Knee pain  reported or who had been treated for knee OA",
+                "-Depressive symptoms  reported \u201cI could not get going\u201d or \u201ceverything is an effort\u201d in last week",
+                "-Assistive device  regularly used cane, walker, or wheelchair",
+                "-Polypharmacy  \u2265 four meds",
+                "-Previous fall history  fall in last year"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Take special precautions to prevent falls while patient exercises, especially during functional training to improve posture, balance, and gait (e.g., use gait belt, parallel bars, or the assistance of another therapist when necessary)",
+                "Caution is needed when recommending walking for community-dwelling older adults, because walking can actually increase their risk of multiple or injurious falls(23) ",
+                "Evidence is lacking to support the use of physical or electrotherapeutic modalities for post-fall  patient management. However, modalities may be indicated to treat injuries related to trauma associated with the current fall. Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+                "Consider use of protective equipment, such as hip pads, to prevent injury"
+            ]
+        },
+        "diagnosis need for treatment": "Post-fall/increased  risk of falls due to age-related  decline in physical functioning, including impaired lower-extremity  strength, ROM, proprioception, and deficits in posture, balance, and gait",
+        "rule out": " Rule out Elder abuse in case of documented non-accidental  fall Avoidable hazards in physical environment Polypharmacy Sleep disturbance Dehydration Seizure disorder Heart rhythm or heart valve disorder Anemia, infection, and metabolic problems",
+        "prognosis": [
+            "Falls are the fifth leading cause of death in older adults(16)",
+            "Fear of falling is predictive of participation restriction in both individuals with a history of falls and individuals with no history of falls (1)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines \u2013eye doctor for vision assessment and correction \u2013audiologist to address hearing impairments \u2013psychiatrist to treat patients with severe anxiety/depression and/or fear of falling \u2013community center for exercise-based  programs \u2013orthopedics/orthotist for postural bracing system, footwear \u2013internist for assessment and treatment of vestibular disease \u2013geriatrician for assessment and treatment of multiple health problems and chronic conditions in patients over age 65 years \u2013neurologist for diagnosis and treatment of neurological disorders \u2013social worker for placement issues, social environment issues \u2013nurse \u2013nutritionist \u2013occupational therapist for home safety evaluation",
+        "other considerations": [
+            "A home assessment for fall risk factors and the need for assistive/adaptive devices may be indicated in community-dwelling older patients",
+            "Authors of a 2018 meta-analysis  concluded that cognitive behavioral therapy (CBT) appears to be effective in reducing fear of falling and improving balance among older people(37) \u2013Six trials involving 1,626 participants were analyzed \u2013CBT interventions had significant immediate effects on reducing fear of falling that were retained for up to 12 months and effects on improving balance assessed at 6 months post-intervention "
+        ],
+        "treatment summary": [
+            "Authors of a 2017 meta-analysis  concluded that exercise alone and various combinations of interventions were associated with lower risk of injurious falls compared with usual care(38) \u2013A total of 238 RCTs (159,910 participants) were included \u2013The intervention most strongly associated with reduced falls seemed to be the combination of exercise and vision assessment and treatment",
+            "Whether exercise training reduces the rate of falls in nursing care facilities remains uncertain(3)",
+            "Authors of a 2018 meta-analysis  to evaluate the effectiveness of exercise interventions on the rate of falls and number of fallers in care facilities found that exercise interventions including balance training (gait, balance, and functional training; or balance and strength) resulted in reduced rate of falls(39) \u2013Twenty-one  studies that included 5540 participants were reviewed \u2013Meta-analysis  showed that exercise had a preventive effect on the rate of falls and on the number of fallers. The effect was stronger when combined with other fall prevention interventions \u2013Exercise interventions also resulted in reduced numbers of recurrent fallers",
+            "Authors of a systematic review and meta-analysis  of the evidence for effective falls prevention interventions in older adults recently discharged from hospital found that falls prevention exercise programs actually increased the numbers of falls, falls injuries, and proportions of fallers in this population(40) \u2013This is contrary to findings in community-dwelling  older adults that exercise programs that challenge balance are associated with reduction in falls \u2013Older adults recently discharged from hospital are generally functionally declined and so may have been unable to do the programs at the same parameters as the community-dwelling older adults \u2013In particular the components of the home exercise program that may have contributed to the negative outcome include the lack of direct supervision and recommended frequencies of 30\u201340  minutes at least 3\u20136 days per week. The authors suggested that more supervision and lower dosage of exercise might be required",
+            "The United States Preventive Services Task Force (USPSTF) recommends exercise or physical therapy to prevent falls incommunity-dwelling adults aged 65 years or older who are at increased risk for falls(17) \u2013USPSTF does not recommend automatically performing an in-depth  multifactorial risk assessment in community-dwelling  adults because the likelihood of benefit is small \u2013Effective exercise and physical therapy interventions include group classes and at-home  physiotherapy strategies \u2013This review is an update to their 2010 systematic review and has a few notable differences. The updated findings do not support an association between vitamin D supplementation and reduced falls in the general population of older adults(17)",
+            "The U.S. Department of Health and Human Services recommends for older adults at least 150 minutes per week of moderate-intensity  or 75 minutes per week of vigorous-intensity  aerobic physical activity, as well as muscle strengthening exercises twice per week and balance training 3 or more days per week",
+            "The American Geriatric Society recommends that exercise include balance, gait, and strength training",
+            "Therapeutic exercises and functional training may be indicated to address impairments in lower extremity strength and ROM, as well as to reduce deficits in transfers, posture, balance, and gait(7,8)",
+            "Aqua fitness may reduce fear of falling as measured by the FES-I  in older adults with lower-extremity  osteoarthritis who are physically inactive. Aqua fitness is a form of water-based  exercise that typically includes aerobic endurance and resistance training in a vertical position in water that is at least waist deep(24) \u2013Based on an RCT conducted in New Zealand \u2013Thirty-five  participants were assigned either to an aqua fitness group or an active control group that performed exercises while seated in warm water \u2013Outcome measures included the TUG test, step test, sit-to-stand  (STS) test, 400 m walk test, handgrip, and the FES-I \u2013After 12 weeks FES-I  scores improved significantly in the aqua fitness group compared with the control group \u2013No significant change in TUG test, STS test, or handgrip strength was observed in either group. Both groups significantly improved in the 400 m walk test",
+            "Perturbation training, which involves unexpected external perturbations during walking that mimic environmental stumbles, is done to try to develop feedforward mechanisms of stability control, and to train the rapid reactions required after a slip or trip has begun(41)  \u2013Authors of a 2017 systematic review of perturbation training asked three separate review questions: Compared to standard falls prevention treatment, does perturbation training reduce community falls incidence in healthy older persons who are fallers or at risk of falling? Does perturbation training reduce laboratory falls in healthy older persons who are fallers or at risk of falling? and does perturbation training reduce laboratory falls incidence in young healthy persons?(41) \u2013Sixteen papers (849 participants) were included \u2013Results suggest that perturbation training may be effective compared to no treatment in reducing laboratory-induced falls in older and younger persons;however, it is uncertain whether perturbation training reduces community falls incidence in frail older persons",
+            "Researchers who conducted an RCT found that incorporating perturbations during treadmill training improves balance during walking and improves voluntary stepping time and balance control in older adults(29) \u2013Based on an RCT in Israel involving 53 community-dwelling older adults (age 80 \u00b1 5.6 years) \u2013Patients were randomized to either the intervention group (n = 27) or control group (n = 26) and received 24 sessions twice a week for 12 weeks \u2013The intervention group ambulated on a treadmill for 20 minutes that included a 3-minute  warm up. Patients were asked to walk at their preferred speed while receiving random perturbations from a therapist. Patients were not allowed to use the handrails, but were given a safety harness to prevent an accidental fall \u2013The control group ambulated on a treadmill for 20 minutes without any perturbations given",
+            "Researchers who conducted an RCT found that virtual reality (VR) training combined with treadmill training can reduce the risk for falls in older patients(30) \u2013Based on a multicenter RCT study that occurred at five clinical centers across five countries (Belgium, Israel, Italy, the Netherlands, and the United Kingdom) involving 302 older adults (ages 60\u201390) \u2013Patients were randomized to either the treadmill training plus VR group (n = 154) or treadmill training only group (n = 148). Both groups trained 3x/week for 45 minutes for 6 weeks \u2013The VR system used a \u201cmotion-capture  camera and a computer-generated  simulation\u201d which simulates real-life challenges that patients may encounter, including obstacles, multiple pathways, and distracters \u2013Results gathered after 6 months show both groups having a decrease in the rate of falls; however, those in the treadmill training plus VR group had a significant reduction in falls compared to those in the treadmill training only group",
+            "Authors of a 2017 systematic review and meta-analysis  of literature investigating the effectiveness of VR to improve mobility and balance in community-dwelling  older adults found the evidence inconclusive and further research warranted(42) \u2013Twenty-eight  studies with 1181 participants were appraised \u2013The review suggests there are positive clinical effects of VR games for balance and mobility improvements compared with no-treatment  and conventional interventions \u2013However, because there was a high risk of bias and large variability of intervention protocols, the evidence remains inconclusive",
+            "Authors of a systematic review of RCTs investigating tai chi in older adults concluded that tai chi significantly reduced the number of fallers by 20% and the rate of falls by 30%(11) \u2013Eighteen RCTs with3824 total participants were included \u2013The preventive effect of tai chi appears to increase with exercise frequency",
+            "Authors of a meta-analysis  on the effects of Pilates on balance and falls in older adults concluded that Pilates improves balance, both static and dynamic, and might also reduce falls(43) \u2013Fifteen RCTs were included \u2013The results also suggested that Pilates may produce greater effects in balance than other training approaches for balance \u2013They found the literature too scarce to draw definitive conclusions about whether Pilates reduces falls in older adults . Problem Goal Intervention Expected Progression Home Program  Lower extremity muscle weaknessFunctional strength Therapeutic exercises _ General strengthening exercises _ _ Focus on quadriceps and spinal extension exercises (weakness in these muscles contributes to falls)Therapeutic exercises _ Add resistance with weights or elastic bandsCommunity-/home- based exercise program Decreased lower extremity ROM/ flexibilityFunctional ROM/ flexibilityTherapeutic exercises _ Address specific impairments, especially hamstring and Achilles tendon ROM restrictionsProgress as tolerated Home program for flexibility exercises and stretching Limited endurance Improve functional enduranceTherapeutic exercises _ General aerobic endurance activitiesTherapeutic exercises _ Progress as toleratedSupervised walking program in community, if safe Postural deficits Correction of faulty postureAssistive devices _ Thoracolumbar, lumbosacral supports _ _ Therapeutic exercises Postural correction exercisesProgress as appropriate Continue exercises and bracing as prescribed Posture, balance, and gait deficitsProtective dynamic balance and gait stability _ _ Improve scores on standard balance testsGait training _ Address specific deficits (e.g., decreased weight shifting, decreased heel-toe progression) and provide assistive devices if needed _ _ Provide assistive devices _ _ Balance training _ Static and dynamic balance exercisesBalance training _ Progress balance, gait, and proprioception training (e.g., vary surface, head movements, and visual input, and add cognitive activities) _ _ Tai chi (11) _ _ Pilates exercises(43) _ VR exergaming(42)If safe, prescribe home exercise program incorporating balance activities  Restrictions in daily activitiesImprove safety at home and in community _ _ Improve safety in ADLsADL training _ Functional exercises (e.g., reaching, step up, step down, sit to stand), provide equipment as appropriate (e.g., reachers, shower chair), refer to occupational therapyProgress towards patient safely completing ADLsIf safe, prescribe home exercise program incorporating functional activities At risk for recurrent fallsReduce incidence of fallsAssistive and adaptive devices _ Provide necessary adaptive equipment and remove environmental hazards _N/A Implement home modifications, educate family/ caregivers ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "functional lower-extremity  muscle strength and endurance": [
+            "MMT, 30-second  chair test, 5TSTS"
+        ],
+        "functional lower-extremity  rom flexibility": [
+            "Goniometry"
+        ],
+        "improved dynamic balance": [
+            "BBS, TUG test, Tinetti Test, Functional Reach Test"
+        ],
+        "improved functional mobility gait": [
+            "Short Physical Performance Battery (SPPB), Functional Gait Assessment, DGI, 30-Second  Chair to Stand Test, 5TSTS"
+        ],
+        "improved walking endurance": [
+            "6MWT, Borg RPE"
+        ],
+        "reduced fear of falling increased confidence in balance": [
+            "ABC Scale, FES-I,  SAFE, Elderly Mobility Scale"
+        ],
+        "decrease fall occurrences": [
+            "Accurately ascertaining falls in older adults can be complicated by problems with recall and reporting biases. Authors of astudy in the United States suggest that an individualized calendar with journal pages to be completed daily and submittedmonthly is an effective tool to improve the accuracy of this outcome measure for therapy intervention(25)\u2013Incentives to submit monthly reports can improve the compliance rate. A 99.1% compliance rate over 12 months (1,487out of 1,500 calendar months) was obtained when participants received a gift card as incentive"
+        ]
+    },
+    "maintenance or prevention": [
+        "Refer to physician for medication review if patient is taking benzodiazepines, antidepressants, anticonvulsants, diuretics, or other medications that may cause dizziness or postural hypotension. Refer to physician if vestibular disorders are suspected",
+        "Osteoporosis prevention to reduce fracture risk Lifestyle modification; exercise, diet, etc. Weight-bearing  exercise Smoking cessation",
+        "Patient education to discourage use of step stools or other high-fall-risk activities, such as walking on ice or other slippery surfaces",
+        "Home modifications(15) Make necessary adjustments for low light or glare \u2013Ensure light switches are safely accessible  \u2013Timers may be used so that lights turn on at dusk \u2013\u201cClapper\u201d device may be useful \u2013Ensure nightlights are bright enough to provide adequate lighting \u2013Motion-activated  lighting Remove or tack down loose carpet Ensure walkways are unobstructed Encourage use of chairs with armrests that are at an adequate height for safe sit-to-stand  transfer Falls occur frequently on stairs; ensure handrails are present and secure. Contrast tape in bright colors can be used to highlight steps, and nonskid strips can be applied to each step \u2013If unable to make stair climbing safe, other options include installation of chair lifts and rearrangement of rooms to allow single-floor  living Grab bars, raised toilet seat, tub seat, shower chair, and nonskid mats in the bathroom may reduce falls Other necessary modifications may include widening of walkways and doorways and rearranging furniture to accommodate walkers or wheelchairs",
+        "Prevention of falls and fractures in hospitals and nursing homes(14) Most evidence on successful strategies to prevent falls is derived from older adults in the community. This evidence may not apply to patients in hospitals or nursing homes who are medically unstable and/or cognitively impaired. A systematic review of multiple study types showed that multifaceted interventions may reduce the number of falls in hospitals and nursing homes. The interventions that were reviewed included risk assessment, care planning, medical/diagnostic approaches, changes in the physical environment, education programs, medication review, hip protectors, removal of physical restraints, and exercise(12,13) \u2013It is unclear whether fall rate is associated with floor covering (i.e., carpeted or uncarpeted floors) \u2013Use of hip protectors in nursing homes may reduce rates of hip fracture and may reduce fear of falling \u2013Exercise as part of the multifaceted intervention helps to prevent falls \u2013Removal of physical restraints had no significant effect on falls or fractures",
+        "A collaborative interdisciplinary falls service in the United Kingdom was found to reduce the conveyance to hospital of older persons who experience falls, was perceived as valuable and helpful by the patients, and showed potential cost savings for health care(26) Health and social care professionals were specifically trained to focus on assessment and intervention issues immediately post fall and in the first 72 hours after falls The authors concluded that having an understanding of falls and the circumstances leading to them facilitated a better (i.e., targeted and proactive) response"
+    ],
+    "patient education": [
+        "Mayo Clinic website, \u201cFall prevention: simple steps to prevent falls\u201d https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/fall-prevention/art-20047358",
+        "Brochures from U.S. CDC for patients: https://www.cdc.gov/steadi/pdf/check_for_safety_brochure-a.pdf https://www.cdc.gov/homeandrecreationalsafety/pdf/falls/WhatYouCanDoToPreventFalls8.5x11.pdf Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Cuevas-Trisan  R. Balance problems and fall risks in the elderly. Clin Geriatr Med . 2019;35(2):173-183.  doi:10.1016/j.cger.2019.01.008. (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Ziebart C, MacDermid J, Bobos P, et al. Fall hazard identification: A scoping review. Phys Occup Ther Geriatr . 2021;39(1):96-111.  doi:10.1080/02703181.2020.1806424. (SR) "
+        },
+        {
+            "number in article": 3,
+            "reference": "Cameron ID, Dyer SM, Panagoda CE, et al. Interventions for preventing falls in older people in care facilities and hospitals. Cochrane Database Syst Rev . 2018;(Issue 9):CD005465. doi:10.1002/14651858.CD005465.pub4.  (SR)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Koczy P, Becker C, Rapp K. Effectiveness of a multifactorial intervention to reduce physical restraints in nursing home residents. J Am Geriat Soc . 2011;59(2):333-339.  (RCT)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Moreland JD, Richardson JA, Goldsmith CH, Chase CM. Muscle weakness and falls in older adults: a systematic review and meta-analysis.  J Am Geriatr Soc . 2004;52(7):1121-1129.  (SR)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Muir SW, Berg K, Chesworth B, Klar N, Speechley M. Balance impairment as a risk factor for falls in community-dwelling  older adults who are high functioning: a prospective study. Phys Ther . 2010;90(3):338-347.  doi:10.2522/ptj.20090163. (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Hopewell S, Adedire O, Copsey BJ, et al. Multifactorial and multiple component interventions for preventing falls in older people living in the community. Cochrane Database Syst Rev. 2018;(7). Art No: CD012221. doi:10.1002/14651858.CD012221.pub2.  (SR)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Sherrington C, Fairhall NJ, Wallbank GK, et al. Exercise for preventing falls in older people living in the community. Cochrane Database Syst Rev . 2019;(1). Art No: CD012424. doi:10.1002/14651858.CD012424.pub2.  (SR)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Pena SB, Guimar\u00e3es HC, Lopes JL, et al. Fear of falling and risk of falling: A systematic review and meta-analysis.  Acta Paul Enfermagem . 2019;32(4):456-463. doi:10.1590/1982-0194201900062.  (SR)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Romero S, Bishop MD, Velozo CA, Light K. Minimum detectable change in the Berg Balance Scale and Dynamic Gait Index in older persons at risk for falling. J Geriatr Phys Ther. 2011;34(3):131-137.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Huang Z-G, Feng Y-H, Li Y-H, et al. Systematic review and meta-analysis:  Tai Chi for preventing falls in older adults. BMJ Open . 2017;7:e013661. doi:10.1136/bmjopen-2016-"
+        },
+        {
+            "number in article": 13661,
+            "reference": " (M)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Michael YL, Lin JS, Whitlock EP. Interventions to prevent falls in older adults: an updated systematic review [internet]. Report No: 11-05150-EF-1 . Rockville (MD): Agency for Healthcare Research and Quality (US); 2010. (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Korall AMB, Feldman F, Yang Y, et al. Effectiveness of hip protectors to reduce risk for hip fracture from falls in long-term  care. J Am Med Dir Assoc . 2019;20(11):1397-1397. doi:10.1016/j.jamda.2019.07.010. (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Oliver D, Connelly JB, Victor CR. Strategies to prevent falls and fractures in hospitals and care homes and effect of cognitive impairment: systematic review and meta-analyses. BMJ. 2007;334(7584):82. (SR)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Keglovits M, Clemson L, Hu Y, et al. A scoping review of fall hazards in the homes of older adults and development of a framework for assessment and intervention. Aust Occup Ther J . 2020;67(5):470-478.  doi:10.1111/1440-1630.12682.  (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Studenski SA, Van Swearigen J. Falls. In: Fillit HM, Rockwood K, Young J, eds. Brocklehurst\u2019s Textbook of Geriatric Medicine and Gerontology . 8th ed. Philadelphia, PA: Saunders Elsevier; 2017:864-872.  (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Guirguis-Blake  JM, Michael YL, Perdue LA, Coppola EL, Beil TL. Interventions to Prevent Falls in Older Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. 2018;319(16):1705-1716.  doi:10.1001/jama.2017.21962. (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Richardson K, Bennett K, Kenny RA. Polypharmacy including falls risk-increasing  medications and subsequent falls in community-dwelling  middle-aged  and older adults. Age Ageing. 2015;44(1):90-96.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Mitchell RJ, Lord SR, Harvey LA, Close JC. Obesity and falls in older people: Mediating effects of disease, sedentary behavior, mood, pain and medication use. Arch Gerontol Geriatr. 2015;60(1):52-58.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "de Souza Moreira B, Mourao Barroso C, Cavalcanti Furtado SR, Sampaio RF, Drumond das Chagas e Vallone ML, Kirkwood RN. Clinical functional tests help identify elderly women highly concerned about falls. Exp Aging Res . 2015;41(1):89-103.  doi:10.1080/0361073X.2015.978214. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Ayoubi F, Launay CP, Annweiler C, Beauchet O. Fear of falling and gait variability in older adults: A systematic review and meta-analysis.  J Am Med Dir Assoc . 2015;16(1):14-19.  doi:10.1016/j.jamda.2014.06.020. (M)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Papa EV, Garg H, Dibble LE. Acute effects of muscle fatigue on anticipatory and reactive postural control in older individuals: A systematic review of the evidence. J Geriatr Phys Ther . 2015;38(1):40-48.  doi:10.1519/JPT.0000000000000026. (SR)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Okubo Y, Seino S, Yabushita N, et al. Longitudinal association between habitual walking and fall occurrences among community-dwelling  older adults: Analyzing the different risks of falling. Arch Gerontol Geriatr . 2015;60(1):45-51.  doi:10.1016/j.archger.2014.10.008. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Fisken AL, Waters DL, Hng WA, Steele M, Keogh JW. Comparative effects of 2 aqua exercise programs on physical function, balance, and perceived quality of life in older adults with osteoarthritis. J Geriatr Phys Ther . 2015;38(1):17-27.  doi:10.1519/JPT.0000000000000019. (RCT)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Stark SL, Silianoff TJ, Kim HL, Conte JW, Morris JC. Tailored calendar journals to ascertain falls among older adults. OTJR. 2015;35(1):53-59. doi:10.1177/1539449214561764. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Pyer M, Campbell J, Ward A, Knights A, Jones J. Falls assessment and prevention in older people: An evaluation of the Crisis Response Service. J Paramedic Pract . 2015;7(2):68-72.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Marcum ZA, Wirtz HS, Pettinger M, et al. Anticholinergic medication use and falls in postmenopausal women: findings from the Women\u2019s Health Initiative cohort study. BMC Geriatr. 2016;1-9.  doi:10.1186/s12877-016-0251-0.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "De Souza Moreira B, Da Cruz Dos Anjos DM, Pereira DS, et al. The Geriatric Depression Scale and the timed up and go test predict fear of falling in community-dwelling elderly women with type 2 diabetes mellitus: a cross-sectional  study. BMC Geriatr . 2016;1-10.  doi:10.1186/s12877-016-0234-1.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Kurz I, Gimmon Y, Shapiro A, Debi R, Snir Y, Melzer I. Unexpected perturbations training improves balance control and voluntary stepping times in older adults \u2013 a double blind randomized control trial. BMC Geriatr . 2016;1-11.  doi:10.1186/s12877-016-0223-4.  (RCT)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Mirelman A, Rochester K, Maidan I, et al. Addition of a non-immersive  virtual reality component to treadmill training to reduce fall risk in older adults (V-TIME):  a randomized controlled trial. Lancet. 2016;388(10050):1170-1182.  doi:10.1016/S0140-6736(16)31325-3.  (RCT)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Cheng MH, Chang S-F. Frailty as a risk factor for falls among community dwelling people: evidence from a meta-analysis.  J Nurs Scholarsh . 2017;49(5):529-536.  doi:10.1111/ jnu.12322. (M)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Gravesande J, Richardson J. Identifying non-pharmacological  risk factors for falling in older adults with type 2 diabetes mellitus: a systematic review. Disabil Rehabil . 2017;39(15):1459-1465.  doi:10.1080/09638288.2016.1199741. (SR)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Park S, Lee Y. The diagnostic accuracy of the berg balance scale in predicting falls. West J Nurs Res . 2017;39(11):1502-1525.  doi:10.1177/0193945916670894. (SR)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Blaylock SE, Vogtle LK. Falls prevention interventions for older adults with low vision: A scoping review. Can J Occup Ther . 2017;84(3):139-147. doi:10.1177/0008417417711460. (RV)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Lusardi MM, Fritz S, Middleton A, et al. Determining Risk of Falls in Community Dwelling Older Adults: A Systematic Review and Meta-analysis  Using Posttest Probability. J Geriatr Phys Ther . 2017;40(1):1-36.  doi:10.1519/JPT.0000000000000099. (M)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Park S-H. Tools for assessing fall risk in the elderly: a systematic review and meta-analysis.  Aging Clin Exp Res . 2018;30(1):1-16.  doi:10.1007/s40520-017-0749-0.  (M)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Liu TW, Ng GYF, Chung RCK, Ng SSM. Cognitive behavioural therapy for fear of falling and balance among older people: a systematic review and meta-analysis.  Age Ageing . 20118;47(4):520-527.  doi:10.1093/ageing/afy010. (M)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Tricco AC, Thomas SM, Veroniki AA, et al. Comparisons of Interventions for Preventing Falls in Older Adults: A Systematic Review and Meta-analysis.  JAMA. 2017;318(1687-1699).  doi:10.1001/jama.2017.15006. (M)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Lee SH, Kim HS. Exercise interventions for preventing falls among older people in care facilities: a meta-analysis.  Worldviews Evid Based Nurs . 2017;14(1):74-80.  doi:10.1111/ wvn.12193. (M)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Naseri C, Haines TP, Etherton-Beer  C. Reducing falls in older adults recently discharged from hospital: a systematic review and meta-analysis.  Age Ageing . 2018;47(4):512-519.  doi:10.1093/ageing/afy043. (M)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Papadimitriou A, Perry AM. A systematic review of the effects of perturbation training on preventing falls. Nz J Physiother . 2017;45(1):31-39.  doi:10.15619/NZJP/45.1.05. (SR) "
+        },
+        {
+            "number in article": 42,
+            "reference": "Neri SGR, Cardoso JR, Cruz L, et al. Do virtual reality games improve mobility skills and balance measurements in community-dwelling  older adults? Systematic review and meta-analysis.  Clin Rehabil . 2017;31(10):1292-1304.  doi:10.1177/0269215517694677. (M)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Moreno-Segura  N, Igual-Camacho  C, Ballester-Gil  Y, Blasco-Igual  MC, Blasco JM. The effects of the Pilates training method on balance and falls of older adults: a systematic review and meta-analysis  of randomized controlled trials. J Aging Phys Act . 2018;26(2):327-344.  doi:10.1123/japa.2017-0078.  (M)"
+        }
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "metadata": {
+        "title": "Communication Impairment  Duchenne and Becker Muscular Dystrophy",
+        "synonyms": [
+            "duchenne and becker muscular dystrophy  communication impairment",
+            " pseudohypertrophic and becker muscular dystrophy: communication impairment",
+            " dystrophy, duchenne and becker muscular: communication impairment",
+            "dystrophy, pseudohypertrophic and becker muscular: communication impairment",
+            "muscular dystrophy, duchenne and becker: communication impairment",
+            "muscular dystrophy, pseudohypertrophic and becker: communication impairment",
+            "dmd and becker muscular dystrophy: communication impairment",
+            "becker and duchenne muscular dystrophy: communication impairment",
+            "dystrophy, becker muscular and duchenne: communication impairment",
+            "dystrophy, becker muscular and pseudohypertrophic: communication impairment",
+            "muscular dystrophy, becker and duchenne: communication impairment",
+            " muscular dystrophy",
+            "becker and pseudohypertrophic: communication impairment"
+        ],
+        "anatomical location body part affected": [
+            "The musculoskeletal, gastrointestinal, respiratory, and cardiovascular systems are affected in Duchenne muscular dystrophy (DMD) and Becker muscular dystrophy (BMD), as well as the brain (particularly the cerebellum), kidneys, and retinas(17)"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders"
+        ],
+        "description": [
+            "There are nine types of muscular dystrophy that affect children. The onset of DMD is at 2-5 years of age.(17) Most patients with DMD are dependent upon a wheelchair by the age of 9.5 years. BMD has similar but less severe symptoms.(2) The stages of DMD are referred to as \u201cearly ambulatory,\u201d \u201clate ambulatory,\u201d \u201cearly nonambulatory,\u201d and \u201clate nonambulatory.\u201d Symptoms include the following:",
+            "Early ambulatory \u2013Delayed motor milestones (e.g., walking, climbing stairs)(5) \u2013Muscle weakness(5) \u2013Delayed speech and language(5,8) \u2013Cognitive delays(17) \u2013Gower\u2019s sign (using arms to stand by first placing the hands on the knees and then walking them up the body to compensate for leg muscle weakness)(5) \u2013Toe walking(5) \u2013Waddling gait(5)",
+            "Late ambulatory \u2013Gait is increasingly labored(5) \u2013Loss of ability to climb stairs and rise from the floor(5) \u2013Under-  or overweight(5)",
+            "Early nonambulatory \u2013Loss of ability to walk, but can self-propel  using upper limb strength and can maintain posture(5) \u2013Might develop scoliosis(5)  \u2013Respiratory impairment(5) \u2013Cardiac impairment(5) \u2013Under-  or overweight(5)",
+            "Late nonambulatory \u2013Limited upper limb function(5) \u2013Limited ability to maintain posture(5) \u2013Scoliosis(5) \u2013Respiratory impairment(5) \u2013Cardiac impairment(5) \u2013Under-  or overweight(5) \u2013Dysphagia(5) \u2013Bladder dysfunction(17)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G71.0": "muscular dystrophy (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "As many as one-third  of patients with DMD will have a learning disability.(4) Speech, language, and cognitive deficits in children with DMD and BMD are mild and can include intellectual disability, reduced attention, deficits in social interaction, and impaired verbal working memory.(8,9,16) It is hypothesized that the absence of or deficiency in dystrophin in DMD and BMD can negatively affect the development of the cerebral cortical and cerebellar areas, leading to speech, language, and cognitive impairments.(11) Most research on cognitive, speech, and language disorders is specific to children with DMD",
+            "Symptoms of cognitive impairment include \u2013developmental delay(8,18) \u2013learning disability(4) \u2013short-term  memory deficits(4) \u2013deficits in social interaction(11) \u2013poor recognition of facial affect(11)",
+            "Symptoms of speech and language impairment can include \u2013expressive and receptive language delay(7,8,18) \u2013poor phonological awareness (PA) and reading skills(3,20) \u2013speech delay(5,8)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "A multidisciplinary team approach that focuses on preventive measures is used in the evaluation and treatment of children with DMD or BMD.(5) A team should include an SLP, a neurologist, a neuromuscular specialist, a pediatrician, a nutritionist/dietitian, a nurse, a neurogeneticist, a pediatric orthopedist, an OT, a psychologist, a social worker, and a PT.(5) Input from different specialists will vary as the disease progresses(5)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: dmd and bmd are caused by a mutation in the dystrophin gene.   dmd is the most common type of muscular dystrophy, affecting approximately  in , live male births.   bmd affects  in , male births. dmd and bmd are": [],
+        "pathogenesis": [
+            "Both DMD and BMD result from a mutation (most often a deletion) in the dystrophin gene ( DMD , which is located on theX chromosome).(5) In DMD, the mutation causes an absence of or defect in dystrophin (a protein required inside musclecells for structural support), leading to progressive muscle degeneration and eventual loss of ambulation.(5) The course ofthe disease is similar in BMD; however, the manifestations of symptoms of BMD are less severe, and the progression isslower due to the partial presence (rather than total absence) of dystrophin(11)",
+            "Patients are typically diagnosed with DMD at 2-5 years of age when they show significant delays in language and motordevelopment.(5) Onset of symptoms of BMD typically do not occur until adolescence or adulthood; the first symptomsinclude generalized weakness, as well as atrophy and weakness of muscles of the hips, thighs, and shoulders(2)"
+        ],
+        "risk factors": [
+            "Male sex; DMD and BMD primarily affect males, who inherit the disease through their mothers(2)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Symptoms associated with DMD and BMD vary, and precautions will differ according to the individual patient and the severity of accompanying language, cognitive, hearing, and/or motor impairments",
+        "Patients with DMD and BMD are at risk for malnutrition and weight loss. The speech-language  pathologist (SLP) should collaborate with a nutritionist, physical therapist (PT), and occupational therapist (OT) to minimize the effects of physical impairments on feeding and nutrition",
+        "Development of an individualized family service plan (IFSP) or individual education plan (IEP) in collaboration with the parents and school personnel is essential for infants and children with DMD to address potential communication and learning problems, as well as swallowing and motor problems in the school environment. In addition, this plan can assist school personnel in modifying activities that might be otherwise harmful or unsafe for the child(5)",
+        "Patients with DMD and BMD are at risk for developing cardiomyopathy (a weakening and deterioration of the heart muscle that can lead to heart failure), and regular cardiac evaluations are recommended beginning in early childhood for patients with DMD and at age 10 for patients with BMD(9)"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "A multidisciplinary team approach that focuses on preventive measures is used in the evaluation and treatment of children with DMD or BMD.(5) A team should include an SLP, a neurologist, a neuromuscular specialist, a pediatrician, a nutritionist/dietitian, a nurse, a neurogeneticist, a pediatric orthopedist, an OT, a psychologist, a social worker, and a PT.(5) Input from different specialists will vary as the disease progresses(5)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Determine if there is a family history of BMD or DMD. Note when the patient was diagnosed. Initial symptoms that might lead to referral for a full evaluation may include delayed walking, frequent falls, Gower\u2019s sign, waddling gait, and difficulty running or climbing stairs. In addition, other delayed milestones, such as speech, language, and cognitive delays, combined with a positive family history of DMD might precipitate a full evaluation(5)",
+                "course of treatment": {
+                    "medical management": "Document any medical management for DMD or BMD. Pharmaceutical management of DMD and BMD includes the use of glucocorticoids (e.g., prednisone, prednisolone, deflazacort), which have been shown to slow the decline of muscle strength and function and improve quality of life in children with DMD and BMD.(5,24,25) In a study conducted in Canada, researchers found that use of glucocorticoids in children with DMD resulted in significantly reduced rates of spinal surgery needed to treat scoliosis compared to those children with DMD  who were not treated with glucocorticoids.(15) Highquality  evidence from randomized controlled trials has shown that short  and intermediate-term (up to 6 months) creatine supplementation leads to increased muscle strength and functional performance in patients with muscular dystrophies.(14)Authors of a systematic review of studies on creatine did not find any adverse effects for participants with muscular dystrophies.(14) Other ways to manage symptoms include physical therapy to maintain good range of movement (ROM), orthoses to prevent contractures (permanent muscle tightening), surgical intervention for lowerlimb  contractures, spinal fusion to straighten the spine, splinting or casting of fractures, respiratory management, cardiac care, pain management, speech and language therapy, and swallowing management(5)",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken? Ask a pharmacist or physician about the side effects of these medications. Side effects of glucocorticoids include obesity, hirsutism (excessive body hair), acne, warts, delayed puberty, adverse behavioral changes (e.g., emotional lability, hyperactivity), hypertension, immune/adrenal suppression, gastroesophageal reflux disease (GERD), glucose intolerance, peptic ulcer disease, cataracts, bone demineralization, and myoglobinuria (the presence of myoglobin in the urine usually associated with muscle destruction)(5)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Evaluation by a physician for DMD and BMD includes a full family history and a physical examination that focuses on the musculoskeletal system. Other diagnostic tests include the following:",
+                        "Muscle biopsy: A muscle biopsy is performed to examine for the absence of dystrophin protein expression.(5) A muscle biopsy is not necessary if genetic testing shows the presence of a gene mutation(5)",
+                        "Genetic testing: Genetic testing is performed to identify a mutation in the dystrophin gene (deletions or duplications).(5) Genetic testing is recommended after a positive biopsy diagnosis of DMD or BMD(5)",
+                        "Electromyography (EMG): An EMG examines motor unit action potentials. Patients with DMD or BMD show reduced amplitude and duration of motor unit action potentials(17)",
+                        "Review any previous evaluations of communication that have been completed. An evaluation of speech and language might include the following:",
+                        "Complete medical and developmental history",
+                        "Oral motor examination",
+                        "Formal and informal measures of speech ability",
+                        "Formal and informal measures of language ability (syntax, vocabulary, pragmatics)",
+                        "Measures of reading ability"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational, speech, or physical therapy for this or other conditions and what specific treatments were helpful or not helpfulDoes the patient have a history of pneumonia or other respiratory infection? Does the patient show signs of dehydration or malnutrition (e.g., weakness, malaise, constipation)? Does the patient have cognitive delays or psychosocial or behavior difficulties?(11) Does the patient have epilepsy? Coexisting epilepsy has been found in patients with DMD, as well as other types of muscular dystrophy(19)Use body chart to document location and nature of symptomsDocument the nature of symptoms of the communication impairmentUse a visual analog scale (V AS) or 0-10 scale to assess symptoms at their best, at their worst, and at the momentDocument changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to other external variables, such as communication partner or noise in the environmentDocument number of wakings per nightDocument other symptoms the patient may be experiencing that could exacerbate the condition and/or symptoms that could indicate the need for a physician, psychiatrist, or social worker referral. Many children with muscular dystrophy have swallowing and feeding disorders. (For detailed information on feeding and swallowingDuchenne\u2019 s Muscular Dystrophy ;T709070) Chronic respiratory insufficiency is common in patients with DMD and BMD.(2,17) Document the respiratory status of the patient, including vital capacity, and the use of supplemental oxygen, tracheostomy tube, or mechanical ventilator According to the British Thoracic Society guideline for respiratory management of children with neuromuscular weakness, a videofluoroscopic swallow study (VFSS) should be performed, and education regarding aspiration precautions/appropriate feeding techniques should be provided as part of any assessment/treatment plan for children with respiratory impairment as a result of neuromuscular weakness(13)Document history of psychosocial disturbances The absence of or deficiency in dystrophin in children with DMD and BMD is reported to have an effect on brain development, and patients are at increased risk of having cognitive, neurological, and psychological difficulties(5) Difficulties in biologically based mental flexibility, perspective taking, and emotional regulation can result in oppositional behavior and anxiety(5) Difficulties in social functioning can be caused by specific cognitive deficits (e.g., poor social judgment, poor perspective taking), communication deficits, medication side effects, and physical limitations that could lead to social isolation and reduced access to social activities. In addition, there is an increased risk for neurologic disorders, such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder, and obsessivecompulsive  disorder, in children with DMD(5) Parents of children with muscular dystrophy and children with DMD or BMD are both at increased risk for depression due to the chronic and progressive nature of the diseases. Provide a referral to a mental health professional familiar with chronic medical conditions to assess and support the entire family if signs of depression or other psychosocial difficulties are noted(5)Document hearing status including use of hearing aids Barriers to learning Are there any barriers to learning? Yes__ No__ If yes, describe ________________________"
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any previous communication assessment and treatment",
+                    "comorbid diagnoses": "Ask patient or caregiver about other diagnoses or minor features of the disorder that may affect health, behavior, or communication, such as feeding difficulties, ASD, and behavioral problems",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient or patient\u2019s family about other symptoms he or she is experiencing. In a cross-sectional prospective study conducted in the United States with 130 individuals with DMD, researchers found that constipation was present in 46.7% of the study sample, but was often underdiagnosed and undertreated(26)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include receive intervention services? If so, are they home, school, or clinic based? Does the patient attend daycare, school, or work? If the patient is in school, what support services are in place?",
+                "functional limitations assistance with ADLs adaptive equipment": "Obtain information on adaptive equipment the patient is using, such as assistive/alternative communication devices, hearing aids, glasses, or adaptive eating equipment",
+                "living environment": "With whom the patient lives (e.g., caregivers, siblings). Identify if there are barriers to independence or communication in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "If the patient is unable to communicate using speech, conduct an augmentative and alternative communication (AAC) assessment. When conducting an AAC assessment, an SLP should observe a patient\u2019s posture and fine and gross motor skills. Their use of any adaptive and/or orthotic equipment should be noted (e.g., hearing aids, wheelchair). The cognitive level and literacy skills of the patient, as well as the ways in which AAC will support the patient\u2019s participation in activities of daily living, should be considered. As part of an ongoing assessment, the patient should be given access to a range of AAC devices for trial in controlled and natural contexts(1) \u2013For detailed information on AAC, see the series of Clinical Reviews on this topic",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Scoliosis develops during the nonambulatory phase and can adversely affect respiratory function, feeding, and comfort.(16)Scoliosis surgery in patients with DMD has been found to result in decreased rate of decline in respiratory function as the patient ages.(23) Collaborate with PT and/or OT as necessary to assist child in attaining efficient posture for communication",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "The purpose of a comprehensive speech-language  assessment is to identify the patient\u2019s strengths and weaknesses in these areas, as well as to identify context barriers and facilitators.(1) All screening methods and assessments should be appropriate for the child\u2019s developmental age, cognitive status, and cultural, socioeconomic, and linguistic background(1)A case history can be obtained through documentation and/or parent/teacher interview, and should include information about the patient\u2019s medical status, educational placement, and socioeconomic, cultural, and linguistic background(1)",
+            "speech and language examination": " Speech and language examinationHypotonia in children with DMD can lead to articulation difficulties, such as nasality and specific sound production errors(5) -Obtain an estimate of speech intelligibility in structured and unstructured contexts(1) -Analyze natural speech samples in natural contexts, particularly those indicated as areas of concern by family or teacher(1) -Use a standardized test or an informal (nonstandardized) analysis to determine articulation errors. For specific sounds, the number of omissions, substitutions, distortions, and additions can be completedLanguage delay has been reported in patients with DMD and BMD and is thought to be associated with a deficit in auditory working memory.(5,10,12) Assess expressive and receptive language ability by formal and informal measures. All aspects of language should be evaluated (syntax, semantics, and pragmatics)In a study conducted in the United States, researchers found that the Bayley-III  is a reliable tool for measuring changes in development in infants and boys with DMD over time. The Bayley-III  is a norm-referenced  assessment for children ages 1 to 42 months that examines cognition, language (receptive and expressive), and motor (gross and fine) function. The researchers used the Bayley-III  to complete baseline and 6-month follow-up  measurements of development in 19 boys with DMD; 12 of these boys also returned for a 12-month  follow-up  assessment. The language subtests of the Bayley-III  include assessments of thebabbling, gesturing, joint referencing, turn-taking,  expressive and receptive vocabulary development, and expressive and receptive morphosyntactic development(21)Children with DMD or BMD are reported to be at risk for developing reading problems.(22) Assess PA and reading by formal assessments as needed and appropriate for developmental level. Screening for reading difficulties has been recommended for all young children (age 5 and older) with DMD(10,20)Note any difficulties with positioning and body mechanics that might interfere with communicationIndividuals with DMD or BMD have progressive loss of motor ability affecting mobility, posture, and upper limb function.(5) Consult with PT and OT as necessary on ways to maximize the patient\u2019s motor abilities to read, write, and communicate",
+            "neurological examination": "",
+            "oral structure and oral motor function": "Examine the range, rate, coordination, and symmetry of movement of the lips, facial musculature, tongue, and oral pharynx(1)",
+            "perception": "",
+            "arousal attention cognition": "The absence of or deficiency in dystrophin in children with DMD and BMD is reported to have an effect on brain development, and patients are at increased risk of  having cognitive, neurological, and psychological difficulties.(5) As many as one-third  of patients with DMD present with a learning disability.(4)Intellectual disability in children with DMD has also been reported.(8) Cognitive deficits in children with BMD are mild and can include intellectual disability and reduced attention ability.(11) The evaluating or treating SLP should note the results of any neurological (MRI, CT), neuropsychological, or psychological/cognitive tests that have been completed",
+            "aac assessment": "",
+            "swallow examination": "Screen for swallowing impairment and, if necessary, complete a full examination of swallowing. Many children with muscular dystrophy have swallowing and feeding disorders. For detailed information on feeding andDuchenne\u2019 s Muscular Dystrophy , referenced above ",
+            "tracheostomy examination": "Patients with chronic respiratory insufficiency might require a tracheostomy tube and/or mechanical ventilation. If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve. For detailed information on assessment of patients with tracheostomies, see Clinical Review\u2026Children with Tracheostomy ; Topic ID Number for a Passy-Muir speaking valve (PMSV), see Clinical Review\u2026Passy-Muir Tracheostomy & Ventilator Swallowing andT708919"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with DMD or BMD may be at risk for falls due to limb weakness; follow facility protocols for fall prevention and post-fall  prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall prevention strategies. Discharge criteria should include independence with fall prevention strategies",
+                "Patients with DMD are at increased risk for having dysphagia, as well as aspiration and penetration of oral intake. Ensure that the patient and family/caregivers are aware of the potential for aspiration and are educated about prevention strategies when appropriate",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinician\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "A child\u2019s medical status, parent/teacher concerns, or results of a developmental, speech, language, or cognitive-communication  screening may lead to referral for a full speech and language assessment. These assessments should include input from the patient, family/caregivers, medical professionals, and/or educators. The need for treatment is based upon assessment results",
+        "rule out": "The physician should rule out other disorders with similar symptoms (e.g., muscle weakness), including stroke, traumatic brain injury, malignancy, infections, inflammatory conditions, botulism, Guillain-Barr\u00e9  syndrome, myasthenia gravis, and heavy metal poisoning(6)",
+        "prognosis": [],
+        "referral to other disciplines": "Refer to an OT, PT, nutritionist, respiratory therapist, social worker, neurologist, otolaryngologist, radiologist, oral hygienist, or gastroenterologist as necessary. Refer patient and/or caregivers to a psychologist or counselor if signs of depression are present",
+        "other considerations": [],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {
+        "improved speech intelligibility": [
+            "Analysis of a natural speech sample"
+        ],
+        "reduction of contextual barriers to the individual\u2019s communication  provision of appropriate accommodation and support": [],
+        "increased communication abilities and social participation": [
+            "Bayley-III"
+        ],
+        "acquisition of new communication skills and strategies": [],
+        "improved quality of life": []
+    },
+    "maintenance or prevention": [
+        "The physician should refer family to genetic counselor for information on genetic testing and reproductive options",
+        "Patients with DMD or BMD are at risk for developing cardiomyopathy; regular cardiac evaluations are recommended beginning in early childhood in patients with DMD and beginning at age 10 in patients with BMD(9)",
+        "The patient\u2019s speech and language skills should be assessed regularly due to the progressive nature of the diseases "
+    ],
+    "patient education": [
+        "See patient information series, fact sheets, care guidelines, and recent research on DMD from the Muscular Dystrophy Association at https://www.mda.org/disease/duchenne-muscular-dystrophy",
+        "See patient information series, fact sheets, care guidelines, and recent research on BMD from the Muscular Dystrophy Association at https://www.mda.org/disease/becker-muscular-dystrophy Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on March 24, 2017 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "American Speech-Language-Hearing  Association. Preferred practice patterns for the profession of speech-language  pathology. Web site. http://www.asha.org/policy/PP2004-00191/ . Accessed July 15, 2018. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Becker muscular dystrophy (BMD). Muscular Dystrophy Association Web site. https://www.mda.org/disease/becker-muscular-dystrophy . Accessed July 15, 2018. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Billard C, Gillet P, Barthez M, Hommet C, Bertrand P. Reading ability and processing in Duchenne muscular dystrophy and spinal muscular atrophy. Dev Med Child Neurol . 1998;40(1):12-20.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Duchenne Muscular Dystrophy (DMD): Signs and symptoms. Muscular Dystrophy Association Web site. https://www.mda.org/disease/duchenne-muscular-dystrophy/signs-and-symptoms . Accessed July 15, 2018. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Bushby K, Finkel R, Birnkrant DJ. Diagnosis and management of Duchenne muscular dystrophy, part 2: implementation of multidisciplinary care [published correction appears in Lancet Neurol. 2010; 9(3):237]. Lancet Neurol . 2010;9(2):177-189.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Couloures K, Vasan R. Dysphagia, hoarseness, and weakness in a 12-year-old  girl. Hosp Physician . 2003;39(11):24, 27-30. (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Astrea G, Pecini C, Gasperini F, et al. Res Dev Disabil . 2015;45-46:168-177.  doi:10.1016/j.ridd.2015.07.025. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Chieffo D, Brogna C, Berardinelli A, et al. Early neurodevelopmental findings predict school age cognitive abilities in Duchenne muscular dystrophy: a longitudinal study. PLoS One. 2015;10(8):e0133214. doi:10.1371/journal.pone.0133214. (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Facts about Duchenne and Becker muscular dystrophies (DMD and BMD). Muscular Dystrophy Association  Web site. https://www.mda.org/sites/default/files/publications/Facts_DMD-BMD_P-211_0.pdf . Accessed July 15, 2018. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hendriksen JGM, Vles JSH. Are males with Duchenne muscular dystrophy at risk for reading disabilities?. Pediatr Neurol . 2006;34(4):296-300.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Hinton VJ, Fee RJ, De Vivo DC, Goldstein E. Poor facial affect recognition among boys with Duchenne muscular dystrophy. J Autism Dev Disord . 2007;37(10):1925-1933.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Hinton VJ, Fee RJ, Goldstein EM, De Vivo DC. Verbal and memory skills in males with Duchenne muscular dystrophy. Dev Med Child Neurol . 2007;49(2):123-128.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Hull J, Aniapravan R, Chan E, et al. British Thoracic Society guideline for respiratory management of children with neuromuscular weakness. Thorax. 2012;76(Suppl 1):i1-i40. doi:10.1136/thoraxjnl-2012-201964.  (G)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kley RA, Tarnopolsky MA, Vorgerd M. Creatine for treating muscle disorders. Cochrane Database of Systematic Reviews . 2013;(Issue 6):CD004760. doi:10.1002/14651858.CD004760.pub4.    (SR)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Lebel DE, Corston JA, McAdam LC, Biggar WD, Alman BA. Glucocorticoid treatment for the prevention of scoliosis in children with Duchenne muscular dystrophy: long-term follow-up.  J Bone Joint Surg . 2013;95(12):1057-1061.  doi:10.2106/JBJS.L.01577. (G)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Manzur AY. Diagnosis and new treatments in muscular dystrophies. Postgrad Med J . 2009;85(1009):622-630.  (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Schub T, Pravikoff D. Muscular Dystrophy, Duchenne. Nursing Reference Center Web site. http://web.b.ebscohost.com/nrc/detail?vid=3&sid=4594ac72-1e68-4a9d-9956-5df100da680b%40sessionmgr102&bdata=JnNpdGU9bnJjLWxpdmU%3d#AN=T700676&db=nrc . Accessed July 15, 2018. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Fabbro F, Marini A, Felisari G. Language disturbances in a group of participants suffering from Duchenne muscular dystrophy: A pilot study. Percept Mot Skills . 2007;104(2):663-676.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Tsao CY, Mendell JR. Coexisting muscular dystrophies and epilepsy in children. J Child Neurol . 2006;21(2):148-150.  (C)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Waring P, Woodyatt G. Phonological awareness skills in young boys with Duchenne muscular dystrophy. Int J Disabil Dev Educ . 2011;58(2):155-168.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Connolly AM, Florence JM, Cradock MM, et al; MDA DMD Clinical Research Network. One year outcome of boys with Duchenne muscular dystrophy using the Bayley-III scales of infant and toddler development. Pediatr Neurol . June 2014;50(6):557-63.  doi:10.1016/j.pediatrneurol.2014.02.006. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Astrea G, Pecini C, Gasperini F, et al. Reading impairment in Duchenne muscular dystrophy: A pilot study to investigate similarities and differences with developmental dyslexia. Res Dev Disabil . October 2015;45-46:168-177.  doi:10.1016/j.ridd.2015.07.025. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Chua K, Tan CY, Chen Z, et al. Long-term  follow-up of pulmonary function and scoliosis in patients with duchenne\u2019s muscular dystrophy and spinal muscular atrophy. J Pediatr Orthop. January 2016;36(1):63-69.  doi:10.1097/BPO.0000000000000396. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Gloss D, Moxley RT, 3rd, Ashwal S, Oskoui M. Practice guideline update summary: Corticosteroid treatment of Duchenne muscular dystrophy: Report of the Guideline Development Subcommittee of the American Academy of Neurology. Neurology . February 2, 2016;86(5):465-472.  doi:10.1212/WNL.0000000000002337. (SR)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Hu J, Ye Y, Kong M, et al. Daily prednisone treatment in Duchenne muscular dystrophy in southwest China. Muscle Nerve . December 2015;52(6):1001-1007.  doi:10.1002/ mus.24665. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Kraus D, Wong BL, Horn PS, Kaul A. Constipation in Duchenne Muscular Dystrophy: Prevalence, Diagnosis, and Treatment. J Pediatr. April 2016;171:183-188.  doi:10.1016/ j.jpeds.2015.12.046. (R)"
+        }
+    ]
+}

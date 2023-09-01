@@ -1,0 +1,347 @@
+{
+    "metadata": {
+        "title": "Heterotopic Ossification",
+        "synonyms": [
+            "ectopic ossification",
+            "myositis ossificans",
+            "ossification, heterotopic",
+            " ossification, ectopic",
+            "neurogenic heterotopic ossification",
+            "ossification, neurogenic heterotopic"
+        ],
+        "anatomical location body part affected": [
+            "Affected joints typically are limited to hips, knees, shoulders, and elbows(1)",
+            "Distal joints of hands and feet are almost never involved(1)",
+            "Heterotopic ossification (HO) following spinal cord injury (SCI) is typically below the level of the lesion(1)"
+        ],
+        "area of specialty": [
+            "acute care",
+            "neurological rehabilitation",
+            "orthopedic rehabilitation",
+            " sports rehabilitation"
+        ],
+        "description": [
+            "Formation of lamellar bone in the soft- tissue where bone does not normally exist",
+            "Often divided into three categories: \u2013Fibrodysplasia (myositis) ossificans progressiva(2)(not the focus of this Clinical Review ) -Rare genetic disease; cause unknown -Typically diagnosed in the first decade of life -Generally associated with congenital deformity of the great toe -Progressive disease; ultimately impacts entire body (generalized myositis ossificans) -No available cure at present -For more information, see the International Fibrodysplasia Ossificans Progressiva Association at http://www.ifopa.org/ \u2013Myositis ossificans circumscripta; myositis ossificans traumatica -Traumatic musculoskeletal localized HO -Seen in patients with fractures, muscle injuries, and burns, and after joint arthroplasty -Fibrous and cartilaginous tissues near bone are affected; the muscle may or may not be affected \u2013Neurogenic heterotopic ossification(1) -HO that develops following neurotrauma such as traumatic brain injury (TBI) and SCI -May also occur in nontraumatic neurologic disorders such as stroke"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M61": "calcification and ossification of muscle",
+            "M61.0": "myositis ossificans traumatica",
+            "M61.1": "myositis ossificans progressiva",
+            "M61.2": "paralytic calcification and ossification of muscle",
+            "M61.3": "calcification and ossification of muscles associated with burns",
+            "M61.4": "other calcification of muscle",
+            "M61.5": "other ossification of muscle",
+            "M61.9": "calcification and ossification of muscle, unspecified",
+            "Optional": {
+                "base": "subclassification codes to indicate site of involvement for M61",
+                "0": "multiple sites",
+                "1": "shoulder region",
+                "2": "upper arm",
+                "3": "forearm",
+                "4": "hand",
+                "5": "pelvic region and thigh",
+                "6": "lower leg",
+                "7": "ankle and foot",
+                "8": "other",
+                "9": "site unspecified"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "HO is the formation of lamellar bone in soft tissues, usually those surrounding joints (skin, subcutaneous tissue, skeletal muscle, fibrous tissue adjacent to joints). Joint stiffness and limited ROM are the most common findings and may be accompanied by warmth, erythema, swelling, low-grade  fever, pain, and tenderness.(1,13)Patients with HO may experience increased spasticity, vascular and nerve compression, and lymphedema. The condition may also be asymptomatic Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Local and systemic factors are thought to be involved(1)",
+            "The exact mechanism of the development of HO is unknown, however, there are two common factors that can lead to thedevelopment of HO(13)\u2013Trauma\u2013A neurological event such as SCI",
+            "There are some theories that suggest that individuals who have suffered a SCI while performing activities such as transfersand acute rehabilitation cause \u201cmicrotraumas\u201d resulting in the accumulation of mechanical stress which can lead to HO(13)"
+        ],
+        "pathogenesis": [
+            "Mesenchymal cells differentiate into fibroblast cells resulting in the secretion of collagen and extracellular matrix",
+            "With continued tissue injury/trauma, fibroblastic metaplasia is activated, resulting in converting fibroblasts intochondrocytes. The chondrocytes deposit their collagen into the cartilage matrix and the remaining chondrocytes convert toosteoblasts",
+            "After 1-2 weeks, osteoid is present within the tissue resulting in new bone formation forming within the osteoid. Previousosteoblasts formation will convert osteoid cartilage into bone(13)"
+        ],
+        "risk factors": [
+            "Risk factors associated with increased incidence of HO can be classified into two categories(13)\u2013Neurogenic (i.e., stroke, TBI, brain tumor)\u2013Traumatic (i.e., fractures, arthroplasty, muscular trauma, joint dislocation, burns)-Risk is greater following surgical procedures that involve extensive soft tissue trauma(6)",
+            "Neurogenic HO\u2013Reported incidence of HO following TBI varies greatly, ranging from 10% to 20%(13)\u2013HO occurs in approximately 20\u201330%  of adult patients with SCI(13)\u2013Presence of spasticity",
+            "Traumatic/musculoskeletal HO\u2013Thermal injury \u2013 third-degree  burns over more than 30% of body(11)-Common site of HO is in the posterior elbow of burn victims(11)\u2013Trauma to the muscle of thigh, buttock, or upper arm-15\u201337%  of patients with elbow fractures are at increased risk for developing HO(9)-Patients who undergo surgery for elbow fractures have a 30% risk of developing HO(9)\u2013Risk is increased if patient has had HO previously\u2013Contact sports (frequently observed in the thigh of rugby players)\u2013Patient-related  factors-Male sex(13,21)-Paroxysmal sympathetic hyperactivity(21)-Presence of spasticity(21)-Duration of coma (longer duration produces greater risk of developing HO)(21)-Delayed access to rehabilitation services following a neurological lesion(15,21)-History of HO-Hypertrophic osteoarthritis-Genetics-Asian males > 50 years of age are more likely to have ossification of the posterior longitudinal ligament (1.9\u20134.3%  inJapan)(10)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "There is controversy regarding the use of aggressive exercise Historically it has been believed that aggressive manipulation of stiff joints may hasten formation of heterotopic bone and that passive ROM is contraindicated. However, most studies supporting this view have been performed on rabbits or are anecdotal. Several studies have shown that early ROM exercises are beneficial for preventing and treating HO(1) The clinician is strongly advised to obtain physician orders/parameters prior to the implementation of therapeutic interventions in patients with or at risk for developing HO",
+        "HO may trigger autonomic dysreflexia in patients with SCI at or above the T6 level(1) (see Clinical Review\u2026 Autonomic Dysreflexia in Adults ; CINAHL Topic ID Number: T708491 for more information)",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Progressive loss of ROM in a person belonging to a high-risk population is a hallmark sign of HO. Loss of ROM may be accompanied by warmth, redness, swelling, low-grade  fever, pain, or tenderness.(1,13) Symptoms may commence 2 weeks to 12 months after traumatic event(1)",
+                "course of treatment": {
+                    "medical management": " Medical management Laminoplasty may be performed in patients at risk for cervical myelopathy due to ossification of the posterior longitudinal ligament(10,23) Authors of a 2019 meta-analysis  conducted in China found that an anterior decompression and fusion surgery yields better neurological recovery and improvement compared to laminoplasty(15) Based on 9 studies that included 712 patients who had ossification of the posterior longitudinal ligament (OPLL) A posterior instrumented fusion reduces the growth rate of the OPLL compared to motion-preserving  laminoplasty surgery(17)",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? NSAIDs may be prescribed to reduce inflammation, pain, and bone formation by inhibiting the release of prostaglandins(1) NSAIDs are prescribed postoperatively after excision of bone and prophylactically after hip surgeries to reduce the risk of HO formation(1,3) Authors of a network meta-analysis  concluded that radiation therapy was the most effective treatment option for preventing HO after patients had undergone a THA. This study also concluded that administering NSAIDs was the safest means of preventing or minimizing the risk of developing HO after a THA(22) 20 mg of COX-2  inhibitor has been shown to have fewer GI side effects compared to NSAIDs(13)  COX-2  inhibitors generally are prescribed in patients who have undergone a total hip arthroplasty (THA) in order to reduce the incidence of HO(20) Indomethacin (NSAID) was studied in an RCT involving SCI patients; a significantly higher rate of HO was found in the placebo group than in the treatment group (65% compared to 25%)(1) Etidronate disodium (EHDP) has been used to block the formation of ectopic bone in the early phase of injury in patients with SCI or head injury. There is a \u201crebound ossification\u201d effect\u2014with heterotopic bone forming rapidly upon stopping the medication\u2014so therapy should last at least 6 months. There are no controlled studies to support its use(1) Naproxen has been shown to decrease the occurrence of HO without complications in patients who have undergone hip surgery. However, due to the limited number of studies, more studies are warranted(18)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Triple-phase  bone scan is the most sensitive test;it can reveal HO in as few as 2.5 weeks from initial injury(#)",
+                        "Plain radiographs  specific for diagnosis of HO but not sensitive in detecting early disease progression(#)",
+                        "MRI and CT scan will aid in developing surgical plan(13)",
+                        "Ultrasound can also be utilized, but is not as common(13)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Document length of time each item is performed before the symptoms come on or are eased",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Pain is the most commonly reported symptom(13)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night related to condition",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Is there any known respiratory compromise? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Check for prior history of HO and presence of Paget\u2019s disease, ankylosing spondylitis, and hypertrophic osteoarthritis. Local recurrence of HO is common",
+                    "comorbid diagnoses": "HO most frequently occurs with comorbid diagnoses. Incidence after TBI ranges from 10% to 20%.(13) Incidence is even higher in TBI patients who have sustained militaryrelated  blast injurieswith co-occurrence of other injuries including traumatic amputation.(25) Reported incidence of HO following SCI varies from 20 to 30%,(#) and is more likely to occur if spasticity, impaired cognition, tracheostomy, pneumonia, and/or urinary tract infection is present.(24)Incidence following burns is reported to be 1.58%.(14) Prolonged sedation, immobilization, ventilation, and critical illness have been associated with higher incidence of HO(1)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient employed? What type of work does the patient do? Does the patient participate in contact sports? HO is common with thigh injuries in rugby players",
+                "functional limitations assistance with ADLs adaptive equipment": "Document functional limitations due to primary diagnosis. What was the patient\u2019s prior level of function? What adaptive equipment is in use? Does the patient use a wheelchair? HO at the hips in SCI can affect patient\u2019s ability to sit in wheelchair",
+                "living environment": "Stairs, number floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) Complete a general exam as indicated with a focus on the items listed below",
+            "anthropometric characteristics": "Perform circumferential measurement for swelling",
+            "assistive and adaptive devices": "",
+            "balance": "Assess as indicated in neurogenic HO, or when patient has history of falls \u2013Impaired balance due to bilateral upper limb ankylosis secondary to HO has been documented in a case report from China(7)",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "Assess as indicated, using standardized tool such as FIM",
+            "gait locomotion": "Complete a gait assessment as indicated. Deviations due to loss of hip, knee, or ankle ROM may be noted. Dynamic Gait Index (DGI) can be usedAssess joint integrity as indicated and appropriate (as physician orders permit)Complete a thorough motor assessment as indicated by diagnosis. Assess for the presence of spasticity or other atypical muscle tone. Assess voluntary motor control in limbs and trunk, and coordination and quality of movement",
+            "muscle strength": "Complete a strength assessment as indicated",
+            "observation inspection palpation including skin assessment": [
+                "Is there any warmth, erythema, swelling, low-grade  fever, pain, and/or tenderness noted?(1,13)",
+                "Palpate the joints for point tenderness",
+                "Effusion may be noted at knee",
+                "As indicated, inspect for complications of immobility/limited ROM such as pressure ulcers and impingement"
+            ],
+            "posture": "Assess posture. Patient\u2019s posture may be affected by limitations in hip ROM",
+            "range of motion": "Progressive loss of ROM is a hallmark sign of HO and thus ROM should be monitored closely, especially in at-risk  populations. Early on, ROM may be accompanied by pain and a sense of soft tissue restrictionDetermine functional limitations caused by ROM deficits. In severe cases, patients may be unable to sit (ankylosis causing patient to be fixed in neutral hip extension), ambulate or transfer (ankylosis causing knee or hip flexion contracture), and perform self-care  and hygiene functions (elbow contractures).(1,4) Pain can be a significant cause of functional limitations. Use standardized assessment tool such as FIM or Barthel index as indicated",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Functional performance scales may be used to evaluate status before and after surgeries to remove heterotopic bone. D\u2019Aubigne\u2019s Performance Scale, which measures ROM, pain, and walking ability on a 1\u20136 point scale with a maximum score of 18 points, has been used for hip dysfunction and adapted for knee dysfunction(4)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assessment is indicated in patients with TBI or stroke",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation "
+            ],
+            "cryotherapy precautions": [
+                "Hypertension  cold can lead to an increase in blood pressure",
+                "Hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement over superficial nerves for extended periods (> 1 hour)",
+                "Cold may be counterproductive if being used to facilitate muscle relaxation and reduce pain in patients who do not tolerate the modality"
+            ],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Cryotherapy  contraindications include:(5)",
+                "Cryotherapy  precautions include:(5)"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Physical and occupational therapy can be considered first-line treatment to maintain joint mobility, prevent soft tissue contractures, and maintain function(1) Surgical resection is considered in cases with major functional deficits, to prevent pressure sores, to reduce spasticity, or for intractable pain. In SCI surgical resection may be indicated if HO interferes with sitting in a wheelchair. It is recommended that bone be excised after maturity to reduce rate of reoccurrence; 12\u201318 months post HO diagnosis generally is suggested, although no studies are available to support this recommendation(1)",
+        "rule out": " Rule out DVT Acute arthritis Thrombophlebitis Cellulitis Soft tissue hematoma Complex regional pain syndrome Soft tissue tumor Osteosarcoma Osteomyelitis Gout Pseudogout Muscle tear, contusion",
+        "prognosis": [
+            "Ossification of the posterior longitudinal ligament can lead to myelopathy, which can be managed by surgical intervention(16)",
+            "The natural course of HO is difficult to change once it has started; therefore, prevention is emphasized(7)",
+            "Approximately 20\u201330%  of patients with SCI develop HO and 3\u20138%  develop severe functional limitations(12)",
+            "Complications associated with HO include ankylosis, vascular compression, and lymphedema(13)",
+            "Prognosis is good for patients who undergo surgery.Average recovery time from onset of HO and after undergoing surgery is ~ 3.6 years(13)"
+        ],
+        "referral to other disciplines": "Back to physician as indicated",
+        "other considerations": [
+            "The Brooker classification is the most common staging system used to assess the severity of HO in the hip joint(13,19) \u2013Divided into 4 classifications -Class 1: Islands of bone within the soft tissues surrounding the hip -Class 2: Bone spurs originating from the pelvis or proximal end of femur with at least 1 cm between opposing bone surfaces -Class 3: Bone spurs originating from the pelvis or proximal end of femur with reduced space between opposing bone surfaces to < 1 cm -Class 4: Ankylosis of the hip",
+            "Della Valle classification system is a simplified way of staging HO(13) \u2013Grade A: absence of HO (if bone is present in the soft tissue, it can be \u2265 1 island of bone or < 1 cm in length) \u2013Grade B: presence of \u2265 1 island of bone at least 1 cm in length with 1 cm distance between opposing surfaces of bone \u2013Grade C: bone spurs originating from the pelvis or femur with < 1 cm between opposing surfaces or bone ankylosis",
+            "Bone formation can be measured on radiographs using a planimeter(4) ",
+            "Pulsed low-intensity  electromagnetic field therapy has been studied as a prophylactic treatment for HO in SCI"
+        ],
+        "treatment summary": [
+            "Prior to the initiation of treatment, it is strongly advised that the clinician obtain physician orders/parameters to guide treatment course",
+            "The role of physical therapy in treatment of HO is controversial. The main goal is to maintain ROM and function",
+            "The literature generally supports use of active ROM exercises and gentle, passive ROM exercises to maintain available joint motion and to avoid progressive contractures. In circumstances in which ankylosis seems inevitable despite ROM exercises, maintenance of the most functional position possible is best for the patient",
+            "Common sites of development of HO in athletes are the quadriceps muscle and the brachialis muscle following a direct blow. An example of a treatment plan for this type of injury is initially ice, compression, and elevation, progressing to nonforceful ROM\u2014maintaining flexion in a quadriceps injury and extension in a brachialis injury. Gradual inclusion of light exercise (jogging, walking, bicycling) progressing to functional activities as pain and swelling allows is a typical treatment course. Padding the extremity for 3\u20136 months during sporting activities has been recommended",
+            "Spasticity and pain may interfere with active and passive ROM, and will need to be managed appropriately in order to treat reduced ROM from HO(1)"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "resolved pain": [
+            "V AS, numeric rating scale, Faces Legs Activity Cry Consolability scale (FLACC)"
+        ],
+        "increased rom": [
+            "Goniometric measurements"
+        ],
+        "improved flexibility": [
+            "Reassess flexibility"
+        ],
+        "improved strength": [
+            "MMT"
+        ],
+        "improved function return to prior level of function if able": [
+            "DGI, Barthel Index, FIM, D\u2019Aubigne\u2019s Performance Scale(4).Problem Goal Intervention Expected Progression Home ProgramPain Resolve pain Physical agents andmechanical modalities_Use of cryotherapy maybe indicated_Use of modalities mayreduce or resolve paintemporarily throughouttherapyPatient should beeducated on proper useof iceReduced ROM Increase ROM Therapeutic exercises_Gentle ROM activitiesshould be performed(13)_ROM and functionalityshould improve withcontinued therapyA home exerciseprogram may beprovided to improveresultsReduced strength__Impaired functionalmobilityImprove strength__Improve function/return to prior level offunctionTherapeutic exercises_Implementstrengthening andfunctional activitiesas indicated andappropriateProgress each uniqueindividual as indicatedand appropriateProvide home programthat incorporatesstrengthening andfunctional activities asindicatedStatus post-surgicalexcision of HOMaintain newlyacquired ROMTherapeutic exerciseActive and passiveROM within paintolerance, startingwithin the first 24 hoursper surgeon\u2019s orders_Progress each patientas indicated andappropriateProvide a homeprogram of active ROMexercises."
+        ]
+    },
+    "maintenance or prevention": [
+        "Primary prophylaxis may involve physical therapy but is more frequently addressed with NSAIDs, radiation therapy, or both(8)",
+        "Irradiation A routine prophylactic treatment is not recommended; however, the current recommendations for preventing and/or minimizing HO are gentle ROM activities, indomethacin, etidronate disodium, and external beam radiation(13)",
+        "NSAIDs Use of COX-2  inhibitors has been found to be as effective as traditional NSAIDs for the prevention of HO after hip arthroplasty and they have fewer side effects(13)",
+        "Maintenance of ROM is considered the mainstay for prevention of loss of function in HO"
+    ],
+    "patient education": [
+        "International Fibrodysplasia Ossificans Progressiva Association website, http://www.ifopa.org",
+        "Patient and family may be instructed, if needed, to complete ROM exercises. Patients and families should also be taught to watch for signs of other potential complications (for example, pressure sores in patients with SCI) Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Harrington AL, Eliason JB, Bockenek WL. Heterotopic ossification. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 3rd ed. Philadelphia, PA: Saunders/Elsevier; 2015:670-675.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "International Fibrodysplasia Ossificans Progressiva Association Web site. http://www.ifopa.org/ . Accessed May 16, 2020. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Fransen M, Neal B. Non-steroidal  anti-inflammatory  drugs for preventing heterotopic bone formation after hip arthroplasty. Cochrane Database Syst Rev . 2000;(3). Art No: CD001160. doi:10.1002/14651858.CD001160.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Ebinger T, Roesch M, Kiefer H, Kinzl L, Schulte M. Influence of etiology in heterotopic formation of the hip. J Trauma . 2000;48(6):1058-1062.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "In: Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:42-44.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Geller JA, Wang W, Goyal A, Liabaud B, Brown M. Clinical significance of heterotopic ossification after metal-on-metal  total hip resurfacing. Hip Int. 2014;24(2):129-135. doi:10.5301/hipint.5000103. (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Min HW, Lui KM, Han XZ, Gu R. Management of multijoint stiffness of bilateral upper limbs secondary to heterotopic ossification: case report and literature review. J Rehab Res Dev. 2014;51(3):497-502.  doi:10.1682/JRRD.2013.03.0073. (C)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Adams L. Heterotopic ossification. Rad Ther. 2014;23(1):27-48.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Hong CC, Nashi N, Hey HW, Chee YH, Murphy D. Clinically relevant heterotopic ossification after elbow fracture surgery: A risk factors study. Orthop Traumatol Surg Res . 2015;101(2):209-213.  doi:10.1016/j.otsr.2014.10.021. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Maruo K, Moriyama T, Tachibana T, et al. The impact of dynamic factors on surgical outcomes after double- door laminoplasty for ossification of the posterior longitudinal ligament of the cervical spine. J Neurosurg Spine . 2014;21(6):938-943.  doi:10.3171/2014.8.SPINE131197. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Gabriel V, Holavanahalli R. Burn rehabilitation. In: Braddom RL, ed. Braddom\u2019s Physical Medicine and Rehabilitation . 5th ed. Philadelphia, PA: Elsevier Saunders; 2016:562-563.  (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Speed J, Lorenzo CT. Heterotopic ossification follow-up.  Medscape Web site. http://emedicine.medscape.com/article/327648-followup#showall . Accessed May 16, 2020. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Sun E, Hanyu-Deutmeyer  AA. Heterotopic Ossification [Updated 2019 Jun 4]. Treasure Island, FL: StatPearls Publishing. StatPearls [Internet] Web site. https:// www.ncbi.nlm.nih.gov/books/NBK519029/ . Published January 2020. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Levi B, Jayakumar P, Giladi A, et al. Risk factors for the development of heterotopic ossification in seriously burned adults: A National Institute on Disability, Independent Living and Rehabilitation Research burn model system database analysis. J Trauma Acute Care Surg . 2015;79(5):870-876.  doi:10.1097/TA.0000000000000838. (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Chen TP, Qian LG, Jiao JB, et al. Anterior decompression and fusion versus laminoplasty for cervical myelopathy due to ossification of posterior longitudinal ligament: a meta-analysis.  Medicine. 2019;98(1):e13382. doi:10.1097/MD.0000000000013382. (M)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Tsuji T, Fujita N, Watanabe K, Nakamura M, Matsumoto M, Ishii K. Correlation between preoperative physical signs and functional outcomes after laminoplasty for ossification of the posterior longitudinal ligament. J Orthop Sci . 2017;22(2):266-269.  doi:10.1016/j.jos.2016.12.008. (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Lee JJ, Shin DA, Yi S, et al. Effect of posterior instrumented fusion on three-dimensional  volumetric growth of cervical ossification of the posterior longitudinal ligament: a multiple regression analysis. Spine J. 2018;18(10):1779-1786.  doi:10.1016/j.spinee.2018.03.002. (RV)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Ma R, Chen GH, Zhao LJ, Zhai XC. Efficacy of naproxen prophylaxis for the prevention of heterotopic ossification after hip surgery: a meta-analysis.  J Orthop Surg Res . 2018;13(1):48. doi:10.1186/s13018-018-0747-8.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Firoozabadi R, Alton T, Sagi HC. Heterotopic ossification in acetabular fracture surgery. J Am Acad Orthop Surg . 2017;25(2):117-124.  doi:10.5435/JAAOS-D-15-00366.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "White PB, Ramkumar PN, Meftah M, Ghazi N, Ranawat AS, Ranawat CS. Incidence of heterotopic ossification following a multimodal pain protocol in total hip arthroplasty with the posterior approach. Orthopedics . 2018;41(1):e92-e97.  doi:10.3928/01477447-20171102-01.  (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Bargellesi S, Cavasin L, Scarponi F, et al. Occurrence and predictive factors of heterotopic ossification in severe acquired brain injured patients during rehabilitation stay: cross-sectional  survey. Clin Rehabil . 2018;32(2):255-262.  doi:0.1177/0269215517723161. (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Cai L, Wang Z, Luo X, She W, Zhang H. Optimal strategies for the prevention of heterotopic ossification after total hip arthroplasty: a network meta-analysis.  Int J Surg . 2019;62:74-85.  doi:10.1016/j.ijsu.2018.12.011. (M)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Lee DH, Cho JW, Kim NH, et al. Radiological risk factors for progression of ossification of posterior longitudinal ligament following laminoplasty. Spine J. 2018;18(7):1116-1121. doi:10.1016/j.spinee.2017.10.069. (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Meyers C, Lisiecki J, Miller S, et al. Heterotopic ossification: a comprehensive review. JBMR Plus . 2019;3(4):e10172. doi:10.1002/jbm4.10172. (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Juarez JK, Wenke JC, Rivera JC. Treatments and preventative measures for trauma-induced  heterotopic ossification: a review. Clin Transl Sci . 2018;11(4):365-370. doi:10.1111/cts.12552. (RV)"
+        }
+    ]
+}

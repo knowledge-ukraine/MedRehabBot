@@ -1,0 +1,447 @@
+{
+    "metadata": {
+        "title": "Back Pain, Low  Chronic",
+        "synonyms": [
+            "chronic low back pain",
+            "pain, chronic low back",
+            "low back pain, chronic",
+            " nonspecific chronic low back pain"
+        ],
+        "anatomical location body part affected": [
+            "Low back/lumbar vertebrae and intervertebral discs, lumbosacral and sacroiliac joints, spinal cord and the respective lumbar and sacral spinal nerves, ligamentum flavum, joint capsules of lumbar facets, longitudinal ligament, supraspinous and interspinous ligaments, posterior sacroiliac ligaments (long and short), iliolumbar ligaments, multifidus, and several trunk muscles with lumbosacral attachments: paraspinals, latissimus dorsi (via thoracolumbar fascia), gluteus maximus, quadratus lumborum, piriformis"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "Chronic low back pain (CLBP) is characterized by musculoskeletal pain, tenderness, and restricted mobility in the lumbosacral area for more than 3 months. CLBP is a leading cause of disability, work absenteeism, and reduced health-related  quality of life (HRQOL).(18)Psychological factors may also impact disability and HRQOL in patients with CLBP(2)",
+            "CLBP may initially be treated conservatively which includes over the counter pain medication; modalities such as rest, ice, and heat. Physical therapy and core strengthening exercises may also be prescribed(18)",
+            "Strong evidence from RCTs supports appropriate therapeutic exercise and/or functional activities, patient education to continue ADLs as tolerated, and promotion of active self-management  in adults with CLBP. Programs that use aerobic training, strengthening, stretching/flexibility, trunk stabilization, or specific back exercises (that address normalizing lumbosacral movement) may each help reduce pain and disability in patients with CLBP(3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M54": {
+                "base": "dorsalgia",
+                "M54.1": "radiculopathy",
+                "M54.3": "sciatica",
+                "M54.4": "lumbago with sciatica",
+                "M54.5": "low back pain",
+                "M54.8": "other dorsalgia",
+                "M54.9": "dorsalgia, unspecified"
+            },
+            "M48": {
+                "base": "other spondylopathies",
+                "M48.3": "traumatic spondylopathy",
+                "M48.4": "fatigue fracture of vertebra",
+                "M48.5": "collapsed vertebra, not elsewhere classified",
+                "M48.8": "other specified spondylopathies",
+                "M48.9": "spondylopathy, unspecified"
+            },
+            "M53": {
+                "base": "other dorsopathies, not elsewhere classified",
+                "M53.2": "spinal instabilities",
+                "M53.3": "sacrococcygeal disorders, not elsewhere classified",
+                "M53.8": "other specified dorsopathies",
+                "M53.9": "dorsopathy, unspecified"
+            },
+            "optional": {
+                "base": "subclassification for site of involvement for M60, M79",
+                "0": "multiple sites",
+                "5": "pelvic region and thigh",
+                "8": "other",
+                "9": "site unspecified"
+            },
+            "M51": {
+                "base": "other intervertebral disc disorders",
+                "M51.0": "lumbar and other intervertebral disc disorders with myelopathy",
+                "M51.1": "lumbar and other intervertebral disc disorders with radiculopathy",
+                "M51.2": "other specified intervertebral disc displacement",
+                "M51.3": "other specified intervertebral disc degeneration",
+                "M51.4": "Schmorl's nodes",
+                "M51.8": "other specified intervertebral disc disorders",
+                "M51.9": "intervertebral disc disorder, unspecified"
+            },
+            "M60.9": "myositis, unspecified",
+            "M79.1": "myalgia",
+            "S33": {
+                "base": "dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",
+                "S33.0": "traumatic rupture of lumbar intervertebral disc",
+                "S33.1": "dislocation of lumbar vertebra",
+                "S33.2": "dislocation of sacroiliac and sacrococcygeal joint",
+                "S33.3": "dislocation of other and unspecified parts of lumbar spine and pelvis",
+                "S33.5": "sprain and strain of lumbar spine",
+                "S33.6": "sprain and strain of sacroiliac joint",
+                "S33.7": "sprain and strain of other and unspecified parts of lumbar spine and pelvis"
+            },
+            "S39": {
+                "base": "other and unspecified injuries of abdomen, lower back and pelvis",
+                "S39.0": "injury of muscle and tendon of abdomen, lower back and pelvis",
+                "S39.7": "other multiple injuries of abdomen, lower back and pelvis",
+                "S39.8": "other specified injuries of abdomen, lower back and pelvis",
+                "S39.9": "unspecified injury of abdomen, lower back and pelvis"
+            },
+            "G55.1": "nerve root and plexus compressions in intervertebral disc disorders",
+            "G55.3": "nerve root and plexus compressions in other dorsopathies",
+            "M96.1": "postlaminectomy syndrome, not elsewhere classified",
+            "F45.4": "persistent somatoform pain disorder (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No specific issues or information regarding reimbursement has been identified. Inquire about any ongoing legal claims, including workers\u2019 compensation"
+        ],
+        "presentation signs and symptoms": [
+            "Pain and tenderness over the affected low back area lasting more than 3 months",
+            "Pain-restricted  back (especially lumbar) mobility, flexibility, strength, and ROM",
+            "Postural and gait disturbances due to altered movements of the trunk and lower extremities",
+            "Reduced physical functioning in ADLs  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Symptoms of cauda equina syndrome indicate a medical emergency that demands immediate evaluation and possibly surgery.(18) Cauda equina syndrome or myelitis from extreme nerve root compression due to traumatic injury, disc herniation, spinal stenosis, spinal neoplasm/metastatic tumor, or inflammation may result in permanent lower extremity paralysis and impairment of bowel and bladder function.(18) See CINAHL topic ID number T708499Cauda Equina Syndrome for more information on cauda equina syndrome"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Studies have shown that worldwide up to 23% of persons experienceCLBP(18)",
+            "Potential causes of CLBP that are exacerbated by mechanical loading of the affected body part and should be ruled out bythe physician include:\u2013lumbar strain (i.e., indirect/nontraumatic muscle injury). However, this cause of LBP usually resolves within 3 months.See  Clinical Review ... Back Pain: Low, Acute  ; CINAHL Topic ID Number: T709179 for review of LBP related tomuscle spasms\u2013spinal derangement (often with nerve impingement) confirmed by radiographic evidence. See  Clinical Review ... Sciatica; CINAHL Topic ID Number: T708763\u2013discogenic disease: lumbar disc pathology (i.e., tear in annulus fibrosus, prolapse, herniation), lumbar degenerative discdisease (DDD) or spondylosis, lumbar spinal stenosis facet joint syndrome, sacroiliac joint dysfunction",
+            "Pathogenesis\u2013Pathology of back pain generally depends on the etiology; however, most often it is caused by an acute inflammatoryprocess(18)\u2013Although the cause of CLBP is considered nonspecific in most cases, one or more musculoskeletal conditions maycontribute to signs and symptoms-Lumbar strain-Overstretching and tearing of paraspinal muscle, as a result of excessive mechanical strain, can injure associatedtendons and ligaments-Abnormal spinal curvature such as in lumbar lordosis or scoliosis can place added strain on discs, ligaments, andsurrounding musculature-Lumbar DDD-Localized pain that might refer to the iliac crest or buttock area-Pain aggravated by activity and relieved with rest-Pain intensifies with cough or sneeze-Typically, symptoms develop gradually as the disc deteriorates-Lumbar spinal stenosis-Neurogenic claudication, CLBP, motor weakness, leg cramping, and sensation of \u201cpoor circulation\u201d in lowerextremities(19)-Symptoms are aggravated by walking or lumbar extension and improve with lumbar flexion(19)-This usually is a degenerative condition. As DDD progresses, the intraspinal space decreases with disc bulging andinfolding of the ligamentum flavum, resulting in a narrowed spinal canal and nerve root foramen(19)-Facet joint syndrome-History of chronic spinal pain that has not responded to traditional therapies(20)-Localized tenderness and pain with side-bending  and, in some cases, spinal extension-Synovitis and degeneration of the vertebral facet joints with the development of arthritis, in conjunction with discthinning, is associated with CLBP(20)",
+            "Risk factors\u2013Sedentary lifestyle and obesity can increase the risk of developing back pain(18)\u2013Current and former cigarette smokers have a higher prevalence of LBP than persons who have never smoked. Theassociation between current smoking and LBP is strongest in adolescents(18)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Consult with physician on finding red flags associated with CLBP(18) Cauda equina syndrome Weakness Bowel/bladder incontinence Pain that disturbs sleep Malignancy  Fracture",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Symptoms of cauda equina syndrome indicate a medical emergency that demands immediate evaluation and possibly surgery.(18) Cauda equina syndrome or myelitis from extreme nerve root compression due to traumatic injury, disc herniation, spinal stenosis, spinal neoplasm/metastatic tumor, or inflammation may result in permanent lower extremity paralysis and impairment of bowel and bladder function.(18) See CINAHL topic ID number T708499Cauda Equina Syndrome for more information on cauda equina syndrome"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document when the patient first experienced LBP. Was the onset sudden (e.g., trauma/incident) or gradual (e.g., with repetitive work or awkward postures)? Document the duration of CLBP (i.e., more than 3 months). How has the course of the pain changed?",
+                "course of treatment": {
+                    "medical management": "Document the history of medical interventions used to treat back pain and the outcome of treatments",
+                    "surgical management": [
+                        "Surgical management: Document any operative intervention (e.g., lumbar spinal fusion, laminectomy, discectomy) or invasive test (e.g., discography, medial branch block) for CLBP"
+                    ],
+                    "medications": "Document prescribed medications for CLBP and whether they are being taken and helping. Is the patient taking any nonprescribed painkillers, such as OTC NSAIDs, and are they helping manage the CLBP? Has the patient received cortisone epidural injections for relief of CLBP?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Imaging studies may not be performed during the first 6 weeks unless there is suspicion of other underlying etiology(18)",
+                        "MRI may be performed in order to identify possible disc herniation or spinal stenosis(18)",
+                        "Lumbar spine MRI is not considered to be of value in making a diagnosis based on specific spinal pathoanatomic changes(5)",
+                        "In a 3-year  longitudinal study, annular fissures detected on MRI were associated with incident chronic LBP; however,",
+                        "the 3year  incidence of these MRI findings was extremely low, and did not explain the symptoms in the vast majority of cases(5)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heat pack) or alternative therapies (e.g., acupuncture, chiropractic medicine) and whether they have helped",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other musculoskeletal conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Pain associated with lumbar DDD is aggravated by activity, coughing, and sneezing and is relieved with rest. Pain associated with facet joint disease commonly is aggravated by side-bending. Pain associated with lumbar spinal stenosis is aggravated by walking or lumbar spinal extension(19)",
+                "body chart": "Use body chart to document location and nature of symptoms. Pain associated with lumbar DDD is localized near the disc and may refer to the iliac crest or buttock. Pain associated with lumbar spine stenosis is located in the low back with cramping in the leg. Facet joint pain commonly is localized to the affected facet",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Symptoms include pain, tenderness, deep aching, weakness, and lower extremity cramping",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings per night and any sleep disturbances due to pain or disability ",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., sudden worsening of symptoms, weight loss of unknown origin, bowel/bladder/sexual dysfunction, saddle anesthesia, night pain, pain at rest)(18)",
+                "respiratory status": "Does the patient have any respiratory compromise? Does the patient smoke? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document whether patient has a history of a spinal derangement disorder or LBP (e.g., how long previous symptoms were present and number of recurrences) and any back surgeries",
+                    "comorbid diagnoses": "Ask about other conditions, including history of surgical intervention for back problems, diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, osteoporosis, and other orthopedic issues. Also document gastrointestinal symptoms, genitourinary symptoms, and general systemic complaints (e.g., fever, weight loss, peripheral joint symptoms)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken, including OTC drugs, for other medical conditions",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -Does the patient participate in occupational activities or sports that he or she feels may contribute to CLBP? What kind of repetitive work habits does patient perform? What posture does patient have to maintain throughout his or her work day?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any reported limitations/restrictions",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Measure height and weight. Determine BMI and whether patient is overweight or obese. Measure for leg-length  discrepancy, as indicated by posture assessment",
+            "assistive and adaptive devices": "Document whether patient uses a lumbar support or any assistive devices",
+            "balance": "Assess static/dynamic balance in sitting and standing. Use Berg Balance Scale (BBS) for objective measure of balance deficits as indicated \u2013Balance may be impaired in individuals with CLBP(15)",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess peripheral pulsesObserve body mechanics in general mobility, such as lifting and carrying, and during ADLs or work activities. Perform an ergonomic assessment of the patient\u2019s workstation, as appropriate",
+            "functional mobility": "Assess general motor function using FIM. Ask patient to demonstrate the gross movements that are possible without pain limitation. Assess bed mobility and ability in transfers, as indicated",
+            "gait locomotion": "Assess for gait abnormalities (e.g., asymmetric pattern in stride length). Heel walking and toe walking may indicate L5 root involvement and S1 root involvement, respectivelyAssess mobility of thoracic and lumbar spine with posterior-to-anterior  glides as indicated and appropriate. Clear/rule out involvement of the hip and sacroiliac joints",
+            "muscle strength": "Assess bilateral lower extremity and trunk strength with manual muscle testing (MMT) per patient\u2019s tolerance. Assess ability to activate the transverse abdominis, lumbar multifidus, and erector spinae muscles",
+            "observation inspection palpation including skin assessment": [],
+            "posture": " Posture \u2013Note any abnormal spinal curvature (i.e., scoliosis, kyphosis, or lordosis) \u2013Assess for leg-length  symmetry and symmetry of iliac crests",
+            "range of motion": " Range of motion \u2013Assess bilateral lower extremity ROM \u2013Document reproduction of pain \u2013In standing, assess forward bending, measuring distance from fingertips to the floor. While patient is flexed, view from behind to detect scoliosis and from the side to detect persistent lumbar lordosis, indicative of protective muscle guarding \u2013Measure trunk extension, rotation, and side-bending  to the right and left. Pain while bending toward the affected side may indicate disc disease, and pain while bending away from affected side may indicate a muscular strain(18) \u2013Test for flexibility of hamstrings, iliotibial bands, quadriceps, piriformis, and hip flexors and rotators (e.g., using 90-90 SLR and Ober, Ely, and Thomas tests)",
+            "self-care activities of daily living": "",
+            "reflex testing": "Check lower extremity reflexes in sitting position, including patellar and Achilles reflexes. Hyporeflexia indicates lower motor neuron involvement. Hyperreflexia indicates upper motor neuron involvement",
+            "sensory testing": "Perform sensory testing along lower extremity dermatomes, including pinprick, light touch, and temperature",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Oswestry Low Back Pain Disability Questionnaire or Oswestry Disability Index (ODI) \u2013McGill Pain Questionnaire (MPQ) \u2013Dallas Pain Questionnaire \u2013Borg Back Pain Intensity Scale \u2013Aberdeen Low Back Pain Scale \u2013Roland-Morris  Disability Questionnaire \u2013High predictive screening tools for CLBP(16) -STarT Back Screening Tool -Orebro Musculoskeletal Pain Questionnaire \u2013The 36-item  Short-Form  Health Survey (SF-36)  is a physical functioning dimension of HRQOL",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Acute cervical trauma, including whiplash-associated  disorders",
+                "Osteoporosis or osteopenia",
+                "Use of steroids or other medications that tend to compromise bone integrity",
+                "Rheumatologic disorders affecting connective tissue, including rheumatoid arthritis and ankylosing spondylitis",
+                "Joint hypermobility/instability",
+                "Pregnancy",
+                "Prior surgical stabilization or decompression ",
+                "Spinal implants/prosthetics discs",
+                "Nonmechanical pain",
+                "Claustrophobia",
+                "Patients with COPD or other respiratory disorders",
+                "Raynaud\u2019s syndrome",
+                "Medical instability",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Avoid applying cold over superficial nerves, areas of diminished sensation or poor circulation, or slow-healing  wounds",
+                "Use caution with patients who are hypertensive as cold can cause a transient increase in blood pressure; discontinue treatment if there is an elevation in blood pressure",
+                "Use caution with patients who are hypersensitive to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Use of cryotherapy with patients who have an aversion to cold may be counterproductive if being used to promote muscle relaxation and decrease pain",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Hypersensitivity",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs",
+                "Severe epilepsy",
+                "Certain dermatologic conditions",
+                "Surface infections",
+                "Uncontrolled bowels",
+                "Acute rheumatoid arthritis",
+                "Venous ulcers",
+                "Tissues devitalized by X-ray/radiation  therapy",
+                "Peripheral vascular disease",
+                "Decreased thermal sensation",
+                "Respiratory dysfunction",
+                "Cardiac dysfunction",
+                "Active bleeding",
+                "Malignancy",
+                "Previously existing (recent) fever",
+                "Acute inflammatory conditions",
+                "Heat sensitivity",
+                "Impaired sensation",
+                "Confusion or impaired cognition",
+                "Recent skin graft",
+                "Certain medications ",
+                "Alcohol inebriation*",
+                "Decreased strength/ROM/endurance/balance*",
+                "Urinary incontinence*",
+                "Fear of water*",
+                "Respiratory problems",
+                "Pregnancy*",
+                "Multiple sclerosis*",
+                "Poor thermal regulation*",
+                "Seasickness",
+                "Edema, when warm/hot water immersion",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Over carotid sinuses",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Used in close proximity to diathermy treatment",
+                "In an area with infection or bleeding",
+                "If a tumor is present in the area",
+                "In the area of deep vein thrombosis (DVT) or thrombophlebitis",
+                "Over epiphyseal plates of growing bones",
+                "Use caution in patients with sensory deficits and in patients who are unable to communicate sensory deficits",
+                "Use caution if patient has circulatory impairments",
+                "Use caution over plastic or metal implants",
+                "Always decrease ultrasound intensity if the patient complains of discomfort"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls due to the potential for postural changes and pain-related  loss of balance. Follow facility protocols for fall prevention and post fall-prevention  instructions, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Avoid bed rest longer than 2 or 3 days during periods of increased mechanical pain",
+                "Tailor the exercise prescription according to the patient\u2019s functional ability and exertional symptoms",
+                "Provide close patient supervision and instruction to perform exercise sessions with proper back posture and body mechanics",
+                "Provide a thorough orientation to use of therapeutic exercise equipment and adequate warm-up  time to help reduce apprehension about exercise",
+                "Modify exercises to minimize exercise-related  back pain",
+                "Clinicians should follow the exercise guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+                "Contraindications/precautions applicable to this diagnosis regarding use of modalities are listed below. Rehabilitation professionals should always use their professional judgment in decision-making",
+                "Traction contraindications(1)",
+                "Traction precautions(18)",
+                "Cryotherapy contraindications(1)",
+                "Cryotherapy precautions(1)",
+                "Superficial heat contraindications(1)",
+                "Whirlpool contraindications(1)",
+                "Whirlpool precautions(1)",
+                "Electrotherapy  contraindications or precautions (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below provided potential benefits outweigh the possible risks)(1)",
+                "Therapeutic ultrasound contraindications(1)",
+                "Therapeutic ultrasound precautions(1)"
+            ]
+        },
+        "diagnosis need for treatment": "CLBP/pain; reduced mobility, strength and endurance; deficits in posture and body mechanics; modified or altered ADLs",
+        "rule out": " Rule out Lumbar spine stenosis, spinal tumors, ankylosing spondylitis, myelitis, and cauda equina syndrome Lumbosacral muscle strains/sprains Tumor(18) Infection(18) Idiopathic scoliosis(18) Psychological disorder (conversion, somatization disorder)(18) Scheuermann\u2019s kyphosis(18) Malingering/secondary gains ",
+        "prognosis": [
+            "Factors associated with worse outcomes for LBP include:(18) \u2013Prior history of back pain \u2013Greater intensity of back pain \u2013Presence of leg or widespread symptoms \u2013BMI > 25 \u2013Smoking \u2013Depression and catastrophizing thoughts \u2013Fear-avoidance  behavior",
+            "Overall, the vast majority of persons who experience LPB improve and it does not impact a person\u2019s quality of life or function in the long term(18)"
+        ],
+        "referral to other disciplines": " Referral to other disciplinesreferring physician, consulting surgeon, pain management specialist, psychologist, dietitian, social worker, occupational therapist, physical therapist, acupuncturist, and vocational rehabilitation counselor Orthopedic surgeon or neurosurgeon for consultation regarding possible or recurrent disc herniation, spinal stenosis, or segmental lumbar instability",
+        "other considerations": [
+            "Authors of a 2015 Cochrane review with meta-analysis  of 41 RCTs (N = 6,858) found that a combination of physical and behavioral treatments (i.e., multidisciplinary biopsychosocial rehabilitation) was more effective (moderate evidence) than usual care or stand-alone  physical treatments (low-quality  evidence) for decreasing pain and improving function in patients with CLBP(2)",
+            "Authors of a systematic review conducted in 2020 found that mechanical traction therapy for the treatment of LBP provides significant pain reduction and improves functional improvements in the short term, but these effects are not sustained over the long term(17)",
+            "Pain neuroscience education (PNE) combined with physiotherapy interventions has been show to improve disability and pain in persons with CLBP(13) \u2013PNE is used for educational purposes in order to educate a person\u2019s understanding of pain \u2013The goal is to change a person\u2019s perception of where pain comes from in order toreduce fear avoidance behavior"
+        ],
+        "treatment summary": [
+            "Exercise therapy \u2013Authors of a 2015 meta-analysis  of 39 RCTs found that strength/resistance training and coordination/stabilization training were significantly more effective than other exercise interventions for reducing CLBP and that cardiorespiratory and combined exercise programs were ineffective(3) -This meta-analysis  compared 4 different groups of activities to determine the most effective program for treating CLBP: -Strength / resistance group which focused on movements of the major muscle groups to improve strength -Coordination / stabilization group which focused on activities on balance, agility, coordination, gait, and proprioception -Cardiorespiratory group performed regular, purposeful, and continuous exercises that involved the major muscle groups -The combined group was defined in this study as a combination of strengthening, stretching, endurance, and aerobic training exercises, which also included modalities such as yoga, pilates, and cesar therapy (posture and movement therapy) -The results of this study show that the strengthening and resistance group had a small, but significant benefit for non-specific  CLBP; coordination and stabilization exercises provide a reduction in pain as a result of improved lumbo-pelvic  stability; cardiorespiratory programs had no effect in reducing CLBP pain -The overall consensus is that, participating in a strengthening and resistance training program combined with performing coordination and stabilization had a significant improvement in reducing pain in patients with CLBP \u2013Pilates and McKenzie exercises have been found to reduce pain in patients with CLBP(9) \u2013Hip strengthening exercises, particularly those that target the hip abductors, extensors, and external rotators,improve pain and disability in persons with LBP(14) ",
+            "Physical and electrotherapeutic modalities \u2013Although there is conflicting findings regarding the effectiveness of ultrasound (US) for LBP, based on the current evidence the best treatment is US. The recommended frequency should be set to 1 MHZ with an intensity rating of 1 \u20132 W/cm2 with a duration of 10 minutes(1)",
+            "Manual therapy \u2013Authors of a 2015 Cochrane review and meta-analysis  of 12 RCTs (N = 500) found low-quality  evidence that the muscle energy technique (MET) was not effective for reducing pain or disability in patients with LBP(16)",
+            "Foot orthoses or insoles \u2013Authors of a 2014 systematic review of 5 trials (N = 293) found insufficient evidence to support the use of insoles or foot orthoses for alleviating signs or symptoms in patients with LBP(4)",
+            "Authors of a single-blind  RCT researched the effects of a mind-body  program on patients with CLBP and found short-term improvements in function and pain associated with this intervention(6) \u2013Two hundred eighty-two  patients with CLBP were randomized to the mind-body group (N = 140) or control group (N = 142) \u2013Both groups received treatment for 8 weeks followed by 6 monthly sessions \u2013The mind-body  program focuses on stress reduction techniques as well as meditation techniques. The mind-body  program incorporates regular physical activities such as walking, sitting, and lying down and encourages patients to also meditate through direct breathing and be aware of their thoughts and sensations \u2013Results show short-term  improvements in overall function; however, results were not sustained in the long term",
+            "Pilates \u2013Participation in a Pilates program can reduce pain and improve posture in patients with CLBP(7) -Based on an RCT study in Italy -Thirty-eight  individuals with CLBP were randomized to either the Pilates group or control group -The Pilates group performed a pre-established  Pilates program for 50 minutes supervised by a sports and exercise specialist, 3 times per week for 14 weeks -Primary outcome measures used in this study were the ODI and posturography analysis \u2013Participation in an 8-week  Pilates-based  exercise program may result in decreased pain and disability and improved flexibility and balance in persons with nonspecific LBP(11) -Based on an RCT in Spain -54 patients with chronic nonspecific LBP were randomized to either an experimental Pilates exercise program (N = 27) or control group (N = 27) -Control group received information via a leaflet about posture, physical activity, weight lifting, fear movements, and active lifestyle -Pilates group exercise consisted of two 45-minute  sessions a week for 8 weeks. Exercises consisted of floor exercises on a 55cm ball, traditional Pilates exercises, and stretching exercises -Pilates participants were also taught how to fire their pelvic floor, transversus abdominis, and multifidus muscles",
+            "Pilates Training for 6 weeks may minimize the risk for falls and improve functional balance and pain in older women with CLBP(8) \u2013Based on an RCT in Spain -Ninety-seven  women were randomized to either the Pilates plus PT group (N = 50) or PT only (N = 47) -Both groups received standard physical therapy twice weekly for 6 weeks, but the Pilates group received an additional treatment session twice a week for 60 minutes -Outcome measures used in this study included the Falls Efficacy Scale\u2013 International (FES-I),  TUG, and the NRS pain scale",
+            "Authors of a 2020 systematic review found that yoga therapy, taichi, and qigong can improve functional ability and reduce the pain and psychological distresses associated with LBP(12) \u2013Based on 32 studies that met inclusion criteria . Problem Goal Intervention Expected Progression Home Program  CLBP Moderation or relief of painTherapeutic exercises _ Various types of strengthening, stretching, and aerobic exercises that are individually prescribed and supervised _ _ Lumbar extension training _ _ Coordination/ stabilization training(3)Yoga(12)Taichi(12)Progress exercises per patient\u2019s toleranceRecommend pain- relieving strategies for home as indicated. Educate patient to avoid pain-provoking activities and encourage pain-relieving positions/ activities Decreased flexibility of hamstrings, gluteal and lower back extensors, and hip flexorsIncrease flexibility of hamstrings, gluteal and low-back extensors, and hip flexors to decrease painFunctional training _ Stretching of hamstrings, gluteal and lower back extensors, and hip flexorsProgress exercises per patient\u2019s toleranceProvide patient with appropriate exercises to perform at home Decreased functional cardiorespiratory enduranceImprove cardiorespiratory endurance to facilitate return to activitiesTherapeutic exercises _ Individualized aerobic exercise trainingProgression of endurance exercises, including weight lifting _ _ Gradual increase in intensity of endurance training (i.e., walking, running, and cycling) adapted to the patient\u2019s heart rateParticipate in daily exercise, including walking, jogging, and swimming, integrating post-exercise stretching Decreased strength and flexibility of trunk stabilizersImprove trunk stabilization and ROM using exercises for the major trunk muscles as well as the multifidus, paraspinal, and transverse abdominis musclesTherapeutic exercises _ Introduction of lumbar spinal stabilization and flexibility exercises _ Pelvic floor stabilization exercises(10)Progression of isotonic muscular strengthening exercises and endurance exercises, including weight lifting, proprioception, and coordination exercises (i.e., static and dynamic stabilization exercises)Provide patient with appropriate exercises to perform at home  Poor posture, body mechanics, and ergonomic setupImproved posture, body mechanics, and functional ergonomicsFunctional training _ Functional training focusing on body mechanics, including bending from knees and hips, keeping the back straight and deep abdominals contracted when lifting, carrying objects close to the body, placing one foot on a stool when standing, keeping the knees higher than the hips when sitting, and abdominal activation when standing to decrease swayback. Avoid wearing high- heeled shoes _ _ Posture retraining _ _ Ergonomic assessmentProgress instruction per patient\u2019s abilityProvide patient with diagrams and written instructions Reduced daily physical activity (i.e., vocational and recreational)Resume regular activities _ _ Return to work and sports, as applicableTherapeutic exercises _ Therapeutic exercise program, as aboveGradual reduction in pain with increased participation in regular activities _ _ Gradual return to regular duties at workTherapeutic exercise program, as above ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced low back pain": [
+            "V AS, MPQ"
+        ],
+        "improved trunk and lower-extremity  flexibility": [
+            "Goniometry, Schober\u2019s test",
+            "Reassess flexibility"
+        ],
+        "improved trunk strength": [
+            "MMT"
+        ],
+        "improved posture and balance": [
+            "Reassess posture and balance, BBS"
+        ],
+        "improved physical functioning": [
+            "FIM, as indicated"
+        ],
+        "return to work and recreational activity": [],
+        "quality of life": [
+            "ODI, SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continuation of exercises found effective and well-tolerated  to maintain optimal physical functioning",
+        "Avoidance of pain-provoking  activities"
+    ],
+    "patient education": [
+        "National Institute of Neurological Disorders and Stroke website, \u201cLow Back Pain Fact Sheet,\u201d https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Low-Back-Pain-Fact-Sheet Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "In: Michlovitz SL, Bellew JW, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:42-44,  80-82, 127-128, 144-145, 227-230, 322-323. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Kamper SJ, Apeldoorn AT, Chiarotto A, et al. Multidisciplinary biopsychosocial rehabilitation for chronic low back pain: Cochrane systematic review and meta-analysis.  BMJ. February 18, 2015;350:h444. doi:10.1136/bmj.h444. (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Searle A, Spink M, Ho A, Chuter V. Exercise interventions for the treatment of chronic low back pain: A systematic review and meta-analysis  of randomized controlled trials. Clin Rehabil . Advance online publication. February 13, 2015. doi:10.1177/0269215515570379. (M)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Chuter V, Spink M, Searle A, Ho A. The effectiveness of shoe insoles for the prevention and treatment of low back pain: a systematic review and meta-analysis  of randomised controlled trials. BMC Musculoskelet Disord . April 29, 2014;15:140. doi:10.1186/1471-2474-15-140.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Suri P, Boyko EJ, Goldberg J, Forsberg CW, Jarvik JG. Longitudinal associations between incidental lumbar spine MRI findings and chronic low back pain or radicular symptoms: Retrospective analysis of data from the Longitudinal Assessment of Imaging and Disability of the Back (LAIDBACK). BMC Musculoskelet Disord . 2014;15(1):152. doi:10.1186/1471-2474-15-152.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Morone NE, Greco CM, Moore CG, et al. A mind-body  program for older adults with chronic low back pain: a randomized clinical trial. JAMA Intern Med . 2016;176(3):329-337. (RCT)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Patt A, Bianco A, Paoli A, et al. Pain perception and stabilometric parameters in people with chronic low back pain after a Pilates exercise program: a randomized controlled trial. Medicine. 2016;95(2):1-7.  (RCT)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Cruz-Diaz  D, Martinez-Amat  A, De la Torrez-Cruz  MJ, Casuso RA, de Guevara NML, Hita-Contreras  F. Effects of a six-week Pilates intervention on balance and fear of falling in women aged over 65 with chronic low-back pain: a randomized controlled trial. Maturitas. 2015;82(4):371-376.  (RCT)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Hasanpour-Dekhourdi  A, Dehghani A, Solati A. A comparison of the effects of Pilates and McKenzie training on pain and general health in men with chronic low back pain: A randomized trial. Indian J Palliat Care . 2017;23(1):36-40.  doi:10.4103/0973-1075.197945.  (RCT)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Bhatnagar G, Sahu M. Comparison of pelvic floor exercises and conventional regimen in patients with chronic low back pain. Indian J Physiother Occup Ther . 2017;11(3):38-42.  doi:10.5958/0973-5674.2017.00069.7.  (RCT)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Valenza M, Rodriguez-Torres  J, Cabrera-Martos  I, Diaz-Pelegrina  A, Aguilar-Ferrandiz  ME, Castellote-Caballero  Y. Results of a Pilates exercise program in patients with chronic non-specific  low back pain: a randomized controlled trial. Clin Rehabil . 2017;31(6):753-760.  doi:10.1177/0269215516651978. (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Park J, Krause-Parello  C, Barnes CM. A narrative review of movement-based  mind-body  interventions: effects of yoga, tai chi, and qigong for back pain patients. Holistic Nurs Pract. 2020;34(1):3-23.  doi:10.1097/HNP.0000000000000360. (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Wood L, Hendrick PA. A systematic review and meta-analysis  of pain neuroscience education for chronic low back pain: Short-and  long-term  outcomes of pain and disability. Eur J Pain . 2019;23(2):234-249.  doi:10.1002/ejp.1314. (M)"
+        },
+        {
+            "number in article": 14,
+            "reference": "de Jesus F, Arcanjo L, Fukuda TY, et al. Addition of specific hip strengthening exercises to conventional rehabilitation therapy for low back pain: a systematic review and meta-analysis.  Clin Rehabil . 2020;34(11):1368-1377.  doi:10.1177/0269215520941914. (M)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Berenshteyn Y, Gibson K, Hackett GC, Trem AB, Wilhelm M. Is standing balance altered in individuals with chronic low back pain? A systematic review. Disabil Rehabil . 2019;41(13):1514-1523.  doi:10.2519/jospt.2018.7562. (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Pauli J, Starkweather A, Robin JL. Screening tools to predict the development of chronic low back pain: an integrative review of the literature. Pain Med . 2019;20(9):1651-1677. doi:10.2519/jospt.2018.7562. (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Cheng YH, Hsu CY, Lin YN. The effect of mechanical traction on low back pain in patients with herniated intervertebral disks: a systematic review and meta-analysis.  Clin Rehabil. 2019;28:269215519872528. doi:10.1177/0269215519872528. (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Casiano VE, Dydyk AM, Varacallo M. Back pain. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Raja A, Hoang S, Patel P, Mesfin FB. Spinal stenosis. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Curtis L, Shah N, Padalia D. Facet joint disease. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI) "
+        }
+    ]
+}

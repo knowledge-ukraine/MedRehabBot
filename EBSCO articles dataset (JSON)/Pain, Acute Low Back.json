@@ -1,0 +1,509 @@
+{
+    "metadata": {
+        "title": "Back Pain  Low, Acute",
+        "synonyms": [
+            "pain, acute low back",
+            "low back pain, acute",
+            "acute low back pain",
+            "nonspecific acute low back pain",
+            "early acute-phase  low back pain",
+            "late acute-phase  low back pain"
+        ],
+        "anatomical location body part affected": [
+            "Lower back can involve several structures, often one or more of the following: the erector spinae and multifidus muscles, lumbar vertebral and lumbosacral joints, pelvis and associated joints, longitudinal ligament, supraspinous and interspinous ligaments, ligamentum flavum, thoracolumbar fascia, annulus fibrosis, zygapophyseal (facet) joints, intervertebral discs, spinal cord, dura mater, and the associated lumbar and sacral spinal nerves"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation"
+        ],
+        "description": [],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M54": {
+                "base": "dorsalgia",
+                "M54.1": "radiculopathy",
+                "M54.3": "sciatica",
+                "M54.4": "lumbago with sciatica",
+                "M54.5": "low back pain",
+                "M54.8": "other dorsalgia",
+                "M54.9": "dorsalgia, unspecified"
+            },
+            "M48": {
+                "base": "other spondylopathies",
+                "M48.3": "traumatic spondylopathy",
+                "M48.4": "fatigue fracture of vertebra",
+                "M48.5": "collapsed vertebra, not elsewhere classified",
+                "M48.8": "other specified spondylopathies",
+                "M48.9": "spondylopathy, unspecified"
+            },
+            "M53": {
+                "base": "other dorsopathies, not elsewhere classified",
+                "M53.2": "spinal instabilities",
+                "M53.3": "sacrococcygeal disorders, not elsewhere classified",
+                "M53.8": "other specified dorsopathies",
+                "M53.9": "dorsopathy, unspecified"
+            },
+            "Optional": {
+                "base": "subclassification for site of involvement for M60, M79",
+                "0": "multiple sites",
+                "5": "pelvic region and thigh",
+                "8": "other",
+                "9": "site unspecified"
+            },
+            "M51": {
+                "base": "other intervertebral disc disorders",
+                "M51.0": "lumbar and other intervertebral disc disorders with myelopathy",
+                "M51.1": "lumbar and other intervertebral disc disorders with radiculopathy",
+                "M51.2": "other specified intervertebral disc displacement",
+                "M51.3": "other specified intervertebral disc degeneration",
+                "M51.4": "Schmorl's nodes",
+                "M51.8": "other specified intervertebral disc disorders",
+                "M51.9": "intervertebral disc disorder, unspecified"
+            },
+            "M60.9": "myositis, unspecified",
+            "M79.1": "myalgia",
+            "S33": {
+                "base": "dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",
+                "S33.0": "traumatic rupture of lumbar intervertebral disc",
+                "S33.1": "dislocation of lumbar vertebra",
+                "S33.2": "dislocation of sacroiliac and sacrococcygeal joint",
+                "S33.3": "dislocation of other and unspecified parts of lumbar spine and pelvis",
+                "S33.5": "sprain and strain of lumbar spine",
+                "S33.6": "sprain and strain of sacroiliac joint",
+                "S33.7": "sprain and strain of other and unspecified parts of lumbar spine and pelvis"
+            },
+            "S39": {
+                "base": "other and unspecified injuries of abdomen, lower back and pelvis",
+                "S39.0": "injury of muscle and tendon of abdomen, lower back and pelvis",
+                "S39.7": "other multiple injuries of abdomen, lower back and pelvis",
+                "S39.8": "other specified injuries of abdomen, lower back and pelvis",
+                "S39.9": "unspecified injury of abdomen, lower back and pelvis"
+            },
+            "G55.1": "nerve root and plexus compressions in intervertebral disc disorders",
+            "G55.3": "nerve root and plexus compressions in other dorsopathies",
+            "M96.1": "postlaminectomy syndrome, not elsewhere classified",
+            "F45.4": "persistent somatoform pain disorder (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No specific issues or information regarding reimbursement has been identified. Inquire about any ongoing legal claims, including workers\u2019 compensation"
+        ],
+        "presentation signs and symptoms": [
+            "Nontraumatic LBP that has been present for less than 6 weeks",
+            "Unilateral or bilateral pain: aching, sharp, dull, shooting, or burning",
+            "The primary complaint is usually mechanical pain (i.e., aggravated by activity and relieved with rest) \u2013Positions that relieve the patient\u2019s symptoms are referred to as \u201crelief positions\u201d",
+            "Pain-restricted  lumbar ROM",
+            "Low back muscle spasms",
+            "Pain may radiate or refer to the LE Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Consult with physician in the case of LBP that does not lessen with recumbency",
+            "Cauda equina syndrome is a medical emergency that requires immediate evaluation and surgery",
+            "Suspicion for osteomyelitis, spinal compression fracture, or abdominal aneurysm (all warrant immediate referral to emergency services)(13)",
+            "Severe, progressive, or unresolving neurologic deficits in the lower extremity",
+            "Increased pain with straight-leg  raise (SLR). LBP and symptoms before 60\u02da are a discal sign, while pain after 60\u02da is a mechanical sign. A positive slump sign is associated with a true positive SLR finding. Symptom magnification in sitting with knee extension indicates spinal derangement(1)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Overexertion using back muscles (e.g., strenuous lifting, pulling, or carrying)",
+            "Underlying spinal derangement or degenerative joint disease (DJD)(1)",
+            "Lumbar disc disease",
+            "Lumbar spinal stenosis",
+            "Facet joint syndrome",
+            "Spondylosis (spinal arthritis)",
+            "Osteoporotic compression fracture",
+            "Sacroiliac joint dysfunction or other pelvic girdle pain",
+            "Poor posture, body mechanics, and/or ergonomics"
+        ],
+        "pathogenesis   ,,": [
+            "Mechanical and inflammatory reactions make the precise etiology of LBP clinically difficult to determine withoutimaging studies.(1) However, immediate imaging is not recommended for acute LBP because it does not improve clinicaloutcomes(3,13,14)",
+            "The exact mechanism of LBP is found in only 12\u201315%  of patients(2)",
+            "In addition to nervous tissue, a variety of spinal structures might generate pain in LBP (e.g., disc, posterior spinal elements,facet joints, and surrounding muscle, ligaments, and fascia)",
+            "Lumbar strain\u2013Overstretching and tearing of lumbar muscle, possibly with injury to associated tendons and ligaments, due to excessivestretch or strain\u2013Abnormal spinal curvature, such as in increased lumbar lordosis or scoliosis, can place added torsion on discs, ligaments,and surrounding musculature\u2013Stretching of involved muscles and connective tissue typically increases pain",
+            "Lumbar disc disease\u2013Radicular pain or sciatica can occur if disc protrudes, herniates, or ruptures and inflames or compresses the adjacentnerve root; pain might then radiate to the buttock, thigh, calf, and/or foot. Bony or ligamentous tissue can also impinge onnerves\u2013Lumbar flexion may exacerbate symptoms and thus be restricted\u2013For more information, see  Clinical Review\u2026Herniated Disc  ; CINAHL Topic ID Number: T708470",
+            "Lumbar spinal stenosis\u2013This is usually a degenerative condition. As DJD progresses, the intraspinal space decreases with disc bulging andinfolding of the ligamentum flavum, resulting in a narrowed spinal canal and nerve root foramen\u2013Abnormal pressure on spinal nerve roots results from a combination of disc degeneration, facet joint arthritis, andsubluxation\u2013Lumbar extension may exacerbate symptoms and thus be restricted\u2013For more information, see  Clinical Review\u2026Spinal Stenosis  ; CINAHL Topic ID Number: T708607",
+            "Facet joint syndrome\u2013Synovitis and degeneration of the vertebral facet joints with the development of arthritis\u2013Can develop in conjunction with disc thinning\u2013Lumbar flexion is usually favored over extension\u2013For more information, see  Clinical Review\u2026Facet Joint Pathology  ; CINAHL Topic ID Number: T709032",
+            "Sacroiliac joint or other pelvic girdle pain\u2013See  Clinical Review\u2026Sacroiliac Joint Dysfunction  ; CINAHL Topic ID Number: T708569\u2013See  Clinical Review\u2026Pelvic Girdle Pain: An Overview  ; CINAHL Topic ID Number: T708588",
+            "Spondylosis\u2013See  Clinical Review\u2026Spondylosis  ; CINAHL Topic ID Number: T902606",
+            "Cauda equina syndrome and some types of myelitis result from extreme nerve root compression or inflammation due totraumatic injury, disc herniation, spinal stenosis, spinal neoplasm/metastatic tumor, infection, or inflammation. Caudaequina syndrome is a medical emergency because it can cause permanent lower extremity paralysis and impairment ofbowel and bladder function(2)\u2013For more information, see  Clinical Review\u2026Cauda Equina Syndrome  ; CINAHL Topic ID Number: T708499"
+        ],
+        "risk factors": [
+            "Authors of a review of the 2018 literature found numerous potential risk factors for LBP, which could be grouped into 4categories:(42)\u2013Individual (e.g., older age)\u2013Poor general health (e.g., smoking, obesity)\u2013Physical stress on the spine (e.g., prolonged sitting, lifting heaving loads/weights, lifting with improper postures)\u2013Psychological stress (e.g., depression)",
+            "Authors of a study (N = 5233) investigated risk factors associated with the transition from acute to chronic LBP in patientsin the United States seeking care from primary care providers.These included obesity, smoking, severe and very severebaseline disability, and diagnosed depression/anxiety(41)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Consult with physician on finding red flags Red flags for spinal fracture: older age, trauma, corticosteroid use, history of osteoporosis, and contusions and/or abrasions(38) Red flags for spinal malignancy: older age, history of cancer, unexpected weight loss, and failure to improve after 1 month(38) Red flags for infection: intravenous drug use, spinal procedure in the past 12 months, fever, and localized pain and tenderness(38) Red flags for cauda equina syndrome: progressive motor or sensory loss, new urinary retention or overflow incontinence, new fecal incontinence,saddle anesthesia, loss of anal sphincter tone, and significant motor deficits encompassing multiple nerve roots(38) Pregnancy  Bilateral sciatica or leg weakness",
+        "Be aware of \u201dyellow flags\u201d or psychosocial, workplace, and other risk factors for persistent pain, transition to chronic condition, and prolonged disability (e.g., depression, fear-avoidance  beliefs, and pain catastrophizing)(13,19)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Consult with physician in the case of LBP that does not lessen with recumbency",
+            "Cauda equina syndrome is a medical emergency that requires immediate evaluation and surgery",
+            "Suspicion for osteomyelitis, spinal compression fracture, or abdominal aneurysm (all warrant immediate referral to emergency services)(13)",
+            "Severe, progressive, or unresolving neurologic deficits in the lower extremity",
+            "Increased pain with straight-leg  raise (SLR). LBP and symptoms before 60\u02da are a discal sign, while pain after 60\u02da is a mechanical sign. A positive slump sign is associated with a true positive SLR finding. Symptom magnification in sitting with knee extension indicates spinal derangement(1)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document when the patient first experienced LBP. What was the patient doing at the time of onset? Was the onset sudden, due to trauma or accident, or did LBP develop gradually for no known reason? What has been the duration of LBP? Has the patient experienced this pain before?",
+                "course of treatment": {
+                    "medical management": "Document the history of medical interventions for this condition. What treatments have or have not been effective?",
+                    "surgical management": [],
+                    "medications": "Document the prescribed medications and identify those not being taken. Are those being taken effective? Oral opioid analgesics (e.g., tramadol, oxycodone) and injectable corticosteroids (e.g., dexamethasone, triamcinolone [Kenalog], methylprednisolone [DepoMedrol])  might be trialed in severe cases. Has the patient received any injectable or opioid medications for pain relief?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Clinicians should refrain from immediate lumbar imaging in patients with acute or subacute LBP without features suggesting a serious red flag underlying condition such as fracture.(3,15) However, imaging might be indicated if patients show no improvement after 6 weeks(13,14,15)",
+                        "MRI is useful in revealing disc herniation(2)",
+                        "Researchers who conducted a prospective, population-based  cohort study in the United States found that having an",
+                        "early MRI in the absence of red flags (which is considered nonadherent  to current guidelines) was associated with increased likelihood of injections, surgery, or higher costs for outpatient, inpatient, and nonmedical services and disability compensation(15)",
+                        "Researchers in Italy describe a dynamic MRI with an open configuration in which the patient can be upright. This tool is useful for patients with a negative MRI in the recumbent position or for patients with pain in the upright position only(16)",
+                        "Advanced imaging and primary management for LBP was found to be associated with higher healthcare utilization and charges than physical therapy(25)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heat pack) or alternative therapies (e.g., acupuncture, chiropractic medicine) and whether they have helped The National Institute for Health and Care Excellence (NICE) guidelines on LBP do not recommend acupuncture as a treatment(30) Researchers who conducted a clinical trial (n = 275 patients with nonspecific acute LBP) in Spain found no difference after a 2week  period of intervention with true acupuncture, sham acupuncture, or placebo acupuncture for pain relief(11) Researchers who conducted an RCT in Korea found that motion style acupuncture treatment has positive effects on immediate pain relief and functional recovery of patients with acute LBP and severe disability(17) ",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Inquire about any positions or activities that aggravate or alleviate symptoms. Pain associated with lumbar DJD is aggravated by activity, coughing, and sneezing, and relieved with rest. Pain associated with facet joint syndrome is commonly aggravated by side-bending  or lumbar spinal extension, whereas lumbar spinal stenosis is aggravated by walking or lumbar spinal extension",
+                "body chart": "Use body chart to document location and nature of symptoms. Pain associated with lumbar disc disease is localized near the disc and may refer to the iliac crest or buttock. Pain associated with lumbar spine stenosis is located in the low back with cramping in the leg. Facet joint syndrome pain is commonly localized to the facet",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Symptoms include pain, tenderness, weakness, and lower extremity cramping. In general, are symptoms improving, worsening, or staying the same?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night related to this condition. Inquire about sleep position and pillow use. Refer patient back to physician if he/she has excessive or unrelenting night pain",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., fever, dizziness, fatigue, nausea, sudden worsening of symptoms, weight loss of unknown origin, bowel/bladder/sexual dysfunction, saddle anesthesia, night pain, pain at rest)(1) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Ask patient if he/she has a history of LBP, how long previous symptoms were present, and number of recurrences",
+                    "comorbid diagnoses": "Ask about other problems, including diabetes, cancer, cardiovascular disease, complications of pregnancy, psychiatric disorders, and orthopedic issues. Document gastrointestinal symptoms, genitourinary symptoms, and general systemic complaints (fever, weight loss, peripheral joint symptoms, etc.) Inquire about family history of ankylosing spondylitis in younger patients with reduced side bending and report of the need to get out of bed frequently at night(14)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken currently, including OTC drugs",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in sports? What does patient\u2019s job or daily activities require? Does patient spend extended time in one position doing repetitive activity, such as sitting at a computer?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any reported limitations/restrictions",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "Measure height and weight. Determine BMI and whether patient is overweight or obese. Also measure for leg-length  discrepancy",
+            "assistive and adaptive devices": "Document whether patient uses a lumbar support or any assistive devices",
+            "balance": "Assess static/dynamic balance in sitting and standing, as indicated ",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess peripheral pulsesAssess lumbosacral neural tension with SLR in supine. Pain produced before 70\u00b0 hip flexion, aggravated by dorsiflexion of the ankle and relieved by flexion of the knee, indicates sciatic nerve root tension and involvementObserve posture and body mechanics with general mobility and with movements that patient reports aggravate symptoms, such as lifting and carrying. Inquire about work station setup, perform ergonomic assessment as indicated",
+            "functional mobility": "Assess as indicated for any deficits, use FIM for objective measurements",
+            "gait locomotion": "Assess for gait abnormalities/asymmetries that may be contributing to dysfunctionAssess segmental mobility of thoracic and lumbar spine with posterior-to-anterior  glides as indicated and appropriate; note movement and pain.(13) Clear involvement of the hip and sacroiliac joints",
+            "muscle strength": "Assess bilateral LE and trunk strength using manual muscle testing (MMT), as tolerated",
+            "observation inspection palpation including skin assessment": [
+                "Observe for abnormalities in lumbosacral surface anatomy",
+                "Palpate for tenderness and trigger points, as well as symmetry of bony landmarks of the pelvis"
+            ],
+            "posture": " Posture \u2013Note any postural abnormalities or asymmetries, or abnormal spinal curvature (i.e., scoliosis, listing, kyphosis, or lordosis). A fiber-optic  device was found effective for measuring lumbar curvature changes during trunk flexion and extension and lifting movements in patients with acute or chronic LBP.(8) A significant reduction in kyphosis at end-range flexion and lifting was noted in patients with acute LBP following pain relief (oral analgesics), although peak curvature and lumbar sequencing behavior were not affected(9) \u2013Assess for leg-length  symmetry and level of iliac crests and any other landmarks \u2013Leaning away from the painful side in standing, with the hip and knee slightly flexed on the affected side, may indicate nerve root compression(1)",
+            "range of motion": " Range of motion \u2013Assess full bilateral LE ROM, including passive hip internal and external rotation, flexion, and extension(13) \u2013Document reproduction of pain \u2013Measure amount of active lumbar flexion, extension, and side-bending  with an inclinometer(13) \u2013In standing, assess forward bending, measuring distance from fingertips to the floor. While patient is flexed, view from behind to detect scoliosis and from the side to detect persistent lumbar lordosis, indicative of protective muscle guarding \u2013Assess lumbar ROM using Schober\u2019s test, making marks 5 cm above and below the L5\u2013S1  junction and measuring the distance between the two marks with patient in neutral position and while bending forward(1) \u2013Measure trunk extension, rotation, and side-bending  to the right and left. Pain while bending toward the affected side may indicate disc disease, and pain while bending away from affected side may indicate muscular strain(1) \u2013Test flexibility of hamstrings, iliotibial bands, quadriceps, hip rotators, and hip flexors using 90\u201390  SLR and Ober, Ely, and Thomas tests",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess patellar and Achilles reflexes in sitting position. Hyporeflexia indicates lower motor neuron involvement. Note the presence or absence of clonus (upper motor neuron involvement)",
+            "sensory testing": "Assess sensation (pinprick, light touch, and temperature) along lower extremity dermatomes",
+            "special tests specific to diagnosis": " \u2013SLR test(13) \u2013Slump test(13) \u2013V ASThis index was developed on patients with chronic LBP for both assessment and outcome(13)This is a health status measure to assess physical disability due to LBP. It is designed to be completed by patient(13) \u2013Short Form 36 (SF-36)  Health Survey(13)  \u2013FABQ(13) \u2013Pain Catastrophizing Scale(13) \u2013Quebec Back Pain Disability Scale(13) \u2013Orebro Musculoskeletal Pain Questionnaire(OMPQ)(13,18) -Researchers in Hong Kong found that the OMPQ could predict return to work outcomes better than the RMDQ, numerical pain scores, FABQ, and Numeric Global Rate of Change (NGRC), and should be used to identify high-risk individuals(18)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Over area of circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Cold intolerance",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Avoid applying cold over superficial nerves",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "With individuals with poor cognition",
+                "In the very young or very old",
+                "Persons with aversion to cold",
+                "Application over areas with a lack of intact thermal sensation",
+                "Application over areas of vascular insufficiency or vascular disease",
+                "Application over areas of recent hemorrhage or potential hemorrhage",
+                "Application over areas of known malignancy",
+                "Application over areas of acute inflammation",
+                "Application over infected areas where infection may spread or cross-contamination  may occur",
+                "Application over areas where liniments or heat rubs have recently been applied",
+                "Application in any situation deemed unreliable by the practitioner"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Bed rest is not recommended(30,38)",
+                "Tailor the exercise prescription to fit the patient\u2019s functional ability and tolerance. Provide close supervision with instruction during exercise therapy and functional training sessions to ensure proper posture and technique and that the patient maintains a stable core",
+                "Provide the patient with a thorough orientation to use of therapeutic exercise equipment and with adequate warm-up  time to help reduce the patient\u2019s apprehension about exercise",
+                "Modify exercise sessions to minimize movement-related  pain",
+                "Clinicians should follow the exercise guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+                "Contraindications/precautions applicable to this diagnosis regarding use of modalities are mentioned below. Rehabilitation clinicians should always use their professional judgment in decision making",
+                "Cryotherapy contraindications  (4)",
+                "Cryotherapy precautions  (4)",
+                "Thermotherapy contraindications  (4)"
+            ]
+        },
+        "diagnosis need for treatment": "Acute LBP and restricted functional mobility that negatively impact physical functioning; reduced trunk and LE flexibility, ROM, and strength; poor posture, body mechanics, and ergonomics; inability to return to work and perform ADLs ",
+        "rule out": " Rule out Spinal tumors Ankylosing spondylitis Myelitis Cauda equina syndrome Referred pain from kidneys, prostate, female pelvic organs, gastrointestinal tract, pancreas, and abdominal aortic aneurysm Psychologic chronic pain syndrome",
+        "prognosis": [
+            "The prognosis in acute LBP is good, with recovery for most patients, but 10% of patients are at risk for developing chronic LBP(36)",
+            "Psychological factors such as fear avoidance and self-efficacy  may influence outcomes of patients with LBP(36) \u2013Authors of a study (N = 418) examined the role of fear-avoidance  beliefs and self-efficacy  on pain and physical functioning in patients with acute and chronic LBP receiving physical therapy(36) -At discharge from physical therapy, patients with chronic LBP had a lower functional status, lower self-efficacy  for physical function, and higher pain intensity compared to patients with acute LBP. There was no difference between groups in fear-avoidance beliefs -Self-efficacy  may be an important influence on outcomes in patients with chronic LBP. Implementing strategies to improve self-efficacy  in physical therapy may improve pain",
+            "Authors of a study (N = 85) researched military members with LBP to identify factors that help to identify patients who will have a favorable outcome. Each patient took part in an exercise program that consisted of 2\u20133 sessions weekly with a physical therapist for 6 weeks(37) \u2013Five factors helped to identify patients who were likely to have a favorable outcome: no pain when lying down, no use of antidepressants, FABQ work score \u02c2 22.5, fewer than 5 physical therapy sessions before entering the program, and less than 6 months of work restriction",
+            "In a 2012 systematic review, researchers found that the odds that adults with acute or subacute non-specific  LBP and negative recovery expectations are twice as likely to remain absent from work due to progression to chronic LBP than those with more positive expectations(12)",
+            "Researchers who conducted a review in 2013 found that LBP transitioning from acute to chronic is more closely related to demographic, psychosocial, and occupational factors than to the medical characteristics of the low back disorder itself. They recommended that these dimensions be evaluated, with the goal of identifying those patients at risk for chronicity(19)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines A multidisciplinary approach to treatment of acute LBP might include the referring physician and the consulting surgeon, a pain management specialist, a psychologist, an occupational therapist, a physical therapist, and/or a vocational rehabilitation counselor Orthopedic surgeon or neurosurgeon for consultation regarding recurrent disc herniation, spinal stenosis, or segmental lumbar instability",
+        "other considerations": [
+            "NICE clinical guidelines do not recommend the use of electrotherapies (ultrasound, percutaneous electric nerve stimulation [PENS], transcutaneous electric nerve stimulation [TENS], and interferential current) in the treatment of LBP(30)",
+            "Researchers who conducted a clinical trial in the United Kingdom found that usual chiropractic care (UCC) was equally effective as a chiropractic care protocol (CCP) based on practice guidelines in patients with acute LBP of less than 6 weeks\u2019 duration(6) \u2013One hundred eighteen participants were randomly assigned to the CCP and UCC groups \u2013Patients in each group received up to seven manipulative and manual therapy treatments over 4 weeks \u2013At 4 weeks\u2019 follow-up,  ODI scores were not significantly different between groups and patient satisfaction was equally high (85%) in both groups",
+            "While physical therapy can reduce LBP and increase function, researchers in the United States found that out-of-pocket costs negatively predict physical therapy utilization(24)",
+            "Researchers of an RCT study conducted in Korea compared the use of an intra-articular  lumbar facet joint pulsed radiofrequency to intra-articular  corticosteroid injections and concluded that both interventions can effectively reduce pain in patients experiencing lumbar facet joint pain, with the effects lasting up to 6 months(28)  \u2013Sixty patients were randomized to either the intra-articular pulsed radiofrequency group (N = 30) or intra-articular corticosteroid injections group (N = 30) \u2013Patients were given the respective treatments and were followedup at 2 weeks and 1, 3, and 6 months, using a numerical pain score"
+        ],
+        "treatment summary": [
+            "NICE guidelines for the treatment of LBP recommend:(30) \u2013Patient education: reassurance on positive outcomes, return to normal activities, and avoidance of bed rest \u2013Exercise: adapt to each patient\u2019s individual needs \u2013Manual therapy:spinal manipulation, mobilizations, and/or soft tissue mobilizations can be considered in addition to an exercise program \u2013Psychological treatments: consider approaches such as cognitive behavior therapy (CBT), but with an exercise program",
+            "Treatment techniques recommended in the Orthopedic section of the American Physical Therapy Association (APTA) current practice guidelines, based on peer-reviewed  literature, include the following:(13) \u2013Manual therapy \u2013Trunk coordination, strengthening, and endurance exercises \u2013Centralization and directional preference exercises and procedures -Flexion exercises -Extension exercises \u2013Lower-quarter  neural mobilizations \u2013Patient education and counseling \u2013Progressive endurance exercise and fitness activities",
+            "The Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration conducted a systematic review between 2005 and 2014 and created best-evidence  guidelines for managing low back symptoms, which include patient education on self-management  and return to activity(27)",
+            "Preventing acute LBP from becoming chronic is the key for all treatments. Early physical therapy interventionhas positive"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced lbp": [
+            "V AS",
+            "ODI",
+            "Pain Catastrophizing Scale(13)",
+            "Quebec Back Pain Disability Scale(13)",
+            "Orebro Musculoskeletal Pain Questionnaire(13)"
+        ],
+        "improved trunk strength": [
+            "MMT"
+        ],
+        "improved trunk and le flexibility and rom": [
+            "Goniometry",
+            "ROM measurements/flexibility reassessment"
+        ],
+        "improved posture, body mechanics, and ergonomics": [
+            "Posture reassessment"
+        ],
+        "improved gait and balance": [
+            "Balance reassessment",
+            "Gait assessment"
+        ],
+        "improved physical functioning": [
+            "FIM",
+            "RMDQ"
+        ],
+        "return to work, sport, and or recreational activity": [
+            "Improved patient satisfaction/quality of life",
+            "SF-36  Health Survey",
+            "FABQ(13)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continue exercises found effective and well tolerated to maintain optimal physical functioning(14)",
+        "Avoidance of provocative activities",
+        "Patient education(13,14,30,38)",
+        "The use of shoe insoles, rocker sole shoes, and lumbar supports is not recommended for the prevention of LBP(30)"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "McIntosh G, Hall H. Low back pain (acute). Clin Evid (Online) . 2011;pii: 1102. (SR)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Tay BKB, Freedman BA, Rhee JM, Boden SD, Skinner HB. Disorders, diseases, & injuries of the spine. Skinner HB, McMahon PJ, eds. Current Diagnosis & Treatment in Orthopedics . 6th ed. New York, NY: Lange Medical Books/McGraw-Hill;  2021. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Chou R, Fu R, Carrino JA, Deyo RA. Imaging strategies for low-back pain: systematic review and meta-analysis.  Lancet. 2009;373(9662):463-472.  (SR)"
+        },
+        {
+            "number in article": 4,
+            "reference": "In: Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:42-44,  80-82. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Lewis C, Souvlis T, Sterling M. Strain-counterstrain  therapy combined with exercise is not more effective than exercise alone on pain and disability in people with acute low back pain: a randomized trial. J Physiother . 2011;57(2):91-98.  (RCT)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Parkin-Smith  GF, Norman IJ, Briggs E, Angier E, Wood TG, Brantingham JW. A structured protocol of evidence-based  conservative care compared with usual care for acute nonspecific low back pain: a randomized clinical trial. Arch Phys Med Rehabil . 2012;93(1):11-20.  (RCT)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Cruser DA, Maurer D, Hensel K, Brown SK, White K, Stoll ST. A randomized, controlled trial of osteopathic manipulative treatment for acute low back pain in active military personnel. J Man Manip Ther . 2012;20(1):5-15.  (RCT)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Williams JM, Haq I, Lee RY. Dynamic lumbar curvature measurement in acute and chronic low back pain sufferers. Arch Phys Med Rehabil . 2012;93(11):2094-2099. doi:10.1016/j.apmr.2012.06.012. (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Williams JM, Haq I, Lee RY. The effect of pain relief on dynamic changes in lumbar curvature. Man Ther . 2013;18(2):149-154.  doi:10.1016/j.math.2012.09.004. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Rubinstein SM, Terwee CB, Assendelft WJ, de Boer MR, van Tulder MW. Spinal manipulative therapy for acute low-back pain. Cochrane Database Syst Rev . 2012; (9):CD008880. doi:10.1002/14651858.CD008880.pub2.  (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Vas J, Aranda JM, Modesto M, et al. Acupuncture in patients with acute low back pain: a multicentre randomised controlled clinical trial. Pain. 2012;153(9):1883-1889. doi:10.1016/j.pain.2012.05.033. (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Hallegraeff JM, Krijnen WP, van der Schans CP, de Greef M. Expectations about recovery from acute non-specific  low back pain predict absence from usual work due to chronic low back pain: a systematic review. J Physiother . 2012;58(3):165-172.  doi:10.1016/S1836-9553(12)7017-8.  (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Delitto A, George SZ, Van Dillen LR, et al. Low back pain. J Orthop Sports Phys Ther . 2012;42(4):A1. doi:10.2519/jospt.2012.0301. (G)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Toward optimized practice. Guideline for the evidence-informed  primary care management of low back pain. National Guideline Clearinghouse Web site. https://www.guidelinecentral.com/summaries/guideline-for-the-evidence-informed-primary-care-management-of-low-back-pain/#section-society . Published 2011. (G)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Graves JM, Fulton-Kehoe  D, Jarvik JG, Franklin GM. Health care utilization and costs associated with adherence to clinical practice guidelines for early magnetic resonance imaging among workers with acute occupational low back pain. Health Serv Res . 2014;49(2):645-665.  doi:10.1111/1475-6773.12098.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Tarantino U, Fanucci E, Iundusi R, et al. Lumbar spine MRI in upright position for diagnosing acute and chronic low back pain: statistical analysis of morphological changes. J Orthop Traumatol . 2013;14(1):15-22.  doi:10.1007/s10195-012-0213-z.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Shin JS, Ha IH, Lee J, et al. Effects of motion style acupuncture treatment in acute low back pain patients with severe disability: a multicenter, randomized, controlled, comparative effectiveness trial. Pain. 2013;154(7):1030-1037.  doi:10.1016/j.pain.2013.03.013. (RCT)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Law RK, Lee EW, Law SW, Chan BKB, Chen PP, Szeto GP. The predictive validity of OMPQ on the rehabilitation outcomes for patients with acute and subacute non-specific LBP in Chinese population. J Occup Rehabil . 2013;23(3):361-370.  doi:10.1007/s10926-012-9404-y.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Donnoli F, Azari MF. Transition from acute to chronic low back pain: a biopsychosocial perspective. Chiropr J Aust . 2013;43(3):93-98.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Rubinstein SM, Terwee CB, Assendelft WJ, de Boer MR, van Tulder MR. Spinal manipulative therapy for acute low back pain: an update of the Cochrane Review. Spine. 2013;38(3):E158-177.  doi:10.1097/BRS.0b013e31827dd89d. (SR)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Yongho C. Effects of Tai Chi on pain and muscle activity in young males with acute low back pain. J Phys Ther Sci . 2014;26(5):679-681.  doi:10.1589/jpts.26.679. (RCT)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Ohtsuki K. A 3-month follow-up study of the long-term  effects of direct stretching of the tensor fasciae latae muscle in patients with acute lumbago using a single-case  design. J Phys Ther Sci . 2014;26(5):755-758.  doi:10.1589/jpts.26.755. (C)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Foster NE, Mullis R, Hill JC, et al. IMPaCT Back Study team. Effect of stratified care for low back pain in family practice (IMPaCT Back): A prospective population-based sequential comparison. Ann Fam Md . 2014;12(2):102-111.  doi:10.1370/afm.1625. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Dolot J, Viola D, Qiuhu S, Hyland M. Impact of out-of-pocket  expenditure on physical therapy utilization for nonspecific low back pain: secondary analysis of the medical expenditure panel survey data. Physical Therapy . 2015;96(2):212-221.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Fritz J, Brennan GP, Hunter SJ. Physical therapy or advanced imaging as first management strategy following a new consultation for low back pain in primary care: Associations with future health care utilization and charges. Health Services Res . 2015;50(6):1927-1940.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Zhongju S, Hengxing Z, Lu BP, zhijian W, Xue Yao YK, Lu SF. Aquatic exercises in the treatment of low back pain: A systematic review of the literature and meta-analysis  of eight studies. Am J Phys Med Rehabil . 2018;97(2):116-122.  doi:10.1097/PHM.0000000000000801. (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Wong JJ, C\u00f4t\u00e9 P, Sutton DA, et al. Clinical practice guidelines for the noninvasive management of low back pain: a systematic review by the Ontario Protocol for Traffic Injury Management (OPTIMa) collaboration. Eur J Pain . 2017;21(2):201-216.  doi:10.1002/ejp.931. (G)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Kyung HD, Sang HA, Yun WC. Comparison of intra-articular  lumbar facet joint pulsed radiofrequency and intra-articular  lumbar facet joint corticosteroid injection for management of lumbar facet joint pain: a randomized controlled trial. Medicine. 2017;96(13):1-5.  doi:10.1097/MD.0000000000006524. (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Kim YW, Kim NY, Chang WH, Lee SC. Comparison of the therapeutic effects of a sling exercise and a traditional stabilizing exercise for clinical lumbar spinal instability. J Sports Rehabil . 2018;27(1):47-54.  doi:10.1123/jsr.2016-008.  (RCT)"
+        },
+        {
+            "number in article": 30,
+            "reference": "National Guideline Centre (UK). Low Back Pain and Sciatica in Over 16s: Assessment and Management. November 2016. (G)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Kim HS, Ciolino JD, Lancki N, et al. A prospective observational study of emergency department-initiated  physical therapy for acute low back pain. Phys Ther . 2021;101(3):pzaa219. doi:10.1093/ptj/pzaa219. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Liu X, Hanney WJ, Masarachhio M, et al. Immediate physical therapy initiation in patients with acute low back pain is associated with a reduction in downstream health care utilization and costs. Phys Ther . 2018;98(5):336-347.  doi:10.1093/ptj/pzy023. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Fritz JM, Lane E, McFadden M, et al. Physical therapy referral from primary care for acute back pain with sciatica : a randomized controlled trial. Ann Intern Med . 2021;174(1):8-17.  doi:10.7326/M20-4187.  (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Patel VD, Eapen C, Ceepee Z, Kamath R. Effect of muscle energy technique with and without strain-counterstrain  technique in acute low back pain\u2014a randomized clinical trial. Hong Kong Physiother J . 2018;38(1):41-51.  doi:10.1142/S1013702518500051. (RCT)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Arnold E, La Barrie J, DaSilva L, Patti M, Goode A, Clewley D. The effect of timing of physical therapy for acute low back pain on health services utilization: a systematic review. Arch Phys Med Rehabil . 2019;100(7):1324-1338.  doi:10.1016/j.apmr.2018.11.025. (SR)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Riley SP, Bialosky J, Coronado RA. Are changes in fear-avoidance  beliefs and self-efficacy  mediators of function and pain at discharge in patients with acute and chronic low back pain? J Orthop Sports Phys Ther . 2020;50(6):301-308.  doi:10.2519/jospt.2020.8982. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Perron M, Gendron C, Langevin P, Leblond J, Roos M, Roy JS. Prognostic factors of a favorable outcome following a supervised exercise program for soldiers with sub-acute and chronic low back pain. BMC Musculoskelet Disord . April 2, 2018;19(1):95. doi:10.1186/s12891-018-2022-x.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Oliveira CB, Maher CG, Pinto RZ, et al. Clinical practice guidelines for the management of non-specific  low back pain in primary care: an updated overview. Eur Spine J . 2018;27(11):2791-2803.  doi:10.1007/s00586-018-5673-2.  (G)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Beneciuk JM, George SZ, Greco CM, et al. Targeted interventions to prevent transitioning from acute to chronic low back pain in high-risk patients: development and delivery of a pragmatic training course of psychologically informed physical therapy for the TARGET trial. Trials. May 6, 2019;20(1):256. doi:10.1186/s13063-019-3350-3.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Qiao J, Zhang SL, Zhang J, Feng D. A study on the paraspinal muscle surface electromyography in acute nonspecific lower back pain. Medicine. 2019;98(34):e16904. doi:10.1097/MD.0000000000016904. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Stevans JM, Delitto A, Kohja SS, et al. Risk factors associated with transition from acute to chronic low back pain in US patients seeking primary care. JAMA Network Open . February 1, 2021;4(2):e2037371. doi:10.1001/jamanetworkopen.2020.37371. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Parreira P, Maher CG, Steffens D, Hancock MJ, Ferreira ML. Risk factors for low back pain and sciatica: an umbrella review. Spine J. 2018;18(9):1715-1721.  doi:10.1016/ j.spinee.2018.05.018. (RV)"
+        }
+    ]
+}

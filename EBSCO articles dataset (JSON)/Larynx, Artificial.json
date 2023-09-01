@@ -1,0 +1,268 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "electroacoustical speech aid",
+            "electrolarynx",
+            "artificial larynx",
+            "pneumatic artificial larynx"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "v oice and v oice disorders"
+        ],
+        "description": [
+            "There are two categories of artificial larynxes  electrolarynx (EL) and pneumatic artificial larynx (PAL).(1) An EL is a handheld, battery-powered  device that vibrates electromechanically.(1,2) The EL is placed against the patient\u2019s neck or inside the patient\u2019s mouth,and electronic vibrations are transformed into words within the oral cavity.(2,3) Pitch and volume settings can be personalized to each patient\u2019s preferences.(2) The EL is the most commonly used method of alaryngeal speech among laryngectomees.(4,5,6) A PAL consists of a vibratory valve inside a plastic tube, with one end placed over the patient\u2019s stoma and the other end inside the patient\u2019s mouth.(1,4) Pulmonary air is directed through the tube,and the vibrations reach the patient\u2019s mouth, where they are transformed into speech(1,4)"
+        ],
+        "indications": [
+            "An artificial larynx is indicated for a patient who has had his or her larynx removed due to laryngeal cancer or severe trauma(7): the surgery to remove the larynx islaryngectomy.(8,9)Laryngectomee is a person who has undergone laryngectomy(8): following which, a laryngectomee is unable to produce a normal voice.(10) Additionally, the person can no longer breathe through the nose or mouth, and hence breathes via a stoma in the neck(10)",
+            "For detailed information on laryngectomy, see Clinical Review\u2026Laryngectomy, Partial ; CINAHL Topic ID Number: T708836and Clinical Review\u2026Laryngectomy, Total ; CINAHL Topic ID Number: T708744"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/ episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/ outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {
+            "code": "L8500",
+            "description": ""
+        },
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement have been identified Indications for device/equipment"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Communicate with the patient\u2019s physician to determine if it is safe to palpate the patient\u2019s neck or if a neck placement EL can be trialed during the examination"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "In what manner did the patient lose his or her larynx? Was this a total or partial laryngectomy to treat cancer? Was this because of trauma?",
+                "course of treatment": {
+                    "medical management": "Note whether the patient has received or is currently receiving radiation therapy, chemotherapy, or both for cancer",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether the patient has had occupational, physical therapy, or speech therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Use of the EL might be easier or more difficult depending on factors related to the patient\u2019s underlying diagnosis or any comorbid conditions (e.g., cognitive impairment, arthritis). It is important to consider the time that has elapsed since the patient\u2019s most recent chemotherapy or radiation therapy treatment due to the potential for pain",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms, which can include assessment of secretions and secretion management from stoma, pulmonary function, and changes in smell or taste(10)",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "Document any other symptoms patient is experiencing that could exacerbate the condition and/or symptoms that would need a referral to a physician",
+                "respiratory status": "The patient might require supplemental oxygen. Does the patient have difficulty breathing through the stoma? Note stomal competency, skin breakdown, or excessive secretions. Does the patient use heat and moisture exchanger (HME)?(10)The laryngectomee population is at significant risk for depression due to grieving the loss of previous life and function.(5,12,13) It is important to assess how well the patient is coping with this significant change and to make referrals to a mental health professional if necessary(13)A patient self-report  inventory that contains 30 statements evaluating a patient\u2019s judgment regarding the impact of the voice disorder on daily activities. It is frequently used as a baseline measure and a measure of the effectiveness of a specific treatment(14)A 10-item  instrument designed to measure the degree of impact that a voice disorder has on a patient\u2019s quality of life(22) Document hearing abilities, including the history of hearing loss and use of hearing aids Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has the patient ever used an artificial larynx before? Has the patient used another form of alaryngeal communication such as esophageal speech or tracheoesophageal speech?",
+                    "comorbid diagnoses": "Ask the patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask the patient about other symptoms he or she is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "(Include limitations with self-care, home management, work, community, leisure.) Does the patient require a hearing aid? If so, is it in good working order? Does the patient wear glasses? Does the patient require a cane or walker?",
+                "living environment": "With whom does patient live (e.g., caregivers, family members)? Identify if there are barriers to independence in the home and if any modifications are necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Document use of assistive or adaptive equipment for communication. Laryngectomees might already be utilizing an alternative method of communication, such as pen and paper(5)",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "Is the patient able to care for his or her artificial larynx? Can the patient adequately care for his or her stoma? The patient should use swabs or washcloths daily to wipe the skin around the stoma and the artificial larynx to prevent the crusty buildup of mucus or blood. Some patients who produce a lot of secretions require suctioning devices. Refer the patient to his or her physician and/or occupational therapy if the patient appears to have an excessive buildup of secretions or reports difficulty cleaning the stoma or artificial larynx",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "Complete a full oral motor evaluation to determine strength/function of oral motor mechanism. The articulators (tongue, lips, teeth) need to function normally for a laryngectomee to produce intelligible speech with an artificial larynx(5,8,10,18)",
+            "perception": "",
+            "arousal attention cognition": "It is important to assess cognitive abilities in patients who have undergone laryngectomy to determine the most appropriate voice substitution method.(15) Using an artificial larynx requires patients to manage timing, placement, and exaggerated articulation simultaneously. The Mini-Mental  State Examination (MMSE) is an appropriate assessment tool to screen for arousal, attention, and otherorientation to time, orientation to place, registration, attention and calculation, recall, naming, repetition, comprehension, reading, writing, and drawing(16)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [],
+            "general": "Following an evaluation of the patient, the SLP and the patient must decide together"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "Referral should be made to psychology or psychiatry if signs of depression or grieving are noted.(15) In case of stomal stenosis or difficulty breathing, refer the patient to his or her ENT surgeon for revision of the stoma.(17) For patients who have very stiff neck tissue and musculature, resulting in difficulty achieving vibration via the neck, referral to physical therapy might be appropriate",
+        "other considerations": [],
+        "treatment summary": [
+            "Improving the intelligibility and \u201cacceptability\u201d of artificial larynx speech \u2013In a study conducted in the United States, researchers were able to improve EL speech intelligibility by wrapping a 1-inch thick foam around the EL(19) -Although the foam reduced the EL\u2019s noise interference, it created a larger and more awkward device for the user \u2013A new EL is being developed that uses a force sensor to allow the patient to alter intonation and contrastive stress in conversation(12) \u2013In a study conducted in China of aerodynamic characteristics of laryngectomees, results indicated that the \u201cacceptability\u201d of EL speech according to listener ratings was the highest when patients held their breath while speaking(1) -Laryngectomees who naturally held their breath during the speech had been using the EL for the longest period. Those laryngectomees who did not do this naturally were trained to do so by the researchers(1) \u2013In a case study conducted in France, researchers reported on an implantable artificial larynx. Following total laryngectomy for laryngeal cancer, the permanent tracheal prosthesis was implanted via cervicotomy, and 4 months later a removable portion of the artificial larynx valve system was implanted via endoscopy. The permanent portion of the implantable larynx did not interfere with swallowing, and the patient continued to be able to eat by mouth. The removable portion allowed the patient to speak in a whisper voice when the stoma was occluded manually. The removable portion also caused mild dysphagia, for which therapy was provided(21) \u203aSee Description and Indications of device/equipment and Guidelines for use of device/equipment , above . Problem Goal Intervention Expected Progression Home Program  Lack of voice Patient will position the artificial larynx in the proper place on the neck or intraorally to achieve an optimal vibratory source for voicing(4)Prescription, application of devices and equipment",
+            "Initially, finding the best place for either an intraoral artificial larynx or a neck placement EL is accomplished by trial and error(4)",
+            "For intraoral devices, generally, the best place is behind the patient\u2019s lips, off of the tongue and to the side of the mouth as not to interfere with articulation(4)",
+            "The placement of the EL on the neck differs for each person; generally, the head of the EL is placed on the neck directly below the jaw(19)",
+            "The therapist should palpate the patient\u2019s neck to find the most malleable and/or flexible part of the neck that is likely to create the best source of vibration",
+            "The neck-placement EL must be held tightly against the neck for optimum energy transfer(19)At first, the therapist might place the artificial larynx before attempting speech; as sessions progress, the patient will start to know where the best vibration is achieved and eventually he or she will place the artificial larynx in the correct position every time without cues or assistanceArtificial larynxes may be used while the patient is an inpatient and as an outpatient at home. The SLP will determine an appropriate home program for artificial larynx use. Eventually, the artificial larynx will be used in all communicative settings  Lack of voice Patient will time the initiation of electrolarynx vibration with start of articulatory movementsPrescription, application of devices and equipment",
+            "Poor intelligibility with ELs is often associated with incorrect timing of the vibration. The message is degraded if the vibration starts before the patient begins articulating or continues after the patient stops articulating. This is not usually an issue with PALs because the person\u2019s breath provides the vibration source for speech. The therapist trains the patient to push the button on the EL at the same time as he or she starts moving his or her lips to speak. (**This intervention is based on the author's experience as an SLP practicing in acute and acute rehab settings during 2005-2015)",
+            "If the patient has the opportunity to be trained with an EMG- controlled EL, the timing of vibration onset and therefore speech intelligibility may be improved as it creates an articulatory- coordinated voice onset(6) (e.g., the movement of the muscles that initiate articulation also turn on the EL vibratory source)At first, the therapist will demonstrate the timing of the EL by using the device him- or herself. As sessions progress, the patient will become more skillful with the timing of the vibratory source and eventually he or she will start the vibration at the correct time every time without cues or assistanceArtificial larynxes can be used while the patient is an inpatient and as an outpatient at home. The SLP will determine an appropriate home program for artificial larynx use. Eventually, the artificial larynx will be used in all communicative settings  Lack of voice Patient will exaggerate articulation to increase intelligibility of speech with artificial larynx(20)Prescription, application of devices and equipment",
+            "Because the vibratory source from artificial larynxes is not as natural sounding as the human voice, exaggerated articulation is required on behalf of the patient to produce intelligible speech(20)",
+            "The SLP will educate the patient on how to slow the rate of speech and make appropriately exaggerated articulatory movements(20)",
+            "The patient then practices exaggerated articulatory movements in syllables, with word lists, sentences, and eventually conversational speechThe patient learns the articulatory movements with visual, verbal, and placement cues. The patient will master each sound at the syllable, word, sentence, and conversational level with the therapist\u2019s guidanceArtificial larynxes can be used while the patient is an inpatient and as an outpatient at home. The SLP will determine an appropriate home program for artificial larynx use. Eventually, the artificial larynx will be used in all communicative settings  Lack of voice Patient will hold his or her breath while speaking via electrolarynx to improve \u201cacceptability\u201d of speech(1)Prescription, application of devices and equipment",
+            "In a study conducted in China of aerodynamic characteristics of laryngectomees, results indicated that the \u201cacceptability\u201d of EL speech according to listener ratings was the highest when patients held their breath while speaking(1)",
+            "Laryngectomees who naturally held their breath during speech had been using the EL for the longest period. Those laryngectomees who did not do this naturally were trained to do so by the researchers(1)The patient will master the breath- holding technique at the syllable, word, sentence, and conversational level with the therapist\u2019s guidanceArtificial larynxes may be used while the patient is an inpatient and as an outpatient at home. The SLP will determine an appropriate home program for artificial larynx use. Eventually, the artificial larynx will be used in all communicative settings  Unnatural or unintelligible sounding speech with ELIncrease voice and speech intelligibility of EL userSpeech intelligibility strategies with artificial larynxes",
+            "The sound source from an EL is often degraded due to radiated noise generated by the EL(2,7)",
+            "Contextual cues have been shown to aid listener comprehension of speech with an artificial larynx;(3) the therapist may train the patient to use gestures, writing, or keywords to improve speech intelligibility",
+            "Lack of pitch information has been shown to contribute significantly to the poor quality of EL speech;(7) the therapist can train the patient to utilize the pitch- altering switch on the ELProgression will vary according to the individual patient\u2019s goals; in general, use of speech intelligibility strategies begin in the most simple context (i.e., words) and progress towards conversation-level speechArtificial larynxes may be used while the patient is an inpatient and as an outpatient at home. The SLP will train the patient to use appropriate speech intelligibility strategies at home and in the community ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "ability to communicate with a functional voice": [],
+        "reintegration into the speaking community": [],
+        "improved quality of life": [
+            "VHI(14)",
+            "V-RQOL(22)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Artificial larynxes must be kept clean to stay in proper working order. Patients who have excessive stomal secretions should clean their artificial larynx devices more often",
+        "ELs require battery power; to ensure the EL is working at its optimal capacity, change the batteries per manufacturer guidelines(1,2)"
+    ],
+    "patient education": [
+        "Laryngectomees can find support and resources, as well as assistance to develop or improve alaryngeal speech, from the International Association of Laryngectomees, https://www.theial.com/",
+        "WebWhispers is an international Internet support group for laryngectomees, http://www.webwhispers.org/index.asp  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Liu H, Wan M, Wang S, Niu H. Aerodynamic characteristics of laryngectomees breathing quietly and speaking with the electrolarynx. J Voice. 2004;18(4):567-577.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Liu H, Ng ML. Electrolarynx in voice rehabilitation. Auris Nasus Larynx . 2007;34(3):327-332.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Liu H, Wan M, Wang S. Features of listeners affecting the perceptions of Mandarin electrolaryngeal speech. Folia Phoniatr Logop . 2005;57(1):9-19.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Stajner-Katusic  S, Horga D, Musursa M, Globlek D. Voice and speech after laryngectomy. Clin Linguist Phon . 2006;20(2-3):195-203.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Ahern R, Lippincott LH, Wisdom G. Voice rehabilitation after laryngectomy: an overview. J La State Med Soc . 2002;154(3):118-120.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Goldstein EA, Heaton JT, Stepp CE, Hillman RE. Training effects on speech production using a hands-free  electromyographically controlled electrolarynx. J Speech Lang Hear Res. 2007;50(2):335-351.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Meltzner GS, Hillman RE. Impact of aberrant acoustic properties on the perception of sound quality in electrolarynx speech. J Speech Lang Hear Res . 2005;48(4):766-779.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Smithwick L, Davis P, Dancer J, Hicks G, Montague J. Female laryngectomees' satisfaction with communication methods and speech-language  pathology services. Percept Mot Skills . 2002;94(1):204-206.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Blom ED. Current status of voice restoration following total laryngectomy. Oncology (Williston Park) . 2000;14(6):915-922,  927-928, 931. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hilgers FJ, Ackerstaff AH. Comprehensive rehabilitation after total laryngectomy is more than voice alone. Folia Phoniatr Logop . 2000;52(1-3):65-73.  (G)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Kearney A. Nontracheoesophageal speech rehabilitation. Otolaryngol Clin North Am . 2004;37(3):613-625.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Choi HS, Park YJ, Lee SM, Kim KM. Functional characteristics of a new electrolarynx \"Evada\" having a force sensing resistor sensor. J Voice. 2001;15(4):592-599.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Fox LE, Rau MT. Augmentative and alternative communication for adults following glossectomy and laryngectomy surgery. AAC Augment Altern Commun . 2001;17(3):161-166. (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Moerman M, Martens JP, Dejonckere P. Application of the Voice Handicap Index in 45 patients with substitution voicing after total laryngectomy. Eur Arch Otorhinolaryngol . 2004;261(8):423-428.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Ho TP, Gray J, Ratcliffe AA, Rees S, Rockey J, Wight R. Does cognitive function influence alaryngeal speech rehabilitation?. Head Neck . 2006;28(5):413-419.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-mental  state\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Paleri V, Wight RG, Owen S, Hurren A, Stafford FW. Defining the stenotic post-laryngectomy  tracheostoma and its impact on the quality of life in laryngectomees: development and validation of a stoma function questionnaire. Clin Otolaryngol . 2006;31(5):418-424.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Perry AR, Shaw MA, Cotton S. An evaluation of functional outcomes (speech, swallowing) in patients attending speech pathology after head and neck cancer treatment(s): results and analysis at 12 months post-intervention.  J Laryngol Otol . 2003;117(5):368-381.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Norton RL, Bernstein RS. Improved Laboratory Prototype Electrolarynx (LAPEL): using inverse filtering of frequency response function of the human throat. Ann Biomed Eng . 1993;21(2):163-174.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Jensen KM. The electrolarynx. North Texas Laryngectomy Society Web site. http://www.practicalslpinfo.com/the-electrolarynx.html . Accessed August 13, 2018. (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Debry C, Dupret-Bories  A, Vrana NE, Hemar P, Lavalle P, Schultz P. Laryngeal replacement with an artificial larynx after total laryngectomy: the possibility of restoring larynx functionality in the future. Head Neck . November 2014;36(11):1669-73.  doi:10.1002/hed.23621. (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Cox SR, Doyle PC. The influence of electrolarynx use on postlaryngectomy voice-related  quality of life. Otolaryngol Head Neck Surg . 2014;150(6):1005-1009.  (R) "
+        }
+    ]
+}

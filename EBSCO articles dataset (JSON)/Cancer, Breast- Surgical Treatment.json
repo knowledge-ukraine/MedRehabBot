@@ -1,0 +1,352 @@
+{
+    "metadata": {
+        "title": "Breast Cancer  Surgical Treatment",
+        "synonyms": [
+            "carcinoma of the breast  surgical treatment",
+            "malignant neoplasm of the breast: surgical treatment",
+            "breast cancer surgery"
+        ],
+        "anatomical location body part affected": [
+            "Breast"
+        ],
+        "area of specialty": [
+            "women\u2019s health",
+            "orthopedic rehabilitation",
+            "oncology",
+            "acute care"
+        ],
+        "description": [
+            "Breast cancer is a malignant disease of the breast tissues that occurs almost exclusively in women\u2014males account for only 1% of cases.(5) It is the most common cancer in women worldwide and is second to lung cancer as the leading cause of cancer death in women(3)",
+            "Types of breast cancer \u2013In situ (non-metastasizing  tumors) -Ductal carcinoma in situ (DCIS) \u2013 noninfiltrating (noninvasive) carcinoma(1,7) -Proliferation of malignant-appearing  mammary duct epithelial cells without evidence of invasion beyond the basement membrane -15% to 30% of cancers detected in mammography screening are DCIS -DCIS can present as a palpable or nonpalpable mass, or more commonly as calcifications detected on mammogram -A problem in the management of DCIS is that it is not possible to determine which DCIS will progress to invasive carcinoma during a woman\u2019s lifetime -Several classification schemes for DCIS have been developed, but none has been found satisfactory for predicting invasive carcinoma -Lobular carcinoma in situ (LCIS) \u2013 noninfiltrating carcinoma(7) -An alteration of lobular cytology, sometimes included with similar but less well-developed lesions as atypical lobular hyperplasia (ALH) -Historically LCIS has been thought to be a precursor lesion of invasive cancer and so treatment with mastectomy typically is recommended -Incidence of subsequent invasive lobular carcinoma is substantially increased compared with women without LCIS; however, the subsequent cancers are more often invasive ductal carcinoma than invasive lobular carcinoma \u2013Invasive (infiltrating) breast cancers \u2013 classification is based on the growth pattern and cytological features of the invasive tumor cells. WHO\u2019s classification system recognizes invasive ductal and lobular carcinomas; however, this does not mean that one arises from ducts and the other from lobules, as most invasive breast cancers originate in the terminal duct-lobule  unit(7) -Invasive ductal carcinoma \u2013 the most common (histologically) type of breast cancer \u201370\u201380%  of patients with breast cancer have this type(7) -This is a diagnosis of exclusion, meaning that none of the other special categories of invasive tumor cells (examples listed below) applies -Invasive lobular carcinoma \u2013 ~10% of patients with breast cancer have this type(7) -Invasive medullary carcinoma(7)  -Invasive tubular carcinoma(7) -Invasive mucinous carcinoma(7) \u2013Locally advanced breast cancer (LABC) and inflammatory breast cancer (IBC) \u2013 make up 2\u20135%  of all breast cancers(7) -IBC is an aggressive variant of LABC, characterized by diffuse erythema and edema, often without a discrete mass",
+            "Surgical treatment of breast cancer \u2013Breast-conserving  surgery \u2013 has been shown, in several large randomized clinical trials, to result in survival rates similar to those for patients who undergo modified radical mastectomy(3) -Lumpectomy \u2013 surgeon excises tumor and minimal healthy tissue surrounding lesion; may also include a lymph node dissection(1) -Partial mastectomy or segmental mastectomy \u2013 portion of the breast is removed that encompasses cancerous tissue as well as margin of typical tissue surrounding cancerous area; may also include a lymph node dissection(1) -Quadrantectomy \u2013 type of partial mastectomy; excision of the tumor and surrounding breast tissue to provide an adequate surgical margin from cancer cells with axillary dissection(2) \u2013Total mastectomy (or complete or simple mastectomy)\u2013  entire breast is surgically removed; may also include a lymph node dissection(1) \u2013Modified radical mastectomy \u2013 entire breast is surgically removed along with numerous lymph nodes in axilla, fascia over pectoralis muscles, and at times a portion of pectoralis muscles(1) \u2013Radical mastectomy or Halsted radical mastectomy \u2013 similar to a radical mastectomy but encompasses all of the lymph nodes in the axilla and entire pectoralis muscle(1) \u2013Skin-sparing  mastectomy \u2013 currently the treatment of choice in most medical centers for loco-regional  control of large or multifocal tumors.(#) Involves total resection of the breast gland with removal of an ellipse of skin incorporating the nipple-areolar  complex \u2013Nipple-sparing  mastectomy (NSM) as a therapeutic or prophylactic procedure is gaining popularity(#) -Authors of a retrospective chart review on patients undergoing NSM or skin-sparing  mastectomy in the United States from 2005 to 2011 indicate that NSM does not increase the risk of recurrence or decrease survival(10) -One hundred thirty patients who underwent an NSM and 131 patients who underwent a skin-sparing mastectomy for either breast cancer or prophylaxis were included -There was no difference in survival or cancer recurrence between the groups \u2013Breast reconstruction -Patient may undergo the procedure during mastectomy or at a later date(1) -Reconstruction may involve implantation of a prosthesis or muscle and/or fat tissue from another part of the patient\u2019s body (autologous reconstruction) to supplement the breast tissue removed during the mastectomy(3) -Examples of tissues used during breast reconstructions include the TRAM (transversus abdominis myocutaneous) flap, the latissimus, the gluteus maximus, and the gracilis(3) -The two-stage  tissue expander/implant reconstruction is currently the gold standard for implant-based immediate breast reconstruction -Reconstruction may require several surgeries done over a period of months to as long as 1 year",
+            "This Clinical Review provides a general overview of surgical treatment of breast cancer. Please see also the following related Clinical Reviews for more detail: \u2013Clinical Review\u2026Lymphedema Following Surgical Treatment for Breast Cancer ; CINAHL Topic ID Number:T709193 \u2013Clinical Review\u2026Breast Cancer: Breast-Conserving Surgery ; CINAHL Topic ID Number:T708759 \u2013Clinical Review\u2026Post-Mastectomy ; CINAHL Topic ID Number: T708563 \u2013Clinical Review\u2026Breast Cancer and Exercise ; CINAHL Topic ID Number:T902530 \u2013Clinical Review\u2026Cancer-Related  Fatigue and Exercise ; CINAHL Topic ID Number:T709184"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "C50": {
+                "base": "malignant neoplasm of breast",
+                "C50.0": "nipple and areola",
+                "C50.1": "central portion of breast",
+                "C50.2": "upper-inner quadrant of breast",
+                "C50.3": "lower-inner quadrant of breast",
+                "C50.4": "upper-outer quadrant of breast",
+                "C50.5": "lower-outer quadrant of breast",
+                "C50.6": "axillary tail of breast",
+                "C50.8": "overlapping lesion of breast",
+                "C50.9": "breast, unspecified",
+                "ICD-10-CA": "modification in Canada: code range C50.0\u2013C50.9 subdivided and fourth digit added to identify",
+                "0": " 0 right",
+                "1": " 1 left",
+                "9": " 9 unspecified side"
+            },
+            "D05": {
+                "base": "carcinoma in situ of breast",
+                "D05.0": "lobular carcinoma in situ",
+                "D05.1": "intraductal carcinoma in situ",
+                "D05.7": "other carcinoma in situ of breast",
+                "D05.9": "carcinoma in situ of breast, unspecified"
+            },
+            "R92": "abnormal findings on diagnostic imaging of breast",
+            "Z80.3": "family history of malignant neoplasm of breast",
+            "Z85.3": "personal history of malignant neoplasm of breast",
+            "Z90.1": "acquired absence of breast (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. In the United States, the Women's Health and Cancer Rights Act (WHCRA) of 1998 mandates that all medical insurance providers, including Medicare, cover breast reconstruction after mastectomy. Under this law, benefits must also cover treatment of any physical complications at all stages of mastectomy, including lymphedema(9)"
+        ],
+        "presentation signs and symptoms": [
+            "Following surgery, the patient may experience the following:(4) \u2013Chest wall adhesions \u2013Deep vein thrombosis (DVT) \u2013Pneumonia \u2013Lymphedema \u2013Axillary web syndrome (lymphatic cording) \u2013Pain in the shoulder and cervical muscles \u2013Pain on and around incision \u2013Postural deviations \u2013Prolonged healing of surgical site secondary to radiation therapy \u2013Psychological impact \u2013Reduced endurance \u2013Reduced upper extremity and trunk strength \u2013Limited use of affected arm (often secondary to pain) \u2013Seroma (fluid collection under the skin) -Seroma formation is the most common postoperative complication following breast cancer surgery(20) -It is not usually serious -May predispose to surgical site infection, skin flap dehiscence or necrosis, and delayed recovery time Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Clinician should confirm and follow any physician orders/restrictions, including those with regard to lifting/straining",
+            "Clinician should ensure the involved upper extremity is not placed in a dependent position for extended periods(4)",
+            "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+            "Patient is at increased risk for DVT; monitor for signs and symptoms and, if suspected, refer back to physician"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Most often breast cancer is of ductal origin(19)",
+            "Inherited BRCA1 gene or BRCA2  gene mutation(3) or other, rarer, inherited gene mutation"
+        ],
+        "pathogenesis": [
+            "The exact mechanism of carcinogenesis is not fully understood. One theory is that breast cancer is caused in many casesby interactions between ovarian estrogen, nonovarian estrogen, and estrogens of exogenous origin and susceptible breasttissue(5)"
+        ],
+        "risk factors:  for a better estimate of risk, visit the u.s. national cancer institute\u2019s website  https:  www.cancer.gov   and view the breast cancer risk assessment tool  https:  bcrisktool.cancer.gov": []
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Postoperatively, patients often experience pain at the incision site, in the shoulder girdle, and in the posterior cervical muscles. Pain may be the result of tension along the incision or spasms resulting from muscle guarding. This pain can lead to decreased use of the upper extremity and subsequent capsular restrictions and/or lymphedema(2)",
+        "After breast surgery, the patient should be encouraged to:(4) take breaks when traveling for extended distances (e.g., getting out of the car and ambulating a bit is helpful in promoting circulation) support the extremity during travel as able keep sodium ingestion to a minimum and strive to maintain ideal body weight don compression garments prior to exercise have blood pressure (BP) taken on the uninvolved arm monitor skin closely and attend to blisters, burns, insect bites, cuts, or abrasions keep skin clean and avoid lotion with perfume safeguard hands and feet with socks or hose, gloves, oven mitts, and properly fitting shoes be careful when trimming nails and when shaving use an electric razor wear sun-protective  clothing outdoors avoid waxing and electrolysis ",
+        "The patient should not:(4) wear restrictive clothing or tight jewelry use local heat or spend time in hot environments use heavy weights with exercise participate in vigorous activity with the involved extremity allow blood draws or BP to be taken in the involved extremity, as able allow skin contact with harsh chemicals/detergents raise the body\u2019s core temperature (in whirlpools, saunas, or hot baths) maintain fixed and dependent positions of the legs cross lower extremities while sitting",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Clinician should confirm and follow any physician orders/restrictions, including those with regard to lifting/straining",
+            "Clinician should ensure the involved upper extremity is not placed in a dependent position for extended periods(4)",
+            "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+            "Patient is at increased risk for DVT; monitor for signs and symptoms and, if suspected, refer back to physician"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was breast cancer diagnosed in the patient and what type of breast cancer? Was there lymph involvement or metastatic lesions? Was there surgical intervention for the treatment of breast cancer, with or without reconstruction? Have there been any complications up to this point?",
+                "course of treatment": {
+                    "medical management": "Determine the patient\u2019s specific course of medical management. This may include surgery, radiation therapy, chemotherapy, and/or hormone therapy(1) Authors of a 2020 systemic review and meta-analysis  found that a pectoral nerve block (Pecs) in combination with general anesthesia can result in lower pain scores and less opioid consumption for patients who are undergoing breast cancer surgery(13) Based on 13 RCTs in which 940 patients were included in the study",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken? If taken for symptom control, does the patient feel they are effectively controlling symptoms? Administering gabapentin prior to breast cancer surgery has been shown to reduce acute and chronic postoperative pain, overall total morphine consumption, and feelings of nausea in patients following breast cancer surgery(18)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Plain X-rays,  mammography, ultrasound, CT scan, biopsy, bone scan, MRI"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Document any activities, positions, etc., that aggravate or ease the patient\u2019s symptoms following surgery",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night. If the patient has shoulder dysfunction, is there pain at night? Is the patient able to find a comfortable sleeping position? ",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician, including warmth, redness, and pain in the breast and surrounding tissue indicative of infection or cellulitis. Document any signs of lymphedema, including increased size of the extremity, tautness of skin, decreased ROM, and stiffness in the hand(2)",
+                "respiratory status": "Is there any respiratory compromise? Does the patient require the use of supplemental oxygen? The patient is at heightened risk for developing pneumonia due to postoperative pain and limited general mobility early on(4) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has breast cancer previously been diagnosed in the patient? Or another type of cancer? Does the patient have a history of shoulder dysfunction? Does the patient have any history of neck dysfunction? Any radiating pain into shoulder or arm?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Note hand dominance. What do patient\u2019s job, recreational, and/or household responsibilities require?",
+                "functional limitations assistance with ADLs adaptive equipment": "Did the patient previously utilize assistive/adaptive equipment?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) Complete a general assessment as indicated with a focus on the items listed below",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013May take circumferential forearm measurements 5 cm and 10 cm below distal border of lateral epicondyle of humerus to assess for lymphedema \u2013V olume measurements are an alternative to girth measurements. The involved extremity is immersed in a tank of water up to an anatomical landmark and the volume of water displaced is measured(4) \u2013Measure height and weight and calculate BMI",
+            "assistive and adaptive devices": "",
+            "balance": "Assess static and dynamic balance in sitting and standing",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "Note gait deviations, need for assistance, and need for assistive device. Observe posture with ambulation. Forward shoulders are common in postsurgical patients who are trying to avoid pain and a sensation of skin tightness.(2) Assess safety with Dynamic Gait IndexAssess mobility of cervical and thoracic spines, scapulae, and glenohumeral joints as indicatedAssess upper and lower extremity coordination as appropriate  \u2013Observe scapulohumeral rhythm and scapular kinematics during upper extremity motion (during exercises and functional activities) and note any dyskinesis",
+            "muscle strength": "If cleared by surgeon, perform manual muscle test (MMT) for all shoulder motions. Assess overall bilateral upper extremity strength and trunk/abdominal strength. Assess grip strength using hand-grip  dynamometer",
+            "observation inspection palpation including skin assessment": [
+                "Visually inspect and palpate the skin of the affected extremity",
+                "Note changes in the skin, wounds, scars, and color. Document size, location, and mobility of scars. A photograph may be useful(4)",
+                "Assess incision site and observe scar for adhesion or keloid formation",
+                "Document presence of edema and assess for pitting(4)",
+                "Inspect for signs and symptoms of DVT"
+            ],
+            "posture": "Assess for postural deviations. Shoulder protraction and thoracic rounding (flexion) are common postoperatively. The patient may also experience asymmetrical positioning of the scapula and trunk(4)",
+            "range of motion": "Assess PROM in cervical spine, trunk, and upper extremities. Shoulder ROM limitations are common following operative management in patients with breast cancer(4)",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess deep tendon reflexes in biceps and brachioradialis muscle tendons and triceps muscle tendonItems to test include combing hair, brushing teeth, and fastening a bra hook. Note ability to perform independently.",
+            "sensory testing": "Evaluate light touch, two-point discrimination, and proprioception; compare to noninvolved extremity. Sensation can be affected by surgery \u2013There is a loss of sensation on the chest wall in 100% of total mastectomy patients(7) -Many women regain some feeling as nerves regenerate. This is more likely to occur with tissue flaps than with implants -Typically, the front of the breast remains numb, with sensation being regained primarily in the outer perimeters of the breast",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure \u2013Quality of life questionnaire (e.g., SF-36) \u2013Functional Assessment of Cancer Therapy for Breast Cancer (FACT-B)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Cardiac arrhythmias may develop following chemotherapy; avoid aerobic activity for 12 days post treatment(4)"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [
+                "In some cases, when approved by the treating physician, electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk(8) -Stimulation through or across the chest -Cardiac pacemakers -Implanted stimulators -Over carotid sinuses -Uncontrolled hypertension/hypotension -Peripheral vascular disease -Thrombophlebitis -Pregnancy  -Over pharyngeal area -Diminished sensation -Acute inflammation -Seizure history -Confused patients -Immature patients -Obesity -Osteoporosis -Cancer -Used in close proximity to diathermy treatment",
+                "Uncontrolled seizure activity",
+                "Unstable medical conditions",
+                "Severe cardiac precautions",
+                "Acute fever",
+                "Infectious diseases",
+                "Upper respiratory infections",
+                "Severe mental disorders",
+                "Severe pulmonary conditions (e.g., vital capacity < 1 L)",
+                "Behavior that creates safety concerns",
+                "Phobia of water",
+                "Open wounds (without proper occlusive dressings)",
+                "Incontinence",
+                "Skin infections",
+                "Severe peripheral vascular disease",
+                "Risk of hemorrhage",
+                "Severe renal disease",
+                "Pregnancy",
+                "Compromised cardiovascular system",
+                "Severe/chronic ear infection",
+                "Open wounds",
+                "COPD",
+                "Any over-ground  exercise precaution"
+            ],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital as well as the physician\u2019s orders. The treatment summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "When drains are in place, ROM typically should not surpass 90\u00b0 of shoulder flexion/abduction(4)",
+                "Observe the incision and sutures during exercise. Avoid tension on the incision or blanching of the scar during shoulder ROM(4)",
+                "Lymphedema therapy should be discontinued if arm circumference or pain increases. For more detailed information, see Clinical Review\u2026Lymphedema ; CINAHL Topic ID Number: T708532",
+                "Electrotherapy  contraindications/precautions",
+                "Contraindications to  aquatic therapy  (8)",
+                "Precautions for pool-based  hydrotherapy"
+            ]
+        },
+        "diagnosis need for treatment": "Surgical intervention for the treatment of breast cancer may lead to numerous musculoskeletal impairments, culminating in a loss of function that can be addressed by physical therapy It is physically and psychologically beneficial that patients return to presurgical function as quickly as possible. Physical therapy can play a key role in the postsurgical functional outcomes of breast cancer patients through various interventions(2)",
+        "rule out": "N/A",
+        "prognosis": [
+            "The greatest risk of recurrence is within the first 5 years after breast cancer diagnosis; however, women remain at risk for many years after treatment(7)",
+            "Breast cancer occurring during pregnancy has a poorer prognosis, in part because the diagnosis frequently is delayed if pregnancy-related  changes in the breast obscure the lesion and screening mammography is not done in young or pregnant women(3)",
+            "Mastectomy is considered a safe procedure(7) \u201330-day  mortality in women of all ages is less than 1% \u2013Major complications are infrequent"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Oncologist \u2013 refer back to oncologist as indicated for new symptoms Occupational therapist \u2013 for a decline in ADLs  Psychologist \u2013 as requested by patient or indicated by patient\u2019s demeanor Breast cancer support groups Pain management",
+        "other considerations": [
+            "Based on a systematic review and meta-analysis,  acupuncture therapy can reduce breast-cancer-related  lymphedema in patients who have recently undergone breast cancer surgery(16)"
+        ],
+        "treatment summary": [
+            "Clinical practice guidelines have been formulated by the American Physical Therapy Association for breast-cancer-related lymphedema(17) \u2013Early postoperative care -Resumption of activity should be coordinated with the interdisciplinary care team. Individualized exercise activity can be increased as patient tolerated, while monitoring for any adverse effects -Compression garments should be fitted for patients with a high risk of developing lymphedema. Upper extremity exercises in combination with diaphragmatic breathing may help reduce lymphedema \u2013Exercise for individuals with an International Society of Lymphology (ISL) score of 0 (Subclinical Phase) -For those who are in the subclinical phase of lymphedema -Subclinical is defined as disease that is not considered severe enough or presenting with any observable symptoms -Progressive resistance training exercises are considered safe and should be initiated no later than 1-month  postsurgery -An individualized aerobic exercise program should be performed -Assess exercise tolerance and capacity weekly and monitor for adverse effects \u2013Interventions recommended for those with ISL Stage I (Early Lymphedema) -Patients should be properly fitted with a compression garment. Exercise should be individually tailored \u2013Interventions for individuals with breast-cancer-related lymphedema -If early signs of lymphedema are present, patients should be properly fitted for a compression garment and given an appropriate exercise program \u2013For moderate to late stages of lymphedema (ISL stages II and III) -Stage II is defined as moderate lymphedema -Stage III is defined as having late stages of lymphedema -Compression bandages and exercises should be performed -Kinesiology tape can be applied but should not replace compression garments. Observe for any adverse effects associated with kinesiology tape application",
+            "Self-performed  manual lymphatic drainage (MLD) should be initiated once an appropriate stable volume reduction is achieved in the upper extremity. Continue using compression garment and exercise as appropriate",
+            "Complete decongestive physical therapy (CDT) \u2013Considered the gold standard for lymphedema management. CDT can be divided into 2 phases -Phase I \u2013 decrease swelling in the limb to its normal size as much as possible while maintaining healthy skin tissue. Has 4 components -Manual lymph drainage (MLD) -Compression therapy -Exercise -Skin care -Phase II \u2013 goal is to preserve the results from phase I. Has 4 components -MLD -Compression therapy -Exercise -Skin care \u2013The overall goal is to improve drainage of the obstructed areas by pushing the fluids to unobstructed areas(4) \u2013Complete decongestive therapy (CDT) combined with a home exercise program resulted in significant improvements in the DASH questionnaire and a reduction in pain compared to a conventional physical therapy program(11) -Based on an RCT conducted in Saudi Arabia -The study included 60 postmastectomy patients randomized to either the CDT with home exercise group or conventional physical therapy group  -Patients in the CDT group received MLD, performed remedial exercises, donned a compression garment for 23 hours, and participated in a home exercise program -Patients in the conventional physical therapy group received MLD, donned a low-elastic  compression garment, received glenohumeral mobilization to the affected extremity, and performed deep-breathing exercises -Both groups received therapy 5x/week for 6 weeks",
+            "Therapeutic exercise \u2013Authors of a systematic review found that a ROM and strengthening exercise program improves shoulder mobility, including flexion, abduction, and external rotation, in patients who have undergone breast cancer surgery(15) -One thousand seven hundred ten patients were included in the study -Exercise protocols consisted of upper limb active exercises, passive and active stretching of the shoulder, and shoulder ROM and strengthening exercises, combined with scar tissue massage",
+            "Focal muscle vibration therapy \u2013Focal muscle vibration therapy can be a useful tool in improving upper limb function in patients after mastectomy(12) -Fourteen patients were included in the study -Outcome measures used in this study included the DASH questionnaire, Body Image Scale, McGill Pain Questionnaire, and Constant-Murley  Scale -Vibration stimulation was applied to the muscles of the affected extremity using an electromechanical transducer, a mechanical support, and an electronic control system. The transducer was applied perpendicularly to the muscle near the distal tendon insertion. Transducer produced forces ranging between 7 and 9 N with a frequency of 100 Hz -Patients receiving treatment were asked to perform an isometric contraction of the muscle being treated. Intervention was applied for 3 consecutive days for a duration of 10 minutes for 3 sessions each day -Authors of this study found that individuals undergoing focal muscle vibration therapy showed significant improvements in disability scores as measured by the DASH questionnaire, reduction of pain, and improvement in upper limb function",
+            "Authors of a meta-analysis  found that cognitive behavioral therapy can improve the emotional states of women who have undergone breast cancer surgery by changing their cognitive schemas(14) \u2013Forty-five  studies met inclusion criteria . Problem Goal Intervention Expected Progression Home Program  Pain near the incision, in the shoulder girdle, and in the posterior cervical musculature following breast cancer surgeryEliminate or reduce postsurgical painManual therapy _ Promote healing of the surgical site and provide limb protection"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "eliminate or reduce postsurgical pain": [
+            "V AS"
+        ],
+        "implement prevention strategies for avoiding pulmonary complications following surgery": [],
+        "decrease or eliminate lymphedema": [
+            "Measurements of upper extremities (with a tape measure or volumetry) to determine if lymphedema is present"
+        ],
+        "reduce risk of lymphedema": [],
+        "restore upright posture following surgery": [],
+        "improved rom, strength, and function in affected upper extremity": [
+            "MMT",
+            "ROM\u2013  goniometry",
+            "FIM",
+            "DASH Outcome Measure",
+            "Shoulder Pain and Disability Index"
+        ],
+        "improved cardiovascular endurance": [
+            "6MWT"
+        ],
+        "improved patient satisfaction, quality of life": [
+            "Patient-reported  outcome measures such as Functional Assessment of Cancer Therapy for Breast Cancer (FACT-B),BREAST-Q,  Breast-Related Symptoms Questionnaire (BRSQ), and Michigan Breast Reconstruction Outcomes Study(MBROS)",
+            "SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "Long-term  follow-up  includes periodic clinical evaluation; annual mammograms, sonograms, and/or MRIs; other tests as indicated; and patient home program, including monthly breast self-examination(5) "
+    ],
+    "patient education": [
+        "General information regarding breast cancer, http://www.breastcancer.org",
+        "Breast Cancer Risk Assessment Tool. National Cancer Institute, https://www.cancer.gov/bcrisktool/",
+        "\u201cMastectomy: Results,\u201d Mayo Clinic, https://www.mayoclinic.org/tests-procedures/mastectomy/about/pac-20394670",
+        "\u201cBreast Cancer Treatment (PDQ): Treatment Option Overview,\u201d National Cancer Institute, https://www.cancer.gov/types/breast/patient/breast-treatment-pdq#section/all Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Pegram MD, Takita C, Casciato DA. Breast cancer. In: Casciato DA, ed. Manual of Clinical Oncology . 7th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2017:428-474.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Types of breast cancer. Breastcancer.org Web site. http://www.breastcancer.org/symptoms/types/ . Accessed January 24, 2021. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Giuliano AE, Hurvitz SA. Breast disorders. Papadakis MA, McPhee SJ, eds. 2020 Current Medical Diagnosis & Treatment . 59th ed. New York, NY: McGraw-Hill  Medical; 2020. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Hock KL, Colby LA. Management of lymphatic disorders. In: Therapeutic Exercise: Foundations and Techniques . 7th ed. Philadelphia, PA: FA Davis; 2018:1019-1043.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Rathore B. Breast cancer. In: Ferri FF, ed. 2021 Ferri's Clinical Advisor: 5 Books in 1 . Philadelphia, PA: Elsevier; 2021:261-266.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "National Cancer Institute. Breast Cancer Risk Assessment Tool. http://www.cancer.gov/bcrisktool/ . Accessed January 24, 2021. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Jagsi R, King TA, Lehman C, Morrow M, Harris JR, Burstein HJ. Malignant tumors of the breast. Devita VT Jr, Lawerence TS, Rosenberg SA, eds. Devita, Hellman, and Rosenberg\u2019s Cancer: Principles and Practice of Oncology . 11th ed. Philadelphia, PA: Wolters Kluwer; 2019. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "In: Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:322-323.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "United States Department of Labor. Your rights after a mastectomy. https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/your-rights-after-a-mastectomy.pdf . Accessed January 24, 2021. (PGR)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Poruk KE, Ying J, Chidester JR, et al. Breast cancer recurrence after nipple-sparing  mastectomy: One institution\u2019s experience. Am J Surg . 2015;209(1):212-217.  doi:10.1016/ j.amjsurg.2014.04.001. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Burgadda S, Alhusaini AA, Melam GR, Arora N. Effect of complete decongestive therapy and a home program for patients with post mastectomy lymphedema. J Phys Ther Sci . 2015;27(9):2743-2748.  (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Celletti C, Fara MA, Filippi GM, et al. Focal muscle vibration and physical exercise in postmastectomy recovery: an explorative study. Biomed Res Int . 2017;1-6. doi:10.1155/2017/7302892. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Sun Q, Liu S, Wu H, et al. Clinical analgesic efficacy of pectoral nerve block in patients undergoing breast cancer surgery: a systematic review and meta-analysis.  Medicine. 2020;99(14):1-11.  doi:10.1097/MD.0000000000019614. (M)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Guarino A, Polini C, Forte G, Favieri F, Boncompagni I, Casagrande M. The effectiveness of psychological treatments in women with breast cancer: a systematic review and meta-analysis.  J Clin Med . 9(1):209. doi:https://doi.org/10.3390/jcm9010209. (M)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Riberiro IL, Moreira RFC, Ferrari AV, Alburquerque-Sendin  F, Camargo PR, Salvini TF. Effectiveness of early rehabilitation on range of motion, muscle strength and arm function after breast cancer surgery: A systematic review of randomized controlled trials. Clin Rehabil . 2019;33(12):1876-1886.  doi:https://doi.org/10.1177/0269215519873026. (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Zhang X, Wang X, Zhang B, Yang S, Liu D. Effects of acupuncture on breast cancer-related  lymphoedema: a systematic review and meta-analysis  of randomized controlled trials. Acupunct Med . 2019;37(1):16-24.  doi:https://doi.org/10.1136/acupmed-2018-011668.  (M)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Davies C, Levenhagen K, Ryans K, Perdomo M, GIlchrist L. Interventions for breast cancer-related  lymphedema: clinical practice guideline from the Academy of Oncologic Physical Therapy of APTA. Phys Ther . 2020;100(7):1163-1179.  doi:10.1093/ptj/pzaa087. (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Jiang Y, Li J, Lin H, et al. The efficacy of gabapentin in reducing pain intensity and morphine consumption after breast cancer surgery: a meta-analysis.  Medicine. 2018;97(38):1-11.  doi:https://doi.org/10.1097/MD.0000000000011581. (M)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Alkabban FM, Ferguson T. Breast cancer. [Updated 2020 Nov 10]. StatPearls [Internet] . Treasure Island (FL): StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Ramouz A, Rasihashemi SZ, Daghigh F, Faraji E, Rouhani S. Predisposing factors for seroma formation in patients undergoing thyroidectomy: Cross-sectional  study. Ann Med Surg (Lond) . 2017;23:8-12.  doi:https://doi.org/10.1016/j.amsu.2017.09.001. (RV)"
+        }
+    ]
+}
