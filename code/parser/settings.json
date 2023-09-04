@@ -1,0 +1,8 @@
+{
+	"input_files_dir": "input_files2",
+	"output_dir": "parse_results2",
+	"threads_n": 5,
+	"add_text_list": true,
+	"ensure_ascii": false
+	
+}

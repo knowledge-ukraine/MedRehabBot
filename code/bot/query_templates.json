@@ -1,0 +1,1434 @@
+{
+	"contexts": {
+		"verbose": "information about",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+						 "?context rdf:type ?context_class.",
+						 "?context_class rdfs:label ?topic.",						  
+						 "?context name:relate_to_article ?article.",
+						 "?article rdfs:label ?article_name.",						  
+						 "?title name:relate_to_article ?article.",
+						 "?title rdf:type name:cl_title.",
+						 "?title rdfs:label ?scope.",
+						 "FILTER (?context_class!=name:cl_references &&", 
+						 "?context_class!=owl:NamedIndividual &&",
+						 "?context_class!=name:cl_synonyms &&",
+						 "?context_class!=name:cl_referral_to_other_disciplines &&",
+						 "?context_class!=name:cl_rule_out &&",
+						 "?context_class!=name:cl_treatment_summary &&",
+						 "?context_class!=name:cl_desired_outcomes_outcome_measures &&",
+						 "?context_class!=name:cl_contraindications_precautions_to_examination &&",
+						 "?context_class!=name:cl_aggravating_easing_factors &&",
+						 "?context_class!=name:cl_body_chart &&",
+						 "?context_class!=name:cl_alternative_therapies &&",
+						 "?context_class!=name:cl_diagnostic_tests_completed &&",
+						 "?context_class!=name:cl_medical_management &&",
+						 "?context_class!=name:cl_previous_therapy &&",
+						 "?context_class!=name:cl_previous_history_of_same_similar_diagnosis &&",
+						 "?context_class!=name:cl_maintenance_or_prevention &&",
+						 "?context_class!=name:cl_contraindications_precautions_to_test &&",
+						 "?context_class!=name:cl_overall_contraindications_precautions &&",
+						 "?context_class!=name:cl_title).}"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"group": "scope"}, "verbose": "Topics: "},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}
+	},
+	"icd 10": {
+		"verbose": "icd 10 code for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": [
+							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+							"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+							"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+							"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+							"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+							"SELECT DISTINCT ?code ?desctiption ?article_name",
+							"WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": [
+						 "?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+						    "{?context rdf:type name:cl_title.} UNION",
+							"{?context rdf:type name:cl_synonyms.}",
+							"?context name:relate_to_article ?article.",						
+							"?icd_code rdfs:subClassOf name:cl_icd__10_codes.",
+							"?icd_descr rdf:type ?icd_code.",
+							"?icd_descr name:relate_to_article ?article.",
+							"?icd_descr rdfs:comment ?desctiption.",
+							"?icd_code rdfs:label ?code.",					   
+							"OPTIONAL {?article rdfs:label ?article_name.}}"
+						]
+			}
+		],
+		"outputs": {
+			            "code": {"sortage": "primary", "verbose": ""},
+						"desctiption": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code"}, "verbose": "Related articles:"}
+                	}
+
+	},
+	"icd 9": {
+		"verbose": "icd 9 code for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": [
+							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+							"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+							"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+							"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+							"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+							"SELECT DISTINCT ?code ?desctiption ?article_name",
+							"WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": [
+						 "?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+						    "{?context rdf:type name:cl_title.} UNION",
+							"{?context rdf:type name:cl_synonyms.}",
+							"?context name:relate_to_article ?article.",						
+							"?icd_code rdfs:subClassOf name:cl_icd__9_codes.",
+							"?icd_descr rdf:type ?icd_code.",
+							"?icd_descr name:relate_to_article ?article.",
+							"?icd_descr rdfs:comment ?desctiption.",
+							"?icd_code rdfs:label ?code.",					   
+							"OPTIONAL {?article rdfs:label ?article_name.}}"
+						]
+			}
+		],
+		"outputs": {
+			            "code": {"sortage": "primary", "verbose": ""},
+						"desctiption": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code"}, "verbose": "Related articles:"}
+                	}
+	},
+	"cpt": {
+		"verbose": "cpt code for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": [
+							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+							"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+							"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+							"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+							"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+							"SELECT DISTINCT ?code ?desctiption ?article_name",
+							"WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": [
+						 "?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+						    "{?context rdf:type name:cl_title.} UNION",
+							"{?context rdf:type name:cl_synonyms.}",
+							"?context name:relate_to_article ?article.",						
+							"?cpt_code rdfs:subClassOf name:cl_cpt_codes.",
+							"?cpt_descr rdf:type ?cpt_code.",
+							"?cpt_descr name:relate_to_article ?article.",
+							"?cpt_descr rdfs:comment ?desctiption.",
+							"?cpt_code rdfs:label ?code.",					   
+							"OPTIONAL {?article rdfs:label ?article_name.}}"
+						]
+			}
+		],
+		"outputs": {
+			            "code": {"sortage": "primary", "verbose": ""},
+						"desctiption": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code"}, "verbose": "Related articles:"}
+                	}
+	},
+	"hcpcs": {
+		"verbose": "hcpcs code for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": [
+							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+							"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+							"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+							"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+							"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+							"SELECT DISTINCT ?code ?desctiption ?article_name",
+							"WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": [
+						 "?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+						    "{?context rdf:type name:cl_title.} UNION",
+							"{?context rdf:type name:cl_synonyms.}",
+							"?context name:relate_to_article ?article.",						
+							"?hcpcs_code rdfs:subClassOf name:cl_hcpcs_codes.",
+							"?hcpcs_descr rdf:type ?hcpcs_code.",
+							"?hcpcs_descr name:relate_to_article ?article.",
+							"?hcpcs_descr rdfs:comment ?desctiption.",
+							"?hcpcs_code rdfs:label ?code.",					   
+							"OPTIONAL {?article rdfs:label ?article_name.}}"
+						]
+			}
+		],
+		"outputs": {
+			            "code": {"sortage": "primary", "verbose": ""},
+						"desctiption": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code"}, "verbose": "Related articles:"}
+                	}
+	},
+	"any_icd": {
+		"verbose": "icd code for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": [
+							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+							"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+							"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+							"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+							"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+							"SELECT DISTINCT ?code ?desctiption ?article_name",
+							"WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": [
+						 "?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+						    "{?context rdf:type name:cl_title.} UNION",
+							"{?context rdf:type name:cl_synonyms.}",
+							"?context name:relate_to_article ?article.",						
+							"?icd_code rdfs:subClassOf ?code_class.",
+							"?icd_descr rdf:type ?icd_code.",
+							"?icd_descr name:relate_to_article ?article.",
+							"?icd_descr rdfs:comment ?desctiption.",
+							"?icd_code rdfs:label ?code.",					   
+							"OPTIONAL {?article rdfs:label ?article_name.}",
+							"FILTER (?code_class=name:cl_icd__9_codes ||", 
+							"?code_class=name:cl_icd__10_codes ||",
+							"?code_class=name:cl_icd__11_codes).}"
+						]
+			}
+		],
+		"outputs": {
+			            "code": {"sortage": "primary", "verbose": ""},
+						"desctiption": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code"}, "verbose": "Related articles:"}
+                	}
+	},
+	"any_code": {
+		"verbose": "codes for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": [
+							"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+							"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+							"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+							"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+							"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+							"SELECT DISTINCT ?code_type ?code ?desctiption ?article_name",
+							"WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": [
+						 "?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+						    "{?context rdf:type name:cl_title.} UNION",
+							"{?context rdf:type name:cl_synonyms.}",
+							"?context name:relate_to_article ?article.",						
+							"?icd_code rdfs:subClassOf ?code_class.",
+							"OPTIONAL {?code_class rdfs:label ?code_type.}",
+							"?code_class rdfs:subClassOf ?code_super.",
+							"?icd_descr rdf:type ?icd_code.",
+							"?icd_descr name:relate_to_article ?article.",
+							"?icd_descr rdfs:comment ?desctiption.",
+							"?icd_code rdfs:label ?code.",					   
+							"OPTIONAL {?article rdfs:label ?article_name.}",
+							"FILTER (?code_class=name:cl_icd__9_codes ||", 
+							"?code_class=name:cl_icd__10_codes ||",
+							"?code_class=name:cl_icd__11_codes ||",
+							"?code_class=name:cl_hcpcs_codes ||",
+							"?code_class=name:cl_cpt_codes ||",
+							"?code_super=name:cl_g__codes).}"
+						]
+			}
+		],
+		"outputs": {
+			            "code_type": {"sortage": "primary", "verbose": ""},
+						"code": {"sortage": {"by each": "code_type"}, "verbose": ""},
+						"desctiption": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code"}, "verbose": "Related articles:"}
+                	}
+	},
+	"g-code": {
+		"verbose": "g-code for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": [
+						"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						"SELECT DISTINCT ?set ?code ?desctiption ?article_name",
+						"WHERE {"
+				]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": [
+							 "?word_>_order_< rdfs:label >_input_<@en.", 
+							 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"{?context rdf:type name:cl_title.} UNION",
+							"{?context rdf:type name:cl_synonyms.}",							  
+							"?context name:relate_to_article ?article.",									
+							"?g_descr name:relate_to_article ?article.",
+							"?g_descr rdfs:comment ?desctiption.",
+							"?g_descr rdf:type ?g_code.",
+							"?g_code rdfs:label ?code.",
+							"?g_code rdfs:subClassOf ?code_set.",
+							"?code_set rdfs:label ?set.",
+							"?code_set rdfs:subClassOf name:cl_g__codes.",							   
+							"OPTIONAL {?article rdfs:label ?article_name.}}"
+						]
+			}
+		],
+		"outputs": {
+			            "set": {"sortage": "primary", "verbose": ""},
+						"code": {"sortage": {"by each": "set"}, "verbose": ""},
+						"desctiption": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "set"}, "verbose": "Related articles: "}
+                	}
+	},
+	"certain cpt": {
+		"verbose": "cpt",
+		"parts": [
+			{
+				"type": "single input",
+				"n": 1,
+				"body": [
+						"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						"SELECT DISTINCT ?code ?code_descr ?article_name",
+						"WHERE {",
+						"?code_class rdfs:label >_input_<@en.",
+						"?code_descr_class rdf:type ?code_class.",
+						"?code_class rdfs:subClassOf ?code_type_class.",
+						"?code_type_class rdfs:label ?code.",
+						"?code_descr_class rdfs:label ?code_descr.",
+						"?code_descr_class name:relate_to_article ?article.",
+						"OPTIONAL {?article rdfs:label ?article_name.}",
+						"?scope_ind name:relate_to_article ?article.",
+						"?scope_ind rdfs:comment ?scope.",
+						"{?scope_ind rdf:type name:cl_title.} UNION",
+						"{?scope_ind rdf:type name:cl_synonyms.}}"
+				]
+			}
+		],
+		"outputs": {
+						"code": {"sortage": "primary", "verbose": ""},
+						"code_descr": {"sortage": {"by each": "code"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code"}, "verbose": "Related articles:"}
+                	}
+	},
+	"certain g-code": {
+		"verbose": "g-code",
+		"parts": [
+			{
+				"type": "single input",
+				"n": 1,
+				"body": [
+						"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						"SELECT DISTINCT ?code_type ?code_descr ?article_name",
+						"WHERE {",
+						"?code_class rdfs:label >_input_<@en.",
+						"?code_descr_class rdf:type ?code_class.",
+						"?code_class rdfs:subClassOf ?code_type_class.",
+						"?code_type_class rdfs:label ?code_type.",
+						"?code_descr_class rdfs:label ?code_descr.",
+						"?code_descr_class name:relate_to_article ?article.",
+						"OPTIONAL {?article rdfs:label ?article_name.}",
+						"?scope_ind name:relate_to_article ?article.",
+						"?scope_ind rdfs:comment ?scope.",
+						"{?scope_ind rdf:type name:cl_title.} UNION",
+						"{?scope_ind rdf:type name:cl_synonyms.}}"
+				]
+			}
+		],
+		"outputs": {
+						"code_type": {"sortage": "primary", "verbose": "Set:"},
+						"code_descr": {"sortage": {"by each": "code_type"}, "verbose": "-"},
+						"article_name": {"sortage": {"group": "code_type"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"certain hcpcs": {
+		"verbose": "hcpcs code",
+		"parts": [
+			{
+				"type": "single input",
+				"n": 1,
+				"body": [
+						"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						"SELECT DISTINCT ?code_descr ?article_name",
+						"WHERE {",
+						"?code_class rdfs:label >_input_<@en.",
+						"?code_descr_class rdf:type ?code_class.",
+						"?code_class rdfs:subClassOf ?code_type_class.",
+						"?code_descr_class rdfs:label ?code_descr.",
+						"?code_descr_class name:relate_to_article ?article.",
+						"OPTIONAL {?article rdfs:label ?article_name.}",
+						"?scope_ind name:relate_to_article ?article.",
+						"?scope_ind rdfs:comment ?scope.",
+						"{?scope_ind rdf:type name:cl_title.} UNION",
+						"{?scope_ind rdf:type name:cl_synonyms.}}"
+				]
+			}
+		],
+		"outputs": {
+						"code_descr": {"sortage": "primary", "verbose": "-"},
+						"article_name": {"sortage": {"group": "code_descr"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"certain icd 10": {
+		"verbose": "ICD 10 code",
+		"parts": [
+			{
+				"type": "single input",
+				"n": 1,
+				"body": [
+						"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						"SELECT DISTINCT ?code_descr ?article_name ?scope",
+						"WHERE {",
+						"?code_class rdfs:label >_input_<@en.",
+						"?code_descr_class rdf:type ?code_class.",
+						"?code_class rdfs:subClassOf ?code_type_class.",
+						"?code_descr_class rdfs:label ?code_descr.",
+						"?code_descr_class name:relate_to_article ?article.",
+						"OPTIONAL {?article rdfs:label ?article_name.}",
+						"?scope_ind name:relate_to_article ?article.",
+						"{?scope_ind rdf:type name:cl_title.} UNION",
+						"{?scope_ind rdf:type name:cl_synonyms.}}"
+				]
+			}
+		],
+		"outputs": {
+						"code_descr": {"sortage": "primary", "verbose": "-"},
+						"article_name": {"sortage": {"group": "code_descr"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"certain icd 9": {
+		"verbose": "ICD 9 code",
+		"parts": [
+			{
+				"type": "single input",
+				"n": 1,
+				"body": [
+						"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						"PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						"PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						"SELECT DISTINCT ?code_descr ?article_name",
+						"WHERE {",
+						"?code_class rdfs:label >_input_<@en.",
+						"?code_descr_class rdf:type ?code_class.",
+						"?code_class rdfs:subClassOf ?code_type_class.",
+						"?code_descr_class rdfs:label ?code_descr.",
+						"?code_descr_class name:relate_to_article ?article.",
+						"OPTIONAL {?article rdfs:label ?article_name.}",
+						"?scope_ind name:relate_to_article ?article.",
+						"{?scope_ind rdf:type name:cl_title.} UNION",
+						"{?scope_ind rdf:type name:cl_synonyms.}}"
+				]
+			}
+		],
+		"outputs": {
+						"code_descr": {"sortage": "primary", "verbose": "-"},
+						"article_name": {"sortage": {"group": "code_descr"}, "verbose": "Related articles:"}
+                	}			
+	},
+	"symptoms": {
+		"verbose": "Symptoms for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",				  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_presentation_signs_and_symptoms ||",
+							"?out_context_class = name:cl_nature_of_symptoms ||",
+							"?out_context_class = name:cl_rating_of_symptoms ||",
+							"?out_context_class = name:cl_pattern_of_symptoms ||",
+							"?out_context_class = name:cl_other_symptoms ) &&",
+							"(?context_class = name:cl_title ||",
+							"?context_class = name:cl_patient_education ||",
+							"?context_class = name:cl_area_of_specialty ||",
+							"?context_class = name:cl_description ||",
+							"?context_class = name:cl_presentation_signs_and_symptoms ||",
+							"?context_class = name:cl_nature_of_symptoms ||",
+							"?context_class = name:cl_rating_of_symptoms ||",
+							"?context_class = name:cl_pattern_of_symptoms ||",
+							"?context_class = name:cl_other_symptoms ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}
+	},
+	"test": {
+		"verbose": "Information on tests neaded for ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",				  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_test_preparation_materials_required ||",
+							"?out_context_class = name:cl_test_procedure ||",
+							"?out_context_class = name:cl_test_scoring_interpretation )) &&",
+							"(?context_class = name:cl_title ||",
+							"?context_class = name:cl_patient_education ||",
+							"?context_class = name:cl_area_of_specialty ||",
+							"?context_class = name:cl_description ||",
+							"?context_class = name:cl_presentation_signs_and_symptoms ||",
+							"?context_class = name:cl_nature_of_symptoms ||",
+							"?context_class = name:cl_rating_of_symptoms ||",
+							"?context_class = name:cl_pattern_of_symptoms ||",
+							"?context_class = name:cl_other_symptoms ||",
+							"?context_class = name:cl_synonyms ))",							
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope"},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}
+	},
+	"reimbursement": {
+		"verbose": "Informatin on reimbursement for ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",				  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_reimbursement) &&",
+							"(?context_class = name:cl_title ||",
+							"?context_class = name:cl_reimbursement ||",
+							"?context_class = name:cl_area_of_specialty ||",
+							"?context_class = name:cl_description ||",
+							"?context_class = name:cl_presentation_signs_and_symptoms ||",
+							"?context_class = name:cl_nature_of_symptoms ||",
+							"?context_class = name:cl_rating_of_symptoms ||",
+							"?context_class = name:cl_pattern_of_symptoms ||",
+							"?context_class = name:cl_other_symptoms ||",
+							"?context_class = name:cl_synonyms ))",							
+							".} ORDER BY ?scope ?topic"
+
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}
+	},
+	"indicatons": {
+		"verbose": "indicatons for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER (?out_context_class = name:cl_indicatons).} ORDER BY ?scope ?topic"
+
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}
+	},
+	"patient education": {
+		"verbose": "patient education for the case of",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_patient_education) &&",
+							"(?context_class = name:cl_title ||",
+							"?context_class = name:cl_patient_education ||",
+							"?context_class = name:cl_synonyms ))",					
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"description": {
+		"verbose": "description for the case of",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",				  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_description) &&",
+							"(?context_class = name:cl_title ||",
+							"?context_class = name:cl_description ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}
+	},
+	"synonyms": {
+		"verbose": "synonyms for",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?context_text ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",
+							"?context name:relate_to_article ?article.",
+							"?out_context name:relate_to_article ?article.",							
+							"?out_context rdf:type ?out_context_class.",						  
+							"?out_context rdfs:comment ?context_text.",						   
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",
+							"FILTER ((?context_class=name:cl_synonyms ||",
+							"?context_class=name:cl_titlel) &&",
+							"(?out_context_class=name:cl_synonyms ||",
+							"?out_context_class=name:cl_titlel)).}"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope"},
+						"context_text": {"sortage": {"by each": "scope"}, "verbose": ""}
+                	}
+	},	
+	"contraindications precautions": {
+		"verbose": "contraindications precautions of",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"?out_context_class rdfs:subClassOf ?out_context_class_parent.",
+							"FILTER ((?out_context_class = name:cl_contraindications_precautions ||",
+							"?out_context_class_parent = name:cl_contraindications_precautions) &&",
+							"(?context_class = name:cl_title ||",
+							"?context_class = name:cl_area_of_specialty ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}
+	},
+	"diagnosis need for treatment": {
+		"verbose": "diagnosis need for treatment for the case of ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",				  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_diagnosis_need_for_treatment) &&",
+							"(?context_class = name:cl_title))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"prognosis": {
+		"verbose": "prognosis for ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_prognosis) &&",
+							"(?context_class = name:cl_diagnosis_need_for_treatment ||",
+							"?context_class = name:cl_title ||",
+							"?context_class = name:cl_patient_education ||",
+							"?context_class = name:cl_area_of_specialty ||",
+							"?context_class = name:cl_description ||",
+							"?context_class = name:cl_presentation_signs_and_symptoms ||",
+							"?context_class = name:cl_nature_of_symptoms ||",
+							"?context_class = name:cl_rating_of_symptoms ||",
+							"?context_class = name:cl_pattern_of_symptoms ||",
+							"?context_class = name:cl_prognosis ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"relations": {
+		"verbose": "prognosis for ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",				  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_referral_to_other_disciplines) &&",
+							"(?context_class = name:cl_title ||",
+							"?context_class = name:cl_referral_to_other_disciplines ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"treatment summary": {
+		"verbose": "treatment summary for ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_treatment_summary) &&",
+							"(?context_class = name:cl_diagnosis_need_for_treatment ||",
+							"?context_class = name:cl_title ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"rule out": {
+		"verbose": "what is to rule out in the case of ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_rule_out) &&",
+							"(?context_class = name:cl_diagnosis_need_for_treatment ||",
+							"?context_class = name:cl_title ||",
+							"?context_class = name:cl_patient_education ||",
+							"?context_class = name:cl_area_of_specialty ||",
+							"?context_class = name:cl_description ||",
+							"?context_class = name:cl_presentation_signs_and_symptoms ||",
+							"?context_class = name:cl_rating_of_symptoms ||",
+							"?context_class = name:cl_pattern_of_symptoms ||",
+							"?context_class = name:cl_treatment_summary ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"causes": {
+		"verbose": "causes of ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_causes ||",
+							"?out_context_class = name:cl_causes__and__risk_factors ||",
+							"?out_context_class = name:cl_causes_colon__the_cause_of_ic_is_unknown ||",
+							"?out_context_class = name:cl_causes_colon__the_causes_of_eating_disorders_are_unknown) &&",
+							"(?context_class = name:cl_diagnosis_need_for_treatment ||",
+							"?context_class = name:cl_title ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"risk factors": {
+		"verbose": "risk factors for ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_risk_factors ||",
+							"?out_context_class = name:cl_causes__and__risk_factors ||",
+							"?out_context_class = name:cl_risk_factors_for_articular_defects ||",
+							"?out_context_class = name:cl_risk_factors_for_complications ||",
+							"?out_context_class = name:cl_risk_factors_stroke ||",
+							"?out_context_class = name:cl_risk_factors_tbi ||",
+							"?out_context_class = name:cl_risk_factors_colon__as_agraphia_is_a_result_of_brain_damage_comma__its_risk_factors_are_the_risk_factors_for_brain_damage ||",
+							"?out_context_class = name:cl_risk_factors_colon__risk_factors_for_the_persistence_of_stuttering_beyond_early_childhood_include) &&",
+							"(?context_class = name:cl_diagnosis_need_for_treatment ||",
+							"?context_class = name:cl_title ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	},
+	"pathogenesis": {
+		"verbose": "information about pathogenesis of ",
+		"parts": [
+			{
+				"type": "constant",
+				"n": 1,
+				"body": ["PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>",
+						 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>",
+						 "PREFIX owl: <http://www.w3.org/2002/07/owl#>",
+						 "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>",
+						 "PREFIX name: <http://www.semanticweb.org/ContextOntology#>",
+						 "SELECT DISTINCT ?topic ?context_text ?article_name ?scope",
+						 "WHERE {"
+						]
+			},
+			{
+				"type": "listed input",
+				"n": 2,
+				"body": ["?word_>_order_< rdfs:label >_input_<@en.", 
+						 "?word_>_order_< name:relate_to_context ?context."
+						]
+			},
+			{
+				"type": "constant",
+				"n": 3,
+				"body": [
+							"?context rdf:type ?context_class.",  
+							"?context name:relate_to_article ?article.",
+							"?article rdfs:label ?article_name.",					  
+							"?title name:relate_to_article ?article.",
+							"?title rdf:type name:cl_title.",
+							"?title rdfs:label ?scope.",			  
+						    "?out_context name:relate_to_article ?article.",
+						    "?out_context rdf:type ?out_context_class.",
+						    "?out_context rdfs:comment ?context_text.",
+						    "?out_context_class rdfs:label ?topic.",
+							"FILTER ((?out_context_class = name:cl_pathophysiology ||",
+							"?out_context_class = name:cl_pathogenesis) &&",
+							"(?context_class = name:cl_diagnosis_need_for_treatment ||",
+							"?context_class = name:cl_title ||",
+							"?context_class = name:cl_synonyms ))",
+							".} ORDER BY ?scope ?topic"
+                        ]						 
+			}		
+		],
+		"outputs": {
+						"scope": {"sortage": "primary", "verbose": "Scope: "},
+						"topic": {"sortage": {"by each": "scope"}, "verbose": "Topic: "},
+						"context_text": {"sortage": {"by each": "topic"}, "verbose": ""},
+						"article_name": {"sortage": {"group": "scope"}, "verbose": "Related articles:"}
+                	}	
+	}
+	
+	
+	
+	
+	
+}
+
+
+
