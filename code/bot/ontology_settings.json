@@ -1,0 +1,18 @@
+{
+	"jena_endpoint": "http://192.168.133.3:3030/",
+	"jena_user": "insamhlaithe",
+	"jena_password": "dqp4h5wa7uf",
+	"ontologies": [
+        "RehabMedContext_1",
+        "RehabMedContext_2",
+		"RehabMedContext_3",
+		"RehabMedContext_4",
+		"RehabMedContext_5",
+		"RehabMedContext_6",
+		"RehabMedContext_7",
+		"RehabMedContext_8",
+		"RehabMedContext_9",
+		"RehabMedContext_10"
+	]
+}
+	

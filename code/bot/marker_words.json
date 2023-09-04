@@ -1,0 +1,143 @@
+{
+	
+	"synonyms": [
+		["another", "name"],
+		["call"],
+		["synonym"],
+		["name"]
+	],
+	"symptoms": [
+		["symptom"],
+		["sign"]	
+	],
+	"indicatons": [["indicaton"]],
+	"patient education": [["patient", "education"]],
+	"description": [
+		["description"],
+		["describe"]
+	],
+	"reimbursement": [
+		["reimbursement"]
+	],
+	"test": [
+		["test", "preparation", "material", "required"],
+		["test", "preparation", "material"],
+		["test", "material"],
+		["test", "preparation"],
+		["test", "require"],
+		["test", "nead"],
+		["test", "procedure"],
+		["test", "scoring", "interpretation"],
+		["test", "scoring"],
+		["test", "interpretation"],
+		["test"]		
+	],
+	"rule out": [
+		["nead", "rule"],
+		["nead", "rule"],
+		["can", "rule"],
+		["rule"],
+		["rule", "case"]
+	],
+	"treatment summary": [
+		["treatment", "summary"],
+		["summary"]
+	],
+	"relations": [
+		["referral", "other", "discipline"],
+		["referral", "discipline"],
+		["relation", "other", "discipline"],
+		["relation", "discipline"],
+		["related", "discipline"],
+		["relate", "discipline"],
+		["other", "discipline"],	
+		["relation"]	
+	],
+	"prognosis": [
+		["prognosis"],
+		["forecast"]	
+	],
+	"diagnosis need for treatment": [
+		["diagnosis", "need", "treatment"],
+		["diagnosis", "treatment"],
+		["diagnosis", "need"],
+		["diagnosis", "required"],
+		["diagnosis"]
+	],
+	"contraindications precautions": [
+		["contraindication", "precaution"],
+		["contraindication"],
+		["precaution"],
+		["cryotherapy", "contraindication"],
+		["cryotherapy", "precaution"],
+		["electrotherapy", "contraindication", "precaution", "include"],
+		["electrotherapy", "contraindication", "precaution"],
+		["contraindication", "precaution", "include"],
+		["electrotherapy", "precaution", "include"],
+		["electrotherapy", "contraindication"],
+		["electrotherapy", "precaution"],
+		["superficial", "heat", "contraindicate"],
+		["superficial", "heat", "contraindication"],
+		["heat", "contraindication"],
+		["heat", "contraindicate"],
+		["overall", "contraindication", "precaution"],
+		["contraindication", "precaution"],
+		["overall", "contraindication"],
+		["overall", "precaution"],
+		["precaution"]		
+	],	
+	"causes": [
+		["cause"]
+	],
+	"risk factors": [
+		["risk", "factor"],
+		["risk"]
+	],
+	"pathogenesis": [
+		["pathogenesis"],
+		["pathophysiology"]
+	],
+	"g-code": [
+		["g", "code"],
+		["g-code"]
+	],
+	"any_code": [
+		["code"]
+	],
+	"any_icd": [
+		["icd"],
+		["icd", "code"],
+		["icd-code"]
+	],
+	"icd 9": [
+		["icd", "9", "code"],
+		["icd-9", "code"],
+		["icd", "9"],
+		["icd-9"]
+	],
+	"icd 10": [
+		["icd", "10", "code"],
+		["icd-10", "code"],
+		["icd", "10"],
+		["icd-10"]
+	],
+	"icd 11": [
+		["icd", "11", "code"],
+		["icd-11", "code"],
+		["icd", "11"],
+		["icd-11"]
+	],
+	"hcpcs": [
+		["hcpcs", "code"],
+		["hcpcs"]
+	],
+	"cpt": [
+		["cpt", "code"],
+		["cpt"]
+	]
+	
+	
+	
+	
+	
+}
