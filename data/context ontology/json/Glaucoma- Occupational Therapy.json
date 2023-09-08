@@ -1,0 +1,491 @@
+{
+    "metadata": {
+        "title": "Glaucoma  Occupational Therapy",
+        "synonyms": [
+            "primary open-angle  glaucoma  occupational therapy",
+            "acute angle-closure glaucoma: occupational therapy",
+            "congenital glaucoma: occupational therapy",
+            "secondary glaucoma: occupational therapy",
+            "narrow-angle glaucoma: occupational therapy",
+            " low-tension  glaucoma: occupational therapy",
+            "normal-tension  glaucoma: occupational therapy"
+        ],
+        "anatomical location body part affected": [
+            "The eye"
+        ],
+        "area of specialty": [
+            "acute care",
+            "home health",
+            "outpatient rehabilitation"
+        ],
+        "description": [
+            "Glaucoma is a chronic, progressive optic neuropathy usually caused by ocular hypertension (elevated intraocular pressure[IOP])(41)",
+            "It results in progressive damage to the optic nerve, leading to visual field loss and irreversible blindness.(41) In the United States, glaucoma is the third-leading  cause of vision loss(1) and the second-leading  cause of blindness(28)",
+            "It can occur in both adults and children, but is more common in adults(1,28)",
+            "The most common forms are primary open-angle  glaucoma and primary angle-closure glaucoma",
+            "Other types include normal-tension  or low-tension  glaucoma, secondary glaucoma,pseudoexfoliative glaucoma, traumatic glaucoma, neovascular glaucoma, uveitic glaucoma, and congenital glaucoma (infant/childhood form).(28) Childhood glaucoma is further broken down into two primary forms (primary congenital glaucoma and juvenile open-angle  glaucoma) and four secondary forms (glaucoma following cataract surgery, glaucoma associated with acquired conditions, glaucoma associated with non-acquired  systemic disease or syndrome, and glaucoma associated with non-acquired  ocular anomalies)(29)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "H40": {
+                "base": "glaucoma",
+                "H40.0": "glaucoma suspect",
+                "H40.00": " H40.00 preglaucoma, unspecified",
+                "H40.01": " H40.01 open angle with borderline findings, low risk",
+                "H40.02": " H40.02 open angle with borderline findings, high risk",
+                "H40.03": " H40.03 anatomical narrow angle",
+                "H40.04": " H40.04 steroid responder",
+                "H40.05": " H40.05 ocular hypertension",
+                "H40.06": " H40.06 primary angle closure without glaucoma damage",
+                "H40.1": "open-angle glaucoma",
+                "H40.10": " H40.10 unspecified open-angle  glaucoma",
+                "H40.11": " H40.11 primary open-angle  glaucoma",
+                "H40.12": " H40.12 low-tension  glaucoma",
+                "H40.13": " H40.13 pigmentary glaucoma",
+                "H40.14": " H40.14 capsular glaucoma with pseudoexfoliation of lens",
+                "H40.15": " H40.15 residual stage of open-angle  glaucoma",
+                "H40.2": "primary angle-closure glaucoma",
+                "H40.20": " H40.20 unspecified primary angle-closure  glaucoma",
+                "H40.21": " H40.21 acute angle-closure  glaucoma",
+                "H40.22": " H40.22 chronic angle-closure  glaucoma",
+                "H40.23": " H40.23 intermittent angle-closure  glaucoma",
+                "H40.24": " H40.24 residual stage of angle-closure  glaucoma",
+                "H40.3": "glaucoma secondary to eye trauma",
+                "H40.4": "glaucoma secondary to eye inflammation",
+                "H40.5": "glaucoma secondary to other eye disorders",
+                "H40.6": "glaucoma secondary to drugs",
+                "H40.8": "other glaucoma",
+                "H40.81": " H40.81 glaucoma with increased episcleral venous pressure",
+                "H40.82": " H40.82 hypersecretion glaucoma",
+                "H40.83": " H40.83 aqueous misdirection",
+                "H40.89": " H40.89 other specified glaucoma",
+                "H40.9": "unspecified glaucoma"
+            },
+            "H42": {
+                "base": "glaucoma in diseases classified elsewhere",
+                "Glaucoma": "in diseases, such as E85 amyloidosis, Q13.1 absence of iris, E70-E88 specified metabolic disorder"
+            },
+            "H44.51": "absolute glaucomaP15.3 birth injury to eye [traumatic glaucoma]",
+            "Q13.8": "other congenital malformations of anterior segment of eye",
+            "Q15.0": "congenital glaucoma",
+            "Z13.5": "encounter for screening for eye and ear disorders (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Therapy and rehabilitation services for patients with glaucoma are generally covered by Medicare in the United States; for patients with other insurance providers, coverage will depend on the individual policy.As of January 1, 2008, blindness and low vision were added to the International Classification of Diseases (ICD) \u2013 9 case mix diagnoses; providers now have increased flexibility in providing rehabilitation services and receiving reimbursement for patients with these diagnosis codes(3)"
+        ],
+        "presentation signs and symptoms": [
+            "All types of glaucoma are often asymptomatic in the early stages. As the disease progresses, patients with glaucoma have visual field loss and blindness. Additional signs and symptoms may vary based on the type of glaucoma(42)",
+            "Primary open-angle  glaucoma:(42,43) \u2013May have sufficient visual field loss to report impaired:(43) -driving (especially at night) -near vision -reading speed -outdoor mobility \u2013Open anterior chamber angles \u2013Elevated IOP; however, this characteristic may be absent in 40% of patients with other characteristic signs of primary open-angle  glaucoma \u2013Evidence of optic nerve damage characterized by either (or both) optic disc or retinal nerve fiber layer structural abnormalities \u2013Reliable and reproducible visual field abnormalities",
+            "Acute primary angle-closure  glaucoma:(44,45,46) \u2013Eye pain \u2013Sudden vision loss \u2013Soreness at root of nose with mild conjunctival or episcleral vascular congestion \u2013Blurred/cloudy vision \u2013Colored halos around lights \u2013Headache \u2013Eye redness  \u2013Nausea and/or vomiting \u2013Elevated IOP: primary angle-closure  glaucoma can be asymptomatic and painless in early stages of the disease, even with elevated IOP -Normal range for eye pressure is 12-22  mm Hg; most diagnoses of glaucoma are made wheneye pressure is > 20 mm Hg(32)"
+        ],
+        "contraindications precautions to test": [
+            "Patients with glaucoma or who are at high risk for glaucoma need to be under the medical supervision of an ophthalmologist. If glaucoma is diagnosed after the patient has already started to lose their vision, the loss of vision cannot be reversed or cured, but total blindness is preventable with medical intervention.(3) If during the course of an evaluation the occupational therapist (OT) discovers that the patient is beginning to lose vision and has not yet seen an ophthalmologist, immediately refer the patient to an ophthalmologist(1)",
+            "Patients with impaired vision are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Patients with impaired vision are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was glaucoma diagnosed? Is there vision loss associated with the glaucoma? When did the patient first notice the loss of sight? Has the patient\u2019s vision gotten worse since the diagnosis?",
+                "course of treatment": {
+                    "medical management": "Medical management for glaucoma includes both surgical and pharmacologic intervention.(1,3,28,29) Medical intervention is indicated when IOPs are consistently elevated and when there is evidence of funduscopic or visual field changes  Surgical interventions Anterior chamber paracentesis (usually an emergency treatment)(1) Laser iridotomy (a laser is used to make a hole in the iris to improve the drainage in the eye)(1,28,29,51) Laser trabeculoplasty (a laser is used to make tiny holes in the filtration angle of the eye, where the cornea and iris come together)(18) Results may be temporary, and the procedure may need to be repeated(1,28) Trabeculectomy (filtration surgery involving the partial removal of the eye\u2019s drainage system)(1,3,29,51) Authors of a systematic review and meta-analysis  reported that trabeculectomy was the most effective surgical procedure for reducing IOP in patients with openangle  glaucoma; however, it was also associated with a higher incidence of surgical complications when compared to nonpenetrating surgical interventions(20) Another study, which was completed as a 5-year follow-up  to a previous study, compared the effectiveness of trabeculectomy and a biodegradable collagen matrix implant (used to limit scar tissue formation) versus the traditional trabeculectomy with mitomycinCin lowering IOP and reducing postsurgical complications; results indicated that trabeculectomy with the collagen matrix implant was equally effective as trabeculectomy with mitomycinC,  as both treatment groups experienced significant reductions in IOP and decreased use of antiglaucoma medications; there were no significant differences between groups for early postoperative complications(30) Trabectome (a new treatment modality; removal of an arc of trabecular meshwork and inner wall of Schlemm's canal to improve fluid outflow from the eye)(18) Filter valves(1) In a study that investigated the effectiveness of intravitreal ranibizumab injection combined with Ahmed glaucoma valve placement to treat neovascular glaucoma, results indicated that the Ahmed valve (used with or without ranibizumab) was successful in lowering IOP and reducing the need for antiglaucoma medications(35) iStent (a U.S. FDA-approved  technology; microtrabecular bypass stent permanently placed to improve fluid outflow from the eye)(18,23) Results of a multicenter trial involving 99 patients conducted throughout Europe indicate that implantation of 2 trabecular microbypass secondgeneration  stents in patients with open-angle  glaucoma resulted in reduction in IOP, medication reduction, and favorable safety outcomes(23) Lens removal; cataract removal(1) In an RCT that included patients with primary angle-closure  and primary angle-closure  glaucoma (all without cataracts), patients were treated with either clearlens  extraction or standard laser peripheral iridotomy and topical medications; the patients who underwent clearlens extraction experienced more significant improvements, including reduced IOP and selfreported  health status, when compared to the group treated with standard care; clearlens extraction was also found to be more cost effective than the standard treatment; researchers concluded that the results supported the use of clearlens  extraction as a preferred treatment approach for primary angleclosure glaucoma(36) Transscleral cyclophotocoagulation (a laser is used to destroy areas of the ciliary body to decrease the production of aqueous humor; generally used in advanced stages of glaucoma)(37) In a study, a small group of patients with advanced glaucoma were treated with transscleral cyclophotocoagulation using a micropulse laser delivery method rather than a continuous laser delivery method in order to reduce potential complications. Some patients required a second treatment; however, themicropulse treatment approach resulted in an overall success rate of 89.5% at followup  in terms of both reduced IOP and minimal complications(37) Enucleation (removal of the eye; used in rare cases after the eye becomes blind and is painful or disfigured)(29) Minimally invasive glaucoma surgeries (MIGS) to help control IOP (recent development in treatment)(1) Pharmacologic interventions Eye drops and oral medications(28,29,51) Beta blockers(1,27,51) Carbonic anhydrase inhibitors (e.g., acetazolamide/Diamox)(1,27)  Prostaglandin analogues (e.g., latanoprost, bimatoprost, travoprost, tafluprost)(1) Alpha-2  and cholinergic agonists(1) Hyperosmotic agents (IV mannitol)(1) Pilocarpine(1) Fixed combination medications(38) In a study that investigated the effectiveness of fixed combination medications, patients with primary open-angle glaucoma or normaltension glaucoma were randomly assigned to either the brinzolamide/timolol treatment group or the dorzolamide/timolol group (both were combinations of a carbonic anhydrase inhibitor with a beta blocker in eye drop form); patients in both groups were instructed to apply the medication 2x/day; IOP was monitored for up to 3 months following the initial visit; both medication combinations resulted in significant reductions in IOP, but the dorzolamide/timolol group showed a greater reduction in IOP and dorzolamide/timolol was generally better tolerated than the brinzolamide/timolol combination(38) Supplements(39) (recent research of possible effectiveness; currently not widely reported in glaucoma literature) A pilot study found that a food supplement (available in Italy) containing a combination of molecules (forskolin, homotaurine, carnosine, folic acid, vitamins B1, B2, B6, and magnesium) may aid in the prevention of retinal ganglion cell degeneration that occurs in glaucoma(39) Patients with primary open-angle  glaucoma and who were already being treated with topical medications were randomly assigned to either the food supplement group (taken 2x/day for 1 year in addition to current medications) or the control group (topical medications only); followup measures were completed at 3 months, 6 months, 9 months, and 12 months after initial enrollment(39) Results indicated further reductions in IOP for those in the supplement group at the 6-, 9-, and 12-month  follow-ups when compared to the control group; progressive improvements in pattern electroretinogram and foveal sensitivity measures were also seen in the supplement group, suggesting a neuroprotective effect of the supplement(39)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken as prescribed? Common medicines for glaucoma include miotics, adrenergic agonists, prostaglandins, beta blockers, carbonic anhydrase inhibitors, and cholinergic agonists.(3,18,51)Nonadherence is a problem in glaucoma treatment that may arise from many underlying factors. Forgetting to take medications (particularly in the absence of symptoms) is commonly cited(24) Results of a study conducted in the United States indicate that a sizable number of patients with glaucoma do not take their medications as prescribed(25) Four hundred seven patients with glaucoma completed a 3-month  adherence assessment using electronic monitoring An adherent group who took their medication correctly on at least 75% of days and a nonadherent group were identified Patients who were nonadherent were slightly younger, more likely to be of African American descent, took medications for a shorter time, had lower educational attainment, and had worse scores on mental status and depression scales Identification of these factors may be useful for targeting nonadherent patients for interventions",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: The patient\u2019s ophthalmologist will usually complete tests of the following (refer to physician\u2019s report for results):",
+                        "Visual acuity testing(27,28,29)",
+                        "Visual field examination(1,27,28)",
+                        "Anterior chamber examination(1,27)",
+                        "Gonioscopy to examine the anterior angle(1,27,28)",
+                        "Tonometry to measure IOP(1,27,28,29)",
+                        "Pachymetry to measure the thickness of the cornea(1,27,28)",
+                        "Slit lamp examination(1,27,29)",
+                        "Fundus photography/examination(1,27,29)",
+                        "Evaluates presence of retinal disorders(27) ",
+                        "Fluorescein angiography(1)",
+                        "Evaluates presence of neovascular disorders(1)",
+                        "Nerve fiber analysis(1)",
+                        "GDx examination (laser scan of nerve layer)(1)",
+                        "Heidelberg retina tomography (HRT)(1)",
+                        "Optical coherence tomography (OCT)(1)",
+                        "Optic nerve evaluation(1,27)",
+                        "Lens examination(27,29)",
+                        "Determines presence of cataract, pseudoexfoliation, or inflammation(27)",
+                        "Ultrasonography for additional views of the inner eye(29)",
+                        "MRI of the eye orbits if other findings are atypical or if other causes of optic nerve atrophy are suspected (rare)(1)",
+                        "Blood sugar and CBC (especially if diabetes or inflammatory disease is suspected)(1)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Are symptoms worse in bright lights? Dim lights? With certain smells? With loud noise? What situations are the most difficult for the patient? In the case of glaucoma, which often affects peripheral vision, mobility and safety in one\u2019s environment may be seriously compromised",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). See Presentation/signs and symptoms , above",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (am, mid-day, pm, night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night; does the patient have sleep apnea or require a continuous positive airway pressure (CPAP) machine at night?",
+                "other symptoms": "Document other symptoms the patient may be experiencing that could exacerbate the condition and/ or symptoms that could be indicative of a need to refer to a physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) -In a cross-sectional  study conducted in the United States that included 6,760 participants with glaucoma (aged \u2265 40 years), researchers found that glaucoma is a significant predictor of depression after adjustment for demographic and multiple comorbidities.(13) Symptoms of depression include feelings of guilt, worthlessness, or helplessness; loss of interest in activities or hobbies that were once pleasurable; and thoughts of suicide or suicide attempts. Document symptoms or history of depression and refer to a mental health professional as appropriate -In a study conducted in Australia that included 27 participants with primary open-angle  glaucoma, researchers found that a significant portion of the subjects with glaucoma presented with auditory nerve and auditory processing dysfunction (even in the presence of normal sound detection abilities) when compared to an age-/sex-/hearing-matched control group without glaucoma.(14) Document any difficulties with speech perception and comprehension; refer to speech pathologist, audiologist or otolaryngologist as appropriate",
+                "respiratory status": "Does the patient require supplemental oxygen? Nasal cannula? Does the patient have a tracheostomy tube? Does the patient require ventilator support? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe___________________________ "
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has another disorder of the eye or eye trauma ever been diagnosed in the patient? (Including but not limited to cataracts, retinopathy, conjunctivitis, etc.) Is the patient nearsighted or farsighted? What was the age of onset of glaucoma?",
+                    "comorbid diagnoses": "Ask the patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs and nutritional supplements)",
+                    "other symptoms": "Ask the patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Document the effect of glaucoma on the patient\u2019s job performance as well as activities of leisure. Glaucoma, especially when associated with vision loss, results in restricted travel patterns (i.e., leaving the house less often or being able to go only short distances from home, not being able to drive), and many individuals with glaucoma are homebound.(52) As a result, quality of life and ability to participate in desired vocational, avocational, and rehabilitation activities are often limited",
+                "functional limitations assistance with ADLs adaptive equipment": "Document the limitations on functional activities as a result of vision impairment or any other chronic impairment",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Does the patient require a hearing aid? If so, is the hearing aid in good working order? Does the patient wear glasses? If so, do they aid the patient\u2019s vision, and if so, how much? Does the patient require an ambulation aid (e.g., cane or walker)? Does the patient require assistive devices for ADLs (such as a dressing stick or reacher)? Is the patient aware of the importance of using these devices (if prescribed or necessary), and does the patient use them correctly?",
+            "balance": "Patients with impaired vision are at an elevated risk for balance loss/falls; evaluate static and dynamic balance reactions; the Tinetti Balance Test may be used(6)Assess cranial nerve function, especially cranial nerves III, IV , and VI, to see if there is any eye muscle weaknessBed mobility and transfers should be assessed to determine the amount of assistance needed for the patient to perform each activity \u2013FIM \u2013 an 18-item,  7-level  ordinal scale(7) \u2013Timed Up & Go (TUG) test(8) \u2013 a measurement of mobility; includes tasks such as standing from a seating position, walking, turning, stopping, and sitting down, which are all important for independent mobility \u2013Observe patient\u2019s gait and ability to climb stairs (assisted or unassisted); refer to physical therapy as appropriate",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [
+                "For additional information on assessment of vision, see Clinical Review\u2026Visual Dysfunction: Occupational Therapy ; CINAHL Topic ID Number: T708963  \u2022Self-care/activities  of daily living  (objective testing): FIM and the Barthel Activities of Daily Living Index are appropriate standardized measures for ADLs.(7) Assess safety and ability to perform ADLs: brushing teeth, combing hair, dressing upper and lower extremities, using the toilet, applying makeup or shaving the face, bathing, eating. Poor vision related to glaucoma can impair the patient\u2019s ability to perform IADLs as well(15)",
+                "Authors of a study found that moderate and severe primary open-angle  glaucoma in the better eye is associated with driving cessation. Driving cessation can lead to additional adverse outcomes including depression, decline in physical and social function, admission to a long-term  care facility, and death(52) -Provide a referral for driving rehabilitation whenever appropriate(15)"
+            ],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Note the results of any sensory testing that has been completed \u2013Sensory testing includes normal touch, light touch, sharp/dull, proprioception, vibration, and temperature \u2013Note whether the patient has impaired sensation in the feet (especially in patients with diabetes)(51)",
+            "special tests specific to diagnosis": "Include measures specifically tailored to patients with glaucoma as well as measures of health-related  QOL(16)A self-reported  questionnaire on functional status and visual acuity for persons who//www.nei.nih.gov/learn-about-eye-health/resources-for-health-educators/outreach-materials/visual-function-questionnaire-25 (53) -In a study conducted in the United States with 398 patients with diagnosed or suspected glaucoma, researchers found that patients with faster rates of binocular visual field loss (not necessarily the total reduction in vision, but the speed at which the loss occurred) were at a higher risk for poor vision-related  QOL as measured by the NEI-VFQ-25(16)Developed and validated by the Lighthouse Research Institute; 15-item questionnaire requiring only yes or no answers that focuses on functional versus clinical visual problems (e.g., able to read own handwriting, tends to sit close to the TV , difficulty seeing in dim light); available in 7 languages(2)A 15-item,  4-domain assessment; focuses on the physical impact of glaucoma on the patient\u2019s life(9,10)A questionnaire used to quantify symptoms experienced by patients with glaucoma; 10 sections \u2013 6 visual/4 nonvisual(9,10,11)A validated 32-item  questionnaire that measures impact of visionleisure and work, consumer and social interactions, household and personal care, mobility, and emotional reaction to vision loss(11)Developed from a symptom checklist; 43 items categorized into four domains visual function, local eye, systemic, psychological(9,10) \u2013For additional information on assessment and treatment for patients with vision impairment, see Clinical Review\u2026VisualOccupational Therapy ; CINAHL Topic ID Number",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "A brief cognitive assessment such as the Mini-Mental  State Examination (MMSE)(5) is appropriate for patients with glaucoma",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Patients with narrow angle glaucoma should not be treated with antihistamines or vasodilators;(1) if the patient reports taking these medications during the assessment, refer to an ophthalmologist immediately"
+            ]
+        },
+        "diagnosis need for treatment": "Occupational therapy is indicated for patients with glaucoma when the loss of vision impacts functional independence and/or ability to perform ADLs (e.g., grooming, bathing, toileting, cooking) and IADLs  (e.g., reading labels, dialing a phone, writing a check).(26)Additionally, occupational therapy is indicated if the patient presents with vision loss that affects one or more of the following areas: near vision tasks, distance vision tasks, mobility and communication skills, and job performance(12) Consequences of impaired vision should not be taken lightly. Patients with visual impairment secondary to glaucoma may not anticipate these consequences and should be educated and informed of all the following when making their decision to begin treatment: depression, compromised nutrition due to difficulty preparing meals, difficulty managing medicines due to an inability to read labels or see small pills, impaired mobility and reduced independence, disorientation in new places, social isolation, a decline in recreational activity, and a significantly increased risk of falling(3)",
+        "rule out": "The patient\u2019s ophthalmologist will rule out the following before diagnosing glaucoma Optic nerve cupping(1) Other optic neuropathies(1) (e.g., optic nerve pits,(1,17) coloboma,(1,17) optic neuritis(17)) Retinal abnormalities(17) (e.g., macular degeneration,(17)history of panretinal photocoagulation,(17) retinitis pigmentosa,(17) retinal vascular disorders(1,17)) CNS abnormalities (e.g., compressive or nutritional optic neuropathy, demyelination from multiple sclerosis, dominant optic atrophy)(17) Ocular hypertension(1) Shallow chamber(1) Conjunctivitis(1) Corneal disease (e.g., keratitis)(1) Uveitis(1) Scleritis(1) Allergies(1) Contact lens wearing with irritation(1)",
+        "prognosis": [
+            "Primary open-angle  glaucoma: In most patients, ocular abnormalities progress slowly over years and patients usually remain asymptomatic until late in the disease.(54) Functional vision loss due to glaucoma never substantially reverses(51)",
+            "Angle-closure  glaucoma: If left untreated these patients will develop progressive vision loss that may result in bilateral blindness.(44)Prognosis depends on early detection and prompt treatment(45) \u2013Approximately 50% of fellow eyes are reported to develop an acute attack of angle-closure  glaucoma within 5 years(44) \u2013Angle-closure  glaucoma is reported to be associated with a greater risk of severe bilateral visual impairment and bilateral blindness compared to primary open-angle glaucoma(44,46)",
+            "In addition to visual changes, glaucoma is associated with other medical and functional difficulties, an increased need for medical services, and higher medical costs(34)",
+            "Authors of a study (N =100) found that glaucoma had an adverse effect onpatients\u2019 social function, mental health, and daily activities(60)"
+        ],
+        "referral to other disciplines": "All patients with glaucoma should be under the care of an ophthalmologist; if the patient does not have an ophthalmologist, referral should be made immediately Patients with visual dysfunction can benefit from referral to a neuro-optometrist Referral should be made to psychologist, psychiatrist, or counselor if the patient shows signs of anger, grief, depression, fear, or isolation In cases of pediatric glaucoma secondary to a systemicsyndrome, referral to a genetic counselor would be appropriate Refer to a neuropsychologist for advanced cognitive assessment when impairments are present Refer to a speech pathologist to address speech perception and comprehension Refer to physical therapist (PT) for balance, gait, and functional mobility training Refer to driving and vocational rehabilitation as appropriate",
+        "other considerations": [
+            "In an RCT conducted in Germany with 30 patients with glaucoma, researchers found that a computerized vision restoration training program resulted in significantly improved vision-related performance compared to a placebo training(22)"
+        ],
+        "treatment summary": [
+            "Patients with glaucoma are at a higher risk for falls. In addition to injury, falls may lead to decreased activity levels \u2013Authors of a study (N = 258) found that patients with glaucoma who had an injurious fall showed a greater annual decline in daily steps, daily active minutes, and daily moderate and vigorous physical activity over a 3-year  period as compared to patients who did not have a fall(55)",
+            "Treatment focuses on accident and injury prevention, teaching new skills, task and environmental modification, and promotion of a healthy, active, and satisfying lifestyle.(33)Therapy includes the use of assistive optical, nonoptical, low- and high-technology  devices to improve functional mobility and independence, home and personal management skills, literacy skills, and travel skills(4) \u2013Orientation and mobility instruction(4) -Patients are taught to familiarize themselves with surroundings through touch and sound to move around safelyand how selecting different gait strategies can help. Additionally, therapists help patients develop routines and create organizational systems to increase predictability, requiring less searching on the patient\u2019s part -Therapists train family members to use specific language when giving directions(4) (e.g., \u201cOn the right-hand  side of the corridor, the second door opening leads to the bathroom\u201d instead of \u201cDown the hall\u201d) -Therapists come to the patient\u2019s house for home assessments(4) (e.g., throw rugs, torn carpets, cords, and clutter should be removed,(4,31) doors should be either completely opened or completely closed,(4) family members are trained to maintain consistency and not move items around(4)) -Authors of a study (N = 30) found that patients with glaucoma selected a gait strategy of slower gait speed and cadence and a longer gait cycle time compared to healthy controls in both conditions: gait in a straight6-meter  path without an obstacle and with an obstacle. There was no significant effect from the obstacle on the gait of the patients with glaucoma(56) \u2013Environmental modifications/compensatory strategies -Lighting(4,12,26,31) -Use of incandescent lights instead of fluorescent lighting promotes increased visibility -Add direct lighting for specific tasks(e.g., desk/gooseneck lamp for tabletop activities, under-counter  lighting for meal prep(31)) -Use of shades/blinds to reduce glare -Patients can wear sunglasses outside to block ultraviolet light, and sunglasses can increase eye comfort in bright indoor rooms as well -Use of flashlights for household tasks such as fixing a fuse and, in the community, such as reading menus in a dimly lit restaurant -Lighted pathways and night-lights  at night for the bedroom, bathroom, and staircases for safety -Magnification(3,12,26,31) -Angular magnification: When a magnifier is the only method used to enlarge an object; OT must work with each patient and determine what type of magnifier works best for each patient -Relative size magnification: When an object is made larger (e.g., large-print  books, pill boxes, magazines/books, shopping lists, phone numbers, crossword puzzles) -Relative distance magnification:When an object is moved closer; sitting closer to the computer or TV; holding a piece of mail close to the eyes -Electronic magnification: Homework or memos can be magnified with a copy machine; fonts in documents can be enlarged on the computer prior to printing -Contrast(4,12,26,31) -Therapists can train patients to select contrasting colors to increase visibility (e.g., placing a white plate on a black placemat; using clear cups to pour colored juices; putting blue toothpaste on a white toothbrush; using light cutting boards to cut dark vegetables or on a dark countertop; using dark cutting boards to cut light meats/vegetables; placing colored markings on the edge of stairs)  -Nonskid mats in the shower of contrasting color for foot placement; contrasting bathmats and toilet seats -Other compensatory strategies(3,4,12,26,31) -Examples include: -Tactile markings on stoves, medicine bottles, washing machine, etc. -Motion-detecting  switches that turn on lights when a person enters the room -Talking clocks or appliances -Talking medication reminder(31) -Phones and remote controls with enlarged numbers -Template for a checkbook, which allows the patient to feel for the spaces to be filled in -Organize frequently used items on accessible shelves in a single row and maintain organization(26) -ADL modifications and compensatory techniques could also include using electric razors for safety, simplifying ADL routines for makeup application and hair styling, assistance with sorting any medications to appropriate places in pill box, and placing medications in the same place \u2013Adaptive/assistive equipment for low vision -V oice-activated  software for writing or communicating -Braille or Moon(4) writing systems, which enable blind and partially sighted persons to read and write through touch -Large-print  books, audiobooks, closed-circuit television (CCTV):(3,4) audiobooks allow patients to listen to books instead of reading; CCTV can involve a video magnifying system or descriptive video sound that describes the action on the TV -E-reader  which allows for adjustment of font size, lighting level, and contrast(31) -For additional information on assistive technology for patients with glaucoma, see Clinical Review\u2026Assistive Technology for Activities of Daily Living (Occupational Therapy) ; CINAHL Topic ID Number: T901900 and Clinical Review\u2026Assistive Technology for Patients with Physical Impairments (Occupational Therapy) ; CINAHL Topic ID Number: T901901 \u2013Driving instruction -Older patients with glaucoma have higher rates of motor vehicle accidents and poorer on-road performance compared to healthy controls.(57,58,59)Evidence also showsthat patients with glaucoma who use mobile phones while driving may experience a greater decline than healthy participants in their ability to detect peripheral events while talking and driving. Patients should be educated on these increased risks(59) -Tests can be administeredto determine if a patient with glaucoma is safe to drive. Driving simulators (e.g., DriveSafe test) are designed to test a patient\u2019s ability to safely drive(57) -Patients should be evaluated for their ability to drive and educated on compensatory strategies (e.g., back-up  cameras, lane change indicators, blind spot monitors, avoiding driving in high traffic, avoiding left turns, and not driving on rainy days) only if deemed safe to drive(58) . Problem Goal Intervention Expected Progression Home Program  Reduced orientation and mobility due to partial or total loss of visionIncrease patient\u2019s safety when moving around both familiar and unfamiliar placesOrientation and mobility instruction (4) _ _ Environment modifications _ _ Compensatory strategies _ Ambulation devices _ Safety education with patient and caregivers _ _ _ _ See Treatment summary , abovePatient generally learns these skills in therapy and, with the assistance of the patient\u2019s family members or caregiver, transitions compensatory strategy use to the home _Implement strategies in the home setting _ _ _ _ _ _ _ _ _ _ _ _ _ Reduced functional independence and increased risk of falling and injury due to partial or total loss of vision(2,3,4,12)Increase patient\u2019s safety and independence with ADLs and IADLs _ _ Increase ability to locate and utilize objects for ADLsEnvironmental modifications/ compensatory strategies including appropriate illumination, magnification, contrast, tactile markings, motion detecting switches, use of DME, and adaptive equipment _ _ Environmental organizational strategies, predictability, and development of routines _ Functional mobility training _ Safety education with patient and caregivers _ _ _ See Treatment summary , abovePatient generally learns these skills in therapy and, with the assistance of family members or caregiver, transitions compensatory strategy use to the homeImplement compensatory strategies and home modifications to decrease risk of falling  Reduced literacy skills due to partial or total loss of vision(4,12)Increase patient\u2019s literacy skillsAdaptive/assistive equipment for low vision _ _ Braille or Moon(4) writing systems _ Contrast and typeface and spacing for legibility and readability of print _ _ Large-print books, audio books, closed circuit television (CCTV)(3,4) _ E-reader(31) _ V oice activated software _ Use of template for checkbook, magnification and illumination appliances and tools _ _ See Treatment summary , aboveBraille and Moon can be difficult for older patients to learn due to reduced sensitivity of the fingers;(4) younger patients with congenital forms of glaucoma may be more successful with Braille _ _ Large-print books and audiobooks are available at bookstores and libraries and through publishing houses; cable providers can assist with CCTV in the home; e-readers are available at bookstores and in the electronics department of many retail storesThese strategies are meant to be used in the home  Nonadherence with glaucoma treatment(24,25)Improve adherence Implement monitoring and reminding strategies Approaches may include"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "the desired outcome of occupational therapy for patients with glaucoma is to improve overall functioning and safety and maintain independence": [],
+        "to objectively measure outcomes, the clinician can re-administer  the vision questionnaires at the conclusion of therapy:": [
+            "NEI-VFQ-25",
+            "Functional Vision Screening Questionnaire",
+            "GQL-15",
+            "Glaucoma Symptom Scale",
+            "IVI questionnaire",
+            "SIG",
+            "FIM"
+        ]
+    },
+    "maintenance or prevention": [
+        "Glaucoma is a serious condition that often leads to blindness; to minimize vision loss, glaucoma must be identified and treated prior to loss of vision(1)",
+        "Patients at risk of glaucoma (e.g., those of older age, have a family history of glaucoma, are of African ancestry, have high IOP, use corticosteroids, as well as other risk factors listed above) should be screened for glaucoma(1) Eye exams should be comprehensive(28) and include monitoring of IOP and medication adjustments(1)",
+        "To preserve vision and prevent complications of glaucoma, it is important that patients adhere to their medication regimens as prescribed by their physicians. In a study conducted in the United States with 89 African American patients with glaucoma, researchers identified the following top five barriers to medication adherence: forgetfulness, medication side effects, cost/affordability, eye drop administration, and eye drop schedule(21) ",
+        "Physical activity may reduce the risk of developing glaucoma. Authors of a study (N = 9519) examined the associations of physical activity and cardiorespiratory fitness with the incidence of glaucoma. Patients were followed for an average of 5.7 years and the incidence of glaucoma documented. Results showed that meeting the 2008 Physical Activity Guidelines for AmericansRecommendations of 500 MET minutes/week was associated with a lower risk for incident glaucoma(61)"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Hoffman RS. Glaucoma, open-angle;  glaucoma, primary angle-closure.  In: Ferri FF, ed. 2022 Ferri\u2019s Clinical Advisor: 5 Books in 1 . Philadelphia, PA: Elsevier, Inc; 2021:510-512.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Horowitz A, Teresi J, Cassels LA. Development of a vision screening questionnaire for older people. J Gerontol Soc Work . 1991;17(3/4):37-56.  (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Young JS. Age-related  eye diseases: a review of current treatment and recommendations for low-vision  aids. Home Healthc Nurse . 2008;26(8):464-473.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Stuen C. Vision rehabilitation and older adults: the prevention of disability. Technol Disabil . 1997;6(3):147-158.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-mental  state\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Tinetti ME, Williams TF, Mayewski R. Fall Risk Index for elderly patients based on number of chronic disabilities. Am J Med . 1986;80(4):429-434.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Podsiadlo D, Richardson S. The timed \"up & go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc . 1991;39(2):142-148.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Tripop S, Pratheepawanit N, Asawaphureekorn S, Anutangkoon W, Inthayung S. Health related quality of life instruments for glaucoma: a comprehensive review. J Med Assoc Thai. 2005;88(suppl 9):S155-S162.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Severn P, Fraser S, Finch T, May C. Which quality of life score is best for glaucoma patients and why? BMC Ophthalmol . 2008;8:2. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Noe G, Ferraro J, Lamoureux E, Rait J, Keeffe J. Associations between glaucomatous visual field loss and participation in activities of daily living. Clin Experiment Ophthalmol . 2003;31(6):482-486.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Boyle EL. Determine amount of vision loss and refer patients for therapy, rehabilitation. Ocular Surg News . 2008;26(10):25-26.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Wang SY, Singh K, Lin SC. Prevalence and predictors of depression among participants with glaucoma in a nationally representative population sample. Am J Ophthalmol . 2012;154(3):436-444.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Rance G, O'Hare F, O'Leary S, et al. Auditory processing deficits in individuals with primary open-angle  glaucoma. Int J Audiol . 2012;51(1):10-15.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "King A, Azuara-Blanco  A, Tuulonen A. Glaucoma. BMJ. 2013;346:f3518. doi:10.1136/bmj.f3518. (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Lisboa R, Chun YS, Zangwill LM, et al. Association between rates of binocular visual field loss and vision-related  quality of life in patients with glaucoma. JAMA Ophthalmol . 2013;131(4):486-494.  doi:10.1001/jamaophthalmol.2013.2602. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Prum BE, Jr, Rosenberg LF, Gedde SJ, et al. Primary open-angle  glaucoma Preferred Practice Pattern guidelines. Ophthalmology . 2016;123(1):P41-P111.  doi:http:// dx.doi.org/10.1016/j.ophtha.2015. 10.053. (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Turner S, McNaught A. First-line treatment in open-angle  glaucoma: an update. Expert Rev Ophthalmol . 2013;8(6):587-594.  doi:10.1586/17469899.2013.855608. (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Bhorade AM, Perlmutter MS, Wilson B, et al. Differences in vision between clinic and home and the effect of lighting in older adults with and without glaucoma. JAMA Ophthalmol . 2013;131(12):1554-62.  doi:10.1001/jamaophthalmol.2013.4995. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Rulli E, Biagioli E, Riva I, et al. Efficacy and safety of trabeculectomy vs nonpenetrating surgical procedures: a systematic review and meta-analysis.  JAMA Ophthalmol . 2013;131(12):1573-82.  doi:10.1001/jamaophthalmol.2013.5059. (M)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Dreer LE, Girkin CA, Campbell L, Wood A, Gao L, Owsley C. Glaucoma medication adherence among African Americans: program development. Optom Vis Sci . 2013;90(8):883-97.  doi:10.1097/OPX.0000000000000009. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Sabel BA, Gudlin J. Vision restoration training for glaucoma: A randomized clinical trial. JAMA Ophthalmol . 2014;132(4):381-9.  doi:10.1001/jamaophthalmol.2013.7963.   (RCT)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Voskanyan L, Garcia-Feijoo  J, Belda JI, Fea A, Junemann A, Baudouin C. Prospective, unmasked evaluation of the iStent\u00ae inject system for open-angle  glaucoma: synergy trial. Adv Ther. 2014;31(2):189-201.  doi:10.1007/s12325-014-0095y.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Boland MV, Chang DS, Frazier T, Plyler R, Jeffreys JL, Friedman DS. Automated telecommunication-based  reminders and adherence with once-daily  glaucoma medication dosing: the automated dosing reminder study. JAMA Ophthalmol . 2014;132:845-850.  doi:10.1001/jamaophthalmol.2014.857. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Boland MV, Chang DS, Frazier T, Plyler R, Friedman DS. Electronic monitoring to assess adherence with once-daily  glaucoma medications and risk factors for nonadherence: the automated dosing reminder study. JAMA Ophthalmol . 2014;132(7):838-844.  doi:10.1001/jamaophthalmol.2014.856. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Warren M. Evaluation and treatment of visual deficits following brain injury. In: Pendleton HM, Schultz-Krohn  W, eds. Pedretti's Occupational Therapy: Practice Skills for Physical Dysfunction . 7th ed. St. Louis, MO: Elsevier Mosby; 2013:604. (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Gupta N, Aung T, Congdon N, et al. ICO Guidelines for Glaucoma Eye Care. International Council of Ophthalmology Web site. https://pdf4pro.com/amp/view/ico-guidelines-for-glaucoma-eye-care-588477.html.  Published February 2016 . Published March 7, 2017. (G)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Glaucoma. American Optometric Association Web site. https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/glaucoma?sso=y . (G)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Lolli D, Walton DS, Weaver T. Childhood glaucoma. Glaucoma Research Foundation Web site. http://www.glaucoma.org/uploads/grf_childhood_glaucoma.pdf . (G)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Cillino S, Csuccio A, Di Pace F, et al. Biodegradable collagen matrix implant versus mitomycin-C  in trabeculectomy: five-year follow-up.  BMC Ophthalmol . 2016;16(24):1-10. doi:10.1186/s12886-016-0198-0.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Living with low vision. American Occupational Therapy Association Web site. http://www.aota.org/About-Occupational-Therapy/Patients-Clients/Adults/LowVision.aspx . Published 2013. (GI)"
+        },
+        {
+            "number in article": 32,
+            "reference": "What is glaucoma? Glaucoma Research Foundation Web site. https://www.glaucoma.org/glaucoma/ . (GI)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Micera A, Quaranta L, Esposito G, et al. Differential protein expression profiles in glaucomatous trabecular meshwork: an evaluation study on a small primary open angle glaucoma population. Adv Ther. 2016;33(2):252-267.  doi:10.1007/s12325-016-0285-x.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Prager AJ, Liebmann JM, Cioffi GA, Blumberg DM. Self-reported  function, health resource use, and total health care costs among Medicare beneficiaries with glaucoma. JAMA Ophthalmol . 2016;134(4):357-365.  doi:10.1001/jamaophthalmol.2015.5479. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Tang M, Fu Y, Wang Y, et al. Efficacy of intravitreal ranibizumab combined with Ahmed glaucoma valve implantation for the treatment of neovascular glaucoma. BMC Ophthalmol . 2016;16(7):1-8.  doi:10.1186/s12886-016-0183-7.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Azuara-Blanco  A, Burr J, Ramsay C, et al. Effectiveness of early lens extraction for the treatment of primary angle-closure  glaucoma (EAGLE): a randomised controlled trial. Lancet. 2016;388(10052):1389-1397.  doi:10.1016/S0140-6736(16)30956-4.  (RCT)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Kuchar S, Moster MR, Reamer CB, Waisbourd M. Treatment outcomes of micropulse transscleral cyclophotocoagulation in advanced glaucoma. Lasers Med Sci . 2016;31(2):393-396.  doi:10.1007/s10103-015-1856-9.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Galose MS, Elsaied HM, Macky TA, Fouad PH. Brinzolamide/timolol versus dorzolamide/timolol fixed combinations: a hospital-based,  prospective, randomized study. Indian J Ophthalmol . 2016;64(2):127-131.  doi:10.4103/0301-4738.179718.  (RCT)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Mutolo MG, Albanese G, Rusciano D, Pescosolido N. Oral administration of forskolin, homotaurine, carnosine, and folic acid in patients with primary open angle glaucoma: changes in intraocular pressure, pattern electroretinogram amplitude, and foveal sensitivity. J Ocular Pharmacol Therapeu . 2016;32(3):178-183.  doi:10.1089/jop.2015.0121. (RCT)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Kang JH, Willett WC, Rosner BA, et al. Association of dietary nitrate intake with primary open-angle  glaucoma: a prospective analysis from the Nurses\u2019 Health Study and Health Professionals Follow-up  Study. JAMA Ophthalmol . 2016;134(3):294-303.  doi:10.1001/jamaophthalmol.2015.5601. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Pelletier AL, Rojas-Roldan  L, Coffin J. Vision loss in older adults. American Family Physician . 2016;94(3):219-226.  (GI)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Weinreb RN, Aung T, Medeiros FA. The pathophysiology and treatment of glaucoma. JAMA: Journal of the American Medical Association . 2014;311(18):1901-1911. doi:10.1001/jama.2014.3192.   (GI)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Gedde SJ, Vinod K, Wright MM, et al. Primary Open-Angle  Glaucoma Preferred Practice Pattern Guidelines. Ophthalmology . 2021;128(1):71-150.  doi:https://doi.org/10.1016/ j.ophtha.2015.10.053. (G)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Gedde SJ, Chen PP, Muir KW, et al. Primary Angle-Closure  Disease Preferred Practice Pattern. Ophthalmology . 2021;128(1):30-70.  (GI)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Jonas JB, Aung T, Bourne RR, Bron AM, Ritch R, Panda-Jonas  S. Glaucoma. The Lancet . 2017;390(10108):2183-2193.  doi:10.1016/s0140-6736(17)31469-1.  (GI)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Sun X, Dai Y, Chen Y, et al. Primary angle closure glaucoma: What we know and what we don't know. Prog Retin Eye Res . 2017;57:26-45.  doi:https://doi.org/10.1016/ j.preteyeres.2016.12.003. (GI)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Morgan WH, Balasratnasingam C, Lind CR, et al. Cerebrospinal fluid pressure and the eye. Br J Opthalmol . 2016;100(1):71-77. doi:https://doi.org/10.1136/bjophthalmol-2015-306705.  (GI)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Weinreb RN, Aung T, Medeiros FA. The pathophysiology and treatment of glaucoma. JAMA: Journal of the American Medical Association . 2014;311(18):1901-1911. doi:10.1001/jama.2014.3192.   (GI)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Seifi M, Walter MA. Axenfeld-Rieger  syndrome. Clin Genet . 2018;93(6):1123-1130.  doi:https://doi.org/10.1111/cge.13148. (GI)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Yang MC, Lin KY. Drug-induced  acute angle-closure  glaucoma: a review. J Curr Glaucoma Pract . 2019;13(3):104-109.  doi:https://doi.org/10.5005/jp-journals-10078-1261.  (RV)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Quigley HA. Glaucoma. Lancet. 2011;377(9774):1367-1377.  doi:https://doi.org/10.1016/S0140-6736(10)61423-7.  (GI)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Takahashi A, Yuki K, Awano-Tanabe  S, Ono T, Shiba D, Tsubota K. Association between glaucoma severity and driving cessation in subjects with primary open-angle glaucoma. BMC Ophthalmol . 2018;18(1). doi:https://doi.org/10.1186/s12886-018-0788-0.  (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Vision Function Questionnaire 25. National Eye Institute Web site. https://www.nei.nih.gov/learn-about-eye-health/resources-for-health-educators/outreach-materials/visual-function-questionnaire-25 . (GI)"
+        },
+        {
+            "number in article": 54,
+            "reference": "King A, Azuara-Blanco  A, Tuulonen A. Glaucoma. BMJ. June 11, 2013;346:f3518. doi:https://doi.org/10.1136/bmj.f3518. (GI)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Jian-Yu E, Mihailovic A, Schrack JA, et al. Characterizing longitudinal changes in physical activity and fear of falling after falls in glaucoma. J Am Geriatr Soc . 2021;69(5):1249-1256.  doi:https://doi.org/10.1111/jgs.17014. (R)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Lee HS, Lee KJ, Kim JL, Leem HS, Shin HJ, Kwon HG. Gait characteristics during crossing over obstacle in patients with glaucoma using insole foot pressure. Medicine (Baltimore) . 2021;100(32):e26938. doi:https://doi.org/10.1097/MD.0000000000026938. (R)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Lee SS, Black AA, Wood JM. Eye movements of drivers with glaucoma on a visual recognition slide test. Optom Vis Sci . 2019;96(7):484-491.  doi:https://doi.org/10.1097/ OPX.0000000000001395. (R)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Perlmutter M, Barco P, Bhorade A, et al. Compensatory strategies used by individuals with glaucoma to increase driving safety.2020 AOTA Annual Conference & Expo. Am J Occup Ther . 2020;74(Sup1):1. doi:https://doi.org/10.5014/ajot.2020.74S1-PO9718.  (R)"
+        },
+        {
+            "number in article": 59,
+            "reference": "Anderson DE, Bader JP, Boes EA, et al. Glaucomatous visual fields and neurocognitive function are independently associated with poor lane maintenance during driving simulation. BMC Ophthalmol . October 20, 2020;419. doi:https://doi.org/10.1186/s12886-020-01682-9.  (R)"
+        },
+        {
+            "number in article": 60,
+            "reference": "Huang W, Gao K, Liu Y, Liang M, Zhang X. The adverse impact of glaucoma on psychological function and daily physical activity. J Ophthalmol . April 21, 2020;9606420. doi:https://doi.org/10.1155/2020/9606420. (R)"
+        },
+        {
+            "number in article": 61,
+            "reference": "Meier NF, Lee DC, Sui X, Blair SN. Physical activity, cardiorespiratory fitness, and incident glaucoma. Med Sci Sports Exerc . 2018;50(11):2253-2258.  doi:https:// doi.org/10.1249/MSS.0000000000001692. (R)"
+        }
+    ]
+}

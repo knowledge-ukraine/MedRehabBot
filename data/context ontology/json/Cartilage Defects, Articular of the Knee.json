@@ -1,0 +1,287 @@
+{
+    "metadata": {
+        "title": "Articular Cartilage Defects of the Knee -Comorbid diagnoses:  Are there coexisting orthopedic problems or chronic health disorders, such as diabetes, cancer, heart disease, dementia, psychiatric disorders, or neuromuscular dysfunction? -Medications prescribed:  Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs) -Other symptoms:  Ask patient if there are symptoms other than knee pain (low back, groin, or hip)    \u2022Social/occupational history \u2013Patient\u2019s goals:  Document the specific and general goals the patient hopes to accomplish with therapy (these are usually related to the frequency and severity of activity-related  knee pain during work or recreation) \u2013Vocation/avocation and associated repetitive behaviors, if any:  Does knee pain occur during participation in occupational or daily activities? Does patient participate in high-risk  activities that involve knee extension and pivoting (e.g., contact sports, agility running, swimming breaststroke; i.e., \u201cwhip-kick\u201d)? \u2013Functional limitations:  Does knee pain interfere with ADLs or use of adaptive equipment? \u2013Living environment:  Are there barriers in the home that restrict access, such as stairs; any modifications necessary?",
+        "synonyms": [
+            "cartilage defects, articular of the knee",
+            "knee, articular cartilage defects",
+            " osteochondral defects of the knee",
+            "articular cartilage lesions of the knee",
+            "hyaline cartilage tears of the knee",
+            "chondral injury of the knee"
+        ],
+        "anatomical location body part affected": [
+            "Knee joint or patellofemoral joint/hyaline cartilage of the medial and/or lateral femoral condyle, femoral trochlea, patella, tibial articular cartilage"
+        ],
+        "area of specialty": [
+            "aquatic therapy",
+            "orthopedic rehabilitation",
+            "pediatric rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "In the absence of osteochondral disease, knee joint articular cartilage defects (ACDs) are mainly trauma-related  injuries to hyaline cartilage, in contrast to \u201cwear-and-tear\u201d osteoarthritis lesions(9)",
+            "Symptoms include knee pain, swelling, and mobility impairments. These symptoms are often unresponsive to conservative management because of the poor healing capacity of hyaline cartilage, especially when ACDs are large(2)",
+            "Surgical intervention is often favored due to concern for joint damage and the early onset of osteoarthritis without effective treatment, particularly in children and adolescents(2,9)",
+            "Four methods of operative care are arthroscopic lavage and debridement, microfracture, autologous chondrocyte implantation (ACI), and osteochondral autograft transplantation (OAT)(9)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S83.3": "tear of articular cartilage of knee (current)",
+            "M93.2": "osteochondritis dissecans (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement has been identified for this condition"
+        ],
+        "presentation signs and symptoms": [
+            "History of acute trauma to knee with hemarthrosis, or gradual onset of pain associated with repetitive trauma",
+            "Activity-related  pain; possibly restricts some physical activities (climbing stairs, squatting, hopping, or running)",
+            "Chronic effusion/swelling",
+            "Joint line tenderness",
+            "Episodes of catching or locking (suggestive of loose bodies) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "In pediatric cases, obtain parental or guardian consent to perform the examination",
+            "Concomitant knee joint pathology (e.g., meniscal and ligament injuries) requires additional precautions during the exam",
+            "Patient unable to comprehend procedure because of language skills or cognitive impairment",
+            "Unresolved acute knee injury, inflammation, or infection"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes   ,": [
+            "Direct major trauma involving a shearing force to the knee, as might occur in sports,falls, accidents, or work injuries",
+            "Osteochondral necrosis (unspecified)"
+        ],
+        "pathogenesis": [
+            "Current opinion is that ACDs heal poorly even with medical therapy, increasing in size and depth and worseningsymptomatically over time(9)",
+            "The Outerbridge classification system, which is used to classify grades of ACDs, is considered an outdatedsystem;researchers recommend incorporating MRI for appropriate diagnosis(10)",
+            "ACDs found on arthroscopy are most commonly located on the medial femoral condyle and the patellar facets and areassociated in a high percentage of cases with medial meniscus tears (37%) or anterior cruciate ligament (ACL) ruptures(36%)(9)",
+            "Without surgical intervention, full-thickness  ACDs undergo degenerative changes that might progress to osteoarthritis",
+            "The microfracture procedure is the most popular ACD repair technique and the gold standard against which othertechniques are compared(9)",
+            "ACI is used to treat articular cartilage lesions and has been shown to improve the outcomes of the knee. It is indicated forthose with symptomatic focal chondral and osteochondral defects(11)",
+            "Localizations of cartilage lesions generally occur along the medial femoral condyle and the articular surfaces of thepatella(9)",
+            "In surgical research studies, outcomes have been evaluated by clinical evaluation, MRI and CT imaging, \u201csecond-look\u201darthroscopy, histological examination of cartilage biopsy samples, and measurement of cartilage mechanical properties (9)"
+        ],
+        "risk factors": [
+            "Increased biomechanical stress on the knee joint due to lower extremity malalignment resulting from(2)\u2013Medial meniscus tear(9)\u2013ACL rupture(9)\u2013Posterior root tears(9)\u2013Partial meniscectomy\u2013Sports injuries(9)\u2013Delayed ACL reconstruction(9)\u2013High BMI in young adult males(9)",
+            "Family history of ACDs(2)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Rule out fracture and test neurovascular status in patients with recent knee trauma with visible skin injury and inability to bear weight(2)",
+        "Significant neurological deficits are not usually associated with this condition. Consult with physician regarding sensory or motor deficits found in the involved limb",
+        "Follow physician orders for restrictions on weight-bearing,  knee ROM, and exercise therapy",
+        "Patient education is required for strict adherence to postoperative guidelines, such as use of continuous passive motion (CPM) machine and weight-bearing  limitations",
+        "Restrict/modify exercises that increase joint pain and swelling",
+        "Avoid knee joint passive mobilization after surgery",
+        "Avoid use of ultrasound near growth plates in pediatric cases",
+        "Notify referring physician immediately on discovery of evidence suggestive of DVT or thrombophlebitis",
+        "Refer immediately to emergency care if evidence of ischemia or paralysis is present in the affected limb",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "In pediatric cases, obtain parental or guardian consent to perform the examination",
+            "Concomitant knee joint pathology (e.g., meniscal and ligament injuries) requires additional precautions during the exam",
+            "Patient unable to comprehend procedure because of language skills or cognitive impairment",
+            "Unresolved acute knee injury, inflammation, or infection"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Patients will usually be able to describe the circumstances of their sudden knee injury, as well as the symptoms that followed",
+                "course of treatment": {
+                    "medical management": "Conservative treatment usually consists of physical therapy, activity modification, and patient education. Has a knee brace/sleeve been prescribed for this condition? Patients are usually permitted to bear weight as tolerated and ambulate with axillary crutches. Postoperative rehabilitation involves early mobilization (straightleg raises, heel slides, prone leg hang, passive knee ROM)(9) Authors of a systematic review found that osteochondral allografts (OCA) transplantation had good functional outcomes,with a survival rate of 78.7%(5)",
+                    "surgical management": [],
+                    "medications": "Pain and swelling are usually treated with common analgesic medications such as oral NSAIDs. Document the medications prescribed and the patient\u2019s opinion on their effectiveness",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Ask about results of X-rays  or other imaging studies. MRI or CT scans are used to",
+                        "investigate for possible osteochondral damage and softtissue  derangement"
+                    ],
+                    "alternative therapies": "Has patient received acupuncture or tried taping/bracing knee or using ice or heat for pain/swelling?",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other related conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Patients usually experience increased discomfort/apprehension with general physical activity",
+                "body chart": "If areas other than the knee are involved, use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Note whether any of the following symptoms are reported -Crepitation -Instability and giving-way -Locking (suggestive of loose bodies) -Stiffness -Other lower extremity pain",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment. Specifically address if pain is a common symptom and whether it is present now and how much",
+                "pattern of symptoms": "Document whether there are changes in symptoms throughout the day and night (i.e., A.M., mid-day,  P.M., night)",
+                "sleep disturbance": "Document number of wakings/night related to knee symptoms",
+                "other symptoms": "Document other symptoms patient might be experiencing that might exacerbate the condition and/or symptoms that could indicate need for physician consultation, such as falling because of pain Barriers to learning -Is patient communication/education limited by cognitive impairment?",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Are there coexisting orthopedic problems or chronic health disorders, such as diabetes, cancer, heart disease, dementia, psychiatric disorders, or neuromuscular dysfunction?",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient if there are symptoms other than knee pain (low back, groin, or hip) "
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does knee pain occur during participation in occupational or daily activities? Does patient participate in high-risk  activities that involve knee extension and pivoting (e.g., contact sports, agility running, swimming breaststroke; i.e., \u201cwhip-kick\u201d)?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does knee pain interfere with ADLs or use of adaptive equipment?",
+                "living environment": "Are there barriers in the home that restrict access, such as stairs; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be appropriate \u203aRelevant tests and measures:  (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, weight-bearing  status, and stage of healing)",
+            "anthropometric characteristics": "Assess for leg-length discrepancy",
+            "assistive and adaptive devices": "Evaluate need for assistive ambulatory device (cane, crutches, rarely a walker) and modify prescription, as appropriate. Assess fit and safe operation of immobilizer brace or assistive devices. Assess ability to correctly don/doff knee brace, if applicable",
+            "balance": "Assess stability and for nonsymmetrical weight-bearing  in standing. If not full weight-bearing  status, assess stability in standing using assistive device. Prior to discharge, assess balance in 1-leg  stand with perturbations. Use objective measures such as the Star Excursion Balance test or Berg Balance test",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Dorsalis pedis and posterior tibial pulses should be intactAssess for knee swelling and thigh atrophy with circumference measurements",
+            "functional mobility": "",
+            "gait locomotion": "Inspect lower extremity movement in walking on treadmill. Compare sides. Examine for activity limitations and participation restrictions using simple performance tests (e.g., 6-minute  walk for distance test [6MWT], single-leg  hop, Timed Up and Go [TUG] test)(9)Assess passive mobility and dynamic tracking of the patella. If not in acute stage, assess for injury to knee ligaments and menisci. Compare to unaffected knee. Use caution when assessing joint accessory motion",
+            "muscle strength": "Assess strength of the gluteals and entire lower extremity. Compare quadriceps-hamstrings  strength ratio to contralateral side. When weight-bearing  status permits, assess ability to perform half-squat  with affected leg",
+            "observation inspection palpation including skin assessment": [
+                "Assess: -Vastus medialis oblique (VMO) for atrophy, tone, and activation at terminal knee extension -Lateral and medial retinaculum for tightness and tenderness -Patellofemoral joint for crepitation. Patellar ACDs are very common(9)"
+            ],
+            "posture": "Assess knee alignment for genu varum or valgus",
+            "range of motion": "Assess active and passive ROM at knee joint with goniometerAchilles and patellar tendon reflexes should be intact",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Sensation should be intact except for localized deficits around surgical wounds, if applicable. Assess knee proprioception",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide and does not replace orders from a physician or the specific protocols of the treatment clinic",
+                "Cryotherapy contraindications(1) -Raynaud\u2019s syndrome -Cryoglobulinemia -Cold urticaria -Paroxysmal cold hemoglobinuria -Impaired circulation -Over area of nerve regrowth",
+                "Cryotherapy precautions(1) -Hypertension -Hypersensitivity to cold -Over an acute wound -Over superficial nerves",
+                "Aquatic therapy  contraindications/precautions(1) -Fear of water -Avoid warm/hot water if patient is pregnant or has multiple sclerosis, increased risk of hemorrhage (e.g., on anticoagulant medications), impaired thermal regulation, acute inflammation, fever, edema, thrombophlebitis, or acute rheumatoid arthritis -Epilepsy -Cardiovascular or pulmonary disease -Open wounds, catheters, colostomies, IVs, G-tubes -Urinary or fecal incontinence -Certain dermatologic conditions (e.g., ichthyosis, infection) -Venous ulcers -Tissues damaged by radiation therapy -Peripheral vascular disease -Respiratory impairment -More than half-body  immersion during pregnancy",
+                "Thermotherapy contraindications(1) -Decreased circulation -Decreased sensation -Acute/subacute traumatic and inflammatory conditions -Skin infections -Impaired cognition or language barrier -Tumors -Liniments -Tendency for hemorrhage or edema -Heat rubs",
+                "Whirlpool contraindications  (1) -Certain dermatologic conditions (e.g., ichthyosis, infection) -Venous ulcers -Tissues damaged by radiation therapy -Peripheral vascular disease -Respiratory impairment -Surgical incisions/skin grafts -Malignancy -More than half-body  immersion during pregnancy",
+                "Whirlpool precautions (*some are relevant only if more than one limb is immersed)(1) -Cardiac insufficiency -Impaired sensation -Impaired mental status -Unstable blood pressure  -Cold hypersensitivity -Alcohol consumption (prior to therapy)* -Decreased strength/ROM/endurance/balance* -Urinary/fecal incontinence* -Fear of water* -Respiratory impairments -Avoid warm/hot water if patient is pregnant, or has multiple sclerosis, increased risk of hemorrhage (e.g., on anticoagulant medications), impaired thermal regulation, acute inflammation, fever, edema, thrombophlebitis, or acute rheumatoid arthritis -Seasickness -Epilepsy*",
+                "Electrotherapy  contraindications/precautions(1) -Do not place electrodes near: -carotid bodies, cardiac pacemakers or implantable cardioverter defibrillators, phrenic nerve or urinary bladder stimulators, phrenic nerve, eyes, gonads -Osteomyelitis -Hemorrhage -Impaired sensation, mental status, communication -Cardiovascular disease -Malignancy -Dermatological conditions -Proximity of electromagnetic radiation -In pregnant women, near the pelvis, lumbar spine, hips, abdomen -In patients with stroke or seizures, near the neck -History of spontaneous abortion in pregnant women",
+                "Therapeutic ultrasound  contraindications; do not use:(1) -over the region of a cardiac pacemaker -over the pelvis, abdominal, and lumbar regions during pregnancy -over the eyes or testes -in an area with infection or bleeding -if a tumor or malignancy is present in the area -in the area of a DVT or thrombophlebitis -over the heart, stellate, or cervical ganglia -over epiphyseal plates",
+                "Therapeutic ultrasound precautions(1) -Sensory deficits -Ineffective communication skills in a patient (e.g., impaired cognition, language barrier) -Circulatory impairments -Plastic or metal implants -Peripheral vascular disease -Note: Always decrease ultrasound intensity if the patient complains of discomfort"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment in their assessment and treatment decisions",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Inform patient and family/caregivers of the potential for falls and educate about fall-prevention strategies",
+                "Use a sterile field and sterile techniques when treating open lesions; dressings that retain moisture are contraindicated in the presence of infection",
+                "Allow for wound healing prior to functional rehabilitation",
+                "Contraindications/precautions to use of modalities "
+            ]
+        },
+        "diagnosis need for treatment": "Mechanical knee pain with limitations in general and recreational activities",
+        "rule out": "Other recent knee procedures that might explain symptoms;e.g., collateral ligament/cruciate ligament tear; meniscal injury; osteoarthritis; chondromalacia patella; osteochondritis dissecans; popliteal cyst; pre-patellar  bursitis",
+        "prognosis": [
+            "Patients who have received microfracture treatment ACI are likely to experience good clinical outcomes based on the LysholmKnee Scoring Scale and Knee Injury and Osteoarthritis Outcome Score (KOOS) outcome scores(7)",
+            "Authors of an RCT (28 men, 12 women; ages 18\u201350  years) investigating outcomes 15\u201317  years after mosaicplasty (a type of OAT) or microfracture in Norway found that Lysholm scores were significantly higher in the mosaicplasty group (average Lysholm score of 77 versus 61) in the microfracture group(3)",
+            "Authors of an RCT (N = 37 knees [in 35 patients] treated with matrix-induced  autologous chondrocyte implantation) in Australia found at 2 years follow-up  that the MRI composite infill scores were good to excellent in 100% of the group  that returned to full weightbearing (FWB) 6 weeks postoperatively, compared to 83% in the group that returned to FWB 8 weeks postoperatively(4)",
+            "Patients with untreated focal chondral defects are more likely to experience cartilage damage leading to osteoarthritis, resulting in more pain and dysfunction(6)"
+        ],
+        "referral to other disciplines": "Orthopedic physician for specific red flags and persisting inability to achieve full ROM; aquatic therapist for pool exercise",
+        "other considerations": [],
+        "treatment summary": [
+            "Progressive knee ROM",
+            "Progressive weight-bearing",
+            "Delay return to regular activities, depending on type of surgery",
+            "Progressive gluteal and lower extremity strengthening with neuromuscular electric stimulation, depending on type of surgery",
+            "Surgical rehabilitation protocol has been established for an osteochondral allograft transplantation(8) \u2013Phase I (0\u20136 weeks) -Begin early ROM exercises to minimize contractures and intraarticular scarring -Weight bearing is limited to heel touch -An extension brace will likely be incorporated. The knee should be locked in full extension except when performing strengthening exercises or when using a CPM device -CPM should be utilized for at least 6 hours a day starting at 0\u201340  degrees range and advancing 5\u201310 degrees per day as patient tolerates -Exercises performed should include quadriceps sets, straight leg raises, calf-pumps,  and passive leg hangs to 90 degrees \u2013Phase II (6\u20138 weeks) -Weight bearing should start at 25% of the patient\u2019s body weight and progress 25% weekly until FWB -ROM should continue to increase with use of the CPM device and PROM exercises; goal should be to achieve 130 degrees of knee flexion -Exercises should focus on continued strengthening, flexibility, cardiovascular training, and neuromuscular control -Manual therapy such as scar tissue management and patellar mobilization can be performed \u2013Phase III (8\u201312  weeks) -Progress to full and pain-free  active and passive ROM -Gait training should be performed with weight bearing as tolerated -Closed-chain  exercises can be initiated \u2013Phase IV (12 weeks\u20136  months) -Normal ADLs should be incorporated -Neuromuscular dynamic stability exercises should focus on single-limb  exercises -Advanced strengthening exercises can be performed as tolerated -By this phase, patients should be able to achieve quadriceps and hamstring strengthening within 10% of the contralateral leg before progressing to phase V \u2013Phase V (6\u201312  months) -Sport-specific  exercises can be performed -Athletes may progress to more explosive and high-demand  activities such as plyometrics . Problem Goal Intervention Expected ProgressionHome Exercise Program  Pain _ _ EffusionDecrease pain/ tenderness _ _ Reduce edemaPhysical agents and mechanical modalities _ Cryotherapy for pain and edema. Heat, whirlpool, and contrast baths to relieve stiffness _ _ Joint protection _ Restrict weight-bearing according to physician instructions. Although casting, bracing, or an immobilizer might be prescribed for joint protection, avoid the adverse effects of prolonged immobilizationN/A Recommend strategies for the home to assist in relieving pain/effusion as appropriate and indicated for each"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "pain and swelling controlled": [
+            "V AS"
+        ],
+        "functional rom  > \u00b0 flexion ; full knee extension": [
+            "Goniometric measurements"
+        ],
+        "lower extremity strength comparable to unaffected side": [
+            "MMT"
+        ],
+        "full unassisted weight-bearing": [],
+        "physician clearance for return to regular activities sport": [
+            "Activity limitation measures; e.g., 6MWT, 1-leg  hop test, TUG test",
+            "Knee Outcome Survey \u2013 Activities of Daily Living Scale"
+        ],
+        "improved balance": [
+            "Berg Balance test, Star Excursion Balance test"
+        ],
+        "normal gait": []
+    },
+    "maintenance or prevention": [
+        "Continue quadriceps strengthening to restore symmetry",
+        "Avoid participating in deep squatting activities with weights secondary to compressive forces on knee",
+        "Continue gluteal and lower extremity training to improve patellar control",
+        "Continue flexibility exercises"
+    ],
+    "patient education": [
+        "Boston Children\u2019s Hospital website, \u201cArticular Cartilage Injury,\u201d http://www.childrenshospital.org/conditions-and-treatments/conditions/a/articular-cartilage-injury/overview Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP, Jr. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: F. A. Davis; 2016:42-44,  80-82, 127-128, 144-145, 322-323. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Salzmann GM, Niemeyer P, Hochrein A, Stoddart MJ, Angele P. Articular Cartilage Repair of the Knee in Children and Adolescents. Orthop J Sports Me . March 13, 2018;6(3):2325967118760190. doi:10.1177/2325967118760190. (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Solheim E, Hegna J, Strand T, Harlem T, Inderhaug E. Randomized Study of Long-term  (15-17 Years) Outcome After Microfracture Versus Mosaicplasty in Knee Articular Cartilage Defects. Am J Sports Med . March 2018;46(4):826-831.  doi:10.1177/0363546517745281. (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Ebert JR, Edwards PK, Ackland TR, Fallon M, Janes GC, Wood DJ. Two-year outcomes of a randomized trial investigating a 6-week return to full weightbearing after matrix-induced  autologous chondrocyte implantation. Am J Sports Med . 2017;45(4):838-848.  doi:10.1177/0363546516673837. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Familiari F, Cinque ME, Chahla J, et al. Clinical outcomes and failure rates of osteochondral allograft transplantation in the knee: a systematic review. Am J Sports Med . 2018;46(14):3541-3549.  doi:10.1177/0363546517732531. (SR)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Houck DA, Kraeutler MJ, Belk JW, Frank RM, McCarty EC, Bravman JT. Do focal chondral defects of the knee increase the risk of progression to osteoarthritis? A review of the literature. Orthop J Sports Med . 2018;6(10). doi:10.1177/2325967118801931. (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Kraeutler MJ, Belk JW, Purcell JM, McCarty EC. Microfracture versus autologous chondrocyte implantation for articular cartilage lesions in the knee: a systematic review of 5-year outcomes. Am J Sports Med . 2018;46(4):995-999.  doi:https://doi.org/10.1177/0363546517701912. (SR)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Cotter EJ, Frank RM, Wang KC, Cole BJ. Rehabilitation and return to play following osteochondral allograft transplantation in the knee. Oper Techniq Sports Med . 2017;25(3):208-213.  doi:10.1053/j.otsm.2017.07.008. (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Logerstedt DS, Scalzitti DA, Bennell KL, et al. Knee Pain and Mobility Impairments: Meniscal and Articular Cartilage Lesions Revision 2018. J Orthop Sports Phys Ther . 2018;48(2):A1\u2013A50.  doi:10.2519/jospt.2018.0301. (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Slattery C, Kweon CY. Classifications in brief: Outerbridge classification of chondral lesions. Clin Orthop Relat Res . 2018;476(10):2101-2104. doi:10.1007%2Fs11999.0000000000000255. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Minas T, Ogura T, Bryant T. Autologous chondrocyte implantation. JBJS Essent Surg Tech . 2016;6(2):e24. doi:10.2106%2FJBJS.ST.16.00018. (RV) "
+        }
+    ]
+}

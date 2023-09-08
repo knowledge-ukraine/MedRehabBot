@@ -1,0 +1,386 @@
+{
+    "metadata": {
+        "title": "Acoustic Neuroma  Physical Therapy",
+        "synonyms": [
+            "neuroma, acoustic",
+            "vestibular schwannoma",
+            "acoustic schwannoma",
+            "acoustic neurinoma",
+            "cerebellopontine angle tumor",
+            "neurilemmoma",
+            "vestibular neuroma"
+        ],
+        "anatomical location body part affected": [
+            "Schwann cells surrounding the 8th cranial nerve, usually within the auditory canal"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation"
+        ],
+        "description": [
+            "(1,2,6)",
+            "An acoustic neuroma is a slow-growing,  benign, intracranial, extra-axial  tumor composed of Schwann cells that originates in the nerve sheath of the vestibulocochlear nerve, and usually on the superior vestibular portion. It usually arises in the internal auditory canal near the cerebellopontine angle",
+            "Accounts for 8 to 10% of all intracranial tumors and more than 90% of all cerebellopontine angle tumors",
+            "Patients typically present with hearing loss, tinnitus, and balance dysfunction, and might require physical therapy to address impairments in balance, gaze stability, functional mobility, and ability to ambulate, as well as facial weakness"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "D33.3": "Benign neoplasm of cranial nerves",
+            "R42": "Dizziness and giddiness",
+            "R26.2": "Difficulty in walking, not elsewhere classified",
+            "R26.81": "Unsteadiness on feet",
+            "R26.89": "Other abnormalities of gait and mobility (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "The majority of acoustic neuromas present unilaterally (95%)(2)",
+            "Bilateral presentation is much less common (5%) and is usually due to neurofibromatosis type 2 (NF2)(1)",
+            "Tumors associated with NF2 typically occur before the age of 30,(2) while those not associated with NF2 tend to present in the fifth and sixth decades(31)",
+            "Hearing loss is the most common symptom;(18,37)typically gradual onset of high-frequency sensorineural hearing loss,(4,6) with deterioration of speech discrimination exceeding that predicted by the degree of pure tone loss(1,4)",
+            "Vestibular dysfunction more commonly presents as continuous disequilibrium than episodic vertigo(1)",
+            "Tinnitus(4,6,37) \u2013Occurs in approximately 63\u201375%  of patients(12) \u2013For detailed information, see Clinical Review\u2026 Tinnitus ; CINAHL Topic ID Number: T709236 ",
+            "Dizziness(1,18,19) \u2013Dizziness is the only symptom that seems to decrease as the size of the tumor increases(18)",
+            "Unsteadiness/disequilibrium(1,5,37) \u2013Researchers in Uruguay who conducted an RCT found that patients who were still unsteady one year after surgery to completely remove an acoustic neuroma had alterations in their response to gravitational vertical, as measured by the head-tilt  response test (a test in which the patient wears goggles and has to tilt his or her head in order to keep a white bar aligned with his or her gravitational vertical)(5)",
+            "Vertigo(1)",
+            "Less common symptoms that might occur as tumor progresses \u2013Headaches(2) \u2013Diplopia(8) \u2013Loss of coordination/ataxia(2) \u2013Facial weakness(37) \u2013Facial numbness(6) \u2013Trigeminal nerve dysfunction(2) \u2013Pyramidal weakness(37) \u2013Nystagmus(37) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Atypical proliferation of Schwann cells\u2013Idiopathic \u2013 unknown cause, usually unilateral(2)\u2013Genetic mutation\u2013manifestation  of autosomal dominant disorder NF2. NF2 is caused by a mutation on the NF2 gene onthe long arm of chromosome 22, and is often bilateral(2,15,16)\u2013Recent studies have also identified increased risk of schwannomatosis, a member of the neurofibromatosis family ofneurogenetic disorders, with mutation of the gene LZTR1(15,16)-Although schwannomas with this disease tend to be non-vestibular,  cases of unilateral acoustic neuromas areobserved(15)"
+        ],
+        "pathogenesis": [
+            "Benign, slowly growing encapsulated tumor composed of Schwann cells located around superior or inferior vestibularnerves that might lead to cochlear nerve dysfunction (due to compression or stretching), internal auditory artery occlusion,facial and trigeminal nerve dysfunction, increased intracranial pressure (ICP), or brainstem and/or cerebellar compression(37)\u2013Compression of the facial and vestibulocochlear nerves when located in the internal acoustic canal(2)\u2013Compression of the brain stem, 4th ventricle, and trigeminal nerve when located at the cerebellopontine angle(2)\u2013The glossopharyngeal and vagus nerve are less commonly involved(31)",
+            "The NF2 gene produces merlin, a tumor suppressor; therefore, deficiency in NF2 genes leads to the tumor development(2)"
+        ],
+        "risk factors": [
+            "Environmental exposure to high-dose  ionizing radiation(11,37)",
+            "NF2\u2013Five percent of cases are due to NF2(1,11)",
+            "Exposure to loud noise(11,35)\u2013Results from studies are conflicting(11)-Researchers from Sweden who conducted a study in 2014 found no statistically significant association between acousticneuroma and persistent occupational noise exposure, with or without hearing protection, but they did find a statisticallysignificant association between leisure-time  exposure to loud noise, although they could not rule out a recall bias (i.e.,the inability of the participants to correctly remember past events) as an alternative explanation(11)-Researchers from Denmark who conducted a case-controlled  study found no association between acoustic neuroma andresidential traffic noise(35)",
+            "Mobile phone use(7,10,33)\u2013In studies in Denmark, the United Kingdom, Canada, and Sweden, researchers have found no increase in likelihood ofacoustic neuroma with long-term  mobile phone use. Most recently, researchers from Canada re-analyzed  a prior study anddid not find significant evidence of an increased risk for acoustic neuroma related to mobile phone use"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Any worsening of symptoms (e.g., impaired balance, gait, mental status) or appearance of new symptoms (e.g., headache, dizziness) should be immediately reported to the referring physician",
+        "Elevated ICP may present with vomiting, fever, and visual changes(31)",
+        "Examination and treatment should be performed by a trained vestibular therapist",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -When did symptoms develop? What were the initial symptoms? What are the primary complaints? -When was the acoustic neuroma diagnosed? -Does the patient have any of the risk factors? -Does the patient have any hearing loss?(6) -Researchers who conducted a study in the United States found that workers at risk for hearing loss due to their jobs who undergo annual hearing exams as a part of a company-instituted  hearing conservation program are more likely to have an acoustic neuroma diagnosed that otherwise would have gone undetected(6) -What treatment did patient receive for the tumor? -Were there any postoperative or posttreatment complications? -How have patient\u2019s symptoms changed postoperatively or posttreatment?",
+                "course of treatment": {
+                    "medical management": "Has the patient had surgery, radiosurgery, or radiotherapy, or is the acoustic neuroma under observation? Observation Patients with static acoustic neuromas should be advised that, although the tumor is not increasing in size, they still may be at increased risk for hearing loss in that ear(14) Researchers from the Netherlands found increased quality of life in patients with a small acoustic neuroma who were managed with observation versus active treatment(34) The study included 1,208 patients; the Penn Acoustic Neuroma Quality of Life questionnaire (PANQOL) was used for assessment Microsurgery Involves resection of the tumor; has the lowest rate of recurrence (up to 97.5%have complete tumor removal)(2) Three standard approaches(2) Retromastoid/retrosigmoid Middle cranial fossa Translabyrinthine Staged resection(26) Occasionally, during unfavorable cases involving large tumors, surgery has to be suspended to avoid risk to patient life. Additional surgeries are then necessary  Stereotactic radiosurgery Uses image-guided  radiation directed right at the lesion; leads to disruption in cancer-cell  DNA and, ultimately, cell death(21) Delivery methods are gamma knife, linear accelerators, and proton beam and heavy-charged particles(21) Often used in patients who are at high risk for complications associated with anesthesia(21) Gamma knife single-dose  stereotactic radiosurgery(2) Performed on outpatient basis; indicated for smaller tumors (< 3 cm) or for patients with contraindications to microsurgery Better tumor control rates than conservative management and fewer complications than high-dose radiation, but may not be as effective as highdose Complications include trigeminal or facial nerve damage and hydrocephalus Radiotherapy Stereotactic radiation therapy Typically used when the tumor is of substantial size and resection is not an option Delivers higher dose of radiation to tumor and less to surrounding tissue Requires multiple treatments Hypofractionated stereotactic radiation treatment(9) A more shortened course of therapy(9) Preferable because it is more comfortable for the patient than surgery or conventional regimens but with comparable results, according to researchers in Austria(9) Chemotherapy has not been adequately investigated(2) Treatment for hearing loss(27,32) Nonsurgical Contralateral routing of signal hearing aid Bone conduction devices",
+                    "surgical management": [
+                        "Surgical",
+                        "Surgically implanted bone conduction devices or cochlear implants",
+                        "Can be implanted at the time of tumor removal",
+                        "Cochlear implants can only be used when the cochlear portion of the nerve is preserved(32)",
+                        "Treatment for facial nerve disruption(29)",
+                        "Facial nerve reconstruction with graft"
+                    ],
+                    "medications": " Medications for current illness/injury As the molecular mechanisms behind the genesis of these tumors are better understood, novel therapies are emerging that might reduce mortality and morbidity while preserving function(1,2,20) Bevacizumab (vascular endothelial growth factor blocker) has shown promise for treatment of tumors in patients with NF2(1,31) Has been shown to improve hearing and reduce volume of tumors(31) Researchers in the United States studying salicylates report that they are a promising pharmacotherapy, asCOX-2  is a key modulator in acoustic neuroma cell proliferation(20)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests",
+                        "MRI",
+                        "MRI should typically be the first diagnostic test performed when acoustic neuroma is suspected; using a noncontrast",
+                        "MRI first is more costeffective  and is generally as useful as an MRI with contrast(1)",
+                        "MRI with gadolinium is the gold standard test and has 100% specificity(2)",
+                        "Noncontrast T2-weighted  fast-spin  echo MRI is less expensive and has 98% specificity(2)",
+                        "CT scan can have a high false-negative  rate (as high as 37%)(2)",
+                        "Audiometry(6) ",
+                        "Stacked auditory brainstem response (ABR)(2)",
+                        "ABR is highly sensitive and less expensive than MRI but its sensitivity is lower for smaller tumors(18)",
+                        "Electronystagmogram (ENG)",
+                        "Caloric testing (part of the ENG) is the introduction of hot and cold air or water into the ear to test the vestibular ocular reflex (VOR).Typically it reveals a hypofunction on the affected side(30)",
+                        "Distortion-product  otoacoustic emission tests can determine if the tumor is on the cochlear or vestibular portion of the nerve; retrocochlear hearing loss correlates with the cochlear portion(2)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Are symptoms (e.g. tinnitus, dizziness, headache) associated with any specific activities or with head or body position changes? Does anything relieve or worsen symptoms?",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Are symptoms such as dizziness, vertigo, imbalance, tinnitus, and/or headaches constant or intermittent? Ask patient to further describe (e.g. is tinnitus high pitch or low pitch? Is the patient dizzy or is the room spinning?)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)A 16-item  scale in which patients rate confidence to perform specific activities -Visual Vertigo Analogue Scale (VV AS)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms patient might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., symptoms of hydrocephalus such as worsening of balance, gait, or mental status)",
+                "respiratory status": "Any respiratory complications during surgery? Does the patient require supplemental oxygen? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Other vestibular disorders CNS disorders Hearing impairment Any disease that affects the sensory systems (e.g., diabetes) Vision problems (e.g., macular degeneration) Migraine/other headache",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, cardiovascular disease, psychiatric disorders, orthopedic disorders, and complications of pregnancy Pregnancy may increase risk and accelerate growth of the tumor(2)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs). Is the patient taking medications that affect the vestibular system, such as vestibular suppressants, sedatives, anticonvulsants, antihistamines, antipsychotics, or antidepressants?",
+                    "other symptoms": "Ask patient about other symptoms he or she might be experiencing. Specifically ask about symptoms the patient might not realize are associated (e.g., fatigue, facial weakness, eye problems) or what he or she would like to speak about with a healthcare provider  Researchers in the United Kingdom conducted an online survey (N = 480) to investigate the issues, needs, and concerns of patients undergoing treatment for acoustic neuroma(24) The most frequently selected issues were tinnitus, fatigue, and dizziness The most frequently selected fear was the tumor recurring The most frequently selected concerns were facial appearance and head and neck pain"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Does the patient work? What does his or her job require? Does the patient participate in any other activities?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Does the patient report any preexisting functional limitations? -Does patient have and/or use adaptive equipment?",
+                "living environment": "Inquire about stairs, number of floors in home, and with whom patient lives. Does the patient have a caregiver? Identify if there are barriers to independence in the home. Are any modifications necessary? Does the home seem safe based on the information provided by the patient?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Assess need for adaptive equipment for all patients with imbalance or dizziness. Assess proper fit and use for all equipment patient already has",
+            "balance": "Assess all patients statically and dynamically. If possible, test with platform posturography (EquiTest) or the Clinical Test of Sensory Integration on Balance (CTSIB) (also known as the Foam and Dome test), as well as with Romberg test. Utilize standardized tests such as Berg Balance Scale, Tinetti Balance Assessment, Functional Reach Test, and standing on one leg",
+            "cardiorespiratory function and endurance": [
+                "Assess for involvement of cranial nerves",
+                "-I  Olfactory (evaluate ability to smell)",
+                "-II  Optic (evaluate visual acuity, visual fields, and ocular fundi)",
+                "-II, III  Optic and oculomotor (evaluate pupillary reactions)",
+                "-III, IV , VI  Oculomotor, trochlear, abducens (evaluate extraocular movements)",
+                "-V  Trigeminal (evaluate corneal reflexes, facial sensation, and jaw movements)",
+                "-VII  Facial (evaluate facial movements, including lifting eyebrows, smiling/frowning, showing teeth, filling cheeks with air, and shutting eyes tight)",
+                "-VIII  Vestibulocochlear (evaluate ability to hear)",
+                "-IX, X  Glossopharyngeal, vagus (evaluate swallowing and rise of the palate, gag reflex)",
+                "-V , VII, X, XII  Trigeminal, facial, vagus, hypoglossal (evaluate voice and speech)",
+                "-XI  Spinal accessory (evaluate neck and shoulder movements)",
+                "-XII  Hypoglossal (evaluate tongue symmetry and position)",
+                "Cranial nerve VIII is commonly affected by an acoustic neuroma(37)",
+                "Patients who have had surgery to remove an acoustic neuroma might have facial nerve (CN VII) involvement",
+                "Involvement of other cranial nerves (IV , VI, IX, and X, XI, XII) depends on the size of the tumor(1,37) \u2022Functional mobility  (including transfers, etc.): Assess safety with mobility and note any symptoms with position changes. Use objective measurements such as the FIM and the Timed Up & Go (TUG) test"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "Assess for any imbalance, sway, and/or veering \u2013Perform thorough gait analysis \u2013Utilize standardized tests such as Dynamic Gait Index (DGI) to assess safety with ambulation \u2013Vestibular specific gait tests/analysis -Ambulation with head turns side to side and up and down  -Researchers from the United States found that 4\u20138 weeks after resection for acoustic neuroma, patients still had deficits in head-trunk kinematics (i.e., turning head on body) during gait tasks(36) -Walking with eyes closedAssess cervical spine. If there is a history of pain or dysfunction, a thorough exam should be performed",
+            "muscle strength": "Assessment of upper and lower extremities. If patient has facial weakness, assess strength of facial movements as well \u2013For evaluating facial muscle weakness -Sunnybrook Facial Grading System -Facial Clinimetric Evaluation (FaCE) Scale(23)Perform oral mechanism exam if facial weakness is present",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "Assess all motions in the cervical spine. Also assess hips and ankles, as normal ROM allows for optimal balance reactionsAssess safety in ADLs for patients with dizziness or imbalance; can use the Barthel Index",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Gaze stability -Spontaneous nystagmus -Gaze-evoked  nystagmus -Rapid head thrust(30) -VOR (horizontal [HVOR], vertical [VVOR]) -Head turns per minute while focused on object -15\u00b0 to each side -Normal is 120 head turns per minute -Static vs. dynamic visual acuity -Post head-shaking-nystagmus(30) -Vibration-induced  nystagmus(30) -Hyperventilation test.(30)Researchers in Italy studied the hyperventilation test and found that hyperventilating for 60 seconds induced a nystagmus in 40/45 (89%) patients with unilateral acoustic neuroma, which is indicative of a unilateral vestibular deficit(30) \u2013Use the Dix-Hallpike  test to assess for benign paroxysmal positional vertigo (BPPV), which causes true vertigo (room spinning) for seconds to a minute when the patient lies down, rolls over, and looks up and/or down. For detailedT708435 -In order to perform the test, begin with patient in long sitting position, rotate head 45\u00b0 to one side and have patient lie back with head hanging off edge of bed. Wait 45 seconds and sit back up. Repeat on other side. Positive test indicated by patient\u2019s subjective report of the room spinning and therapist\u2019s objective report of rotary nystagmus. Horizontal nystagmus is possible but less likely to result in a positive response, and indicates horizontal canal BPPVAssess for 16 specific positions. Patient reports and therapist notes severity and duration of symptoms25-item  questionnaire that evaluates how dizziness affects the patient\u2019s quality of life, including emotional, functional, and physical domains \u2013Tinnitus Functional Index (TFI)(23) \u2013Quality of life(25) -PANQOL -Minimally Clinically Important Difference (MCID) is 11 -SF-36 -MCID for mental health component is 7 and for physical health component is 8",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess in all patients and routinely monitor for changes. Consider using the Mini-Mental  State Exam (MMSE), and obtain all formal testing results done by other disciplines",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "When possible, treatment should be provided by a trained vestibular therapist ",
+                "Patients with this diagnosis might be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Inform patient and family/caregivers of the potential for falls and educate about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Patients with acoustic neuroma benefit from physical therapy to treat dizziness, imbalance, gait abnormality, and facial weakness",
+        "rule out": " Rule out Labyrinthitis Vestibular neuritis BPPV(31) Migraine-associated  dizziness M\u00e9ni\u00e8re\u2019s disease(31) Perilymphatic fistula Microvascular compression Chiari malformation Gentamicin toxicity(31) Multiple sclerosis Hearing loss of different etiology(2) \u2013Presbycusis (age-related  hearing loss) \u2013Middle ear effusion \u2013Infection \u2013Wax \u2013Cholesteatoma \u2013Tympanic membrane rupture Stroke(31) Brain injury Other cerebellopontine angle tumors (e.g. meningiomas, epidermoid tumors)(19)",
+        "prognosis": [
+            "Without treatment, approximately half of acoustic neuromas shrink or do not grow further(2)",
+            "Conservative therapy is more likely to preserve hearing than radiotherapy or surgery(2)",
+            "Researchers in the Czech Republic who analyzed the effect of microsurgery on hearing and tinnitus found that the main prognostic indicators of hearing preservation were grade/size of tumor, preoperative hearing level, intraoperative neuromonitoring, tumor consistency, and adhesion to neurovascular structures. The main prognostic indicators of tinnitus elimination were preservation of useful hearing and neurectomy of the eighth cranial nerve. The main prognostic indicators for persistence and new onset of tinnitus were the preservation of cochlear nerve but loss of preoperative hearing(13)",
+            "Researchers in the United States found that 50\u201370%  of patients maintained serviceable hearing after surgery using middle cranial fossa approach and, of those, 75% maintained serviceable hearing after 5 years(28)",
+            "Researchers who conducted a study in the United States found similar quality of life outcomes for patients regardless of management (conservative, gamma knife, or surgery)(3) \u2013Main outcome used was PANQOL scores"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Social work for needs at home Psychology for anxiety, depression Speech therapy for patients with impaired speech or dysphagia Occupational therapy for ADL training Physician for red flags, suspicion of hydrocephalus Audiologist for hearing testing, vestibular testing, hearing aids",
+        "other considerations": [
+            "Patients might have the following problems in association with acoustic neuroma  \u2013Hydrocephalus(2) -Symptoms include headache, ataxia, worsening of balance or gait, blurred or double vision, urinary incontinence, decline of mental status \u2013Brainstem compression(2) \u2013Cerebellar tonsil herniation(2)",
+            "Surgical complications \u2013Possible complications include the following: -Headaches -Hearing loss -Although rare, can affect contralateral ear as well(12) -Facial paresis(37) -Cerebellar injury -Damage to the anterior or posterior intracerebral arteries(37) -CSF leakage can lead to meningitis and abscess formation in the brain(17) -Air embolism -Intracranial hemorrhage -Impaired vestibular compensation(21) -Meningitis(21) -Mortality(21)"
+        ],
+        "treatment summary": [
+            "There is limited research regarding physical therapy for patients with acoustic neuroma \u2013Limitations of studies include small sample sizes, lack of randomization, and lack of controls or confounding variables . Problem Goal Intervention Expected Progression Home Program Impaired functional mobility due to balance, flexibility, and strength impairmentsImproved balance, flexibility, and strength resulting in improved functional mobilityTherapeutic exercise _ General strengthening and/or stretching exercises if indicated to maximize strength and flexibility to allow for optimal balance reactions _ _ Romberg exercises, static and dynamic balance exercises that vary somatosensory, visual, and vestibular conditionsStrengthening exercises can be progressed with resistive equipment such as weights or from supine to sitting to standing _ _ Balance activities can be progressed by narrowing base of support and/or having patient stand on one limb or unstable surfaces. Also can add head movements and cognitive activitiesProvide patient/ family with written instructions and diagrams to safely perform exercises at home Decreased ability to ambulate safelyImproved safety with ambulationGait training _ Gait training, with assistive device if necessaryWean off assistive device. Add head turns, obstacles, and cognitive tasks, vary surface, narrow base of support, and have patient close eyesProvide patient/ family with written instructions and diagrams to perform safely at home  Decreased safety with increased risk for falls while performing ADLs and functional mobilityImprove safety with ADLs performance and functional mobilityFunctional and safety training _ Educate patient/ family regarding safe techniques for transfers, gait, and ADLs. Check that patient is using assistive devices and adaptive equipment correctly. Home modifications (e.g., remove throw rugs)Provide less assistance and feedback as patient improvesProvide patient/ family with written instructions and diagrams regarding fall prevention techniques and home modifications Decreased gaze stability, dizzinessIncreased gaze stability, decreased dizzinessVestibular exercises _ VOR X1 viewing: instruct patient to view a stationary object while turning his or her head side to side (HVOR) and up and down (VVOR) for 1\u2013 2 minutes while the object stays in perfect focus _ _ VOR X2 viewing: the patient views a target moving in the opposite direction of head rotation _ _As patient improves, he or she should be able to turn head faster with the object still staying perfectly clear. Adaptations to the vestibular exercises should be made as appropriate for each patient; take into consideration the environment in which patient performs work/ leisure or ADL activity _ _ Can progress to include different backgrounds (e.g., checkerboard) or perform exercises outdoors _ _ Incorporate VOR exercises with balance activities _ _ Normal rate is 120 head turns/minutePerform exercises for 1\u20132 minutes, 2\u20133 times per day as tolerated  Weakness of facial musclesIncrease strength of facial musclesTherapeutic exercise _ Facial muscle strengthening exercises might include exercises based on proprioceptive neuromuscular facilitation (PNF). PNF utilizes traction, contralateral contraction, manual contact, maximal resistance, verbal input, and stretching to increase motor control and strength _Facial muscle strengthening can be progressed from passive to active assisted to active to resisted exerciseProvide patient/ family with written instructions and diagrams ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes and associated measures": [
+            "Improved balance\u2013Platform posturography (EquiTest)\u2013Berg Balance Scale\u2013Tinetti Balance Assessment\u2013Functional Reach Test\u2013Clinical Test of Sensory Integration on Balance\u2013Standing on one leg\u2013Romberg test",
+            "Improved dizziness and vertigo\u2013VV AS\u2013UCLA Dizziness Questionnaire\u2013Motion sensitivity test",
+            "Improved safety and independence with ADLs and gait\u2013DGI\u2013TUG test\u2013FIM\u2013ABC Scale\u2013DHI\u2013Functional Checklist",
+            "Increased gaze stability\u2013VOR speed (head turns per minute)",
+            "Increased strength of facial muscles\u2013Sunnybrook Facial Grading System\u2013FaCE Scale(22)",
+            "Improved tinnitus\u2013TFI",
+            "Patient satisfaction/quality of life\u2013PANQOL\u2013SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "Patient is advised to follow home program and follow up with physician as indicated",
+        "Implementation of all prevention strategies and home modifications"
+    ],
+    "patient education": [
+        "Mayo Clinic website: https://www.mayoclinic.org/diseases-conditions/acoustic-neuroma/symptoms-causes/syc-20356127",
+        "National Institute on Deafness and Other Communication Disorders website: https://www.nidcd.nih.gov/health/vestibular-schwannoma-acoustic-neuroma-and-neurofibromatosis",
+        "American Hearing Research Foundation website: https://www.american-hearing.org/understanding-hearing-balance/ Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on January 4, 2019 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Lustig LR, Schindler JS. Ear, nose, & throat disorders. In: Papadakis MA, McPhee SJ, eds. Current Medical Diagnosis & Treatment 2018 . 57th ed. New York, NY: McGraw-Hill Medical; 2018:218. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Cohn J, Quercetti K, Ghaderi M. Acoustic neuroma. Domino FJ, ed. The 5-Minute Clinical Consult Standard 2016 . 24th ed. Philadelphia, PA: Wolters Kluwer Health; 2015. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "McLaughlin EJ, Bigelow DC, Lee JY, Ruckenstein MJ. Quality of life in acoustic neuroma patients. Otol Neurotol . 2015;36(4):653-656.  doi:10.1097/MAO.0000000000000674. (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Lee SH, Choi SK, Lim YJ, et al. Otologic manifestations of acoustic neuroma. Acta Otolaryngol . 2015;135(2):140-146.  doi:10.3109/00016489.2014.952334. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Suarez H, Ferreira E, Arocena S, et al. Chronic balance disorders after acoustic neuroma surgery: Assessment of gravitational vertical perception. Acta Otolaryngol . 2015;135(4):348-353.  doi:10.3109/00016489.2014.974287. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Taiwo O, Galusha D, Tessier-Sherman  B, et al. Acoustic neuroma: Potential risk factors and audiometric surveillance in the aluminum industry. Occup Environ Med . 2014;71(9):624-628.  doi:10.1136/oemed-2014-102094.  (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Bensen VS, Pirie K, Schuz J, Reeves GK, Beral V, Green J. Authors' response to: The case of acoustic neuroma: Comment on mobile phone use and risk of brain neoplasms and other cancers. Int J Epidemiol . 2014;43(1):275. doi:10.1093/ije/dyt186. (X)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Zhidan L, Jun H. Electroacupuncture therapy for abducent palsy after acoustic neuroma surgery. Acupunct Med . 2015;33(2):168-169.  doi:10.1136/acupmed-2014-010699.  (C)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Kranzinger M, Zehentmayr F, Fastner G, et al. Hypofractionated stereotactic radiotherapy of acoustic neuroma: Volume changes and hearing results after 89-month  median follow-up.  Strahlenther Onkol . 2014;190(9):798-805.  doi:10.1007/s00066-014-0630-4.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Pettersson D, Mathiesen T, Prochazka M, et al. Long-term  mobile phone use and acoustic neuroma risk. Epidemiology . 2014;25(2):233-241.  doi:10.1097/ EDE.0000000000000058. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Fisher JL, Pettersson D, Palmisano S, et al. Loud noise exposure and acoustic neuroma. Am J Epidemiol . 2014;180(1):58-67.  doi:10.1093/aje/kwu081. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Deeb RH, Rock JP, Seidman MD. Contralateral hearing loss after vestibular schwannoma excision: A rare complication of neurotologic surgery. Ear Nose Throat J . 2015;94(1):28-31.  doi:N/A. (C)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Chovanec M, Zverina E, Profant O, et al. Does attempt at hearing preservation microsurgery of vestibular schwannoma affect postoperative tinnitus? BioMed Res Int . 2015;1-9. doi:10.1155/2015/783169. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Patel NB, Nieman CL, Redleaf M. Hearing in static unilateral vestibular schwannoma declines more than in the contralateral ear. Ann Otol Rhinol Laryngol . 2015;124(6):490-4. doi:10.1177/0003489414566181. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Smith MJ, Isidor B, Beetz C, et al. Mutations in LZTR1 add to the complex heterogeneity of schwannomatosis. Neurology . 2015;84(2):141-7.  doi:10.1212/ WNL.0000000000001129. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Piotrowski A, Xie J, Liu YF, et al. Germline loss-of-function  mutations in LZTR1 predispose to an inherited disorder of multiple schwannomas. Nat Genet . 2014;46(2):182-7. doi:10.1038/ng.2855. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Crowson MG, Cunningham CD, Moses H, Zomorodi AR, Kaylie DM. Preoperative lumbar drain use during acoustic neuroma surgery and effect on CSF leak incidence. Ann Otol Rhinol Laryngol . 2016;125(1):63-8.  doi:10.1177/0003489415597917. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Lee SH, Choi SK, Lim YK, et al. Otologic manifestations of acoustic neuroma. Acta Otolaryngol . 2015;135(2):140-6.  doi:10.3109/00016489.2014.952334. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Kim SH, Lee SH, Choi SK, Lim YJ, Na SY, Yeo SG. Audiologic evaluation of vestibular schwannoma and other cerebellopontine angle tumors. Acta Otolaryngol . 2016;136(2):149-53.  doi:10.3109/00016489.2015.1100326. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Dilwali S, Kao SY, Fujita T, Landegger LD, Stankovic KM. Nonsteroidal anti-inflammatory  medications are cytostatic against human vestibular schwannomas. J Lab Clin Med . 2015;166(1):1-11.  doi:10.1016/j.trsl.2014.12.007. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Brathwaite J, Mendiratta P. Radio surgical ablation of acoustic neuromas: a unique treatment modality for an elderly woman. J Am Geriatr Soc . 2016;64(2):446-7.  doi:10.1111/ jgs.13979. (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Leong SC, Lesser TH. A national survey of facial paralysis on the quality of life of patients with acoustic neuroma. Otol Neurol . 2015;36(3):503-9.  doi:10.1097/ MAO.0000000000000428. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Overdevest JB, Pross SE, Cheung SW. Tinnitus following treatment for sporadic acoustic neuroma. Laryngoscope . 2015. doi:10.1002/lary.25672. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Leong SC, Lesser TH. A United Kingdom survey of concerns, needs, and priorities reported by patients diagnosed with acoustic neuroma. Otol Neurol . 2015;36(3):486-90. doi:10.1097/MAO.0000000000000556. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Carlson ML, Tveiten OV, Yost KJ, Lohse CM, Lund-Johnson  M, Link ML. The minimally clinically important difference in vestibular schwannoma quality-of-life  assessment: An important step beyond P <.05. Otolaryngol Head Neck Surg . 2015;153(2):202-8.  doi:10.1177/0194599815585508. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Kunimoto Y, Lauda L, Falcioni M, Taibah A, Hasegawa K, Sanna M. Staged resection for vestibular schwannoma. Acta Otolaryngol . 2015;135(9):895-900. doi:10.3109/00016489.2015.1040170. (C)"
+        },
+        {
+            "number in article": 27,
+            "reference": "McRackan TR, Goddard JC, Wilkinson EP, Slattery WH, Brackman DE. Bone-anchored  hearing device placement with translabyrinthine tumor removal. Otolaryngol Head Neck Surg. 2015;152(2):314-18.  doi:10.1177/0194599814558038. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Quist TS, Givens DJ, Gurgel RK, Chamoun R, Shelton C. Hearing preservation after middle fossa vestibular schwannoma removal: Are the results durable? Otolaryngol Head Neck Surg . 2015;153(4):706-11.  doi:10.1177/0194599814567874. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Ramos DS, Bonnard D, Franco-Vidal  V, Liguoro D, Darrouzet V. Stitchless fibrin glue-aided  facial nerve grafting after cerebellopontine angle schwannoma removal: technique and results in 15 cases. Otol Neurotol . 2015;36(3):498-502.  doi:10.1097/MAO0000000000000408. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Califano L, Iorio G, Salafia F, Mazzone S, Califano M. Hyperventilation-induced  nystagmus in patients with vestibular schwannoma. Otol Neurotol . 2015;36(2):303-306. doi:10.1097/MAO.0000000000000699. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Bilodeau CC. Acoustic Neuroma. In: Ferri FF, ed. 2018 Ferri\u2019s Clinical Advisor . Philadelphia, PA: Elsevier Inc; 2018:16. (GI)"
+        },
+        {
+            "number in article": 32,
+            "reference": "DeHart AN, Broaddus WC, Coelho DH. Translabyrinthine vestibular schwannoma resection with simultaneous cochlear implantation. Cochlear Implants Int . 2017;18(5):278-284.  doi:10.1080/14670100.2017.1337665. (C)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Momoli F, Siemiatycki J, McBride ML, et al. Probabilistic multiple-bias  modeling applied to the canadian data from the interphone study of mobile phone use and risk of glioma, meningioma, acoustic neuroma, and parotid gland tumors. Am J Epidemiol . 2017;186(7):885-893.  doi:10.1093/aje/kwx157. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Soulier G, van Leeuwen BM, Putter H, et al. Quality of life in 807 patients with vestibular schwannoma: comparing treatment modalities. Otolaryngol Head Neck Surg . 2017;157(1):92-98.  doi:10.1177/0194599817695800. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Roswall N, Stangerup SE, Caye-Thomasen  P, et al. Residential traffic noise exposure and vestibular schwannoma \u2013 a Danish case\u2013control  study. Acta Oncol . 2017;56(10):1310-1316.  doi:10.1080/0284186X.2017.1337925. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Paul SS, Dibble LE, Walther RG, Shelton C, Gurgel RIK, Lester ME. Characterization of head-trunk  coordination deficits after unilateral vestibular hypofunction using wearable sensors. JAMA Otolaryngol Head Neck Surg . 2017;143(10):1008-1014.  doi:10.1001/jamaoto.2017.1443. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Greene J, Al-Dhahir MA. Acoustic neuroma (vestibular schwannoma) [Updated 2018 Nov 25]. StatPearls [Internet] Web site. https://www.ncbi.nlm.nih.gov/books/NBK470177/ . Published 2019. (GI)"
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "metadata": {
+        "title": "Quadriceps Contusion",
+        "synonyms": [
+            "contusion",
+            "quadriceps"
+        ],
+        "anatomical location body part affected": [
+            "Anterior thigh, quadriceps muscle"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "A contusion (i.e., bruise) is an area where blood vessels have been disrupted, most often due to blunt trauma.In this case, disruption of blood vessels has occurred within the quadriceps"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S70.0": "contusion of hip",
+            "S70.1": "contusion of thigh",
+            "S80.1": "contusion of other and unspecified parts of lower leg (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Formation of discoloration (red, purple, blue, black, yellow, green, or brown), soreness, stiffness, and tenderness to palpation over the affected area, which lasts for 2\u20134 weeks",
+            "Staged by amount of active knee ROM measured in the first 12\u201324  hours after the injury(1) \u2013Mild: > 90\u00b0 \u2013Moderate: 45\u201390\u00b0 \u2013Severe: < 45\u00b0 Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Contusions form following trauma, a fall, or a bump that leads to the tearing or breakingof the superficial blood vessels under the skin"
+        ],
+        "pathogenesis": [
+            "Soft tissue and vascular disturbance causes either intermuscular hematoma orintramuscular hematoma. Intermuscular hemorrhage of the septum of fascial sheathcauses bruising distally. Intramuscular hemorrhage heals more slowly and is likely toprogress to myositis ossificans(1)"
+        ],
+        "risk factors": [
+            "Anemia",
+            "Blood platelet and clotting disorders",
+            "Vascular disorders",
+            "Participation in contact sports",
+            "Increased age",
+            "Females > males"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Forceful manipulation may contribute to the development of myositis ossificans (heterotopic ossification of muscle) For more information, see Clinical Review ... Heterotopic Ossification, CINAHL Topic ID Number: T708507",
+        "Use caution during manual techniques for patients with clotting disorders or platelet disorders",
+        "Suspected complications that warrant immediate referral back to physician or emergent care include myositis ossificans, anterior compartment syndrome, osteomyelitis, and a Morel-Lavall\u00e9e  lesion(2,4,8,11)",
+        "Patients are generally advised to avoid use of corticosteroids(1,2)",
+        "See  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Typically a result of trauma or a sports injury -When did the injury occur? -When was symptom onset? (Immediate or delayed onset) -Was edema present?",
+                "course of treatment": {
+                    "medical management": "Ask about patient\u2019s past and current medical management. How has the pain responded to treatments? If sportsrelated,  was the patient examined/treated in athletic training room?",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Acetaminophen, diclofenac, indomethacin, and combinations of these drugs provide similar levels of pain relief in patients with an isolated limb trauma(3) Avoid use of corticosteroids(1) NSAIDs may reduce edema and risk of myositis ossificans, but should be avoided within 24 hours of injury(1,2)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Usual tests for this condition are the following:",
+                        "X-ray  to rule out fracture",
+                        "MRI to rule out muscle or tendon rupture",
+                        "Ultrasound if swelling is also present to rule out a Morel-Lavall\u00e9e lesion, which is an internal degloving injury that causes a separation of the skin and subcutaneous tissue from the underlying fascia(11)",
+                        "A rare injury but does tend to occur at the thigh and can be confused with a quadriceps contusion and delay correct treatment"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Depending on severity of the contusion, knee flexion, palpation of quadriceps, and weight-bearing/gait may all potentially aggravate the patient\u2019s symptoms(4)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms. Symptoms typically consist of pain/tenderness, edema, decreased knee flexion, reduced performance of the quadriceps muscle group, and stiffness(4)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if any, that are associated with painful area",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/ or symptoms that could be indicative of a need to refer to physician (excessive swelling, persistent pain, lack of improvement)  Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Is there a pattern of similar injuries and contusions that do not appear to be the result of accidental injury? Are there signs of abuse? Are the bruises in various stages of healing?",
+                    "comorbid diagnoses": " Comorbid diagnoses Is there a history of anemia or clotting disorders? Is there a patient or family history of any vascular disease? Does the patient smoke?",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Does the patient work? What does his or her job require?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient report any functional limitations as a result of the contusion?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (caregivers, etc.). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Evaluate for edema with circumferential girth measurements(5)",
+            "assistive and adaptive devices": "",
+            "balance": " Balance \u2013Assess balance with single leg stance on the injured leg and compare to uninjured side; determine if a fall risk is present, thus requiring an assistive device -For higher-level  patients, can also assess with eyes closed",
+            "cardiorespiratory function and endurance": [],
+            "circulation": " Circulation \u2013Capillary refill test(2) \u2013Assess distal pulses(2)",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Evaluate knee flexion and extension during stance and swing phase \u2013Evaluate heel strike and toe off during stance phase(4) -Anterior pelvic tilt -Knee is \u201clocked\u201d\u2014avoidance of flexion -Hip external rotation to assist in clearing foot during swing -Early plantar flexion \u2013When a severe contusion is present, the patient may require the use of crutches in order to remain ambulatory(4) Joint integrity and mobility \u2013With direct impact involved, a suspicion of further knee injury must be considered -Lachman\u2019s test for ACL integrity(6) -Knee varus and valgus stress tests to assess MCL and LCL integrity -McMurray\u2019s test for meniscal tears",
+            "muscle strength": " Muscle strength \u2013Manual muscle testing of the lower extremity when pain subsides ",
+            "observation inspection palpation including skin assessment": [
+                "Assess for abrasions or open wounds on skin",
+                "When the patient has sustained a severe contusion, marked edema and a bulge in the quadriceps may be visible(4)",
+                "A hard mass may be palpated in the presence of myositis ossificans(8)",
+                "In a 22-year-old  male described in a case study presented by authors from the United States,a quadriceps contusion incorrectly was diagnosed but eventually it was diagnosed as a Morel-Lavall\u00e9elesion,  whose hallmark sign is a palpable, soft, fluctuant mass over the medial thigh and knee. As early diagnosis and treatment of Morel-Lavall\u00e9e  lesion is important, refer back to physician if suspected(11)",
+                "Assess for bruising. Note: -Color -Size -Location -General shape",
+                "Trace area of contusion for objective measurement"
+            ],
+            "posture": "",
+            "range of motion": " Range of motion \u2013Marked decreased knee flexion ROM may indicate a severe quadriceps contusion \u2013Inability to fully straighten the knee actively may also indicate significant quadriceps contusion \u2013Inability to fully straighten the knee passively may be due to the presence of knee joint pathology (e.g., edema or meniscal tear)",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Patient completion of the Lower Extremity Functional Scale (LEFS) \u2013Sport-specific  drills to assess for ability to return to sport -Should be initiated once 120\u00b0 of active knee flexion can be achieved without pain(2)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [
+                "cold urticaria",
+                "cold intolerance",
+                "paroxysmal cold hemoglobinuria",
+                "cryoglobulinemia",
+                "Raynaud\u2019s disease or phenomenon",
+                "over a regenerating peripheral nerve",
+                "over a circulatory compromise",
+                "over an area of peripheral vascular disease"
+            ],
+            "cryotherapy precautions": [
+                "hypertension",
+                "thermoregulatory disorders",
+                "over a superficial peripheral nerve",
+                "over an open wound",
+                "over an area of poor sensation",
+                "with individuals with poor cognition",
+                "in the very young and the very old",
+                "persons with an aversion to cold"
+            ],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [
+                "over areas with a lack of intact thermal sensation",
+                "over areas of vascular insufficiency or vascular disease",
+                "over areas of recent hemorrhage or potential hemorrhage",
+                "over areas of known malignancy",
+                "over areas of acute inflammation ",
+                "over infected areas where infection may spread",
+                "over areas where liniments or heat rubs have recently been applied",
+                "in any situation deemed unreliable by the practitioner"
+            ],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Do not apply soft tissue mobilization during the initial 48 hours (post injury(4))",
+                "Cryotherapy  contraindications include:(7)",
+                "Cryotherapy  precautions include:(7)",
+                "Superficial heat  is contraindicated:(7)"
+            ]
+        },
+        "diagnosis need for treatment": "Therapy needed for pain management, early ROM, and return to prior level of function or sport",
+        "rule out": " Rule out Fracture Muscle or tendon rupture Phlebitis Morel-Lavall\u00e9elesion(11) Compartment syndrome(2) Osteomyelitis of the femur(8) Myositis ossificans(4)",
+        "prognosis": [
+            "Mild to moderate contusions normally heal within 2\u20134 weeks",
+            "Severe contusions may result in greater disability and longer healing time"
+        ],
+        "referral to other disciplines": " Social services if abuse is suspected Orthotist for bracing",
+        "other considerations": [],
+        "treatment summary": [
+            "Bracing the involved lower extremity in 120\u00b0 of flexion for 24 hours, post initial contusion to the quadriceps, was reported to reduce time to return to sport(9) \u2013Based on a case series of 47 United States Naval Academy midshipmen \u2013Participants were placed in the brace (upon diagnosis) when passive knee flexion of 120\u00b0 could be obtained without  pain \u2013Following removal of brace, participants were advised to complete quadriceps stretching and isometrics (advised to stop if pain was felt) \u2013Mean time to return to sport was 3.5 days \u2013One report of myositis ossificans was noted in a follow-up  of 23 of the participants . Problem Goal Intervention Expected Progression Home Program  Increased pain and point tenderness over the contusion _ _ Decreased gait capacity secondary to pain _ _ Decreased functional ability secondary to pain and stiffnessDecrease pain and tenderness over the contusion _ _ Restore gait and functional abilityEarly intervention _ Over the first 24\u201348 hours: rest, intermittent ice, compression, and elevation (RICE)(2) _ _ Physical agents and mechanical modalities _ There are no studies on the effectiveness of ultrasound after contusion. Generally, any modality that produces heat should not be used in the early stages _ _ Cold packs for pain and edema management may be used _ _ Prescription, application of devices and equipment _ Crutches may be implemented when an antalgic gait is present(4)Gait may begin without an assistive device once patient is pain free(4)Recommend pain management program for home as indicated  Decreased ROM and strength of the knee or hip _ _ Decreased activation of the quadriceps muscles(10)Restore hip and knee ROM and strength _ _ Restore normal quadriceps muscle activationTherapeutic exercise _ Restore ROM in hip and knee _ _ Physical agents and mechanical modalities _ In the subacute state, moist heat packs can be used to improve flexibility of the muscle tissue _ _ Massage to decrease edema\u2014use caution directly over the contusion _ _ Stretching of the hip and knee musculature as toleratedStrengthening activities should begin once pain- free ROM is restored _ _ Eccentric strengthening should begin once isometric and concentric activities are well tolerated; ultimately the patient is progressed to closed- chain activities(4)Provide patient and family/caregivers with written instructions regarding therapeutic activities that can be performed at home Decreased participation in sports activitiesReturn to sport Functional training _ Retraining of ADLs as needed _ _ Sport-specific training should be initiated once 120\u00b0 of active knee flexion can be achieved without pain(9)Progress as indicated; may consider activities such as aquatic therapy, balance work, and running drills as signs and symptoms allow(4)Instruct patient in a home exercise program that complements the physical therapy exercise program; should be progressed as the patient moves through phases of healing Development of myositis ossificans(1)Refer to physician as indicated to assess for presence of myositis ossificans _ _ Reduce risk of developing myositis ossificansTherapeutic exercises _ Initiation of flexion exercise in the early stages may lessen recovery time and decrease the risk of developing myositis ossificans(1)N/A N/A ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased pain and tenderness over the contusion": [
+            "V AS"
+        ],
+        "restored gait and functional ability": [
+            "Gait assessment, functional testing"
+        ],
+        "restored hip and knee rom and strength": [
+            "Goniometry, manual muscle testing, isokinetic testing, flexibility testing"
+        ],
+        "restored normal quadriceps muscle activation": [
+            "Functional testing, flexibility testing"
+        ],
+        "return to sport": [
+            "Functional testing"
+        ],
+        "patient satisfaction": [
+            "LEFS"
+        ],
+        "reduced risk of developing myositis ossificans": []
+    },
+    "maintenance or prevention": [
+        "Avoiding injury and situations that increase the risk of injury",
+        "Stretching",
+        "Prophylactic management of platelet and blood clotting disorders"
+    ],
+    "patient education": [
+        "See \u201cMuscle Contusion (Bruise)\u201d from the American Academy of Orthopaedic Surgeons at https://orthoinfo.aaos.org/en/diseases--conditions/muscle-contusion-bruise Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on December 16, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Larson CM, Almekinders LC, Karas SG, Garrett WE. Evaluating and managing muscle contusion and myositis ossificans. Phys Sportsmed . 2002;30(2):41-50.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Wieting JM, Slesinski M. Quadriceps contusion. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Saunders Elsevier; 2019:308-311333-335.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Woo WW, Man SY, Lam PK, Rainer TH. Randomized double-blind  trial comparing oral paracetamol and oral nonsteroidal antiinflammatory drugs for treating pain after musculoskeletal injury. Ann Emerg Med . 2005;46(4):352-361.  (RCT)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Hertling D, Kessler RM. Management of Common Musculoskeletal Disorders: Physical Therapy Principles and Methods . 4th ed. Philadelphia, PA: Lippincott Williams & Wilkins;"
+        },
+        {
+            "number in article": 2006,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Alonso A, Hekeik P, Adams R. Predicting recovery time from the initial assessment of a quadriceps contusion injury. Aust J Physiother . 2000;46(3):167-177.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Newton M, Walker J. Acute quadriceps injury. A case study. Emerg Nurse . 2004;12(8):24-29.  (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Bonsell S, Freudigman PT, Moore HA. Quadriceps muscle contusion resulting in osteomyelitis of the femur in a high school football player: a case report. Am J Sports Med . 2001;29(6):818-820.  (C)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Aronen JG, Garrick JG, Chronister RD, McDevitt ER. Quadriceps contusions: clinical results of immediate immobilization in 120 degrees of knee flexion. Clin J Sport Med . 2006;16(5):383-387.  (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Manal TJ, Snyder-Mackler  L. Failure of voluntary activation of the quadriceps femoris muscle after patellar contusion. J Orthop Sports Phys Ther . 2000;30(11):654-663.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Weiss NA, Johnson JJ, Anderson SB. Morel-Lavallee  Lesion Initially Diagnosed as Quadriceps Contusion: Ultrasound, MRI, and Importance of Early Intervention. West J Emerg Med . May 2015;16(3):438-441.  doi:10.5811/westjem.2015.3.25148. (C)"
+        }
+    ]
+}

@@ -1,0 +1,337 @@
+{
+    "metadata": {
+        "title": "Lateral Elbow Tendinopathy",
+        "synonyms": [
+            "tennis elbow",
+            "extensor carpi radialis tendonitis",
+            "lateral epicondylitis",
+            "radialis tendonitis, extensor carpi",
+            "tendonitis, extensor carpi radialis",
+            "lateral epicondylalgia",
+            "lateral elbow tendinosus"
+        ],
+        "anatomical location body part affected": [
+            "Lateral epicondyle of the elbow joint (humerus), common extensor tendon (wrist), extensor carpi radialis tendon"
+        ],
+        "area of specialty": [
+            "hand therapy",
+            "orthopedic rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Unilateral elbow pain at lateral epicondyle that is usually associated with repetitive motion. Clinical decision-making regarding diagnostic and treatment methods should include understanding the biomechanics of elbow overuse, as in the Occupational Adaptation Model(20,25)",
+            "Chronic overuse tendon injury should be considered degenerative tendinosis, rather than tendonitis(27) \u2013Tendinopathy is a clinical syndrome describing repetitive overuse tendon injury characterized by pain and/or functional limitation \u2013Tendinopathy could be tendinitis (presence of inflammation) or tendinosis (absence of inflammation) \u2013Inflammation is not considered to be part of pathology in most chronic cases of tendinopathy (i.e., anti-inflammatories  may have no benefit) \u2013Tendinosis is likely more common than tendinitis"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M": {
+                "base": "77.1 lateral epicondylitis [tennis elbow]",
+                "M": "77.12 left elbow"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement will depend on patient\u2019s insurance. No specific issues or information regarding reimbursement has been identified",
+            "Presentation/signs and symptoms \u2013Pain, tenderness, and/or a burning sensation along the lateral aspect of elbow; can spread into the forearm and wrist \u2013Pain increases with resisted wrist extension(28) and lessens with rest \u2013Typically the greatest tenderness is felt upon palpation of the extensor carpi radialis brevis (ECRB) tendon(28) \u2013Very commonly associated with playing tennis, but also often found as an occupational injury due to repetitive elbow forces and work postures Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "\u2013Pain, tenderness, and/or a burning sensation along the lateral aspect of elbow; can spread into the forearm and wrist \u2013Pain increases with resisted wrist extension(28) and lessens with rest \u2013Typically the greatest tenderness is felt upon palpation of the extensor carpi radialis brevis (ECRB) tendon(28) \u2013Very commonly associated with playing tennis, but also often found as an occupational injury due to repetitive elbow forces and work postures Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Most cases are associated with repetitive tasks or activities involving gripping and/orwrist extension. The onset is often insidious in nature(29)",
+            "Generally related to overuse or excessive loading of the wrist extensors(i.e., extensor carpi radialis brevis and commonextensor)(29)"
+        ],
+        "pathogenesis": [
+            "Although initially thought to be inflammatory, research supports that lateral elbow tendinopathy is a degenerative processor tendinosis. Histologically the involved area has granulation tissue, micro-rupture,  fibroblasts, vascular hyperplasia, andunstructured collagen, with notably few inflammatory cells (e.g., macrophages, lymphocytes, neutrophils)(29)"
+        ],
+        "risk factors": [
+            "Age over 40 years",
+            "Participation in activities involving repetitious manual activities or frequent lifting of loads over 20 kg",
+            "Playing tennis or other racket sports",
+            "Smoking",
+            "Obesity"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Does history indicate the development of diffuse pain located over the lateral elbow, made worse by activities requiring wrist extension? Was there a specific event or injury that initiated symptoms, or was there an insidious onset?",
+                "course of treatment": {
+                    "medical management": " Medical management Interventions or recommendations may include counterforce bracing, activity modification, physical therapy, extracorporeal shockwave therapy (ESWT), acupuncture, autologous blood injection or plateletrich  plasma injection,and/or medications(28) Authors of a case series in Japan of 23 consecutive patients with chronic lateral epicondylitis who failed at least 6 months of conservative treatment found that those who underwent arthroscopic debridement of the ECRB tendon origin and resection of plica had improvements in pain and function within 3 months after surgery, but pain persisted for more than 6 months(19) Autologous blood preparations, including platelet-rich  plasma (PRP), is an emerging treatment for lateral elbow tendinopathy.(29) Authors of a 2017 metaanalysis  (8 RCTs, 511 patients) found that PRP was more effective than steroid injection for relieving pain and improving function in the intermediateterm (12 weeks) and longterm (half year and one year)(26)",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Oral and topical NSAIDs may be prescribed. Although topical NSAIDs have been demonstrated to relieve pain for up to 4 weeks, sampling and methodological issues in the research conducted restrain the ability to recommend their use. Oral NSAID use for relieving lateral elbow pain continues to have insufficient evidence for longterm  benefit(2)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Generally diagnosed through clinical exam(27)",
+                        "Ultrasound may be used to assist with diagnosis and help determine the extent of pathology (e.g., tears, calcification, tendon thickening)(29)",
+                        "Radiographic evaluation may be helpful in demonstrating tendon calcification or exostosis at the tip of the epicondyle; EMG if nerve entrapment is suspected"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful "
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased). Pain is made worse by activities requiring active wrist extension. Pain lessens with rest. Elbow stiffness occurs after periods of rest",
+                "body chart": "Use body chart to document location and nature of symptoms. Pain is located over the lateral elbow and may radiate into the body of the forearm. Determine whether symptoms are unilateral or bilateral",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Elbow locking, clicking, or feelings of instability can occur. Pain may be described as a dull ache increasing with aggravating factors",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables. Morning stiffness and/or stiffness after periods of decreased elbow activity is common",
+                "sleep disturbance": "Document number of wakings/night, if applicable",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., paresthesias) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any previous elbow problems or injury, or arthritis in other joints?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Inquire about occupation and recreational/sports activity, repetitive activities with involved upper extremity. If the patient plays tennis, has he or she changed racquets (i.e., grip size, string tension, string material)?",
+                "functional limitations assistance with ADLs adaptive equipment": "Inquire about limitations in ADLs. Patient may have difficulty lifting small objects such as cups",
+                "living environment": "Identify if there are barriers to independence in the home; any modifications necessary? If pertinent, determine with whom the patient lives (e.g., caregivers, family members)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Assess effects and benefits while wearing device; assess practicality and ease of use of device; assess alignment and fit of device, and inspect related changes in skin condition; assess patient ability to put on and remove device and to understand its useAssess upper extremity peripheral nerve mobility, especially the radial nerve, which should be normalAnalysis of performance of selected tasks or activities, analysis of preferred postures during performance of tasks and activities, evaluation of postures and strength required to perform tasks, videotape analysis of activityAssess shoulder and elbow joint for hypermobility and hypomobility",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": " Muscle strength \u2013Provocation is noted, particularly with resisted wrist extension and radial deviation; pain and/or weakness are evident \u2013Assess grip strength with the elbow flexed (90\u00b0) and extended. Grip strength decreased with elbow extension may be indicative of lateral tendinopathy(30) \u2013Assess shoulder girdle muscle strength; lack of stability at the scapula can contribute to lateral elbow tendinopathy  -Authors of a controlled trial (28 patients with symptomatic lateral elbow tendinopathy) in the United States found decreased middle trapezius, lower trapezius, and serratus anterior strength, decreased scapular endurance, and decreased serratus anterior thickness in the patients compared to controls(21) -Muscle strength measured with dynamometer, scapular endurance by isometric test in prone, and muscle thickness by ultrasound \u2013Authors of a case study in Australia found that lateral elbow tendinopathy in a woman resolved after 5 PT visits in which the only treatment was strengthening exercises for the scapular muscles (see Treatment  below)(22)",
+            "observation inspection palpation including skin assessment": [
+                "Evaluate edema through palpation, volume and girth measurements",
+                "Assessment of skin temperature as compared to an adjacent area or opposite extremity",
+                "Observe functional use of upper extremity during gait and other functional activities",
+                "Assess for point tenderness of the extensor carpi radialis brevis",
+                "Assess muscle bulk for symmetry, atrophy"
+            ],
+            "posture": "",
+            "range of motion": "Limitations in ROM may be noted with wrist flexion (and extreme wrist flexion passively may be provocative); subacute and chronic cases may reveal loss of full elbow extension, especially combined with wrist flexion",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Assess for paresthesias; paresthesia in the superficial radial nerve distribution may indicate radial tunnel syndrome. Assess for cold pain threshold \u2013Cold pain threshold was found to be the most consistent predictor of poor outcome as measured by the Patient-rated Tennis Elbow Evaluation (PRTEE) questionnaire (see Special Tests  below) and the pressure pain threshold scores in patients with lateral elbow tendinopathy in a study conducted in Australia(23)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis -Resisted wrist extension(27,29) -Mill\u2019s test maneuver \u2013 three components(28) -Wrist flexion -Radial deviation -Forearm pronation \u2013Chair test\u2014lift chair with shoulder adduction, elbow extension, and forearm pronation. Lateral elbow pain is a positive result(54) \u2013Functional limitations can be validated with use of the PRTEE Questionnaire; a V AS; the Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure; and the Upper Extremity Function Scale(3) \u2013The PRTEE was reported to have moderate test-retest reliability and low convergent validity in a randomized trial of 60 patients with lateral elbow tendinopathy. The outcome measure was also reported to be sensitive to change, but this was tempered by the \u201cvery small margin of difference between a clinically relevant change and no change\u201d(4) \u2013The PRTEE has been translated into Dutch (PRTEE-D).  The translated version has been assessed for test-retest reliability and internal consistency as well construct validity (correlation with the DAS and pain V AS) and found to be both reliable and valid.(17) It has also been translated into other languages (e.g., French, Italian, Korean, Greek) \u2013Authors of a systematic review found evidence to support use of the DASH, QuickDASH, PRTEE, and Oxford elbow score(OES)(31)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Cryotherapy  contraindications(5) -Raynaud\u2019s syndrome -Cryoglobulinemia  -Cold urticaria -Paroxysmal cold hemoglobinuria -Impaired circulation -Over area of nerve regrowth",
+                "Cryotherapy  precautions(5) -Hypertension -Hypersensitivity to cold -Over an acute wound -Over superficial nerves",
+                "Thermotherapy  contraindications(5) -Decreased circulation -Decreased sensation -Acute/subacute traumatic and inflammatory conditions -Skin infections -Impaired cognition or language barrier -Malignancy -Liniments -Presence of or tendency for hemorrhage or edema -Heat rubs",
+                "Electrotherapy  contraindications/precautions(5) -Do not place electrodes near: -carotid bodies, cardiac pacemakers or implantable cardioverter defibrillators, phrenic nerve or urinary bladder stimulators, phrenic nerve, eyes, gonads -Osteomyelitis -Hemorrhage -Impaired sensation, mental status, communication -Cardiovascular disease -Malignancy -Dermatological conditions -Proximity of electromagnetic radiation -In pregnant women, near the pelvis, lumbar spine, hips, abdomen -In patients with stroke or seizures, near the neck -History of spontaneous abortion in pregnant women",
+                "Therapeutic ultrasound  contraindications; do not use: -Over the region of a cardiac pacemaker -Over the pelvis, abdominal and lumbar regions during pregnancy -Over the eyes or testes -In an area with infection or bleeding -If a tumor or malignancy is present in the area -In the area of a deep vein thrombosis (DVT) or thrombophlebitis -Over the heart, stellate, or cervical ganglia -Over epiphyseal plates",
+                "Therapeutic ultrasound  precautions -Sensory deficits -Ineffective communication skills in a patient (e.g., impaired cognition, language barrier) -Circulatory impairments -Plastic or metal implants -Peripheral vascular disease -Note: Always decrease ultrasound intensity if the patient complains of discomfort"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Contraindications/precautions to use of modalities"
+            ]
+        },
+        "diagnosis need for treatment": "Lateral elbow tendinopathy/ pain, reduced ROM and strength; impaired ADLs and participation in sports ",
+        "rule out": " Rule out(29) Cervical radiculopathy Radial tunnel syndrome Capitellar osteochondritis dissecans Olecranon bursitis Posterolateral rotary instability Plica syndrome/elbow synovial fold syndrome Radial nerve entrapment Radial tunnel syndrome Occult fracture Triceps tendinitis Shingles",
+        "prognosis": [
+            "Regardless of interventions, most cases are self-limiting  (resolve within 1\u20132 years)(29)",
+            "Cold hyperalgesia is associated with poorer outcome(23)"
+        ],
+        "referral to other disciplines": "Orthopedic surgeon for unresponsive cases",
+        "other considerations": [
+            "Authors of a 2015 meta-analysis  of all nonsurgical treatments (including PT) compared to observation only or placebo found a lack of intermediate-  to long-term  clinical benefit for these treatments(24) \u2013Twenty-two  RCTs were identified, with 2,280 participants \u2013Clinical benefit was determined by looking at overall improvement, better outcome scores, and grip strength at intermediate and long-term  follow-up",
+            "Corticosteroid injections have inconsistent long-term results(15)",
+            "Authors of a 2018 review of novel therapies designed to regenerate tendon in patients with epicondylitis found that early investigations of these therapies show promise, but additional evaluation is needed. The therapies reviewed includedPRP, bone marrow aspirate concentrate (BMAC), and autologous tenocyte injection (ATI).(15)",
+            "Authors of a randomized, double-blind,  placebo-controlled trialcompared the effectiveness of PRP, glucocorticoid, and saline injections in treating lateral elbow tendinopathy. Although there were no statistically significant differences among the levels of pain reduction from the three injection options 3 months after the initial injection, short-term  pain relief along with tendon thickness and color Doppler activity changes were observed with the glucocorticoid injection(16)",
+            "Utilizing the Occupation Adaptation Model developed in the OT literature, researchers reported on a case study of a 46-year-old woman with lateral elbow tendinopathy who originally was making no progress in therapy but healing progressed and occupational goals were met when the therapist focused on the occupational role that was important to the client (in this case, knitting)(20)"
+        ],
+        "treatment summary": [
+            "Autologous blood versus corticosteroid injection \u2013There is little high-quality  evidence to support medium-  or long-term  efficacy of autologous blood injections for pain in lateral epicondylitis. Corticosteroid injections may decrease reported pain in the short term(1)",
+            "Therapeutic exercises \u2013The authors of a randomized clinical trial designed to assess the effectiveness of eccentric training alone, eccentric-concentric  exercise, and eccentric-concentric  and isometric exercises found that a treatment program that combines eccentric-concentric  exercises with isometrics was the most effective(6) \u2013Authors of an RCT in Sweden assessed the treatment effect of graded concentric versus eccentric exercise in chronic lateral epicondylitis and found that both exercise groups had significant improvement in pain and strength. When adjusting for confounding factors and change over time, the eccentric group had a significantly faster recovery from pain during maximal contraction and increase in strength. There were no differences between the groups in improvements on the DASH or QOL assessments(18) \u2013Exercise therapy produced a larger effect in reduction of pain and improved function compared to Cyriax physiotherapy and Bioptron light therapy(7) ",
+            "Orthotics \u2013Counterforce bracing may be used during activities, but some patients may have tenderness at the area of compression.(29) V olar wrist orthosis may be used to decrease the stress on the wrist extensors(29) \u2013Authors of a randomized trial found that use of a wrist splint combined with physical therapy resulted in improved pain compared to physical therapy alone in the shortterm(32) \u2013Kinesiotaping combined with physical therapy may reduce lateral elbow pain more than physical therapy alone -Based on a small RCT (n = 24 patients) in India -Patients in both groups received 6 sessions (3 weeks) of physical therapy with modalities -The experimental group also wore kinesiology tape applied with the elbow bent at 90\u00b0",
+            "Modalities \u2013Both therapeutic ultrasound (US) and ESWT were found to improve outcome scores (e.g., pain, strength, PRTEE score, Quick DASH) in patients with chronic lateral epicondylitis(8) -Based on a small, randomized trial in Turkey -Therapeutic US (1 MHZ at 1.5 W/cm2, continuous x 5 minutes) 1x/day 5 days/week for 10 treatment sessions -ESWT (3.0 device, 10\u201315Hz,  1.5\u20132.5  bar energy density, 2000 pulses) 1x/week for 3 sessions \u2013Application of TENS provides no additional pain relief for individuals with lateral elbow tendinopathy(14) -Based on an RCT in the United Kingdom with 241 adults -Subjects were randomly assigned to receive either standard primary care only (i.e., progressive exercises, patient education on activity and self-management)  or standard primary care along with 45 minutes of TENS daily for 6 weeks -While adherence to exercises and TENS use was low, both groups experienced decreases in pain and improvements in secondary outcomes. No statistically significant differences between the two groups were observed . Problem Goal Intervention Expected Progression Home Program  Pain Decrease pain intensity Therapeutic modalities _ Cryotherapy can be used to help reduce pain. Evidence to support the effectiveness of low-level laser therapy is poor.(33) Iontophoresis (dermal administration with small electric current) with dexamethasone sodium phosphate has been shown to be effective at short-term follow-up in reduction of symptoms(9) _ Prescription, application of devices and equipment _ In chronic conditions, a taping technique may be effective as an adjunct to treatment(10) _ _ Counterforce bracing may be effective for decreasing acute pain and improving grip strength(11) _ Therapeutic exercise: Evaluate and treat any weakness in the scapular muscles(21)N/A Instruct patient in use of heat therapy or cryotherapy at home _ _ Avoid provoking activities  Reduced elbow and wrist ROMIncrease/maintain pain- free full ROMTherapeutic modalities _ Ultrasound therapy and heat to relieve stiffness, although evidence is lacking to support effectiveness of these treatments _ Therapeutic exercises _ Gentle active and passive ROM exercises in the acute stageManual therapy _ Manual therapy for epicondylitis includes myofascial techniques, manual mobilization, deep friction massage. Manual therapy alone or combined with cryostimulation may be effective for management of lateral epicondylitis(12)Instruct patient in self- massage techniques Reduced elbow, wrist, and grip strengthIncrease/maintain sufficient strengthTherapeutic exercises _ In the acute stage, gentle isometric wrist flexion and extension exercisesTherapeutic exercises _ Begin resistive exercises when acute symptoms have resolved. Progressive resistive exercises and eccentric wrist extension exercises for grip strengthening and wrist flexion and extension,as well as muscles of upper arm and shoulder as indicated _Continue prescribed exercises at home Difficulty with work- related tasks/sportFunctional training _ Work-/sport-specific trainingEducate patient on prevention of recurrence through stretching and strengthening program ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes and outcome measures": [
+            "Decreased pain\u2013V AS, DASH Outcome Measure",
+            "Increased/maintained pain-free  full ROM\u2013Goniometry, observation of function",
+            "Increased/maintained sufficient strength\u2013Manual muscle testing, dynamometry",
+            "Improved function\u2013Functional limitations can be validated with use of the PRTEE, V AS,DASH Outcome Measure, and the Upper ExtremityFunction Scale(4)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Current approaches to prevention include better coaching techniques in sport and ergonomic assessment and patient education in high-risk  repetitive trauma occupations(13)"
+    ],
+    "patient education": [
+        "See \u201cTennis Elbow (Lateral Epicondylitis)\u201d for information about anatomy, symptoms, and treatment from the American Academy of Orthopaedic Surgeons at http://orthoinfo.aaos.org/topic.cfm?topic=a00068 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Sirico F, Ricca F, Di Meglio F, et al. Local corticosteroid versus autologous blood injections in lateral epicondylitis: meta-analysis  of randomized controlled trials. Eur J Phys Rehabil Med . 2017;53(3):483-491.  doi:10.23736/S1973-9087.16.04252-0.  (M)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Pattanittum P, Turner T, Green S, Buchbinder R. Non-steroidal  anti-inflammatory  drugs (NSAIDs) for treating lateral elbow pain in adults. Cochrane Database Syst Rev . 2013; (5):CD003686. doi:10.1002/14651858.CD003686.pub2.  (M)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Rompe JD, Overend TJ, MacDermid JC. Validation of the patient-rated  tennis elbow evaluation questionnaire. J Hand Ther . 2007;20(1):3-11.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Chung B, Wiley JP. Validity, responsiveness and reliability of the Patient-Rated  Tennis Elbow Evaluation. Hand Ther . 2010;15(3):62-68.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Stasinopoulos D, Stasinopoulos I. Comparison of effects of eccentric training, eccentric-concentric  training, and eccentric-concentric  training combined with isometric contraction in the treatment of lateral elbow tendinopathy. J Hand Ther . 2017;30(1):13-19.  doi:10.1016/j.jht.2016.09.001. (RCT)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Stasinopoulos D, Stasinopoulos I. Comparison of effects of Cyriax physiotherapy, a supervised exercise programme and polarized polychromatic non-coherent  light (Bioptron light) for the treatment of lateral epicondylitis. Clin Rehabil . 2006;20(1):12-23.  (RCT)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Yalva\u00e7 B, Mesci N, Geler K\u00fclc\u00fc D, Yurdakul OV. Comparison of ultrasound and extracorporeal shock wave therapy in lateral epicondylosis. Acta Orthop Traumatol Turc . 2018;52(5):357-362.  doi:10.1016/j.aott.2018.06.004. (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Fathy AA. Iontophoresis versus Cyriax-type  exercises in chronic tennis elbow among industrial workers. Electron Physician . September 16, 2015;7(5):1277-1283. doi:10.14661/1277. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Erpala F, Ozturk T, Zengin EC, Bakir U. Early results of kinesio taping and steroid injections in elbow lateral epicondylitis: a randomized, controlled study. Medicina. March 24, 2021;57(4):306. doi:10.3390/medicina57040306. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Vellilappilly DV, Rai HR, Varghese J, Renjith V. Counterforce orthosis in the management of lateral epicondylitis. J Ayub Med Coll Abbottabad . 2017;29(2):328-334.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Richer N, Marchand AA, Descarreaux M. Management of chronic lateral epicondylitis with manual therapy and local cryostimulation: a pilot study. J Chiropr Med . 2017;16(4):279-288.  doi:10.1016/j.jcm.2017.07.001. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Nilsson P, Thom E, Baigi A, Marklund B, Mansson J. A prospective pilot study of a multidisciplinary home training programme for lateral epicondylitis. Musculoskelet Care . 2007;5(1):36-50.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Chesterton LS, Lewis AM, Sim J, et al. Transcutaneous electrical nerve stimulation as adjunct to primary care management for tennis elbow: pragmatic randomised controlled trial (TATE trial). BMJ. 2013;347:f5160. doi:10.1136/bmj.f5160. (RCT)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Tarpada SP, Morris MT, Lian J, Rashidi S. Current advances in the treatment of medial and lateral epicondylitis. J Orthop. February 2, 2018;15(1):107-110.  doi:10.1016/ j.jor.2018.01.040. (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Krogh TP, Fredberg U, Stengaard-Pedersen  K, Christensen R, Jensen P, Ellingsen T. Treatment of lateral epicondylitis with platelet-rich  plasma, glucocorticoid, or saline: a randomized, double-blind,  placebo-controlled  trial. Am J Sports Med . March 2013;41(3):625-35.  doi:10.1177/0363546512472975. (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "van Ark M, Zwerver J, Diercks RL, van den Akker-Scheek  I. Cross-cultural  adaptation and reliability and validity of the Dutch Patient-Rated  Tennis Elbow Evaluation (PRTEE-D).  BMC Musculoskelet Disord . 2014;15:270. doi:10.1186/1471-2474-15-270.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Peterson M, Butler S, Eriksson M, Svardsudd K. A randomized controlled trial of eccentric vs. concentric graded exercise in chronic tennis elbow (lateral elbow tendinopathy). Clin Rehabil . 2014;28(9):862-872.  doi:10.1177/0269215514527595. (RCT)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Oki G, Iba K, Sasaki K, Yamashita T, Wada T. Time to functional recovery after arthroscopic surgery for tennis elbow. J Shoulder Elbow Surg . 2014;33(10):1527-1531. doi:10.1016/j.jse.2014.05.010. (C)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Bachman S. Evidence-based  approach to treating lateral epicondylitis using the Occupational Adaptation Model. Am J Occup Ther . 2016;70(2):1. doi:10.5014/ ajot.2016.016972. (C)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Day JM, Bush H, Nitz AJ, Uhl TL. Scapular muscle performance in individuals with lateral epicondylagia. J Orthop Sports Phys Ther . 2015;45(5):414-424.  doi:10.2519/ jospt.2015.5290. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Botnmark I. Middle and lower trapezius strengthening for the management of lateral epicondylagia: a case report. New Zealand J Physiother . 2015;43(1):32. doi:NZJP/43.1.06. (C)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Coombes BK, Bisset L, Vicenzino B. Cold hyperalgesia associated with poorer prognosis in lateral epicondylalgia. Clin J Pain . 2015;31(1):30-35.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Sayegh ET, Strauch RJ. Does nonsurgical treatment improve longitudinal outcomes of lateral epicondylitis over no treatment? A meta-analysis.  Clin Orthop Related Res . 2015;473(3):1093-1107.  doi:10.1007/s11999-014-4022-y.  (M)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Chung KC, Lark ME. Upper Extremity Injuries in Tennis Players: Diagnosis, Treatment, and Management. Hand Clin . 2017;33(1):175-186.  (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Mi B, Liu G, Zhou W, et al. Platelet rich plasma versus steroid on lateral epicondylitis: meta-analysis  of randomized clinical trials. Phys Sportsmed . 2017;3:1-8.  (M)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Johns N, Shridhar V. Lateral epicondylitis: Current concepts. Aust J Gen Pract . 2020;49(11):707-709.  doi:10.31128/AJGP-07-20-5519.  (RV) "
+        },
+        {
+            "number in article": 28,
+            "reference": "Ma KL, Wang HQ. Management of lateral epicondylitis: a narrative literature review. Pain Res Manag . May 5, 2020;2020:6965381. doi:10.1155/2020/6965381. (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Buchanan BK, Varacallo M. Tennis Elbow. StatPearls . Treasure Island, FL: StatPearls Publishing; 2021. (GI)"
+        },
+        {
+            "number in article": 30,
+            "reference": "\u00d6zmen T, Koparal SS, Karata# \u00d6, Eser F, \u00d6zkurt B, Gafuro#lu T\u00dc. Comparison of the clinical and sonographic effects of ultrasound therapy, extracorporeal shock wave therapy, and Kinesio taping in lateral epicondylitis. Turk J Med Sci . February 26, 2021;51(1):76-83.  doi:10.3906/sag-2001-79.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Evans JP, Porter I, Gangannagaripalli JB, et al. Assessing patient-centred  outcomes in lateral elbow tendinopathy: a systematic review and standardised comparison of English language clinical rating systems. Sports Med Open . March 20, 2019;5(1):10. doi:10.1186/s40798-019-0183-2.  (SR)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Kachanathu SJ, Alenazi AM, Hafez AR, Algarni AD, Alsubiheen AM. Comparison of the effects of short-duration  wrist joint splinting combined with physical therapy and physical therapy alone on the management of patients with lateral epicondylitis. Eur J Phys Rehabil Med . 2019;55(4):488-493.  doi:10.23736/S1973-9087.19.05280-8.  (RCT)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Mamais I, Papadopoulos K, Lamnisos D, Stasinopoulos D. Effectiveness of low level laser therapy (LLLT) in the treatment of lateral elbow tendinopathy (LET): an umbrella review. Laser Ther . 2018;27(3):174-186.  doi:10.5978/islsm.27_18-OR-16.  (SR)"
+        }
+    ]
+}

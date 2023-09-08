@@ -1,0 +1,389 @@
+{
+    "metadata": {
+        "title": "Radiculopathy, Cervical",
+        "synonyms": [
+            "cervical radiculopathy",
+            "cervical nerve root avulsion",
+            "cervical nerve root compression",
+            "cervical nerve root disorder",
+            "cervical nerve root inflammation",
+            "cervical radiculitis",
+            "nerve root avulsion, cervical",
+            "nerve root compression, cervical",
+            "nerve root disorder, cervical",
+            "nerve root inflammation, cervical",
+            "radiculitis, cervical",
+            "radicular pain, cervical"
+        ],
+        "anatomical location body part affected": [
+            "Neck, upper extremity"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "neurological rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "A condition typically involving the compression of a nerve root by a herniated disk, osteophytes, inflammation, or a space-occupying  lesion(17) that reduces the size of the intervertebral foramen. It can also be caused by inflammation of the nerve root due to traction injuries or inflammation of surrounding tissue. The result is pain and motor and/or sensory deficits in the neck and ipsilateral upper extremity that will vary depending on the involved nerve root.(1,2) The average annual age-adjusted  incidence of cervical radiculopathy is 83.2 per 100,000 persons.(16,17) Men are affected more than women and it is most common in the 5th and 6th decades(17)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G55.1": "nerve root and plexus compressions in intervertebral disc disorders",
+            "M50.1": "cervical disc disorder with radiculopathy",
+            "M54.1": "radiculopathy (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified. However, use caution with nonfinalized cases of workers\u2019 compensation and third-party  insurance claims"
+        ],
+        "presentation signs and symptoms": [
+            "Neck pain, usually unilateral(1) \u2013Pain usually increases with motions that reduce the size of the ipsilateral foramen (i.e., rotation and extension towards the painful side)",
+            "Upper extremity pain radiating into the nerve distribution of the affected nerve root(2)",
+            "Upper extremity motor function and sensory loss might be present even when pain is absent(2)",
+            "Loss of cervical ROM is common Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "See  Overall Contraindications/Precautions  , above"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Cervical radiculopathy cases involve foraminal encroachment of the spinal nerve due tospondylosis, inflammation, or age-related  disk height changes.(18) However, this processdevelops very slowly and thus is less likely to occur in younger populations(1,2)\u2013Degeneration, as found by MRI, is the most common mechanism of cervical rootirritation in older patients",
+            "Disk herniation onto the involved nerve usually occurs in the younger population",
+            "Tumor",
+            "Infection",
+            "Trauma"
+        ],
+        "pathogenesis": [
+            "The mechanism of radicular pain is still poorly understood. Furthermore, it has been shown that compression alone cannotresult in pain unless the dorsal root ganglion is also involved",
+            "Increased permeability of the membrane of the dorsal root ganglia with respect to the surrounding nerve root membrane isalso hypothesized as a source of radicular pain"
+        ],
+        "risk factors": [
+            "Trauma or repetitive activities, especially lifting of more than 25 pounds",
+            "Driving or operating vibrating equipment",
+            "Herniated cervical disk(2)",
+            "Spinal stenosis(2)",
+            "Degenerative disk disease",
+            "Cervical spondylosis",
+            "Increasing age(3)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Refer back to physician if symptoms and clinical findings suggest myelopathy (i.e., clumsiness of upper or lower limbs, urinary urgency, frequent falls, hyperreflexia, positive Babinski test).(2) See Clinical Review\u2026Cervical Compressive Myelopathy ; CINAHL Topic ID: T708511",
+        "Avoid use of cervical collar for more than 1\u20132 weeks to prevent atrophy of cervical musculature",
+        "Age younger than 20 or older than 50 might be suggestive of another disorder(2)",
+        "It is important to respect the patient\u2019s subjective complaints of pain during evaluation and treatment",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "See  Overall Contraindications/Precautions  , above"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "Ask about patient\u2019s past and current medical management for his or her symptoms. How has the pain responded to treatments?",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Are they effective? Opioids, NSAIDs, muscle relaxants (e.g., cyclobenzaprine [Flexeril]), antidepressants (e.g., venlafaxine [Effexor]), and analgesics might be prescribed for this condition(2)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "X-ray  to assess for a decrease in disk height, osteophytes, gross spondylolisthesis, tumors, and fractures",
+                        "MRI to detect a herniated disk pathology(2) is suggested for confirmation in patients who have failed a course of conservative therapy and who might be candidates for surgical treatment or intervention(4)",
+                        "EMG to distinguish between cervical radiculopathy and peripheral nerve entrapment(2)",
+                        "EMG is recommended in patients with unusual or atypical symptoms and in those with multifocal causes(5) ",
+                        "Ultrasound can be used to diagnose cervical radiculopathy based upon the cross-sectional  area of affected nerve roots(32)",
+                        "Nerve roots with larger cross-sectional  areas suggests cervical radiculopathy"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice, heating pack, home traction unit) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " What makes the patient\u2019s symptoms better or worse?",
+                "body chart": " Body chart -Use a body chart to document location and nature of symptoms -Patients with cervical radiculopathy often have unilateral neck pain that radiates into the upper extremity on the same side.(2) Upper trapezius and scapular pain are common in many patients regardless of the level of the nerve root compression; the pain might not radiate past the shoulder girdle(1) -Cervical radiculopathy patterns that might occur(1) -C2  posterior occipital headaches, temporal pain -C3  occipital headache, retro-orbital  or retroauricular pain -C4  base of neck, pain in the trapezius muscle -C5  pain in the lateral arm -C6  radial forearm pain, thumb and index finger pain -C7  pain in the 2nd finger -C8  pain in the 3rd and 4th fingers -T1  ulnar forearm pain",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much). Are the symptoms getting better or worse?",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night. In what positions(s) does the patient tend to sleep? How many or what type of pillows does he or she use?",
+                "other symptoms": "Document other symptoms patient might be experiencing that could exacerbate the condition and/ or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any previous problems of, surgery of, or injury to the neck, shoulder, or arm?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, osteoporosis, and orthopedic disorders. Does patient have a history of anxiety?(18)Fibromyalgia?(22)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she might be experiencing Fever, unexplained weight loss, night pain Migraines Dizziness Tinnitus Fear-avoidance  beliefs(18) "
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -What type of work does the patient do? -How is the patient\u2019s work area set up? Are modifications necessary? -Any activities or hobbies performed at home? -Does the patient participate in recreational or competitive sports? -Half of patients with cervical radiculopathy are inactive during both summer and winter months. Additionally, half are overweight(18)",
+                "functional limitations assistance with ADLs adaptive equipment": "Note limitations and any modifications that might be necessary",
+                "living environment": "Stairs, number of floors in home, sleep position/pillows, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "Might be affected in extreme cases. Assess standing balance if patient reports falls or if cervical myelopathy is suspected. Use a standardized test such as the Berg Balance Scale as indicated",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess distal pulses and capillary filling and compare with any skin color or temperature irregularities Cranial/peripheral nerve integrity \u2013Evaluate upper limb neurodynamic mobility to help discern between a cervical radiculopathy and a peripheral nerve entrapment \u2013When appropriate, assess cranial nerve integrity to assist in determining if signs or symptoms are due to another underlying condition needing referral (e.g., malignancy)Does the patient use compensatory motions or faulty cervical postures during functional tasks? Would the patient benefit from an ergonomic evaluation of his or her work station or home computer?",
+            "functional mobility": "Assess functional mobility, as indicated, using standardized tool such as FIMAssess vertebral joint mobility and mobility of related joints of the shoulder and upper extremity as indicated",
+            "gait locomotion": "",
+            "muscle strength": " Muscle strength \u2013Evaluation of cervical and upper extremity strength is important, as motor weakness is considered a classic diagnostic finding for cervical radiculopathy \u2013Researchers found that patients with cervical radiculopathy showed altered neck muscle endurance, muscular imbalance from side to side, and higher fatigue than healthy subjects on isometric holds/neck muscle endurance testing(19) \u2013Assess cervical spine and bilateral upper extremity strength(2) -C5 \u2013 shoulder abduction and elbow flexion -C6 \u2013 elbow flexion and wrist extension -C7 \u2013 elbow extension and wrist flexion -C8 \u2013 finger flexors -T1 \u2013 hand intrinsics \u2013Lesions of the upper cervical roots are rare and usually present with no motor loss \u2013Assess grip strength with a hand dynamometer",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Assess and note all abnormalities throughout spine, head, and shoulders (e.g., rounded shoulders, thoracic kyphosis, forward head posture) ",
+            "range of motion": " Range of motion \u2013Assess all cervical spine motions and upper extremity motions",
+            "self-care activities of daily living": "",
+            "reflex testing": " Reflex testing \u2013Evaluation of deep tendon reflexes. Hyporeflexia may suggest cervical radiculopathy \u2013Uncover any hyporeflexia consistent with involved roots; biceps/brachioradialis (C5, C6), triceps (C6, C7, C8) Self-care/ADLs  (objective testing) \u2013Inquire about or evaluate ADLs. Are ADLs affected by patient\u2019s pain and/or weakness or restricted ROM (e.g., turning head for safe driving)?",
+            "sensory testing": " Sensory testing \u2013Assess for any sensation changes in the neck and extremities and, if present, determine if they follow a particular dermatomal pattern. Decreased or loss of sensation is indicative of cervical radiculopathy",
+            "special tests specific to diagnosis": " \u2013Spurling (maneuver) test (may also be referred to as the quadrant test) -Laterally flexing the neck towards the symptomatic side when the patient is seated and then applying an axial load of approximately 7 kg.(6) A positive test reproduces or exacerbates the symptomsWhile seated, the patient places the hand of symptomatic side on head. A positive test reduces or eliminates symptoms of radiculopathyWith the patient in supine, the therapist grasps the patient\u2019s chin and occiput, flexes the neck to a position of comfort, and slowly applies a distraction force up to 14 kg. A positive test reduces or eliminates symptomsA seated patient is instructed to take a deep breath and hold it as he or she slowly exhales for 2\u20133 seconds. A positive test is a reproduction of symptomsA sequence of movements with patient in supine that can test median, radial, or ulnar nerve bias. A positive result is unilateral and indicative of cervical radiculopathy",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "Assess for signs of lower motor neuron (LMN) lesions (e.g., weakness, muscle wasting, hypotonicity, or hyporeflexia) and upper motor neuron (UMN) lesions (hypertonicity, hyperreflexia, clonus, positive Babinski sign, unsteady gait). Cervical compressive myelopathy may present with LMN signs at the level of the lesion and UMN signsT708511 for more information)",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired sensation",
+                "Impaired circulation or slow-healing  wounds",
+                "Hypertension  cold can lead to an increase in blood pressure",
+                "Hypersensitivity to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Avoid placement over superficial nerves for extended periods (> 1 hour)",
+                "Cold might be counterproductive if being used to facilitate muscle relaxation and reduce pain in patients who do not tolerate the modality",
+                "Decreased sensation",
+                "Vascular insufficiency",
+                "Recent or potential hemorrhage",
+                "Malignancy",
+                "Acute inflammation",
+                "Infection",
+                "Where heat rubs or liniments have been recently used",
+                "In patients with cognitive deficits or if a language barrier exists ",
+                "Spinal infection",
+                "Rheumatoid arthritis or other acute inflammatory diseases",
+                "Osteoporosis",
+                "Spinal cancer",
+                "Spinal cord compression (e.g., cervical myelopathy)",
+                "Joint hypermobility",
+                "Conditions or diseases that cause increased joint laxity (e.g., Down syndrome, Ehlers-Danlos  syndrome)",
+                "Acute pain or inflammation",
+                "Claustrophobia",
+                "Cardiac or respiratory insufficiency (inversion and mechanical traction for lumbar spine)",
+                "Pregnancy",
+                "In patients whose symptoms increase with traction",
+                "Temporomandibular joint dysfunction (cervical traction with a chin strap)",
+                "Uncontrolled hypertension",
+                "Internal jugular vein thrombosis",
+                "Mental disorientation",
+                "Children or frail older adults",
+                "If malingering is suspected",
+                "History of spinal surgery",
+                "Hyperactivity or restlessness",
+                "Obesity"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Cryotherapy  contraindications(7)",
+                "Cryotherapy  precautions(7)",
+                "Heating modality  contraindications(7)",
+                "Traction  contraindications(7) (Please see Clinical Review\u2026Traction, Mechanical [Cervical] ; CINAHL Topic ID:T709273 for more information)",
+                "Traction  precautions(7) (Please see Clinical Review\u2026Traction, Mechanical [Cervical] , referenced above for more information)"
+            ]
+        },
+        "diagnosis need for treatment": "Treatment is necessary if there is pain, weakness, decreased ROM/flexibility, decreased function, poor posture, and/or faulty body mechanics",
+        "rule out": " Rule out Shoulder pathology(2) Myelopathy \u2013 A subset of radiculopathy patients present with weakness alone without significant pain or sensory symptoms, making it important to investigate for myelopathy \u2013Deficits of fine motor skills, poor balance, and bowel and bladder dysfunction are typically not found in cervical radiculopathy but do occur in cervical myelopathy \u2013Researchers in South Korea found that 51.9% of patients with myelopathy also presented with radiculopathic symptoms/ presentation.(28) This demonstrates the possibility of having combined cervical myelopathy and radiculopathy, thus stressing the importance of identifying the defining characteristics of each condition Peripheral nerve entrapment syndromes (e.g., carpal tunnel syndrome, cubital tunnel syndrome)(2) Parsonage-Turner  syndrome (neuralgic amyotrophy) Malignancy (e.g., lymphoma, carcinomatous meningitis) Infection (e.g., herpes zoster, HIV , cytomegalovirus, Lyme disease) Thoracic outlet syndrome Pancoast tumor Coronary artery disease and cholecystitis, which might cause referred pain to the upper extremity(2) Vertebral artery dissection(24) Polymyalgia rheumatica Lateral pectoral nerve injury/lesion(23)",
+        "prognosis": [
+            "Although most patients improve, some patients have persistent or worsening symptoms and require surgery(5)",
+            "When conservative treatments fail, surgery improves signs and symptoms in most patients(5) "
+        ],
+        "referral to other disciplines": " Referral to other disciplines Patients might be referred to a spine or pain management specialist if intractable pain does not respond to 6 weeks of conservative treatment(2) Neurologist for persistent radicular or neurological symptoms Psychology for patients with difficulty dealing with the pain and/or disability Acupuncturist for alternative pain management",
+        "other considerations": [
+            "Research regarding the use and effectiveness of steroid injections is conflicting",
+            "Epidural steroid injection is typically considered a safe and effective treatment to try before undergoing surgery(8) \u2013It should not be a first-line  treatment and should be considered only in conjunction with a comprehensive rehabilitation treatment plan.(9) Consideration must be given to potential complications,(4) such as spinal infarct \u2013In a prospective study conducted in South Korea, in more than 80% of 98 patients with cervical radiculopathy who were surgical candidates surgery was avoided using epidural steroid injection(8,20) -In a follow-up  study, injections were less effective for patients with paresthesia without pain(20)",
+            "Authors of a 2015 study showed that only a minority of patients with disk herniation or spondylosis and proven nerve root compression benefit from cervical transforaminal injections of steroids(21) \u201348 patients were included in the study \u2013Only 35.4% of patients achieved at least a 50% reduction in pain after treatment \u201322.9% of the patients ended up undergoing surgery",
+            "Authors of a 2015 study showed positive results for injections of autologous conditioned serum (ACS) versus methylprednisolone (MPD) in unilateral cervical radiculopathy patients(25) \u2013ACS is an orthobiologic derived from the patient\u2019s own blood \u2013Forty patients were selected for either ACS or MPD injections under image guidance into the perineural area of affected nerve root \u2013Six-month  follow-up  revealed ACS patients to have equally good or better results than MPD patients. While additional research is required, these results provide another option for treatment prior to surgical intervention",
+            "Surgical interventions include discectomy, laminectomy, foraminotomy, fusion, and disk replacement(5) \u2013Researchers in India looked at pain outcomes in patients with short-  and long-term  complaints prior to surgical treatment. Patients with shorter duration of symptoms prior to surgical intervention (ACDF) had better improvement in radicular symptoms and increased reduction in pain scores(27)"
+        ],
+        "treatment summary": [
+            "Many physical therapy interventions have been proposed and utilized in treating patients with cervical radiculopathy. These treatments have included mechanical traction, manual therapy, therapeutic exercise, and pain modalities. However, there is very limited evidence of the effectiveness of specific physical therapy interventions(4) \u2013Results of many nonrandomized studies but few randomized trials have suggested that conservative intervention might be as effective as surgery",
+            "Researchers of a 2015 study suggest that manual therapy and exercise are effective in reducing pain and functional limitations related to cervical radiculopathy(17) \u2013Adding manual techniques thought to increase the size of intervertebral foramen showed no additional benefits \u2013Participants showed improvement on NDI, QuickDASH, and numeric pain-rating  scale scores",
+            "Authors of a 2016 systematic review of manual therapy in the treatment of cervical radiculopathy reported that there is limited evidence in the literature to support using manual therapy techniques to improve function, increase active ROM, and decrease pain and disability(10) \u2013Four RCTs met inclusion criteria \u2013Manual therapy techniques included muscle energy techniques, non-thrust/thrust  manipulation/mobilization of the cervical and/or thoracic spine, soft tissue mobilization, and neural mobilization \u2013A definitive progression for treating cervical radiculopathy with manual physical therapy has not been developed -High-quality  RCTs are needed to establish protocols",
+            "Electrotherapeutic modalities \u2013There are no studies showing the long-term  benefit of electrical stimulation, ultrasound, or TENS for pain control(1) ",
+            "Cervical collar \u2013The cervical collar might help decrease nerve root inflammation and decrease muscle spasm. Also, the warmth from wearing the collar might lessen pain(1) \u2013Wearing the collar backwards might help to increase the size of the neuroforamina by promoting flexion of the neck(1) \u2013Use of a cervical collar is not recommended for more than 1\u20132weeks as prolonged immobilization might cause atrophy of the cervical musculature(1)",
+            "Cervical traction \u2013Cervical traction for cervical radiculopathy can be effective in reducing pain and improving disability(11,29) \u2013There is inconsistent, high-quality  evidence suggesting that the use of intermittent cervical traction along with strengthening exercises is more effective in decreasing neck pain in patients with cervical radiculopathy versus strength training alone.(31) Additional research is needed to determine long-term  effectiveness \u2013Researchers conducting an RCT in South Korea found that neural mobilization along with mechanical traction may be more effective than traction alone in decreasing pain, increasing function, and improving deep neck flexor muscle endurance(33)",
+            "Therapeutic exercises/posture reeducation \u2013Based upon research evidence, stabilization exercise training may be an effective treatment choice for decreasing pain, improving function, and improving posture in patients with cervical radiculopathy(30)",
+            "Manipulation \u2013Cervical manipulation has historically not been recommended in patients with cervical radiculopathy.(1) The impetus for this has been the lack of evidence demonstrating efficacy in treating patients with cervical radiculopathy along with documented rare complications(2) \u2013However, researchers of a 2015 systematic review and meta-analysis  found moderate-level  evidence to support the use of cervical spine manipulation in the treatment of patients with cervical radiculopathy(26) -Three RCTs with 502 participants with degenerative cervical radiculopathy were included -Meta-analysis  showed cervical spine manipulation improved V AS pain scores immediately -These studies did not evaluate safety or adverse effects of cervical spine manipulation \u2013Although there is limited evidence that chiropractic manipulation is effective in treating cervical radiculopathy,(12) at this time manipulation is not recommended(2)",
+            "Multimodal treatment approach \u2013A combination of manual therapy and therapeutic exercise might be more effective in treating patients with cervical radiculopathy than either intervention alone based on a study in which patients were randomized to 1 of 3 treatment groups(13) \u2013In 2015, researchers in China conducted an overview of systematic reviews regarding the effect of complementary and alternative medicine(CAM) in cervical radiculopathy(16) -CAM included acupuncture, manual therapy, and cervical spine manipulation -All of the systematic reviews studied showed CAM intervention was superior to control groups -Majority of systematic reviews used low to moderate quality methodology . Problem Goal Intervention Expected Progression Home Program  Cervical pain with or without upper extremity radicular symptomsDecrease pain _ Eliminate or centralize upper extremity symptomsPhysical agents and mechanical modalities _ Cryotherapy and heat packs for short-term pain relief(7) _ Mechanical intermittent cervical traction for reducing pain and disability(3) _ Posture correction _ _"
+        ]
+    },
+    "desired outcomes outcome measures": {},
+    "maintenance or prevention": [
+        "Education on lifestyle change and how to modify tasks that increase the pain",
+        "Prescribe home exercises that address impairments and encourage patient to perform throughout the day",
+        "Ergonomic work station/desk setup",
+        "Reduce aggravating factors "
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bono CM, Schoenfeld AJ. Cervical radiculopathy. In: Orthopaedic Surgery Essentials: Spine . Vol 2nd. : Wolters Kluwer Health; 2017. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Childress MA, Becker BA. Nonoperative management of cervical radiculopathy. Am Fam Physician . 2016;93(9):746-754.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Childs JD, Cleland JA, Elliott JM. Neck pain: clinical practice guidelines linked to the International Classification of Functioning, Disability, and Health from the Orthopedic Section of the American Physical Therapy Association. J Orthop Sports Phys Ther . 2008;38(9):A1-A34.  (G)"
+        },
+        {
+            "number in article": 4,
+            "reference": "McCartney S, Baskerville R, Blagg S, McCartney D. Cervical radiculopathy and cervical myelopathy: Diagnosis and management in primary care. Br J Gen Pract . 2018;68(666):44-46.  doi:10.3399/bjgp17X694361. (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Gutman G, Rosenzweig DH, Golan JD. Surgical treatment of cervical radiculopathy: Meta-analysis  of randomized controlled trials. Spine. 2018;43(6):E365-E372.  doi:10.1097/ BRS.0000000000002324. (M)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Spurling RG, Scoville WB. Lateral rupture of the cervical intervertebral discs: a common cause of shoulder and arm pain. Surg Gynecol Obstet . 1944;78:350-358.  (C)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: F. A. Davis; 2016:42-44,  322-323. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Lee S-H, Kim K-T, Kim D-H, Lee B-J, Son E-S, Kwack Y-H. Clinical outcomes of cervical radiculopathy following epidural steroid injection: a prospective study with follow-up for more than 2 years. Spine. 2012;37(12):1041-1047.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Stout A. Epidural steroid injections for cervical radiculopathy. Phys Med Rehabil Clin N Am . 2011;22(1):149-159.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Thoomese J. Effectiveness of manual therapy for cervical radiculopathy, a review. Chiropr Man Therap . 2016;24:1-22.  (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Vetroczky N, Lauber CA. Do patients with cervical radiculopathy benefit from the addition of cervical traction to a rehabilitation program? A critically appraised topic. Int J Athletic Ther Train . 2017;22(3):18-25.  doi:10.1123/ijatt.2016-0071.  (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Whalen WM. Resolution of cervical radiculopathy in a woman after chiropractic manipulation. J Chiropr Med . 2008;7(1):17-23.  (C)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Ragonese J. A randomized trial comparing manual physical therapy to therapeutic exercises, to a combination of therapies, for the treatment of cervical radiculopathy. Orthop Phys Ther Pract . 2009;21(3):71-76.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Young IA, Michener LA, Cleland JA, Aguilera AJ, Snyder AR. Manual therapy, exercise, and traction for patients with cervical radiculopathy: a randomized clinical trial. Phys Ther. 2009;89(7):632-642.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Haines T, Gross AR, Burnie S, Goldsmith CH, Perry L, Graham N. A Cochrane review of patient education for neck pain. Spine J. 2009;9(10):859-871.  (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Wei X, Wang S, Li J, et al. Complementary and alternative medicine for the management of cervical radiculopathy: An overview of systematic reviews. Evid Based Complement Alternat Med . 2015;2015:1-10.  doi:10.1155/2015/793649. (SR)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Langevin P, Desmeules F, Lamothe M, Robitaille S, Roy JS. Comparison of 2 manual therapy and exercise protocols for cervical radiculopathy: A randomized clinical trial evaluating short-term  effects. J Orthop Sports Phys Ther . 2015;45(1):4-17.  doi:10.2519/jospt.2015.5211. (RCT)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Halvorsen M, Kierkegaard M, Harms-Ringdahl  K, Peolsson A, Dedering A. Dimensions underlying measures of disability, personal factors, and health status in cervical radiculopathy: A cross-sectional  study. Medicine. 2015;94(24):1-9.  doi:10.1097/MD.0000000000000999. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Halvorsen M, Abbott A, Peolsson A, Dedering A. Endurance and fatigue characteristics in the neck muscles during sub-maximal  isometric test in patients with cervical radiculopathy. Eur Spine J . 2014;23(3):590-598.  doi:10.1007/s00586-013-3060-6.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Lee JW, Hwang SY, Lee GY, Kang HS. Fluoroscopic cervical paramidline interlaminar epidural steroid injections for cervical radiculopathy: Effectiveness and outcome predictors. Skeletal Radiol . 2014;43(7):933-938.  doi:10.1007/s00256-014-1866-x.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Klessinger S, Freund W, Karpel-Massler  G, Halatsch ME. Response to transforaminal injection of steroids and correlation to MRI findings in patients with cervical radicular pain or radiculopathy due to disc herniation or spondylosis. Pain Med . 2014;15(6):929-937.  doi:10.1111/pme.12415. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Demir SE, Aytekin E, Karacan I, Aydin T, Kavadar GD. The prevalence of fibromyalgia among patients with cervical radiculopathy due to cervical disc herniation: A pilot study. J Back Musculoskelet Rehabil . 2014;27(2):167-171.  doi:10.3233/BMR-130432.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Aktas I, Palamar D, Akgun K. Lateral pectoral nerve injury mimicking cervical radiculopathy. Clin J Sport Med . 2015;25(4):e64-66.  doi:10.1097/JSM.0000000000000147. (C)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Eberhardt O, Topka H. Compressive cervical radiculopathy due to vertebral artery dissection. J Stroke Cerebrovasc Dis . 2015;24(5):e115-116.  doi:10.1016/ j.jstrokecerebrovasdis.2015.01.002. (C)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Goni VG, Singh Jhala S, Gopinathan NR, et al. Efficacy of epidural perineural injection of autologous conditioned serum in unilateral cervical radiculopathy: A pilot study. Spine. 2015;40(16):E915-921.  doi:10.1097/BRS.0000000000000924. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Zhu L, Wei X, Wang S. Does cervical spine manipulation reduce pain in people with degenerative cervical radiculopathy? A systematic review of the evidence, and a meta-analysis.  Clin Rehabil . 2016;30(2):145-155.  (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Burneikiene S, Nelson EL, Alexander R, Rajpal S, Villavicencio AT. The duration of symptoms and clinical outcomes in patients undergoing anterior cervical discectomy and fusion for degenerative disc disease and radiculopathy. Spine J. 2015;15(3):427-432.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Choi BW, Kim SS, Dong Hyun K, et al. Cervical radiculopathy combined with cervical myelopathy: Prevalence and characteristics. Eur J Orthop Surg Tramatol . 2017;27(7):889-893.  doi:10.1007/s00590-017-1972-2.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Romeo A, Vanti C, Boldrini V, et al. Cervical radiculopathy: effectiveness of adding traction to physical therapy\u2014a systematic review and meta-analysis  of randomized controlled trials. Phys Ther . 2018;98(4):231-242.  doi:10.1093/physth/pzy001. (M)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Akkan H, Gelecek N. The effect of stabilization exercise training on pain and functional status in patients with cervical radiculopathy. J Back Musculoskel Rehabil . 2018;31(2):247-252.  doi:10.3233/BMR-169583.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Baez SE, Hoch JM, Uhl TL. The effectiveness of cervical traction and exercise in decreasing neck and arm pain for patients with cervical radiculopathy. Int J Athletic Ther Train . 2017;22(5):4-11.  doi:10.1123/ijatt.2016-0096.  (SR)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Takeuchi M, Wakao N, Hirasawa A. Ultrasound has a diagnostic value in the assessment of cervical radiculopathy: A prospective pilot study. Eur Radiol . 2017;27(8):3467-4373.  doi:10.1007/s00330-016-4704-9.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Kim DG, Chung SH, Jung HB. The effects of neural mobilization on cervical radiculopathy patients\u2019 pain, disability, ROM and deep neck flexor endurance. J Back Musculoskel Rehabil. 2017;30(5):951-959.  doi:0.3233/BMR-140191.  (RCT)"
+        }
+    ]
+}

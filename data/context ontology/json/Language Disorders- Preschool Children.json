@@ -1,0 +1,469 @@
+{
+    "metadata": {
+        "title": "Language Disorders  Preschool Children",
+        "synonyms": [
+            "language delay  preschool children",
+            "language impairment  preschool children"
+        ],
+        "anatomical location body part affected": [
+            "Medical problems (e.g., genetic disorders, hearing loss, head injury) can result in injury to the anatomy of communication and lead to language disorders in children; however, language disorders often have no known physical cause(1)"
+        ],
+        "area of specialty": [
+            "child speech and language disorders"
+        ],
+        "description": [
+            "Language disorders in preschool children can be developmental (present from birth) or acquired (resulting from injury or disease following typical language development). A child with a primary language disorder experiences difficulties mainly in the acquisition or use of language. A child with a secondary language disorder experiences language difficulties associated with a separate primary condition (e.g., hearing loss, head injury).(2) Language disorders in early childhood often result from a combination of biological and environmental factors. For example, the effects of prematurity could be compounded if that child is in a neglectful, unresponsive home environment.(3) For typically developing children, \u201cpreschool age\u201d refers to the ages of 2 or 3 years to 5 years.(4) However, some older children with language and/or other delays function at this level and will display the same characteristics as younger, typically developing children. Language skills that correspond to those displayed by typically developing preschool-aged children have also been termed \u201cdeveloping language\u201d skills. Children in the developing language stage have expressive vocabularies that contain more than 50 words and make sentences by combining words; however, their use of grammar is often incorrect due to their developmental stage and the fact that they are still learning basic sentence structure. If a child is chronologically between the ages of 2 or 3 years and 5 years but displays delayed language skills, he or she might still be in the prelinguistic or emerging language period.(4) For detailed information on the assessment and treatment of children in the emerging language period, please see Clinical Review\u2026Language Disorders: Toddlers ; CINAHL Topic ID Number: T709106"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "F80.1": "expressive language disorder",
+            "F80.2": "mixed receptive-expressive language disorder",
+            "F80.4": "speech and language development delay due to hearing loss",
+            "F80.89": "other developmental disorders of speech and language",
+            "F80.9": "developmental disorder of speech and language, unspecified _ (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Signs and symptoms of a language disorder will vary greatly depending upon the cause of the disorder, the specific age of the child (chronological and developmental), and the child\u2019s environment. The symptoms of language disorders can range from mild to severe and will vary among children as well as in the course of a given individual\u2019s lifetime.(2,5) Symptoms of a language disorder in preschool children include deficits or delays in the following:",
+            "Receptive language: Poor understanding of age and experience-level vocabulary, poor understanding of different sentence structures (especially in contexts without situational cues), difficulty learning new vocabulary, difficulty understanding questions and following directions, difficulty understanding and recalling details from a story(4,6) \u2013Authors of a study conducted in the United Kingdom with 22 preschool aged children (ten with mixed receptive-expressive language delay and 12 with expressive language delay) found that children with mixed receptive-expressive  language delay differed in their gesture use from those children who only had expressive language delay. Impairments in the ability to use gestures and comprehend symbolic/nonverbal information was associated with mixed receptive-expressive  language delay and was not present in children with only expressive language delay.(53) Researchers recommended further research with larger sample sizes, but considered that assessment and treatment of gestures and symbolic comprehension is important for children with receptive language delay",
+            "Expressive language: Difficulty retrieving and using vocabulary he or she understands (either in a test setting or during conversation), delayed use/production of a variety of sentence structures, low mean length of utterance (MLU), use of nonspecific vocabulary (e.g., \u201cthing\u201d vs. \u201csoccer ball\u201d), use of filler words (e.g., \u201cummm\u201d), and difficulty learning words to songs and rhymes(4,6)",
+            "Speech, phonology, and speech-motor  development: Delayed syllable and word productions, limited production of speech sounds and speech sound combinations, difficulty feeding due to muscular weakness, paralysis, or dysarthric-like  features.(4) For detailed information on speech production and articulation disorders in children, seethe series of Clinical Reviews  on speech sound disorders",
+            "Pragmatics: Problems include ineffective use of language to communicate thoughts, wants, and needs, difficulty maintaining a conversational topic appropriately, difficulty taking turns in a conversation, difficulty maintaining joint attention, and problems maintaining engagement with a conversational partner(4)",
+            "Preliteracy: Difficulty learning the alphabet, difficulty learning letters and numbers, difficulty identifying sounds that correspond to letters(6) \u2013For detailed information on preliteracy skills in children with language disorders, see Clinical Review\u2026Language Disorders: Preschool Children (Preliteracy Skills) ; CINAHL Topic ID Number: T709110 Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Prior to conducting an in-depth  speech-language  evaluation, or a transdisciplinary assessment, information should be gathered on the child\u2019s developmental level. The child\u2019s developmental level is usually determined by a psychologist or developmental specialist. This information can be compared with information on the child\u2019s language skills to determine whether or not the child\u2019s language skills are commensurated with his or her nonverbal abilities. Whether or not a discrepancy exists between language and nonverbal developmental skills will guide intervention recommendations and goals(4)",
+            "Published research shows that when parents are involved in the assessment and treatment planning stages of early intervention (EI) services, they are more likely to be invested in participating in those services.(10) Therefore, parents, caregivers, and other family members should be considered an important part of the assessment team and might provide information on the child\u2019s strengths and weaknesses across communication contexts(4)",
+            "In order to obtain a clear view of a child\u2019s developing language system, it is necessary to assess a range of areas (e.g., vocabulary, syntax, morphology, pragmatics, phonology) and to use a variety of assessment measures in order to examine each area in depth(11)",
+            "When assessing the language skills of young children, it is imperative to use developmentally appropriate contexts, content, and procedures. This might include observation of the child in his or her natural environment during typical or daily activities.(12) SLPs assessing the language skills of young children must also be aware of the variability among typically developing children as they learn language ",
+            "When assessing young children at risk for communication disorders, it might be necessary to conduct multiple screenings, observations, or assessments over time as their skills and developmental expectations change rapidly.(4,11) It is incorrect to assume that the skills displayed by a young child during a single observation session completely represent the child\u2019s abilities. Furthermore, long-term  predictions should not be made or communicated to parents based on a single sample of behaviors(3)",
+            "Although the use of standardized tests might be appropriate in some children (e.g., those from monolingual homes and those who are willing participants) and might identify global areas of delay, they do not identify patterns of difficulty nor do they identify specific areas to target during treatment. In order to identify patterns of errors that children exhibit in real-life  communication, standardized tests must be supplemented with criterion-referenced measures, such as language sampling, in order to assemble a profile of the child\u2019s linguistic strengths and weaknesses.(4,11) For example, once a standardized language test has been administered and an expressive language delay/disorder identified, it is necessary to complete additional assessments, such as language sampling, in order to identify patterns of errors (e.g., difficulty using plural markers).(4) Due to time constraints, SLPs might need to use initial treatment sessions to gather additional, more detailed, assessment data(11)",
+            "Children often have co-occurring  articulation problems and language disorders. Therefore, it is recommended to assess both speech and language for preschool children who present with communication difficulties(4)",
+            "Although parents might report strong language comprehension skills, it is important for the SLP to differentiate between a child\u2019s ability to comprehend oral language and a child\u2019s ability to use nonverbal cues (e.g., gestures, eye gaze, context) to aid in following instructions and responding to a speaker appropriately(4)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  medical problems  e.g., genetic disorders, hearing loss, brain injury  can result in injury to the anatomy of communication and lead to language disorders in children; however, language disorders often have no known cause.": [],
+        "pathogenesis:  language disorders result from a variety of causes. symptoms vary, in part, according to the child\u2019s age and linguistic expectations across the lifespan": [],
+        "risk factors:  risk factors for language disorders include:": [
+            "Child factors\u2013Very low birth weight(3,7)\u2013Low 5-minute  Apgar score(7)\u2013High birth order (third child or higher in a family)(7)\u2013Being a multiple (e.g., twin, triplet)(8)\u2013Chromosomal anomalies/genetic disorders(3)\u2013Neurological disorders(3)\u2013Congenital malformations(3,4)\u2013Inborn errors in metabolism(3,4)\u2013Sensory disorders(3,4)\u2013Developmental disorders(3)\u2013Severe toxic exposure(3,4)\u2013Chronic medical illness(3)\u2013Severe infectious disease(3)\u2013Small for gestational age(3)\u2013Experiences atypical or recurrent accidents(3)\u2013Chronic otitis media(3)\u2013Child experiences abuse or neglect(4)\u2013Low socioeconomic status (SES)(55)",
+            "Parent/family factors\u2013Late or no prenatal care(7)\u2013Low level of education(3,7)\u2013Entered parenthood at younger age(3)\u2013Dependent on drugs or alcohol(3)\u2013Parent/caregiver experiences a chronic or severe illness(3)\u2013Family is in crisis(3)\u2013Family displays chronically disruptive patterns of interaction(3)\u2013Parent/caregiver is physically or socially isolated and/or has a lack of adequate social support(3)\u2013Living conditions are unstable or dangerous(3)\u2013Parent/caregiver is homeless(3)\u2013Parent/caregiver has no or inadequate health insurance(3)\u2013Severe prenatal complications(3)\u2013Severe perinatal complications(3)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "A young child\u2019s family and/or caregivers must be included in the evaluation and intervention practice according to the U.S. Individuals with Disabilities Education Act (IDEA)(4)",
+        "Speech-language  pathologists (SLPs) should complete a review of a child\u2019s medical and developmental history prior to conducting an assessment or intervention",
+        "When working with children and their families/caregivers, SLPs must display cultural sensitivity and be aware of the role of a family\u2019s culture in their interaction patterns, ability to access services and information, and views of medical interventions and disabilities.(9) For detailed information on communication disorders in bilingual infants and toddlers, see Clinical Review\u2026Language Disorders: Bilingual Infants and Toddlers ; CINAHL Topic ID Number: T709065. For detailed information on language disorders in school-aged  children, see Clinical Review\u2026Language Disorders: Bilingual School-Aged  Children ; CINAHL Topic ID Number:T709066",
+        "The assessment and treatment of young children requires a team approach regardless of the setting (e.g., child\u2019s home, preschool, rehabilitation center, hospital). Such a team will include the child\u2019s family/caregivers, SLPs, occupational therapists (OTs), physical therapists (PTs), audiologists, early-education  specialists, preschool teachers and staff, nurses, physicians, and other team members as appropriate",
+        "Development of an individualized education program (IEP) in collaboration with the parents/caregivers and preschool teacher(s) might be appropriate for children with developmental disorders to address learning, language, cognitive, feeding, and/or motor problems",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Prior to conducting an in-depth  speech-language  evaluation, or a transdisciplinary assessment, information should be gathered on the child\u2019s developmental level. The child\u2019s developmental level is usually determined by a psychologist or developmental specialist. This information can be compared with information on the child\u2019s language skills to determine whether or not the child\u2019s language skills are commensurated with his or her nonverbal abilities. Whether or not a discrepancy exists between language and nonverbal developmental skills will guide intervention recommendations and goals(4)",
+            "Published research shows that when parents are involved in the assessment and treatment planning stages of early intervention (EI) services, they are more likely to be invested in participating in those services.(10) Therefore, parents, caregivers, and other family members should be considered an important part of the assessment team and might provide information on the child\u2019s strengths and weaknesses across communication contexts(4)",
+            "In order to obtain a clear view of a child\u2019s developing language system, it is necessary to assess a range of areas (e.g., vocabulary, syntax, morphology, pragmatics, phonology) and to use a variety of assessment measures in order to examine each area in depth(11)",
+            "When assessing the language skills of young children, it is imperative to use developmentally appropriate contexts, content, and procedures. This might include observation of the child in his or her natural environment during typical or daily activities.(12) SLPs assessing the language skills of young children must also be aware of the variability among typically developing children as they learn language ",
+            "When assessing young children at risk for communication disorders, it might be necessary to conduct multiple screenings, observations, or assessments over time as their skills and developmental expectations change rapidly.(4,11) It is incorrect to assume that the skills displayed by a young child during a single observation session completely represent the child\u2019s abilities. Furthermore, long-term  predictions should not be made or communicated to parents based on a single sample of behaviors(3)",
+            "Although the use of standardized tests might be appropriate in some children (e.g., those from monolingual homes and those who are willing participants) and might identify global areas of delay, they do not identify patterns of difficulty nor do they identify specific areas to target during treatment. In order to identify patterns of errors that children exhibit in real-life  communication, standardized tests must be supplemented with criterion-referenced measures, such as language sampling, in order to assemble a profile of the child\u2019s linguistic strengths and weaknesses.(4,11) For example, once a standardized language test has been administered and an expressive language delay/disorder identified, it is necessary to complete additional assessments, such as language sampling, in order to identify patterns of errors (e.g., difficulty using plural markers).(4) Due to time constraints, SLPs might need to use initial treatment sessions to gather additional, more detailed, assessment data(11)",
+            "Children often have co-occurring  articulation problems and language disorders. Therefore, it is recommended to assess both speech and language for preschool children who present with communication difficulties(4)",
+            "Although parents might report strong language comprehension skills, it is important for the SLP to differentiate between a child\u2019s ability to comprehend oral language and a child\u2019s ability to use nonverbal cues (e.g., gestures, eye gaze, context) to aid in following instructions and responding to a speaker appropriately(4)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Does the child have a primary disability (e.g., hearing loss, cerebral palsy, autism spectrum disorder [ASD], traumatic brain injury [TBI]) that might have caused a communication disorder?",
+                "course of treatment": {
+                    "medical management": "Does the child receive medical management for any reason? If so, describe the medical management the child is receiving. Does the child have a history of prolonged hospitalization or time spent in the NICU?",
+                    "surgical management": [],
+                    "medications": "Determine what, if any, medications the physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Unless a primary medical condition exists or is suspected, medical diagnostic tests are not common when diagnosing language disorders"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether the child has had speech-language,  occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful. Does the child have an existing IFSP (individualized family service plan) or IEP?"
+                },
+                "aggravating easing factors": " Aggravating/easing factorsDoes the time of day, setting, communication partner, and/or health status influence the child\u2019s communication skills?(3)Observations of the child\u2019s interaction with the parent during play can yield valuable information. Does the child display infrequent or inconsistent responses to his or her environment? Are the child\u2019s communication attempts inconsistent, of poor quality, or difficult for caregivers to interpret? Do parents/ caregivers show decreased responsiveness to their child? Do parents/caregivers demonstrate less affection and/or talk less frequently to their child? How adept are parents/caregivers at recognizing and responding to the child\u2019s communication signals? Does a parent/caregiver suffer from a mood disorder (e.g., depression) or drug/alcohol dependency that could affect motivation to initiate or respond to communication?(3,13)Does the child have vision or hearing problems? Does the child have a motor impairment that affects his or her ability to communicate nonverbally and/or verbally?(13) -Children with language impairment have increased incidence of motor impairment, including impairment of the child\u2019s ability to produce gestures to supplement communication attempts(14) If the child demonstrates delays in speech production, are these delays accompanied by delays in the child\u2019s overall communication skills (i.e., delayed communicative function and frequency)? Does the child exhibit isolated difficulties in oral-motor  skills and speech production?(4)Patterns of child-caregiver  interaction vary significantly between cultural groups, and the SLP must be knowledgeable of typical interaction patterns in a specific child\u2019s family.(15) In what ways does the family\u2019s culture influence child-caregiver  interaction patterns? What language(s) is/are spoken by the child\u2019s caregivers? Do language barriers affect the family\u2019s access to information and/or services?(2)",
+                "body chart": "",
+                "nature of symptoms": "The symptoms of a language disorder in preschool-aged  children are highly variable and will be influenced by a child\u2019s age, the severity of accompanying motor or cognitive impairments, a child\u2019s medical status, and a child\u2019s preschool, home, or hospital environment. Preschool-aged  children with language disorders are at increased risk for problems in the areas of receptive language, expressive language, preliteracy, and/or social language (pragmatics).(3,6,13) Additionally, preschool-aged children with language disorders might have accompanying oral-motor and/or speech production problems or dysphagia",
+                "rating of symptoms": "",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, with changes in the environment (e.g., during medical procedures, with different communication partners), and during different daily activities",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Does the child display problems in the areas of voice, hearing, oral-motor  skills, and/or swallowing?(2) Document other symptoms the child may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., recurrent ear infections, difficulty hearing sounds in the environment, poor motor skill development, poor or unusual response to physical sensation, feeding/eating difficulties)Document symptoms within the child\u2019s family (e.g., symptoms of depression, feelings of guilt or isolation, signs of abuse or neglect) and refer family to a social worker or psychologist if necessary(3) -In a study conducted in Australia, researchers found that 4-year-old  children with language impairment (when compared to typically developing peers) showed more negative dispositions and overall behavior difficulties(16)Prior to being evaluated for a language delay or disorder, a child should undergo audiological testing in order to rule out or identify hearing loss -Children with hearing impairment are at increased risk of both receptive and expressive language disorders(17) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has the child previously been diagnosed with a language delay/disorder? Has the child previously been diagnosed with a developmental delay or medical condition that could cause a language disorder?",
+                    "comorbid diagnoses": "Ask the child\u2019s family/primary caregiver about other problems, including hearing loss, behavioral problems, motor problems, cognitive problems, and feeding/eating problems",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask the child\u2019s family/primary caregiver about other symptoms the child is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the child reside in the hospital or at home? Does the child attend daycare or preschool? How does the child communicate thoughts, wants, and needs in various settings and with various communication partners (e.g., gestures, eye gaze, vocalizations, words, word combinations, sentences)? What types of activities does the child enjoy? What does the family/primary caregiver consider to be the child\u2019s overall strengths and weaknesses?",
+                "functional limitations assistance with ADLs adaptive equipment": "What functional communication limitations does the child experience in daily living? Does the child require the use of adaptive equipment for communication, mobility, and/or feeding? ",
+                "living environment": " Living environment -With whom does the child live? What language(s) are spoken in the home? In the home, with whom does the child primarily communicate? -Does the child attend daycare or preschool? What language(s) are spoken in the daycare or preschool? -Does the child experience an overall lack of language exposure at home? Decreased amount of linguistic input to children is often associated with a family\u2019s poverty level and can negatively affect the child\u2019s language skills(18) -Observe and describe interaction patterns displayed by the child and his or her family/caregivers or the child and his or her peers(3)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Document whether or not the child uses assistive and/or adaptive device for communication (e.g., hearing aids, communication board), mobility, or feeding. Children with language disorders might benefit from the use of augmentative and alternative communication (AAC). AAC ranges from manual signs and gestures to high-tech  devices that produce digitized and/or synthesized speech (speech-generating  devices). Research findings support the use of AAC for children with communication disorders to support communication development.(48) AAC has also been shown to be effective in terms of behavior change and generalization for individuals with severe expressive communication impairments.(49) In addition, research has indicated repeatedly that the use of AAC devices does not hinder natural speech development in very young children.(48) Furthermore, authors of a systematic review of studies of persons with significant speech impairments reported that many children had an increase in speech production following AAC intervention.(50) For detailed information on AAC, see the series of Clinical Reviews on this topic",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": " Speech and language examinationA child\u2019s speech production can be assessed through a combination of standardized testing, observation, parental report, and speech sample analysis(4) -In a study conducted in the United States, researchers found that children with specific language impairment had a significantly slower rate of articulation as compared to typically developing peers; overall speaking rate and pause time were not different, hence the difference appeared to be related to longer syllable duration in children with specific language impairment(19) -For detailed information on articulation and phonological disorders in children, see the series of Clinical Reviews  on speech sound disordersLanguage skills can be assessed using formal measures (e.g., standardized tests, parent-completed questionnaires, dynamic assessment language sampling) or informal observations. Several areas ofIf a child does poorly on a standardized test of vocabulary, analysis of standardized testing should be completed in order to identify classes or groups of words (e.g., spatial words, question words) that the child has difficulty understanding or expressing. Note whether or not the child displays signs of word-finding  difficulties (e.g., circumlocutions, use of overly general terms such as \u201cthing,\u201d or difficulty naming items comprehended on a receptive language test)(4) -Children with specific language impairment use fewer verbs in spontaneous speech and are less likely to use low-frequency  verbs as compared to typically developing peers(20)It is important to assess a child\u2019s receptive and expressive syntax and morphology separately because 1) a child might produce a sentence structure expressively that he or she does not understand when nonverbal cues are removed, and 2) having information on both receptive and expressive skills will inform the course of treatment and goal selection(4)A child\u2019s ability to understand language syntax might be affected by the context within which the language is used. For example, in contextualized settings, nonverbal support (e.g., gesture, eye gaze, objects in the environment) is present in order to aid the child\u2019s comprehension of language which he or she might not understand in isolation. In decontextualized situations, such as while taking a standardized test, nonverbal support  is absent. Gathering information on a child\u2019s ability to comprehend sentence structure in both contextualized and decontextualized situations will provide important information (e.g., is the child able to integrate verbal and nonverbal information?) and help determine the course of treatment (e.g., can the child benefit from a naturalistic therapeutic approach or does treatment need to address the comprehension of nonverbal cues?(4)If a child displays delayed expressive syntax/morphological skills on standardized test measures, criterion-referenced  measures can be used to further examine this area of language development. The collection and analysis of a spontaneous language sample can provide detailed information on a child\u2019s expressive syntax and morphology. Several methods of language sample collection, transcription, and analysis exist.(4) When collecting and analyzing language samples, it is important that the SLP collect and score the data in a manner consistent with the reference database that will be used to analyze it. For example, SLPs must follow the database\u2019s specific guidelines on how to identify utterances and morphemes and which types of utterances to include or exclude. Additionally, SLPs should be aware of the potential effects of setting, participants, activity, and type of material on the language sample collected(21)An MLU yields a measure of morphological complexity in a child\u2019s language. To calculate MLU, a sample of at least 50 utterances is taken. The number of morphemes in this sample is divided by the number of utterances.(22,23) This calculation takes into account the child\u2019s developing morphological skills and syntactic skills. Although MLU can be helpful to obtain a picture of the child\u2019s current level of language development, as well as an outcome measure, it cannot identify language delay or disorder in isolation and must be combined with other measures in a diagnostic speech-language evaluation(23)Assess vocal function, including vocal quality, loudness, pitch, and endurance; if there are specific concerns regarding voice, refer to otolaryngologist for complete workup to rule out laryngeal pathologies prior to completing a full",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Review EI, school, and/or medical records for information on cognitive deficits and/or the presence of a learning disability. Document known or suspected cognitive or learning difficulties, such as reduced working memory capacity.(52) If cognitive, developmental, behavioral, or learning problems are suspected, refer the child to the appropriate professional (e.g., child psychologist)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Precautions will vary according to the individual patient and the severity of accompanying cognitive, motor, medical, and/ or feeding symptoms",
+                "Many early-childhood  programs stress parent education and parent involvement, and the U.S. Individuals with Disabilities Education Act (IDEA) requires parent/caregiver involvement in the assessment and treatment process. However, SLPs should be aware of the cultural implications of these types of programs. Prior to beginning intervention services, the SLP must become aware of the family\u2019s value of talk, the handling of social status in conversations, beliefs about when a child becomes able to communicate intentionally, and beliefs about how children learn language.(15) In addition to cultural variables, individual family variables may impact the level of involvement a family wishes to have in treatment provision (e.g., providing therapy following parent/family training, attending clinician-led  therapy sessions, completing homework sent by the child\u2019s SLP)(4)",
+                "When planning treatment goals for preschool-aged  children, the SLP must be knowledgeable about typical developmental patterns and the sequence of language acquisition. However, when working with chronologically older children who are still in the developing language stage, SLPs might choose to focus on goals targeting functional language skills rather than those which are \u201cnext\u201d to develop (e.g., using a complete sentence to ask for personal items even before the older child has mastered the prerequisite grammatical forms)(4)",
+                "During treatment sessions, the SLP must be aware of the impact of positioning on a young child\u2019s ability to communicate. Children who are medically fragile or have accompanying motor disabilities may require special positioning or support in order to facilitate communication. SLPs should collaborate with PTs and OTs in order to address these concerns(3)",
+                "During treatment sessions, the SLP must be aware of sensory issues a young child has (e.g., hypersensitivity to touch, sensory integration difficulties) and their possible impact on the child\u2019s ability to communicate. SLPs should collaborate with OTs in order to address these concerns",
+                "Development of an IFSP or IEP in collaboration with the parents and early-childhood  professionals may be necessary for children with language disorders and/or disorders/delays among multiple domains",
+                "Clinicians should follow the guidelines of their clinic/hospital/school and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "The diagnosis of a language delay or disorder in children is made by a fully certified and licensed SLP in collaboration with the child\u2019s family and other medical and/or educational specialists",
+        "rule out": "Typical variation in language performance and language differences attributable to second-language  acquisition (when appropriate)(2,18)",
+        "prognosis": [],
+        "referral to other disciplines": "Appropriate referrals will depend upon the child and family\u2019s individual needs. Referrals might be made to professionals in the following disciplines: audiology, occupational therapy, physical therapy, early-childhood  education, and social work",
+        "other considerations": [],
+        "treatment summary": [
+            "When working with a young child, intervention services should be family-centered  in that 1) communication develops in a natural context (e.g., during social interactions with a parent/caregiver), 2) communication and socioemotional development are reciprocal, and 3) childhood communication disorders directly affect the family system.(3,32) However, once a child reaches preschool, an IEP, focusing on the child, will be generated in place of an IFSP",
+            "Although IEPs focus on the educational needs of the individual child, parents/caregivers have legal rights allowing them to be involved in the assessment, treatment planning, and therapy stages of service delivery. Parents should be considered and treated as integral parts of the IEP team(4)",
+            "In order to generalize newly acquired language skills, it is important that treatment goals be targeted in a variety of contexts over a period of time(33)",
+            "When working with preschool-aged  children, SLPs can use clinician-directed  methods, child-centered  approaches, and/or hybrid approaches(4) \u2013Clinician-directed  (CD) methods: CD methods include drill, drill play (e.g., target language form is practiced after every \u201cturn\u201d in a game), and the use of commercial software programs. CD methods, especially those involving computer  games, may be motivating to children and facilitate intense practice of language goals; however, it is important to employ strategies to generalize new language knowledge to the child\u2019s daily life and to ensure that the child can use the new knowledge in socially appropriate ways(4) \u2013Child-centered  (CC) approaches: CC approaches are generally recommended when the goal is to improve the child\u2019s ability to communicate in general (rather than to address specific syntactical, morphological, or semantic goals). One example of a CC approach is indirect language stimulation (ILS).(4) In ILS: -Clinician and/or parent/guardian uses expansions, extensions, recasts, and open-ended  and verbal reflective questions when interacting with the child(4) -Expansions are adult responses to child utterances in which the adult repeats the child\u2019s utterance in a way that corrects syntax, vocabulary, or articulation/phonology, but keeps the basic structure of the child\u2019s utterance. For example, if a child says, \u201cHim want milt\u201d the adult corrects the statement by saying, \u201cLook! He wants milk!\u201d(51) -Extensions are adult responses to child utterances in which the adult responds to the child\u2019s utterance with correct syntax, vocabulary, and articulation/phonology and extends the idea or topic of the child\u2019s original utterance. For example, if a child says, \u201cHim want milt\u201d the adult responds by saying, \u201cHe wants milk. He must be thirsty!\u201d(51) -Recasts are adult responses to child utterances in which the adult maintains the topic of the child\u2019s utterance in a way that corrects syntax, vocabulary, or articulation/phonology, but changes the format of the original utterance in some way. Recasts can be basic or complex and sometimes additional information can be included in the adult\u2019s recast. For example, if a child says, \u201cHim want milt\u201d the adult can recast the statement by saying, \u201cOh, look! Do you think he wants milk?\u201d(51) -Authors of a systematic review (included 35 studies) and meta-analysis  (included 14 studies) on the effectiveness of recasts in language therapy with children found that the current evidence supports the use of recasts in language therapy for children with specific language impairment. Researchers did not find a strong evidence to support the use of recasts in language therapy for children with intellectual disability (ID); however, outcomes were generally positive. Because of the variety of methodology and outcomes measured, firm conclusions were difficult to make. Additionally, authors cautioned clinicians not to assume all parents who are taught about how to use recasts will be using them effectively or consistently. Parents of children with language impairment should be provided with frequent education about recasting in conversations with their child(51) -One-word  labels are provided for whatever the child is focusing on or referring to through the use of preverbal communication (e.g., providing a word label for an object to which the child is pointing)(4) \u2013Hybrid approaches: Hybrid approaches are less structured than CD approaches, but provide more structure and clinician-direction  than do CC approaches.(4) Hybrid approaches include: -Milieu teaching: Intervention, which takes place incidentally in a conversational format within a natural setting, strives to teach new language forms in a functional context. However, the context is somewhat controlled so that the child 1) is required to initiate communication, 2) has a need to engage in social communication, and 3) receives natural rewards for his or her communication attempts.(4,34)MT is often described in the literature as an intervention for children with language disorders; however, the exact intervention protocols, including frequency and length of sessions, are not well-defined.(59) The effectiveness of MT for improving communication abilities in preschool children with language disorders is unknown. In a 2012 What Works Clearinghouse (WWC) Intervention Report published by the United States Department of Education, there were many studies that were found on MT in the literature; however, only one study from 1991 met the WWC standards to be included as part of the Intervention Report. According to this study, there was no apparent effect of MT on communication abilities.(59) Additional, well-designed studies are necessary to determine the effectiveness of MT on the communication abilities of preschool children with language disorders -Enhanced milieu teaching (EMT): EMT combines the features of milieu teaching (discussed above) with features of a responsive conversational style (in which models of appropriate language are provided). In a study conducted in the United States, the effects of EMT on six children with language disorders between the ages of 37 and 80 months were examined. Results indicated that EMT was effective in increasing the children\u2019s use of targeted language structures during treatment sessions at home and in the classroom(34) -Focused stimulation: In focused stimulation, treatment is provided in the format of natural conversation. The SLP provides multiple models of the language target (e.g., use of auxiliary verbs) but does not require the child to produce the target. Although the child is not required to produce targeted structures, the environment is manipulated to encourage productions by the child. In addition to modeling the language target and manipulating the environment, \u201csyntax  stories\u201d can be incorporated into focused stimulation therapy. These are stories written collaboratively by the child and SLP and contain numerous examples of the target structure. Once written, the stories can be sent home as part of a home program. Parents are asked to read the stories to their child; however, the child is not asked to produce target structures(35) -Authors of a case study described the use of focused stimulation using both simplified syntactical input, as well as expanded input, with a 25-month-old  male child with a significant expressive language delay (receptive language skills were within normal limits)(36) -The child was enrolled in a 16-session  focused stimulation program during which developmentally appropriate words were targeted(36) -The first half of the sessions were completed with simplified input condition in which the clinician only used two to three word utterances with no grammatical relationship to target words (e.g., \u201cYes, look ball!\u201d) and the second half of the sessions were completed with expanded input with a minimum of four words per utterance with grammatical information presented along with the target word (e.g., \u201cThe ball is bouncing.\u201d)(36) -Ten words were targeted in each treatment condition; the child mastered 6/10 words in the simplified input condition and only 3/10 with the expanded input condition. For this specific child, focused stimulation to increase vocabulary was more effective when the clinician used simple syntactical input, focusing on the target word(36) -Script therapy: In script therapy, an emphasis is placed on using language in a familiar social context.(4) Since the child is familiar with the social context and knows the expectations of the routine event, both the child and the SLP/parent are able to focus their attention on the targeted language forms and/or content. During the course of script therapy, the expected progression of a routine may be intentionally interrupted by the adult in order to elicit additional language from the child.(4,33) In a study conducted in South Korea examining the effectiveness of script-based therapy, four preschool children with language disorders displayed improved use of semantic relation skills, the ability to generalize the use of these skills to other situations, and maintenance of these skills 3 weeks after script-based  therapy was discontinued(33)",
+            "During the preschool period, intervention can be carried out by a variety or combination of people: SLPs, paraprofessional (following the guidelines of the American Speech-Language-Hearing  Association), parents, carefully selected peers or siblings who are supported and trained by an SLP, and/or the child\u2019s classroom teacher with support/training provided by an SLP(4,37)",
+            "Several models of service delivery exist and can be used when working with a preschool child with a language delay/ disorder: clinical model (child is seen either individually or in a small group in a specialized setting), language-based classrooms, collaborative model (the SLP provides intervention within the child\u2019s mainstream classroom), and consultant model (the SLP trains the child\u2019s teacher and/or parents in ways to modify classroom or daily activities to address the child\u2019s language needs).(4) One collaborative model currently receiving attention by SLPs and early-childhood  educators is Response to Intervention (RTI)(38) \u2013RTI -Principles of RTI(38) -Tiered instruction that is dependent on the individual needs of the child being served. Tiers vary according to level, frequency, and intensity of instruction -High-quality  instruction (involving knowledgeable professionals, varied instructional methods, ongoing assessment, matching experiences to child\u2019s needs, and professional collaboration) -Research-based  core curriculum -Data collection to monitor student progress and instructional effectiveness coupled with attempts to understand a child\u2019s current performance -Evidence-based  interventions -Instructional practices are selected and revised based upon set procedures (e.g., collaborating with the child\u2019s family, consideration of the child\u2019s needs and learning context) -Adherence to RTI principles is monitored -In order to work in early-childhood  settings that incorporate RTI, an SLP may need to:(39) -Gain additional training on the principles and implementation of RTI -Identify and provide preventive services to children at risk for language and learning difficulties -Spend more work time in a consultative role and in the mainstream classroom  -For detailed information on RTI, see Clinical Review\u2026Response to Intervention (RTI) ; CINAHL Topic ID Number: T709175",
+            "Shared-reading  intervention \u2013Several studies have been conducted which point to the benefits of shared-reading  intervention for preschool-aged children with language delays/disorders.(40,41) Shared-reading  activities are book-centered  activities in which the child and adult work together to construct meaning from the book to which they are attending.(42) Shared-reading  is believed to be beneficial because: -Shared-reading  and exposure to literature enhances a child\u2019s vocabulary development(43) -Shared-reading  activities offer contextual support (i.e., a book or familiar story) which allows the adult to use more complex language and supports the development of the child\u2019s abstract language skills(40,43) -Oral language development and early literacy skills are interrelated and reciprocal(40) -Reading books is a natural activity for many mainstream American families and therefore allows intervention activities to be conducted in a naturalistic environment(42) -Providing intervention services during shared-book reading may strengthen the foundation upon which later literacy skills are built(42) -Once a book has been read, story retelling offers the opportunity to develop a child\u2019s narrative language skills(43) \u2013Despite the benefits of incorporating shared-reading  into a treatment program for language delays and disorders, prior to including these activities in a treatment plan, SLPs should consider an individual child\u2019s/family\u2019s perception of shared-reading  activities, the child\u2019s motivation and desire to participate in book-related  activities, the effect (possibly negative) of changing a parent-child\u2019s  interaction style, and ways to address goals in contexts other than shared-book reading to encourage the generalization of targeted skills(42)",
+            "Parent-based  video home training program \u2013In a randomized controlled trial conducted in the Netherlands, researchers examined the results of a parent-based  video home training (PVHT) program for children who had been diagnosed with developmental language delay(44) -Twenty-two  subject groups; each subject group was made up of two parents and one child with developmental language delay; in each of the subject groups the mother was the main caretaker for the child and the families were all of middle-class social economic status (determined by a standardized interview prior to the study)(44) -The subject groups were randomly assigned to either the PVHT group or the control group; the members of the control group received direct child language intervention program (individual 45-minute  weekly speech and language therapy sessions for 12 weeks; parents did not participate in sessions and waited outside the room during sessions)(44) -The mothers in the PVHT group participated in a parent-oriented  video home training program for 13 weeks with 6 bi-weekly  home visits of 90 minutes each(44) -The goal of the PVHT program was to train parents how to use four strategies in their home to promote conversational coherence for their child with language delay(44) -Four strategies included: attachment (relation and affection between child and parent), referencing (using child-directed  behavior and child-adjusted  language to refer to observable ongoing activities and feelings), relevance (situational and linguistic context), and connectivity (connecting conversational acts to earlier utterances and conversations)(44) -Baseline and follow-up  measures were taken with all children before and after the completion of their assigned intervention. Outcomes included: -MLU(44) -PVHT: 2.1 (baseline) to 2.9 (follow-up) -Control: 2.3 (baseline) to 2.9 (follow-up) -Significant differences between the PVHT and control group with both grammaticality and conversational coherence at follow-up  with the PVHT group showing greater improvements(44) -In addition to having the same or better effects on the child\u2019s language, the PVHT seemed to have continued long-lasting effects as demonstrated by continued improvement in all outcome measure scores between a post-treatment  assessment and follow-up three months later(44)  -Researchers concluded that parent training/education should always be incorporated into intervention programs for children with developmental language delay(44)",
+            "Research on the efficacy of language intervention \u2013Authors of a meta-analysis  of 13 articles was conducted to examine the efficacy of treatment for children or adolescents with primary speech and language delay/disorder.(45) Results indicated that: -Children with phonological or expressive vocabulary difficulties benefited positively from intervention(45) -Mixed evidence exists concerning the effectiveness of therapy for children with expressive syntax difficulties(45) -The results for children with receptive phonology or language difficulties are inconclusive due to the small number of studies conducted in this area(45) -Interventions focusing on parent training and those that were clinician-administered  had no significant differences in outcome(45) -Interventions lasting longer than 8 weeks may be more effective than those of shorter duration(45) -Intervention for children with expressive language difficulties only may be more effective than therapy for children with combined receptive-expressive language difficulties (however, many studies exclude children with receptive language difficulties so the results are inconclusive)(45) \u2013Authors of a systematic review of narrative-based  language interventions with children who have language impairment found moderate to large effect sizes for the nine studies included in the review; however, due to the limited number of participants included in each study, and the significant variation in methodology and materials, researchers cautioned clinicians about interpreting the results of this review. Narrative-based  intervention was classified as being in an emerging stage of evidence requiring further investigation with larger subject groups(46) . Problem Goal Intervention Expected Progression Home Program Delayed/disordered language developmentImprove language skills Clinician-directed (CD) methods _ Can include drill, drill play, and computer software programs _ _ See Treatment summary , aboveProgression of therapeutic tasks will vary according to individual patient goals and specific needsDetermined on an individual basis Delayed/disordered language developmentImprove language skills Child-centered (CC) approaches _ Can include indirect language stimulation (ILS) _ _ See Treatment summary , aboveProgression of therapeutic tasks will vary according to individual patient goals and specific needsDetermined on an individual basis  Delayed/disordered language developmentImprove language skills Hybrid approaches _ Can include milieu teaching, enhanced milieu teaching, focused stimulation, and script therapy _ _ See Treatment summary , aboveProgression of therapeutic tasks will vary according to individual patient goals and specific needsDetermined on an individual basis Delayed/disordered language developmentImprove language skills Parent training methods _ Focus on improving the way in which a parent interacts with a child who has a language disorder _ _ See Treatment summary , aboveProgression of therapeutic tasks will vary according to individual patient goals and specific needsDetermined on an individual basis ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "increased vocabulary": [
+            "Ongoing assessment of the child\u2019s communication skills(3)",
+            "Review of the goals set in the IFSP"
+        ],
+        "improved receptive syntax and morphology": [
+            "Ongoing assessment of the child\u2019s communication skills(3)",
+            "Review of the goals set in the IFSP"
+        ],
+        "improved expressive syntax and morphology": [
+            "MLU",
+            "Narrative assessment",
+            "Ongoing assessment of the child\u2019s communication skills(3)",
+            "Review of the goals set in the IFSP"
+        ],
+        "improved pragmatic abilities": [
+            "Ongoing assessment of the child\u2019s communication skills(3)",
+            "Review of the goals set in the IFSP"
+        ],
+        "improved quality of life": [
+            "Health Utilities Index Mark 3 (HUI3): a health-related  quality of life measure that has been found to be useful formeasuring quality of life outcomes in children with speech and language disorders(54)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Providing intervention services for children at risk for communication disorders and their families might prevent future communication difficulties(4) Authors of a longitudinal study conducted in the United Kingdom found that children with poor receptive vocabulary at age 5 developed into competent readers by age 10 after receiving language stimulation from both the family and school environments; however, those children in unsupportive or neglectful family situations and poor school environment did not become competent readers(47) "
+    ],
+    "patient education": [
+        "Parent training/education should always be incorporated into intervention programs for children with developmental language delay so that the parents can promote the growth of language skills in the home environment(44)",
+        "For more information on learning disabilities in preschool children, see the American Speech-Language-Hearing Association\u2019s Web site, https://www.asha.org/policy/PS1987-00096/",
+        "For information on how to distinguish late-developing  language from a language disorder, see the American Speech-Language-Hearing  Association\u2019s Web site, https://www.asha.org/public/speech/disorders/LateBlooming.htm",
+        "For information on typical language development in 3- and 4-year-olds,  see the American Speech-Language-Hearing Association\u2019s Web site, https://www.asha.org/public/speech/development/34.htm",
+        "For information on typical language development in 4- and 5-year-olds,  see the American Speech-Language-Hearing Association\u2019s Web site, https://www.asha.org/public/speech/development/45.htm Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on June 2, 2017 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Preschool language disorders. American Speech-Language-Hearing  Association Web site. http://www.asha.org/public/speech/disorders/Preschool-Language-Disorders/ . Accessed September 24, 2018. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Kohnert K. Language Disorders in Bilingual Children and Adults . San Diego, CA: Plural Publishing; 2008. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Rossetti LM. In: Communication Intervention: Birth to Three . 2nd. San Diego, CA: Singular Thomson Learning; 2001. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Paul R. Language Disorders from Infancy Through Adolescence: Assessment & Intervention . 3rd ed. St. Louis, MO: Elsevier Mosby; 2006. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Genesee F, Paradis J, Crago MB. In: Dual Language Development and Disorders: A Handbook on Bilingualism and Second Language Learning . Baltimore, MD: Paul H. Brookes Publishing; 2006:193-213.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Language-based  learning disabilities. American Speech-Language-Hearing  Association Web site. http://www.asha.org/public/speech/disorders/LBLD.htm . Accessed September 24, 2018. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Stanton-Chapman  TL, Chapman DA, Bainbridge NL, Scott KG. Identification of early risk factors for language impairment. Res Dev Disabil . 2002;23(6):390-405.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Rice ML, Zubrick SR, Taylor CL, Gayan J, Bontempo DE. Late language emergence in 24-month-old  twins: heritable and increased risk for late language emergence in twins. J Speech Lang Hear Res . 2014;57(3):917-928.  doi:10.1044/1092-4388(2013/12-0350).  (U)"
+        },
+        {
+            "number in article": 9,
+            "reference": "American Speech-Language-Hearing  Association. Practice portal: Pediatric dysphagia. http://www.asha.org/Practice-Portal/Clinical-Topics/Pediatric-Dysphagia/ . Accessed September 24, 2018. (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Bruns DA, Steeples T. Partners from the beginning: guidelines for encouraging partnerships between parents and NICU and EI professionals. Infant-Toddler  Interv. 2001;11(3-4):237-247.  (G)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Dockrell JE. Assessing language skills in preschool children. Child Psychol Psychiatry Review . 2001;6(2):74-85.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Neisworth JT, Bagnato SJ. The mismeasure of young children: the authentic assessment alternative. Infants Young Child . 2004;17(3):198-212.  (PP)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Pennington L, Goldbart J, Marshall J. Interaction training for conversational partners of children with cerebral palsy: a systematic review. Int J Lang Comm Dis . 2004;39(2):151-170.  (RV)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Iverson JM, Braddock BA. Gesture and motor skill in relation to language in children with language impairment. J Speech Lang Hear Res . 2011;54(1):72-86.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "van Kleeck A. Potential cultural bias in training parents as conversational partners with their children who have delays in language development. Am J Speech Lang Pathol . 1994;3(1):67-78.  (X)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Prior M, Bavin E, Cini E, Eadie P, Reilly S. Relationships between language impairment, temperament, behavioural adjustment and maternal factors in a community sample of preschool children. Int J Lang Commun Disord . 2011;46(4):489-494.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Keilmann A, Kluesener P, Freude C, Schramm B. Manifestation of speech and language disorders in children with hearing impairment compared with children with specific language disorders. Logoped Phoniatr Vocol . 2011;36(1):12-20.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "McKibbin C. Assessment and intervention for children with limited English proficiency and language disorders. Am J Speech Lang Pathol . 1994;3(3):77-88.  (G)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Smith AB, Hall NE, Tan X, Farrell K. Speech timing and pausing in children with specific language impairment. Clin Linguist Phon . 2011;25(2):145-154.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Owen Van Horne AJ, Lin S. Cognitive state verbs and complement clauses in children with SLI and their typically developing peers. Clin Linguist Phon . 2011;25(10):881-898. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Eisenberg SL, Fersko TM, Lundgren C. The use of MLU for identifying language impairment in preschool children: a review. Am J Speech Lang Pathol . 2001;10(4):323-342. (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Casby MW. An examination of the relationship of sample size and mean length of utterance for children with developmental language impairment. Child Lang Teach Ther . 2011;27(3):286-293.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Moyle MJ, Karasinski C, Weismer SE, Gorman BK. Grammatical morphology in school-age  children with and without language impairment: a discriminant function analysis. Lang Speech Hear Serv Sch . 2011;42(4):550-560.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Ntourou K, Conture EG, Lipsey MW. Language abilities of children who stutter: a meta-analytical  review. Am J Speech Lang Pathol . 2011;20(3):163-179. doi:10.1044/1058-0360(2011/09-0102).  (M)"
+        },
+        {
+            "number in article": 25,
+            "reference": "O'Neill DK. The Language Use Inventory for Young Children: a parent-report  measure of pragmatic language development for 18- to 47-month-old  children. J Speech Lang Hear Res . 2007;50(1):214-228.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Pena E, Iglesias A, Lidz CS. Reducing test bias through dynamic assessment of children's word learning ability. Am J Speech Lang Pathol . 2001;10(2):138-154.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Gillam R, Pearson NA. Test of Narrative Language . Austin, TX: Pro-Ed; 2004. (PP)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Vukovic M, Stojanovik V. Characterising developmental language impairment in Serbian-speaking  children: a preliminary investigation. Clin Linguist Phon . 2011;25(3):187-197. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Laing SP, Kamhi A. Alternative assessment of language and literacy in culturally and linguistically diverse populations. Lang Speech Hear Serv Sch . 2003;34(1):44-55.  (G)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Calhoon JM. Comparison of assessment results between a formal standardized measure and a play-based  format. Infant-Toddler  Interv. 1997;7(3):201-214.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Lautamo T, Laakso ML, Aro T, Ahonen T, T\u00f6rm\u00e4kangas K. Validity of the Play Assessment for Group Settings: an evaluation of differential item functioning between children with specific language impairment and typically developing peers. Aust Occup Ther J . 2011;58(4):222-230.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Prizant BM, Meyer EC. Socioemotional aspects of language and social-communication  disorders in young children and their families. Am J Speech Lang Pathol . 1993;2(3):56-71.  (G)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Kim YT, Yang YS, Hwang B. Generalization effects of script-based  intervention on language expression of preschool children with language disorders. Educ Train Ment Retard Dev Disabil . 2001;36(4):411-423.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Kaiser AP, Hester PP. Generalized effects of enhanced milieu teaching. J Speech Hear Res . 1994;37(6):1320-1340.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Cleave PL, Fey ME. Two approaches to the facilitation of grammar in children with language impairments: rationale and description. Am J Speech Lang Pathol . 1997;6(1):22-32.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Wolfe DL, Heilmann J. Simplified and expanded input in a focused stimulation program for a child with expressive language delay (ELD). Child Lang Teach Ther . 2010;26(3):335-346.  (C)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Trent JA, Kaiser AP, Wolery M. The use of responsive interaction strategies by siblings. Topics Early Child Spec Educ . 2005;25(2):107-118.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Jackson S, Pretti-Frontczak  K, Harjusola-Webb  S, Grisham-Brown  J, Romani JM. Response to intervention: implications for early childhood professionals. Lang Speech Hear Serv Sch. 2009;40(4):424-434.  (PP)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Ehren BJ, Montgomery J, Rudebusch J, Whitmire K. Responsiveness to intervention: new roles for speech-language  pathologists. American Speech-Language-Hearing Association Web site. http://www.asha.org/slp/schools/prof-consult/NewRolesSLP.htm . Accessed September 24, 2018. (PP)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Crain-Thoreson  C, Dale PS. Enhancing linguistic performance: parents and teachers as book reading partners for children with language delays. Topic Early Child Spec Educ . 1999;19(1):28-39.  (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Dale PS, Crain-Thoreson  C, Notari-Syverson  A, Cole K. Parent-child  book reading as an intervention technique for young children with language delays. Topic Early Child Spec Educ. 1996;16(2):213-235.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Kaderavek J, Justice LM. Shared storybook reading as an intervention context: practices and potential pitfalls. Am J Speech Lang Pathol . 2002;11(4):395-406.  (X)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Owens RE, Robinson LA. Once upon a time: use of children's literature in the preschool classroom. Top Lang Disord . 1997;17(2):19-48.  (X)"
+        },
+        {
+            "number in article": 44,
+            "reference": "van Balkom H, Verhoeven L, van Weerdenburg M, Stoep J. Effects of a parent-based  video home training in children with developmental language delay. Child Lang Teach Ther. 2010;26(3):221-237.  (RCT)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Law J, Garrett Z, Nye C. The efficacy of treatment for children with developmental speech and language delay/disorder: a meta-analysis.  J Speech Lang Hear Res . 2004;47(4):924-943.  (M)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Petersen DB. A systematic review of narrative-based  language intervention with children who have language impairment. Commun Disord Q . 2011;32(4):207-220.  (SR)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Parsons S, Schoon I, Rush R, Law J. Long-term  outcomes for children with early language problems: beating the odds. Child Soc . 2011;25(3):202-214.  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Romski M, Sevcik RA, Adamson LB, et al. Randomized comparison of augmented and nonaugmented language interventions for toddlers with developmental delays and their parents. J Speech Lang Hear Res . 2010;53(2):350-364.  doi:10.1044/1092-4388(2009/08-0156).  (RCT)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Schlosser RW, Lee DL. Promoting generalization and maintenance in augmentative and alternative communication: a meta-analysis  of 20 years of effectiveness research. AAC Augment Altern Commun . 2000;16(4):208-226.  (M)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Millar DC, Light JC, Schlosser RW. The impact of augmentative and alternative communication intervention on the speech production of individuals with developmental disabilities: a research review. J Speech Lang Hear Res . 2006;49(2):248-264.  (SR)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Cleave PL, Becker SD, Curran MK, Van Horne AJ, Fey ME. The efficacy of recasts in language intervention: a systematic review and meta-analysis.  Am J Speech Lang Pathol . 2015;24(2):237-55.  doi:10.1044/2015_AJSLP-14-0105.  (M)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Frizelle P, Fletcher P. The role of memory in processing relative clauses in children with specific language impairment. Am J Speech Lang Pathol . 2015;24(1):47-59. doi:10.1044/2014_AJSLP-13-0153.  (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "O'Neill H, Chiat S. What our hands say: exploring gesture use in subgroups of children with language delay. J Speech Lang Hear Res . 2015;58(4):1319-1325. doi:10.1044/2015_JSLHR-L-14-0187.  (R)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Gomersall T, Spencer S, Basarir H, et al. Measuring quality of life in children with speech and language difficulties: a systematic review of existing approaches. Int J Lang Commun Disord . 2015;50(4):416-435.  doi:10.1111/1460-6984.12147.  (R)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Tambyraja SR, Schmitt MB, Farquharson K, Justice LM. Stability of language and literacy profiles of children with language impairment in the public schools. J Speech Lang Hear Res . 2015;58(4):1167-1181.  doi:10.1044/2015_JSLHR-L-14-0197.  (R)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Hesketh A, Dima E, Nelson V. Teaching phoneme awareness to pre-literate  children with speech disorder: a randomized controlled trial. Int J Lang Commun Disord . 2007;42(3):251-271.  (RCT)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Tambyraja SR, Farquharson K, Logan JA, Justice LM. Decoding skills in children with language impairment: contributions of phonological processing and classroom experiences. Am J Speech Lang Pathol . 2015;24(2):177-188.  doi:10.1044/2015_AJSLP-14-0054.  (R)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Zwitserlood R, van Weerdenburg M, Verhoeven L, Wijnen F. Development of morphosyntactic accuracy and grammatical complexity in Dutch school-age  children with SLI. J Speech Lang Hear Res . 2015;58(3):891-905.  doi:10.1044/2015_JSLHR-L-14-0015.  (R)"
+        },
+        {
+            "number in article": 59,
+            "reference": "What Works Clearinghouse intervention report: early childhood education interventions for children with disabilities: milieu teaching. Institute of Education Sciences Web site. https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/567 . Accessed September 24, 2018. (PGR)"
+        }
+    ]
+}

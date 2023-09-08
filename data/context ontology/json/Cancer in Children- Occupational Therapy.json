@@ -1,0 +1,561 @@
+{
+    "metadata": {
+        "title": "Cancer in Children  Occupational Therapy",
+        "synonyms": [
+            "childhood cancer  occupational therapy",
+            "tumors in children  occupational therapy",
+            "pediatric malignancies: occupational therapy",
+            "lymphoma in children: occupational therapy",
+            "leukemia in children: occupational therapy"
+        ],
+        "anatomical location body part affected": [
+            "Any body organ, tissue (e.g., bone, bone marrow, lymphatic tissues, brain, spinal cord, kidney, muscles, tendons, blood vessels, bone, retina)"
+        ],
+        "area of specialty": [
+            "pediatric rehabilitation",
+            "oncology"
+        ],
+        "description": [
+            "While cancer in children can occur in any body organ or tissue, the most common childhood cancers are: \u2013leukemia \u2013 malignancy of bone marrow, with growth of abnormal blast cells (lymphocytes)(1) -Acute lymphoblastic leukemia (ALL) \u2013 affects lymphoid cells in bone marrow -Acute myelogenous leukemia (AML) \u2013 affects myeloid cells in bone marrow \u2013lymphoma \u2013 malignancy of the lymphatic system -Non-Hodgkin  lymphoma (NHL) \u2013 tumor of the lymphatic tissues, with involvement of bone marrow and central nervous system(1) -Hodgkin disease \u2013 malignancy of the lymphatic and reticuloendothelial systems(1) \u2013brain and spinal cord cancer \u2013 tumors in the brain or spinal cord \u2013neuroblastoma \u2013 malignancy of nerve cells, located in adrenal gland, neck, chest, or spinal cord(2) \u2013Wilms tumor \u2013 solid malignant tumor found in one or both kidneys \u2013soft tissue sarcoma \u2013 tumor found in the soft tissues of the body, such as muscles, tendons, synovial tissues, fat tissues, blood vessels, lymph vessels, or nerves(3) \u2013bone cancer -Osteosarcoma \u2013 tumor of the bone, osteoblasts (which make bone)(4) -Ewing tumor\u2013  tumor of the connective tissues around large bones(4) \u2013retinoblastoma \u2013 malignant tumor of the retina"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "204.0": {
+                "base": "lymphoid leukemia acute",
+                "204.00": "lymphoid leukemia acute without mention of having achieved remission",
+                "204.01": "lymphoid leukemia acute in remission",
+                "204.02": "acute lymphoid leukemia, in relapse"
+            },
+            "204.1": {
+                "base": "lymphoid leukemia chronic",
+                "204.10": "lymphoid leukemia chronic without mention of having achieved remission",
+                "204.11": "lymphoid leukemia chronic in remission",
+                "204.12": "chronic lymphoid leukemia, in relapse"
+            },
+            "204.2": {
+                "base": "lymphoid leukemia subacute",
+                "204.20": "lymphoid leukemia subacute without mention of having achieved remission",
+                "204.21": "lymphoid leukemia subacute in remission",
+                "204.22": "subacute lymphoid leukemia, in relapse"
+            },
+            "204.8": {
+                "base": "other lymphoid leukemia",
+                "204.80": "other lymphoid leukemia without mention of having achieved remission",
+                "204.81": "other lymphoid leukemia in remission",
+                "204.82": "other lymphoid leukemia, in relapse"
+            },
+            "204.9": {
+                "base": "unspecified lymphoid leukemia",
+                "204.90": "unspecified lymphoid leukemia without mention of having achieved remission",
+                "204.91": "unspecified lymphoid leukemia in remission",
+                "204.92": "unspecified lymphoid leukemia, in relapse"
+            },
+            "205.0": {
+                "base": "myeloid leukemia acute",
+                "205.00": "myeloid leukemia acute without mention of having achieved remission",
+                "205.01": "myeloid leukemia acute in remission",
+                "205.02": "acute myeloid leukemia, in relapse"
+            },
+            "205.1": {
+                "base": "myeloid leukemia chronic",
+                "205.10": "myeloid leukemia chronic without mention of having achieved remission",
+                "205.11": "myeloid leukemia chronic in remission",
+                "205.12": "chronic myeloid leukemia, in relapse"
+            },
+            "205.2": {
+                "base": "myeloid leukemia subacute",
+                "205.20": "myeloid leukemia subacute without mention of having achieved remission",
+                "205.21": "myeloid leukemia subacute in remission",
+                "205.22": "subacute myeloid leukemia, in relapse"
+            },
+            "205.3": {
+                "base": "myeloid sarcoma",
+                "205.30": "myeloid sarcoma without mention of having achieved remission",
+                "205.31": "myeloid sarcoma in remission",
+                "205.32": "myeloid sarcoma, in relapse"
+            },
+            "205.8": {
+                "base": "other myeloid leukemia",
+                "205.80": "other myeloid leukemia without mention of having achieved remission",
+                "205.81": "other myeloid leukemia in remission",
+                "205.82": "other myeloid leukemia, in relapse"
+            },
+            "205.9": {
+                "base": "unspecified myeloid leukemia",
+                "205.90": "unspecified myeloid leukemia without mention of having achieved remission",
+                "205.91": "unspecified myeloid leukemia in remission",
+                "205.92": "unspecified myeloid leukemia, in relapse"
+            },
+            "206.0": {
+                "base": "monocytic leukemia acute",
+                "206.00": "monocytic leukemia acute without mention of having achieved remission",
+                "206.01": "monocytic leukemia acute in remission",
+                "206.02": "acute monocytic leukemia, in relapse"
+            },
+            "206.1": {
+                "base": "monocytic leukemia chronic",
+                "206.10": "monocytic leukemia chronic without mention of having achieved remission",
+                "206.11": "monocytic leukemia chronic in remission",
+                "206.12": "chronic monocytic leukemia, in relapse"
+            },
+            "206.2": {
+                "base": "monocytic leukemia subacute",
+                "206.20": "monocytic leukemia subacute without mention of having achieved remission",
+                "206.21": "monocytic leukemia subacute in remission",
+                "206.22": "subacute monocytic leukemia, in relapse"
+            },
+            "206.8": {
+                "base": "other monocytic leukemia",
+                "206.80": "other monocytic leukemia without mention of having achieved remission",
+                "206.81": "other monocytic leukemia in remission",
+                "206.82": "other monocytic leukemia, in relapse"
+            },
+            "206.9": {
+                "base": "unspecified monocytic leukemia",
+                "206.90": "unspecified monocytic leukemia without mention of having achieved remission",
+                "206.91": "unspecified monocytic leukemia in remission",
+                "206.92": "unspecified monocytic leukemia, in relapse"
+            },
+            "207.0": {
+                "base": "acute erythremia and erythroleukemia",
+                "207.00": "acute erythremia and erythroleukemia without mention of having achieved remission",
+                "207.01": "acute erythremia and erythroleukemia in remission",
+                "207.02": "acute erythremia and erythroleukemia, in relapse"
+            },
+            "207.1": {
+                "base": "chronic erythremia",
+                "207.10": "chronic erythremia without mention of having achieved remission",
+                "207.11": "chronic erythremia in remission",
+                "207.12": "chronic erythremia, in relapse"
+            },
+            "207.2": {
+                "base": "megakaryocytic leukemia",
+                "207.20": "megakaryocytic leukemia without mention of having achieved remission",
+                "207.21": "megakaryocytic leukemia in remission",
+                "207.22": "megakaryocytic leukemia, in relapse"
+            },
+            "207.8": {
+                "base": "other specified leukemia",
+                "207.80": "other specified leukemia without mention of having achieved remission",
+                "207.81": "other specified leukemia in remission",
+                "207.82": "other specified leukemia, in relapse"
+            },
+            "208.0": {
+                "base": "leukemia of unspecified cell type acute",
+                "208.00": "leukemia of unspecified cell type acute without mention of having achieved remission",
+                "208.01": "leukemia of unspecified cell type acute in remission",
+                "208.02": "acute leukemia of unspecified cell type, in relapse"
+            },
+            "208.1": {
+                "base": "leukemia of unspecified cell type chronic",
+                "208.10": "leukemia of unspecified type chronic without mention of having achieved remission",
+                "208.11": "leukemia of unspecified cell type chronic in remission",
+                "208.12": "chronic leukemia of unspecified cell type, in relapse"
+            },
+            "208.2": {
+                "base": "leukemia of unspecified cell type subacute without mention of having achieved remission",
+                "208.20": "leukemia of unspecified cell type subacute without mention of having achieved remission",
+                "208.21": "leukemia of unspecified cell type subacute in remission",
+                "208.22": "subacute leukemia of unspecified cell type, in relapse"
+            },
+            "208.8": {
+                "base": "other leukemia of unspecified cell type",
+                "208.80": "other leukemia of unspecified cell type without mention of having achieved remission",
+                "208.81": "other leukemia of unspecified cell type in remission",
+                "208.82": "other leukemia of unspecified cell type, in relapse"
+            },
+            "208.9": {
+                "base": "unspecified leukemia",
+                "208.90": "unspecified leukemia without mention of having achieved remission",
+                "208.91": "unspecified leukemia in remission",
+                "208.92": "unspecified leukemia, in relapse"
+            }
+        },
+        "ICD-10 codes": {
+            "C81": "Hodgkin\u2019s lymphoma",
+            "C82": "follicular lymphoma",
+            "C83": "diffuse non-Hodgkin's lymphoma",
+            "C85": "other and unspecified types of non-Hodgkin's lymphoma",
+            "C86": "other specified types of T/NK-cell lymphoma",
+            "C88": "malignant immunoproliferative diseases and certain other B-cell lymphomas",
+            "C90": "multiple myeloma and malignant plasma cell neoplasms",
+            "C91": "lymphoid leukemia",
+            "C92": "myeloid leukemia",
+            "C93": "monocytic leukemia",
+            "C94": "other leukemias of specified cell type",
+            "C95": "leukemia of unspecified cell type",
+            "C96": "other and unspecified malignant neoplasms of lymphoid, hematopoietic and related tissue (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "In pediatric patients, signs and symptoms are often nonspecific and vary(35)",
+            "Leukemia \u2013Anemia, paleness, listlessness, irritability(1) \u2013Chronic tiredness(1) \u2013Recurrent infections(1) \u2013Bleeding episodes(1) \u2013Lymphadenopathy(1) \u2013Hepatosplenomegaly(1) \u2013Bone and joint pain(1)",
+            "NHL \u2013Commonly found in the lymph tissues of the intestinal tract: acute abdominal pain(1) \u2013Nontender lymph node enlargement(1)",
+            "Hodgkin disease \u2013Painless enlargement of lymph nodes (usually in the cervical region)(1) \u2013Chronic cough if trachea involved (i.e., compressed by a mediastinal mass)(1) \u2013Fever(1) \u2013Decreased appetite(1) \u2013Weight loss(1) \u2013Night sweats(1)",
+            "Neuroblastoma \u2013Abdominal swelling(4) \u2013Listlessness(4) \u2013High blood pressure(4) \u2013Decreased appetite(4) \u2013Weight loss(4) \u2013Persistent diarrhea(4) \u2013Black/blue around eyes(4) \u2013Fever(4) \u2013Sweating(4) \u2013Weakness in arms/legs(4) \u2013Anemia(4) \u2013Coughing, shortness of breath(4) \u2013Problems with voiding(4) \u2013Bone pain/swelling(4)",
+            "Brain and spinal cord tumors (depends on the part of the brain or spinal cord affected) \u2013Visual disorders(4) \u2013Seizures(4) \u2013Paralysis of a part of the body(4) \u2013Tremors(4) \u2013Hydrocephalus(4) \u2013Poor muscle tone, balance(4)  \u2013Loss of bowel/bladder control(4) \u2013Impaired reflexes, gait(4) \u2013Constant/intermittent pain in neck, shoulder, chest, abdomen, pelvis, or extremities(4)",
+            "Soft tissue sarcoma \u2013Lump, mass found anywhere in body(4) \u2013No pain or swelling in and around the mass(4)",
+            "Osteosarcoma \u2013Pain; worse at night(4) \u2013Persistent unusual pain/swelling near bone(4)",
+            "Retinoblastoma \u2013Changes in appearance of eye(4) \u2013White spot on pupil(4) \u2013Squint(4) \u2013Eye misalignment(4) \u2013Loss of vision(4) \u2013Glaucoma (increase pressure in the eye)(4) \u2013Red/painful eye(4)",
+            "Wilms tumor \u2013Pain in abdomen(4) \u2013Blood in urine(4) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Respect child\u2019s self-report  of pain and fatigue, which are common side effects of cancer treatment",
+            "Orthostatic hypotension can be of concern in patients who have undergone bone marrow transplantation (see Clinical Review\u2026Bone Marrow Transplantation in Children ; CINAHL Topic ID Number: T708949)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Childhood leukemia is thought to be due to chromosomal or genetic factors or exposure to ionizing radiation(5,34)"
+        ],
+        "pathogenesis": [
+            "Pathogenesis of childhood cancers varies according to type",
+            "Cells within organs or tissues of the body divide more than they should, grow in abnormal patterns, or are destroyed, whichleads to the growth of an abnormal mass",
+            "Malignant cells can replace bone marrow and infiltrate lymph to enter the bloodstream"
+        ],
+        "risk factors": [
+            "Infection increases risk of malignancy(1,34)\u2013Human T-cell  lymphotrophic virus (HTLV)(34)\u2013Epstein-Barr  virus(34)\u2013Human papillomavirus (HPV)(34)",
+            "Exposure to radiation(1)",
+            "Cancer treatments such as radiation therapy and chemotherapy may increase risk for a second primary cancer(1)",
+            "Beckwith-Wiedemann  syndrome (genetic disorder) increases risk of Wilms tumor(4)",
+            "Children with aniridia (missing iris of eye) are at increased risk for Wilms tumor(4,34)",
+            "Risk factors for neuroblastoma(4)\u2013Maternal exposure to phenytoin for seizures\u2013Neurofibromatosis\u2013Overgrowth of pancreatic cells",
+            "Chromosomal syndromes with increased susceptibility\u2013Chromosome 11p deletion \u2013 Wilms tumor\u2013Trisomy 21 \u2013 leukemia\u2013Klinefelter syndrome \u2013 breast cancer, extragonadal germ cell tumors\u2013Trisomy 8 \u2013 Preleukemia\u2013Noonan syndrome \u2013 JMML\u2013Monosomy 5 or 7 \u2013 Myelodysplastic syndrome"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician in regards to treatment intervention and treatment intensity",
+        "For postoperative patients, follow postoperative precautions and protocols as directed by surgeon(6)",
+        "Fatigue is common in children with cancer;(21) exercise professional judgment and caution when assessing and treating patients with cancer",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Respect child\u2019s self-report  of pain and fatigue, which are common side effects of cancer treatment",
+            "Orthostatic hypotension can be of concern in patients who have undergone bone marrow transplantation (see Clinical Review\u2026Bone Marrow Transplantation in Children ; CINAHL Topic ID Number: T708949)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Ask when the child was diagnosed with cancer; if the cancer has metastasized, inquire about original site. Is this a recurrence of cancer; how long was the child in remission?",
+                "course of treatment": {
+                    "medical management": "Common treatments include chemotherapy  variety of toxic chemicals to kill cancer cells Intravenous (I.V .) administration of chemotherapy  chemotherapeutic agents are administered directly into the bloodstream Intrathecal administration of chemotherapy chemotherapeutic agents are administered directly into the cerebrospinal fluid cellular therapy and immunotherapy Pediatric-specific  agents (e.g., blinatumomab and chimeric antigen receptor-modified  T cells) are being developed and are showing promise as being highly effective for treatment(29) radiation therapy(4) External beam/teletherapy  radiation to tumor site in a targeted stream Proton accelerators  use of imaging techniques to pinpoint tumor and target cancer cells Conformal radiation  radiation of tumor from several directions brachytherapy  radioactive implants are inserted directly into a tumor Transplantation  transplantation of bone marrow or stem cells after high-dose  chemotherapy and radiation to facilitate growth and regeneration of new blood cells; recently this type of transplantation has been named hematopoietic progenitor cell transplantation (HSCT)(28) Surgery  removal of solid tumors or placement of central venous catheters (CVCs) or implantable infusion devices for administration of chemotherapy, antibiotics(28) Molecularly targeted drugs  includes imatinib mesylate (Gleevec), which is approved by the U.S. Food and Drug Administration (FDA) for use in chronic myelogenous leukemia (CML) and Philadelphia chromosomepositive  ALL. It blocks abnormal enzymes on tumor cells",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: A variety of diagnostic tests may be indicated depending on the location of the cancer and any complications that arise during treatment. Some of the most common are the following:",
+                        "Laboratory tests, including but not limited to, CBC with differential WBC, platelet and reticulocyte, liver function",
+                        "tests, lactate dehydrogenase, uric acid and electrolyte level, 8hour  creatinine clearance(1)",
+                        "Peripheral smear(1)  microscopic examination of a peripheral blood smear to evaluate blood disorders ",
+                        "Bone marrow examination(1)",
+                        "Lumbar puncture",
+                        "Medical imaging",
+                        "X-rays/radiographs(1)",
+                        "Computed tomography (CT) scan(1)",
+                        "Magnetic resonance imaging (MRI)(1)",
+                        "Positron emission tomography scan (PET)(1)",
+                        "Gallium scan(1)",
+                        "Bone scan(1)",
+                        "Ultrasound(1)",
+                        "Biopsy  removal of tissue to be examined under a microscope"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, herbal supplements, massage therapy, relaxation/imagery)(7) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Document factors such as time of day or length of time prior to exacerbating/alleviating symptoms.Self-Care  Methods (SA alleviate chemotherapy-related  symptoms",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a pain scale to assess symptoms, such as pain and fatigue, at their best, at their worst, and at the moment -Oucher scale  pain self-report  for children aged 3 years and older -FLACC (which stands for face, leg, activity, cry and consolability)  pain assessment tool used for children; observes facial expression, leg movement, activity, cry and consolability(9) -The Adolescent Pediatric Pain Tool (APPT), which is used to describe the intensity, location, and type of pain, has been adapted for use in population of Portuguese pediatric cancer patients(32)general fatigue, cognitive fatigue, and sleep/rest(33)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night; also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night and the reason for waking (e.g., toileting, pain)",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician. Other common symptoms include fatigue, pain, muscle weakness, dizziness, nausea, and dyspnea -Document side effects from cancer treatments",
+                "respiratory status": "Document if child requires any supplemental oxygen and, if so, how much. Document if child has any respiratory conditions Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________ -Central nervous system therapy (cranial irradiation or intrathecal administration of chemotherapy) has been linked to learning disabilities and decreased IQ, especially in children under age 5 years(1) -Ask parent/caregiver about speech/language disorders that may impact patient\u2019s ability to communicate needs"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document history of any other type of cancer or prior occurrence (in cases of recurrence) ",
+                    "comorbid diagnoses": "Ask patient and/or primary caregiver about other problems, including diabetes, renal disease, liver disease, anemia, heart disease, psychiatric disorders, orthopedic disorders, skin disease, graftversus-host  disease (GVHD), etc. Thrombocytopenia, anemia may be present(1)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs, herbal and dietary supplements) Common side effects of chemotherapy include hair loss, peripheral neuropathy, thrombocytopenia, fatigue, anemia, and functionlimiting  anxiety and fear(6)",
+                    "other symptoms": "Ask patient and/or primary caregiver about other symptoms patient may be experiencing Common side effects of chemotherapy and/or radiation therapy Hair loss(6) Peripheral neuropathy(6) burning, tingling pain, can cause wrist drop or foot drop Thrombocytopenia(6) Fatigue(6) Anemia(6) Oral mucositis (inflammation of mucous membranes in digestive tract)(10) Dysphagia (difficulty swallowing)(10) Salivary dysfunction(10) Lymphedema(6) Impaired sensation(6) Impaired cognition(6) Commonly seen in patients with brain tumors or those undergoing treatment toxic to the central nervous system(30) Vision problems(6) Problems with hearing(6) Depression(6) Impairment in motor function and bowel and bladder function(11) Common side effects of bone marrow transplantation include skin disorders (see Clinical Review\u2026Bone Marrow Transplantation in Children , referenced above) Post-traumatic  stress disorder (PTSD) may be present in survivors of childhood cancer(12) Based on a study conducted in the United Kingdom involving 108 survivors of childhood cancer. 13.9% of survivors had symptoms that indicated a clinical diagnosis of PTSD Tumor lysis syndrome often occurs when treatment is started. It consists of hyperkalemia, hyperuricemia, and hyperphosphatemia(27)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Identify patient\u2019s past participation in recreational, leisure, and sport activities; hobbies; and special interests. Identify patient\u2019s participation in school, group, or religious activities",
+                "functional limitations assistance with ADLs adaptive equipment": "Identify if patient requires the use of adaptive equipment and/or mobility devices for home and school",
+                "living environment": "Identify number of stairs/number of floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home and if any home modifications are necessary"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013Assess use and appropriate fit of assistive and adaptive equipment",
+            "balance": " Balance -Pediatric Balance Scale (PBS) \u2013 assesses sitting balance, standing balance, sit to stand, stand to sit, transfers, stepping, reaching forward, reaching the floor, turning, stepping on and off elevated surfaces, functional reach(13) -Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)  balance subscale \u2013 test of motor proficiency for both gross motor and fine motor skills(14)",
+            "cardiorespiratory function and endurance": [
+                "Assess activity tolerance for functional activities",
+                "Measure heart rate and blood pressure in supine, sitting, and standing due to possible orthostatic hypotension (see Clinical Review\u2026Bone Marrow Transplantation in Children , referenced above) \u2022Cranial/peripheral nerve integrity:  Cranial nerve testing as indicated \u2022Edema",
+                "Check for edema, which can be a side effect of radiation therapy.(6) Use girth measurements to quantify edema \u2022Functional mobility  (including transfers, etc.): Assess basic ADLs and level of assistance required to safely and independently perform skills such as transfers, bed mobility, grooming, dressing, toileting, etc. \u2022Joint integrity and mobility: Assess upper extremity and lower extremity joint integrity. Are there any joint capsule or fascial restrictions? Is the patient at risk for, or already developing upper extremity or lower extremity joint contractures? \u2022Motor function (motor control/tone/learning)",
+                "Assess upper extremity and lower extremity muscle tone",
+                "Indicate abnormality or asymmetry",
+                "Assess fine motor and gross motor function as deficits may arise from the disease, side effects of treatment, or prolonged hospitalization(15) function"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": " Muscle strength \u2013Manual muscle testing (MMT) of upper and lower extremities \u2013Assess trunk strength Neuromotor development \u2013Developmental screening assessments(15) -The BOT-2  can be used(15) \u2013Longitudinal developmental assessments are important for educational placement of patients(16)",
+            "observation inspection palpation including skin assessment": [
+                "Visual perceptual assessments(15) -BOT-2  visual motor subscale(14) -Test of Visual-Perceptual  Skills -Motor-Free  Visual Perceptual Test"
+            ],
+            "posture": "",
+            "range of motion": "Assess passive ROM and/or active ROM for bilateral upper and lower extremity ROM for functional",
+            "self-care activities of daily living": " activities",
+            "reflex testing": "Assess bilateral C5, C6, C7, L4, and S1 and note any abnormality Self-care/activities  of daily living  (objective testing)  \u2013Childhood cancer survivors are more likely to report decreased ability to perform self-care  tasks and difficulty with school(17) \u2013Specific self-care/ADL  tests used depend on treatment setting and degree of functional impairment -FIM(11) for functional activities for children over age 7 years -WeeFIM(11) for children under than age 7 years to measure degree of disability in daily activities -Modified Barthel Index(18) assesses functional activities such as eating, dressing, bathing, mobility, and bowel/bladder",
+            "sensory testing": " Sensory testing \u2013Check for visual impairment, which can be a side effect of radiation therapy(6) -Hirschberg technique \u2013 fixation on a pen light and observing light reflection in eyes(19) -Cover test \u2013 focus on a central target with one eye covered to see if uncovered eye can fixate(19) -Saccades \u2013 alternate fixating between two objects 6 inches apart, 16 inches from bridge of nose(19) -Tracking test \u2013 moving a pen light or target through 9 gaze positions to observe speed, coordination, and ROM in eyes(19) -Convergence test \u2013 moving a pen light toward the bridge of nose until it reaches point of convergence, usually 3 inches from bridge of nose(19) -Target and fixation \u2013 patient visually locates and fixates on a target(19) \u2013Observe responses to auditory stimulation in the environment and whether responses to auditory stimuli are appropriate as auditory impairment can be a side effect of radiation therapy(6) \u2013Skin testing for touch, temperature, and pain",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Pediatric Quality of Life Inventory (PedsQL)(11) to assess quality of life qualitativelyphysical, emotional, social and school functioning(18) \u2013Life Situation Scale for Children (LSS-C)(20) to identify physical problems and assess psychosocial function \u2013Toronto Extremity Salvage Score (TESS)(20) -Self-report;  assesses physical function in patients with bone tumors over age 12(20) \u2013Pediatric Outcomes Data Collection Instrument (PODCI)(11) -Self-report;  assesses change in physical function of children with orthopedic conditions(11) \u2013Activities Scales for Kids(11) to describe and evaluate change in physical function in children with musculoskeletal conditions somatic distress, mood disturbance, compliance, activity, and quality of life interactions(7) \u2013Therapy-Related  Symptom Checklist for Children (TRSC-C)(8) to record symptom severity/occurrence",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Assess orientation, attention, problem-solving  skills  \u2013Assess memory \u2013 short-term,  long-term,  and immediate. Immediate memory can be tested through copying tasks of an image by memory, repeating information immediately after hearing it, or solving math equations without pen/paper \u2013Pediatric Perceived Cognitive Function (pedsPCF) may be a useful screening tool for cognitive function(33) -A United States-based  study was conducted to assess the feasibility of the pedsPCF as a cognitive screening tool for patients with cancer who were between the ages of 7 and 17 -The pedsPCF is completed by a parent or caregiver of the child -Results of the study support the use of the tool for screening as it was able to discriminate between patients with and without brain tumor and was moderately correlated to results of neuropsychological testing in the study population",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall prevention strategies. Discharge criteria should include independence with fall prevention strategies. Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+                "Children with brain tumors are at risk for fluid buildup on the brain and may therefore be on fluid restriction. Be sure to check with the patient\u2019s physician about fluid precautions(4)",
+                "Children with brain tumors are at risk for seizures(4)",
+                "The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "It is extremely important to be in direct communication with the physician and nursing staff regarding the patient\u2019s course of treatment and what contraindications are in place (e.g., platelet counts, fever, bone marrow biopsy test) "
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment As prescribed by physiciandecrease from premorbid functional status and/or age-appropriate gross motor skills, decreased cardiorespiratory endurance, shortness of breath with ambulation or functional mobility, impaired balance, complaints of musculoskeletal pain, contracture prevention/management, atypical muscle tone, and gait abnormality For strengthening and conditioning, maintenance of self-care  and play activities, adaptive equipment for functional activities while undergoing cancer treatment(9) treatment(21)",
+        "rule out": " Rule out The differential diagnosis of leukemia includes aplastic anemia and infectious mononucleosis The differential diagnosis of lymphoma includes influenza, infectious mononucleosis, HIV infection, and Epstein-Barr virus infection The differential diagnosis of neuroblastoma includes osteomyelitis, rheumatoid arthritis, and primary neurologic disease The differential diagnosis of Wilms tumor includes renal cyst, hydronephrosis, and polycystic kidney disease The differential diagnosis of retinoblastoma includes glaucoma, strabismus, and leukokoria The differential diagnosis of sarcoma includes cysts, aggressive fibromatosis, and dermatofibroma",
+        "prognosis": [
+            "Prognosis depends on type and stage of cancer",
+            "Prognosis for neuroblastoma depends on the site of the tumor and is also age related: the lower the age, the better the prognosis(4)",
+            "Prognosis for Wilms tumor depends on the stage of tumor at time of diagnosis",
+            "In soft tissue sarcomas, children aged 1-7 years have a better chance of survival; prognosis depends on primary site of tumor, extent of disease, and cell growth pattern",
+            "Prognosis for children with brain tumors depends on tumor\u2019s location and type",
+            "Patients with bone cancers have a 60-70%  survival rate if tumor is localized; patients with primary tumors located in the distal bones do better than those with tumors located more proximally",
+            "Retinoblastoma prognosis is related to stage of tumor at time of diagnosis",
+            "Survival rate (5-year)  of children with cancer is approximately 80%(21)",
+            "Many survivors experience late effects of cancer that affect quality of life which may be related to long-term  effects of"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician/oncologist for other symptoms or new symptoms Physical therapy Speech-language  pathology for dysphagia as a result of cancer or cancer treatment Dentistry for oral complications of therapy(10) Psychology for family/caregiver and patient support and coping Social work for family/caregiver and patient support and coping Ophthalmology for any vision impairment Audiology for any auditory impairment",
+        "other considerations": [
+            "Physical performance limitations with childhood cancers vary depending on the type of malignancy and the type of treatments administered(17)",
+            "Considerations should be made for return to school after a diagnosis of cancer: meet with teacher, principal, school nurse to discuss any medicines, special devices, emergency management, activity restrictions, emergency contact information(26)",
+            "Health-related  quality of life (HRQoL) varies based on type of cancer and length of time since diagnosis(34) \u2013The findings of a study on HRQoL of adolescent cancer survivors indicate that survivors of central nervous system cancer have lower scores with regard to physical well-being, social support, and peer support than non-central  nervous system survivors. In addition female gender and length of time since diagnosis are also related to lower HRQoL scores \u2013These findings are based on a study conducted in Spain with 78 cancer survivors between ages 12 and 20"
+        ],
+        "treatment summary": [
+            "Treatment intervention is more effective the earlier it is initiated following the initial cancer diagnosis ",
+            "Occupational therapists can take on a supportive role assisting with the psychosocial and emotional needs of children with cancer. This appears to be beneficial for helping families and children cope with cancer(16) \u2013Forty-nine  patients: 28 boys, 21 girls aged 1-19 years who were receiving cancer treatment in a children\u2019s hospital in Alabama, in the United States, were followed for a 12-month period(16) \u2013Twenty patients had leukemia, 16 had solid tumors, and 13 had lymphoma(16) \u2013Initial interviews conducted with both parents and with patients over age 17 to identify psychosocial, emotional, or coping difficulties(16) \u2013Problems identified were lack of emotional support to accept diagnosis, depression, dealing with reactions of relatives, emotional support of patient, parent-child  relationship, marital difficulties since onset of illness, sibling support, financial concerns, transportation costs, educational concerns, and cancer-related  medical treatment concerns(16) \u2013The focus of occupational therapy intervention was on helping child and family become as independent as possible in managing burden of illness(16) \u2013Use of play sessions for child to express feelings, providing assistance with financial resources, and developmental screening assessments to determine child\u2019s level of function",
+            "A variety of coping strategies are utilized when children are hospitalized and undergoing chemotherapy(31) \u2013The authors of a study conducted in Brazil found that increased understanding about the need for chemotherapy, relief from side effects and pain, \u201cseeking pleasure in nourishment,\u201d being entertained and having fun, the hope for a cure, and religious support were coping strategies employed by the study subjects \u2013Subjects included 10 pediatric cancer patients, aged 7-12years old",
+            "In a study involving 38 children and young adults (ages 4-25 years) with low-grade  gliomas who received radiation therapy, researchers in India, found functional improvements in the areas of ambulation, personal hygiene, feeding, and stair climbing with rehabilitation intervention at 3-year  follow-up.  Rehabilitation intervention included environmental adaptation and building physical activity tolerance(18) . Problem Goal Intervention Expected Progression Home Program  Decreased activity tolerance(15,20) for ADLsMaximize independence with ADLsPatient and family"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "independence in self-care  and age-appropriate  activities": [
+            "Modified Barthel Index(18)",
+            "FIM",
+            "WeeFIM"
+        ],
+        "improved coping skills and adjustment to illness for patient and family": [
+            "Life Situation Scale for Children (LSS-C)(20) to identify physical problems and assess psychosocial function"
+        ],
+        "pain and fatigue management for functional activities": [
+            "V AS"
+        ],
+        "maximization of age-appropriate  gross and fine motor skills function": [
+            "BOT 2"
+        ],
+        "improved overall quality of life": [
+            "Pediatric Outcomes Data Collection Instrument (PODCI)(11)",
+            "Activities Scales for Kids(11)",
+            "Pediatric Quality of Life Inventory (PedsQL)(11)",
+            "Life Situation Scale for Children (LSS-C)(20)",
+            "Toronto Extremity Salvage Score (TESS)(20)"
+        ]
+    },
+    "maintenance or prevention": [
+        "The U.S. Centers for Disease Control and Prevention (CDC) recommends the following to prevent cancer in children:(23) Sun safety and protection Human papillomavirus (HPV) vaccination Prevent smoking and secondhand smoke exposure",
+        "Continued follow-up  with physician for medical care and management",
+        "Home strengthening and conditioning program; to be determined by the treating clinician based on the patient\u2019s prior level of functioning, current medical and functional status, goals, and home support network",
+        "In a study conducted in the United Kingdom of 108 survivors of childhood cancer, 13.9% of survivors had symptoms that indicated a clinical diagnosis of PTSD. The authors recommend that survivors of childhood cancers have psychological follow-up(12)",
+        "The Children\u2019s Oncology Group has published long-term  follow-up  guidelines for survivors of childhood, adolescent, and young adult cancers. These guidelines are organized according to therapeutic exposures: any cancer experience, blood/serum products, chemotherapy, radiation, hematopoietic cell transplant, other therapeutic modalities, cancer and general health screening(24)",
+        "Home monitoring of symptoms for young people undergoing chemotherapy will be important for prevention of side effects that may be life threatening A pilot study in the United Kingdom indicated the feasibility of using mobile phone technology to record and send symptom reports back to the hospital for young people undergoing chemotherapy(25)"
+    ],
+    "patient education": [
+        "National Childhood Cancer Foundation, http://curesearch.org/",
+        "Leukemia and Lymphoma Society, http://www.lls.org/",
+        "National Cancer Institute, \u201cChildhood Cancers,\u201d https://www.cancer.gov/types/childhood-cancers Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Burns CE, Dunn AM, Starr NB, Blosser CG. Pediatric primary care. 5th ed. St. Louis, MO: Elsevier Saunders; 2013. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "National Cancer Institute. Neuroblastoma treatment (PDQ). National Cancer Institute Web site. http://www.cancer.gov/cancertopics/pdq/treatment/neuroblastoma/patient . Accessed October 30, 2016. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "National Cancer Institute. Childhood soft tissue sarcoma treatment. National Cancer Institute Web site. http://www.cancer.gov/cancertopics/pdq/treatment/child-soft-tissue-sarcoma/Patient . Accessed October 30, 2016. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Bracken JM. Children with Cancer: A Comprehensive Reference Guide for Parents . New York, NY: Oxford University Press; 2010. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "National Cancer Institute. Childhood cancers. National Cancer Institute Web site. http://www.cancer.gov/cancertopics/factsheet/Sites-Types/childhood . Accessed October 30,"
+        },
+        {
+            "number in article": 2016,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Pendleton HM, Schultz-Krohn  W. Pedretti's Occupational Therapy: Practice Skills for Physical Dysfunction . 7th ed. St. Louis, MO: Mosby Elsevier; 2013. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Phipps S. Reduction of distress associated with paediatric bone marrow transplant: complementary health promotion interventions. Pediatr Rehabil . 2002;5(4):223-234.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Williams P, Piamjariyakul U, Williams A. Symptom monitoring, dependent care and cancer treatments of Thai children. Cancer Nurs . 2006;29(3):188-197.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Merkel S, Voepel-Lewis  T, Shayevitz JR, Malviya S. The FLACC: a behavioral scale for scoring postoperative pain in young children. Pediatr Nurs . 1997;23(3):293-297.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Chin EA. A brief overview of the oral complications in pediatric oncology patients and suggested management strategies. ASDC J Dent Child . 1998;65(6):468-473.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Poretti A, Zehnder D, Boltshauser E, Grotzer MA. Long-term  complications and quality of life in children with intraspinal tumors. Pediatr Blood Cancer . 2008;50(4):844-848.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Taylor N, Absolom K, Snowden J, Eiser C. Need for psychological follow-up among young adult survivors of childhood cancer. Eur J Cancer Care . 2012;21(1):52-58.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Franjoine MR, Gunther JS, Taylor MJ. Pediatric Balance Scale: a modified version of the Berg Balance Scale for the school-age  child with mild to moderate motor impairment. Pediatr Phys Ther . 2003;15(2):114-128.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Flegel J, Kolobe TH. Predictive validity of the Test of Infant Motor Performance as measured by the Bruininks-Oseretsky  test of motor proficiency at school age. Phys Ther . 2002;82(8):762-771.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Strong J. Occupational therapy and cancer rehabilitation. Br J Occup Ther . 1987;50(1):4-6.  (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Whitley SB, Branscomb BV, Moreno H. Identification and management of psychosocial and environmental problems of children with cancer. Am J Occup Ther . 1979;33(11):711-716.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Ness KK, Hudson MM, Ginsberg JP. Physical performance limitations in the Childhood Cancer Survivor Study cohort. J Clin Oncol . 2009;27(14):2382-2389.  (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Jalali R, Dutta D, Kamble R. Prospective assessment of activities of daily living using Modified Barthel's Index in children and young adults with low-grade  gliomas treated with stereotactic conformal radiotherapy. J Neurooncol . 2008;90(3):321-328.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Warren M. A hierarchical model for evaluation and treatment of visual perceptual dysfunction in adult acquired brain injury, part 2. Am J Occup Ther . 1993;47(1):55-66.  (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Enskar K, von Essen L. Physical problems and psychosocial function in children with cancer. Paediar Nurs . 2008;20(3):37-41.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Pui CH, Gajjar AJ, Kane JR, Qaddoumi IA, Pappo AS. Challenging issues in pediatric oncology. Nat Rev Clin Oncol . June 28, 2011;8(9):540-9.  doi:10.1038/nrclinonc.2011.95. (GI)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Levy C. Custom made chest guard for pediatric cancer patients: a case report. Rehabil Oncol . 2007;25(2):17-19.  (C)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Centers for Disease Control and Prevention. Cancer prevention starts in childhood. Centers for Disease Control and Prevention Web site. http://www.cdc.gov/features/ cancerandchildren/ . Accessed October 30, 2016. (GI)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Children\u2019s Oncology Group. Long-term  follow-up guidelines for survivors of childhood, adolescent, and young adult cancers. Version 4.0. Children\u2019s Oncology Group  Web site. http://www.survivorshipguidelines.org/pdf/LTFUGuidelines_40.pdf . October 2013. Accessed October 30, 2016. (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Aldiss S, Taylor RM, Soanes L. Working in collaboration with young people and health professionals. J Res Nurs . 2011;16(6):561-576.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "American Cancer Society. Children diagnosed with cancer: returning to school. American Cancer Society Web site. http://www.cancer.org/treatment/childrenandcancer/whenyourchildhascancer/children-diagnosed-with-cancer-returning-to-school . Accessed October 30, 2016. (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Graham DK, Craddock JA, Quinones RR, et al. Neoplastic disease. In: Hay WW Jr, ed. Current Diagnosis and Treatment: Pediatrics . 22nd ed. New York, NY: McGraw-Hill Medical; 2014:990-994.  (GI)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Bowden VR, Greenberg CS. Children and their families: The continuum of care. 2nd ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2010. (GI)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Adamson PC. Improving the outcome for children with cancer: Development of targeted new agents. CA Cancer J Clin . 2015;65(3):212-220.  doi:10.3322/caac.21273. (GI)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Lai JS, Zelko F, Krull KR, et al. Parent-reported  cognition of children with cancer and its potential clinical usefulness. Qual Life Res . 2014;23(4):1049-1058. doi:10.1007/s11136-013-0548-9.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Sposito AM, Silva-Rodrigues  FM, Sparapani Vde C, Pfeifer LI, de Lima RA, Nascimento LC. Coping strategies used by hospitalized children with cancer undergoing chemotherapy. J Nurs Scholarsh . 2015;47(2):143-151.  doi:10.1111/jnu.12126. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Fernandes A, Batalha L, Perdigao A, de Campos C, Nascimento L, Jacob E. Cultural validation of the adolescent pediatric pain tool (APPT) in Portuguese children with cancer. Referencia . 2015;4(4):99-105.  doi:10.12707/RIV14007. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Rodriques Nues MD, jacob E, Adlard K, Secola R, Nacimento LC. Fatigue and sleep experiences at home in children and adolescents with cancer. Oncology Nursing Forum . 2015;42(5):498-506.  doi:10.1188/15.ONF.498-506.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Asselin BL. Epidemiology of childhood and adolescent cancer. In: Kliegman RM, Stanton BF, St. Geme JW III, Schor NF, Behrman RE, eds. Nelson Textbook of Pediatrics . 20th ed. Philadelphia, PA: Elsevier; 2016:2416-2422.  (GI)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Ritchey AK, Friehling E. Principles of diagnosis. In: Kliegman RM, Stanton BF, St. Geme JW III, Schor NF, Behrman RE, eds. Nelson Textbook of Pediatrics . 20th ed. Philadelphia, PA: Elsevier; 2016:2422-2426.  (GI)"
+        }
+    ]
+}

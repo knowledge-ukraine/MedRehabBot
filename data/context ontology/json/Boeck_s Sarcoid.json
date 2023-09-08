@@ -1,0 +1,349 @@
+{
+    "metadata": {
+        "title": "Sarcoidosis",
+        "synonyms": [
+            "sarcoid",
+            "idiopathic pulmonary fibrosis"
+        ],
+        "anatomical location body part affected": [
+            "Mainly the lungs and lung tissues, although many organ systems may also be involved/pulmonary function is affected"
+        ],
+        "area of specialty": [
+            "pulmonary rehabilitation",
+            "home health"
+        ],
+        "description": [
+            "Sarcoidosis is a multisystemic inflammatory disorder characterized by non-necrotizing/noncaseating  epithelioid cell granulomas. It mostly affects the lungs but can involve any organ in the body. Etiology is unknown(1)",
+            "In 90% of patients, sarcoidosis involves fibrosis of the lungs, leading to respiratory impairments. Mild cases may require only patient education on maintenance of regular physical activity(1)",
+            "20% to 25% of patients with pulmonary/systemic sarcoidosis have asymptomatic cardiac involvement(2)",
+            "The lymph nodes, skin, liver, spleen, eyes, phalangeal bones, and parotid glands are also commonly involved(1)",
+            "Sarcoidosis is a global disease,but prevalence and incidence varybased on race and ethnicity. Incidence in the United States is higher among Blacks (35.5/100,000) than Whites (10.9/100,000).Incidence in Spain is 1.3/100,000, Eastern Europe 3.7/100,000, and Japan 1/100,000. The average age of presentation is 48 years (20)",
+            "Reduced exercise capacity and fatigue are commonly seen in patients with sarcoidosis(21) The main goals of physical therapy for patients with sarcoidosis are to optimize physical functioning forADLs, improve exercise capacity, and decrease fatigue"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "D86.0,": "Sarcoidosis of lung",
+            "D86.1,": "Sarcoidosis of lymph nodes",
+            "D86.2,": "Sarcoidosis of lung with sarcoidosis of lymph nodes",
+            "D86.3,": "Sarcoidosis of skin",
+            "D86.81,": "Sarcoid meningitis",
+            "D86.82,": "Multiple cranial nerve palsies in sarcoidosis",
+            "D86.83,": "Sarcoid iridocyclitis",
+            "D86.84,": "Sarcoid pyelonephritis",
+            "D86.85,": "Sarcoid myocarditis",
+            "D86.86,": "Sarcoid arthropathy",
+            "D86.87,": "Sarcoid myositis",
+            "D86.89,": "Sarcoidosis of other sites",
+            "D86.9,": "Sarcoidosis, unspecified (ICD codes are provided for reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "(3,4,5,20)",
+            "Respiratory symptoms \u2013Cough \u2013Shortness of breath \u2013Dyspnea on exertion",
+            "Nonspecific symptoms \u2013Fatigue \u2013General weakness \u2013Arthralgia \u2013Muscle pain \u2013Functional limitation in ADLs",
+            "Nonpulmonary involvement \u2013Heart palpitations \u2013Arrhythmias \u2013Lymphadenopathy \u2013Skin lesions \u2013Eye pain \u2013Salivary gland swelling",
+            "Symptoms in complicated cases \u2013Anorexia \u2013Weight loss \u2013Fever \u2013Night sweats Causes & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Any part of the examination that exacerbates symptoms with an inappropriate change in vital signs should be terminated, and the physician notified",
+            "Respect the patient\u2019s pain or need for rest periods during the exam",
+            "Strictly follow guidelines for test administration and termination if incremental (graded) exercise testing (treadmill or cycle ergometer) is used to assess the patient\u2019s physical work tolerance"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:": [
+            "The etiology of sarcoidosis is unknown. It is a diagnosis of exclusion based on the clinical presentation and histology (i.e.,evidence of noncaseating granulomas)",
+            "One proposed mechanism is that sarcoidosis develops in genetically predisposed individuals who are exposed to yetunknownenvironmentaltriggers acting as antigens(6)",
+            "The human leukocyte antigen (HLA) DRB1 variants are the most strongly and consistently associated genetic risk factorfor sarcoidosis(7)"
+        ],
+        "pathogenesis:": [
+            "The exact pathogenesis of sarcoidosis remains unclear. It is a granulomatous disease. The characteristicnon-necrotizing (noninfectious)  granulomas comprise small nodules containing mostly immune T-cell  subsets(8)",
+            "Chronic lung inflammation found in sarcoidosis is probably linked to the observed pulmonary fibrosis(1)",
+            "Analysis of bronchoalveolar lavage fluid shows elevated levels of fibronectin (FN1) and C-C motif chemokine 2(CCL2) proteins, indicating active inflammation(9)",
+            "Impaired regulatory T-cell  function and survival may contribute to ongoing inflammatory responses, suggestive of aberrantwound healing in sarcoidosis(10)",
+            "Multi-organ  involvement affecting muscles, bones, and nerves may contribute to fatigue in patients with sarcoidosis(11)"
+        ],
+        "risk factors:": [
+            "Higher prevalence in men and women 20 to 50 years of age, Blacks (especially women), and persons of northern Europeanorigin (e.g., Scandinavians)(1)",
+            "Unexplained chronic lung inflammation",
+            "Heart arrhythmias in patients with sarcoidosis are associated with cardiac sarcoid infiltration",
+            "Genitcally predisposed individuals exposed to environmental triggers acting as antigens(6)",
+            "History of prolonged systemic glucocorticoid therapy for nonspecific inflammation"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Ensure that physician has referred patient for cardiopulmonary exercise training program",
+        "Pulmonary rehabilitation is not feasible for patients unable to walk, who fatigue easily, or who are limited by dyspnea with minimal activity",
+        "Supplemental portable oxygen should be available for patients who experience shortness of breath during exercise",
+        "Pulse oximetry to monitor arterial oxygen saturation (S pO2) is indicated for some patients to avoid overexertion and exercise-related  hypoxemia",
+        "Identify and adhere to any weight-bearing  (WB) restrictions",
+        "Obtain and strictly adhere to any parameters for vital signs set by the physician. This may include monitoring levels of heart rate (HR), BP, respiratory rate (RR), S pO2, and using Borg\u2019s rating of perceived exertion (RPE) scale during exercise(13)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Any part of the examination that exacerbates symptoms with an inappropriate change in vital signs should be terminated, and the physician notified",
+            "Respect the patient\u2019s pain or need for rest periods during the exam",
+            "Strictly follow guidelines for test administration and termination if incremental (graded) exercise testing (treadmill or cycle ergometer) is used to assess the patient\u2019s physical work tolerance"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document date of onset, progression, and current status of sarcoidosis",
+                "course of treatment": {
+                    "medical management": "Is the patient being treated for any coexisting conditions (e.g., pulmonary hypertension, chronic renal insufficiency, heart disease, diabetes, osteoporosis)? Is supplemental portable oxygen prescribed? Is the patient receiving standard pulmonary physical therapy?",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Not all patients with sarcoidosis need to be treated.When there is vital organ involvement (ocular, nervous system, cardiac),presence of symptoms, organ dysfunction, and/or progressive disease, immunosuppressive therapy is(20) Corticosteroids, hydroxychloroquine, steroid-sparing  agents (methotrexate, azathioprine, leflunomide, mycophenolate mofetil), and antiTNF-\u03b1  agents (infliximab and adalimumab)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:",
+                        "Chest X-ray  remains the most used imaging tool to identify pulmonary lymphadenopathy(1)",
+                        "Pulmonary function tests (PFTs); i.e., spirometry, diffusing capacity for carbon monoxide(DLCO)",
+                        "Electrocardiogram (ECG)",
+                        "Cardiopulmonary exercise test with respiratory gas analysis and monitoring of S pO2.(13) Patients with normal DLCO at rest may have pulmonary gas exchange impairment during exercise(14)",
+                        "Biopsy testing for sarcoid involvement",
+                        "Standard blood tests for liver function, kidney function, diabetes, anemia, lipid profile, etc., as indicated by coexisting conditions",
+                        "Advanced cardiac imaging (cardiac MRI and/or fluorodeoxyglucose (FDG)-PET):The  2014 Heart Rhythm Society consensus statement recommends that patients with sarcoidosis who have palpitations, presyncope, syncope, abnormal ECG, or abnormal echocardiogram be screened with advanced cardiac imaging(23)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "(and length of time each item is performed before the symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms ",
+                "nature of symptoms": "Document nature of symptoms",
+                "rating of symptoms": "Use a visual analog scale or 010  scale to assess symptoms at their best, worst, and at the moment (specifically address if  pain   is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (AM, mid-day, PM, night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night. Does the patient have sleep apnea?",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Is supplemental portable oxygen prescribed? Is the patient receiving standard pulmonary physical therapy? Barriers to learning -Are there any barriers to learning? Yes ___/No ___ -If Yes, describe"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any prior exercise therapy for sarcoidosis or other conditions?",
+                    "comorbid diagnoses": "Document history of hypertension, heart disease, stroke, kidney disease, diabetes, or other chronic disease (e.g., cancer, psychiatric disorders, orthopedic disorders). The nonspecific fatigue commonly reported by patients with sarcoidosis may be associated with comorbidities (e.g., pulmonary hypertension, sleep apnea, cancer) and multiorgan involvement affecting muscles, bones, and nerves(11)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Are there any activities that are currently being limited by the patient\u2019s sarcoidosis?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any functional limitations due to sarcoidosis or otherwise",
+                "living environment": "stairs, number of floors in home, with whom the patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "While tests and measures are listed in alphabetical order, sequencing should be appropriate to \u203aRelevant tests and measures:  While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting",
+            "anthropometric characteristics": "Determine height, weight, and BMI. Is weight loss or weight gain indicated?",
+            "assistive and adaptive devices": "Assess fit and use of prescribed assistive devices, if applicable. Is an ambulatory assistive device needed for safe walking? Is the patient ambulatory but uses a wheelchair for energy conservation?",
+            "balance": "Assess static and dynamic balance reactions to determine whether a patient is safe to use exercise equipment such as treadmill or elliptical trainer that might require normal balance. Measure with Berg Balance Scale, as indicated",
+            "cardiorespiratory function and endurance": [
+                "Assess HR, BP, RR, and breathing discomfort level during quiet rest. Auscultate lung sounds for abnormalities. If available, review results of PFTs",
+                "Peak oxygen uptake (VO2peak) is an objective and precise measure of exercise capacity. Incremental cardiopulmonary exercise test (CPET) is a graded exercise test that is the gold standard to assess exercise capacity.(21)During a graded exercise test, monitor the patient\u2019s HR, BP, RR, S pO2, and subjective responses (RPE, breathing discomfort) during progressive, symptom-limited  exercise on a cycle ergometer or treadmill for the purpose of individualized aerobic exercise prescription. Follow guidelines for test monitoring and termination(13)",
+                "The 6-minute  walk test (6MWT) is a measure used to assess functional endurance capacity.(21) The modified shuttle walk test (MSWT) is an alternative test in higher functioning patients with sarcoidosis. A study conducted in patients with sarcoidosis showed a strong correlation between the distance achieved during MSWT and the measured VO2peak(15)"
+            ],
+            "circulation": "Assess carotid pulse and peripheral pulses in all limbs Assess for economy of movement during functional tasks, as indicatedAssess gross movement during transfers and functional tasks using the upper extremities (e.g., reaching, pulling, pushing, holding) and lower extremities (e.g., stair climbing, squatting, kneeling, kicking). Administer Functional Independence Measure (FIM), as indicated",
+            "functional mobility": "",
+            "gait locomotion": "Assess gait, including synchrony of limb movements and usual walking speed, as well as posture in walking. Administer Dynamic Gait Index (DGI) to assess gait safety, as indicatedConfirm that joint flexibility is functional for the planned exercise program",
+            "muscle strength": "Assess strength in physical tasks (e.g., handgrip, pushing, pulling, sit-up,  squatting). Assess strength in muscle groups targeted for exercise training using manual muscle testing (MMT), dynamometry, or machine weights",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Assess standing and sitting posture. Note any abnormalities that might reduce functioning such as rounded shoulders, forward head, decreased/increased lumbar lordosis, or increased thoracic kyphosis",
+            "range of motion": "Assess ROM and flexibility and ensure functional for planned exercise program and use of exercise equipment",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess deep tendon reflexesAssess patient-reported  disabilities in ADLs",
+            "sensory testing": "Scan sensation to touch",
+            "special tests specific to diagnosis": "a sarcoidosis-specific,  patient-reported  outcome measure that has organ-specific subscales. It was designed as a screening tool but has not been validated for clinical intervention(16)evaluates self-perceived health and HRQoLa 22-item  numeric rating scale to evaluate subjective fatigue (behavioral, sensory, affective, cognitive, mood), with each item rated from 0 (none) to 10 points (a great deal)a questionnaire with 10 items, each scored on a 5-point  scale (score range 10\u201350). Five questions reflect physical fatigue and five reflect mental fatigue. Theatotal score below 22 indicates no fatigue, between 22 and 34 indicates mild to moderate fatigue, and 35 or greater indicates extreme fatigue. The FAS is validated in patients with sarcoidosis, with research indicating that a change in FAS score of at least 4 points representsthe minimal clinically important difference(21)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Bowel or bladder incontinence",
+                "Tracheostomy",
+                "Infectious diseases",
+                "Cardiovascular problems",
+                "Uncontrolled seizures",
+                "Respiratory compromise, vital capacity less than 1L ",
+                "Aspiration risk",
+                "Catheters",
+                "Cognitive impairments",
+                "Tetraplegia or high paraplegia",
+                "Open wounds",
+                "Dry skin or skin rashes"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with sarcoidosis may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should always follow the guidelines of their clinic/hospital and the referring physician\u2019s orders",
+                "Contact the referring physician regarding any physical activity or WB restrictions, including resistance training, type of physical activity, etc.",
+                "Evidence is lacking to support the use of electrotherapeutic modalities or neuromuscular electrical stimulation (NMES) specifically for patients with sarcoidosis",
+                "Rehabilitation professionals should always use their professional judgment regarding the use of modalities",
+                "Advise the patient that participating in physical activity in a very warm environment can exacerbate fatigue symptoms",
+                "Aquatic therapy contraindications(17)",
+                "Aquatic therapy precautions(17)"
+            ],
+            "general": ""
+        },
+        "diagnosis need for treatment": "Sarcoidosis/muscle weakness, persistent fatigue, and decreased physical capacity that impede optimal functioning in ADLs and reduce HRQoL",
+        "rule out": "Granulomatosis with polyangiitis, hypersensitivity pneumonitis, hot tub lung, aspiration pneumonia, talc granulomatosis, berylliosis, infectious granulomatosis lung diseases (e.g., tuberculosis or fungal)",
+        "prognosis": [
+            "The long-term  prognosis depends on the multi-organ,  systemic manifestations of sarcoidosis in addition to pulmonary complications",
+            "Cardiac and/or central nervous system involvement reduces positive treatment outcomes(18)"
+        ],
+        "referral to other disciplines": "Back to physician for problems that limit low-level  exercise, pulmonologist for advanced laboratory tests, cardiologist for cardiac symptoms, aquatic therapist for pool (reduced WB exercise) training, psychologist for counseling patients with depression, occupational therapist for ADL training",
+        "other considerations": [
+            "Autopsy reports reveal cardiac involvement in up to 25% of patients with sarcoidosis, but it is clinically diagnosed in only about 5% of patients.Early screening for cardiac involvement is important becausethe first clinical signs can be ventricular arrhythmias and/or sudden cardiac death. Implantable cardiac defibrillators (ICD) may be beneficial in these patients(22) \u2013Authors of a literature review helped to determine whenand if electrophysiologic testing can identify when an ICD should be considered. Actionable findings include left ventricular or right ventricular dysfunction, delayed gadolinium enhancement on cardiac MRI, perfusion defect on FDG-PET scan, high-degree  atrioventricular block, and inducible ventricular arrythmias with programmed stimulation(23)",
+            "The exercise prescription may need modification regarding WB for patients with joint pain and stiffness. Those who have exercise-induced  hypoxemia may require supplemental oxygen(12)"
+        ],
+        "treatment summary": [
+            "Pulmonary rehabilitation exercise programs are a recommended and effective treatment for many chronic respiratory diseases. Moststudies of pulmonary rehabilitation exercise programs have included patients with sarcoidosis, but they have been grouped with patients with chronic respiratory diseases and/or other interstitial lung diseases \u2013Based on a 2014 Cochrane Review of 31 RCTs, pulmonary rehabilitation exercise training for all chronic respiratory diseases relieves dyspnea and fatigue, improves emotional function, and enhances HRQoL by increasing the sense of control that patients have over their symptoms(19) \u2013Authors of a 2015 clinical review found moderately large effect sizes in 9 RCTs, indicating that exercise-centered pulmonary rehabilitation increases physical capacity, reduces dyspnea, and improves HRQoL in patients with sarcoidosis and other interstitial lung diseases(12)",
+            "There are fewer studies limited to patients with sarcoidosis, but theyhave found similar support for pulmonary rehabilitation exercise programs \u2013Authors of a pre-post  study (N = 41 patients with sarcoidosis)found that 4 weeks of a multidisciplinary inpatient pulmonary rehabilitation program significantly improved VO2peak and significantly reduced fatigue. 6MWT demonstrated a statistically significant increase (mean increase 27 meters), but this is below the 30 meters that is reported as a clinically relevant increase in patients with chronic pulmonary disease(21) -The program included 10 sessions of high-intensity interval treadmill training(4 x 3 minutes), 10 sessions of a high-intensity  resistance training program (4 sets of 5 repetition max), various group exercise training sessions, and group education and discussion sessions \u2013Authors of a pre-post  study (N = 296 patients with sarcoidosis) found that a 3-week  multimodal inpatient pulmonary rehabilitation program significantly improved 6MWT distances, quality of life scores measured by St. George\u2019s Respiratory Questionnaire, fatigue levels measured by the FAS, and overall quality of life scores on the SF-36(24) -The program included mandatory endurance training (3\u20135 times/week, 30\u201360minutes  at 60\u201380%  of maximum capacity), strength training (3 times/week, 30\u201360 minutes), respiratory therapy (3 times/week in group and 2 individual sessions).  Optional components included relaxation therapy, nutrition counseling, psychological support, smoking cessation, and advice on use of aids \u2013Authors of a cohort study (N = 90 patients with sarcoidosis) in the Netherlands found that a 12-week  individualized exercise prescription and a supervised outpatient physical training program improved exercise tolerance (cycle ergometer test, functional capacity [6MWT], muscle strength [quadriceps, elbow flexors], and perceived health) and lessened fatigue (FAS)(5) -The exercise program included aerobic endurance training and an upper and lower body muscle strengthening program. The patients met with a physical therapist 2 times/week for 60-minute sessions. The aerobic component included an interval program that targeted an exercise intensity levelbetween 13 and 15 on the Borg RPE scale.The strength training included 3 sets of 15\u201320 repetitions for 6\u20138 different exercises with a targeted exercise intensity also between 13 and 15 on the Borg RPE scale",
+            "Exercise programs should include aerobic and strength training components that address the patient\u2019s functional capacity and responses to monitored exercise testing (e.g., 6MWT, graded exercise test, strength tests) \u2013Similarresults for inpatient and outpatient programs indicate that the type of setting for pulmonary rehabilitation does not have a significant impact(21)",
+            "Ideally, exercise intensity should apply principles of overload, provided that symptoms (i.e., pain, dyspnea) and signs (e.g., SpO2) are within acceptable limits(21)",
+            "Monitor HR, BP, RPE, and ask patient to report breathing discomfort level on a regular basis during exercise to ensure levels stay within acceptable limits",
+            "Modify the exercise plan if reported fatigue or dyspnea levels become moderately severe or higher",
+            "Provide close supervision to ensure safety and effectiveness throughout exercise and functional training sessions . Problem Goal Intervention Expected Progression Home Program Poor physical functioning due to weakness and fatigueImproved endurance and strength for ADLsExercise training (ET) See outline (above) under Treatment Summary  regarding exercise prescriptionThe intensity, duration, and frequency of ET should be progressed as allowed by symptoms, to a maintenance level compatible with health promotionProvide the patient with simple written instructions for safe independent ET at home Dyspnea and decreased SpO2 during exerciseReduced exercise- related symptomsPrescription, application of devices and equipment _ Use of supplemental oxygen if S pO2 level is below 90% on room air _Progress exercise intensity as indicated and appropriate for each unique patientInstruct patient in a home exercise program and when to use supplemental oxygen for relieving dyspnea ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved aerobic endurance mwt": [],
+        "improved strength mmt, use of exercise machines or free weights": [],
+        "improved functional exercise capacity graded exercise test, vopeak": [],
+        "improved patient self-assessment sat": [],
+        "improved hrqol sf-": [],
+        "reduced fatigue pfs, fas": []
+    },
+    "maintenance or prevention": [
+        "Continue prescribed exercise training program ",
+        "Maintain regular physical activity and home walking program"
+    ],
+    "patient education": [
+        "University of Maryland Medical Center website page on sarcoidosis, https://www.umms.org/ummc/health-services/pulmonary-critical-care-medicine/services/sarcoidosis"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Valeyre D, Prasse A, Nunes H, Uzunhan Y, Brillet PY, Muller-Quernheim  J. Sarcoidosis. Lancet. 2014;383(9923):1155-1167.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Birnie D, Ha AC, Gula LJ, Chakrabarti S, Beanlands RS, Nery P. Cardiac sarcoidosis. Clin Chest Med . 2015;36(4):657-668.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Marcellis Rg, Lenssen AF, de Vries J, Drent M. Exercise capacity, muscle strength, and fatigue in sarcoidosis: a follow-up study. Curr Opin Pulm Med . 2015;32(1):53-62.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Marcellis R, Van der Veeke M, Mesters I, et al. Does physical training reduce fatigue in sarcoidosis? Sarcoidosis Vasc Diffuse Lung Dis . 2015;32(1):53-62.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Strookappe B, Swigris J, de Vries J, Elfferich M, Knevel T, Drent M. Benefits of physical training in sarcoidosis. Lung. 2015;193(5):701-708.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Dubrey S, Shah S, Hardman T, Sharma R. Sarcoidosis: the links between epidemiology and aetiology. Postgrad Med J . 2014;90(1068):582-589.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Fingerlin TE, Hamzeh N, Maier LA. The genetics of sarcoidosis. Clin Chest Med . 2015;36(4):569-584.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Fischer A, Rybicki BA. Granuloma genes in sarcoidosis: what is new? Curr Opin Pulm Med . 2015;21(5):510-516.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Hamsten C, Wiklundh E, Gronlund H, et al. Elevated levels of FN1 and CCL2 in bronchoalveolar lavage fluid from sarcoidosis patients. Respir Res . June 4, 2016;17(1):69. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Broos CE, van Nimwegen M, Kleinjan A, et al. Impaired survival of regulatory T cells in pulmonary sarcoidosis. Respir Res . September 16, 2015;16:108. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Fleischer M, Hinz A, Brahler E, Wirtz H, Bosse-Henck  A. Factors associated with fatigue in sarcoidoisis. Respir Care . 2014;59(7):1086-1094.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Holland AE, Dowman LM, Hill CJ. Principles of rehabilitation and reactivation: interstitial lung disease, sarcoidosis and rheumatoid disease with respiratory involvement. Respiration . 2015;89(2):89-99.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Clinical exercise testing. Pescatello LS, Arena R, eds. ACSM's Guidelines for Exercise Testing and Prescription . 11th ed. Philadelphia, PA: Lippincott Williams and Wilkins;"
+        },
+        {
+            "number in article": 2021,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Marcellis RG, Lenssen AF, de Vries GJ, et al. Is there an added value of cardiopulmonary exercise testing in sarcoidosis? Lung. 2013;191(1):43-52.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "de Boer S, Kolbe J, Wilsher ML. Comparison of the modified shuttle walk test and cardiopulmonary exercise test in sarcoidosis. Respirology . 2014;19(4):604-607.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Judson MA, Mack M, Beaumont JL, Watt R, Barnathan ES, Victorson DE. Validation and important differences for the Sarcoidosis Assessment Tool. A new patient-reported outcome measure. Am J Respir Crit Care Med . 2015;191(7):786-795.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "In: Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz's modalities for therapeutic intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:80-82,  127-128, 322-323. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Wessendorf TE, Bonella F, Costabel U. Diagnosis of Sarcoidosis. Clin Rev Allergy Immunol . 2015;49(1):54-62.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "McCarthy B, Casey D, Devane D, Murphy K, Lacasse Y. Pulmonary rehabilitation for chronic obstructive pulmonary disease. Cochrane Database Syst Rev . 2015; (2):CD003793. (SR)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Llanos O, Hamzeh N. Sarcoidosis. Med Clin North Am . 2019;103(3):527-534.  doi:10.1016/j.mcna.2018.12.011. (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Grongstad A, Spruit MA, Oldervoll LM, V\u00f8llestad NK, Edvardsen A. Pulmonary rehabilitation in patients with pulmonary sarcoidosis: impact on exercise capacity and fatigue. Respiration . 2020;99(4):289-297.  doi:10.1159/000506295. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Zipse MM, Tzou WS, Schuller JL, et al. Electrophysiologic testing for diagnostic evaluation and risk stratification in patients with suspected cardiac sarcoidosis with preserved left and right ventricular systolic function. J Cardiovasc Electrophysiol . 2019;30(10):1939-1948.  doi:10.1111/jce.14058. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Kron J. Risk stratification in cardiac sarcoidosis: The tricky business of predicting the future. J Cardiovasc Electrophysiol . 2019;30(10):1949-1951.  doi:10.1111/jce.14055. (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Lingner H, Burh-Schinner  H, Hummel S, et al. Short-term  effects of a multimodal 3-week inpatient pulmonary rehabilitation programme for patients with sarcoidosis: the ProKaSaRe Study. Respiration . 2018;95(5):343-353.  doi:10.1159/000486964. (R)"
+        }
+    ]
+}

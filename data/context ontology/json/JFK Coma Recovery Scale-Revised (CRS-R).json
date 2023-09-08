@@ -1,0 +1,253 @@
+{
+    "metadata": {
+        "title": "Coma Recovery ScaleThe CRS-R  record forms and administration manual guide the examiner through the procedure for each portion of the test \u2022The test begins with a 1-minute  observation of the patient in order to record baseline information about resting posture of the extremities, eye opening, visual fixing or tracking, and spontaneous movement(5)    \u2022The arousal facilitation protocol is provided in the CRS-R  to guide examiners through interventions to promote arousal from the patient and prolong the length of time the patient is able to maintain arousal(1,5) \u2013The arousal facilitation protocol should be administered any time during the CRS-R  that the patient is -exhibiting sustained eyelid closure AND/OR(1) -not following commands for a period of at least 60 seconds(1) \u2013The examiner is advised to re-administer  the arousal facilitation protocol when the patient is -observed with sustained eye closure OR(1) -not responding behaviorally despite sustained eye opening(1) \u2022For each item on the test, a detailed section is provided for how to elicit behavioral responses from the patient along with the appropriate score that corresponds to each type of behavioral response.(1) The subscales are as follows: \u2013CRS-R  Record Form(1) -Auditory Function Scale -Visual Function Scale -Authors of a multi-center,  cross-sectional study in Italy that included 52 patients with a diagnosis of MCS reported that nonreflexive visual behavior (indicating an intentional, cortically mediated response) on the CRS-R  was the most frequently detected intentional sign consistent with a diagnosis of MCS(7) -Motor Function Scale -Oromotor/Verbal Function Scale -Communication Scale -Arousal Scale \u2013Brainstem Reflex Grid Record Form(1) -Pupillary light reflex -Corneal reflex -Spontaneous eye movement -Oculocephalic reflex -Postural responses",
+        "synonyms": [
+            "coma recovery scale\u2013revised  (crs-r)",
+            "jfk coma recovery scale",
+            "jfk coma recovery scale\u2013revised"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "adult neurological disorders",
+            " pediatric genetic and neurological disorders"
+        ],
+        "description": [
+            "The JFK Coma Recovery Scale\u2013Revised  (CRS-R)is a standardized assessment of neurobehavioral function used to assist with the differential diagnosis of various disorders of consciousness.(2,3) The CRS-R  can be used to document recovery from coma.(2,3) Additionally, the CRS-R provides a prognostic assessment and can be used to assist with treatment planning(2)",
+            "Comprises 23 items that are divided among six subscales: auditory, visual, motor, oromotor, communication, and arousal functions(2)",
+            "Subscales are arranged in a hierarchical manner, beginning with brainstem function, then subcortical processes, and finally cortical processes(2) \u2013The first test items on each subscale are associated with reflexive functioning and the final test items represent higher-order  cognitive behaviors(2) \u2013Higher scores reflect progressively increasing levels of neurobehavioral function",
+            "The CRS-R  is available in English, Spanish, Portuguese, Italian, German, French, Chinese, Dutch, Danish, Russian, Polish, and Norwegian(11,16,17)",
+            "Scoring is standardized and is based on whether operationally defined behavioral responses to specific sensory stimuli are present or absent in the patient being assessed(2)",
+            "The CRS-R  has good interrater reliability and internal consistency, as well as excellent test\u2013retest  reliability (1)"
+        ],
+        "indications": [
+            "Individuals with disorders of consciousness; individuals in a coma(3)",
+            "The CRS-R  incorporates diagnostic guidelines based on the Aspen Workgroup criteria for coma, unresponsive wakefulness syndrome (UWS, formerly called \u201cvegetative state\u201d [VS]), minimally conscious state (MCS), and emergence from MCS(1)",
+            "Coma \u2013A major complication of serious disorders of and injuries to the CNS(4) \u2013Consciousness is depressed and the eyes remain closed; individual is stuporous and unresponsive except for possible reflexive movements with repeated vigorous sensory stimuli(4) -While in a coma, the individual is unarousable; however, he or she may exhibit some reflexive movements(4)",
+            "UWS (formerly called vegetative state) \u2013Typically follows coma(4) \u2013The patient shows improvement from initial comatose state; he or she typically appears awake, but remains motionless without awareness of surroundings(4)",
+            "MCS \u2013A significantly altered state of consciousness, but improvement from unresponsive wakefulness(4) \u2013Individuals in an MCS demonstrate inconsistent periods of consciousness with some degree of functional recovery and responsive behavior(4)",
+            "Diagnosis and early prognosis in disorders of consciousness, in particular UWS/vegetative state and MCS, is difficult, as they depend on the observation of clinical signs of responsiveness; detecting behavioral signs of awareness can be challenging \u2013The CRS-R  is useful as patients appear to be evolving from a coma or UWS, and the diagnostic team is attempting to make an accurate differential diagnosis(12) \u2013The CRS-R  is the most sensitive scale to differentiate the different altered states of consciousness \u2013Eleven items detect the MCS(12)"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "R40": {
+                "base": "somnolence, stupor, and coma",
+                "R40.0": "somnolence",
+                "R40.1": "stupor",
+                "R40.": "2 coma, unspecified"
+            },
+            "Additional": "ICD-10 codes will vary according to the underlying cause of the coma (ICD codes are provided for the reader's reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "96116:": "neurobehavioral status exam (clinical assessment of thinking, reasoning and judgment, acquired knowledge, attention, language, memory, planning and problem solving, and visual spatial abilities), per hour of the psychologist\u2019s or physician\u2019s time, both face-to-face  time with the patient and time interpreting test results and preparing the report",
+            "96118:": "neuropsychological testing (e.g., Halstead-Reitan Neuropsychological Battery, Wechsler Memory Scales, and Wisconsin Sorting Test), per hour of the psychologist\u2019s or physician\u2019s time, both face-to-face  time administering tests to the patient and interpreting these results and preparing the report",
+            "96119:": "neuropsychological testing (e.g., Halstead-Reitan Neuropsychological Battery, Wechsler Memory Scales, and Wisconsin Sorting Test), with qualified healthcare professional interpretation and report, administered by technician, per hour of technician time, face-to-face ",
+            "96125:": "standardized cognitive performance testing (e.g., Ross Information Processing Assessment) per hour of a qualified health care professional\u2019s time, both face-to-face  time administering tests to the patient and time interpreting these test results and preparing the report"
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this assessment. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Only those contraindications/precautions applicable to this test are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment and refer to physician orders",
+            "Vestibular stimulation is used as part of the arousal facilitation protocol in the CRS-R;  however, this is contraindicated in patients with increased intracranial pressure, acute surgical lines, or fractures and in the presence of lines and monitors(5)",
+            "Deep pressure stimulation is used as part of the arousal facilitation protocol in the CRS-R;  however, this is contraindicated over fracture sites, wounds, surgical sites, and areas around lines or monitors(5)"
+        ],
+        "psychometric properties": [
+            "Reliability: The CRS-R  has good interrater reliability and excellent test-retest  reliability(1)",
+            "Validity: \u2013The CRS-R  has excellent (class I evidence) content validity and internal construct validity (1)",
+            "Internal consistency: The CRS-R  has good (class I evidence) internal consistency(1)",
+            "Sensitivity and specificity: \u2013The ability of the CRS-R  to detect conscious awareness (i.e., MCS or emerged from minimally conscious state [EMCS]) was investigated in a retrospective study of 252 patients in the United States with disorders of consciousness(9) -A CRS-R  total score of 10 or more had a sensitivity of 0.78 for correctly identifying conscious awareness (i.e., MCS or EMCS) and a specificity of 1.00 for correctly identifying patients who did not meet conscious awareness criteria (i.e., patients in whom UWS/vegetative state or coma was diagnosed); a false-negative  diagnostic error was found in 22% of patients, who were misclassified as unconscious -Researchers concluded that a CRS-R  score cutoff of 8 provides the best optimal balance of sensitivity and specificity for detecting conscious awareness, as evidenced by a true positive rate of 93%, a true negative rate of 96%, and an accurate diagnostic classification of 93% of patients",
+            "Ceiling/floor effects: The measure was designed to assess patients at Rancho Los Amigos Levels of Cognitive Functioning I\u2013IV ,  so it would not be appropriate for patients who are functioning beyond these levels(6)"
+        ],
+        "potential complications adverse effects": [
+            "Because the examiners are attempting to elicit behavioral responses from a patient with a disorder of consciousness, there is a risk that the patient could become agitated and/or combative"
+        ],
+        "test preparation materials required": [
+            "CRS-R  Record Form(1,5)",
+            "Administration manual(5)",
+            "Supplemental forms \u2013Brainstem Reflex Grid record form(1) \u2013CRS-R  Total Score Progress Tracking Chart(1)",
+            "Writing utensil to record patient responses(1)",
+            "A collection of everyday objects such as a ball, cup, and spoon(1,5) \u2013At least one object should be illuminated or brightly colored(1,5)",
+            "Hand mirror(1,5)",
+            "Stopwatch for timing arousal maintenance(5)",
+            "Tongue depressor for oral reflex assessment(5)"
+        ],
+        "test procedure": [
+            "The CRS-R  record forms and administration manual guide the examiner through the procedure for each portion of the test",
+            "The test begins with a 1-minute  observation of the patient in order to record baseline information about resting posture of the extremities, eye opening, visual fixing or tracking, and spontaneous movement(5) ",
+            "The arousal facilitation protocol is provided in the CRS-R  to guide examiners through interventions to promote arousal from the patient and prolong the length of time the patient is able to maintain arousal(1,5) \u2013The arousal facilitation protocol should be administered any time during the CRS-R  that the patient is -exhibiting sustained eyelid closure AND/OR(1) -not following commands for a period of at least 60 seconds(1) \u2013The examiner is advised to re-administer  the arousal facilitation protocol when the patient is -observed with sustained eye closure OR(1) -not responding behaviorally despite sustained eye opening(1)",
+            "For each item on the test, a detailed section is provided for how to elicit behavioral responses from the patient along with the appropriate score that corresponds to each type of behavioral response.(1) The subscales are as follows: \u2013CRS-R  Record Form(1) -Auditory Function Scale -Visual Function Scale -Authors of a multi-center,  cross-sectional study in Italy that included 52 patients with a diagnosis of MCS reported that nonreflexive visual behavior (indicating an intentional, cortically mediated response) on the CRS-R  was the most frequently detected intentional sign consistent with a diagnosis of MCS(7) -Motor Function Scale -Oromotor/Verbal Function Scale -Communication Scale -Arousal Scale \u2013Brainstem Reflex Grid Record Form(1) -Pupillary light reflex -Corneal reflex -Spontaneous eye movement -Oculocephalic reflex -Postural responses"
+        ],
+        "test scoring interpretation": [
+            "For each of the six subscales of the CRS-R,  the patient is scored on his or her response to specific sensory stimuli(1) \u2013Each subscale has a minimum score of 0; the maximum scores range from 2 to 6(1) \u2013Items on the subscales are scored as \u201cabsent\u201d or \u201cpresent\u201d(1) \u2013Minimum total score is 0; maximum score is 23(1)",
+            "The CRS-R  includes tracking forms to track changes in a patient\u2019s score over time(1)",
+            "The CRS-R  can be used to help predict patient outcome at discharge(14,15) \u2013Researchers of a study in Italy of 110 patients with severe brain injury admitted to an intensive rehabilitation unit concluded that improvement on total CRS-R  scores and various subscales across a period of 4 weeks can help predict patient outcome at discharge(14) \u2013Researchers of a study in Italy of 137 patients with severe brain injury found that higher CRS-R  scores taken at time of admission to an intensive rehabilitation unit correlated with improved responsiveness at patient discharge(15)",
+            "A modified CRS-R  scoring system has been proposed in an attempt to avoid overlapping scores between UWS/vegetative state and MCS, and to provide a continuum for scores from no response to more complex and reproducible behavior(8) \u2013The modified scoring subdivides each CRS-R  response into two categories:noncognitively mediated reflex/behavior and cognitively mediated behavior",
+            "It is recommended that CRS-R  testing be performed multiple times during varied times of the day throughout the duration of care in order to minimize the risk of misclassification(10) \u2013Based on a retrospective study in the United States including 7 patients with unresponsive wakefulness syndrome (UWS) or VS and 12 patients in the MCS state \u2013CRS-R  scores were found to be higher in the morning than in the afternoon in the UWS/VS and MCS subgroups over the entire 13 weeks ",
+            "Researchers in Belgium and the United States conducted a study to document the prevalence of items that detect MCS (i.e., signs of consciousness) in 282 patients in whom MCS was diagnosed based on the CRS-R(12) \u2013The items that were particularly frequent were fixation, visual pursuit, and reproducible movement to command -Seen in more than 50% of the patients -These were also the items most likely to be observed when the patients showed only one sign of consciousness \u2013Items that were rarely or never observed alone included object localization (reaching), object manipulation, intelligible verbalization, and object recognition \u2013These results also showed that limiting the CRS-R  assessment to the five most frequently observed items (i.e., fixation, visual pursuit, reproducible movement to command, automatic motor response, and localization to noxious stimulation) detected 99% of the patients in MCS -The authors suggest that if clinicians have only limited time to assess patients with disorders of consciousness, they should evaluate at least these five items of the CRS-R",
+            "Improbable scores on the CRS-R  could relate to characteristics of the patient (e.g., deafness, blindness, aphasia, apraxia) or the examiner (novice versus expert). Researchers in the United States sought to develop a methodology that could alert the examiner to erroneous or unusual scores on the CRS-R(13) \u2013The probability of receiving a specific score on a given subscale should be related to the scores received on the other subscales \u2013Subscale scores that are not consistent with the hierarchical structure of the scale would have a low probability of occurring \u2013Improbable combinations of scores on subscales suggest improper administration or scoring procedures, but could also raise red flags that further investigation is needed -For example, a high motor subscale score with a very low auditory subscale score raises the possibility of aphasia or auditory processing impairment -Conversely, a high score on auditory function, indicating consistent command following, with a 0 score on motor function (no motor response) could indicate quadriparesis or spasticity interfering with motor response \u2013The authors identified 9 impossible and 36 improbable subscale combinations that should trigger a review of the quality of the data"
+        ]
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "",
+        "other considerations": [],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {},
+    "maintenance or prevention": [],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bodien YG, Chatelle C, Taubert A, Uchani S, Giacino JT, Ehrlich-Jones  J. Updated measurement characteristics and clinical utility of the Coma Recovery Scale\u2013Revised among individuals with acquired brain injury. Arch Phys Med Rehabil . 2021;102(1):169-171.  doi:10.1016/j.apmr.2020.09.369. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Giacino J, Kalmar K. Coma Recovery Scale-Revised.  The Center for Outcome Measurement in Brain Injury. Web site. http://www.tbims.org/combi/crs . (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Wilde EA, Whiteneck GG, Bogner J. Recommendations for the use of common outcome measures in traumatic brain injury research. Arch Phys Med Rehabil . 2010;91(11):1650-1660.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Douglas VC, Aminoff MJ. Nervous system disorders. In: Papadakis MA, McPhee SJ, Rabow MW, eds. Current Medical Diagnosis & Treatment 2019 . 58th ed. New York, NY: McGraw-Hill  Education/Medical; 2019:1040-1042.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Nelson PR, Giacino JT. The Coma Recovery Scale: indications for use in the acute care setting. Acute Care Perspect . 2000;9(4):12-19.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Coma Recovery Scale\u2013Revised.  Shirley Ryan AbilityLab Rehabilitation Measures Database Web site. https://www.sralab.org/rehabilitation-measures/coma-recovery-scale-revised . Published September 1, 2020. (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Estraneo A, Moretta P, Cardinale V, et al. A multicentre study of intentional behavioural responses measured using the Coma Recovery Scale-Revised  in patients with minimally conscious state. Clin Rehabil . 2015;29(8):803-808.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Sattin D, Minati L, Rossi D, et al. The Coma Recovery Scale Modified Score: a new scoring system for the Coma Recovery Scale-Revised  for assessment of patients with disorders of consciousness. Int J Rehabil Res . 2015;38(4):350-356.  doi:10.1097/MRR.0000000000000135. (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Bodien YG, Carlowicz CA, Chatelle C, Giacino JT. Sensitivity and specificity of the Coma Recovery Scale-Revised  total score in detection of conscious awareness. Arch Phys Med Rehab . 2016;97(3):490-492.  doi:10.1016/j.apmr.2015.08.422. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Cortese M, Riganello F, Arcuri F, et al. Coma Recovery Scale-R: variability in the disorder of consciousness. BMC Neurol . 2015;15(1):1-7.  doi:10.1186/s12883-015-0455-5.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Di H, He M, Zhang Y, et al. Chinese translation of the Coma Recovery Scale--Revised.  Brain Inj. 2017;31(3):363-365.  doi:10.1080/02699052.2016.1255780. (R) "
+        },
+        {
+            "number in article": 12,
+            "reference": "Wannez S, Gosseries O, Azzolini D, et al. Prevalence of Coma Recovery Scale-Revised  signs of consciousness in patients in minimally conscious state. Neuropsychol Rehabil . 2017;11:1-10.  doi:10.1080/09602011.2017.1310656. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Chatelle C, Bodien YG, Carlowicz D. Detection and interpretation of impossible and improbable Coma Recovery Scale \u2013 Revised scores. Arch Phys Med Rehabil . 2016;97(8):1295. doi:10.1016/j.apmr.2016.02.009. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Portaccio E, Morrocchesi A, Romoli AM, et al. Improvement on the Coma Recovery Scale-Revised  during the first four weeks of hospital stay predicts outcome at discharge in intensive rehabilitation after severe brain injury. Arch Phys Med Rehabil . 2018;99(5):914-919.  doi:10.1016/j.apmr.2018.01.015. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Portaccio E, Morrocchesi A, Romoli AM, et al. Score on Coma Recovery Scale-Revised  at admission predicts outcome at discharge in intensive rehabilitation after severe brain injury. Brain Inj. 2018;32(6):730-734.  doi:10.1080/02699052.2018.1440420. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Iazeva EG, Legostaeva LA, Zimin AA, et al. A Russian validation study of the Coma Recovery Scale-Revised.  Brain Inj. 2019;33(2):218-225. doi:10.1080/02699052.2018.1539248. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Binder M, G\u00f3rska U, W\u00f3jcik-Krzemie#  A, Gociewicz K. A validation of the Polish version of the Coma Recovery Scale-Revised  (CRSR). Brain Inj. 2018;32(2):242-246. doi:10.1080/02699052.2017.1406991. (R)"
+        }
+    ]
+}

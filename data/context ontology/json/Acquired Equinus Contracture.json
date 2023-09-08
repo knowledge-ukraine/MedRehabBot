@@ -1,0 +1,349 @@
+{
+    "metadata": {
+        "title": "Acquired Equinus Deformity",
+        "synonyms": [
+            "acquired talipes equinus",
+            "talipes equinus, acquired",
+            "equinus deformity, acquired",
+            "deformity, acquired equinus",
+            "equinus contracture, acquired",
+            "contracture, equinus, acquired",
+            "acquired equinus contracture"
+        ],
+        "anatomical location body part affected": [
+            "Calf of leg/gastrocnemius-soleus and Achilles tendon; in some cases, the ankle joint might be affected"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "Acquired equinus deformity (equinus) is characterized by contracture of the gastrocnemius-soleus  complex and/or shortening of the Achilles tendon that results in compulsive pointing of foot and weight-bearing  on forefoot only (idiopathic toe-walking or equinus gait)",
+            "Ankle dorsiflexion is usually restricted due to reduced extensibility of the calf soft tissues, and less often to a bony ankle abnormality(1)",
+            "This Clinical Review focuses on idiopathic equinus in neurologically healthy individuals. See Clinical Review\u2026Clubfoot ; CINAHL Topic ID Number: T708767 for congenital talipes equinovarus (clubfoot). See Clinical Review\u2026Cerebral Palsy: an Overview ; CINAHL Topic ID Number: T708551 for neurologic spastic equinus"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M21.6": "other acquired deformities of ankle and foot",
+            "R26.8": "other and unspecified abnormalities of gait and mobility (ICD codes are provided for the reader\u2019s reference only, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no special agencies or specific issues regarding reimbursement have been identified for acquired equinus deformity"
+        ],
+        "presentation signs and symptoms": [
+            "Equinus position of ankle at rest (defined as inability to achieve at least 10\u00b0 of ROM in dorsiflexion); usually bilateral",
+            "Gastrocnemius-soleus  (plantar flexor) contracture/muscle stiffness",
+            "Normal strength in ankle plantar flexion and dorsiflexion",
+            "Equinus gait abnormality: toe-toe  walking; toe-tip  walking",
+            "Compensatory changes in posture and balance due to restriction in ankle dorsiflexion. Usually normal sensation, deep tendon reflexes, and motor control",
+            "Postoperative patients might present with unhealed surgical wound, foot pain, and lower-extremity  weakness following a protocol of casting and non-weight-bearing Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "In most cases, shortening of the gastrocnemius-soleus  complex and/or Achilles tendon isidiopathic, or acquired without a known etiology",
+            "Individuals with diabetes may be at risk of developing equinus deformity as a result ofthe changes in the muscle fibers of the gastrocnemius-soleus(9)",
+            "Ankle joint bony abnormality might cause impingement that restricts dorsiflexion\u2013Poor talar mobility may also contribute to restricted dorsiflexion ROM",
+            "Habitual wearing of high-heeled  shoes might shorten the calf muscle\u2013Achilles complex (speculative)"
+        ],
+        "pathogenesis": [
+            "Idiopathic toe-walking  is a condition similar to functional equinus (i.e., inadequate dorsiflexion for normal gait). Similar toequinus gait, patients with idiopathic toe-walking  have variable amounts of Achilles tendon contracture and restriction ofankle dorsiflexion(10)"
+        ],
+        "risk factors": [
+            "Data are lacking on factors associated with increased risk for idiopathic equinus",
+            "It is suggested that sedentary lifestyles or conditions affecting healing (diabetes) are risk factors for developing equinus(5)",
+            "Presumptive risk factors for acquired equinus(11)\u2013Prolonged immobilization in a cast\u2013Frequent wearing of high-heeled  shoesGeneral Contraindications/Precautions/Recommendations"
+        ],
+        "obtain written referral from physician for specific treatment of equinus deformity": [],
+        "in pediatric cases, obtain written consent from parent or legal caretaker and secure parental involvement commitment to the treatment plan": [],
+        "in postoperative cases, document physician\u2019s orders on weight-bearing  and rom restrictions": [],
+        "potential complications after surgery include deep venous thrombosis  dvt  and pulmonary embolism  pe": [],
+        "modify the examination and treatment as indicated for patients with coexisting conditions such as spasticity or neuropathic diabetic foot": [],
+        "see specific  contraindications precautions to examination   and  contraindications precautions   under assessment": []
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Idiopathic gastrocnemius-soleus/Achilles tendon shortening. Document reason for referral (i.e., postoperative care or conservative management)",
+                "course of treatment": {
+                    "medical management": "Patients with comorbidities are usually under the care of an internal medicine physician. Children might be referred by a pediatric orthopedist",
+                    "surgical management": [
+                        "Surgical management:  Was surgical correction/lengthening of the gastrocnemius or Achilles tendon performed? If so, when? Did the surgeon also perform a release of any toe flexion tendons to prevent future \u201ctoe curling\u201d?",
+                        "The usual procedures are gastrocnemius recession (e.g., Vulpius procedure), tendo-Achilles  lengthening, Strayer gastrocnemius recession,(5) tongue in groove,(5) and Stoffel(5) techniques",
+                        "Authors of a 2017 study found that individuals with plantar fasciitis and gastrocnemius equinus deformity who undergo an isolated plantar fasciotomy along with a gastrocnemius recession have decreased pain and improved ROM(7)",
+                        "Often surgical release of the flexor digitorum longus and the brevis tendons at the base of each toe is done at the same time as the Achilles tendon lengthening procedure to prevent increased tension on the long toe flexors, which can cause future \u201ctoe curling\u201d(3)",
+                        "Intramuscular gastrocnemius-soleus  aponeurotic recession can be used to increase the muscle length of the",
+                        "gastricsoleus  complex, which can improve the kinetics and kinematics of walking without significant loss of muscle strength for those with equinus foot deformities(8) "
+                    ],
+                    "medications": "NSAIDs might be prescribed for musculoskeletal pain",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Ask about findings on X-rays  or other imaging studies"
+                    ],
+                    "alternative therapies": "Has patient used any homeopathic or herbal therapies?",
+                    "previous therapy": "Has patient received prior physical therapy for this condition and, if so, what specific treatments were helpful or not helpful?"
+                },
+                "aggravating easing factors": "What factors increase or decrease symptoms?",
+                "body chart": "Use a chart of lower extremity to document location and nature of symptoms, as applicable",
+                "nature of symptoms": " Nature of symptoms -Pain/tenderness -Inflammation/swelling -Reduced foot mobility -Increased pain on weight-bearing",
+                "rating of symptoms": "If applicable, use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment. Specifically address if pain is the primary symptom and whether it is present now and how much",
+                "pattern of symptoms": "Document whether there are changes in symptoms throughout the day and night (i.e., A.M., mid-day,  P.M., night)",
+                "sleep disturbance": "This condition usually does not disturb sleep quality",
+                "other symptoms": "Do compensatory functional changes complicate treatment, such as impaired posture or poor balance?Is communication limited by patient\u2019s age, language, hearing, vision, or cognitive impairment?",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Are there comorbidities or coexisting movement disorders such as muscular dystrophy, cerebral palsy, multiple sclerosis, or stroke that might contribute to equinus?",
+                    "medications previously prescribed": "Obtain a complete list of current medications",
+                    "other symptoms": "Other than ankle equinus, are there any musculoskeletal problems or functional concerns?"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "Document the specific and general treatment goals of the patient, such as reduced pain and normalized ankle mobility and gait",
+                "vocation avocation and associated repetitive behaviors, if any": "Can the patient participate in desired recreational or social activities during the period of rehabilitation?",
+                "functional limitations assistance with ADLs adaptive equipment": "Determine the extent to which symptoms interfere with ADLs or require use of adaptive equipment",
+                "living environment": "Are there barriers in the home that impede access, such as stairs? What modifications are needed?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Assess use of (or need for) orthotic devices, splint, or brace (e.g., ankle-foot  orthosis, frame brace), if applicable",
+            "balance": "Assess static and dynamic balance in standing and single-leg stand. Deficits will likely be found in dynamic balance due to loss of ankle strategies for restoring balance. Use Berg Balance Scale (BBS) and/or Functional Reach Test, as indicated",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess pedal pulses (should be intact)Circumferential measurements for swelling/edema",
+            "functional mobility": "Assess ability in transfers, standing on toes, standing on heels, stair climbing, and single-leg  hop (as appropriate for weight-bearing  status). Timed Up & Go (TUG) test",
+            "gait locomotion": "Assess lower extremity and rearfoot alignment, as well as ankle movement in barefooted walking (on treadmill, if appropriate) at foot strike, stance, and push-off.  Equinus gait is characterized by reduced dorsiflexion during stance and toe-to-toe  strike (i.e., lack of heel-to-toe  progression in the gait cycle)Assess hindfoot (talocrural) joint mobility passive accessory motion, which might be restricted in dorsiflexion. Assess midfoot mobility (pronate and supinate forefoot while holding the heel in neutral position) and passive accessory motion at the subtalar and metatarsal joints. These usually are normal ",
+            "muscle strength": "Assess lower extremity strength using manual muscle testing (MMT). Strength usually is normal in the available ROM of ankle dorsiflexion. Strength should also be normal in midfoot inversion/eversion and forefoot adduction/ abduction",
+            "observation inspection palpation including skin assessment": [
+                "Inspect shoes for wear pattern (wear mainly on toes)",
+                "Inspect the feet for signs of pressure sores and ulcers (especially important in patients with diabetes)",
+                "Inspect the feet and legs for signs of infection/inflammation (warmth, redness, and/or swelling)",
+                "If applicable, are surgical incisions healed without infection?",
+                "Assess longitudinal arch for cavus abnormality \u2022Pain/tenderness:  Assess pain in leg and foot with V AS"
+            ],
+            "posture": "Assess for leg-length  discrepancy and lower extremity knee and ankle alignment",
+            "range of motion": "Assess ankle ROM in plantar flexion, dorsiflexion, inversion, and eversion (compare bilaterally) \u2013Assess for restriction of gastrocnemius-soleus  and Achilles tendon by measuring ankle dorsiflexion ROM with knee extended and subtalar joint in neutral. By definition of calf-related  equinus, this should be less than 10\u00b0 (nonfunctional for normal gait cycle) -Silfverskiold test(5)\u2014As described above, ankle dorsiflexion is assessed in knee extension and knee flexion to compare what muscles are limiting the motion. This is the standard test for diagnosing equinus \u2013Evaluate ROM of hallux and toes in extension (should be normal) \u2013Assess forefoot in supination and pronation (should be normal) \u2013Assess flexibility of entire lower extremity",
+            "self-care activities of daily living": "",
+            "reflex testing": "Achilles tendon reflex usually is intact without evidence of hyperactivityAssess for sensory changes in affected foot, particularly the distribution of the superficial peroneal nerve (dorsum of foot) and deep peroneal nerve (1st web space). Leg and foot sensation should be intact in uncomplicated equinus deformity",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Medical instability",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Avoid applying cold over superficial nerves, areas of diminished sensation or poor circulation, or slow-healing  wounds",
+                "Use caution with patients who are hypertensive, as cold can cause a transient increase in blood pressure; discontinue treatment if there is an elevation in blood pressure",
+                "Use caution with patients who are hypersensitive to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Use of cryotherapy with patients who have an aversion to cold might be counterproductive if being used to promote muscle relaxation and decrease pain",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs ",
+                "Severe epilepsy",
+                "Certain dermatologic conditions",
+                "Surface infections",
+                "Uncontrolled bowels",
+                "Acute rheumatoid arthritis",
+                "Venous ulcers",
+                "Tissues devitalized by X-ray  therapy",
+                "Peripheral vascular disease",
+                "Decreased thermal sensation",
+                "Respiratory dysfunction",
+                "Cardiac dysfunction",
+                "Active bleeding",
+                "Malignancy",
+                "Fever",
+                "Acute inflammatory conditions",
+                "Heat sensitivity",
+                "Impaired sensation",
+                "Confusion or impaired cognition",
+                "Recent skin grafts",
+                "Certain medications",
+                "Alcohol intoxication*",
+                "Decreased strength/ROM/endurance/balance*",
+                "Urinary incontinence*",
+                "Fear of water*",
+                "Respiratory problems",
+                "Pregnancy*",
+                "Multiple sclerosis*",
+                "Poor thermal regulation*",
+                "Seasickness",
+                "Edema, when warm/hot water immersion",
+                "Stimulation through or across the chest",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Used in close proximity to diathermy treatment",
+                "In an area with infection or bleeding",
+                "If a tumor is present in the area ",
+                "In the area of DVT or thrombophlebitis",
+                "Over epiphyseal plates of growing bones",
+                "Use caution in patients with sensory deficits and in patients who are unable to communicate their sensory deficits",
+                "Use caution if patient has circulatory impairments",
+                "Use caution over plastic or metal implants",
+                "Always decrease ultrasound intensity if the patient complains of discomfort"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below. Rehabilitation professionals should always use their own professional judgement",
+                "Cryotherapy  contraindications(2)",
+                "Cryotherapy  precautions(#)",
+                "Superficial heat  contraindications(2)",
+                "Whirlpool  contraindications(2)",
+                "Whirlpool  precautions (*some are relevant only if entire body is immersed)  (2)",
+                "Electrotherapy contraindications/precautions (in some cases , when approved by the treating physician, electrotherapy might be used under some of the circumstances listed below when benefits outweigh the perceived risk)  (2)",
+                "Therapeutic ultrasound  contraindications; do not use:(2)",
+                "Therapeutic ultrasound  precautions(2)",
+                "Adapt therapeutic exercises for ambulatory patients with functional limitations (e.g., poor balance/weight-bearing  status, poor coordination)",
+                "Research is lacking on the effectiveness of electrotherapeutic modalities for treatment of equinus deformity"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatmentequinus deformity with associated ankle/foot pain, limited ankle mobility, gastrocnemius-soleus/Achilles tendon stiffness, postural changes, impaired balance, and gait dysfunctionpain, wound, guarded weight-bearing  with ambulatory aid, lower extremity weakness",
+        "rule out": "Neurogenic causes trauma with deep peroneal nerve injury, neurologic clubfoot; and congenital causes: talipes equinovalgus, metatarsus primus varus, claw foot, cavovarus deformity",
+        "prognosis": [
+            "Research is lacking on prognosis in untreated idiopathic equinus"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Orthotist for shoe modifications, orthoses, dynamic splinting, and orthopedic footwear Orthopedist for surgical consult in recalcitrant equinus",
+        "other considerations": [
+            "Nonoperative treatments might include night splinting, ankle-foot  orthosis, and serial casting",
+            "Adults with diabetes are twice as likely to develop high in-shoe  peak pressures, which can lead to an increased risk of developing diabetic foot complications(9)",
+            "Include posture, balance, and gait reeducation in the treatment plan, as indicated",
+            "In a pilot RCT in Italy, 30 adults with spastic equinus foot as a consequence of stroke were randomly assigned to 3 groups. One group received therapeutic ultrasound to the calf muscle, 1 group had a TENS treatment to the tibial nerve area, and 1 group was injected with botulinum toxin type A (Botox) in the spastic gastrocnemius muscle(4) \u2013The Modified Ashworth Scale (which measures spasticity in patients with lesions of the CNS) and ankle passive ROM into dorsiflexion were evaluated before treatment and at 15, 30, and 90 days after the first clinical evaluation \u2013No difference was found between groups treated with the modalities of ultrasound or TENS \u2013At the 30- and 90-day  follow-ups  there were significant improvements in ankle dorsiflexion ROM and the Modified Ashworth Scale in the patients injected with botulinum toxin type A"
+        ],
+        "treatment summary": [
+            "Trial of manual therapy, including stretching of the gastrocnemius-soleus/Achilles tendon, as well as passive mobilization",
+            "Authors of a 2019 RCT study conducted in Australia concluded that static calf stretching did not provide any significant changes to ankle dorsiflexion ROM and no significant changes in the amount of pressure placed on the plantar surfaces of the foot(6) \u2013Sixty-eight  adults with an ankle equinus deformity were randomized to either the stretch group (n = 34) or usual activity group (n = 34) \u2013Participants in the stretch group performed static standing calf stretches held for 30 seconds and repeated 4 times a day. The intervention was performed daily for 5 days a week for 8 weeks \u2013After the 8-week  study, comparisons of the stretch group and usual activity group found no significant differences in ankle dorsiflexion ROM, weight-bearing ankle dorsiflexion, or forefoot in-shoe  /barefoot peak pressures . Problem Goal Intervention Expected Progression Home Program  Ankle or foot pain/ tenderness and swelling due to abnormal weight-bearing; wound care postsurgeryResolve inflammation of soft tissues; heal wounds _ _ Protect painful tissuesPhysical agents and mechanical modalities _ Apply cryotherapeutic agents as needed for pain (avoid using over wounds). Activity modification, weight- bearing restrictionAllow 2\u20133 weeks for woundto heal and swelling to subsideIce bag (as instructed) to reduce pain and swelling Calf muscle-Achilles tendon contracture with restricted ankle dorsiflexionResolution of contracture. Improve flexibility of plantar flexors to increase dorsiflexionElectrotherapeutic modalities _ Evidence is lacking to warrant use of modalities to treat acquired equinus _ _ Manual therapy _ Passive joint mobilization in dorsiflexion and manual stretching of plantar flexors to improve dorsiflexionGradually progress intensity of joint mobilizations and exercises; 5x per week to daily for 4\u20136 weeksProvide patient with passive calf stretching exercises. Daily repetition of stretches Atrophy, weakness, and impaired activation of calf muscles after surgeryIncrease strength and activation of calf musclesTherapeutic exercise _ Progressive resistance exercise programProgress each patient as appropriate and indicated following surgeryProvide activities for home that support postoperative protocol Deficits in posture, balance, walking/stair climbing ability _ _ Weight-bearing on forefootNormal balance and ambulatory function following corrective surgery _ _ Plantigrade foot position on standingFunctional training _ Posture, balance exercises, proprioception exercises, and gait reeducation _ _ Prescription, application of devices and equipment _ Orthosis (AFO) and shoe modifications might help support/ protect affected tissuesProgress as indicated and allow 4\u20136 weeks to achieve goals _ _ N/AProvide patient with written instructions for exercises and functional activities to be performed at home and on correct use/application of equipment ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "healed wound  postoperative": [
+            "Integumentary assessment"
+        ],
+        "resolved pain tenderness and swelling": [
+            "V AS",
+            "Circumferential measurements"
+        ],
+        "reduced or resolved  postoperative  impairment in ankle dorsiflexion rom": [
+            "Goniometry"
+        ],
+        "improved lower extremity strength  postoperative": [
+            "MMT"
+        ],
+        "improved or normalized posture, balance, and gait": [
+            "Reassessment of balance \u2013 Berg Balance Scale",
+            "Gait assessment",
+            "Postural assessment"
+        ],
+        "improved function": [
+            "TUG test",
+            "Lower Extremity Functional Scale"
+        ],
+        "improved flexibility": [
+            "Muscle length testing"
+        ],
+        "improved endurance and walking ability": [
+            "6MWT"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continue home program to maintain gains in ankle ROM, calf strength, and lower extremity function"
+    ],
+    "patient education": [
+        "\u201cEquinus,\u201d American College of Foot and Ankle Surgeons website, https://www.foothealthfacts.org/conditions/equinus Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Magee DJ. Lower leg foot and ankle. Orthopedic Physical Assessment . 6th ed. St Louis, MO: Saunders Elsevier; 2014. (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "In: Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Co; 2016:42-44,  80-82, 127-128, 144-145. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Skinner H, McMahon P. Foot and Ankle Surgery. In: Current diagnosis and treatment in orthopedics . 5th ed. New York: McGraw-Hill  Education; 2014:615-616.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Picelli A, Dambruoso F, Bronzato M, Barausse M, Gandolfi M, Smania N. Efficacy of therapeutic ultrasound and transcutaneous electrical nerve stimulation compared with botulinum toxin type A in the treatment of spastic equinus in adults with chronic stroke: A pilot randomized controlled trial. Top Stroke Rehabil . 2014;21(1):S8-S16. doi:10.1310/tsr21S1-S8.  (RCT)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Nelson P. Equinus and the diabetic foot. Podiatry Manage . 2017;36(9):101-105.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Searle A, Spink MJ, Oldmeadow C, Chiu S, Chuter VH. Calf muscle stretching is ineffective in increasing ankle range of motion or reducing plantar pressures in people with diabetes and ankle equinus : a randomized controlled trial. Clin Biomechanics . 2019;69:52-57.  doi:https://doi.org/10.1016/j.clinbiomech.2019.07.005. (RCT)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Mulhern JL, Protsman NM, Summers JN, Brigido SA. Clinical outcomes following an open gastrocnemius recession combined with an endoscopic plantar fasciotomy. Foot Ankle Specialist . 2018;11(4):330-334.  doi:https://doi.org/10.1177/1938640017733097. (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Putz C, Mertens EM, Wolf SI, et al. Equinus correction during multilevel surgery in adults with cerebral palsy. Foot Ankle Int . 2018;39(7):812-820.  doi:https:// doi.org/10.1177/1071100718765161. (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Searle A, Spink MJ, Chuter VH. Prevalence of ankle equinus and correlation with foot plantar pressures in people with diabetes. Clin Biomechanics . 2018;39-44.  doi:https:// doi.org/10.1016/j.clinbiomech.2018.10.006. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Williams CM, Pacey V, de Bakker PB, Caserta AJ, Gray K, Engelbert RHH. Interventions for idiopathic toe walking. Cochrane Database Syst Rev . 2016;2016(10):CD012363. doi:https://doi.org/10.1002/14651858.CD012363.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "American College of Foot and Ankle Surgeons. Equinus. https://www.acfas.org/footankleinfo/Equinus.htm . Accessed January 13, 2021. (GI) "
+        }
+    ]
+}

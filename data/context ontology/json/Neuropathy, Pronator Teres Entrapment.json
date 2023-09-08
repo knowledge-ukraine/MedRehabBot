@@ -1,0 +1,293 @@
+{
+    "metadata": {
+        "title": "Pronator Teres Syndrome \u2022Notify physician immediately on positive findings for complex regional pain syndrome (CRPS), cervical radiculopathy, or DVT",
+        "synonyms": [
+            "pronator teres compression mononeuropathy",
+            "mononeuropathy, pronator teres compression",
+            "compression mononeuropathy, pronator teres",
+            "pronator teres entrapment neuropathy",
+            "neuropathy, pronator teres entrapment",
+            "entrapment neuropathy, pronator teres",
+            "pronator teres idiopathic mononeuropathy",
+            "mononeuropathy, pronator teres idiopathic",
+            "idiopathic mononeuropathy, pronator teres",
+            "pronator syndrome"
+        ],
+        "anatomical location body part affected": [
+            "Pronator teres (proximal volar forearm) causing compression of the median nerve"
+        ],
+        "area of specialty": [
+            "hand therapy",
+            "neurological rehabilitation",
+            "orthopedic rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Pronator teres syndrome is a rare compressive neuropathy of the median nerve caused by compression from the pronator teres in the proximal forearm(9)",
+            "A diagnostic challenge, especially in mild cases.(2) Careful differential diagnosis is required because symptoms overlap with carpal tunnel syndrome, a much more common median nerve injury, as well as with other neuropathies in the upper extremity (e.g., anterior interosseous syndrome, brachial plexus neuritis)(9)",
+            "Research is lacking to guide treatment strategies"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G56.1": "Other lesions of median nerve",
+            "G56.8Other": "specified mononeuropathies of upper limb",
+            "G56.9": "Unspecified mononeuropathy of upper limb (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No specific special insurance agencies or legal issues have been identified regarding the reimbursement for this condition"
+        ],
+        "presentation signs and symptoms": [
+            "Variable clinical presentation",
+            "Paresthesias in the median nerve distribution",
+            "Aching in the volar forearm",
+            "Tenderness over pronator teres",
+            "Symptoms initiated or aggravated by prolonged and/or repetitive wrist and forearm activities",
+            "Possible signs/symptoms \u2013Sensory deficit in the radial three digits, the radial half of the fourth digit, and the palm \u2013Grip strength weakness (usually mild) compared to the unaffected side \u2013Pronator teres hypertrophy Causes, Pathogenesis, and Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "In postoperative cases, request instructions from a physician regarding precautions for mobilization and the expected outcome",
+            "Notify physician immediately on positive findings for complex regional pain syndrome (CRPS), cervical radiculopathy, or DVT"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Repetitive gripping or forearm pronation (e.g., hammering, dishwashing, tennis) leadingto pronator teres hypertrophy(9)",
+            "Local trauma, schwannoma, and with renal dialysis in patients on anticoagulation therapy(9)"
+        ],
+        "pathogenesis": [
+            "The site of median nerve compression is usually between the two heads of the pronator muscle. In some cases thecompression may be at other sites, including the ligament of Struthers and bicipital aponeurosis (lacertus fibrosus) and thearcade of flexor digitorum superficialis(1,9)",
+            "The severity of median nerve injury and resulting symptoms depend on the degree and duration of the applied pressure",
+            "Pronator teres syndrome may be mistaken for carpal tunnel syndrome(9)"
+        ],
+        "risk factors": [
+            "Repetitive overuse of upper extremity with wrist pronated (activities listed under Causes )",
+            "Female sex: women are 4 times more likely to develop pronator teres syndrome than men(4)",
+            "Physiological hypertrophy of pronator teres",
+            "Anatomical/congenital variants that may cause entrapment(1,9,11)\u2013Presence of a fibrous band at the site where the median nerve passes between the two heads of the pronator muscle\u2013Abnormally enlarged pronator muscle\u2013Aponeurotic bridge of the flexor digitorum superficialis muscle\u2013Thickening of the of the bicipital aponeurosis\u2013Anomalous median artery"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Symptoms of acute illness include fever, chills, night sweats, nausea, vomiting, diarrhea",
+        "Deep vein thrombosis (DVT), which may disqualify the patient from physical therapy because exercising the involved limb is contraindicated",
+        "Older adult patients who may require multidisciplinary rehabilitation or special considerations for examination and treatment, such as those with mobility restrictions, cardiopulmonary disease, or diabetes reduced cognitive function secondary to dementia",
+        "Severe depression or anxiety",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "In postoperative cases, request instructions from a physician regarding precautions for mobilization and the expected"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation",
+                "Over an area of peripheral nerve regrowth",
+                "Cold intolerance",
+                "Over an area of peripheral vascular disease",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over an open wound",
+                "Over the superficial nerves",
+                "In the very young or very old",
+                "Poor cognition",
+                "Personal aversion to cold",
+                "Area of poor sensation",
+                "Do not place electrodes near -carotid bodies, cardiac pacemakers or implantable cardioverter defibrillators (ICDs), phrenic nerve or urinary bladder stimulators, phrenic nerve, eyes, gonads, areas with known peripheral vascular disease, areas with hemorrhage, areas with active osteomyelitis",
+                "Impaired sensation, mental status, communication ",
+                "Cardiovascular disease(e.g., uncontrolled hypertension or hypotension, irregular heart rate)",
+                "Malignancy/neoplasms",
+                "Electrodes near compromised skin or neck/craniofacial regions in patients with a history of seizures or cerebrovascular accident",
+                "Proximity to electromagnetic radiation",
+                "In pregnant women; near the pelvis, lumbar spine, hips, abdomen or history of spontaneous abortion",
+                "Over the region of a cardiac pacemaker or other implanted electronic devices",
+                "Over the pelvis, abdominal, and lumbar regions during pregnancy",
+                "In an area with infection or bleeding",
+                "If a tumor or malignancy is present in the area",
+                "Impaired circulation, sensation, or cognition",
+                "In the area of a deep vein thrombosis (DVT) or thrombophlebitis",
+                "Over the heart, stellate, or cervical ganglia",
+                "Over open epiphyseal plates",
+                "Sensory deficits",
+                "Ineffective communication skills in a patient (e.g., impaired cognition, language barrier)",
+                "Circulatory impairments",
+                "Plastic or metal implants",
+                "Peripheral vascular disease",
+                "Always decrease ultrasound intensity if the patient complains of discomfort"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols. Rehabilitation professionals should always use their professional judgment",
+                "Only those contraindications/precautions with regards to modalities applicable to this diagnosis are listed below",
+                "Cryotherapy  contraindications(3)",
+                "Cryotherapy precautions(3)",
+                "Electrotherapy  contraindications/precautions(3)",
+                "Therapeutic ultrasound  contraindications include; do not use:(3)",
+                "Therapeutic ultrasound  precautions(3)"
+            ]
+        },
+        "diagnosis need for treatment": "Pain, tenderness, and paresthesias likely secondary to median nerve compression in the proximal forearm. Symptoms restrict usual activities",
+        "rule out": " Rule out Carpal tunnel syndrome (CTS)(9) \u2013Pronator teres syndrome may be present along with CTS -Researchers in Iran who conducted a study to determine the prevalence of pronator teres syndrome in a cohort of patients with CTS found that in a group of 148 patients with CTS, 8.8% had electrodiagnostically confirmed pronator teres syndrome and 18.2% had clinically confirmed pronator teres syndrome(8) -Authors of a retrospective study of a group of 344 cases found that within the cases 21 patients (6%) had combined CTS and pronator teres syndrome. Patients with isolated pronator teres syndrome had numbness at the thenar eminence but no nocturnal symptoms. In patients with nocturnal symptoms and thenar numbness, combined CTS and pronator teres syndrome should be suspected(10) Anterior interosseous nerve syndrome(9) Brachial plexopathy(9) Cervical radiculopathy(9) Thoracic outlet compression syndrome(9) Peripheral polyneuropathy(9) Overuse of forearm muscles(9)",
+        "prognosis": [
+            "Nonoperative treatment (i.e., rest, activity modification, NSAIDs, injection) should be tried for at least 6 weeks before considering surgery",
+            "For cases requiring surgical intervention(9) \u2013Good outcomes with return to full activities within 6 weeks with isolated pronator teres release \u2013With surgery involving tendon transfers for weakness, increased therapy required and return to activities at 10 to 12 weeks"
+        ],
+        "referral to other disciplines": "Refer patients with continuing pain, tenderness, and/or pain-related  weakness to hand therapist or orthopedic surgeon for further evaluation or acupuncturist for chronic pain ",
+        "other considerations": [],
+        "treatment summary": [
+            "Nonoperative strategies include rest/immobilization (splinting with elbow at 90\u00b0, slight forearm pronation, slight wrist flexion), NSAIDs, corticosteroid injection, activity modifications, modalities, massage, and tendon/nerve gliding exercises. Washington State Industrial Insurance Medical Advisory Committee (IIMAC) guidelines recommend that nonoperative treatment should be trialed for at least 6 weeks(5)",
+            "Postoperative treatment should follow the surgeon\u2019s instructions or general guidelines(2) \u20130\u20137 days: splinting as prescribed, non-weight-bearing \u20137\u201310  days: remove sutures, discontinue splinting as prescribed, start gentle ROM exercises \u20134\u20136 weeks: begin strengthening exercises \u2013Maintenance phase: the trial of return to full activities/sport . Problem Goal Intervention Expected Progression Home Program Pain, tenderness, and paresthesias _ _ Limitation of activities _ postoperative healing phaseResolved symptoms _ _ Protect healing structuresAdaptive devices, physical agents, mechanical modalities, and activity modification _ Splinting, as prescribed. Apply RICE formula (i.e., rest, ice, compression, and elevation), including cryotherapeutic agents; restrict aggravating activities; NSAID for pain controlReduce treatment frequency as symptoms resolveProvide patient with simple instructions to manage pain and to protect healing structures at home during postoperative healing Postoperative edema Resolved edema Therapeutic modalities _ Trial of interferential electrical stimulation, although specific guidelines for pronator teres syndrome are not availableReduce treatment frequency as pain and edema resolveN/A Pain, tenderness, limitation of activities. Pain-restricted ROM and strengthRestore pain-free use of involved arm with normal range and strengthManual and therapeutic exercises _ Massage. Tendon and median nerve gliding exercises at the wrist.(5) ROM and strengthening exercises, as indicatedGradually progress the intensity and duration of exercises as the pain- free range improvesProvide patient with simple ROM, strengthening, and gliding exercises. Independent program of exercises ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "resolution of pain and tenderness": [
+            "V AS"
+        ],
+        "normal rom": [
+            "Goniometry"
+        ],
+        "normal strength": [
+            "MMT"
+        ],
+        "improved functional upper extremity use": [
+            "DASH or Quick DASH",
+            "MAM"
+        ]
+    },
+    "maintenance or prevention": [
+        "Ongoing therapeutic exercises may be necessary to maintain pain-free  use of the involved arm",
+        "Avoidance or modification of aggravating activities to prevent recurrence(9) Hammering Washing dishes Tennis Pouring drinks Carrying books Wringing out clothes"
+    ],
+    "patient education": [
+        "See \u201cNerve Compression Syndromes of the Hand\u201d from Medscape at https://emedicine.medscape.com/article/1285531-overview",
+        "See \u201cPronator Teres Syndrome\u201d from Radiopaedia.org at https://radiopaedia.org/articles/pronator-teres-syndrome-2",
+        "See \u201cPronator Syndrome\u201d from Orthobullets at https://www.orthobullets.com/hand/6020/pronator-syndrome Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Fuss FK, Wurzl GH. Median nerve entrapment. Pronator teres syndrome: surgical anatomy and correlation with symptom patterns. Surg Radiol Anat . 1990;12(4):267-271.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Santiago FH, Vallarino R, Jr. Median neuropathy. Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Elsevier; 2019. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "In: Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz's Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:42-44,127-128,322-323.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Tetro AM, Pichora DR. High median nerve entrapments. An obscure cause of upper-extremity  pain. Hand Clin . 1996;12(4):691-703.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Carter GT, Weiss MD. Diagnosis and treatment of work-related  proximal median and radial nerve entrapment. Phys Med Rehabil Clin N Am . 2015;26(3):539. doi:10.1016/ j.pmr.2015.04.001. (G)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Chen CC, Palmon O, Amini D. Responsiveness of the Manual Ability Measure-36  (MAM-36):  changes in hand function using self-reported  and clinician-rated  assessments. Am J Occup Ther . 2014;68(2):187-193.  doi:10.5014/ajot.2014.009258. (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Chen CC, Bode RK. Psychometric validation of the Manual Ability Measure-36  (MAM-36)  in patients with neurologic and musculoskeletal disorders. Arch Phys Med Rehabil . 2010;91(3):414-420.  doi:10.1016/j.apmr.2009.11.012. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Asheghan M, Hollisaz MT, Aghdam AS, Khatibiaghda A. The prevalence of pronator teres among patients with carpal tunnel syndrome: Cross-sectional  study. Int J Biomed Sci . 2016;12(3):89-94.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Dididze M, Tafti D, Sherman AL. Pronator Teres Syndrome. StatPearls . Treasure Island, FL: StatPearls Publishing; 2021. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hsiao CW, Shih JT, Hung ST. Concurrent carpal tunnel syndrome and pronator syndrome: A retrospective study of 21 cases. Orthop Traumatol Surg Res . 2017;103(1):101-103.  doi:10.1016/j.otsr.2016.10.009. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Olewnik L, Podgorski M, Polguj M, Wysiadecki G, Topol M. Anatomical variations of the pronator teres muscle in a Central European population and its clinical significance. Anat Sci Int . 2018;93(2):299-306.  doi:10.1007/s12565-017-0413-y.  (R)"
+        }
+    ]
+}

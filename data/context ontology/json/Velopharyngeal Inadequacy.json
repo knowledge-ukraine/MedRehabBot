@@ -1,0 +1,521 @@
+{
+    "metadata": {
+        "title": "Velopharyngeal Dysfunction",
+        "synonyms": [
+            "dysfunction, velopharyngeal",
+            "velopharyngeal insufficiency",
+            "velopharyngeal inadequacy",
+            "palato-pharyngeal  dysfunction",
+            "dysfunction, palato-pharyngeal",
+            " velopharyngeal incompetence"
+        ],
+        "anatomical location body part affected": [
+            "Velum (soft palate), pharynx/pharyngeal walls, oral cavity, vocal tract, nasal cavity"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders",
+            "v oice and v oice disorders",
+            "craniofacial and/or oral motor abnormalities"
+        ],
+        "description": [
+            "Velopharyngeal dysfunction (VPD) is a condition in which the velopharyngeal valve does not close consistently or completely during the production of oral speech sounds.(1,2,3)With a normally functioning velopharyngeal valve, the velum and pharyngeal walls form a tight seal to direct air or sound through the mouth for oral speech sounds.(1,2) VPD can lead to hypernasality and/or nasal air emission on oral speech sounds, and can also lead to swallowing difficulties.(4,5) VPD can be caused by a structural defect, a neurogenic defect, or incorrectly learned patterns of articulation(6,7)",
+            "Velopharyngeal insufficiency is a term used to describe an anatomical or structural defect that prevents adequate velopharyngeal closure; this is the most common type of VPD(2,3)",
+            "Velopharyngeal incompetence refers to a neurophysiological disorder in which poor movement of the velopharyngeal structures results in incomplete closure of the velopharynx(2)",
+            "Velopharyngeal mislearning refers to misarticulation that results from a velopharyngeal valve that is open during attempts to produce oral speech sounds(2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "528.9": "other and unspecified diseases of the oral soft tissues",
+            "750.29": "other specified congenital anomalies of pharynx"
+        },
+        "ICD-10 codes": {
+            "Q35.3": "cleft soft palate",
+            "Q35.5": "cleft hard palate with cleft soft palate",
+            "Q35.9": "cleft palate, unspecified",
+            "Q38.5": "congenital malformations of palate, not elsewhere classified",
+            "Q38.8": "other congenital malformations of pharynx _ (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage;no specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Resonance disorders \u2013Hypernasality \u2013 nasal airflow on vowels and voiced oral consonants other than /m/, /n/, and /ng/ (these three sounds are typically produced with nasal resonance) -Increased fatigue or exhaustion (reduced ability to maintain velopharyngeal [VP] closure during repeated or long speech tasks) of the VP muscles.(8) This is seen especially in individuals with a history of cleft palate(9,10) \u2013Hyponasality \u2013 reduced nasality on nasal consonants",
+            "Articulation disorders \u2013Nasal air emission \u2013 often on oral high-pressure  consonants such as /p/, /b/, or /s/(6) \u2013Weak pressure on high-pressure  consonants(6) \u2013Compensatory misarticulations(CMAs)\u2013  to compensate for VPD, individuals may learn to use incorrect articulatory placement (tongue, lip, and pharyngeal/laryngeal movements or valving), which results in compensatory articulation errors(6) \u2013For detailed information on articulation disorders that result from VPD or other organic causes, see C linical Review\u2026 Speech Sound Disorders: Articulation Disorder, Organic ; CINAHL Topic ID Number: T708924",
+            "Hearing loss \u2013 children with VPD are at an increased risk for otitis media with effusion and resulting hearing loss, especially when the VPD is a symptom of velocardiofacial syndrome (VCFS)(11) \u2013For detailed information on conductive hearing loss and the subsequent effects on speech and language development, seeClinical Review\u2026Hearing Loss, Conductive, in Children: Effects on Speech and Language ; CINAHL Topic ID Number: T708613",
+            "V oice disorders \u2013 can result from increased laryngeal tension as the patient attempts to reduce nasal airflow(6)  \u2013Hoarseness(6) \u2013Breathiness(6) \u2013Reduced volume(6) \u2013Muffled speech(12) \u2013For detailed information on voice disorders, see the series of Clinical Reviews on this topic",
+            "Swallowing disorders (dysphagia) \u2013Leakage or regurgitation of liquids into the nasal cavity(6) \u2013For detailed information on dysphagia, see the series of Clinical Reviews on this topic",
+            "Compromised breath support for speech due to air escaping from nose; this can result in shortened sentence length(6)",
+            "Facial grimacing(13) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "History and testing measures may differ according to the specific age and setting of patients",
+            "The following recommendations are a guide and should be altered to addressed the needs of each individual patient"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Cleft VPD \u2013 structural causes\u2013Cleft palate is the most common cause of VPD(3)\u2013Unrepaired palatal clefts(1,7)-Overt cleft, submucous cleft (velar muscles are not completely fused at midline, but there is intact mucosal covering),occult submucous cleft (similar to submucous cleft but without classic signs of bifid uvula, hard bony palate notch, andmidline furrow on the soft palate)(4)-Cleft palate is sometimes a symptom of a syndrome such as VCFS(11)-For detailed information on cleft palate, see Clinical Review\u2026Cleft Lip and Palate ; CINAHL Topic ID Number:T708577\u2013Postsurgical insufficiency following adenoidectomy, adenotonsillectomy, palatal closure, or pharyngeal flap or sphincterpharyngoplasty surgeries(1,7,57)-Postoperatively: There might be residual VPD due to scar tissue causing stiffness of the velum, inherently weak velum,tethering of the velum following maxillary advancement procedures (surgeries performed to normalize dental occlusionor facial profile), and tissue shrinkage of the velum following reconstruction(4)-Up to 30% of individuals with repaired cleft palate (overt and submucous) present with persistent VPD postoperatively,and an even higher percentage has been reported among patients following overt cleft repair(8,14)-The VP muscles (such as the levatorvelipalatini muscle) have been found to have reduced strength and endurancein individuals with repaired cleft palate.(10) In addition, the VP muscles might not be positioned optimally aftercleft-palate repair surgery. These factors can negatively affect VP closure force(9,10)",
+            "Noncleft VPD\u2013Mechanical interference from tonsils, adenoids, or posterior pillar webs can result in hyponasality(2,7)\u2013Deep pharyngeal cavity(2)\u2013Palatopharyngeal disproportion (lack of proportion or symmetry in the palatopharyngeal area) due to cervical anomaliesor a flattened cranial base(7)-Midface advancement surgery may lead to increased palatopharyngeal disproportion and resulting hypernasality,although many studies examining midface advancement surgery are inconclusive or do not find that surgery has animpact on VP status(15,16,17)\u2013Ablative oral palatal lesions such as cancer or various traumatic injuries(1,2)\u2013Laryngeal trauma or amputation leading to laryngectomy-Individuals who communicate using esophageal speech (ES), artificial larynx (AL) speech, or tracheoesophageal speech(TE) may have impaired VP function. ES speakers often present with hyponasal speech and may not release air nasallyas appropriate for nasal consonants(18)-For detailed information on laryngectomy, see Clinical Review\u2026Laryngectomy, Partial ; CINAHL Topic ID Number:T708836and Clinical Review\u2026Laryngectomy, Total ; CINAHL Topic ID Number: T708744",
+            "Cranial nerve defects(2)",
+            "Generalized hypotonia(2)",
+            "Severe hearing loss/lack of auditory feedback(2)",
+            "Neurogenic conditions that cause dysarthria or apraxia(2)\u2013Dysarthria: Spastic dysarthria, flaccid dysarthria, and mixed dysarthria may lead to hypernasal resonance(2,4)-Dysarthria secondary to cerebral palsy(1)-Dysarthria secondary to myotonias-Dysarthria secondary to dystrophies-For detailed information on dysarthria, see the series of Clinical Reviews on this topic\u2013Apraxia: Motor programming disturbances can also cause VP dysfunction(2)-For detailed information on apraxia, see Clinical Review\u2026Apraxia of Speech (Acquired) ; CINAHL Topic ID Number:T708586and Clinical Review\u2026Speech Sound Disorders: Childhood Apraxia of Speech ; CINAHL Topic ID Number:T708586",
+            "Learned: VPD in the absence of anatomic or neurogenic disorders. Signs include phoneme-specific  nasal emission onselective high-pressure  consonants(5)\u2013Sometimes due to deafness or hearing loss(1)\u2013Hypernasality might be learned from faulty speech models(4)",
+            "Stress VPD \u2013 muscle exhaustion(19)\u2013Due to VP mechanism exhaustion\u2013Seen in bass and woodwind musicians"
+        ],
+        "pathogenesis": [
+            "VPD is caused by structural anomalies that are sometimes related to a syndrome. VPD can also result from neurogeniccauses that are congenital or acquired later in life (e.g., due to stroke). In some cases, VPD can be caused by \u201cmislearning,\u201dwhich is when a patient presents with VPD in the absence of anatomical or physiological causes or problems (and thus, theVPD is due to mislearning of speech sound production, sometimes due to poor speech models or fluctuating hearing loss ata young age)"
+        ],
+        "risk factors": [
+            "Genetic/hereditary factors (cleft palate, submucous cleft, and cervical anomalies)(4)",
+            "Surgery (VPD can result from complications of adenoidectomy, tonsillectomy, palatectomy, or pharyngectomy)(4)\u2013Risk of VPD is higher for a combined procedure (i.e., adenotonsillectomy) versus tonsillectomy or adenoidectomyperformed alone(64)",
+            "Hearing loss/deafness(4)",
+            "Closed head injuries(4)",
+            "Neck trauma(4)",
+            "Nerve trauma(4)",
+            "Muscular dystrophy(4)",
+            "Postoperative anoxia(4)",
+            "Postoperative anoxia meningitis(4)",
+            "Subcortical tumors(4)",
+            "Brain and brainstem trauma(4)",
+            "Faulty models (for learned behavior)(4)",
+            "Exaggerated regional dialects(4)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The speech-language  pathologist (SLP) should thoroughly review the patient\u2019s medical history before conducting an evaluation or treatment",
+        "The SLP might advise the patient to undergo hearing screening/testing prior to assessment",
+        "The SLP should work with other medical professionals when treating patients with VPD ",
+        "The SLP must be aware of cultural and linguistic background of the patient, as this can affect assessment and treatment protocol",
+        "When working with pediatric patients, the SLP should involve parents as well as the patient\u2019s teachers and other therapists (collaborative model) in the assessment and treatment process for more accurate information and best results",
+        "The SLP must be aware of patient\u2019s pain and tolerance level as well as attention span, anxiety levels and any other behavioral issues",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "History and testing measures may differ according to the specific age and setting of patients",
+            "The following recommendations are a guide and should be altered to addressed the needs of each individual patient"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -What is the underlying cause of VPD? -What is the reason for the current evaluation/treatment? -Which physicians or types of physicians (e.g., pediatrician, otolaryngologist, cleft palate team) follow and care for the patient? -What are the concerns of the patient/patient\u2019s family/physician? -What signs or symptoms of VPD are exhibited by the patient? When did the patient first exhibit these symptoms?",
+                "course of treatment": {
+                    "medical management": "What is the patient\u2019s general health status and issues? Review medical records, as well as any previous therapy (speech therapy, occupational therapy, or physical therapy) records, especially those pertaining to VP dysfunction. Has the patient received any surgical recommendations or undergone any surgery? If so, what type of surgery and at what age? What is the patient\u2019s current orthodontic status? Ear health status? Does the patient show any signs of apraxia or dysarthria?",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Oral mechanism examination",
+                        "Perceptual speech testing",
+                        "Nasometry",
+                        "Aerodynamic assessments to measure oral pressure and oral airflow during speech and to estimate the size of the VP gap",
+                        "Nasoendoscopy and video fluoroscopy",
+                        "Magnetic resonance imaging (MRI)/dynamic MRI (MRI viewed in real time)(20,21)",
+                        "MRI has a few advantages over other instrumental measures. It allows noninvasive and reproducible imaging of a wide oropharyngeal area. MRI can be used to view status and functional anatomy of the velopharyngeal muscles, as well as the VP ratio of velar length to pharyngeal depth. (VP ratio < 1.0 may be the cause of persistent postoperative VPD.)(20) MRI is also effective in measuring the levatorvelipalatini (LVP) muscle, and can evaluate occult submucous cleft palate. Disadvantages include difficulty tolerating MRI without sedation (for children), which limits the ability to analyze LVP speech function, and cost. In addition, some important measures might be missed as",
+                        "only twodimensional  imaging is possible(5)",
+                        "Swallowing evaluation",
+                        "Hearing testing"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture, music therapy) and whether or not they help(61)",
+                    "previous therapy": "Document whether the patient has had previous speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful "
+                },
+                "aggravating easing factors": "Are there any situations which seem to exacerbate or ease the patient\u2019s symptoms? Are certain sounds or words produced with greater nasality or nasal air emission?",
+                "body chart": "Use a body chart to document location and nature of symptoms (e.g., oral cavity, nasal cavity, pharynx)",
+                "nature of symptoms": "Document the nature of symptoms (e.g., constant vs. intermittent). In patients with VPD, food bolus or liquids might leak into the nasal cavity in the absence of a tight VP seal(22)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess symptoms (such as hypernasality, swallowing issues, voice changes) at their best, at their worst, and at the moment",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night) or when patient is fatigued",
+                "sleep disturbance": "Document number of wakings/night -For patients who have had any type of surgical management of VPD, potential complications include obstructive sleep apnea and snoring.(23,24) The pharyngeal flap procedure has a greater risk of leading to sleep apnea, especially compared to the effect of the Furlowpalatoplasty(25) -Patients should be counselled about the risk of postoperative obstructive sleep apnea and should be referred for a polysomnographic evaluation (sleep study) as indicated(3,58)",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician, geneticist, or social worker/psychiatrist (e.g., anxiety or attention issues)",
+                "respiratory status": "Document mouth vs. nose breathing. Ask the patient or parent/caregiver questions related to nasal breathing and any possible nasal obstructions(12) -Does the patient experience chronic daytime fatigue, personality changes related to nasal obstruction, congestion, morning headaches, excessive sleep, snoring, choking spells at night, frequent awakenings at night, shortness of breath during exercise, mouth breathing, decreased appetite, arrested growth, lessened sense of smell, difficulty eating and swallowing, hyponasal speech, chronic nasal drainage, or frequent colds?(12)Note any behavior issues -Does the patient suffer from anxiety or attention issues? Has the patient been seen by a psychologist or social worker? -Children with VPD have a reduced quality of life (QOL) as compared to typically developing peers due to perceptions of speech, swallowing, situational and emotional difficulty, perception of the individual by others, and activity limitations(26) -Velopharyngeal Insufficiency Quality of Life (VPIQL)questionnaire  Children are asked to complete a survey (with their parents\u2019 help if necessary or if the child is too young) to indicate their perceptions regarding speech limitations, situational difficulty, swallowing problems, emotional impact, perception by others, activity limitation, and caregiver impact. This assessment can be used on patients of all ages(26)A scale that was developed specifically to examine the effect of VPD on QOL in children. The VELO has both parent-  and child-reported  sections and is intended to be used as a baseline and outcome measure for children undergoing surgery for VPD(63) -Pediatric Quality of Life Inventory, version 4.0  This is a standard assessment that measures patients\u2019 and parents\u2019 perceptions of QOL in patients with chronic health problems. The inventory addresses problems with physical functioning, emotional functioning, social functioning, and school functioning.(26) Patients 5 years and up can self-report,  but even patients as young as 2 years of age can be assessed using this measure through parent reports -Refer to mental health professional as appropriateDocument hearing status, including hearing loss and use of hearing aid(s) or cochlear implant(s). Children with VPD are at an increased risk for otitis media with effusion and resulting hearing loss, especially when the VPD is a symptom of VCFS(11) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________ "
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Determine any history of cleft palate, neurogenic disorders, surgery, palatal lesions, trauma, or hearing loss. Ask about speech and language development, as well as any other speech and/or language deficits that may be unrelated to the VPD. Document if any previous speech/language testing has been done, and if it has, review past reports",
+                    "comorbid diagnoses": "Ask the patient or parents/caregivers about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, dysphagia, learning disabilities, and cognitive delay",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is hypernasality or reduced intelligibility interfering with patient\u2019s ability to communicate at home, in a school setting, or in a work setting?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document if and what type of adaptive equipment the patient is using, such as oral prosthetic devices, wheelchairs, hearing aids, or glasses. Ask the patient and family members about the effect of the patient\u2019s articulation and resonance deficits on participation in social, educational, and/or occupational activities",
+                "living environment": "Obtain information on the patient\u2019s family as well as a description of his or her living environment. Document languages spoken in the home, at school, or at the workplace. Identify if there are barriers to age-appropriate independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Determine if the patient uses a prosthetic oral device. If so, what kind? How does the device impact the patient\u2019s resonance and intelligibility? Does the patient use any type of alternative or augmentative communication (AAC) device? \u2013For detailed information on the use of AAC devices to communicate or utilize in speech therapy, see the series of Clinical Reviews on this topic",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisAssess direction of nasal airflow -The See-Scape  (Pro-Ed,  Austin, TX), a flexible tube that is attached to a foam stopper in another tube is placed in the nostril or mouth and measures airflow velocity as the SLP asks the patient to produce nasal or high-pressure  sounds.(4) If sufficient airflow is directed through the nasal during nasal sounds, the stopper will rise in the tube. Similarly, if sufficient oral airflow is produced during high-pressure  sounds, the stopper will rise -Nasometry \u2013 to analyze the acoustic energy that passes through the oral and nasal cavities during speech production.(6) A nasalance score is provided by this measure.(12) Normal nasalance is between 25% and 33%(16)Determine presence of resonance disorder -Perceptual evaluation (preferably live evaluation) is a subjective measure that is used to make a clinical diagnosis of VPD and to determine if it is appropriate to treat the client for a resonance disorder.(22,29,30) Perceptual evaluation measures should be completed before and after treatment to determine effectiveness of VPD management(30)Make sure the nose is clear of any mucous prior to the evaluation, listen for stridency during nose breathing, place a mirror beneath the nostrils to view fogging patterns, and have the patient repeat words to listen for nasal emission.(22,28) Assess for hypernasality by asking the patient to repeat 10 one-syllable  words beginning with a / b/ and ending with a /t/ (e.g., beet, bit, bait, bet). Patients with VPD will usually exhibit greater nasality on the words with high vowels (/u/ and /i/) and less nasality on words with low (/a/) vowels(22)  -If the patient is unable to produce words, ask him or her to repeat syllables 10-15  times each (/pa/, /pi/, /ta/, and /ti/) and listen for nasal emission(28)The patient should be asked to repeat words and phrases containing high-pressure consonants (e.g., \u201cPass the pepper please,\u201d\u201cTerry took the top hat,\u201d \u201cChoosy kids choose Jif\u201d).(22) Individuals with VPD may exhibit significant hypernasality or nasal air emission on the consonants in the sentences. Sentences with many high-pressure  consonants, especially those that are voiceless (e.g., \u201cSissy sees the sun in the sky\u201d) are the most sensitive to nasal emission(28)Ask the patient to count from 60-80,  which is especially difficult for individuals with VPD. Listen for hypernasality and nasal air emission(22,28) -Cleft Audit Protocol for Speech-Augmented  (CAPS-A)  is a valid and reliable speech tool that can be used to analyze speech articulation and nasality in children over the age of 5 years. Percentage of consonants correct is calculated. In addition, hyponasality is rated on a 3-point  scale ranging from \u201cabsent\u201d to \u201cmarked hyponasality.\u201d Patient hypernasality is rated on a 5-point  scale indicating \u201cabsent\u201dhypernasality to \u201csevere\u201dhypernasality(16) -Temple Street Scale is another perceptual rating of nasality scale that may be used for patients of all ages (who are verbal). Hypernasality is rated on a 6-point  scale, and hyponasality is rated on a 4-point  scale from absent (within normal limits) to severe hyper-  and hyponasality(29) -Instrumental measures -Nasality can also be measured using a nasometer. This system calculates the numeric ratio of nasal to nasal plus oral energy to arrive at a nasalance score. Normal nasalance is between 25% and 33%.(16) Scores above 30% indicate some degree of hypernasality(12) -Researchers stress the need to use instrumental measures, such as a nasometer, in addition to perceptual measures, when assessing hypernasality.(29) Both perceptual ratings and nasalance scores give valuable information and should be used together(23) -Some studies have found positive correlations between nasalance scores and perceptual testing, while other studies have found low correlations. Therefore, nasalance scores should not be used as a substitute for perceptual methods of evaluation.(23) Nasal airflow can be measured using a pneumotachograph and a nasal mask, and can give a SLP quantitative, objective data about velopharyngeal function and timing of velopharyngeal movements(31) -Pittsburgh Weighted Speech Scale can be used to report severity of VPD and hypernasality and is a common perceptual speech assessment tool in (verbal) children of all ages (median age of patients who are tested using this measure is 5.5 years)(32) \u2013Oral manometry \u2013 can be used on patients of all ages to measure intraoral air pressure. Mean oral air pressure below 3 cm H2O is considered abnormal, and may indicate VPD and VP openings during oral speech. If the VP port is not sufficiently closed during oral speech, reduced oral air pressure will result, affecting high-pressure  sounds such as /p, b, t, d, k, g/(27)Visual imaging through instrumental measures can help the SLP, surgeon, and team decide if management through surgery is appropriate for the patient, and if so, which surgical procedure is best(30)Research literature supports the use of both of these measurements to directly visualize velopharyngeal gap size and velopharyngeal function(5,33) -Flexible fiberopticnasendoscopy allows the SLP to visualize the velopharynx during phonation. The degree and pattern/type (coronal, sagittal, circular, circular with Passavant\u2019s ridge) of VP closure can then be observed.(22,33) Closure pattern is important when deciding which surgical procedure is appropriate.(23) In addition, tonsils and adenoids, fistulas, and submucous clefts can be identified(33) -Use instrumental measures to determine the size of the VP gap (which has been found to be positively associated with VPD severity), the location of the gap, the shape of the gap, the consistency of the gap, and the movements of the velum, lateral pharyngeal walls, and posterior pharyngeal wall(33) -Document atypical patterns(22) -Asymmetrical valving of the VP port -A deep midline indentation of the velum, which may allow air to escape -A prominent bulge of the midline velum, which may allow air to escape from the sides  -Midline indentation of the adenoid tissue, which may allow air to escape from the midline -A midline bulge of the adenoid tissue may allow escaped air from the lateral sides -During nasendoscopy, note ability to drink juice from a straw (note any leakage), blow out a candle, whistle, start a yawn (document the presence of strong velar elevation), and repeat words from the Nasal Emission Test, the Pressure Consonants Test, and the counting test. Observe VP function during tasks(22) -Nasendoscopy allows the examiner to observe abnormalities in the bird\u2019s eye view and shows velar elevation.(33)Nasendoscopy is often used in postoperative evaluations for individuals with repaired cleft palate(5) -Because of the cost of MRI, and the radiation exposure associated with videofluoroscopy, nasendoscopy is the most commonly used instrumental measurement of VP(5) -Multiview videofluoroscopy (MVF) allows anterior-posterior  and lateral views of the velopharynx and can be used to analyze pharyngeal and palatal movements.(5) MVF allows a better view of lateral wall movement than does nasendoscopy(33) -Videofluoroscopy imaging is better in the coronal plane as compared to MRI(5) -Lateral cephalometric radiographs can give information about the relationship of the velum to the posterior pharyngeal wall, velar length, pharyngeal depth, size of VP opening, and size of adenoid tissue relative to VP area. This assessment does not allow for observation of VP activity in movement(12) -Levator muscle electromyography can be used to assess LVP muscle activity and can also be used to as a preoperative assessment to determine if a patient is at higher risk for developing VPD as a result of maxillary advancement surgery. Reduced LVP activity might be associated with higher probability of postoperative VPD(34)",
+            "speech and language examination": " Speech and language examination \u2013Speech -Assess phonemic inventory and articulation accuracy by collecting a conversational speech sample; calculate percent phonemes correct (PPC)(11) -Assess articulation in various contexts (e.g., single words, connected speech, sentences with oral consonants, sentences with nasal phonemes, low pressure sentences (sentences with a high frequency of vowels, liquids and glides such as /j, l, w/), high-pressure  sentences (sentences with a high frequency of pressure sounds such as /p, b, t, k/ and other stops and fricatives) to assess intelligibility, articulation, and phonological accuracy (as well as resonance) and for the presence of nasal air emission(6) -Document the presence of any compensatory articulation errors and the context in which they occur(6) -CMAs are learned articulation errors that a child with cleft palate or VPD sometimes use to achieve appropriate pressure-valving  needed for speech. CMAs greatly impact speech intelligibility. Examples of CMAs are glottal stop, pharyngeal stop, pharyngeal fricative, pharyngeal affricate, posterior nasal fricative, nasal fricative, and mid-dorsum palatal stop(27,28) -Obligatory errors of articulation are errors that occur even when a person makes the correct articulatory placement but the speech sound is produced abnormally due to the structural abnormality(28) -For example, a patient with VPD might use correct articulation placement for the sound /b/, but it is heard as /m/ because of a large velopharyngeal opening during speech and significant loss of nasal air(28) -Complete standardized assessments of articulation as indicated (e.g., Goldman-Fristoe  Test of Articulation \u2013 Third edition [GTFA-3])Test perception and discrimination abilities by using a minimal-pair identification task. (If the examiner asked the patient to point to \u2018man\u2019 and the patient instead points to \u2018pan\u2019, this demonstrates a failure to  discriminate between the nasal and oral stops.)(11) Due to increased risk of hearing impairment, it is important to assess discrimination abilities Articulation Disorder, Organic , referenced abovePerform a screening of the patient\u2019s receptive and expressive language skills. If necessary, complete a full language assessment -For detailed information on assessment of language disorders, see the series of Clinical Reviews on this topicProvide a voice evaluation if there is indication of a voice disorder -For detailed information on assessment of the vocal mechanism and voice disorders, see the series of Clinical Reviews on this topicProvide a fluency evaluation if there is indication of a fluency disorder -For detailed information on assessment of fluency disorders, see the series of Clinical Reviews on stutteringProvide an evaluation of reading and writing as necessary",
+            "neurological examination": "",
+            "oral structure and oral motor function": " Oral structure and oral motor function \u2013Complete anatomical survey of oral articulators (tongue, teeth, lips, cheeks, hard and soft palate, oral cavity). Describe dentition and occlusion. Refer to physician\u2019s (ENT or other physician) notes concerning nature of tonsils, adenoids, and oral/nasal cavitiesNormal/abnormal mucosal covering, velar cleft, velar symmetry, velar atrophy, velar length, deep oropharynx, tissue edema, tissue erythema (reddish coloring), hypertrophied tonsils, lesions or growths, bifid uvula, and presence of posterior nasal spine (feel for a notch in bony hard palate near the back of the mouth; a sign of submucous cleft)(4) \u2013Complete assessment of velar activity. The client is asked to open his or her mouth wide and say /a/ for as long as possible -Midline symmetry and range of velar retraction and elevation(4) -Length of velum(4) -Mass of velum (thin or thick)(4) -Velar deviation to one side(4) -Limited velar motion bilaterally(4) -Hypernasality(4) -Gag reflex (SLP observes for normal, absent, or hypoactive response)(4) \u2013If VPD is due to neurogenic causes, an oral motor examination that tests cranial nerve functioning and sensitivity might be appropriate",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "VPD can result in bolus leakage through nasal cavity \u2013Bedside swallow examination (BSE) \u2013 document leakage of bolus from the nasal cavity. For detailed information,In-depth  Bedside Swallow Examination (Pediatrics) ; CINAHL TopicT709064and Clinical Review\u2026Dysphagia AssessmentT709037 \u2013Videofluoroscopic swallowing study (VFSS) modified barium swallow (MBS) \u2013 instrumental swallowing studies can determine if there is any leakage of food or fluids into nasal cavity. For detailed information, see Clinical Review\u2026Modified Barium Swallow (Pediatrics) ; CINAHL Topic ID NumberModified Barium Swallow (Adults) ; CINAHL Topic ID Number",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "SLPs treating patients with VPD should be trained to interpret assessments of VPD such as videoendoscopy, and should be informed about the current surgical and other treatment options for VPD.(35) SLPs need to work collaboratively with other medical professionals to interpret assessment and instrumentation results",
+                "SLPs should note that VP function as well as nasality are difficult to measure in children under the age of 3 years, and particularly under the age of 6 months, as VP function is still developing(36)",
+                "Developmental status of the patient should be taken into consideration when deciding course of treatment or intervention. When surgical intervention is not appropriate, trial speech therapy may be recommended with close monitoring until the management team agrees that surgical intervention is beneficial(12)",
+                "Oral-motor  therapy (or nonspeech oral-motor  exercises), which includes blowing, pushing, inhibition techniques, and sucking massage, has not been found to be beneficial or effective in improving VP closure. Such techniques should not  be used in the treatment plan for VPD(37,38,39,40)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Diagnosis is made by an SLP, ENT, physician, or craniofacial specialist based on perceptual and instrumental assessments. It is important that the underlying cause of VPD is determined as all VPD is not managed in the same manner. VPD caused by VP insufficiency is due to a structural deficit, so this can only be corrected by physical management and not speech therapy; once the structural abnormality is corrected, speech therapy can improve function (i.e., speech, articulation, and intelligibility)(2) ",
+        "rule out": "The patient\u2019s medical team will diagnose or rule out underlying syndromes associated with VPD, such as 22q11 microdeletion syndrome.(41) Rule out VPD due to mislearning or dialectal factors before considering surgical management. Rule out VPD due to structural factors before considering speech therapy as the sole management modality",
+        "prognosis": [
+            "In a study conducted in Sweden, researchers analyzed the results from self-assessment  questionnaires of 114 individuals (ages 7 to 71) who had undergone treatment, including surgery and speech therapy, for VPD. In this study of subjective outcomes, 71% of the patients reported that their speech was normal or slightly deviant; however, only 55% reported that they were satisfied with their speech. Of the individuals who had undergone surgery, 60%reported that it improved their speech much or very much, 10% reported moderate improvement, and 30% reported no or little improvement. Of the individuals that had participated in speech therapy, 41% reported that it had improved their speech much or very much, 21% reported moderate improvement, and 33% reported no or little improvement(56)",
+            "Authors of a retrospective study conducted in Canada that included a sample of 519 pediatric patients who underwent tonsillectomy, adenoidectomy, or adenotonsillectomy reported that VPD that occurred after surgery was typically temporary and lasted less than 6 months postsurgery(64)"
+        ],
+        "referral to other disciplines": "Refer to physician, audiologist, or mental health professional as indicated and appropriate",
+        "other considerations": [
+            "Surgical/medical management of VPD \u2013Surgical correction of structural issues is the most common method of treatment -Potential complications include persistent VPD, obstructive sleep apnea, snoring, and flap dehiscence (separation from point of attachment).(23) The pharyngeal flap procedure has a greater risk of leading to sleep apnea, especially compared to the effect of the Furlowpalatoplasty.(25) Nasal airway obstruction complications might not be transitory, but rather, long-term  and possibly permanent effects of pharyngeal flap surgery(42) \u2013Surgical management of VPD should only be performed once the underlying cause of the VPD has been confidently established(3) \u2013Primary palatoplasty is indicated to correct cleft palate and associated VPD.(10) However, as palatoplasty to correct cleft palate is often performed at a young age and before the development of speech and language, VPD often only becomes evident postoperatively.(30) Postoperatively, patients may still have fatigue of velopharyngeal muscles during conversational speech tasks and mildtomoderate hypernasality(10) \u2013Secondary surgeries might be necessary to reduce persistent postoperative VPD(8) -Palatal procedures -Furlowpalatoplasty \u2013 Furlow double-opposing Z-plasty  works well for patients with sagittally oriented LVP muscles and small VP gap size(30) -In a retrospective study conducted in the United States of 49 patients who had either undergone pharyngeal flap or Furlow double-opposing  Z-plasty,  researchers found that the two procedures were equally effective in reducing hypernasality. Neither procedure resulted in significant hyponasality or nasal obstruction. The results of this study support the importance of preoperative evaluation and the assessment of degree of VPD, which is vital when determining a course of treatment or management(43) -In a retrospective study conducted in the United States, researchers analyzed pre- and postoperative videofluoroscopic and speech data for 29 children (ages ranged from 3.5 to 14.3) who underwent Furlowpalatoplasty to correct VPD. In this study, the total length of the soft palate increased by 19-20%  and there was videofluoroscopic evidence of significant levator musculature tightening and retropositioning. Significant speech improvement with respect to increased accuracy of articulation and reduced nasal emission/hypernasality was also documented in all of the children in this study. Researchers concluded that speech improvement was most consistently associated with levator tightening following Furlowpalatoplasty(62) -Intravelarveloplasty -Palatal pushback -Pharyngeal procedures -Sphincter pharyngoplasty \u2013 more appropriate for patients who exhibit poor lateral pharyngeal wall movement(30)  -In a10-year  retrospective analysis of sphincter pharyngoplasty conducted in the United States, researchers found an 87% success rate with this procedure as a means of management for velopharyngeal insufficiency; concomitant Furlowpalatoplasty and sphincter pharyngoplasty improved outcomes even more than sphincter pharyngoplasty alone(44) -Posterior pharyngeal wall augmentation \u2013 for mild VPD and patients with a small coronal gap(23) -Velopharyngoplasty is effective in reducing hypernasality and improving intelligibility according to a study conducted in France with 20 patients (11 with 22q11 microdeletion, 9 with nonsyndromic and noncleft VPD). Surgical treatment was found to be effective in 91% of the syndromic group, and in 89% of the nonsyndromic group(41) -In a study conducted in Switzerland of 234 children with cleft palate and VPD, researchers found that pharyngeal flap surgery has a greater positive effect on speech in children with unilateral cleft palate as compared to bilateral cleft lip and palate. In fact, in children born with unilateral cleft lip and palate, 59% exhibited excellent speech following this procedure. In children with VPD and no cleft, the surgery had only a slightly positive impact on speech (only 29.4% had excellent results), especially when the child was already exhibiting CMAs(45) -Research indicates that type of VP closure pattern may be a predictor of successful pharyngeal flap surgery resulting in normal resonance balance. A higher percentage of patients with noncoronal closure patterns are able to achieve normal resonance following surgery than are patients with a preoperative coronal closure pattern. In addition, preoperative velopharyngeal gap size is significantly associated with continued VPD postoperatively. Thus, closure pattern and velopharyngeal gap size could be predictors of likely surgical success(5) \u2013Pharyngeal implants(46) -Material such as Proplast I can be used as implant material to effectively reduce VPD and hypernasality -Implants are sometimes used as an alternative to pharyngeal flap surgery -Implants can be effective for reducing VPD, especially in younger patients and patients who need smaller implants \u2013Teflon injections(47) -Teflon injections form a pad intended to augment posterior pharyngeal wall -Teflon injections are a safe and effective alternative to pharyngeal flap surgery -In a long-term  study conducted in the United States, researchers found that the injections had a 74% success rate in reducing VPD, hypernasality, and NAE(47) \u2013Pharyngeal and velar fat injections(48) -Performed under general anesthesia(48) -Fat can be harvested from the lower abdomen or inner thigh by liposuction(48) -Fat is injected into the velum and lateral nasopharyngeal walls(48) -In a study conducted in Italy including 10 patients (ages 5-48)  with VPD due to VP insufficiency, researchers found that this procedure is straightforward, minimally invasive, and can result in reduced hypernasality, reduced nasal air escape, and improved intelligibility of speech(48)",
+            "Pharyngeal flap surgery requires that a physician/surgeon conduct a careful evaluation of the carotid arteries through the use of MRI, especially in clients with VCFS. Individuals with VCFS may exhibit medialized carotid arteries, which may complicate surgery(5)",
+            "Infants and toddlers with VPD may benefit from early audiological intervention to address the increased risk of middle ear disease(5)",
+            "Early intervention and management might also prevent development of CMAs and phonological disorders(11)"
+        ],
+        "treatment summary": [
+            "Speech therapy \u2013The principles of speech therapy intervention for patients with VPD are as follows: -Determine which phonemes to target first based on stimulability testing as these sounds are likely to have the greatest impact on intelligibility; these may not necessarily follow developmental sequence of acquisition(37) -Utilize a phonological approach if there are several errors in one class of speech sounds(37) -Include visual and auditory discrimination tasks to ensure that the child can perceive the difference between an error sound and the target sounds(37) -In general, begin with anteriorly produced sounds as they are most visible(37)  -For continuant sounds (such as /l/, /r/, /f/, or /s/, in which the closure of the vocal tract is incomplete, allowing the continuous passage of the breath), begin with the voiceless cognate and add voicing; for plosives (e.g., /b/, /p/), the voiced cognate is easier in most cases(37) -Begin with the sound in isolation for continuants; begin with consonant-vowel  syllable for plosives (e.g., /ba/)(37) -Establish the sound in syllables correctly prior to moving to single words(37) -Establish placement first, then manner (including voicing)(37) -When transitioning from teaching one sound to the next, change only one feature at a time (i.e., placement, manner, voicing, or movement)(37) -If the patient has difficulty transitioning from the consonant to the vowel, separate them with an /h/ sound and gradually close the time gap to achieve the desired syllable (i.e., /p/\u2026/ha/)(37) -For most sounds, establish the sound in initial position before attempting to work on the other positions; an exception for this principle is the /r/ sound which is a continuant in the final position and should be established first(37) -Educate the patient\u2019s parent(s)/caregiver(s) about how to practice sounds at home (even as little as 10 seconds at a time) several times per day; provide specific instructions(37) \u2013In many cases, some speech (articulation) treatment is warranted even before surgical management of structural anomalies. Articulation therapy may be helpful in both improving articulation errors and improving degree and strength of velopharyngeal closure. Direct treatment aims to both improve articulatory placement as well as eliminate VP mislearned patterns and CMAs(6,27) \u2013Specific techniques -Improving articulatory placement(6,27) -Use visual cues -Use nasal occlusion as necessary at start of treatment to direct air flow -Develop appropriate articulatory awareness and precision -Eliminate VP mislearned patterns(6,27) -Train awareness of nasal airflow through the use of auditory, visual, and tactile feedback -Encourage overarticulation and increased volume to improve articulatory accuracy -Use negative practice and description exercises to increase client awareness. This is done by asking the patient to produce the incorrect production on purpose \u2013Sometimes, the cleft palate/craniofacial team chooses to recommend speech therapy (velar training) for a trial period before resorting to surgery. However, velar training might not help with consistent audible nasal emission on high-pressure  consonants. In addition, velar training is not recommended unless at least some velopharyngeal closure ability is observed. If velar training is recommended, patients should be closely monitored throughout the process(22)",
+            "Corrective Babbling (CB) \u2013CB is a phonetic-based,  parent-implemented  treatment approach that was designed for children who have articulation errors related to cleft palate. In CB, children are taught to repeat nonsense syllables in nonmeaningful contexts (i.e., babbling) as the foundation for later word, phrase, and sentence productions. The goal is to reproduce babbling that occurs in typically developing infants as the foundation for normal articulation.(59) CB is implemented by parents or teachers who have been trained by an SLP(59) \u2013In a study conducted in Canada, researchers investigated the effectiveness of CB in 13 children ages 4 to 16 who were at least 4 months postsurgery for either cleft palate or VPD. All of the children in the study spoke English as their primary language; two of the children had histories of significant exposure to a second language, and one 4-year-old  child\u2019s first language was Chinese, but was primarily exposed to English after being adopted at age 2. Participants in the study were assigned to an immediate treatment group or delayed treatment group to allow for comparisons to be made between groups while still allowing all children the opportunity to have therapy. Each participant\u2019s parent was given a copy of the CB manual and trained by an SLP in therapy delivery. Parents were instructed to provide CB therapy for 10 minutes per day for four months. At the conclusion of therapy, outcome measures were performed. 7/13 parents reported that they took off time from doing the therapy and 6/13 reported reducing the frequency (some participated every other day, others once a week). At the group level, the immediate treatment group did not make significantly greater gains than the delayed treatment group (i.e., during the same time period, those receiving therapy did not make greater speech improvements than those who were not). At the individual level, there were no consistent patterns but most individuals  made significant gains in one or more contexts over the course of 4 months. Parents reported general satisfaction with the program. Researchers concluded that CB therapy holds promise for children with cleft palate or VPD; however, further research is necessary to establish efficacy(59)",
+            "Strengthening exercises \u2013Oral-motor  therapy (or nonspeech oral-motor  exercises), which includes blowing, pushing, inhibition techniques, and sucking massage, has not been found to be beneficial or effective in improving VP closure. Such techniques should not  be used in the treatment plan for VPD(37,38,39,40)",
+            "Biofeedback \u2013VP biofeedback can be effective in reducing hypernasality in individuals with VPD due to mislearning. Patients are taught to change their VP movements by watching the VP port open and close in real time, through the use of a flexible fiberoptic laryngoscope or velopharyngoscope and the necessary video equipment(49) \u2013Using a straw or listening tube, the patient can put one end of the tube at his or her ear and the other end in one nostril; when he or she is practicing speech tasks and nasality occurs, it will be very audible to the patient through the tube(37) -Once the patient is able to hear the nasality, ask him or her to make differences in the articulation patterns to attempt to reduce or eliminate it on nonnasal sounds(37) \u2013In a study conducted in Belgium on the effects of VP biofeedback, researchers found that hypernasality was significantly reduced after 30 therapeutic sessions in the 2 participants (with VPD due to mislearning) who were involved in the study. However, participants continued to demonstrate reduced nasal air emission and inconsistent VP production errors on /s/ and /z/, especially in the final position of the word. Weaknesses of the study included small subject number and lack of information about long-term  improvement maintenance(49) \u2013The See-Scape  can also be used to monitor nasal airflow and provide biofeedback(27)",
+            "Prosthetic management \u2013When surgical management for VPD is contraindicated, prosthetic management is a good alternative as a temporary or permanent treatment option. Sometimes, prosthetic treatment is also used following previously failed surgery, as part of an evaluation of the VP, or as a diagnostic trial.(50) Children with VPD or cleft palate may require feeding plates, maxillary molding devices, palatal obturating plates (used in babies and toddlers while they develop correct articulation), palatal plates to close fistulas, and speech bulbs and palatal lifts.(27) SLPs must help the patient ascertain whether prosthetics are the right choice for him, decide which prosthetic device is the best fit, and, once the device is in place, teach the patient to use oral speech and correct any CMAs. This is done by training the patient to feel and hear the difference between oral and nasal speech, replacing CMAs with oral consonants, and discovering how the prosthetic can help the patient change his or her speech sound production(27) \u2013Palatopharyngeal obturators/pharyngeal bulbs/speech bulb obturator -Custom-made  dental appliances with an acrylic bulb placed in the velopharynx -Some lateral pharyngeal wall movement is important so that lateral pharyngeal walls can approximate the bulb, allowing for oral airflow and resonance -Quiet nasal breathing is still possible through the sides of the bulb -Obturators can also be used as training devices to teach client to maintain oral air pressure(27) \u2013Palatal lifts -Dental appliances with acrylic addition on back lift the soft palate up and back -Best for individuals with long, soft, and immobile soft palates(50) -Can also be used as training devices(27) -Have been shown to improve speech function, especially in individuals with dysarthria(40) \u2013In a study conducted in the United Kingdom involving 16 patients with VPD (mean age 10 years), researchers found that use of prosthetic devices did reduce overall hypernasality and nasal air emission in some patients. No significant differences in hyponasality were found before or after/during the intervention. The majority of patients in this study continued to use their prosthetic devices as long-term  management(50) \u2013Authors of a case study with a 5-year-old  boy with highly unintelligible, hypernasal speech after cleft palate repair and VPD reported on the fabrication of a palatal lift for the child to wear during waking hours. The lift was removable and stayed in place with wire extensions around the teeth. The child in this case study was mature enough to manage basic care and placement/removal of the lift independently. In addition to the palatal lift, the child participated in speech therapy  for 6 weeks targeting elimination of compensatory articulations and use of biofeedback to normalize speech sounds. After two months, the authors reported a marked reduction in hypernasality and compensatory articulations (no specific outcome measures reported)(60) \u2013Nasal obturators may be used to increase oral pressure needed for speech. Nasal obturators or nasal speaking valves (NSVs) can also be used for patients who dislike the palatal lift prosthesis due to increased difficulty swallowing and repeated clinical adjustments(51) -One-way  nasal obturators allow a patient to breathe in, but close during exhalation, precluding nasal emission -Plastic nose frame to fit in nares, with a one-way  valve component(52) -Used in patients when surgery or other prosthetic devices is inappropriate(52) -One-way  valve allows for nasal breathing but reduces escape of nasal air emission(52) -Increases oral pressure needed for speech(52) -An NSV that is custom fitted allows for controlled exhalation and reduced air escape(53) -An NSV is more comfortable and can be worn for longer than a palatal lift(51) -Authors of a case study involving 2 patients with VPD found that the use of a nasal obturator decreased nasal air emission. Some air still escaped during speech through the sides of the obturator. This may be prevented in the future with custom-fitted obturators. Both individuals in the study exhibited improved intelligibility and articulation during the use of the obturator. Weaknesses of the study include small subject number and lack of a control group(52) -Authors of a case study found that a NSV improved overall speech intelligibility and was more effective than the palatal lift device. The patient reported that the NSV was more comfortable than the lift and could be worn for longer. Weaknesses of the study include small subject number (N = 1)(51) -Researchers in Japan found that NSVs improved the intelligibility from 51% to 90% on average in the 7 subjects involved in the study. The study addressed the advantages of NSVs over nasal obturators, asserting that custom fit allows for minimized air escape and more controlled exhalation(53) . Problem Goal Intervention Expected Progression Home Program Hypernasality due to VPD and articulation mislearningDecrease hypernasality Biofeedback _ Velopharyngeal biofeedback is an effective form of therapy for individuals with VPD due to mislearning _ _ See Treatment summary , aboveProgression will vary according to individual patient goals and needsNo home program indicated  Use of compensatory articulation errors, nasal air emission, hypernasality, and incorrect articulatory placementAccurate production of all age-appropriate phonemes, improved VP closure, reduction of hypernasality, increased intelligibilityTherapeutic modalities _ _ Articulation therapy _ _ See Treatment summary , aboveProgression will vary according to individual patient goals and needs; in general, articulation therapy progresses from sound to syllable, word, phrase, sentence, and finally conversational level(37) _ _ See Treatment summary , aboveCollaborate with parent or caregiver; parent education; practice exercises may be done at home; success depends on frequency of practice(37) VPD, hypernasality Increase VP closure force, reduce hypernasalityPrescription, application of devices and equipment _ _ CPAP: Nasal air pressure is applied while the patient produces sounds, syllables and utterances(9) _ _ See Treatment summary , aboveProgression will vary according to individual patient goals, needs, and response to the CPAPNo home program indicated VPD, hypernasality Improve VPD/ decrease hypernasality without (or after) surgery. Often used for individual with dysarthria or other neurogenic causes of VPD(50)Prescription, application of devices and equipment _ _ Palatopharyngeal obturators/pharyngeal bulbs/speech bulb obturator _ _ Palatal lifts _ _ See Treatment summary , aboveN/A Appliance is worn at home as well as other environments  Nasal air emission, hypernasality, poor oral air pressureDecrease nasal air emission and hypernasality, increase oral air pressure needed for speechPrescription, application of devices and equipment _ _ Nasal obturator/ NSV(51,52) _ _ See Treatment summary , aboveN/A Nasal obturator may be worn at home Nasal air escape during playing of wind instrumentsReduce nasal air escape, increase oral air pressurePrescription, application of devices and equipment _ _ Nose peg: occludes the nostrils, preventing nasal air escape; can be used by musicians with VP incompetence(54)N/A Peg can be worn at any time ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "appropriate resonance during speech tasks": [
+            "CAPS-A",
+            "Temple Street Scale",
+            "Pittsburgh Weighted Speech Scale",
+            "Perceptual evaluation of resonance",
+            "Nasometry",
+            "Pressure Consonants Test",
+            "Nasal emission test",
+            "Counting test"
+        ],
+        "improved speech intelligibility": [],
+        "accurate articulation of all speech sounds, including oral phonemes and high-pressure  sounds": [
+            "Complete a phonemic inventory",
+            "CAPS-A",
+            "Standardized tests of articulation (e.g., GTFA-3)"
+        ],
+        "improved swallowing function  e.g., reduced leakage from oral to nasal cavity": [
+            "BSE; instrumental examination of swallowing (e.g., VFSS, FEES)"
+        ],
+        "improved qol": [
+            "Velopharyngeal Insufficiency Quality of Life questionnaire",
+            "Pediatric Quality of Life Inventory, version 4.0"
+        ]
+    },
+    "maintenance or prevention": [
+        "Early intervention and management can help to prevent the development of CMAs"
+    ],
+    "patient education": [
+        "See the \u201cVelopharyngeal Dysfunction\u201d page from the Seattle Children\u2019s Hospital Web page: http://www.seattlechildrens.org/medical-conditions/eye-ear-nose-throat-conditions/vpd/  (55)  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Pannbacker M. Velopharyngeal incompetence: the need for speech standards. Am J Speech Lang Pathol . 2004;13(3):195-201.  (X)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Kummer AW. Types and causes of velopharyngeal dysfunction. Semin Speech Lang . 2011;32(2):150-158.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Pearson GD, Kirschner RE. Surgery for cleft palate and velopharyngeal dysfunction. Semin Speech Lang . 2011;32(2):179-190.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Dworkin JP, Marunick MT, Krouse JH. Velopharyngeal dysfunction: speech characteristics, variable etiologies, evaluation techniques, and differential treatments. Lang Speech Hear Serv Sch . 2004;35(4):333-352.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Rowe MR, Antonio LL. Velopharyngeal dysfunction: evolving developments in evaluation. Curr Opin Otolaryngol Head Neck Surg . 2005;13(6):366-370.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "LeDuc J. Cleft palate and/or velopharyngeal dysfunction: assessment and treatment. Perspect Sch Based Issues . 2008;9(4):155-161.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Trost-Cardamone  JE. : Coming to terms with VPD: a response to Loney and Bloem. Cleft Palate J . 1989;26(1):68-70.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Phua YS, de Chalain T. Incidence of oronasal fistulae and velopharyngeal insufficiency after cleft palate repair: an audit of 211 children born between 1990 and 2004. Cleft Palate Craniofac J . 2008;45(2):172-178.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Moon JB, Kuehn DP, Chan G, Zhao L. Induced velopharyngeal fatigue effects in speakers with repaired palatal clefts. Cleft Palate Craniofac J . 2007;44(3):251-260.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Nohara K, Tachimura T, Wada T. Levator veli palatini muscle fatigue during phonation in speakers with cleft palate with borderline velopharyngeal incompetence. Cleft Palate Craniof J. 2006;43(1):103-107.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Baylis AL, Munson B, Moller KT. Factors affecting articulation skills in children with velocardiofacial syndrome and children with cleft palate or velopharyngeal dysfunction: a preliminary report. Cleft Palate Craniof J . 2008;45(2):193-207.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Smith BE. Speech evaluation of velopharyngeal dysfunction. J Craniofac Surg . 2007;18(2):251-267.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Sie KC, Starr JR, Bloom D. Multicenter interrater and intrarater reliability in the endoscopic evaluation of velopharyngeal insufficiency. Arch Otolaryngol Head Neck Surg . 2008;134(7):757-763.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Milczuk HA, Smith DS, Brockman JH. Surgical outcomes for velopharyngeal insufficiency in velocardiofacial syndrome and nonsyndromic patients. Cleft Palate Craniofac J . 2007;44(4):412-417.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Cedars MG, Linck DL, Chin M, Toth BA. Advancement of the midface using distraction techniques. Plast Reconstr Surg . 1999;103(2):429-441.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Pereira V, Sell D, Ponniah A, Evans R, Dunaway D. Midface osteotomy versus distraction: the effect on speech, nasality, and velopharyngeal function in craniofacial dysostosis. Cleft Palate Craniofac J . 2008;45(4):353-363.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Chanchareonsook N, Samman N, Whitehill T. The effect of cranio-maxillofacial  osteotomies and distraction osteogenesis on speech and velopharyngeal status: a critical review. Cleft Palate Craniofac J . 2006;43(4):477-487.  (RV)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Searl JP, Evitts PM. Velopharyngeal aerodynamics of /m/ and /p/ in tracheoesophageal speech. J Voice. 2004;18(4):557-566.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Malick D, Moon J, Canady J. Stress velopharyngeal incompetence: prevalence, treatment, and management practices. Cleft Palate Craniofac J . 2007;44(4):424-433.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Tian W, Redett RJ. New velopharyngeal measurements at rest and during speech: implications and applications. J Craniofac Surg . 2009;20(2):532-539.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Drissi C, Mitrofanoff M, Talandier C, Falip C, Le Couls V, Adamsbaum C. Feasibility of dynamic MRI for evaluating velopharyngeal insufficiency in children. Eur Radiol . 2011;21(7):1462-1469.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Garrett JD, Deal RE. Endoscopic and perceptual evaluation of velopharyngeal insufficiency (VPD) and hypernasality. J Med Speech Lang Pathol . 2002;10(2):101-109.  (PP)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Keuning K, Wieneke G, Van Wijngaarden HA, Dejonckere PH. The correlation between nasalance and a differentiated perceptual rating of speech in Dutch patients with velopharyngeal insufficiency. Cleft Palate Craniofac J . 2002;39(3):277-284.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Teixeira RP, Reid JA, Greensmith A. Fatty hypertrophy cause obstructive sleep apnea after fat injection for velopharyngeal incompetence. Cleft Palate Craniofac J . 2011;48(4):473-477.  (C)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Liao YF, Noordhoff MS, Huang CS. Comparison of obstructive sleep apnea syndrome in children with cleft palate following Furlow palatoplasty or pharyngeal flap for velopharyngeal insufficiency. Cleft Palate Craniofac J . 2004;41(2):152-156.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Barr L, Thibeault SL, Muntz H, de Serres L. Quality of life in children with velopharyngeal insufficiency. Arch Otolaryngol Head Neck Surg . 2007;133(3):224-229.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Peterson-Falzone  SJ, Trost-Cardamone  JE, Karnell MP, Hardin-Jones  M. In: The Clinician's Guide to Treating Cleft Palate Speech . St. Louis, MO: Mosby Elsevier; 2006:18-48. (GI)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Kummer AW. Perceptual assessment of resonance and velopharyngeal function. Semin Speech Lang . 2011;32(2):159-167.  (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Sweeney T, Sell D. Relationship between perceptual ratings of nasality and nasometry in children/adolescents with cleft palate and/or velopharyngeal dysfunction. Int J Lang Comm Disord . 2008;43(3):265-282.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Dudas JR, Deleyiannis FW, Ford MD, Jiang S, Losee JS. Diagnosis and treatment of velopharyngeal insufficiency: clinical utility of speech evaluation and videofluoroscopy. Ann Plast Surg . 2006;56(5):511-517.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Dotevall H, Lohmander-Agerskov  A, Ejnell H, Bake B. Perceptual evaluation of speech and velopharyngeal function in children with and without cleft palate and the relationship to nasal airflow patterns. Cleft Palate Craniofac J . 2002;39(4):409-423.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Rudnick EF, Sie KC. Velopharyngeal insufficiency: current concepts in diagnosis and management. Curr Opin Otolaryngol Head Neck Surg . 2008;16(6):530-535.  (RV)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Lam DJ, Starr JR, Perkins JA. A comparison of nasendoscopy and multiview videofluoroscopy in assessing velopharyngeal insufficiency. Otolaryngol Head Neck Surg . 2006;134(3):394-402.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Nohara K, Tachimura T, Wada T. Prediction of deterioration of velopharyngeal function associated with maxillary advancement using electromyography of levator veli palatini muscle. Cleft Palate Craniofac J . 2006;43(2):174-178.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Karnell M, Bailey P, Johnson L, Dragan AA. Better treatment foundation for children with VPD. ASHA Leader . 2002;10. (X)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Thom SA, Hoit JD, Hixon TJ, Smith AE. Velopharyngeal function during vocalization in infants. Cleft Palate Craniofac J . 2006;43(5):539-546.  (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Kummer AW. Speech therapy for errors secondary to cleft palate and velopharyngeal dysfunction. Semin Speech Lang . 2011;32(2):191-198.  (RV)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Ruscello DM. An examination of nonspeech oral motor exercises for children with velopharyngeal inadequacy. Seminars Speech Lang . 2008;29(4):294-303.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Shprintzen R, Marrinan E. Velopharyngeal insufficiency: diagnosis and management. Current Opin Otolaryngol Head Neck Surg . 2009;17(4):302-307.  (RV) "
+        },
+        {
+            "number in article": 40,
+            "reference": "Yorkston KA, Spencer JK, Duffy J. Evidence-based  practice guidelines for dysarthria: management of velopharyngeal function. J Med Speech Lang Pathol . 2001;9(4):257-274. (RV)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Rouillon I, Leboulanger N, Roger G. Velopharyngoplasty for noncleft velopharyngeal insufficiency: results in relation to 22q11 microdeletion. Arch Otolaryngol Head Neck Surg . 2009;135(7):652-656.  (RCT)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Yamashita RP, Trindade IE. Long-term  effects of pharyngeal flaps on the upper airways of subjects with velopharyngeal insufficiency. Cleft Palate Craniofac J . 2008;45(4):364-370.  (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Dailey SA, Karnell MP, Karnell LH, Canady JW. Comparison of resonance outcomes after pharyngeal flap and Furlow double-opposing  Z-plasty for surgical management of velopharyngeal incompetence. Cleft Palate Craniofac J . 2006;43(1):38-43.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Carlisle MP, Sykes KJ, Singhal VK. Outcomes of sphincter pharyngoplasty and palatal lengthening for velopharyngeal insufficiency: a 10-year experience. Arch Otolaryngol Head Neck Surg . 2011;137(8):763-766.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "de Buys Roessingh A, Cherpillod J, Trichet-Zbinden  C, Hohlfeld J. Speech outcome after cranial based pharyngeal flap in children born with total cleft, cleft palate, or primary velopharyngeal insufficiency. J Oral Maxillofac Surg . 2006;64(12):1736-1742.  (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Wolford LM, Oelschlaeger M, Deal R. Proplast as a pharyngeal wall implant to correct velopharyngeal insufficiency. Cleft Palate J . 1989;26(2):119-128.  (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Furlow LR, Williams WN, Eisenbach CR, Bzoch KK. A long term study on treating velopharyngeal insufficiency by Teflon injection. Cleft Palate J . 1982;19(1):47-56.  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Cantarella G, Mazzola RF, Mantovani M, Baracca G, Pignataro L. Treatment of velopharyngeal insufficiency by pharyngeal and velar fat injections. Otolaryngol Head Neck Surg. 2011;145(3):401-403.  (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Van Lierde KM, Claeys S, De Bodt M, Van Cauwenberge P. Outcome of laryngeal and velopharyngeal biofeedback treatment in children and young adults: a pilot study. J Voice. 2004;18(1):97-106.  (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Sell D, Mars M, Worrell E. Process and outcome study of multidisciplinary prosthetic treatment for velopharyngeal dysfunction. Int J Lang Commun Disord . 2006;41(5):495-511. (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Suwaki M, Nanba K, Ito E, Kumakura I, Minagi S. Nasal speaking valve: a device for managing velopharyngeal incompetence. J Oral Rehabil . 2008;35(1):73-78.  (C)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Hakel M, Fager S, Beukelman DR, Green J, Marshall J. Nasal obturator for velopharyngeal dysfunction in dysarthria: technical report on a one-way valve. J Med Speech Lang Pathol. 2004;12(4):155-159.  (C)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Suwaki M, Nanba K, Ito E, Kumakura I, Minagi S. The effect of nasal speaking valve on the speech under experimental velopharyngeal incompetence condition. J Oral Rehabil . 2008;35(5):361-369.  (R)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Whitehand B, Gates P. A nose peg: a possible simple solution for musicians with velopharyngeal incompetence. Otolaryngol Head Neck Surg . 2009;141(1):148. (GI)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Seattle Children's Hospital. Chromosomal and genetic conditions: velopharyngeal insufficiency. Seattle Children's Hospital Web site. http://www.seattlechildrens.org/medical-conditions/chromosomal-genetic-conditions/vpi/ . Accessed June 21, 2017. (GI)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Stiernman M, Klinto K, Al Qatani AD, Schonmeyr B, Becker M. Subjective outcomes after treatment for velopharyngeal dysfunction. J Plast Surg Hand Surg . 2015;49(4):198-203.  doi:10.3109/2000656X.2014.988219. (R)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Crockett DJ, Ahmed SR, Sowder DR, Wootten CT, Chinnadurai S, Goudy SL. Velopharyngeal dysfunction in children with Prader-Willi  syndrome after adenotonsillectomy. Int J Pediatr Otorhinolaryngol . 2014;78(10):1731-4.  doi:10.1016/j.ijporl.2014.07.034. (R)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Crockett DJ, Goudy SL. Update on surgery for velopharyngeal dysfunction. Curr Opin Otolaryngol Head Neck Surg . 2014;22(4):267-275.  doi:10.1097/ MOO.0000000000000063. (RV)"
+        },
+        {
+            "number in article": 59,
+            "reference": "Dobbelsteyn C, Bird EK, Parker J, et al. Effectiveness of the corrective babbling speech treatment program for children with a history of cleft palate or velopharyngeal dysfunction. Cleft Palate Craniofac J . 2014;51(2):129-144.  doi:10.1597/12-188.  (R)"
+        },
+        {
+            "number in article": 60,
+            "reference": "Sikka N, Jain R, Kaushik A, Rani R. Prosthetic rehabilitation of a child with velopharyngeal dysfunction - A case report. J Oral Biol Craniofac Res . 2014;4(2):140-143. doi:10.1016/j.jobcr.2014.07.002. (C)"
+        },
+        {
+            "number in article": 61,
+            "reference": "Kilcoyne SC, Carrington H, Walker-Smith  K, Morris H, Condon A. Songs from the Outback: The effectiveness of music in treating articulation disorders in children aged 2-5 years with cleft palate and velopharyngeal dysfunction. Perspect Speech Sci Orofac Disord . 2014;24(2):59. (R)"
+        },
+        {
+            "number in article": 62,
+            "reference": "Pet MA, Marty-Grames  L, Blount-Stahl  M, Stalzman BS, Molter DW, Woo AS. The Furlow palatoplasty for velopharyngeal dysfunction: velopharyngeal changes, speech improvements, and where they intersect. Cleft Palate Craniofac J . 2015;52(1):12-22.  doi:10.1597/13-033.  (R)"
+        },
+        {
+            "number in article": 63,
+            "reference": "Skirko JR, Weaver EM, Perkins JA, et al. Change in Quality of Life with Velopharyngeal Insufficiency Surgery. Otolaryngol Head Neck Surg . November 2015;153(5):857-864. doi:10.1177/0194599815591159. (R)"
+        },
+        {
+            "number in article": 64,
+            "reference": "Khami M, Tan S, Glicksman JT, Husein M. Incidence and Risk Factors of Velopharyngeal Insufficiency Postadenotonsillectomy. Otolaryngol Head Neck Surg . December 2015;153(6):1051-1055.  doi:10.1177/0194599815596494. (R)"
+        }
+    ]
+}

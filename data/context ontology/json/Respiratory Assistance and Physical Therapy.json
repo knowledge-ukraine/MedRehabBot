@@ -1,0 +1,350 @@
+{
+    "metadata": {
+        "title": "Mechanical Ventilation and Physical Therapy",
+        "synonyms": [
+            "ventilation, mechanical, and physical therapy",
+            "physical therapy and mechanical ventilation",
+            "respiratory assistance and physical therapy"
+        ],
+        "anatomical location body part affected": [
+            "Lungs, bronchi, bronchioles, alveoli"
+        ],
+        "area of specialty": [
+            "acute care",
+            "cardiovascular rehabilitation",
+            "pulmonary rehabilitation",
+            "neurological rehabilitation",
+            "pediatric rehabilitation",
+            "home health"
+        ],
+        "description": [
+            "Mechanical ventilation is a method to replace or assist spontaneous breathing when patients are unable to breathe sufficiently on their own. Current practice generally uses positive pressure ventilation to push air or oxygenated air into the trachea and lungs. Positive pressure ventilation can be administered invasively via oral intubation or tracheotomy or noninvasively through the patient\u2019s upper airway using a mask or similar device. The goals of mechanical ventilation are",
+            "decreasing work of breathing",
+            "reversing life-threatening  hypoxemia",
+            "reversing acute progressive respiratory acidosis",
+            "increasing lung volume or preventing atelectasis",
+            "preventing or reversing ventilatory muscle fatigue",
+            "permitting sedation or neuromuscular blockade",
+            "decreasing systemic or myocardial oxygen consumption",
+            "reducing intracranial pressure",
+            "stabilizing chest wall or application of equipment . Desired Outcomes/Outcome Measures"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "Z99.1": "dependence on respirator (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; specific special agencies might be applicable depending on the underlying conditions necessitating mechanical ventilation"
+        ],
+        "presentation signs and symptoms": [
+            "Mechanical ventilation is most often used for a few days to help a patient breathe during critical illness. Usually, this type of breathing support is administered in an ICU",
+            "Some patients who have difficulty discontinuing mechanical ventilation after an acute illness has resolved or who have stable chronic conditions requiring extended breathing support may no longer need to be in the ICU setting. They might receive mechanical ventilation in pulmonary rehabilitation units, in long-term  care facilities, or at home",
+            "Ventilation might be required in infants for reasons that include respiratory distress syndrome, apnea due to prematurity or perinatal anoxia, infection, meconium aspiration, and congenital anomalies",
+            "The mode of ventilation used depends on the patient\u2019s need. The description of the mode of ventilation refers to the method of inspiratory support and is defined by three components: the control variable (volume or pressure), the breath sequencing (mandatory, triggered, or both), and the targeting scheme (how the ventilator is set to respond to variables such as patient\u2019s lung compliance and airway resistance) ",
+            "Common modes \u2013Continuous \u2013 also called controlled mechanical ventilation (CMV) or mandatory CMV \u2013 the machine delivers a preset volume at regular, predetermined intervals regardless of patient activity \u2013Assist control \u2013 the machine is triggered by the initiation of a spontaneous breath and delivers a preset volume \u2013Intermittent (might be synchronized intermittent) \u2013 the machine provides a breath at predetermined intervals while the patient breathes spontaneously. Spontaneous and controlled breaths might be synchronized \u2013Pressure support \u2013 the patient has control over all aspects of the breath except the pressure limit",
+            "Other ventilator settings \u2013Fraction of inspired oxygen (FiO 2) \u2013Tidal volume (Vt) \u2013 the volume of gas moved in a respiratory cycle \u2013 in mL/kg \u2013Respiratory rate/frequency \u2013 typically 10\u201312  breaths/minute \u2013Inspiratory flow rate \u2013 in L/minute \u2013Positive end expiratory pressure (PEEP) \u2013 airway pressure maintained above atmospheric pressure at the end of expiration to prevent the collapse of small airways \u2013 in cmH 2O",
+            "In the critical care setting, ventilation is administered most often via endotracheal tube or tracheostomy. Noninvasive ventilation, the delivery of mechanical ventilation using techniques that do not require an endotracheal airway, might be used, with the potential for greater convenience, comfort, and safety",
+            "High-frequency  ventilation is a type of mechanical ventilation that utilizes a respiratory rate greater than 4 times the normal value and very small tidal volumes. It is thought to reduce ventilator-associated  lung injury(4)",
+            "The level of consciousness of mechanically ventilated patients varies due to sedative use and underlying condition Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Before physical assessment, the clinician is advised to complete a thorough chart review and speak with appropriate nursing/medical staff regarding any recent changes in medical status",
+            "Make a note of all monitors, devices, electrodes, lines, and tubes",
+            "Presence of certain devices might prevent aspects of a complete assessment (e.g., traction, hemodialysis, chest tubes, Swan-Ganz  [pulmonary artery] catheter, arterial lines)",
+            "Note ventilator settings; familiarize self with alarms that might be triggered during PT assessment and treatment. Habitual silencing of alarms is not recommended but might be practiced in certain circumstances with prior approval",
+            "Make a note of hemodynamic status (BP, HR), oxygen saturation, respiration rate (RR) if applicable ",
+            "Check airway stability, cuff inflation pressure",
+            "Maintain slack in tubing and lines when changing positions to avoid apparatus dislodgement",
+            "Excessive movement of artificial airway should be avoided to prevent possible tracheal irritation, accidental extubation, or movement of airway into a single mainstem bronchus",
+            "Patients\u2019 pain should be respected. Ventilated patients are sometimes unable to communicate their needs, including their need for pain control. Pain might result from trauma, surgical incisions, the presence of the endotracheal tube, and numerous procedures in the ICU, and it might be a cause of patients\u2019 agitation",
+            "Detailed safety criteria for mobilizing mechanically ventilated patients in the ICU have been developed. They recommend a review of respiratory considerations, cardiovascular considerations, neurological considerations, and other considerations, including lines and surgical or medical conditions, before mobilization(17)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  mechanical ventilation is used when ventilation is inadequate or when gas exchange in the lungs is ineffective. indications for mechanical ventilation include": [],
+        "pathogenesis:  mechanical ventilation is used to support a failing respiratory system and cannot reverse underlying disease processes. pathogenesis depends on the condition that necessitated ventilation": [],
+        "risk factors": [
+            "Risk factors for the need for prolonged mechanical ventilation\u2013History of lung disease or injury\u2013Rib fractures\u2013Development of V AP\u2013Aspiration\u2013Cardiovascular dysfunction",
+            "Risk factors for mortality\u2013Increased age\u2013Diabetes\u2013Extrapulmonary organ involvement (e.g., renal failure)\u2013Poor functional status before admission to the acute-care  hospital",
+            "Risk factors for V AP\u2013Generally, the longer the duration of mechanical ventilation, the higher the risk for pneumonia\u2013Preexisting conditions such as immunosuppression, COPD, and acute respiratory distress syndrome\u2013Positioning \u2013 the risk is higher in patients in supine position than in patients in semi-recumbent  position\u2013Decreased level of consciousness \u2013 can result in the loss of cough and gag reflexes\u2013Medications including sedatives which increase the risk of aspiration\u2013Presence of nasogastric and orogastric tubes increases the risk of V AP\u2013Hand-washing  practices of healthcare personnel\u2013Noninvasive mechanical ventilation has a lower risk for V AP than invasive ventilation"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+        "Contraindications to exercise/training  (1) High respiratory support requirements Medical instability Cardiovascular instability, including blood pressure (BP) and heart rate (HR) fluctuations with position changes Unstable neurological status (e.g., labile or elevated intracranial pressure, recent stroke or TIA) Thrombophlebitis, embolism Ventricular tachycardia and other dangerous or uncontrolled arrhythmias, new arrhythmias Recent myocardial infarction Unstable angina Decompensated heart failure Myocarditis or pericarditis Active endocarditis Acute myocardial infarction Acute aortic dissection Physical disability that precludes safe and adequate testing (e.g., unstable fractures, unstable spinal cord) Acute infection Sedation, neuromuscular blocking agents",
+        "In spinal cord injury (SCI) patients with lesions at or above T6, there is a risk of autonomic dysreflexia in response to noxious stimuli (see Clinical Review\u2026Autonomic Dysreflexia in Adults ; CINAHL Topic ID Number: T708491 for more information). Symptoms include elevated BP, headache, bradycardia, profuse sweating, flushing of the face, piloerection (goose bumps), cardiac arrhythmias, and blurred vision. Autonomic dysreflexia is a serious and potentially fatal condition requiring immediate action. The precipitating stimulus should be identified and removed, and emergency care obtained",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Before physical assessment, the clinician is advised to complete a thorough chart review and speak with appropriate nursing/medical staff regarding any recent changes in medical status",
+            "Make a note of all monitors, devices, electrodes, lines, and tubes",
+            "Presence of certain devices might prevent aspects of a complete assessment (e.g., traction, hemodialysis, chest tubes, Swan-Ganz  [pulmonary artery] catheter, arterial lines)",
+            "Note ventilator settings; familiarize self with alarms that might be triggered during PT assessment and treatment. Habitual silencing of alarms is not recommended but might be practiced in certain circumstances with prior approval",
+            "Make a note of hemodynamic status (BP, HR), oxygen saturation, respiration rate (RR) if applicable ",
+            "Check airway stability, cuff inflation pressure",
+            "Maintain slack in tubing and lines when changing positions to avoid apparatus dislodgement",
+            "Excessive movement of artificial airway should be avoided to prevent possible tracheal irritation, accidental extubation, or movement of airway into a single mainstem bronchus",
+            "Patients\u2019 pain should be respected. Ventilated patients are sometimes unable to communicate their needs, including their need for pain control. Pain might result from trauma, surgical incisions, the presence of the endotracheal tube, and numerous procedures in the ICU, and it might be a cause of patients\u2019 agitation",
+            "Detailed safety criteria for mobilizing mechanically ventilated patients in the ICU have been developed. They recommend a review of respiratory considerations, cardiovascular considerations, neurological considerations, and other considerations, including lines and surgical or medical conditions, before mobilization(17)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "What is the reason for the current referral?",
+                "course of treatment": {
+                    "medical management": "Admission history, ventilation history including attempts at weaning, use of oxygen. Have there been any complications? Is the patient postoperative? Weaning from mechanical ventilation may be classified into three categories(6) Simple weaning  patients who can be extubated without difficulty on the first spontaneous breathing trial. The majority of patients are in this category Difficult weaning defined  as requiring up to 3 spontaneous breathing trials or as many as 7 days from the first spontaneous breathing trial to be weaned successfully Prolonged weaning  requiring more than 3 spontaneous breathing trials or more than 7 days after the first breathing trial",
+                    "surgical management": [],
+                    "medications": "Medications might be numerous in a critical care setting, and depend on the underlying condition. Make a note of the sedation and the use of neuromuscular blocking agents, cardiac medications, bronchodilators, corticosteroids, and analgesics",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Diagnostic tests will depend on the underlying condition. Typical examples in the acute care setting include",
+                        "chest X-ray",
+                        "blood tests including electrolytes, arterial blood gases, liver function tests, cardiac enzymes, blood sugar level",
+                        "electrocardiogram",
+                        "urinalysis",
+                        "sputum analysis",
+                        "imaging scans  CT scan, ventilation-perfusion  lung scan"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": "Document whether the patient has had a previous attempt at weaning from ventilation and if so, what was the reason for reintubation/ventilation. In patients with chronic respiratory conditions (e.g., COPD, cystic fibrosis), document secretion clearance techniques regularly used"
+                },
+                "aggravating easing factors": "Agitation and anxiety have been shown to exacerbate symptoms of dyspnea, as well as increase HR, BP, and RR",
+                "body chart": "",
+                "nature of symptoms": "In addition to pain, document other symptoms, including dyspnea, anxiety, and agitation. Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if the pain is present now and how much ). The FLACC (Face, Legs, Activity, Crying, Consolability) scale or Checklist of Nonverbal Pain Indicators can be used for intubated (nonverbal) patients",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to external variables including medication",
+                "sleep disturbance": "",
+                "other symptoms": "Document other symptoms patient might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to a physician",
+                "respiratory status": " Respiratory status -Document whether the changes in the patient\u2019s respiratory status that necessitated ventilation were sudden or gradualmode, FiO 2, rate, tidal volume, etc. -PEEP in cmH 2O -Oxygen saturation levels  -Peak airway pressure -Synchrony with a ventilator (vs. fighting the ventilator)PaO 2> 60 mm Hg, PaCO 2 40 mmHg, pH 7.357.45 -Document attempts at weaning, duration of periods of spontaneous breathing, respiration rate -Document results of pulmonary function tests, chest X-ray -Level of consciousness Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has patient previously required ventilation?",
+                    "comorbid diagnoses": "Common comorbid diagnoses include diabetes, cancer, heart disease, myocardial infarction, psychiatric disorders (including agitation, anxiety), fractures, COPD, neuromuscular disorders, CNS disorders, infections",
+                    "medications previously prescribed": "Prior use of medications for the underlying condition might be relevant even if not being administered in the critical care setting (e.g., corticosteroids). In home or longterm  care settings, a list of all prescribed and OTC medications taken should be obtained",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Inquire about smoking history and exposure to dust and air pollutants",
+                "functional limitations assistance with ADLs adaptive equipment": "Document prior functional level as reported by patient and family",
+                "living environment": "Inquire about stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home and if any modifications are necessary. This is relevant to individuals whose use of mechanical ventilation will be ongoing in the home environment, as well as for long-term  planning for patients whose goal is to be weaned before discharge home"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [
+                "Assess vital signs and oxygen saturation and monitor ECG throughout evaluation and treatment",
+                "Determine the mode of mechanical ventilation and ventilator settings",
+                "Auscultate for air entry and breath sounds",
+                "Observe breathing pattern and use of accessory muscles as indicated",
+                "Assess cough for effectiveness and sputum production. Assess color, consistency, amount, and odor of sputum",
+                "Tests of endurance might include the Borg Rating of Perceived Exertion (RPE) Scale and timed measurement of distance walked (e.g., 6-minute  walk for distance test [6MWT])"
+            ],
+            "circulation": "In the ICU setting, immobility in bed is a risk factor for DVT and for skin breakdown. Examine for edema, color differences, and pressure spots; palpate for tenderness; test for Homans\u2019 sign Cranial/peripheral nerve integrity \u2013Thorough assessment of cranial and peripheral nerve integrity might be indicated depending on underlying conditionIn the acute setting, ventilated patients might be very dependent in functional mobility, due to the presence of apparatus and lines. Assess tolerance for upright position. The FIM can be used for objective measurement. For information about functional mobility assessments specific to spinal cord injury, please seeGeneral Overview ; CINAHL Topic ID Number",
+            "functional mobility": "",
+            "gait locomotion": "Depending on the setting, portable ventilators or bedside treadmills might be used for gait/locomotionFractures present in this population might limit mobility and weight bearing. Assess for contractures Patients ventilated due to neurological conditions will require specialized assessments of motor function. Assessment of tone and of patient\u2019s ability to voluntarily move limbs on verbal command is basic",
+            "muscle strength": "Assess limb muscle strength by manual muscle testing (MMT) as indicated. Strength of respiratory muscles can be assessed by measuring the maximal inspiratory and expiratory pressure that the patient can generate using a device such as an inspiratory muscle training device or a manovacuometerVentilation might be required in infants for reasons that include respiratory distress syndrome, apnea due to prematurity or perinatal anoxia, infection, meconium aspiration, and congenital anomalies. Development of chronic lung injury, or bronchopulmonary dysplasia secondary to ventilation, is associated with prolonged hospitalization and long-term neurodevelopmental problems in this population. See Clinical Review\u2026Prematurity \u2013 Acute Care Setting ;T708525 for specific neuromotor assessment scales",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "Assess passive and/or active ROM as indicated",
+            "self-care activities of daily living": "Objective testing of ADLs is limited in the critical care setting. Assessment of ADLs in long-term  ventilated patients might include FIM, Barthel Index of Activities of Daily Living",
+            "reflex testing": "",
+            "sensory testing": "Tests as applicable to the patient\u2019s underlying condition",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Assess patient\u2019s cognition and arousal level. Determine if patient is alert and oriented to time, place, location, name",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Airway clearance techniques",
+                "-Head-down  positions  contraindicated in some neurological conditions, hemodynamic instability, and unstabilized neck injuries",
+                "-Bronchospasm  contraindicates some airway clearance techniques",
+                "-Hyperinflation  lung hyperinflation might be contraindicated in some lung pathologies -Percussion is contraindicated in patients with osteogenesis imperfecta or any condition that causes fragile bones. Precaution should be used if the patient has osteoporosis",
+                "Mobilization/exercise techniques -Need sufficiently high O 2 saturation to support increased oxygen demands of physical therapy",
+                "-Resistance training  generally contraindicated by uncontrolled hypertension (systolic BP > 160 mm Hg and/or diastolic BP > 100 mm Hg) -Contraindicated in neuromuscular diseases that are exacerbated by exercise -Can exacerbate patient agitation or distress",
+                "Over the trunk or heart region in patients with demand-type  pacemakers and implantable cardioverter defibrillators (ICDs)",
+                "Over the pelvic, abdominal, lumbar, or hip region of a pregnant woman",
+                "Over the carotid bodies",
+                "Over the phrenic nerve, eyes, or gonads",
+                "Over areas of known peripheral vascular disease ",
+                "Over areas of active osteomyelitis",
+                "Over areas of hemorrhage",
+                "With patients without intact sensation",
+                "With patients who cannot communicate",
+                "With patients with compromised mental ability",
+                "With cardiac dysfunction (uncontrolled hypertension or hypotension, irregular heartbeat)",
+                "Over active or previous neoplasms",
+                "With electrodes -Over compromised skin, unless treating wound specifically -Over tissues that are vulnerable to hemorrhage -The cervical region in patients with a history of stroke or seizures -Do not use within 5 yards of diathermy units or other sources of electromagnetic radiation"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at the bedside. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Therapeutic activities can increase HR, BP, and oxygen consumption. These should be monitored closely since the patient\u2019s oxygen consumption might already be greater than normal at rest, due to increased work of breathing",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. Contraindications or precautions to specific physical therapy interventions are listed below to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Electrotherapy  contraindications (in some cases, when approved by the treating physician, electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(16)",
+                "Electrotherapy  precautions(16)"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Physical therapy intervention including early mobilization is indicated to facilitate weaning and to minimize adverse outcomes of prolonged immobilization while on mechanical ventilation, such as skeletal muscle weakness, deconditioning, and reduced functional ability V AP, increased sputum production, inadequate secretion clearance, and atelectasis are considered to be indications for chest physical therapy for mechanically ventilated patients Physical therapy is also indicated to improve functional status for patients on long-term  mechanical ventilation",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "A multidisciplinary approach is commonly used in the care of mechanically ventilated patients in the ICU setting. Disciplines include medicine, nursing, physical therapy, respiratory therapy, occupational therapy for ADL training, psychology, and social services. A bundle of evidence-based interprofessional multicomponent ICU management strategies was found to be safe and effective for reducing time on the ventilator in a study conducted in the United States(6)",
+        "other considerations": [
+            "Early mobilization may provide benefits to patients with ICU-acquired  weakness, including promoting euglycemia(22)",
+            "Diaphragmatic pacing \u2013Authors of a multicenter retrospective review of the use of diaphragmatic pacing in the initial hospitalization after SCI found that early laparoscopic diaphragm mapping and electrode implantation can successfully wean patients with traumatic cervical SCI from ventilator support, and is also diagnostic in that a diaphragm that cannot be stimulated indicates an inability to wean. Early implementation of long-term  ventilator management strategies can then be started(7) -Records of 29 patients with SCI were reviewed -Seven of the 29 patients had nonstimulative diaphragms from either phrenic nerve damage or infarction to the phrenic motor neurons -Sixteen of the remaining 22 patients (72%) were completely free of ventilator support in an average of 10.2 days. Two patients had delayed weans and three had partial weans. One patient elected to have life support withdrawn"
+        ],
+        "treatment summary": [
+            "An 8-weekhome-based  physical therapy program that includes progressive resistance training and aerobic interval training was determined to be feasible and safe for a patient who was undergoing home mechanical ventilation treatment and resulted in improvements in ADLs that were maintained for up to 1-year  post treatment(19)",
+            "Chest physical therapy: The goals of chest physical therapy in mechanically ventilated patients are to optimize oxygen transport and ventilation-perfusion matching, increase lung volumes, decrease the work of breathing, and enhance secretion clearance \u2013Manual hyperinflation -Manual hyperinflation is a technique used to provide a greater than baseline tidal volume to the lungs to mobilize secretions and re-expand atelectasis \u2013Airway clearance techniques -Might include percussion, vibration, deep breathing, and coughing as indicated -Expiratory rib cage compression can increase expiratory flow; however, there was no clinically relevant improvement in sputum production and respiratory function in patients receiving mechanical ventilation(21) \u2013Researchers in the United Kingdom found that there are significant disparities in treatment outcomes when ventilated patients are treated by non-respiratory on-call  physiotherapists compared to when patients are treated by specialist respiratory physiotherapists(11) -Based on a prospective randomized crossover trial that involved 22 physiotherapists (10 non-respiratory)  and 93 mechanically ventilated children -Children requiring two physiotherapy interventions during a single day were eligible to participate -Patients received one treatment from a non-respiratory  physiotherapist and one from a respiratory physiotherapist in random order -Treatments were individualized to meet patients\u2019 needs and included re-positioning,  manual lung inflations, chest wall vibrations, and endotracheal suction -The main outcome measure was respiratory compliance. Secondary measures included adverse physiological events and clinically important respiratory changes -There were fewer clinically important improvements following non-respiratory  physiotherapists\u2019 treatments compared with respiratory physiotherapists\u2019 treatments -The authors suggest that targeted training strategies or alternative service delivery models should be explored to address the quality of respiratory physiotherapy services during and outside of normal working hours",
+            "Physical training/mobility : Overall, there is support for the ability of mobility interventions to improve outcomes in mechanically ventilated patients but limited evidence of techniques and protocols to use(2,3) \u2013Early mobilization -In European and Australian ICUs daily physiotherapy has been a standard of care for a number of years(12) -Researchers in the United Kingdom investigated the effect of a quality-improvement  strategy to promote early and enhanced rehabilitation for mechanically ventilated patients in a large tertiary referral ICU(12) -Baseline data on all patients invasively ventilated for at least 5 days in the previous 12 months (n = 290) were compared with patients ventilated for at least 5 days with the introduction of the ICU rehabilitation team during that time (n = 292) -Introduction of the rehabilitation team was associated with a significant increase in mobility at ICU discharge and significant reductions in ICU length of stay, ventilator days, total hospital length of stay, and in-hospital  mortality -Patients\u2019 ratios of respiratory rate to tidal volume, maximum inspiratory and expiratory pressure, and O 2 saturation were no different in a control group than in a group that was transferred from bed to chair for at least 30 minutes daily for 6 days -In a randomized crossover trial comparing exercise response between passive and active sitting, researchers in the United Kingdom found that sitting on the edge of the bed was associated with a significant increase in VO 2 in comparison to passive chair sitting(13) -Ten ventilated patients receiving physiotherapy in an intensive care unit were randomly allocated to one of two treatments on day one -Transfer to a lateral transfer chair using a slide and then passively moved into an upright seated position -Sitting on the edge of the bed with assistance from lying to upright sitting by treating physiotherapist, support in the sitting position by the therapist, and then return to lying on the bed -Patients received the other treatment on day two  -Outcome measures were VO 2, VCO 2, minute ventilation, mean arterial pressure, and heart rate -Sitting on the edge of the bed was a more metabolically demanding activity than a passive chair transfer in stable mechanically ventilated critically ill patients, which likely reflects the increased demand on the muscles to maintain active sitting -Despite evidence supporting early mobilization, current routine clinical practice patterns do not appear to apply this evidence(8) -In a study conducted in Germany, 116 ICUs provided data for 783 mechanically ventilated patients for a 24-hour period -Overall, only 24% of patients were mobilized out of bed (i.e., sitting on edge of bed or higher level of mobilization) -Perceived barriers to mobilizing patients were cardiovascular instability and deep sedation -Mobilization out of bed was not associated with more complications, and no falls or extubations occurred in mobilized patients \u2013Inspiratory muscle strengthening \u2013Neuromuscular electrical stimulation (NMES) -NMES applied to the quadriceps and tibialis anterior muscles of ICU patients on mechanical ventilation resulted in an increase in dorsiflexion AROM in the stimulated limb compared to the unstimulated limb serving as a control in a study conducted in Brazil(9) -In a sham-controlled  pilot trial with blinded outcome assessment, researchers in the United States found that NMES did not significantly improve leg strength at hospital discharge in mechanically ventilated patients(14) -NMES or sham was applied to three bilateral lower extremity muscle groups for 60 minutes daily in the ICU -Providing electrical stimulation to enhance muscle strength is considered a well-tolerated  preventive strategy for improving muscle weakness in patients who receive prolonged mechanical ventilation(20) -Thirty-three  patients participated in this study and were randomized to either the e-stim  group (n = 16) or control group (n = 17) -The e-stim  group received daily 30-minute  sessions for 10 days -Use of TENS on acupuncture points has been shown to decrease pain levels and opioid consumption in intubated patients who are also using a mechanical ventilator(23) \u2013Hydrotherapy -Researchers from the Netherlands report that hydrotherapy appears to be a feasible and safe intervention in selected critically ill ventilated patients(15) -Ventilated patients admitted to the medical, surgical, or thoracic, but not neuro, ICU were eligible for hydrotherapy if they were severely weak (unable to stand upright despite support by physiotherapist) and were able to respond to verbal commands. Exclusion criteria included high ventilator support, large wounds, severe agitation, and some bacterial infections -In a 15-month  period, 25 ICU patients received at least one hydrotherapy session in addition to the regular early-mobilization program -Before hydrotherapy, any central venous and arterial catheters were disconnected and covered with a dressing. During transfer and hydrotherapy, patients were ventilated with a portable ventilator using pressure support mode -For each patient an individualized program was designed, which might include standing, walking, upper extremity movement, and swimming backstroke -No patients reported discomfort or experienced severe oxygen desaturation or hemodynamic instability",
+            "Periodic positive airway pressure as an adjunct to physical therapy \u2013The use of positive airway pressure as an intervention to reduce postoperative pulmonary complications has been reported . Problem Goal Intervention Expected Progression Home Program  Ventilator dependence Unassisted breathing Therapeutic exercise _ Early mobility _ _ Inspiratory muscle strengtheningIncrease unassisted breathing periods _ _ WeaningMight continue with endurance training and increasing mobility as tolerated Decreased oxygenation/ ventilationImprove oxygenation/ ventilationTherapeutic modalities _ Positioning to optimize ventilation _ _ Hyperinflation _ _Progression will vary depending on the severity of the conditionEducate patient on proper posture and positioning concepts to improve ventilation Secretion retention Airway clearance Therapeutic modalities _ Suction, manual hyperinflation, airway clearance techniques, positioning _ _Progression depends on condition. Where possible, progress to active coughingIn chronic conditions (e.g., cystic fibrosis), patient and /or family must be taught positioning and clearance techniques Decreased exercise capacity and enduranceImprove exercise capacity and enduranceTherapeutic exercise _ Limb and respiratory muscle strength training _ _ Early mobilityArm ergometry _ _ AmbulationIncrease exercise as tolerated _ _ Use of noninvasive ventilation as an adjunct to exercise training _ _ Pulmonary rehabilitation Skeletal muscle weaknessStrengthen skeletal musclesTherapeutic modalities _ Electrical stimulation of muscles _ _ Limb strengthening exercisesResisted exercises Daily repetition of exercises _ _ Functional activity \u2013 ambulation  Reduced functional abilityRestore previous functional abilityFunctional training _ Bed mobility and transfer training as appropriateStart with passive ROM according to patient\u2019s status and level of consciousness _ _ Progress to active and resisted exercise, bed mobility, and out of bed activities including chair sitting and ambulationProvide patient and family/ caregivers with written instructions regarding functional activities that can be performed at home and correct use and/ or application of equipment ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improve respiratory function  wean from the ventilator": [
+            "Ventilator-free  time",
+            "Duration of ventilation, duration of ICU stay",
+            "V AS (e.g., for dyspnea)",
+            "Oxygen saturation",
+            "Borg RPE Scale",
+            "Lung function tests"
+        ],
+        "prevent secretion retention  improve clearance of airways": [
+            "Lung function tests"
+        ],
+        "improve strength, exercise tolerance, and endurance": [
+            "Respiratory muscle strength testing \u2013 inspiratory, expiratory pressure generated",
+            "6MWT",
+            "MMT"
+        ],
+        "facilitate return to prior level of function": [
+            "FIM"
+        ]
+    },
+    "maintenance or prevention": [],
+    "patient education": [
+        "American Thoracic Society website, \u201cPatient Information Series: Mechanical Ventilation,\u201d https://www.thoracic.org/patients/patient-resources/resources/mechanical-ventilation.pdf Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "American College of Sports Medicine. ACSM's Guidelines for Exercise Testing and Prescription . 10th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams and Wilkins; 2018. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "de Queiroz RS, Saquetto MB, Martinez BP, Andrade EA, da Silva PA, Gomes-Neto  M. Evaluation of the description of active mobilisation protocols for mechanically ventilated patients in the intensive care unit: a systematic review of randomized controlled trials. Heart Lung . 2018;47(3):253-260.  doi:10.1016./j.hrtlng.2018.03.003. (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Dunn H, Quinn L, Corbridge SJ, Eldeirawi K, Kapella M, Collins EG. Mobilization of prolonged mechanical ventilation patients: an integrative review. Heart Lung . 2017;46(4):221-233.  doi:10.1016/j.hrtlng.2017.04.033. (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Ntoumenopoulos G, Berry M, Camporota L. Effects of manually-assisted  cough combined with postural drainage, saline instillation and airway suctioning in critically-ill  patients during high-frequency  oscillatory ventilation: a prospective observational single centre trial. Physiother Theory Pract . 2014;30(5):306-311.  doi:10.3109/09593985.2013.876694. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Balas MC, Vasilevskis EE, Olsen KM, et al. Effectiveness and safety of the awakening and breathing coordination, delirium monitoring/management, and early exercise/mobility bundle. Crit Care Med . 2014;42(5):1024-1036.  doi:10.1097/CCM.0000000000000129. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Sassoon CSH. What are the implications of blunted load compensation responses in prolonged-weaning  patients?. Resp Care . 2014;59(1):129-132.  doi:10.4187/ respcare.03001. (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Onders R, Posluszny JA, Jr, Kerwin AJ, et al. Multicenter review of diaphragm pacing in spinal cord injury: Successful not only in weaning from ventilators but also in bridging to independent respiration. J Trauma Acute Care Surg . 2014;76(2):303-310.  doi:10.1097/TA.0000000000000112. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Nydahl P, Ruhl AP, Bartoszek G, et al. Early mobilization of mechanically ventilated patients: a 1-day point-prevalence  study in Germany. Crit Care Med . 2014;42(5):1178-1186.  doi:10.1097/CCM.0000000000000149. (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Falavigna LF, Silva MG, deAleida Freitas AL, et al. Effects of electrical muscle stimulation early in the quadriceps and tibialis anterior muscle of critically ill patients. Physiother Theor Pract . 2014;30(4):223-228.  doi:10.3109/09593985.2013.869773. (RCT)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Ko Y, Cho YH, et al. Feasibility and safety of early physical therapy and active mobilization for patients on extracorporeal membrane oxygenation. ASAIO J. 2015;61(5):564-568.  doi:10.1097/MAT.0000000000000239. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Shannon H, Stocks J, Gregson RK, Dunne C, Peters MJ. Main E. Clinical effects of specialist and on-call respiratory physiotherapy treatments in mechanically ventilated children: a randomized crossover trial. Physiotherapy . 2015;101(4):349-356.  doi:10.1016/j.physio.2014.12.004. (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "McWilliams D, Weblin J, Atkins G, et al. Enhancing rehabilitation of mechanically ventilated patients in the intensive care unit: a quality improvement project. J Crit Care . 2015;30(1):13-18.  doi:10.1016/j.jcrc.2014.09.018. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Collings N, Cusack R. A repeated measures, randomized cross-over  trial comparing the acute exercise response between passive and active sitting in critically ill patients. BMC Anesthesiol . 2015;15(1):1-8.  doi:10.1186/1471-2253-15-1.  (RCT)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kho ME, Truong AD, Zanni JM, et al. Neuromuscular electrical stimulation in mechanically ventilated patients: a randomized sham-controlled  pilot trial with blinded outcome assessment. Crit Care. 2015;30(1):32-39.  doi:10.1016/j.jcrc.2014.09.014. (RCT)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Felten-Barentsz  KM, Haans AJC, Slutsky AS, Heunks LMA, van der Hoeven JG. Feasibility and safety of hydrotherapy in critically ill ventilated patients. Amer J Resp Crit Care Med. 2015;191(4):476-477.  doi:10.1164/rccm.201408-1559LE.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "In: Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . Philadelphia, PA: FA Davis; 2016:322-323.  (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Hodgson CL, Stiller K, Needham DM, et al. Expert consensus and recommendations on safety criteria for active mobilization of mechanically ventilated critically ill adults. Critical Care . 2014;18:658. doi:10.1186/s13054-014-0658-y.  (X)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Boyd J, Paratz J, Tronstad O, Caruana L, McCormack P, Walsh J. When is it safe to exercise mechanically ventilated patients in the intensive care unit? An evaluation of consensus recommendations in a cardiothoracic setting. Heart Lung . 2018;47(2):81-86.  doi:10.1016/j.hrtlng.2017.11.006. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Falvey JR, Crankshaw A. Application of ICF model to a patient with home mechanical ventilation: a case report with 1- year follow-up.  CardioPulm Phys Ther J . 2015;26(1):15-21.  doi:10.1097/CPT.0000000000000002. (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Chen YH, Hsiao HF, Li LF, Chen NH, Huang CC. Effects of electrical muscle stimulation in subjects undergoing prolonged mechanical ventilation. Respir Care . 2019;64(3):262-271.  doi:10.4187/respcare.05921. (RCT)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Guimaraes FS, Lopes AJ, Constantino SS, Lima JC, Canuto P, de Menezes SLS. Expiratory rib cage in mechanically ventilated subjects: a randomized crossover trial. Respir Care. 2014;59(5):678-685.  doi:10.4187/respcare.02587. (RCT)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Patel BK, Pohlman AS, Hall JB, Kress JP. Impact of early mobilization on glycemic control and ICU-acquired  weakness in critically ill patients who are mechanically ventilated. Chest. 2014;146(3):583-589.  doi:10.1378/chest.13-2046.  (RCT)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Aminisaman J, Mohammadi S, Karimpour H, Hemmatpour B, Sharifi H, Kawyannejad R. Transcutaneous electrical nerve stimulation at the acupuncture points to relieve pain of patients under mechanical ventilation: a randomized controlled study. J Acupunct Meridian Stud . 2018;11(5):290-295.  doi:10.1016/j.jams.2018.06.008. (RCT)"
+        }
+    ]
+}

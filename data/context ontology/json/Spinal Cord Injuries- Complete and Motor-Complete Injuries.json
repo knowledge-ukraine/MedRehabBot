@@ -1,0 +1,362 @@
+{
+    "metadata": {
+        "title": "Spinal Cord Injuries  Complete and Motor-Complete  Injuries",
+        "synonyms": [
+            "complete and motor-complete  injuries  spinal cord injuries",
+            "motor-complete and complete spinal cord injuries",
+            "injuries, complete and motor-complete:  spinal cord injuries",
+            "sci: complete and motor-complete  injuries",
+            "injuries, spinal cord: complete and motor-complete injuries",
+            "spinal cord injuries: asia impairment scale a and b",
+            "spinal cord injuries: ais a and b"
+        ],
+        "anatomical location body part affected": [
+            "Spinal cord and nerve roots; muscles and organs innervated below the level of the spinal cord lesion"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "acute care",
+            "home health",
+            "pulmonary rehabilitation",
+            "wound care",
+            "pediatric rehabilitation",
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "Injury to the spinal cord caused by trauma or disease",
+            "Incidence of traumatic spinal cord injury (SCI) in the United States is approximately 17,700cases each year(4)",
+            "The American Spinal Injury Association (ASIA) Impairment Scale (AIS) is used to grade the severity of neurological loss due to SCI.(4) It is internationally recognized and has been adopted by almost every major organization associated with SCI \u2013The AIS categorizes motor and sensory impairment on a 5-point ordinal scale from A to E(4) -A = Complete: No motor or sensory function is preserved in the S4-S5  sacral segments -B = Incomplete: Sensory function but not motor function is preserved below the neurological level and includes the S4-S5  sacral segments -C = Incomplete: Motor function is preserved below the neurological level, and more than half of key muscles below the neurological level have a muscle grade less than 3 -D = Incomplete: Motor function is preserved below the neurological level, and at least half of key muscles below the neurological level have a muscle grade of 3 or more -E = Normal: Motor and sensory function are normal",
+            "This Clinical Review focuses on complete and motor-complete  SCI (AIS A and B). For information about incomplete SCI, see  Clinical Review ... Spinal Cord Injury: Incomplete Injuries  ; CINAHL Topic ID Number: T708640",
+            "See also Clinical Review\u2026Spinal Cord Injuries: General Overview ; CINAHL Topic ID Number: T708579;  Clinical Review ... Spinal Cord Injury: Cervical Lesions  ; CINAHL Topic ID Number:T708642; and  Clinical Review ... Spinal Cord Injury: Cervical Lesions  ; CINAHL Topic ID Number: T708639"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S14": {
+                "base": "injury of nerves and spinal cord at neck level",
+                "S14.0": "concussion and edema of cervical spinal cord",
+                "S14.1": "other and unspecified injuries of cervical spinal cord"
+            },
+            "S24": {
+                "base": "injury of nerves and spinal cord at thorax level",
+                "S24.0": "concussion and edema of thoracic spinal cord",
+                "S24.1": "other and unspecified injuries of thoracic spinal cord",
+                "S24.2": "injury of nerve root of thoracic spine"
+            },
+            "S34": {
+                "base": "injury of nerves and lumbar spinal cord at abdomen, lower back and pelvis level",
+                "S34.0": "concussion and edema of lumbar spinal cord",
+                "S34.1": "other injury of lumbar spinal cord",
+                "S34.2": "injury of nerve root of lumbar and sacral spine",
+                "S34.3": "injury of cauda equina"
+            },
+            "T06.0": "injuries of brain and cranial nerves with injuries of nerves and spinal cord at neck level",
+            "T09.3": "injury of spinal cord, level unspecified (ICD codes are provided for reader\u2019s reference, and not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement will depend on insurance contract coverage. Patients may have coverage through various sources such as healthcare insurance, automobile insurance, or workers\u2019 compensation. Clinicians should inquire about ongoing legal claims",
+            "Insurance companies may not cover various interventions such as functional electrical stimulation (FES), neuromuscular electrical stimulation (NMES), body-weight-supported  treadmill training, and robotic-assisted  rehabilitation of the upper and lower limbs because they consider them to be experimental and investigational for complete and motor-complete SCI,due to insufficient evidence of their effectiveness"
+        ],
+        "presentation signs and symptoms": [
+            "Presentation depends on level and completeness of the lesion and time since injury \u2013Level of the lesion is classified by the most distal neural region presenting with normal sensory and motor function(1) \u2013Tetraplegia or quadriplegia -Injury is in cervical region(8) -Paralysis affecting the trunk and upper and lower extremities(8) -Visceral impairment(1) -Respiratory problems, including difficulty breathing, coughing, and clearing secretions(4) \u2013Paraplegia -Injury in thoracic, lumbar, or sacral region(4) -Injury may be classified as complete or incomplete(4) -Paralysis affecting the trunk and lower extremities(4) -Visceral impairment may occur(1)",
+            "Additional signs and symptoms that may occur in complete and motor-complete  quadriplegia and paraplegia(4) \u2013Sensory impairment \u2013Spasticity \u2013Loss of bowel and bladder control \u2013Pain",
+            "In the acute phase the patient may present with spinal shock(4) \u2013Characterized by flaccid paralysis and absence of all spinal cord reflex activity below the level of the lesion(4) \u2013Can last 24 hours to several weeks \u2013The completeness of the injury cannot be determined before spinal shock has resolved Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Traumatic SCI\u2013Most commonly caused by trauma(4)\u2013Types of trauma that may result in SCI: motor vehicle accidents, falls, gunshot wounds, diving accidents, and sportsinjuries(8)",
+            "Nontraumatic SCI\u2013Causes of nontraumatic SCI include:-spinal tumors(1,2) (see  Clinical Review ... Spinal Tumor  ; CINAHL Topic ID Number: T708495)-inflammation/infection(1,2)-degeneration of the spine(1,2)-vascular disturbance/bleeding(1,2)-spinal stenosis(1)-neuronal motor disease(1)-transverse myelitis(1)-syringomyelia(1)"
+        ],
+        "pathogenesis": [
+            "Traumatic SCI\u2013Typically, acceleration-deceleration  incidents, which bring about extreme forces on the spinal cord and vertebrae, arethe source of the SCI. Types of forces/motions that lead to the breakdown of the spinal cord and surrounding structuresinclude the following(1):-Hyperextension-Hyperflexion-Axial loading-Compression-Rotation\u2013The inflammation following the trauma is a significant contributing factor in the extent of the injury to the spinal cord andrelated outcomes The breadth of the inflammatory process following SCI, as well as the impact of the inflammation in itsentirety, has yet to be fully understood; however, the implications of the inflammatory process appear to be twofold, inthat there are positive and negative aspects to its presence(3)",
+            "Nontraumatic SCI\u2013Pathogenesis is disease specific\u2013The more common mechanisms of nontraumatic interruption of spinal cord conduction include infection, compression(e.g., osteophytes, tumor, abscess, hemorrhage), and insufficient blood supply (e.g., cardiac arrest, severe hypotension,embolism, blood loss)",
+            "Pathogenesis of spasticity in complete and motor complete SCI\u2013In general, SCI results in upper motor neuron lesion syndrome, although at the level of the lesion lower motor neuronlesions may occur\u2013Since peripheral circuitry below the lesion (sensory and motor) remains intact, spinal reflexes such as the stretch reflexcan persist unmodulated by descending tonic or phasic excitatory or inhibitory inputs"
+        ],
+        "risk factors": [
+            "Traumatic SCI\u2013Male-to-female  ratio of 4 to 1 in SCI for individuals between 16 and 20 years(1)\u2013Engaging in risky behavior(2)\u2013Motor vehicle accidents(2)",
+            "Nontraumatic SCI\u2013May be caused by a variety of diseases (e.g., neoplasm, infection, inflammatory conditions, vascular conditions, spinaldegeneration, congenital disorders, and toxic-metabolic  disorders)(1)"
+        ],
+        "complications and associated conditions": [
+            "Flexor muscle spasms, spasticity, clonus",
+            "Renal stones",
+            "Renal failure",
+            "Pyelonephritis",
+            "Osteoporosis",
+            "Deep vein thrombosis (DVT)",
+            "Pressure ulcers",
+            "Hemothorax",
+            "Pneumothorax",
+            "Intraabdominal injury",
+            "Traumatic brain injury",
+            "Respiratory complications secondary to diaphragm and respiratory muscle paralysis",
+            "Urinary tract infection (UTI)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Monitor for signs and symptoms of autonomic dysreflexia; the clinician should identify and remove precipitating factors if possible and seek emergent medical care. The condition can be life-threatening.(1) (Please see  Clinical Review ... Autonomic Dysreflexia in Adults  ; CINAHL Topic ID Number: T708491 for more information on this condition.) Signs of autonomic dysreflexia include the following: Elevated blood pressure Pounding headache Bradycardia Profuse sweating with flushing of the face, neck, and shoulders(1) Piloerection (goose bumps), usually above the level of the lesion but can be below Cardiac arrhythmias, atrial fibrillation, premature ventricular contractions, and atrioventricular conduction abnormalities Flushing of the skin, especially in the face, neck, and shoulders, or possibly below the level of lesion Blurred vision Appearance of floaters (spots in the visual field) Congestion of mucous membranes Anxiety Silent autonomic dysreflexia: minimal or no symptoms, despite a significantly elevated blood pressure",
+        "In the acute stage, therapy should focus on joint protection, positioning, and selective preservation of ROM (note: some tightening is indicated for the facilitation of functional tasks)",
+        "Fractures have been noted to occur during mobility in patients with longstanding SCI; these may be related to decreased bone mineral density",
+        "Increased risk for the development of DVT. If the patient has developed a DVT, withhold mobilization and exercise of the affected extremities for 48 to 72 hours; obtain orders from physician prior to resuming exercise and mobilization",
+        "Orthostatic hypotension is common in individuals with SCI(1)",
+        "Energy expenditure needs to be considered during both examination and treatment of the patient with motor-complete  SCI",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -How and when did the SCI occur? -What is the current reason for evaluation/treatment? Is this the patient\u2019s first evaluation since the onset of the SCI? -What is the level of the lesion and AIS score? -How old is the patient? -Who comprises the patient\u2019s medical team? -Any history of complications associated with the SCI?",
+                "course of treatment": {
+                    "medical management": "Upon onset of SCI, treatment consists of spinal immobilization stabilization of airway, breathing, and circulation fluid replacement I.V . medications to reduce swelling around the spinal cord and lactic acidosis  anticoagulation for the prevention of DVT therapeutic hypothermia may be employed",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Steroids  provided during acute phase to assist in recovery and possibly limit damage to nervous tissue Tizanidine and baclofen used in the treatment of spasticity post injury; gabapentin may be used for chronic pain",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "X-rays(2)",
+                        "CT scan(2)",
+                        "MRI(2)",
+                        "The physician should also complete sensory testing of the anal area to determine if the lesion is complete or incomplete. Testing includes the external anal sphincter and the area surrounding the anus(4)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture), what they are being used for, and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful. Was patient taught a bowel/bladder management program?"
+                },
+                "aggravating easing factors": " Document any noted aggravating factors for pain and/or spasticity -Wheelchair propulsion can aggravate shoulder pain in SCI patients",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night. What does the patient attribute wakings to? (e.g., pain, spasticity, apnea)",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., change in spasticity, fatigue)",
+                "respiratory status": "Document respiratory status (e.g., need for ventilator, supplemental oxygen), including status of respiratory muscles, especially diaphragm. Document smoking history and history of any chronic respiratory conditions (COPD, asthma). Any wheezing or productive cough? -Respiratory difficulties are significant complications in individuals with high spinal cord lesions -Document results of any recent respiratory function tests where available -There is an increased risk for restrictive syndrome, which is noted by a decrease in all measurements of respiratory flow and volume -If peak cough expiratory flow (PCEF) is markedly diminished, the patient cannot produce an effective cough, leading to sputum retention -Document use of phrenic nerve stimulators or ventilator assistance with noninvasive ventilation (NIV) in patients with high cervical SCIs Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis If the SCI was nontraumatic, what condition caused it? What formalized testing has the patient undergone? What surgical procedures has the patient undergone, if any? Document the presence of any allergies Has the patient sustained any fractures? ",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, psychiatric disorders, orthopedic and disorders Comorbidities such as obesity, low vision, and cardiovascular disease can affect the duration and format of rehabilitation UTI is the most common comorbidity found in patients with SCI",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "If the SCI is longstanding, can the patient negotiate the work (or school, if child) and home environment? Is the patient involved in any activities? How much physical activity does the patient get daily? Does the family/patient feel they have necessary support in place? Is there a history of substance abuse?",
+                "functional limitations assistance with ADLs adaptive equipment": "What ADLs can the patient perform? What assistive devices or adaptive equipment does the patient require? What does the patient already have? Does the patient use any environmental control systems?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary, such as widening doorways for wheelchair or assistive device? Has a home safety check been performed?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Document patient\u2019s BMI",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013Document assistive devices currently in place and ability to use them; are additional assistive/adaptive devices indicated (e.g., pressure-relieving  cushions and mattresses)?",
+            "balance": " Balance \u2013Evaluate balance in sit and stance, statically and dynamically if able \u2013Balance strategies vary depending on level of lesion -Patients with lesions at C5 and above have limited ability to balance for safety and function and generally need some equipment to assist them -Patients with lesions at C5 and below have some ability to shift body position using head and arm movement -Patients with lesions at C6 and below may be able to sit unsupported using forward and backward trunk movements controlled by head and arm movements",
+            "cardiorespiratory function and endurance": [
+                "Document vital signs at rest and during mobility",
+                "The Borg Rating of Perceived Exertion (RPE) Scale can be used to document patient\u2019s perception of activity intensity during mobility",
+                "Lack of or impairment of sympathetic innervation to the heart (which normally originates from T1T4  nerves) may dramatically alter cardiac output, maximal heart rate, and regional blood flow",
+                "Patients with SCI are at risk for severe hypotension",
+                "Respiratory muscle status(4) -Patients with injuries above C4 require ventilator support for respiration -It is important that the clinician assess which muscles of respiration have been impacted by SCI -Monitor for signs and symptoms of atelectasis or infection (such as increased temperature, change in respiratory rate, shortness of breath, increased heart rate, anxiety, and increased volume or change in consistency of secretions) -Forceful expiration and cough may be affected in patients with SCI depending on the lesion level -Document respiration pattern and any accessory muscle use  -Document need for artificial ventilation/oxygen -Document cough ability and need for support during coughing \u2022Cranial/peripheral nerve integrity",
+                "Evaluate cranial nerves",
+                "Evaluate deep tendon reflexes \u2022Functional mobility  (including transfers, etc.)",
+                "Complete a functional assessment -Bed mobility -Transfer to/from: -toilet/commode -wheelchair -bed -tub -car"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Evaluate gait as indicated and appropriate -Persons with complete SCIs have less potential to regain walking than those with incomplete injuries but some may, depending on level of lesion. Wheelchair is the more common form of mobility for persons with AIS A and B -Persons with complete paraplegia who have partial trunk movement may be able to stand, usually with orthoses to support their legs and a walker to take their body weight through their arms, while balancing on the leg orthoses. They may be able to walk short distances using equipment, with assistance -Patients with complete T6\u2013T12  lesions also have partial abdominal muscle strength and may be able to walk independently for short distances. The abdominal muscles are used to throw the legs forward while body weight is taken on a frame or crutches \u2013WISCI-II(5) -An amended version of the WISCI -Contains an ordinal scale -Zero on the scale designates a nonambulatory status and a score of 20 designates the individual can ambulate at least 10 m without physical assist or assistive devices Motor function (motor control/tone/learning) \u2013Spasticity is a frequent finding in individuals with SCI(4) \u2013Patient Reported Impact of Spasticity Measure (PRISM)(6) -Seven subscales -Validity and reliability of this test have been demonstrated in 180 individuals with SCI tested at five different locations \u2013Assessment tools for spasticity may include the Ashworth and Modified Ashworth scales, Penn Spasm Frequency Scale, Visual Analogue Scale for spasticity, Spinal Cord Assessment Tool for Spasticity, Wartenberg Pendulum Test",
+            "muscle strength": " Muscle strength \u2013Assess muscle strength above the level of the lesion using manual muscle testing (MMT) \u2013MMT is not used to assess muscles with abnormal tone",
+            "observation inspection palpation including skin assessment": [
+                "Assess skin integrity, particularly over bony prominences, and document characteristics of wound (e.g., location, depth, exudate, stage)"
+            ],
+            "posture": " Posture \u2013Complete a postural assessment, including patient\u2019s posture in the prescribed wheelchair",
+            "range of motion": " Range of motion \u2013Thoroughly evaluate ROM and flexibility",
+            "self-care activities of daily living": "",
+            "reflex testing": " Reflex testing \u2013Complete a reflex assessment (e.g., Babinski, deep tendon) Self-care/activities  of daily living  (objective testing) \u2013Evaluate ADLs(4) \u2013FIM may be used to assess ADLs \u2013Canadian Occupational Performance Measure (COPM)(7)  -Patient designates areas of limitation in self-care, leisure, and productivity -Patient then rates significance of each limitation from 1 to 10",
+            "sensory testing": " Sensory testing \u2013Pinprick and light touch must be assessed(4) \u2013Evaluate sharp-dull  discrimination, temperature, and proprioception, as indicated(4) \u2013Refer to the physician\u2019s report for information regarding sensation in the anal area",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013WHOQOL-BREF  questionnaire \u2013 designed to assess the impact that disease or condition and health intervention have on quality of life -WHO quality of life (QOL) brief form (BREF) is an abbreviated form of the original 100 question WHOQOL-100 questionnairephysical, psychological, social, and environmental \u2013Medical Outcomes Study 36-Item  Short Form (SF-36) -Tool that can assist in tracking QOL indicators post discharge from acute care settingpain, physical function, mental health, social function, vitality, overall health perception, role limitation due to physical problems, and role limitation due to emotional problems -All scale scores extend from 0 to 100 (poor to excellent health state) \u2013SF-12  Health-Related  Quality of Life questionnaire -Abbreviated version of the SF-36  containing 12 items -Two questions on SF-12  are largely inappropriate for individuals with complete SCI, as they deal with stair climbing and ambulation \u2013The Spinal Cord Independence Measure (SCIM) III is an instrument to assess the patient\u2019s ability to perform ADLs (including bowel and bladder management) and to perform functional mobility(9) Wheelchair mobility \u2013Evaluate wheelchair mobility and skills -Wheelchair Circuit -Wheelchair Assessment Tool -Wheelchair Skills Test -Wheelchair Users Functional Assessment (WUFA) \u2013The SmartWheel(10) -An assessment device that can be attached onto the majority of standard wheelchairs -Device records amount of force put forth with every push, length and ease of every push, and push frequency -Data collected may be utilized as objective outcome data or for reimbursement \u2013The SmartWheel Users\u2019 Group (SWUG)(10) -Created a standard clinical protocol -The clinician evaluates the patient in the following areas with the SmartWheel -Propelling a wheelchair over smooth tile -Propelling a wheelchair over carpet -Propelling a wheelchair up a ramp built in accordance with the American with Disabilities Act -Performing a figure 8 on smooth tile -Average peak resultant force, velocity, push frequency, and stroke length -Group felt that each patient should complete a wheelchair velocity assessment first; minimum velocity for safe community propulsion must be attained (reportedly 1.06 m/s)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Assess if the patient is alert and oriented x 4 \u2013Note affect; monitor for signs of depression and anxiety \u2013Use of ventilatory assistive devices may affect patient\u2019s continuous speech ability",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Application over areas with a lack of intact thermal sensation",
+                "Application over areas of vascular insufficiency or vascular disease",
+                "Application over areas of recent hemorrhage or potential hemorrhage",
+                "Application over areas of known malignancy",
+                "Application over areas of acute inflammation",
+                "Application over infected areas where infection may spread or cross-contamination  may occur",
+                "Application over areas where liniments or heat rubs have recently been applied",
+                "Application in any situation deemed unreliable by the practitioner",
+                "Electrodes should not be placed over: -the trunk or heart region in patients with demand-type  pacemakers or implantable cardioverter defibrillators -the pelvic, abdominal, lumbar, or hip region in pregnant women -carotid bodies -phrenic nerve or urinary bladder stimulators -areas of known peripheral vascular disease including arterial or venous thrombosis or thrombophlebitis -the phrenic nerve, eyes, or gonads -areas of active osteomyelitis -areas of hemorrhage",
+                "Electrotherapy should be used with caution -in patients without intact sensation -in patients who are unable to communicate -in patients with compromised mental status -in patients with cardiac dysfunction -in patients with epilepsy",
+                "Electrodes should not be placed -over neoplasms -over compromised skin -over tissues vulnerable to hemorrhage or hematoma -over the cervical or craniofacial region"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the  potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Intensity of general physical activity and exercise for persons with SCI should be built up gradually and not be overly strenuous",
+                "Thermotherapy contraindications  (11)",
+                "Electrotherapy contraindications  (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(11)",
+                "Precautions  for electrotherapy"
+            ]
+        },
+        "diagnosis need for treatment": "With any SCI there is an obvious need for rehabilitation services once the patient is medically stable. The therapist\u2019s role is critical in maximizing the patient\u2019s functional independence as well as assisting the entire medical team in educating the patient on how to live with this life-altering  condition",
+        "rule out": " Rule out  (1) Spinal column disorders (e.g., spinal stenosis, disc prolapse) Metabolic disorders (e.g., vitamin B12 deficiency, copper deficiency) Vascular disorder (e.g., hemorrhage, ischemia) Inflammatory and autoimmune disorders (e.g., multiple sclerosis, transverse myelitis, lupus) Radiation related (e.g., radiation myelitis) Drugs and toxins Neoplastic disorders Infection Motor neuron disease (e.g., amyotrophic lateral sclerosis) Syringomyelia ",
+        "prognosis": [
+            "Initial ASIA classification may change \u2013Based on a 2018 meta-analysis,  the rate of improvement fromASIA A to at least ASIA B is 28.1%(13) \u2013Authors of a study in Japan evaluated the effect of conservative treatment on individuals with complete motor paralysis secondary to cervical SCI and concluded that approximately 30% of individuals with an AIS grade of A and 85% of individuals with an AIS grade of B improved grades after conservative treatment(17)",
+            "Mortality for all SCIs(12) \u2013Life spans for individuals with SCI are significantly below those without SCI \u2013Mortality rates are significantly higher in the first year post SCI than in subsequent years, particularly in individuals with severe neurological impairment",
+            "Length of hospitalization for all types of SCIs(12) \u2013Average length of hospitalization in an acute care setting is approximately 11 days \u2013Average length of stay in a rehabilitation setting is approximately 30 days",
+            "Rehospitalization for all types of SCIs(12) \u201330% of individuals \u2265 1 time during the subsequent year post injury \u2013Average length of stay during rehospitalization is approximately 18 days \u2013Common causes of rehospitalization include genitourinary, skin, respiratory, digestive, circulatory, and musculoskeletal disease",
+            "Employment for all types of SCIs(12) \u2013At 1 year post SCI 18% of individuals are employed, with the employment rate increasing to 32% at 30 or more years after initial injury \u203aReferral to other disciplines  (as indicated)",
+            "Social worker and/or counselor/therapist to assist with community resources and psychosocial needs",
+            "Speech therapist if there are signs, symptoms, or risk of dysphagia",
+            "Occupational therapist (OT)",
+            "Respiratory therapist",
+            "Orthotist",
+            "Recreation therapist",
+            "V ocational therapist"
+        ],
+        "referral to other disciplines": "",
+        "other considerations": [],
+        "treatment summary": [
+            "In the acute stage, therapy focuses on respiratory function, maintaining joint ROM, and preventing skin breakdown. Once the patient is medically stable and spinal stability has been achieved, out-of-bed  activities including functional mobility and orientation to the vertical position can begin(4)",
+            "General exercise \u2013Current SCI guidelines prescribing moderate to vigorous aerobic intensities to improve cardiorespiratory fitness and work capacity may not be appropriate for wheelchair exercise for persons with chronic SCI since they often are physically inactive and deconditioned \u2013Optimum training parameters for individuals with SCI have not been clearly identified -Intensity of general physical activity and exercise for persons with SCI should be built up gradually. Interventions should not be undertaken too strenuously, especially in the initial stages of rehabilitation \u2013Exercise guidelines for individuals with SCIs(14) -Fitness -Cardiorespiratory fitness \u2013 participate in 20 minutes of moderate-  to vigorous-intensity  aerobic exercise 2 times per week -Strength exercise \u2013 perform 3 sets of strength exercise for each major functional muscle group at a moderate to vigorous intensity 2 times per week -Cardiometabolic -Perform at least 30 minutes of moderate-  to vigorous-intensity  aerobic exercise 3 times per week \u2013Based on a 2017 systematic review of adults with chronic SCI, exercise improves cardiorespiratory fitness, power output, strength, and cardiometabolic health. The authors found low to moderate quality evidence in support of the following guidelines:(15)  -Cardiorespiratory fitness, power output, and muscle strength can improve with 2\u20133 sessions/week of upper body aerobic exercise at a moderate to vigorous intensity for 20\u201340  minutes, plus upper body strength exercise (3 sets of 10 repetitions at 50%\u201380%  1-repetition  maximum for all large muscle groups) -Cardiorespiratory fitness, muscle strength, body composition, and cardiovascular risk can also improve with 3\u20135 sessions per week of upper body aerobic exercise at a moderate to vigorous intensity for 20\u201344  minutes \u2013Aerobic exercise using arm crank ergometry improves aerobic capacity, community mobility, and metabolic profiles in individuals with high motor complete SCI(16) -Based on a study in the United States -Ten participants performed arm crank ergometry 30 minutes per day, 3 times a week for 10 weeks at 70% VO2peak",
+            "Spasticity management \u2013Spasticity can interfere with rehabilitation or ADLs, but can also be used for function. Spasticity may be used to assist with bladder emptying, transferring, or dressing. A balance between the detrimental and beneficial effects of spasticity should be sought",
+            "Respiration/ventilation \u2013The following techniques are used to facilitate clearance of pulmonary secretions and/or to maximize pulmonary function for functional activities(4) -Deep breathing and coughing -Inspiratory muscle training -Use of an in-exsufflator/exsufflator -Intermittent positive pressure breathing (IPPB) \"stretch\" -Glossopharyngeal breathing -Incentive spirometry -Chest physiotherapy -Positioning -Breathing exercises, abdominal binders, respiratory muscle training, electrical stimulation assisted coughing, intermittent positive pressure breathing . Problem Goal Intervention Expected Progression Home Program Limited knowledge on the impact of SCI and how to live with condition and its complications (i.e., impaired ability to regulate body temperature,(4) autonomic dysreflexia, pneumonia, atelectasis, DVT, and impaired strength or paralysis of respiratory muscles(4)Provide patient educationPatient education _ Patient and caregiver education to include skin care, temperature control/autonomic dysreflexia, home accessibility, wheelchair use, and assistive technology _ _N/A Provide handouts and verbal instruction on living with SCI Pain Decrease pain Modalities _ May try thermal therapy, EMG biofeedback, or electrotherapeutic interventions to manage pain as indicated and appropriate(4) _N/A N/A  Decreased ROM/ contracturesImprove ROM/ contracture managementTherapeutic exercise _ Implement a ROM and contracture management program (splints, stretching, etc.) _ _ Promote contracture or elongation of isolated muscles or muscle groups in an effort to facilitate function as indicated(4) _ _ Splints to prevent joint deformity _ Refer to orthotist or OT as indicatedProgress each unique patient as indicated and appropriateProvide recommendations for home regarding managing ROM/ contractures as indicated _ Family/caregiver training Decreased strength/ paralysis _ Decreased endurance due to reduced muscle massImprove strength (as able)Therapeutic exercise _ Implement a strengthening program as indicated and appropriate _ Therapeutic modalities  Specific modalities may vary depending on the individual; examples include FES- LCE,Hybrid FES-LCE, and NMESProgression typically moves from gravity- eliminated active assisted ROM initially to resisted anti- gravity therapeutic exercise and functional strengthening activitiesImplement a program for home that includes strengthening activities as indicated Spasticity Spasticity management Therapeutic strategies _ Interventions to normalize muscle tone as appropriate _ _ Refer back to physician as indicated _ _ Strategies to prevent contracture formation _ _ (See Treatment summary , above)N/A Provide recommendations for home regarding managing spasticity as indicated  Respiratory limitations/ need for mechanical ventilation _ _ Orthostatic hypotension(4) _ _ Decreased endurance _Improved ventilation through various respiratory strategies _ _ Implement strategies to prevent/minimize orthostatic hypotension _ _ Improve enduranceTherapeutic strategies _ Interventions centered on improving cardiorespiratory capacity as appropriate _ Respiratory muscle training _ _ Compression stockings or abdominal binders are two methods of preventing/ minimizing orthostatic hypotension(4) _ _ Monitor vital signs _ _ Refer to respiratory therapist as indicated _ _ Airway clearance strategies _ May include NMES, resisted respiratory muscle training, and various mechanical devicesImproved endurance and tolerance of measured activitiesImplement a program for home that includes endurance activities as indicated  Decreased mobility _ _ Impaired ADLs _ _ Incontinence _ _ Risk of DVTImprove mobility _ _ Improve ADLs _ _ Assist in bowel/bladder programs _ _ Reduce risk of DVT formationFunctional training _ Implement functional training/gait training as indicated by medical status and current ability _ _ Refer to OT as indicated _ _ Mobility, ROM, and compression stockings are some examples of strategies that may be implemented to reduce the risk of DVT(4) _ _ Prescription, application of devices and equipment _ Implement assistive and adaptive devices as indicated to promote function and independenceProgress each unique patient as indicated and appropriateImplement a program for home that includes functional tasks as indicated Pressure sores _ _ Decreased sensationPrevent pressure sores/assist in healing existing sores _ _ Implement strategies to compensate for sensory lossWound care/"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "management of pressure sores, bowel and bladder, increased knowledge about sci": [],
+        "assisted in compensation for sensory loss": [],
+        "decreased pain": [
+            "V AS"
+        ],
+        "spasticity management": [
+            "PRISM, Modified Ashworth Scale, Penn Spasm Frequency Scale, Spinal Cord Assessment Tool for spasticity, V ASself-rated  scale of spasticity"
+        ],
+        "improved rom": [
+            "Goniometry"
+        ],
+        "improved strength": [
+            "MMT"
+        ],
+        "improved adls": [
+            "FIM, COPM"
+        ],
+        "improved mobility": [
+            "Transfer and bed mobility measures, WISCI"
+        ],
+        "improved wheelchair mobility": [
+            "Wheelchair circuit, wheelchair assessment tool, wheelchair skills test, WUFA, SWUG"
+        ],
+        "improved endurance": [
+            "Vital signs, PRE during activity"
+        ],
+        "improved coordination": [],
+        "improved balance": [
+            "Evaluation of balance in sit and stance, statically and dynamically if able"
+        ],
+        "quality of life": [
+            "WHOQOL-BREF,  SF-12"
+        ]
+    },
+    "maintenance or prevention": [
+        "Home exercise program/patient education",
+        "DVT prevention In combination with other medical treatments (e.g., anticoagulant medications), mobilization and passive exercise beginning as soon as the patient is medically stable may help prevent DVT"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bryce TN, Huang V, Escalon MX. Spinal cord injury medicine. In: Cifu DX, ed. Physical Medicine and Rehabilitation . 6th ed. Philadelphia, PA: Elsevier; 2021:1049-1101.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Mayo Clinic staff. Spinal cord injury. Mayo Clinic Web site. https://www.mayoclinic.org/diseases-conditions/spinal-cord-injury/symptoms-causes/syc-20377890 . Published September 17, 2019. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Orr MB, Gensel JC. Spinal cord injury scarring and inflammation: therapies targeting glial and inflammatory responses. Neurotherapeutics . 2018;15(3):541-553. doi:10.1007/s13311-018-0631-6.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Atrice M, Ackerman PM, Webber K, Pharo E, Sasso-Lance  E, Hammad R. Traumatic spinal cord injury. Lazaro RT, Reina-Guerra  SG, Quiben MU, eds. Umphred\u2019s Neurological Rehabilitation . 7th ed. St. Louis, MO: Mosby Elsevier; 2019. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Walking Index for Spinal Cord Injury (WISCI; version II). Spinal Cord Injury Research Evidence (SCIRE) Web site. https://scireproject.com/wp-content/uploads/Clinician-Summary-v.5.0_WISCI_II.pdf . (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Cook KF, Teal CR, Engebretson JC. Development and validation of Patient Reported Impact of Spasticity Measure (PRISM). J Rehabil Res Dev . 2007;44(3):363-371.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "About the COPM. The Canadian Occupational Performance Measure (COPM) Web site. https://www.thecopm.ca/about/ . Published 2021. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Sabharwal S. Spinal cord injury (cervical). In: Frontera W, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Elsevier; 2019:904. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Itzkovich M, Shefler H, Front L, et al. SCIM III (Spinal Cord Independence Measure Version III): reliability of assessment by interview and comparison with assessment by observation. Spinal Cord . 2018;56:46-51.  doi:10.1038/sc.2017.97. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "The SmartWheel. Out-Front  Web site. http://www.out-front.com/smartwheel_overview.php . (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:61-82;  373-389. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Spinal cord injury. Facts and figures at a glance. National SCI Statistical Center (NSCISC) Web site. https://www.nscisc.uab.edu/Public/Facts%20and%20Figures%20-%202021.pdf . Published 2021. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "El Tecle NE, Dahdaleh NS, Bydon M, Ray WZ, Torner JC, Hitchon PW. The natural history of complete spinal cord injury: a pooled analysis of 1162 patients and a meta-analysis  of modern data. J Neurosurg Spine . 2018;28(4):436-443.  doi:10.3171/2017.7.SPINE17107. (M)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Martin Ginis KA, van de Scheer JW, Latimer-Cheung  AE, et al. Evidence-based  scientific exercise guidelines for adults with spinal cord injury: an update and a new guideline. Spinal Cord . 2018;56(4):308-321.  doi:10.1038/s41393-017-0017-3.  (G)"
+        },
+        {
+            "number in article": 15,
+            "reference": "van der Scheer JW, Martin Ginis KA, Ditor DS, et al. Effects of exercise on fitness and health of adults with spinal cord injury: A systematic review. Neurol. 2017;89(7):736-745. doi:10.1212/WNL.0000000000004224. (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Bresnahan JJ, Farkas GJ, Clasey JL, Yates JW, Gater DR. Arm crank ergometry improves cardiovascular disease risk factors and community mobility independent of body composition in high motor complete spinal cord injury. J Spinal Cord Med . 2019;42(3):272-280.  doi:10.1080/10790268.2017.1412562. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Mori E, Ueta T, Maeda T, et al. Sequential neurological improvements after conservative treatment in patients with complete motor paralysis caused by cervical spinal cord injury without bone and disc injury. J Neurosurg Spine . 2018;29(1):1-9.  doi:10.3171/2017.10.SPINE17844. (R)"
+        }
+    ]
+}

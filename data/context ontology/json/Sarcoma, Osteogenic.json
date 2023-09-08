@@ -1,0 +1,355 @@
+{
+    "metadata": {
+        "title": "Osteosarcoma",
+        "synonyms": [
+            "osteogenic sarcoma",
+            "bone sarcoma",
+            "bone tumor",
+            "bone cancer",
+            "sarcoma, osteogenic"
+        ],
+        "anatomical location body part affected": [
+            "Bone, metaphysis; generally in extremities; 50\u201360%  near knee; second most frequently in head of femur, third most frequently in humerus"
+        ],
+        "area of specialty": [
+            "acute care",
+            "wound management",
+            "home health",
+            "oncology",
+            " orthopedic rehabilitation",
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "Osteosarcoma is a high-grade  bone tumor with anaplastic cells (i.e., cells develop spontaneously from previously normal bone) that produce immature or malignant bone, invade into the medullary cavity of the long bone, and can metastasize to the lungs or other bones in the body (1,2,3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "C40": {
+                "base": "malignant neoplasm of bone and articular cartilage of limbs",
+                "C40.0": "scapula and long bones of upper limb",
+                "C40.1": "short bones of upper limb",
+                "C40.2": "long bones of lower limb",
+                "C40.3": "short bones of lower limb",
+                "C40.8": "overlapping lesion of bone and articular cartilage of limbs",
+                "C40.9": "bone and articular cartilage of limbs unspecified"
+            },
+            "C41": {
+                "base": "malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+                "C41.0": "bones of skull and face",
+                "C41.1": "mandible",
+                "C41.2": "vertebral column",
+                "C41.3": "ribs, sternum and clavicle",
+                "C41.4": "pelvic bones, sacrum and coccyx",
+                "C41.8": "overlapping lesion of bone and articular cartilage",
+                "C41.9": "bone and articular cartilage, unspecified"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition",
+            "Presentation/signs and symptoms \u2013Signs and symptoms of osteosarcoma are: (1,4) -Bone pain -Limping -Joint swelling and warmth -Limited ROM -Tenderness to palpation Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "\u2013Signs and symptoms of osteosarcoma are: (1,4) -Bone pain -Limping -Joint swelling and warmth -Limited ROM -Tenderness to palpation Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Pre- and postoperative protocols should be followed",
+            "Indications of postoperative complications such as infection or loosening of a prosthesis should be referred to the treating physician",
+            "Symptoms that may be indicative of disease spread, including respiratory symptoms and remote bone pain, should be referred to physician",
+            "Postoperative pain and dizziness must be adequately controlled for assessment to proceed",
+            "Obtain parental consent as indicated"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Unknown(5)"
+        ],
+        "pathogenesis": [
+            "Osteosarcoma in adults can be categorized as primary or secondary. In primary osteosarcoma, anaplastic cells developspontaneously from previously normal bone. In secondary osteosarcoma, previously benign bone lesions from Pagetdisease of the bone or previous radiation therapy convert into malignant cells (1,2,3,4,5)",
+            "Most pediatric osteosarcomas are primary tumors, though they can also develop secondary to radiation therapy. Inosteosarcoma, mesenchymal cells create malignant or immature osteoid",
+            "The tumor cells are invasive, extending into the medullary cavity, and have the ability to metastasize. In adults, the primarylesions arise on the long bones or on axial bones including the spine and skull (26)",
+            "Osteosarcoma can present as a low- or intermediate-grade  tumor with or without invasive or metastatic capability; however,the most common classification is the conventional or classic osteosarcoma, which is a high-grade  malignant tumor",
+            "Conventional osteosarcomas are divided into 3 subtypes:(4)\u2013Osteoblastic (most common)\u2013Chondroblastic\u2013Fibroblastic"
+        ],
+        "risk factors": [
+            "Risk factors for osteosarcoma are: (27)\u2013Age (osteosarcoma is the most common childhood cancer)\u2013History of Paget disease of the bone\u2013History of Li-Fraumeni  syndrome\u2013History of Rothmund-Thomson  syndrome\u2013History of retinoblastoma\u2013History of radiation therapy to the area"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients with this diagnosis may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention strategies. Discharge criteria should include independence with fall-prevention  strategies",
+        "Crutches should be used for osteosarcoma of weight-bearing  bone to help prevent pathological fracture",
+        "Most patients have clinically undetectable micrometastases at the time of diagnosis (1)",
+        "The presence of persistent nonmechanical pain in any bone lasting more than a few weeks should lead to immediate further investigation(15)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Pre- and postoperative protocols should be followed",
+            "Indications of postoperative complications such as infection or loosening of a prosthesis should be referred to the treating physician",
+            "Symptoms that may be indicative of disease spread, including respiratory symptoms and remote bone pain, should be referred to physician",
+            "Postoperative pain and dizziness must be adequately controlled for assessment to proceed",
+            "Obtain parental consent as indicated"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was osteosarcoma diagnosed? What were the presenting signs and symptoms? -Was there any trauma preceding diagnosis? -Osteosarcoma may be associated with trauma but is not caused by it. Often it is not until trauma has occurred to the affected limb that X-rays  are obtained and the osteosarcoma is detected -A pathological fracture through bone weakened by osteosarcoma may precipitate the initial presentation to a physician  -When was surgery performed? Document type and extent of surgery and any complications",
+                "course of treatment": {
+                    "medical management": "Medical management is typically a combination of surgery and chemotherapy. Surgery alone, even very aggressive surgery, does not provide a good prognosis. Radiation is not commonly used since osteosarcoma is highly resistant to radiotherapy(3,12) Patients usually receive a preoperative course of chemotherapy (neoadjuvant therapy) for 23months, followed by surgery, followed by a postoperative course of chemotherapy for several months(2) Surgery is usually excision. Options include amputation and limb-salvaging  reconstruction surgery. Limb-salvaging If the tumor can be removed safely while retaining a viable extremity, a limb-salvage procedure may be appropriate If major nerves or blood vessels are involved, or if complete tumor removal would result in significant loss of function, amputation may be a better alternative Other factors may include the patient\u2019s age, long-term  prognosis, desired/expected level of function, and cosmetic considerations Most studies have shown little or no difference in quality of life between amputation and limb-salvaging  procedures metallic endoprosthesis (usually titanium) allograft bone (from cadavers) bone graft taken from the patient replacement of the resected bone after sterilization (autoclave) to kill tumor cells Potential surgical complications Slow healing of surgical wound Loosening Infection The endoprosthesis may need to be replaced or revised over time due to growth Fracture of the replaced bone or failure of the replacement bone to heal to the patient\u2019s bone may also result in need for more surgery Amputation results in fewer complications and revision operations than limb-salvaging procedures",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Is the patient currently receiving chemotherapy? Determine what medications are being taken as part of the chemotherapy protocol. Most current treatment protocols are based on a combination of 2 or more drugs(2) High-dose  methotrexate, doxorubicin, cisplatin, and ifosfamide are the drugs of choice.(2) Authors of a Cochrane systematic review identified a need for more research into the effectiveness of methotrexate(2) Authors of a 2016 retrospective study suggest that reducing high doses of methotrexate and increasing the dosage of ifosfamide, cisplatin, and doxorubicin improved overall survival rates in patients with highgrade  osteosarcoma(23) The patient will be prescribed medications for pain in the postoperative period. Large amounts of narcotics are often required.(5) Perineural and epidural anesthesia and intravenous patientcontrolled  analgesia may be used(5) Medications to control side effects of chemotherapy may include anti-nausea  medications such as lorazepam (Ativan) or promethazine (Phenergan). These may have side effects themselves, including sleepiness or dizziness",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are:",
+                        "conventional radiographs(6) usually done prior to oncology referral and to examine lesion site post chemotherapy",
+                        "advanced imaging (MRI, CT)  to define extent of tumor and assess its location relative to bones, muscles, joints, blood vessels, and nerves(6)",
+                        "CT of the lungs is generally performed to assess for lung metastases(4)",
+                        "whole-body  bone scintigraphy may be performed to detect lesions elsewhere in the skeleton(4)",
+                        "biopsy(4)",
+                        "Morphologic assessment based on microscopic examination of histologic sections is the gold standard of sarcoma diagnosis(14)",
+                        "baseline renal and cardiac function tests and audiograms may be performed due to the potential for chemotherapy to cause dysfunction in these systems(4) "
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, yoga, meditation, relaxation), what they were used for (e.g., pain, treatmentrelated nausea, stress), and whether they were helpful",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful. Repeated sessions of therapy may be required over the years as the patient grows; surgical revisions may be performed(7)"
+                },
+                "aggravating easing factors": "Inquire about the effects of activity and rest, medications, and position changes. Ask patient or caregiver about effects of fatigue, anxiety, and mood on pain and functional abilities",
+                "body chart": "Use body chart to document location and nature of symptoms. If upper limb is affected, note whether it is the dominant or nondominant side -Authors of a follow-up  of 62 osteosarcoma survivors a mean of 12 years after their diagnosis found that when long-term pain was present, it was usually associated with lower-limb  amputation. No patients who had upper limb-sparing procedures reported long-term  pain(5) -Osteosarcoma typically affects the metaphyseal growth plates in the femur, tibia, and humerus. Osteosarcomas of the jaw and the pelvis occur rarely and have some biological and clinical differences from long-bone  osteosarcomas.(16,17) In rare cases, osteosarcoma can also affect the foot and ankle(24)",
+                "nature of symptoms": "Document nature of symptoms. Pain at presentation is generally described as dull or aching,(8) occurring at night, and not related to activity. Pain following extensive limb-sparing  surgery is severe. Bone pain (often described as constant and localized) and neuropathic pain (may be shooting, burning, or tingling) may be present. Pain after amputations in young persons is reported to be especially difficult to control(5)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much). FLACC (face, limbs, activity, crying, consolability) or Oucher scale may be used to assess pain in nonverbal patients (e.g., young children)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Night pain is a common symptom of osteosarcoma. Document number of wakings/night",
+                "other symptoms": "Ask patient and/or primary caregiver about other symptoms patient may be experiencing. Common -nausea and vomiting -hair loss -thrombocytopenia -fatigue -anemia -anxiety and fear that limit function -hearing problems  clinically significant hearing loss will develop in about one third of patients treated with cisplatin. Tinnitus and vertigo may also develop(9) -peripheral sensory neuropathy(9) -delayed or arrested puberty, premature menopause, infertility(9) -arrhythmia, myocardiopathy(9) -mouth sores -dehydration -osteopenia, osteoporosis(9)",
+                "respiratory status": "Inquire whether patient has dyspnea on exertion and/or at rest or orthopnea. Does patient currently require supplemental oxygen or mechanical ventilation? Are there any respiratory comorbidities (e.g., asthma)? If so, how are they controlled? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Establish whether this is a new diagnosis or a recurrence  Even patients considered cured after initial treatment may have a relapse. Relapse occurs in about 30% of patients, most commonly in the lungs. Local recurrence and skeletal metastases are also common.(8) Prognosis is poor for recurrent osteosarcoma, whether it is a local recurrence or metastatic(4) Even patients with multiple recurrences may be cured as long as recurrences are resectable(15) New diagnoses typically occur in healthy young persons with no prior similar conditions",
+                    "comorbid diagnoses": "Ask patient or caregiver about other problems, including diabetes, heart disease, psychiatric disorders, orthopedic and disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient/caregivers about any other symptoms patient may be experiencing. New symptoms may develop due to side effects of chemotherapy, complications of surgery, or progression/recurrence of disease and should be referred back to physician when reported"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is patient attending school or being home schooled? Does patient work? Inquire about educational and vocational progress -Does patient participate in recreational or competitive sports? How does participation compare to premorbid activity level? -Often the emotional well-being  of healthy adolescents is strongly associated with participation in sports activities(18) -Investigators in Austria found that patients with osteosarcoma about the knee who had higher levels of sports activity before surgery generally had higher levels of activity at 5-year  follow-up(18)",
+                "functional limitations assistance with ADLs adaptive equipment": "Does patient require assistance with ADLs? Is any adaptive equipment used? Does patient use any assistive technology such as environmental controls, computer access devices, or augmentative and alternative communication (AAC) devices?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members). Cultural factors may influence the amount of assistance patient is given by caregivers/family.(9) In one study of environmental influences, females tended to be given more assistance and become more dependent than necessary, while males were not given as much assistance as they required. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Measure limb length and compare to uninvolved side -Patients who were skeletally immature at the time of limb-sparing  surgery may require follow-up  surgeries as continued growth of the uninvolved limb leads to limb-length  discrepancies -This is more problematic with tumors around the knee since the knee growth plates account for most of the overall limb length. Limb-lengthening  surgery or contralateral growth plate arrest may be needed. A shoe lift may be used to compensate for leg-length discrepancy -Upper extremity limb-length  inequality is tolerated better than lower extremity inequality(8) but can be a significant problem if the patient is very young at time of surgery(8) \u2013Circumferential limb measurements may be used to assess for swelling and/or loss of muscle mass",
+            "assistive and adaptive devices": "Assess use of ambulatory assistive devices, prostheses, splints and braces, slings, orthotics, footwear, and shoe lifts as indicated. Does patient require assistive devices or technology for ADLs? An orthosis locked into extension is usually applied for sitting and transfers in the acute phase after surgery involving the knee",
+            "balance": "Assess balance in sitting and standing and during walking and functional movement as indicated; assess single limb stance if able and compare time and quality to the unaffected side",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "Perform a complete gait assessment as indicated. Assess locomotion with ambulatory assistive device in acute phase, making note of weight-bearing  on affected limb. When assistive devices have been discontinued and patient is full weight-bearing  status, assess gait, observing for limp, stiff knee pattern, and decreased stance on affected limb. Measure walking velocity \u2013Patients will walk with the knee in an extended position during the stance phase and take stairs step by step, since weight cannot be fully supported through a flexed knee \u2013Patients with functional loss of the quadriceps may compensate with other muscles in the lower extremityAdapt assessment of joint mobility and integrity to the surgical procedure performed. A total joint arthroplasty may be part of the limb-salvage  surgery. In a rotationplasty, the foot is turned 180\u00b0 and the ankle will function as a knee",
+            "muscle strength": " Muscle strength \u2013Assess strength isokinetically and/or isometrically. Assess strength of the entire affected limb and the unaffected limb \u2013Limb-salvage  surgery for osteosarcoma of the knee tends to be accompanied by marked decrease in knee extensor muscle power",
+            "observation inspection palpation including skin assessment": [
+                "Observe for swelling, skin breakdown, redness, and bruising",
+                "Palpate scar tissue for tenderness as appropriate",
+                "Inspect/palpate for contractures",
+                "Inspect for signs/symptoms of DVT"
+            ],
+            "posture": "Perform a posture assessment in sitting and standing, making note of any asymmetry or compensatory deviations",
+            "range of motion": "Assess ROM and flexibility of the entire affected limb and compare to unaffected sideAssess patient\u2019s ability to complete ADLs. A standardized assessment tool, such as those described under special tests below, may be used. Ideally, objective measures of function of adolescent patients should be specific to adolescents",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Assess light touch, proprioception as indicated",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013The Enneking Functional Outcome Score is an index originally devised to assess pain, function, walking distance, use of aids, gait, and emotional acceptance following lower limb musculoskeletal tumor excision and reconstruction. In the upper limb, the Enneking Functional Outcome Score assesses pain, function, emotional acceptance, hand positioning, manual dexterity, and lifting ability. Each variable is assigned a value of 0 to 5. The final score is expressed as a percentage of the patient\u2019s uninjured limb and thus controls for confounding variables such as comorbidities(10) \u2013The Toronto Extremity Salvage Score (TESS) is a 30-item patient-reported  questionnaire that assesses the level of difficulty in everyday activities such as dressing, grooming, mobility, work, sports, and leisure. The TESS has been shown to have validity, reliability, and responsiveness to change in patients with lower extremity sarcomas(11) \u2013Pediatric Outcomes Data Collection Instrument (PODCI) \u2013 A questionnaire originally designed for use in children with musculoskeletal problems, recently used to assess HRQoL in children with bone cancer. The PODCI consists of questions assessing 7 domains including upper extremity and physical function; transfers and basic mobility; sports and physical functioning; pain and comfort; happiness; and global functioning \u2013The Activities Scale for Kids (ASK) has also been investigated for use with adolescents with malignant bone tumors.(13) The ASK is a generic 30-item self-report  measure of physical function designed to describe and evaluate change in children aged 5\u201315  years with orthopedic conditions. Issues regarding item response patterns, including a high rate of selection of NA (not applicable) responses and a high ceiling effect, suggest that its usefulness in this population may be limited(13) ",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Postoperative pain and dizziness must be adequately controlled to proceed with therapy",
+                "It is important for the physical therapist to educate the patient and the patient's family on appropriate strength training and precautions for overuse after discharge with a limb-sparing procedure. This procedure often involves replacement of the long bones, skin grafting procedures, and a total knee replacement. Young adolescent males are often eager to return to full activities and may put their salvaged limbs at risk if they proceed too aggressively after discharge"
+            ]
+        },
+        "diagnosis need for treatment": "Treatment is indicated to improve function and minimize disability caused by osteosarcoma and its treatment, to decrease the care required by these patients, and improve their quality of life",
+        "rule out": "Other bone cancers osteomyelitis; hematological malignancy (plasma cell tumor or lymphoma)",
+        "prognosis": [
+            "Patients who have less than a 90% necrosis as a response to preoperative chemotherapy and with disease progression while undergoing chemotherapy generally have a poor prognosis(25)",
+            "The development of a pathological fracture is a negative prognostic indicator, associated with a reduced 5-year  event-free survival and possibly a higher rate of local recurrence(19) \u2013Based on a systematic review and meta-analysis  that included a total of 1,713 patients with osteosarcoma, of whom 303 had a pathological fracture",
+            "Long-term  prognosis of patients who have local recurrence is poor(20) \u2013Based on a retrospective review of data from 461 patients with osteosarcoma. Records of 45 patients who had local recurrence were analyzed \u2013Chemotherapy after local recurrence was not associated with better survival \u2013The size of the recurrence and presence of metastasis were independent prognostic factors",
+            "In patients with a poor response to chemotherapy (i.e., patients with a poor overall prognosis), amputation has been found to offer better local control, but no survival benefit, over limb-salvage surgery(21)",
+            "Prognosis for normal gait and independent function varies depending on location of the tumor and surgical procedure",
+            "Authors of a meta-analysis  that included 6 high-quality  studies indicate that amputation and limb-salvage  surgery provide similar functional outcomes and quality of life in patients with osteosarcoma or Ewing\u2019s sarcoma(22) \u2013One hundred eighteen participants underwent amputations and 138 underwent limb-salvage  procedures. Participants\u2019 mean age ranged from 17 to 37 years"
+        ],
+        "referral to other disciplines": "A multidisciplinary team is usually involved in the care of osteosarcoma patients. The team usually includes an oncologist, orthopedic surgeon, radiologist, nurse, occupational therapist, physical therapist, orthotist/prosthetist, pain specialist, and pediatrician. Other professionals may include speech-language  pathologists (SLPs), audiologists, psychologists, social workers, and chaplains as indicated.(7) Refer to support groups as indicated",
+        "other considerations": [],
+        "treatment summary": [
+            "Treatment for osteosarcoma patients can vary according to tumor site and limb-salvage  procedure",
+            "in the chronic/late phase, which typically lasts about 6 months but may be extended when additional therapy is necessary, the goal is to maximize function, strength, and mobility \u2013Authors of a study conducted in Austria showed that some long-term  survivors of osteosarcoma about the knee can achieve high levels of sports activity(18) -Information from 120 patients was analyzed -Before the diagnosis of osteosarcoma and at 5 years after reconstruction, 89% were able to perform sports activities. There was a reduction in high-impact  activities  -Complications had no effect on sports participation and no sports-activity-related  complications were found . Problem Goal Intervention Expected ProgressionHome Exercise Program Postoperative pain limiting mobility _ _ Potential for contracture and DVTProtect healing structures _ _ Encourage mobility _ _ Prevent contractures and DVTFunctional training _ Encourage sitting to decrease risk of orthostatic hypotension _ _ Prescription, application of devices and equipment _ An orthosis locked in knee extension to avoid knee flexion contractures should be used for transfers and for when patient sitsTherapy should be coordinated with interdisciplinary team _ _ Weight-bearing should be progressed according to surgeon\u2019s instructionsProvide the patient with simple ROM exercises to perform at home Impaired self-care Maximize independence in self- care, ADLsFunctional training _ Bed mobility and transfer training as appropriate _ _ Prescription, application of devices and equipment _ Equipment may be recommended to assist with ease of ADLs _ _ Equipment prescription may include braces, splints, ambulatory assistive devicesGenerally, patients are weaned from the assistive equipment as strength improves, pain decreases, and fatigue and nausea from chemotherapy diminishPatients may be discharged home with assistive equipment _ _ Patients and caregivers should be educated in appropriate use of equipment Knee extensor weakness after femoral vastus muscles excised and patellar tendon sacrificedFunctional knee extensionTherapeutic exercises _ Progressive resistive exercise program _Gradual progression of intensity of exercisesRepetition of exercises at home  Impaired mobility and gait after lower-limb salvage surgeryFunctional or normal gait depending on site and extent of surgeryTherapeutic exercises _ Training program including exercises for ROM, strength, endurance, balance and coordination,(7) and forced use _ _ Gait training _May start gait training using assistive device, progress to full weight- bearing gradually. Progress to stairs, uneven surfacesEducate patient and caregiver about appropriate weight- bearing and gait technique _ _ Educate about precautions for overuse Risk of falls Decrease risk of falls Education _ Instruct patient and family in fall risk- reduction strategies _ _ Balance trainingProgress each individual as indicatedProvide written instructions on fall-risk"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "independent gait with minimal deviations": [
+            "Gait assessment"
+        ],
+        "independence in functional mobility": [
+            "FMA"
+        ],
+        "safe use of devices": [],
+        "increased endurance, exercise tolerance": [
+            "6MWT",
+            "Borg PRE Scale"
+        ],
+        "increased strength": [
+            "Manual muscle testing (MMT) or isokinetic strength testing"
+        ],
+        "improved rom, prevention of contractures": [
+            "Goniometric measures of ROM"
+        ],
+        "participation in age-appropriate  activities": [],
+        "decreased pain": [
+            "V AS"
+        ],
+        "improved balance": [
+            "Balance testing"
+        ]
+    },
+    "maintenance or prevention": [
+        "Although the risk of many cancers can be reduced with lifestyle changes (such as maintaining a healthy weight or quitting smoking), at this time there are no known ways to prevent osteosarcoma",
+        "Most known risk factors for osteosarcoma (e.g., age, height, race, sex, and certain bone diseases and inherited conditions) cannot be changed "
+    ],
+    "patient education": [
+        "See patient/family information at the website of the American Cancer Society at http://www.cancer.org/cancer/ osteosarcoma.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Rathmore B. Bone tumor, primary malignant. Ferri FF, ed. Ferri's Clinical Advisor 2021 . : Elsevier; 2021. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Guenther LM, Rowe RG, Acharya PT, et al. Response Evaluation Criteria in Solid Tumors (RECIST) following neoadjuvant chemotherapy in osteosarcoma. Pediatr Blood Cancer. 2018;65(4):e26896. doi:https://doi.org/10.1002/pbc.26896. (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Arndt C. Malignant tumors of bone. In: Kliegman RM, St Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics . 21st ed. : Elsevier; 2020:558-563.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Whelan JS, Davis LE. Osteosarcoma, chondrosarcoma, and chordoma. J Clin Oncol . 2018;36(2):188-193.  doi:https://doi.org/10.1200/JCO.2017.75.1743. (G)"
+        },
+        {
+            "number in article": 5,
+            "reference": "O\u2019Donnell RJ, DuBois SG, Haas-Kogan  DA. Sarcomas of bone. In: De Vita VT, Lawrence TS, Rosenberg SA, eds. Cancer Principles & Practice of Oncology . 10th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2015:1292-1311.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Meyer JS, Nadel HR, Marina N. Imaging guidelines for children with Ewing sarcoma and osteosarcoma: a report from the Children's Oncology Group Bone Tumor Committee. Pediatr Blood Cancer . 2008;51(2):163-170.  (G)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Punzalan M, Hyden G. The role of physical therapy and occupational therapy in the rehabilitation of pediatric and adolescent patients with osteosarcoma. Cancer Treat Res . 2009;152:367-384.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Heare T, Hensley MA, Orfano S. Bone tumors: osteosarcoma and Ewing's sarcoma. Curr Opin Pediatr . 2009;21(3):365-372.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Henderson T, Levine J, Patel S, Oeffinger KC. Cases in point. A risk-based  approach to the care of survivors of childhood cancer: 3 case studies: case 3. Consultant . 2008;48(6):443-445.  (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Wada T, Kawai A, Ihara K. Construct validity of the Enneking score for measuring function in patients with malignant or aggressive benign tumours of the upper limb. J Bone Joint Surg Br . 2007;89-B(5):659-663.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Davis AM, Bell RS, Badley EM, Yoshida K, Williams JI. Evaluating functional outcome in patients with lower extremity sarcoma. Clin Orthop Relat Res . 1999;(358):90-100.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Luetke A, Meyers PA, Lewis I, Juergens H. Osteosarcoma treatment-  where do we stand? A state of the art review. Cancer Treatment Rev . 2014;40(4):523-532.  doi:10.1016/ j.ctrv.2013.11.006. (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Piscione JP, Davis AM, Young NL. An examination of adolescent bone tumor patient responses on the Activities Scale for Kids (ASK). Phys Occup Ther Ped . 2014;34(2):213-228.  doi:10.3109/01942638.2013.784719. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Fletcher GG, Pollet A, Popovic S, et al. Best practices for oncologic pathology secondary review: Bone and soft tissue cancers (sarcoma). A quality initiative of the Program in Evidence-Based  Care (PEBC). Cancer Care Ontario (CCO). CCO  Web site. https://www.cancercareontario.ca/sites/ccocancercare/files/guidelines/full/pebc22-2-3es_0.pdf . (G)"
+        },
+        {
+            "number in article": 15,
+            "reference": "The ESMO/European Sarcoma Network Working Group. Bone sarcomas: ESMO clinical practice guidelines for diagnosis, treatment and follow-up.  Ann Oncol . 2014;25(suppl 3):iii113-iii123.  doi:10.1093/annonc/mdu256. (G)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Lee RJ, Arshi A, Schwartz HC, Christensen RE. Characteristics and prognostic factors of osteosarcoma of the jaws: a retrospective cohort study. JAMA Otolaryngol Head Neck Surg. 2015;141(5):470-477.  doi:10.1001/jamaoto.2015.0340. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Puri A, Gulia A, Pruthi M. Outcome of surgical resection of pelvic osteosarcoma. Ind J Orthop . 2014;48(3):273-278.  doi:10.4103/0019-5413.132515.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Lang NW, Hobusch GM, Funovics PT, Windhager R, Hofstaetter JG. What sports activity levels are achieved in patients with modular tumor endoprostheses of osteosarcoma about the knee?. Clin Orthop Relat Res . 2015;473(3):847-854.  doi:10.1007/s11999-014-3788-2.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Salunke AA, Chen Y, Tan JH, Chen X, Khin LW, Puhaindran ME. Does a pathological fracture affect the prognosis in patients with osteosarcoma of the extremities?: A systematic review and meta-analysis.  Bone Joint J . 2014;96-B(10):1396-1403.  doi:10.1302/0301-620X.96B10.34370.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Takeuchi A, Lewis VO, Satcher RL, Moon BS, Lin PP. What are the factors that affect survival and relapse after local recurrence of osteosarcoma? Clin Orthop Relat Res . 2014;472(10):3188-3195.  doi:10.1007/s11999-014-3759-7.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Reddy KI, Wafa H, Gaston CL, et al. Does amputation offer any survival benefit over limb salvage in osteosarcoma patients with poor chemonecrosis and close margins?. Bone Joint J. 2015;97-B(1):115-120.  doi:10.1302/0301-620X.97B1.33924.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Mei J, Zhu XZ, Wang ZY, Cai XS. Functional outcomes and quality of life in patients with osteosarcoma treated with amputation versus limb-salvage  surgery: a systematic review and meta-analysis.  Arch Orthop Trauma Surg . 2014;134(11):1507-1516.  doi:10.1007/s00402-014-2086-5.  (M)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Giun-Yi H, Hsiu-Ju Y, Chueh-Chuan  Y, et al. Improvement in high- grade osteosarcoma survival: results from 202 patients treated at a single institution in Taiwan. Medicine. 2016;95(15):1-10.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Sanchez E, Martin-Carreras  T, Bornstein G, Wasyliw CW, Scherer KF, Bancroft LW. Osteosarcoma of the foot. Orthopaedics . 2015;38(11):656-660.  (C)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Anderson ME. Update on survival in osteosarcoma. Orthop Clin North Am . 2016;47(1):283-292.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Imura Y, Takenaka S, Kakunaga S. Survival analysis of elderly patients with osteosarcoma. Int Orthop . 2019;43(7):1741-1747.  doi:https://doi.org/10.1007/s00264-019-04332-y. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Sadykova LR, Ntekim AI, Muyangwa-Semenova  M, et al. Epidemiology and risk factors of osteosarcoma. Cancer Invest . 2020;38(5):259-269.  doi:https// doi.org/10.1080/07357907.2020.1768401. (RV)"
+        }
+    ]
+}

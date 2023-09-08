@@ -1,0 +1,280 @@
+{
+    "metadata": {
+        "title": "Leg Cramps, Nocturnal",
+        "synonyms": [
+            "nocturnal leg cramps",
+            "cramps, nocturnal leg",
+            "nocturnal muscle cramps",
+            " sleep-related  muscle cramps",
+            "night cramps",
+            "cramps, night",
+            "age-related  night cramps"
+        ],
+        "anatomical location body part affected": [
+            "Lower extremity; most commonly muscles of the calf and foot"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "neurological rehabilitation",
+            "women\u2019s health",
+            "home care",
+            "geriatric rehabilitation"
+        ],
+        "description": [
+            "Nocturnal leg cramps (NLCs) are suddenly occurring, episodic, persistently painful, involuntary contractions of the calfor foot muscles at night. Recurrent NLCs cause fatigue and muscle pain that reduce functional ability in ADLs(7,8) \u2013Some authors include the hamstring muscles in NLCs. However, one diagnostic characteristic of NLCs is they are seldom located in the thigh(7)",
+            "Up to 33% of adults over 50 years of age(7)and approximately 25% of the general population experience NLCs(8)",
+            "By definition NLCs occur at nighttime, although patients may also experience \u201crest cramps\u201d during the day(3)",
+            "NLCs are often hard to distinguish from restless leg syndrome (RLS) and periodic limb movement disorder(7) -Authors of a 2017 systematic review examined the differences between NLCs, RLS and periodic limb movement disorder in adults over 50. It was based on eight RCTs and ten observational studies followed by a Delphi study. The authors came up with the following distinguishing characteristics for each diagnosis:(35)NLCs \u2013 Intense pain,period of seconds to a maximum of 10 minutes,located inposterior calf or foot,subsequent pain,sleep disruptionand distress -RLS \u2013Irritating,  burning, crawling sensations, in episodes, an urge to move, reduction of symptoms by activity, no pain -Periodic limb movement disorder \u2013No pain, repeating, jerking movements, duration 20\u201330  seconds",
+            "In the past, quinine was recommended to treat NLCs but is now discouraged because of serious adverse effects. Most recommendations indicate that stretching before bedtime may be beneficial, but more research needs to be done(9)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "R25.2": "cramp and spasm",
+            "G47.62": "leg, sleep related (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified for NLCs. Reimbursement for physical therapy will depend on the individual\u2019s insurance contract "
+        ],
+        "presentation signs and symptoms": [
+            "Intense pain, period of duration from seconds to maximum 10 minutes, location in calf or foot, persistent subsequent pain, sleep disruption, and distress(7)",
+            "Falling asleep and/or staying asleep disrupted by spontaneous painful muscle contraction (spasm,knot, tightening, twinge, strain) in one or both legs(3)",
+            "Sleep loss and residual muscle soreness (often in the calf or foot) may impair ADLs",
+            "Cramp intensity can range from mild to severe. Cramp duration typically lasts several minutes and frequency can vary from once a week to daily",
+            "Cramp duration and muscle pain may be lessened by forceful stretching of cramped muscle(3,8) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "The majority of cases of NLCs are considered idiopathic(3)",
+            "NLCs likely involve uninhibited alpha motor nerve activity to the affected muscles, although numerous factors maycontribute to peripheral nerve spontaneous discharges\u2013Dehydration from chronic insufficient fluid intake may contribute to NLCs in older adults due to their inadequate fluidintake\u2013Electrolyte imbalances (e.g., hypomagnesemia, hypocalcemia, hypokalemia)\u2013Unaccustomed physical activity with local leg muscle fatigue may contribute to NLCs",
+            "Medical conditions associated with NLCs(7)\u2013Heart and vascular diseases/conditions: coronary artery disease, peripheral vascular disease, hypertension, varicose veins,ankle edema, vascular occlusive disease, and leg claudication\u2013Kidney diseases and conditions: renal dialysis, hemodialysis, uremia, hypocalcemia, and hypokalemia\u2013Neurological diseases: neuropathies, motor neuron disease, radiculopathy or hereditary crampsyndromes,neuromuscular or neurological diseases,peripheral neuropathy, amyotrophic lateralsclerosis, poliomyelitis, lumbar spinalradiculopathy,lumbar canal stenosis, and stroke\u2013Musculoskeletal disorders: arthritis and myopathies\u2013Metabolic disorders: diabetes mellitus, plasmaelectrolyte abnormalities, liver cirrhosis,postphlebitic syndrome volumedepletion, hyponatremia, hyper-  and hypothyroidism, and acute extracellular volume depletion including excessiveperspiration",
+            "Medications that may increase risk of NLCs(3,8)\u2013intravenous iron sucrose\u2013conjugated estrogens\u2013raloxifene\u2013naproxen\u2013teriparatide\u2013\u03b22\u2011agonists\u2013potassium\u2011sparing diuretics\u2013thiazide diuretics\u2013statins and loop diuretics"
+        ],
+        "pathogenesis": [
+            "The pathophysiology of NLCs is poorly understood(8)",
+            "It has been suggested that cramps are neurogenic processes, but their origin is a topic of debate. Some suggest there is aphysiological predisposition for cramps(8)",
+            "NLCs likely have a spinal nerve origin, similar to common muscle cramps during exercise,(6) due to\u2013hyperexcitability of the alpha motor nerve or decreased threshold of the motor nerve terminal\u2013spinal disinhibition (i.e., decreased Golgi tendon organ inhibition) because the muscle is shortened or unstretched",
+            "Authors of a small cohort study (n = 12 patients with NLCs) in South Korea found that injection of an anesthetic intomyofascial trigger points in the calf reduced the pain and frequency of NLCs(6)\u2013Dehydration may promote NLCs by reducing the interstitial fluid space occupied by alpha motor nerve endings. Thissuggests that dehydration may cause deformation of the nerve ending and increase excitability (i.e., mechanically evokedstimulation)",
+            "Pathophysiology associated with increasing age includes normal age\u2011related loss of motor neurons,tendon shortening, andischemic disease due to diabetes mellitus and other vascular risk factors as well as prolonged immobility(8)"
+        ],
+        "risk factors": [
+            "Older age(8)\u2013Older females more than older males(13)",
+            "Pregnancy\u201333% to 55% of pregnant women report NLCs in association which may be associated with venous insufficiency(3)",
+            "Shortened muscle length among older, less physically active persons(7)",
+            "Neurologic, vascular, and kidney diseases as well as musculoskeletal and metabolic disorders mentioned in Causes , above",
+            "Repetitive movement and/or high-intensity  activity(8)",
+            "Dehydration(7)",
+            "Fluid and electrolyte abnormalities due to hypocalcemia, hypernatremia, hypoglycemia, hypomagnesemia, hyperkalemia,hypokalemia, dialysis, or chronic diarrhea(8)",
+            "Summer season\u2013Authors of a 2015 epidemiological study of the British Columbia, Canada health-care  databases (N = 4.2 millionresidents) found that new prescriptions for quinine related to NLCs roughly doubled during the high temperatures ofsummer compared to the low temperatures of winter(4)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Ensure adequate hydration",
+        "It is important to respect the patient\u2019s subjective complaints of leg pain during evaluation and treatment sessions",
+        "Clinicians should follow the guidelines of their clinic/hospital and the physician\u2019s orders",
+        "Contact physician if patient has signs and symptoms of deep vein thrombosis (DVT). For more information, see Clinical Review\u2026Deep Vein Thrombosis: Exercise ; CINAHL Topic ID Number:T708457",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Idiopathic cramping, but possibly related to predisposing factors",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "Document any prescribed medications and whether or not they are being taken There are no medications that are currently recommended for routine treatment of NLCs because of potential harm (as in the case of quinine sulfate) and limited or lowquality  evidence for efficacy(3,5,9) Quinine sulfate is no longer available in the United States by prescription and is FDA approved only for the treatment of malaria(3) The FDA recommends against using quinine for leg cramps because the potential harm outweighs the benefits of therapy(1) According to American Academy of Neurology guidelines, quinine derivatives should not be prescribed for routine use in the management of muscle cramps because of the potential for toxicity. These agents should be considered only when cramps are very disabling, no other medications relieve symptoms, and there is careful monitoring of side effects. Patients need to be informed of the potential serious side effects Thirty-eight  cases of serious side effects associated with the use of quinine to treat NLCs were reported between April 2005 and October 2008 in the United States, which prompted the manufacturer to develop a risk management plan aimed at educating healthcare professionals and patients(1)  If patient has diagnosis of lumbar spinal stenosis and NLCs, he or she may be prescribed botulinum toxin (BTX) Results of an RCT indicated that BTX was more effective than gabapentin plus conservative treatments for NLCs in patients with lumbar spinal stenosis(10) Magnesium supplements are marketed for the prophylaxis of cramps. However, authors of a 2020 Cochrane Review of(11) Magnesium is unlikely to help older adults with muscle cramps There is conflicting evidence about the use of magnesium in pregnancy for patients who experience rest cramps No studies looked at the effect of magnesium on exercise-induced  cramps Diagnostic tests completed(3) Testing is usually not indicated to diagnose NLCs, but electromyography (EMG)/nerve conduction study may be helpful to rule out peripheral neuropathy(7) Blood tests to assess plasma electrolyte levels, kidney function, glucose, liver enzymes, vitamin B12, thyroidstimulating hormone, and serum lead, lactate, and creatine kinase (CK) levels Angiography or duplex scan of legs and feet MRI of lumbosacral spine Liver ultrasound Polysomnography",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before symptoms come on or are eased) To ease the cramped muscle patients may report getting out of bed, ambulating, or attempting to exercise and stretch Periods of prolonged standing at home or work may aggravate the conditionUse body chart to document location and nature of symptoms. NLCs most often affect the gastrocnemius and soleus or foot musculature. Cramping may be isolated to one muscle or associated limb movement.Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). How long do cramps last? Do the cramps reoccur during the night? NLCs may continue for several hours after the initial cramping episode(3)Use a visual analog scale (V AS) or 010 scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables. Do NLCs occur daily? If not, what is the frequency?Document frequency and duration of wakings per week due to NLCs. Does there appear to be a pattern? Otherwise, does the patient have difficulty falling or staying asleep? If so, how long does it take to fall asleep?Document the use of any supplemental oxygen or breathing treatmentsDocument other symptoms the patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician, including symptoms of DVT Barriers to learning Are there any barriers to learning? Yes __ No __ If Yes, describe__________________________",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis",
+                    "comorbid diagnoses": "Does the patient have any medical conditions that increase the risk of cramping, such as peripheral vascular disease, diabetes, kidney disease, neurological disease, orthopedic problems (e.g., spinal stenosis), varicose veins, pregnancy, or thyroid disorder? Is the patient being treated for dehydration?",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs). Is the patient taking any medications that may increase the risk of NLCs? Is the patient taking a multivitamin? See Causes , above, for medications associated with NLCs ",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing. Ask about symptoms of dehydration (e.g., thirst, dry mouth, decreased urine output)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Does the patient perform any activities that could be contributing to his or her symptoms, such as prolonged standing at work?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient require the use of assistive devices or adaptive equipment within the home?",
+                "living environment": "Determine presence of stairs, number of floors in home, available caregivers, as indicated"
+            },
+            "general": "Document other symptoms the patient may be experiencing that could exacerbate the condition and/or"
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  Listed below are findings pertinent to NLCs. Physical examination is unlikely to assist with identifying factors that contribute to NLCs due to their idiopathic origin, unpredictability, and nocturnal occurrence(3)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "Assess static and dynamic standing balance and note any asymmetry. Use the Berg Balance Scale",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess distal pedal pulses. Note any asymmetry or abnormality. Patients with peripheral vascular disease often present with diminished distal pulses",
+            "functional mobility": "Assess ability to perform basic functional mobility tasks (e.g., transfers, stair negotiation, squatting, and kneeling) safely. A functional scale such as the FIM or Timed Up and Go (TUG) test can be usedAre there abnormalities that seem to be contributing to the problem (e.g., the patient may be walking with a flexed knee that is contributing to tightness in the hamstring or gastrocnemius or decreased ankle dorsiflexion at initial contact)? Does the patient require the use of an assistive device for safety? Observe for equal stride and step length and the presence of a Trendelenburg gait. Does the patient report pain with ambulation? If so, at what distance?",
+            "gait locomotion": "",
+            "muscle strength": "Assess bilateral lower extremity strength using manual muscle testing (MMT). Does the patient report pain with muscle testing?",
+            "observation inspection palpation including skin assessment": [
+                "No obvious swelling, redness, or warmth related to NLCs is expected",
+                "Decreased temperature in conjunction with weak distal pulse may indicate peripheral vascular disease",
+                "Note the presence of pain associated with palpating any specific muscle groups",
+                "Palpate for increased tissue tension, hypertonia, or hypotonia within the muscle belly; this may be detected during and immediately following a muscle cramp",
+                "Palpate the neck for the presence of a goiter, which may indicate thyroid disease associated with NLCs(3)",
+                "Observe for resting muscle tremors"
+            ],
+            "posture": "Assess for bilateral symmetry of the affected muscle(s). Does the patient\u2019s posture indicate tightness of affected muscles that may contribute to the problem?",
+            "range of motion": " Range of motion \u2013Assess active ROM for bilateral upper and lower extremities and note any asymmetry. Active or passive ROM of the involved joint(s) may be decreased due to muscle contracture, pain, or spasm \u2013Assess bilateral gastrocnemius, soleus, dorsiflexor, hamstrings, quadriceps, hip flexor, and tensor fascia latae muscle length. Note any restrictions or pain associated with muscle length testingAssess bilateral lower extremity deep tendon reflexes and note any asymmetry or abnormal response(3) \u2013Areflexia may indicate hypokalemia in patients with severe fluid/electrolyte loss(3)Assess bilateral lower extremity dermatomes for light touch and sharp-dull  and note any asymmetry. Sensation may be impaired in patients with diabetes, peripheral vascular disease, or lumbar spinal stenosis",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " \u2013Insomnia Severity Index (ISI) may be used to assess impact of sleep disturbance ",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Cold urticaria",
+                "Cold intolerance",
+                "Paroxysmal cold hemoglobinuria",
+                "Cryoglobulinemia",
+                "Raynaud\u2019s disease or phenomenon",
+                "Over a regenerating peripheral nerve",
+                "Over a circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "With individuals with poor cognition",
+                "In the very young and the very old",
+                "Persons with an aversion to cold"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with NLCs may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician regarding the use of physical or electrotherapeutic modalities or exercise therapy. Rehabilitation professionals should always use their professional judgment with regard to use of electrophysical modalities and exercise",
+                "Neither massage nor heat or cold modalities have been shown to effectively reduce or prevent symptoms in NLCs(2)",
+                "Cryotherapy contraindications(2)",
+                "Cryotherapy precautions(2)"
+            ]
+        },
+        "diagnosis need for treatment": "Idiopathic NLCs/sleep disturbance; possible impaired mobility due to residual muscle pain after cramping",
+        "rule out": " Rule out  (7) Muscle strain RLS\u2013  symptoms are irritating, burning, crawling sensations, in episodes, an urge to move, reduction of symptoms by activity, no pain Periodic limb movement disorder \u2013symptoms  are no pain, repeating, jerking movements, duration 20\u201330  seconds Exercise-associated  or heat cramps (onset during or immediately following exercise) Intermittent claudication (pain with exercise and relieved with rest) Deep vein insufficiency/thrombosis Peripheral arterial disease with claudication Hypnic myoclonus (involuntary and sudden jerking at the onset of sleep) Acute contusion Peripheral neuropathy (numbness, tingling, and \u201celectrical\u201d pain with possible cramping) Focal dystonia Metabolic myopathy Myositis, myalgias (deep aching pain and poor tolerance for exertion, including exercises)",
+        "prognosis": [],
+        "referral to other disciplines": " Referral to other disciplines Refer to physician if patient presents with signs and symptoms of undiagnosed peripheral vascular disease or neuromuscular pathology associated with NLCs Refer patient to nutritionist for assistance with electrolyte/fluid balancing ",
+        "other considerations": [
+            "Results from a study asking patients about the treatments they use for NLCs revealed a great diversity of pharmaceutical and nonpharmaceutical practices. The authors noted that many of the treatments reported by patients have not previously been described in the medical literature(12) \u2013Based on a French survey of 632 patients 60 years or older \u2013Putting soap in the bed was the number one nonpharmaceutical practice, followed by stretching and heat"
+        ],
+        "treatment summary": [
+            "Walking, stretching, and massage are the first-line  of treatment for resolving the onset of acute NLCs",
+            "Stretching \u2013A 6-week  stretching regimen to the calves and hamstrings was found to reduce pain intensity and frequency of NLCs in patients age 75 and older(13) -Based on a pilot RCT conducted in the Netherlands involving 29 patients 75 and older who were considered frail and who had at least one NLC per week -The intervention stretching regimen was three stretch exercises of 20 seconds each, lasting a total of 60 seconds, performed each day before sleep for six weeks. A physical therapist provided the initial teaching and a research assistant followed up after and 3 weeks into study to provide corrections to technique. Participants were also instructed on how to keep a daily record of the frequency and intensity of pain, which was analyzed in week 1 and week 6 -A control group did not receive instruction in the stretching regimen. All participants were asked to continue their usual daily physical activity",
+            "Positioning \u2013Patients should be advised to experiment with their sleeping position (e.g., raise the head of their bed and/or prop feet up high on pillows) \u2013Patients may also try sleeping in the prone position with feet hanging over end of bed to minimize ankle plantar flexion, if tolerated",
+            "Exercise \u2013Light exercise with stationary bike or treadmill prior to bedtime \u2013Graded exercise for patients with underlying muscle weakness",
+            "Patient education \u2013Muscle shortening is associated with increased risk of NLCs.(35)(36) Patients should therefore be advised to not point their toes while in the supine position and to avoid tight bed covers that can cause toe pointing \u2013Patient education should include recommendations for proper sleep hygiene and maintenance of normal hydration",
+            "If exercise therapy is used to improve strength and ROM in the lower extremities, monitor its effect on frequency and duration of NLCs. Also document whether cramps occur during therapeutic exercise . Problem Goal Intervention Expected Progression Home Program Frequent and severe NLCsResolve acute cramps and reduce frequency of NLCsTherapeutic modalities _ Passive self- stretching(13)Cessation of acute muscle pain, with reduced frequencyPatient education on self-stretching exercises of affected muscles Residual pain and soreness with reduced functional mobilityDecrease pain and soreness _ _ Normalize functionPhysical agents and mechanical modalities _ Evidence is lacking to support the use of local heat or cold. Trial of stretching(13)Resolution of symptomsPatient education on home treatment  Reduced leg strength and/or flexibilityNormalize leg strength and flexibilityTherapeutic exercise _ Program of stretching (13) and progressive resistance and/or ROM exercises. Incorporate functional mobility activities and static and dynamic balance activities _ _"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "resolved pain and tenderness in affected muscles v as for pain and severity of nlcs": [],
+        "reduced frequency and severity of nlcs number of wakings per night associated with nlcs": [],
+        "improved sleep quality isi": [],
+        "self-reported  improved quality of life sf-": [],
+        "improved functional mobility tug, fim, mwt": [],
+        "improved gait mobility without complaints of pain reassessment of functional mobility  as applicable": [],
+        "improved standing balance berg balance scale  as applicable": []
+    },
+    "maintenance or prevention": [
+        "Maintain adequate hydration and electrolyte balance",
+        "Self-massage;  calf and/or hamstring stretching 2\u20133 times a day,or calf and hamstring stretching just before bedtime, may aid in preventing NLCs (13)"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "FDA Drug Safety Communication: New risk management plan and patient Medication Guide for Qualaquin (quinine sulfate). U.S. Food and Drug Administration Web site. https://www.fda.gov/Drugs/DrugSafety/ucm218202.htm . Published March 2017. Accessed January 24, 2021. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016. (GI) "
+        },
+        {
+            "number in article": 3,
+            "reference": "Young G. Leg cramps. BMJ Clin Evid . May 13, 2015;pii: 1113. . (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Garrison SR, Dormuth CR, Morrow RL, Carney GA, Khan KM. Seasonal effects on the occurrence of nocturnal leg cramps: a prospective cohort study. CMAJ. 2015;187(4):248-253.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Hogan DB. Quinine: not a safe drug for treating nocturnal leg cramps. CMAJ. 2015;187(4):237-238.  doi:10.1503/cmaj.150044. (X)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kim DH, Yoon DM, Yoon KB. The effects of myofascial trigger point injections on nocturnal calf cramps. J Am Board Fam Med . 2015;28(1):21-27.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Hallegraeff J, de Greef M, Krijnen W, van der Schans C. Criteria in diagnosing nocturnal leg cramps: a systematic review. BMC Fam Pract . February 28, 2017;18:1-9. doi:10.1186/s12875-017-0600-x.  (SR)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Tipton PW, Wszotek ZK. Restless legs syndrome and nocturnal leg cramps: a review and guide to diagnosis and treatment. Polish Arch Intern Med . 2017;127(12):865-872. doi:10.20452/pamw.4148. (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Trotti LM. Restless legs syndrome and sleep-related  movement disorders. Continuum . August 23, 2017;4:1005-1016.  doi:10.1212/CON.0000000000000488. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Park SJ, Yoon KB, Yoon DM, Kim SH. Botulinum toxin treatment for nocturnal calf cramps in patients with lumbar spinal stenosis: A randomized clinical trial. Arch Phys Med Rehabil. May 2017;98(5):957-963.  doi:10.1016/j.apmr.2017.01.017. (RCT)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Garrison SR, Korownyk CS, Kolber MR, et al. Magnesium for skeletal muscle cramps. Cochrane Database Syst Rev . September 21, 2020;9:CD009402. doi:10.1002/14651858.CD009402.pub3. (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Lorenzo M, Schaeffer M, Haller DH, Maisonneuve H. Treatment of nocturnal leg cramps by primary care patients over the age of 60. Fam Pract . 2018;35(1):29-33.  doi:10.1093/ fampra/cmx062. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Hallegraeff J, de Greef M. Pilot testing a stretching regimen for prevention of night time nocturnal leg cramps. Geriatr Nurs . 2020;41(2):105-109.  doi:10.1016/ j.gerinurse.2019.07.010. (RCT)"
+        }
+    ]
+}

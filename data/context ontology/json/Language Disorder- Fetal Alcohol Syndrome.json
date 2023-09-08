@@ -1,0 +1,429 @@
+{
+    "metadata": {
+        "title": "Fetal Alcohol Syndrome  Communication Disorders",
+        "synonyms": [
+            "fetal alcohol syndrome  speech therapy",
+            "fetal alcohol syndrome disorder (fasd): communication disorders",
+            "fetal alcohol syndrome disorder (fasd): speech therapy",
+            "fas: communication disorders",
+            "speech therapy: fetal alcohol syndrome",
+            " communication disorders: fetal alcohol syndrome",
+            "communication impairment: fetal alcohol syndrome",
+            "language disorder: fetal alcohol syndrome",
+            "language impairment: fetal alcohol syndrome"
+        ],
+        "anatomical location body part affected": [
+            "Central nervous system (CNS), facial features; skeleton; heart"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders",
+            "learning disabilities"
+        ],
+        "description": [
+            "Fetal alcohol spectrum disorders (FASD) is an umbrella term that describes the range of effects that can occur in an individual whose mother drank alcohol during pregnancy.(29) These effects might include physical, mental, behavioral, or learning impairments. The term FASD is not intended for use as a clinical diagnosis. Fetal alcohol syndrome (FAS) is the most severe end of the FASD spectrum, in which a fetus or newborn is exposed to alcohol and subsequently exhibits a pattern of abnormal facial features and impaired development of the brain/central nervous system (CNS).(4,6) The other diagnostic terms under the umbrella of FASD are partial fetal alcohol syndrome (PFAS) and neurobehavioral disorder associated with prenatal alcohol exposure (ND-PAE)(30)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "P04.3": "fetus and newborn affected by maternal use of alcohol",
+            "Q86.0": "fetal alcohol syndrome (dysmorphic) (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. Early-intervention  services will be important for consultative and therapeutic intervention"
+        ],
+        "presentation signs and symptoms": [
+            "Individuals with FAS will present with neurological and physical symptoms",
+            "Neurological deficits include: \u2013intellectual disability; worse for children with a higher exposure to alcohol(13,14,18) \u2013attention deficits, specifically for encoding or holding information while performing a mental operation and shifting, or the ability to change focus from one stimulus to another.(2,13,14,18) Also, children with FAS perform poorly when required to attend to visual versus auditory information.(14) Overall, children with FAS have greater difficulty processing complex information compared to peers who are typically developing(14)  \u2013impaired executive functioning specifically for working memory and response inhibition; becomes worse as task complexity increases(14) \u2013difficulty performing mathematical computations or processing numbers(2,10,13,15) \u2013language deficits in the areas of naming, grammar comprehension, and pragmatics.(14) However, these deficits might be closely associated with cognitive deficits such as working memory and self-regulation(14) \u2013visual perception integration (e.g., tasks involving clock drawing or copying tasks)(14,25,26) \u2013learning and memory deficits(2,7,13,14,15,22,26,42) \u2013hyperactivity(14) \u2013behavioral and adaptive difficulties, including impulsivity, memory deficits, and decreased social interaction skills(12,13,26) \u2013infant withdrawal (observed in infants with known high prenatal exposure to alcohol) and emotional disturbances(36) \u2013increased incidence of ear infections due to underdeveloped audiological systems; deficits in hearing, including conductive or sensory neural hearing loss and/or central auditory processing disorder(10,25)",
+            "Facial characteristics include: \u2013facial dysmorphia(7,14,23) \u2013short palpebral fissures(29) \u2013small, flat nasal bridge(7) \u2013flat/smooth philtrum(29) \u2013small teeth(7) \u2013smooth, thin upper lip(7)",
+            "Physical symptoms include: \u2013microcephaly (decreased head circumference)(7) \u2013growth deficiency(45) \u2013delayed fine and gross motor development(7,14,23) \u2013decreased joint mobility(7) \u2013cardiac abnormalities(7,23) \u2013central nervous system dysfunction(7,14,23) \u2013skeletal abnormalities(7,23) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Children with FAS are at increased risk for abuse. Studies indicate children with FAS are two to three times more likely to have been abused physically, emotionally, or sexually.(10) Children with FAS are often raised by parents with alcohol abuse problems or are placed in foster care; additional environmental risks and adaptation problems will likely be present(17)",
+            "Children with FAS sometimes present as excessively affectionate. They often have difficulty distinguishing familiar people from unfamiliar people and enjoy physical touch, which causes concern for physical safety.(17) Always include the child\u2019s parent or legal guardian during the assessment process",
+            "Consideration of the child\u2019s cultural background must be established when evaluating speech, language, and cognition",
+            "Due to the wide range of deficits children with FAS exhibit, speech-language  pathologists (SLPs) must collaborate with many disciplines to best evaluate and treat children with FAS. Specifically, children with FAS often demonstrate decreased adaptive skills that impact their ability to participate and function in society.(8,12) Consultation with the following specialties will be critical to identify a need for further intervention as soon as possible: neuropsychology, physical therapy, occupational therapy, pediatrics, social work, special education services, health and human service departments, and departments of justice and legal advocacy(10)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "FAS is the result of alcohol ingested by the mother that is then passed on to a fetus or newborn. Alcohol is transferredfrom the mother to the placenta, impacting the growth of fetal cells and organs. For a newborn baby, alcohol is transmittedthrough breast milk.(7) The United States Department of Health and Human Services labels alcohol as a teratogen (i.e.,something that causes developmental disabilities) and has stated that no amount of alcohol is considered safe for a fetus ornewborn(47)"
+        ],
+        "pathogenesis": [
+            "FAS occurs due to alcohol ingestion by the mother. Alcohol is a toxin that is transferred through the placenta and results incell death and neuronal damage to the developing fetus"
+        ],
+        "risk factors": [
+            "Consumption of alcohol during pregnancy(4,7,29,31)\u2013In a study conducted in the United States with 216 first graders, researchers found that mothers of children who hadFASD reported consuming significantly more alcoholic drinks during the three months prior to pregnancy than did themothers of children without FASD(31)\u2013In the same study of 216 first graders, researchers found that the mothers of children with FASD also reported thattheir husbands/partners consumed significantly more drinks per day during pregnancy as well as more (approachingsignificance) paternal binge drinking than did the mothers of children without FASD(31)",
+            "Presence of the maternal ADH1B*3  allele seems to provide some level of protection to the fetus from prenatal alcoholexposure(11)",
+            "Authors of a systematic review of 15 articles on maternal factors related to development of FAS reported the followingmaternal characteristics as risk factors for FAS: older age, lower educational level, family members with a history ofalcohol abuse, minimal prenatal care, and a more severe pattern of alcohol consumption in general, as well as duringpregnancy(32)",
+            "In the abovementioned study conducted in the United States with 216 first graders, researchers found that mothers ofchildren who had FASD in this sample reported the recognition of their pregnancy further into gestation than did mothersof children without FASD(31)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Children with FAS are at increased risk for abuse. Studies indicate children with FAS are two to three times more likely to have been abused physically, emotionally, or sexually.(10) Children with FAS are often raised by parents with alcohol abuse problems or are placed in foster care; additional environmental risks and adaptation problems will likely be present(17)",
+            "Children with FAS sometimes present as excessively affectionate. They often have difficulty distinguishing familiar people from unfamiliar people and enjoy physical touch, which causes concern for physical safety.(17) Always include the child\u2019s parent or legal guardian during the assessment process",
+            "Consideration of the child\u2019s cultural background must be established when evaluating speech, language, and cognition",
+            "Due to the wide range of deficits children with FAS exhibit, speech-language  pathologists (SLPs) must collaborate with many disciplines to best evaluate and treat children with FAS. Specifically, children with FAS often demonstrate decreased adaptive skills that impact their ability to participate and function in society.(8,12) Consultation with the following specialties will be critical to identify a need for further intervention as soon as possible: neuropsychology, physical therapy, occupational therapy, pediatrics, social work, special education services, health and human service departments, and departments of justice and legal advocacy(10)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Determine when the diagnosis of FAS was made. Review history from the pediatrician. Diagnosis of FAS is often delayed as it is not well understood or recognized in children with developmental disability.(35) In many cases, children with FAS are initially given other diagnoses (e.g., attention deficit hyperactivity disorder, sensory processing disorder, fine motor delay), but the underlying cause, FAS, is not identified until much later.(35) Any child with a developmental delay with known prenatal alcohol exposure should be referred for a full diagnostic evaluation for FASD(39) -Document ages of developmental milestones -At what age did the child begin producing words, cooing, babbling? Language milestones are often delayed in children with FAS -When did the child start to name objects, people? -When did the child begin to put two words together? -How intelligible is the child\u2019s speech? -What sounds are difficult for the child to say? -Does child follow directions? -Does child use gestures, such as pointing, to communicate? -Determine any complications, trauma, or illnesses during pregnancy  -Did the mother take drugs while pregnant? If so, what kind? -When did the mother deliver? -How much did the patient weigh at birth? Children with FAS typically have lower birth weight, height, and head circumference(26) -What was the APGAR score? -Were there any complications during delivery?",
+                "course of treatment": {
+                    "medical management": "Medications commonly prescribed for patients with FAS include A combination of a stimulant and a selective serotonin receptive inhibitor (SSRI).(16) The stimulants most commonlyPaxil, Prozac, Zoloft, and Celexa(16) Clonidine is used to reduce anxiety, aggression, and hyperactivity. It is also used to relieve sleep disturbances.(16) Find out what medications are prescribed and their dosages",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: The three criteria that must be met for the diagnosis of FAS are the presence of all three facial abnormalities (i.e., smooth philtrum, thin vermillion border, and small palpebral fissures), growth deficiency, and CNS abnormality (as indicated by cognitive or developmental disability).(39,40) Prenatal alcohol exposure cannot always be confirmed; however, known or suspected exposure supports the diagnosis of FAS.(39,40) Usual tests for this condition are the following:",
+                        "Neuropsychological testing",
+                        "Often includes IQ testing such as the Wechsler Intelligence Scale for Children-Revised  (WISC), the Raven Colored",
+                        "Progressive Matrices (CPM), and the Test of Nonverbal Intelligence (TONI2)(13,25)",
+                        "Neurological assessment",
+                        "Audiological evaluation: children with FAS may have a conductive or sensory hearing loss",
+                        "Ophthalmology evaluation: children with FAS sometimes exhibit strabismus, ptosis, or a retinal or optic nerve abnormality",
+                        "Cardiac evaluation",
+                        "Nephrology evaluation: individuals with FAS sometimes have congenital defects impacting kidney and ureter function",
+                        "Social services consultation"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased) -Determine if communication abilities vary with specific people and in different contexts",
+                "body chart": "",
+                "nature of symptoms": "Decreased expressive language and receptive language skills, recall, social skills, and attention that improves as the child ages",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physicianDocument history of psychosocial disturbance. Individuals with FAS have increased risk of depression, anxiety, hyperactivity, or attention disorders. Research on adults with FAS has found an increased risk for psychiatric disorders, legal problems, and use of illegal drugs and alcohol, indicating psychosocial difficulties(9)Review audiology testing; children with FAS have immature audiological systems, resulting in numerous ear infections, and sometimes sensorineural hearing loss(10) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If yes, describe ________________________ ",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Document any comorbid diagnoses. Patients with FAS have increased risk for attention deficit hyperactivity disorder (ADHD), learning disabilities, cardiac defects, depression, oppositional defiant disorder, obesity (especially in females), and phobias(7,37,38,44)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient/caregiver about other symptoms he or she is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Does the patient use a walker, wheelchair, leg braces, or cane for ambulation? -Does the patient have hearing loss? Does the patient have a hearing aid? If so, how is it functioning? -Does the patient wear glasses? -Does the patient require assistance for feeding, bathing, and/or dressing?",
+                "living environment": "Document information about the patient\u2019s living situation (e.g., stairs, number of floors in home, with whom patient lives). Identify if there are barriers to independence in the home; any modifications necessary? -What is the individual\u2019s primary language? Are there other languages that the patient uses at home or is exposed to regularly?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (while tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "An augmentative and alternative communication (AAC) system might be appropriate depending on the severity of the child\u2019s communication disorder. AAC includes all forms of communication, such as gestures, simple communication boards, picture boards, and writing. If a patient is difficult to understand or has very \u2013What type of system is the patient using? \u2013Is the system effective in all settings? \u2013Do the caregivers or patient know how to make changes to add new information? \u2013For detailed information on AAC, see the series of Clinical Reviews on this topic",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Document any postural abnormalities that impact speech or swallowing as related the patient\u2019s trunk or neck position",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": " Speech and language examination (including reading)Assess articulation and phonology -Obtain an estimate of speech intelligibility in structured and unstructured contexts(33)  -Analyze natural speech samples in natural contexts, particularly those indicated as areas of concern by family or teacher(33) -Use a standardized test or an informal (nonstandardized) analysis to determine articulation errors. For specific sounds, the number of omissions, substitutions, distortions, and additions can be completedLanguage impairment is common among children with FAS.(34) Children with FAS will exhibit a broad range of both expressive and receptive language deficits depending on the severity of the FAS.(27)(34) Examples of standardized language assessments include the Clinical Evaluation of Language Fundamentals (CELF), the Test of Auditory Comprehension of Language, the Test of Language Development, the Test of Language Competence, and the Test of Word Knowledge.(10,34) In addition to standardized testing, obtaining a language sample and observing the child interact with his or her peers is necessary to assess language use in everyday situations.(10) Language samples can be obtained through play and story-retelling  activities using wordless picture books. Narrative analysis is recommended so that the child\u2019s language can be evaluated in meaningful social settings.(25) Children with FAS have demonstrated difficulty providing relevant details during conversation and narratives.(10,27) In addition, children with FAS do not take into consideration the listener\u2019s perspective during social exchanges (i.e., pragmatic deficits)(10,19,27)Note any history of fluency disorder; for detailed information on disorders of fluency, see the series of Clinical Reviews on child-onset  fluency disorder and clutteringWhen developmentally appropriate, include a brief assessment of reading ability in the evaluation. In the school setting, the special education teacher or reading specialist will most likely be responsible for direct teaching of reading and writing skills. However, the SLP might play a support role in assessing and treating the child for reading difficulties, particularly if reading skills are needed to use AAC. Formal measures of reading or informal measures (criterion referenced) can be used",
+            "neurological examination": "",
+            "oral structure and oral motor function": "An oral mechanism evaluation will be needed to assess oral motor strength,How does the face appear at rest? Are the muscles symmetrical? -Thin upper lip(29) -Long, smooth philtrum(29) -Flat midface(29) -Flat nasal bridge(29) -Upturned nose(29)Assess labial retraction, protrusion, coordination of movementLabial retraction, protrusion. Are any twitching or writhing movements noted upon protrusion? Also, obtain diadochokinetic speech rates to evaluate the child\u2019s ability to sequence sounds, if appropriate given the child\u2019s language skillsAssess color of tissue, size. Does the patient have a prosthesis or fistula?Comment on the condition of the teeth. Are there missing teeth? Look at the patient\u2019s bite. Does there appear to be any tongue thrusting or abnormalities that would impact speech or swallowing?",
+            "perception": "",
+            "arousal attention cognition": "Review neuropsychological testing to determine baseline level of functioning for cognition, including executive functioning, memory, attention, and problem solving. Research has indicated that children with FAS demonstrate deficits in all of these areas(9,13,27)",
+            "aac assessment": "",
+            "swallow examination": "A swallow examination might be warranted for a child with FAS if the patient and or caregiver report any problems relating to swallowing and or feeding. If swallowing is a concern, the patient should be seen for a swallow evaluation. In a study conducted in the United States with 19 children with FASD, researchers reported thepoor appetite/\u201cpicky eater,\u201d constant snacking, never feeling full/satisfied, and chewing problems.(37) In another study conducted in the United States, researchers synthesized data from surveys given to parents or caregivers of children with FASD (n = 74) and typically developing controls (n = 81) about eating behaviors. Researchers reported significantly more abnormal eating behaviors in the children with FASD, including delayed acquisition of self-feeding ability, impaired satiety (i.e., never feeling full), and hyperphagia.(43) For detailed information about feeding disorders and dysphagia, see the series of Clinical Reviews on this topic ",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below. Rehabilitation professionals should always use their professional judgment",
+                "Patients with FAS might be at risk for dysphagia. The patient and family must be educated regarding swallowing precautions and the safest diet for the patient. In addition to the patient, medical and educational staff members must be educated regarding appropriate diet and liquid recommendations, and any precautions that will assist the patient in swallowing safely. Education should be completed in a multimodal fashion and include a verbal discussion with written documentation"
+            ]
+        },
+        "diagnosis need for treatment": "Speech treatment for children with FAS might focus on speech, language, cognition, and/ or swallowing depending on the severity of the child\u2019s deficits. Once the child is evaluated by an SLP, goals are determined to assist the child to improve in areas of deficit. A multidisciplinary approach is necessary to assist the patient to improve overall communication skills",
+        "rule out": "The patient\u2019s medical team will rule out other underlying causes of the communication disorder prior to diagnosing FAS",
+        "prognosis": [],
+        "referral to other disciplines": "The following referrals are often necessary depending on the severity of the patient\u2019s FAS and related deficits: Physical and occupational therapy to evaluate and treat deficits relating to mobility, ability to perform tasks related to ADLs, and/or sensory modulation deficits Audiology referral is needed to assess hearing loss and for follow-up if the patient uses a hearing aid(7) Cardiac consultation for possible heart defects(7) Nephrologist consultation for kidney problems(7) Ophthalmology to assess vision defects(7) Special education services to address developmental, educational, and behavioral difficulties that are noted(7) Referrals to psychiatry/psychology for the patient and the family to deal with depression, anxiety, or hyperactivity or attention disorders Social services will benefit the patient and family by introducing them to community services and resources",
+        "other considerations": [],
+        "treatment summary": [
+            "Authors of a systematic review found 12 studies examining interventions for children with FASD that met their inclusion criteria. Authors noted that methodological weaknesses were common (e.g., small sample sizes, poor study design, short-term  follow up). In two randomized controlled trials, there was some benefit observed from stimulant medications. In three randomized controlled trials, there was some evidence to suggest that virtual reality training, cognitive control therapy, language and literacy therapy (described below), mathematics intervention and rehearsal training for memory might be beneficial strategies. Results from three studies on social communication and behavioral strategies indicated that social skills training could improve social skills and behavior problems at home(21)",
+            "In a study conducted in South Africa with 65 children, researchers evaluated language treatment specifically for literacy skills(1) \u2013Forty children with FAS were randomly assigned to a language literacy group or a control group. Twenty-five  children without alcohol exposure in utero were randomly selected and were assigned a control group(1) \u2013The study did not describe the randomization method used, and selection bias cannot be ruled out(1) \u2013The language and literacy group focused on phonological awareness and other preliteracy skills necessary for reading and spelling. An SLP administered the treatment for 30 minutes a day twice a week for nine months, totaling 36 hours of intervention(1) \u2013Results: This intervention led to improvements in reading, spelling, and preliteracy skills for the FAS intervention group compared to the FAS control group. However, both FAS groups scored lower than the alcohol unexposed group(1)  . Problem Goal Intervention Expected Progression Home Program Decrease hyperarousal and improve sensory modulationImprove response to various environmental stimuliTherapeutic modalities _ For children with FAS who have sensory processing deficits, the SLP might work with the occupational therapist to improve sensory integration. Examples of ways to help a child with sensory processing difficulties include using a weighted blanket, deep pressure massage, and placing the child on a swing(3)The patient responds appropriately to specific stimuli. Decreasing modeling and cueing is expected as the child\u2019s sensory modulation improves. Educating the caregiver is important to develop effective strategies to promote learning and behavior management. Expect improved self- awareness to positively impact behavior(29)No specific home program specified. However, home practice should involve the family and relevant activities in the home environment to be determined individually Decreased attention Improve attention for all ADLsTherapeutic modalities _ Reduce number of stimuli in treatment room, reduce number of distractions _ _ Use pictures to sequence activities in a session or day _ _ Provide extensive focus on routines to facilitate attention _ _ Provide frequent salient reinforcement to promote attention _ _ Classroom modifications _ Decrease visual and auditory distractions, clearly label activity areas, use large easily visible daily schedules, organize materials so they are easy to find(20)As the child progresses, the number of stimuli can be increased. Gradually reduce support needed to promote appropriate participation by the child. Expect improved ability to participate in tasks that will positively impact behavior, social interaction, and academic progressNo specific home program is specified. However, a home program should involve the family and relevant activities in the home environment to be individually determined  Decreased pragmatic language skillsImprove pragmatic language skills, including initiation and turn takingPragmatic therapy _ Speech therapy focuses on improving initiation, turn taking, topic maintenance, and providing relevant information to the listener through clinician modeling, group therapy, use of games, and play, or simulating daily events in the patient\u2019s life. Also, use of social scripts and role playing is helpful. Use of checklists to increase the child\u2019s ability to assess ability to listen, evaluate consequences, and the listener\u2019s perspective has been beneficial for improved social skills.(28)Common pragmatic difficulties for children with FAS include decreased interpretation of body language and discussing personal information that is not appropriate for the situation.(24) SLPs can assist the child to increase vocabulary to express feelings and emotions. Additionally, SLPs will work improving the child\u2019s awareness of producing relevant statements and decreasing unrelated statements.(24) Addressing these areas will be critical to improve social interaction, especially for adolescents. Intervention is best provided in conjunction with the classroom teacher to improve communication skills in the academic setting and should include community needs as well(24)Improved social interaction is critical to promote peer interaction and improve behavior that may interfere with academic or social skillsNo specific home program is specified. However, a home program should involve the family and relevant activities in the home environment to be individually determined  Decreased expressive languageImprove expressive language skills to within functional limitsLanguage therapy _ Focuses on developmentally appropriate activities to promote expressive language skills specific to the patient\u2019s ability level. Expressive language can be targeted through play, activities relating to daily activities, and academic needs. Therapy focusing on phonological awareness and improving preliteracy skills is critical to improve reading and spelling.(21) SLPs need to incorporate life skills, as well as academic needs. Intervention must include the classroom setting and incorporate the community. During middle school, addressing high- risk behaviors, such as alcohol and drug use, in the context of treatment is critical because children with FAS currently account for 40% of the juveniles in correctional facilities(24)Improved expressive language skills will assist the child to express wants and needs appropriately, increase learning skills and social interactionNo specific home program is specified. However, a home program should involve the family and relevant activities in the home environment to be individually determined  Decreased processing Improve auditory and visual processing to be within functional limitsClassroom accommodations _ Provide education to teachers to promote use of auditory and visual cueing as needed to assist the child. Discuss environmental changes to benefit the child\u2019s ability to process; e.g., sitting near the teacher to best hear or visualize learning materials. Providing repetition will likely help the child in social and academic settings. Encourage the child to ask for repetition and clarification as needed and to write down key words or take notes. Use predictable routines or schedule events in the same order every day.(20) Provide extensive practice and demonstration to assist a child to perform a new task since children with FAS have difficulty learning a new skill.(20) Provide short, simple, one-step commands to increase comprehension, and break down multistep commands(20)Improved processing will assist the child to perform better in academic and social settingsNo specific home program is specified. However, a home program should involve the family and relevant activities in the home environment to be individually determined  Decreased recall Improve recall to be within functional limits for daily needsFunctional training _ Educate the patient and family regarding compensatory strategies such as using lists, timers, verbal rehearsal, and calendars to remember appointments or daily tasks. Research indicates that children with FAS might not be able to use strategies correctly and/or consistently.(22)Giving simple instructions on how to use these strategies is essential, as is monitoring appropriate use of these strategies(22)Improved recall will assist the child to perform better in social and academic settingsNo specific home program is specified. However, a home program should involve the family and relevant activities in the home environment to be individually determined Decreased speech intelligibilityImprove speech intelligibility to be within functional limits.The SLP will target specific sounds or phonological processes based on assessment results. These sounds or processes will be targeted through play activities and drill-type activities that will yield a high number of repetitions of the correct sound to promote improved speech. Also, shaping activities may be used to assist a patient to achieve improved articulation. For detailed information on articulation assessment and intervention, please see Clinical Review\u2026Speech Sound Disorders: Articulation Disorder, Organic ; CINAHL Topic ID Number: T708924Improved speech intelligibility will assist the child to communicate more effectively and will promote improved peer interaction and participation in social and academic activitiesNo specific home program is specified. However, a home program should involve the family and relevant activities in the home environment to be individually determined . "
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved speech intelligibility": [
+            "Standardized or informal measures of articulation"
+        ],
+        "increased receptive and expressive language abilities": [
+            "Clinical Evaluation of Language Fundamentals",
+            "Test of Auditory Comprehension of Language",
+            "Test of Language Development",
+            "Test of Language Competence",
+            "Test of Word Knowledge"
+        ],
+        "improved pragmatic language abilities": [
+            "Number of appropriate turn-taking  moments in conversation",
+            "Number of initiations in conversation"
+        ],
+        "improved reading abilities": [
+            "Standardized or informal measures of reading"
+        ],
+        "increased attention to task": [],
+        "reduction of maladaptive or disruptive behaviors": []
+    },
+    "maintenance or prevention": [
+        "FAS is the most preventable cause of intellectual disability; however, prevention of FAS is still complex.(5,35) Providing education about safe alcohol drinking practices during pregnancy to non-pregnant  women who are of child-bearing  age, as well as pregnant women, is essential to reducing the risk of FAS.(5,41,46) In addition, early identification of deficits is critical to assist the infant, toddler, or child with developmental delays through early-intervention  programs.(35)Children who are at high risk for FAS (e.g., those in the child welfare system) should be screened regularly for FAS so they can be accurately diagnosed and receive appropriate intervention(35)",
+        "A maintenance program should be developed and should include training and education of the patient and family members. In addition to family members, other relevant people might be involved, including teachers, mentors, and supervisors. Reevaluation is important to assess any change in status and should be completed as appropriate."
+    ],
+    "patient education": [
+        "See http://www.nofas.org/parents/  for more information about FAS and resources to assist the patient, family, and care providers",
+        "See http://www.nofas.org/about/  for information for educators working with children with FAS Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on February 3, 2017 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Adnams CM, Sorour P, Kalberg WO, et al. Language and literacy outcomes from a pilot intervention study for children with fetal alcohol spectrum disorders in South Africa. Alcohol. 2007;41(6):403-414.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Aragon A, Coriale G, Fiorentino D. Neuropsychological characteristics of Italian children with fetal alcohol spectrum disorders. Alcohol Clin Exp Res . 2008;32(11):1909-1919. (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Atchison BJ. Sensory modulation disorders among children with a history of trauma: a frame of reference for speech-language  pathologists. Lang Speech Hear Serv Sch . 2007;38(2):109-116.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Centers for Disease Control and Prevention. Fetal Alcohol Spectrum Disorders (FASDs). Web site. http://www.cdc.gov/ncbddd/fasd/treatments.html . Accessed May 21, 2018. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Cismaru M, Deshpande S, Thurmeier R, Lavack AM, Agrey N. Preventing fetal alcohol spectrum disorders: the role of protection motivation theory. Health Mark Q . 2010;27(1):66-85.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Corpus callosum disorders. National Organization for Disorders of the Corpus Callosum Web site. http://nodcc.org/corpus-callosum-disorders/ . Accessed May 21, 2018. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Bertrand J, Floyd LL, Weber MK; Fetal Alcohol Syndrome Prevention Team, Division of Birth Defects and Developmental Disabilities, National Center on Birth Defects and Developmental Disabilities, Centers for Disease Control and Prevention (CDC). Guidelines for identifying and referring persons with fetal alcohol syndrome. MMWR Recomm Rep. October 28, 2005;54(R-R-11):1-14.  (G)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Fast DK, Conry J. Fetal alcohol spectrum disorders and the criminal justice system. Dev Disabil Res Rev . 2009;15(3):250-257.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Henry J, Sloane M, Black-Pond  C. Neurobiology and neurodevelopmental impact of childhood traumatic stress and prenatal alcohol exposure. Lang Speech Hear Serv Sch . 2007;38(2):99-108.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Hyter YD. Prologue: understanding children who have been affected by maltreatment and prenatal alcohol exposure. Lang Speech Hear Serv Sch . 2007;38(2):93-98.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Jacobson SW, Carr LG, Croxford J, Sokol RJ, Li TK, Jacobson JL. Protective effects of the alcohol dehydrogenase-ADH1B  allele in children exposed to alcohol during pregnancy. J Pediatr. 2006;148(1):30-37.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Jirikowic T, Kartin D, Olson HC. Children with fetal alcohol spectrum disorders: a descriptive profile of adaptive function. Can J Occup Ther . 2008;75(4):238-248.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Kodituwakku P, Coriale G, Fiorentino D. Neurobehavioral characteristics of children with fetal alcohol spectrum disorders in communities from Italy: preliminary results. Alcohol Clin Exp Res . 2006;30(9):1551-1561.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kodituwakku PW. Neurocognitive profile in children with fetal alcohol spectrum disorders. Dev Disabil Res Rev . 2009;15(3):218-224.  doi:10.1002/ddrr.73. (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Lebel C, Rasmussen C, Wyper K, Andrew G, Beaulieu C. Brain microstructure is related to math ability in children with fetal alcohol spectrum disorder. Alcohol Clin Exp Res . 2010;34(2):354-356.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Medications for children and adults with FASD. FAS Community Resource Center Web site. Fetal Alcohol Disorders Society Web site. http://www.faslink.org/meds.htm . Accessed May 21, 2018. (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Niccols A. Fetal alcohol syndrome and the developing socio-emotional  brain. Brain Cogn . 2007;65(1):135-142.  (RV)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Norman AL, Crocker N, Mattson SN, Riley EP. Neuroimaging and fetal alcohol spectrum disorders. Dev Disabil Res Rev . 2009;15(3):209-217.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Olswang LB, Svensson L, Astley S. Observation of classroom social communication: do children with fetal alcohol spectrum disorders spend their time differently than their typically developing peers? J Speech Lang Hear Res . 2010;53(6):1687-1703.  doi:10.1044/1092-4388(2010/09-0092).  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Paley B, O'Connor MJ. Intervention for individuals with fetal alcohol spectrum disorders: treatment approaches and case management. Dev Disabil Res Rev . 2009;15(3):258-267.  (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Peadon E, Rhys-Jones  B, Bower C, Elliott EJ. Systematic review of interventions for children with fetal alcohol spectrum disorders. BMC Pediatrics [serial online]  Web site. http://www.biomedcentral.com/1471-2431/9/35 . 2009;9:35. Accessed May 21, 2018. doi:10.1186/1471-2431-9-35.  (SR)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Rasmussen C, Pei J, Manji S, Loomes C, Andrew G. Memory strategy development in children with foetal alcohol spectrum disorders. Dev Neurorehabil . 2009;12(4):207-214. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Rogers VL, Worley KC. Obstetrics and Obstetric Disorders. In: McPhee SJ, Papadakis M, Rabow M, eds. Current medical diagnosis and treatment 2017 . 56th ed. New York, NY: McGraw-Hill  Medical; 2017:799. (GI)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Rogers-Adkinson  DL, Stuart SK. Collaborative services: children experiencing neglect and the side effects of prenatal alcohol exposure. Lang Speech Hear Serv Sch . 2007;38(2):149-156.  (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Rosenhall U. Deaf-blindness  and combined impairments of hearing and vision. Audiol Med . 2006;4:109-116.  (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Spadoni AD, Bazinet AD, Fryer SL, Tapert SF, Mattson SN, Riley EP. BOLD response during spatial working memory in youth with heavy prenatal alcohol exposure. Alcohol Clin Exp Res . 2009;33(12):2067-2076.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Thorne JC, Coggins T. A diagnostically promising technique for tallying nominal reference errors in the narratives of school-aged  children with fetal alcohol spectrum disorders (FASD). Int J Lang Comm Disord. Reviewed by Carol Westby, Word of mouth 20 . 5 May/June 2009 5. (X)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Timler GR, Olswang LB, Coggins TE. \"Do I know what I need to do?\" A social communication intervention for children with complex clinical profiles. Lang Speech Hear Serv Sch. 2005;36(1):73-85.  (C)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Wattendorf DJ, Muenke M. Fetal alcohol spectrum disorders. Am Fam Physician  Web site. http://www.aafp.org/afp/2005/0715/p279.html . 2005;72(2):279-285.  Accessed May 21, 2018. (GI)"
+        },
+        {
+            "number in article": 30,
+            "reference": "FASD. National Organization on Fetal Alcohol Syndrome Web site. http://www.nofas.org/about-fasd/ . Accessed May 21, 2018. (GI)"
+        },
+        {
+            "number in article": 31,
+            "reference": "May PA, Baete A, Russo J, et al. Prevalence and characteristics of fetal alcohol spectrum disorders. Pediatrics . November 2014;134(5):855-66.  doi:10.1542/peds.2013-3319. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Esper LH, Furtado EF. Identifying maternal risk factors associated with Fetal Alcohol Spectrum Disorders: a systematic review. Eur Child Adolesc Psychiatry . October 2014;23(10):877-89.  doi:10.1007/s00787-014-0603-2.  (SR)"
+        },
+        {
+            "number in article": 33,
+            "reference": "American Speech-Language-Hearing  Association. Preferred practice patterns for the profession of speech-language  pathology. ASHA Web site. http://www.asha.org/policy/PP2004-00191/ . Accessed May 21, 2018. (GI)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Proven S, Ens C, Beaudin PG. The language profile of school-aged  children with fetal alcohol spectrum disorder (FASD). J Speech Lang Pathol Audiol . 2014;37(4):268-279.  . (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Petrenko CL, Tahir N, Mahoney EC, Chin NP. Prevention of secondary conditions in fetal alcohol spectrum disorders: Identification of systems-level  barriers. Matern Child Health J. 2014;18(6):1496-1505.  doi:10.1007/s10995-013-1390-y.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Molteno CD, Jacobson JL, Carter RC, Dodge NC, Jacobson SW. Infant emotional withdrawal: A precursor of affective and cognitive disturbance in fetal alcohol spectrum disorders. Alcohol Clin Exp Res . 2014;38(2):479-488.  doi:10.1111/acer.12240. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Werts RL, Van Calcar SC, Wargowski DS, Smith SM. Inappropriate feeding behaviors and dietary intakes in children with fetal alcohol spectrum disorder or probable prenatal alcohol exposure. Alcoholism: Clinical & Experimental Research . 2014;38(3):871-878.  doi:10.1111/acer.12284. (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Fuglestad AJ, Boys CJ, Chang PN, et al. Overweight and obesity among children and adolescents with fetal alcohol spectrum disorders. Alcohol Clin Exp Res . 38(9):2502-2508.  doi:10.1111/acer.12516. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Watkins RE, Ellliott EJ, Wilkins A, et al. Fetal alcohol spectrum disorder: Development of consensus referral criteria for specialist diagnostic assessment in Australia. BMC Pediatr. 14(178). doi:10.1186/1471-2431-14-178.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "National Center on Birth Defects and Developmental Disabilities. Fetal Alcohol Syndrome: Guidelines for Referral and Diagnosis. CDC Web site. http://www.cdc.gov/ncbddd/ fasd/documents/fas_guidelines_accessible.pdf . Accessed May 21, 2018. (G)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Kavanagh PS, Payne JS. Education, safe drinking practices and fetal alcohol spectrum disorder in the Kimberley region of Western Australia. J Paediatr Child Health . 2014;50(9):701-706.  doi:10.1111/jpc.12615. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Lewis CE, Thomas KG, Dodge NC, et al. Verbal learning and memory impairment in children with fetal alcohol spectrum disorders. Alcohol Clin Exp Res . 2015;39(4):724-732. doi:10.1111/acer.12671. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Amos-Kroohs  RM, Fink BA, Smith CJ, et al. Abnormal eating behaviors are common in children with fetal alcohol spectrum disorder. J Pediatr. February 2016;169:194-200.e1. doi:10.1016/j.jpeds.2015.10.049. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Boseck JJ, Davis AS, Cassady JC, Finch WH, Gelder BC. Cognitive and Adaptive Skill Profile Differences in Children With Attention-Deficit  Hyperactivity Disorder With and Without Comorbid Fetal Alcohol Spectrum Disorder. Appl Neuropsychol Child . 2015;4(4):230-236.  doi:10.1080/21622965.2013.877392. (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "May PA, de Vries MM, Marais AS, et al. The continuum of fetal alcohol spectrum disorders in four rural communities in South Africa: Prevalence and characteristics. Drug Alcohol Depend . 2016;159:207-218.  doi:10.1016/j.drugalcdep.2015.12.023. (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Skagerstrom J, Haggstrom-Nordin  E, Alehagen S. The voice of non-pregnant  women on alcohol consumption during pregnancy: a focus group study among women in Sweden. BMC Public Health . 2015;15:1193. doi:10.1186/s12889-015-2519-2.  (RV)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Green PP, McKnight-Eily  LR, Tan CH, Mejia R, Denny CH. Vital Signs: Alcohol-Exposed  Pregnancies--United  States, 2011-2013.  MMWR Morb Mortal Wkly Rep . 2016;65(4):91-97.  doi:10.15585/mmwr.mm6504a6. (GI)"
+        }
+    ]
+}

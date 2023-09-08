@@ -1,0 +1,455 @@
+{
+    "metadata": {
+        "title": "Dysphagia  Medication-related",
+        "synonyms": [
+            "swallowing disorder  medication-related",
+            "deglutition disorder medication-related",
+            "dysphagia: drug-related"
+        ],
+        "anatomical location body part affected": [
+            "Lips, tongue, facial muscles, oropharynx, pharynx, esophagus"
+        ],
+        "area of specialty": [
+            "swallowing and swallowing disorders"
+        ],
+        "description": [
+            "Dysphagia refers to difficulty swallowing due to an inability to move food or liquid efficiently during the oral, pharyngeal, or esophageal phase of swallowing.(1) The oral phase includes sucking, chewing, and moving the food or liquid into the throat. The pharyngeal phase is the initiation of the swallowing reflex, when food or liquid is squeezed down the throat and the airway is closed off to prevent aspiration (food or liquid entering the airway) or choking. In the esophageal phase, the openings at the top and bottom of the esophagus move the food or liquid to the stomach by relaxing and tightening(2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "R13.0": "aphagia; inability to swallow",
+            "R13.10": "dysphagia, unspecified",
+            "R13.11": "dysphagia, oral phase",
+            "R13.12": "dysphagia, oropharyngeal phase",
+            "R13.13": "dysphagia, pharyngeal phase",
+            "R13.14": "dysphagia, pharyngoesophageal phase",
+            "R13.19": "other dysphagia _ (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Presenting signs and symptoms of medication-related dysphagia will vary significantly among patients depending on the type of medication(s), underlying condition for which the medication(s) have been prescribed, the dosage of medication(s), factors such as age and cognitive abilities, and any other comorbid conditions that exist. Signs and symptoms of dysphagia include weight loss, unexplained fevers, bronchitis, pneumonia, impaired vocal quality, coughing, choking, prolonged oral feeding, reluctance to feed orally, slow bolus transport, and postural changes during swallowing(3) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Ensure that patients with dentures have dentition in place before performing a swallowing evaluation",
+            "During a swallowing evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance, fatigue, and level of frustration. The time of day and the number of previous evaluations can affect the patient\u2019s alertness and performance",
+            "Due to the differences between adult and pediatric swallowing function, it is important that an SLP have competencies in dysphagia management for the particular population being evaluated and treated(8)",
+            "A patient\u2019s culture and native language should be considered to determine the appropriateness of examination questions and materials",
+            "Patients with dementia or other cognitive difficulties might not be able to answer questions regarding medical history. It is recommended that the caregiver/family be involved in all assessment procedures when working with patients with cognitive difficulties",
+            "A team approach is often used for the evaluation of swallowing disorders due to the heterogeneity of diagnoses and the complexity of treatment. A team includes a representative from different disciplines, including an SLP, a pediatrician or physician, a nutritionist/dietician, a nurse, an occupational therapist (OT), a psychologist, a social worker, and a physical therapist (PT)(8) "
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  dysphagia can be caused by a variety of diseases, disorders, conditions, or injuries that affect the brain, face, oral cavity, larynx, pharynx, or esophagus.   in the": [],
+        "pathogenesis:  pathogenesis of medication-related  dysphagia varies depending on the effects of the specific medication. in many cases, changes to swallowing ability related to medications will not be permanent and will be alleviated when the": [],
+        "risk factors:  the following medications are associated with increased risk of dysphagia:": [
+            "Anesthetics(5)",
+            "Anticholinergic medications(4)",
+            "Antidepressants(13)",
+            "Antihistamines(5)",
+            "Antipsychotics(6,7,56)",
+            "Anxiolytics(58)",
+            "CNS depressants(4)",
+            "Diuretics(5)",
+            "Dopamine antagonists",
+            "Neuromuscular blocking agents"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Speech-language  pathologists (SLPs) are required to have graduate, postgraduate, or continuing education training specifically in dysphagia assessment and treatment prior to working with a patient with dysphagia(8)",
+        "To perform videofluoroscopic swallowing studies (VFSSs), SLPs must have established competencies in the use and storage of barium(9)",
+        "Patients with dysphagia are at risk for aspiration and/or penetration of oral intake. Ensure that the patient and family/ caregivers are aware of potential aspiration risks and educated about prevention strategies when appropriate",
+        "It is important to consider eating habits, dietary restrictions, food preferences, and cultural influences on eating during assessment and treatment(10)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Ensure that patients with dentures have dentition in place before performing a swallowing evaluation",
+            "During a swallowing evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance, fatigue, and level of frustration. The time of day and the number of previous evaluations can affect the patient\u2019s alertness and performance",
+            "Due to the differences between adult and pediatric swallowing function, it is important that an SLP have competencies in dysphagia management for the particular population being evaluated and treated(8)",
+            "A patient\u2019s culture and native language should be considered to determine the appropriateness of examination questions and materials",
+            "Patients with dementia or other cognitive difficulties might not be able to answer questions regarding medical history. It is recommended that the caregiver/family be involved in all assessment procedures when working with patients with cognitive difficulties",
+            "A team approach is often used for the evaluation of swallowing disorders due to the heterogeneity of diagnoses and the complexity of treatment. A team includes a representative from different disciplines, including an SLP, a pediatrician or physician, a nutritionist/dietician, a nurse, an occupational therapist (OT), a psychologist, a social worker, and a physical therapist (PT)(8) "
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document the onset of the patient\u2019s dysphagia. Document all the medications that the patient is taking, including the reason for the medication, and dosage",
+                "course of treatment": {
+                    "medical management": "Document medical management of the patient\u2019s underlying medication condition(s) to date",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken? For medicationrelated  dysphagia, it is of the utmost importance to document all the medications the patient takes, not only those that have dysphagia listed as a side effect. Medicationrelated dysphagia can occur even if dysphagia is not specifically listed as a possible side effect(11) Medications that reduce a patient\u2019s alertness and awareness increase the risk of dysphagia(11) Drug interactions can cause xerostomia (dry mouth)(11) The concurrent use of multiple medications is common among older adults who have complex medical conditions, and the combined side effects of these medications can adversely affect cognitive, communicative, and swallowing functioning. Contact a pharmacist or physician regarding questions about medication side effects(12) anxiolytics, antihistamines, antipsychotics, and opiates that can cause decreased arousal and coordination and lead to dysphagia in older patients(6) antipsychotics, which have been associated with higher incidence of choking and choking deaths among individuals with psychiatric illness.(56) Typical antipsychotics block dopamine receptors, which can result in laryngospasm and dysphagia. Research suggests increased risk of choking when antipsychotics are combined with anticholinergic medications in patients with mental illness(56) anticholinergic medications, antidepressants, antipsychotics/neuroleptics, ACE inhibitors, antiarrhythmics, antiemetics, antihistamines, decongestants, calcium channel blockers, and diuretics, which have all been associated with reduced salivary flow and can lead to xerostomia.(4,11,13) Symptoms of xerostomia include mouth pain, dry tongue, bleeding gums, cracked corners of the mouth, overall dryness (nose, eyes, skin), and badly fitting dentures anticholinergic medications that can also cause impaired esophageal peristalsis(4) CNS depressants (e.g., antiepileptic drugs, benzodiazepines, narcotics, skeletal muscle relaxants) that can result in depressed brainstem function and reduced control of swallowing ability(4,13) neuromuscular blocking agents that can result in weakness of oropharyngeal musculature and cough reflex dopamine antagonists/neuroleptics that can cause movement disorders that result from extrapyramidal reactions (e.g., dystonia, dyskinesia)(14,57) general anesthesia that can result in a suppressed laryngeal cough reflex(5) Local anesthetics (e.g., Novocain used during dental work) can temporarily cause reduced oral sensation that might affect swallowing before they wear off(13) anticholinergic or antimuscarinic medications that affect the smooth and striated muscles of the esophagus that are involved in swallowing (e.g., benztropinemesylate, oxybutynin, propantheline, and tolterodine)(13) Authors of a case study reported spontaneous hemorrhage into a thyroid cyst causing airway obstruction and acute dysphagia in a 55year-old male following anticoagulation therapy for a myocardial infarction(55) Certain medications (bisphosphonates, methylxanthines, aspirin and other NSAIDs, potassium chloride supplements, and medications containing acid or iron) can cause dysphagia related to injury of the esophagus. This can be caused by local irritation when an individual is in a reclining position immediately after taking the medication or because an inadequate amount of fluid is taken with the medication. In these cases, the medications remain in the esophagus too long, which can potentially cause damage and affect swallowing function(13,57) Side effects of treatments for head and neck cancer (medications, chemotherapy, radiation therapy) include oral or pharyngeal mucositis (inflammation or ulceration of the oral or pharyngeal mucosa), xerostomia, dysgeusia (change in taste sensation), odynophagia (painful swallowing), and pharyngitis (inflammation of the pharynx), all of which can impair swallow functioning(15)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Thorough physical performed by the patient\u2019s physician ",
+                        "Clinical swallowing examination (CSE)",
+                        "For detailed information on CSEs, see  Clinical Review ... Dysphagia Assessment: In-depth  Bedside Swallow Examination (Adults)  ; CINAHL Topic ID Number: T709037 and  Clinical Review ... Dysphagia Assessment:",
+                        "Indepth  Clinical Swallow Examination (Pediatrics)  ); CINAHL Topic ID Number: T709064",
+                        "VFSS/modified barium swallow study (MBSS)",
+                        "For detailed information regarding VFSS, see  Clinical Review ... Dysphagia Assessment: Modified Barium Swallow (Adults)  ); CINAHL Topic ID Number: T709046 and  Clinical Review ... Dysphagia Assessment: Modified Barium Swallow (Pediatrics)  ; CINAHL Topic ID Number: T709077",
+                        "Fiberoptic endoscopic evaluation of swallowing (FEES)",
+                        "For detailed information on FEES and endoscopic examinations for dysphagia, see  Clinical Review ... Dysphagia Assessment: Fiberoptic Endoscopic Evaluation of Swallowing (FEES)  ; CINAHL Topic ID Number: T709038 and Clinical Review ... Dysphagia Assessment: Endoscopic Evaluation  ; CINAHL Topic ID Number: T709141"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help There is some low-quality  evidence that acupuncture benefits patients with xerostomia and hyposalivation; however, additional, welldesigned studies are necessary to determine effectiveness(16)",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Does the patient have a history of pneumonia or other respiratory infections? Has the patient had any recent physical trauma (e.g., fall, accident)? Has the patient had recent surgery? Does the patient indicate any lack of awareness or interest in food? Does the patient show any signs of dehydration or malnutrition (e.g., weakness, malaise, constipation)?(10) Does the patient have persistent phlegm or secretions? Does the patient exhibit increased -before or after taking a specific medication? -with certain textures of foods or liquids? -in different environments? -as meals progress? -during certain times of day? -if fatigued? -with environmental distractions?",
+                "body chart": "Review the patient\u2019s chart and weight history and note any significant changes in weight. Review medical chart for other evidence of malnutrition, such as poor wound healing or increased incidence of ulcers",
+                "nature of symptoms": "Symptoms will vary in accordance with the etiology of the dysphagia. Dysphagia symptoms can involve the mouth, pharynx, larynx, and/or esophagus(8) -Signs and symptoms of dysphagia or aspiration -Bronchitis/pneumonia(3) -Choking(3) -Coughing while eating(3) -Impaired or gurgly voice(3) -Postural changes during swallowing(3) -Prolonged oral feeding(3) -Regurgitation(3) -Slow bolus transport(3) -Unexplained fever(3) -Unwillingness for oral intake of liquids and/or solids(3) -Weight loss(3)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables ",
+                "sleep disturbance": "Does xerostomia or difficulty swallowing saliva and/or secretions interfere with patient\u2019s ability to sleep? -Document number of wakings/night",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., coughing, chest congestion, difficulty with oral hygiene, dehydration, weakness, constipation, cognitive difficulties)",
+                "respiratory status": "Document the respiratory status of the patient, including vital capacity, and include use of supplemental oxygen, intubation, tracheostomy tube, and mechanical ventilation. Document history of respiratory complications, especially recurrent pneumoniaDocument psychosocial status; especially note the use of antidepressants or antipsychotics, which can affect swallowing abilityAn outcome measure that includes patient self-ratings  of quality of life due to swallowing and eating ability(17)Document hearing status. Ideally, referral to an audiologist to check for impacted cerumen should be made prior to hearing screening. If the patient has hearing aids, they should be checked to be sure they are in working order Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe  ____________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Refer to medical charts and ask patient or patient\u2019s family/caregiver about other problems, including depression, hearing loss, vision problems, heart problems, communication difficulties, and memory loss",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs). See Medications for current illness/injury , above, for more information on medications that have been associated with dysphagia",
+                    "other symptoms": "Ask patient about other symptoms he or she is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include receive intervention services? If so, are they home, school, or clinic based? Does the patient attend daycare, school, or work? If the patient is in school, what support services are in place? With whom does the patient eat? Where does the patient eat? What types/textures of food? What is the patient\u2019s eating schedule?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document if the patient uses any adaptive equipment to communicate (e.g., pen/paper, communication board). Does the patient self-feed?  Is the patient limited to eating only certain textures of food and/or a specific consistency of liquid?",
+                "living environment": "Document with whom patient lives (e.g., family members, caregivers). Is the patient responsible for preparing meals? Is the patient currently receiving adequate nutrition?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Document patient use of any adaptive devices for mobility, communication, or eating (e.g., adaptive spoons, cups)Complete a thorough oral mechanism examination as part of an evaluation for medication-related  dysphagia  \u2013Examine motor function as it relates to self-feeding.  Examine the range, rate, coordination, and symmetry of movement of the lips, facial musculature, tongue, pharynx, and larynx as well as ability to manage salivainvoluntary, choreoathetoid movements of the tongue and face muscles that are associated with prolonged use of neuroleptic drugs;(14,18) patient might look as though he or she is chewing on lips or a piece of gum -Present in 20\u201330%  of patients with long-term  use of dopamine-receptor  antagonist (DRA) drugs(18) -Might or might not affect speech and/or swallowing function(18) \u2013Document patient\u2019s current dentition, including missing teeth, dentures, primary vs. permanent teeth, and orthodontia \u2013Note vocal quality and any abnormal vocal parameters (e.g., abnormally low pitch, inhalatory stridor); refer to an otolaryngologist if laryngeal pathology is suspected \u2013Document the patient\u2019s ability to manage his or her secretions; note xerostomia, changes to the oral mucosa (e.g., sores, redness, severe dryness) as well as excessive secretions, drooling, and wet phonation(19) -Xerostomia typically results in decreased bolus lubrication and therefore increased oral transit time(20) -Repetitive Saliva Swallowing Test (RSST) is a screening test for dysphagia that assesses the number of times a person swallows his or her saliva over the course of 30 seconds; fewer than 3 swallows indicates the need for additional dysphagia assessment(19) \u2013An oral exam also allows for observation of the patient\u2019s attention span and ability to follow instructions(21)",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "It is important to screen receptive language before a swallow evaluation to determine the patient\u2019s ability to follow directions. Vision and hearing screening should be performed to determine any barriers to communication and ability to follow treatment protocol \u2013If communication difficulties are noted, complete a full evaluation as necessary",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Refer to psychological and cognitive evaluations to assist in informing course of treatment and providing a prognosis. A lack of awareness of dysphagia symptoms has been associated with more medical complications as compared with patients who have an awareness of dysphagia symptoms. Document whether one or more of the patient\u2019s medications appears to affect arousal or attention level; medications with sedative effects can impair swallowing, and those that increase attention or arousal levels might improve swallowing",
+            "aac assessment": "",
+            "swallow examination": "The purpose of a swallow examination is to determine if the patient has dysphagia, to determine which function is disordered, and to establish any compensatory strategies (change in swallowing manner or food consistency) that would be safe and beneficial to the patient.(8) For patients with suspected medication-related dysphagia, it is important that all other reasons for swallowing impairment are ruled out or identified so that the patient can be managed appropriately(22) -Toronto Bedside Swallowing Screening Test (TOR-BSST) Dysphagia Risk Evaluation Protocol (DREP)A CSE is usually the first part of a comprehensive swallowing examination, or it can be used as an initial screening to determine the need for further evaluation.(8) Historically, the lack of a gag reflex function was used as a measure of dysphagia, but this has been demonstrated as unreliable as the sole indicator of swallowing function.(8)a wet voice, weak voluntary cough, cough on swallowing, and delayed or prolonged swallow.(23) However, CSEs are poor at detecting silent aspiration and at determining the physiologic reason for a cough or a voice quality change. Due to its limitations, a CSE should be used as a complement to other instrumental measures rather than in isolation.(23,24) If oral intake is considered relatively safe, the patient might be observed swallowing different consistencies of food during the CSE.(21) Cervical auscultation (the use of a stethoscope to assess swallow sounds and airway sounds) and pulse oximetry (oxygen saturation is measured before, during, and after swallowing; decreased saturation during and after swallowing is reported to be associated with aspiration) can be used during trial swallows to better detect penetration/ aspiration during the CSE.(21,25) For detailed information on cervical auscultation, see  Clinical Review ... Dysphagia",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regards to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis might be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Patients with dysphagia are at risk for aspiration and penetration of oral intake. Ensure that the patient and family/ caregivers are aware of potential aspiration risks and are educated about prevention strategies when appropriate",
+                "It is important to consider eating habits, dietary restrictions, food preferences, and cultural influences on eating to maximize nutritional intake(10)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Dysphagia diagnosis and management are based on the results of a comprehensive assessment that is performed by an SLP in collaboration with a transdisciplinary team that might include a physician, a dietician, an OT, a PT, a respiratory therapist, an otolaryngologist, a radiologist, a social worker, a gastroenterologist, and a neurologist.(47) Each discipline might provide specific input and expertise on the patient\u2019s swallowing problems and the treatment plan. The primary concern is to maintain and maximize the patient\u2019s health status.(9) After the evaluation, a  decision must be made about the patient\u2019s ability to ingest food and water orally based on the nature of the disorder and the patient\u2019s ability to make adjustments(24)",
+        "rule out": "For patients with suspected medication-related dysphagia, it is important that all other reasons for swallowing impairment (e.g., stroke, degenerative disease, injury) are ruled out or identified so that the patient can be managed appropriately",
+        "prognosis": [],
+        "referral to other disciplines": "Refer to an OT, PT, nutritionist, respiratory therapist, social worker, neurologist, otolaryngologist, audiologist, radiologist, oral hygienist, or gastroenterologist as necessary. Refer patient and/or caregivers to a psychologist or counselor if signs of depression are present",
+        "other considerations": [],
+        "treatment summary": [
+            "Treatment for dysphagia involves the use of compensatory and/or rehabilitative techniques. Compensatory techniques are designed to increase the patient\u2019s swallowing safety but are not intended to alter swallowing physiology. Rehabilitative techniques are intended to change the swallowing physiology. Some techniques are considered both compensatory and rehabilitative (e.g., super-supraglottic swallow).(8) For patients whose dysphagia is caused or exacerbated by medications, treatment will focus mainly on compensatory strategies. For detailed information on compensatory therapy for dysphagia, see  Clinical Review ... Dysphagia: Swallowing Therapy -- Compensatory  ; CINAHL Topic ID Number: T903567",
+            "Diet modification \u2013Changing the food and/or liquid consistency of a patient\u2019s diet can improve safety and efficiency of the swallow as well as reduce fatigue associated with eating. For example, if a patient reports fatigue while chewing, the diet can be changed to mechanical soft texture.(26) If the patient experiences aspiration of liquids or difficulty controlling the liquid in the oral cavity, the SLP can investigate the used of thickened liquids; however, it cannot be assumed that all patients benefit from thickened liquids.(49)The International Dysphagia Diet Standardisation Initiative (IDDSI) has provided a standardized framework for clinicians, patients, and caregivers to thicken liquids in order to ensure consistency and accuracy.(50) Liquids can be prepared as thin liquid, slightly thick, mildly thick, and moderately thick liquids per IDDSI flow test.(51) The SLP should also determine (by observing modifications during VFSS), rather than assume, that aspiration is not occurring with thickened liquids(52) -For detailed information on diet modifications for dysphagia treatment, see  Clinical Review ... Dysphagia: Swallowing Therapy --Compensatory  , referenced above",
+            "Postural therapy \u2013Several postures have been examined to assist in changing the direction of the flow of the bolus for patients with dysphagia, including the chin tuck, head back, head rotation, and head tilt(49) \u2013For detailed information on postural changes as dysphagia treatment, see  Clinical Review ... Dysphagia: Swallowing Therapy --Compensatory  , referenced above ",
+            "Sensory stimuli \u2013Changing the taste, volume, temperature, or carbonation of the food or liquid has been used as a way to heighten sensation and assist with delayed oral onset and/or delayed pharyngeal swallow.(8,26) More research is needed to validate these techniques to determine their effects on a variety of different types of patients(49) \u2013For detailed information on changes to sensory aspects of the bolus for dysphagia treatment, see  Clinical Review ... Dysphagia: Swallowing Therapy --Compensatory  , referenced above",
+            "Swallow maneuvers \u2013Swallow maneuvers include the supraglottic swallow, the super-supraglottic  swallow, the effortful swallow, and the Mendelsohn maneuver. Research has documented specific changes in the oropharyngeal swallow due to these maneuvers for some patients; however, further research is needed to determine the patients for whom these maneuvers are most beneficial and the amount of time that these maneuvers should be used. Patients might not be able to perform maneuvers if they are unable to follow instructions or to remember to use the maneuver during each swallow: -Supraglottic swallow: Breath is held before, during, and after the swallow so that the true vocal folds are closed(49) -Super-supraglottic  swallow: Breath is held while the patient also swallows with extra effort(49) -Effortful swallow: Patient contracts the muscles involved in swallowing with great effort(49) -Mendelsohn maneuver: The Mendelsohn maneuver is designed to increase the movement of the larynx and hyoid during the pharyngeal swallow. The patient holds the larynx up by using the muscles of the neck or with the hand(49) -For detailed information on maneuvers in dysphagia treatment, see  Clinical Review ... Dysphagia: Swallowing Therapy -- Swallow Maneuvers -- an Overview  ; CINAHL Topic ID Number: T709042 and the series of Clinical Reviews on each specific type of maneuver",
+            "Adaptive equipment \u2013Adaptive spoons, cups, and straws can be used to assist patients with dysphagia. For example, if the patient has difficulty achieving a labial seal and cannot drink from a straw, a nonspill cup with a large handle can be useful as a facilitative aid. If anterior leakage continues, spoons can be used to place the liquid more posterior in the mouth.(26) A nonskid mat can stabilize objects on the table.(26) For infants, adaptive nipples, bottles, and intra-oral  appliances can be used",
+            "Enteral feeding \u2013If the patient is unable to maintain an adequate level of safety, nutrition, and/or hydration by means of oral feeding, the feeding team might recommend enteral feeding (e.g., nasogastric tube, gastrostomy tube). Counseling and education of the patient and caregivers should be provided by the SLP or feeding team.(8) Children who are fed enterally can have difficulty transitioning to oral feeding due to oral hypersensitivity and oral defensiveness(8) . Problem Goal Intervention Expected Progression Home Program Oral and pharyngeal postdeglutitive residue and gurgly vocal qualityReduce postdeglutitive residueAlternate liquid and solid foods _ _ To reduce and clear postdeglutitive residue, advise the patient to alternate liquids and solids and take small bites if he or she can safely handle liquids without aspiration(10)Progression will vary according to individual patient goals and learning stylePatient will typically need to use swallowing techniques during all oral intake  Oral and pharyngeal dysphagia due to reduced pharyngeal contractionIngest food and liquids safely (without aspiration)Postural treatment _ _ Postures such as the chin tuck (chin down), head tilt, or head turn might be used to provide airway protection(10)Progression will vary according to individual patient goals and learning stylePatient will typically need to use posture while swallowing during all oral intake Oral and pharyngeal dysphagiaIngest food and liquids safely (without aspiration)Swallow maneuvers _ _ Swallow maneuvers that can assist in compensating for reduced sensation or muscle strength and prevent aspiration during the pharyngeal stage include the supraglottic swallow, the super-supraglottic swallow, the effortful swallow, and the Mendelsohn maneuver. Patients might not be able to benefit from maneuvers if they fatigue easily or if they are unable to follow instructions or remember to use the maneuver during each swallowProgression will vary according to individual patient goals and learning stylePatient will typically need to use swallowing techniques during all oral intake  Oral and pharyngeal dysphagiaIngest food and liquids safely (without aspiration)Diet modification _ _ Diet modification might assist the patient in both the oral and pharyngeal stages of the swallow: If a patient reports fatigue while chewing or exhibits disorganization of the oral phase, the diet can be changed to mechanical soft or pureed texture(26) If the patient experiences aspiration of liquids or difficulty containing the liquid in the oral cavity, the SLP can investigate thickened liquids; however, it cannot be assumed that all patients benefit from thickened liquids and a VFSS is recommended, particularly when aspiration is suspected.(49) When possible, use naturally occurring thickened liquids such as fruit nectars, tomato juice, vegetable juice, cream soups, gelatins, hot cereals, thick sauces, puddings, and custards(10) If the patient demonstrates delayed oral phase (e.g., holds food in mouth for extended periods), he or she might benefit from slightly thicker liquids or foods that have additional sensory input to trigger a swallow reflex (e.g., cold, sour, spicy)(10)Progression will vary according to individual patient goals and learning stylePatient will typically need to use modified diet during all oral intake  Xerostomia Increase moisture in the mouth; increase saliva production; improve oral health and hygieneCompensatory strategies Maintain health of the mouth and teeth by avoiding sugary or acidic foods and using fluoride toothpaste, rinse, or gel(53) Chew sugar-free gum or suck on sugar-free hard candies(53) Limit caffeine intake(53) Avoid mouthwashes that contain alcohol due to the drying effect(53) Stop the use of any tobacco products(53) Sip water regularly(53) Use saliva substitutes; typically those containing carboxymethylcellulose or hydroxyethyl cellulose(53) Avoid use of OTC antihistamines and decongestants, which can exacerbate xerostomia(53) Breathe through the nose, not the mouth, as much as possible(53) Use a room humidifier to add moisture to the air when sleeping(53)Progression will vary according to individual patient goals and learning stylePatient will typically need to use compensatory strategies at all times to prevent xerostomia and maintain moisture levels of the mouth ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved swallow function elimination of aspiration": [
+            "CSE",
+            "FEES",
+            "VFSS",
+            "Number of choking episodes(26)",
+            "Presence of aspiration (measured by presence of fevers, X-rays)(26)"
+        ],
+        "improved nutrition and hydration": [
+            "Measures of liquid intake and skin turgor (refers to skin elasticity; poor skin turgor is a sign of dehydration)(26)",
+            "Weight(26)",
+            "Patient compliance with diet(26)"
+        ],
+        "improved quality of life": [
+            "SWAL-QOL(17)"
+        ]
+    },
+    "maintenance or prevention": [
+        "For a patient experiencing dysphagia known to be related to the use of a specific medication or combination of mediations, prevention of recurrence of dysphagia or maintenance of normal swallowing function might be achieved by no longer taking these medications; some effects are permanent",
+        "Patient and caregiver education about dysphagia, including the importance of nutrition and hydration, should be initiated if the patient is having swallowing difficulties",
+        "Older adults might be unable to perform sufficient oral care due to mobility or cognitive deficits. Tooth decay and pain while chewing might lead to decreased oral intake. In addition, good oral care has been linked to decreased incidence of aspiration pneumonia. It is important for the patient and caregivers to be educated about the importance of good dental hygiene and for caregivers to be trained to perform oral care when the patient is unable to perform oral self-care(10)",
+        "General prevention measures for both dysphagia and aspiration include: when present, ensuring that any dentures fit correctly(54) avoiding drinking excessive alcohol with meals(54) using proper positioning and food/liquid texture during all oral intake(54) ensuring that individuals with dysphagia have appropriate supervision during meals(54)",
+        "In order to prevent dysphagia from esophageal injury caused by medications, patients, especially older adult patients, should take all medications with a full glass of water and then maintain an upright position for at least 30\u201345  minutes(48)"
+    ],
+    "patient education": [
+        "The SLP is responsible for educating the family and patient care staff about the needs of the patient regarding swallow safety See \u201cSwallowing Disorders in Adults\u201d from the American Speech-Language-Hearing  Association: https://www.asha.org/public/speech/swallowing/swallowing-disorders-in-adults/ See \u201cFeeding and Swallowing Disorders in Children\u201d from the American Speech-Language-Hearing  Association at https://www.asha.org/public/speech/swallowing/Feeding-and-Swallowing-Disorders-in-Children/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Logemann J. Chapter 10. Dysphagia: Basic Assessment and Management. Medical Speech-Language  Pathology: A Practitioner\u2019s Guide . 3rd ed. New York: Thieme Medical Publishers; 2017. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "American Speech-Language-Hearing  Association (ASHA). Swallowing disorders (dysphagia) in adults. American Speech-Language-Hearing  Association Web site. https://www.asha.org/public/speech/swallowing/Swallowing-Disorders-in-Adults/ . Accessed October 19, 2020. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Rommel N, Hamdy S. Oropharyngeal dysphagia: manifestations and diagnosis. Nat Rev Gastroenterol Hepatol . January 2016;13(1):49-59.  doi:10.1038/nrgastro.2015.199. (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Yeom J, Song YS, Lee WK, Oh BM, Han TR, Seo HG. Diagnosis and Clinical Course of Unexplained Dysphagia. Ann Rehabil Med . February 2016;40(1):95-101.  doi:10.5535/ arm.2016.40.1.95. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Mukdad L, Kashani R, Mantha A, Sareh S, Mendelsohn A, Benharash P. The Incidence of Dysphagia Among Patients Undergoing TAVR With Either General Anesthesia or Moderate Sedation. J Cardiothorac Vasc Anesth . January 2019;33(1):45-50.  doi:10.1053/j.jvca.2018.05.040. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Milliken L. The Role of Polypharmacy in Swallowing \u2014 Its Implications for Clinicians. Today's Geriatr Med . 2018;11(4):14. (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Rudolph JL, Gardner KF, Gramigna GD, McGlinchey RE. Antipsychotics and oropharyngeal dysphagia in hospitalized older patients. J Clin Psychopharmacol . 2008;28(5):532-535.  doi:10.1097/JCP.0b013e318184c905. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Adult Dysphagia. ASHA Practice Portal. American Speech-Language-Hearing  Association Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Adult-Dysphagia/ . Accessed October 20, 2020. (G)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Pediatric Dysphagia. ASHA Practice Portal. American Speech-Language-Hearing  Association Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Pediatric-Dysphagia/ . Accessed October 20, 2020. (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Warnecke T, Dziewas R, Wirth R, Bauer JM, Prell T. Dysphagia from a neurogeriatric point of view : Pathogenesis, diagnosis and management. Z Gerontol Geriatr . 2019;52(4):330-335.  doi:10.1007/s00391-019-01563-x.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Barbe AG. Medication-Induced  Xerostomia and Hyposalivation in the Elderly: Culprits, Complications, and Management. Drugs Aging . October 2018;35(10):877-885. doi:10.1007/s40266-018-0588-5.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Practice Portal: Dementia. American Speech-Language-Hearing  Association Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Dementia/ . Accessed October 20,"
+        },
+        {
+            "number in article": 2020,
+            "reference": " (G)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Medications and dysphagia/swallowing risks. State of Connecticut Department of Developmental Services Web site. https://portal.ct.gov/-/media/DDS/Health/AttachAMedDsyphagiaSwallowingRisks.pdf?la=en . Published December 19, 2013. Accessed October 20, 2020. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kulkarni DP, Kamath VD, Stewart JT. Swallowing Disorders in Schizophrenia. Dysphagia . August 2017;32(4):467-471.  doi:10.1007/s00455-017-9802-6.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Pezdirec M, Strojan P, Boltezar IH. Swallowing disorders after treatment for head and neck cancer. Radiol Oncol . June 1, 2019;53(2):225-230.  doi:10.2478/raon-2019-0028. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Assy Z, Brand HS. A systematic review of the effects of acupuncture on xerostomia and hyposalivation. BMC Complement Altern Med . February 13, 2018;18(1):57. doi:10.1186/s12906-018-2124-x.  (SR)"
+        },
+        {
+            "number in article": 17,
+            "reference": "McHorney CA, Bricker DE, Kramer AE, et al. The SWAL-QOL  outcomes tool for oropharyngeal dysphagia in adults: I. Conceptual foundation and item development. Dysphagia . 2000;15(3):115-121.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Sadock BJ, Sadock VA, Ruiz P. Schizophrenia spectrum and other psychotic disorders. In: Kaplan & Sadock\u2019s Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry . 11th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2015:300-329.  (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Persson E, W\u00e5rdh I, \u00d6stberg P. Repetitive Saliva Swallowing Test: Norms, Clinical Relevance and the Impact of Saliva Secretion. Dysphagia . April 2019;34(2):271-278. doi:10.1007/s00455-018-9937-0.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Rogus-Pulia  NM, Larson C, Mittal BB, et al. Effects of Change in Tongue Pressure and Salivary Flow Rate on Swallow Efficiency Following Chemoradiation Treatment for Head and Neck Cancer. Dysphagia . October 2016;31(5):687-96.  doi:10.1007/s00455-016-9733-7.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Felix CC, Joseph ME, Daniels SK. Clinical Decision Making in Patients With Stroke-Related  Dysphagia. Semin Speech Lang . 2019;40(3):188-202. doi:10.1055/s-0039-1688815.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Sassi FC, Sassi GC, Zilberstein B, Jayanthi SK, De Andrade CR. Screening protocol for dysphagia in adults: Comparison with videofluoroscopic findings. Clinics. 2017;72(12):718-722.  doi:10.6061/clinics/2017(12)01. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Rangarathnam B, McCullough G. Utility of a Clinical Swallowing Exam for Understanding Swallowing Physiology. Dysphagia . 2016;31(4):491-7. doi:10.1007/s00455-016-9702-1.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Easterling CS, Robbins E. Dementia and dysphagia. Geriatr Nurs . 2008;29(4):275-285.  doi:10.1016/j.gerinurse.2007.10.015. (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Gonz\u00e1lez-Fern\u00e1ndez  M, Daniels S. Dysphagia in stroke and neurologic disease. Phys Med Rehabil Clin N Am . 2008;19(4):867-888,  x. doi:10.1016/j.pmr.2008.07.001. (GI)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Garand KLF, McCullough G, Crary M, Arvedson JC, Dodrill P. Assessment Across the Life Span: The Clinical Swallow Evaluation. Am J Speech Lang Pathol . July 10, 2020;29(2S):919-933.  doi:10.1044/2020_AJSLP-19-00063.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Velasco LC, Imamura R, R\u00eago APV, da Silva Peixoto LP, de Oliveira Siqueira J. Sensitivity and Specificity of Bedside Screening Tests for Detection of Aspiration in Patients Admitted to a Public Rehabilitation Hospital. Dysphagia . October 14, 2020. doi:10.1007/s00455-020-10198-9.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Duffy KL. Dysphagia in Children. Review Curr Probl Pediatr Adolesc Health Care . 2018;48(3):71-73.  doi:10.1016/j.cppeds.2018.01.003. (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Wolf LS, Glass RP. Feeding and Swallowing Disorders in Infancy: Assessment and Management . Tucson, AZ: Therapy Skill Builders; 1992. (GI)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Palmer MM, Crawley K, Blanco IA. Neonatal Oral-Motor  Assessment Scale: a reliability study. J Perinatol . 1993;13(1):28-35.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Morris SE. Pre-Speech  Assessment Scale: A Rating Scale for the Measurement of Pre-Speech  Behaviors from Birth through Two Years . Rev ed. Clifton, NJ: JA Preston; 1982. (PP)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Jelm JM. Oral-Motor/Feeding  Rating Scale . Tucson, AZ: Therapy Skill Builders; 1990. (PP)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Kenny DJ, Koheil RM, Greenberg J, et al. Development of a multidisciplinary feeding profile for children who are dependent feeders. Dysphagia . 1989;4(1):16-28.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Ottenbacher K, Dauck BS, Gevelinger M, Grahn V, Hassett C. Reliability of the Behavioral Assessment Scale of Oral Functions in Feeding. Am J Occup Ther . 1985;39(7):436-440.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Earnest MM. Preschool Motor Speech Evaluation & Intervention . Bisbee, AZ: Imaginart; 2000. (PP)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Sheppard JJ. Dysphagia Disorders Survey and Dysphagia Management Staging Scale (Revised) . Lake Hopatcong, NJ: Nutritional Management Associates; 2002. (PP)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Stewart L. Development of the Nutrition and Swallowing Checklist, a screening tool for nutrition risk and swallowing risk in people with intellectual disability. J Intellect Dev Disabil. 2003;28(2):171-187.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "O'Neil KH, Purdy M, Falk J, Gallo L. The Dysphagia Outcome and Severity Scale. Dysphagia . 1999;14(3):139-145.  (PP)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Crary MA. Imaging Swallowing Examinations: Videofluoroscopy and Endoscopy. In: Dysphagia: Clinical Management in Adults and Children . 2nd ed. St Louis: MO: Elsevier; 2016:161-186.  (GI)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Martin-Harris  B, Humphries K, Garand K. The Modified Barium Swallow Impairment Profile (MBSImP\u2122\u00a9) \u2013 Innovation, Dissemination and Implementation. Perspect ASHA Special Interest Groups . 2017;2(13):129-138.  doi:10.1044/persp2.SIG13.129. (RV)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Chichero J. Age-Related  Changes to Eating and Swallowing Impact Frailty: Aspiration, Choking Risk, Modified Food Texture and Autonomy of Choice. Geriatrics . 2018;3(4):69. doi:10.3390/geriatrics3040069. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Leder SB, Suiter DM, Green BG. Silent aspiration risk is volume-dependent.  Dysphagia . 2011;26(3):304-309.  doi:10.1007/s00455-010-9312-2.  (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Langmore SE. History of Fiberoptic Endoscopic Evaluation of Swallowing for Evaluation and Management of Pharyngeal Dysphagia: Changes over the Years. Dysphagia . February 2017;32(1):27-38.  doi:10.1007/s00455-016-9775-x.  (RV)"
+        },
+        {
+            "number in article": 44,
+            "reference": "American Speech-Language-Hearing  Association. Endoscopic Evaluation of Swallowing. American Speech-Language-Hearing  Association Web site. http://www.asha.org/ public/speech/swallowing/endoscopy/ . Published May 8, 2009. Accessed October 20, 2020. (GI)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Philpott H, Garg M, Tomic D, Balasubramanian S, Sweis R. Dysphagia: Thinking outside the box. World J Gastroenterol . 2017;23(38):6942-6951.  doi:10.3748/ wjg.v23.i38.6942. (RV)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Shieh WY, Wang CM, Chang CS. Development of a portable non-invasive  swallowing and respiration assessment device. Sensors. May 27, 2015;15(6):12428-53.  doi:10.3390/ s150612428. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Jardine M, Miles A, Allen JE. Swallowing function in advanced age. Curr Opin Otolaryngol Head Neck Surg . December 2018;26(6):367-374.  doi:10.1097/ MOO.0000000000000485.  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Satpathy HK. Dysphagia. In: Ferri FF, ed. 2021 Ferri\u2019s Clinical Advisor: 5 Books in 1 . Philadelphia, PA: Elsevier; 2021:491-492.  (GI)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Bath PM, Lee HS, Everton LF. Swallowing therapy for dysphagia in acute and subacute stroke. Cochrane Database Syst Rev . October 30, 2018;10(10):CD000323. doi:10.1002/14651858.CD000323.pub3. (SR)"
+        },
+        {
+            "number in article": 50,
+            "reference": "What is the IDDSI Framework? International Dysphagia Diet Standardisation Initiative Web site. https://iddsi.org/framework/ . Accessed October 20, 2020. (G)"
+        },
+        {
+            "number in article": 51,
+            "reference": "IDDSI Flow Test. International Dysphagia Diet Standardisation Initiative Web site. https://iddsi.org/wp-content/uploads/2017/04/20170403-IDDSI-Flow-Test-Handout.pdf . Accessed October 20, 2020. (G)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Barbon CEA, Steele CM. Thickened Liquids for Dysphagia Management: a Current Review of the Measurement of Liquid Flow. Curr Phys Med Rehabil Rep . December 2018;6(4):220-226.  doi:10.1007/s40141-018-0197-6.  (RV)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Salinas TJ. Dry mouth treatment: Tips for controlling dry mouth. https://www.mayoclinic.org/diseases-conditions/dry-mouth/expert-answers/dry-mouth/faq-20058424 . Published February 28, 2017. Accessed October 20, 2020. (GI)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Chang FB. Dysphagia. In: Domino FJ, Baldor RA, Golding J, Stephens MB, eds. The 5-Minute Clinical Consult Standard 2017 . 25th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2017:326-327.  (GI)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Wiedemann S, Henke C, Strasser RH. Acute dysphagia after myocardial infarction: An unusual complication of anticoagulation therapy. Kardiol Pol . 2014;72(1):87. doi:10.5603/KP.2014.0013. (C)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Visser HK, Wigington JL, Keltner NL, Kowalski PC. Biological perspectives: Choking and antipsychotics: Is this a significant concern? Perspect Psychiatr Care . 2014;50(2):79-82.  doi:10.1111/ppc.12062. (RV)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Drug-induced  lesions of the oesophageal mucosa. Prescrire Int . September 2015;24(163):210-1,  213. (R)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Marek CL, Parks ET. Patients with a psychological disorder. In: Stefanac SJ, Nesbit SP, eds. Diagnosis and Treatment Planning in Dentistry . 3rd ed; 2017:342-363.  (GI) "
+        }
+    ]
+}

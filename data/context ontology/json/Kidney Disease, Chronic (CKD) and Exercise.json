@@ -1,0 +1,513 @@
+{
+    "metadata": {
+        "title": "Renal Dialysis and Exercise",
+        "synonyms": [
+            "exercise and renal dialysis",
+            "chronic kidney disease and exercise",
+            "kidney disease, chronic and exercise",
+            "intra-hemodialysis  and exercise",
+            "renal failure and exercise",
+            " end-stage  renal failure and exercise",
+            "end-stage  renal disease and exercise"
+        ],
+        "anatomical location body part affected": [
+            "Kidneys/renal nephrons (i.e., glomeruli, tubules) and renal blood vessels; cardiovascular system with multiple comorbidities"
+        ],
+        "area of specialty": [
+            "acute care",
+            "cardiopulmonary rehabilitation"
+        ],
+        "description": [
+            "Renal dialysis is a common treatment for patients with chronic kidney disease (pwCKD). Dialysis sessions are typically 3 to 4 hours in duration and administered 3 times a week(1)",
+            "Most pwCKD receiving renal dialysis are sedentary, have reduced physical functioning in activities of daily living (ADLs) as well as low cardiorespiratory endurance fitness(2,3,18,42)",
+            "Functional decline in pwCKD likely begins before renal dialysis treatment due to anemia, muscle wasting, general weakness, and physical inactivity.(3) Exercise prehabilitation (i.e., exercise training in the early stages of chronic kidney failure before starting dialysis) might prevent the decline in physical functioning and reduced physical activity seen in pwCKD receiving dialysis(51)",
+            "Comorbidities (e.g., cardiovascular disease [CVD], malnutrition, mental depression) also often contribute to disability in ADLs and reduced health-related  quality of life (HRQoL) in pwCKD(4,5)",
+            "Chronic fatigue and lethargy can further debilitate physical functioning and vitality in pwCKD(12)",
+            "Frailty and slow gait speed are especially common in older pwCKD(6,34,51)",
+            "Daily renal dialysis without exercise training does not improve physical functioning in pwCKD(7)",
+            "In contrast, moderately strong evidence supports aerobic exercise training during (intradialysis) or between dialysis sessions for improving peak oxygen uptake (VO 2peak), muscular strength, daily physical functioning, and HRQoL(34,35,43,52,53)",
+            "Resistance exercise training during dialysis treatments also appears safe and effective for improving strength, physical functioning, and quality of life,(8,9,10) as well as for reversing skeletal muscle wasting(11)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "585": {
+                "base": "chronic kidney disease",
+                "585.1": "chronic kidney disease, Stage I",
+                "585.2": "chronic kidney disease, Stage II (mild)",
+                "585.3": "chronic kidney disease, Stage III (moderate)",
+                "585.4": "chronic kidney disease, Stage IV (severe)",
+                "585.5": "chronic kidney disease, Stage V",
+                "585.6": "end-stage renal disease",
+                "585.9": "chronic kidney disease, unspecified"
+            },
+            "403.01": "hypertensive chronic kidney disease, malignant, with chronic kidney disease",
+            "403.11": "hypertensive chronic kidney disease, benign, with chronic kidney disease",
+            "403.91": "hypertensive chronic kidney disease, unspecified, with chronic kidney disease",
+            "586": "renal failure, unspecified [excluding hypertensive renal disease]"
+        },
+        "ICD-10 codes": {
+            "N18": {
+                "base": "chronic renal failure",
+                "N18.0": "end-stage renal disease",
+                "N18.8": "other chronic renal failure, specified",
+                "N18.9": "chronic renal failure, unspecified"
+            },
+            "I12.0": "hypertensive renal disease with renal failure (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Mobility G-code set": {
+                "G8978": "Mobility: walking & moving around functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8979": "Mobility: walking & moving around functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8980": "Mobility: walking & moving around functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Changing & Maintaining Body Position G-code set": {
+                "G8981": "Changing & maintaining body position functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8982": "Changing & maintaining body position functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8983": "Changing & maintaining body position functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Carrying, Moving & Handling Objects G-code set": {
+                "G8984": "Carrying, moving & handling objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, moving & handling objects functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, moving & handling objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Self Care G-code set": {
+                "G8987": "Self care functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8988": "Self care functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8989": "Self care functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code set": {
+                "G8990": "Other physical or occupational primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other physical or occupational primary functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other physical or occupational primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code set": {
+                "G8993": "Other physical or occupational subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other physical or occupational subsequent functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other physical or occupational subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Patient with CKD and reduced physical function: referral specifically for exercise program before, between, or during renal dialysis sessions",
+            "Other concerns \u2013Sedentary lifestyle(42) \u2013Muscle atrophy/weakness \u2013Low age-related  VO 2peak and aerobic work capacity as indicated by exercise testing(13) \u2013Chronic state of fatigue \u2013Slow gait speed \u2013Frailty in elderly patients(51) \u2013Reduced cognitive function(36) Causes, Pathophysiology, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop any therapeutic activity or exercise and notify physician if patient reports the onset of symptoms associated with cardiac insufficiency (e.g., angina, inappropriate shortness of breath, dizziness)",
+            "Even in the absence of exertion-related  symptom limitations, exercise testing on a treadmill or cycle ergometer should progress very gradually and terminated when the patient expresses voluntary fatigue or other predetermined endpoints specific for the patient are reached(18)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "potential causes of reduced physical functioning in pwckd": [
+            "Prolonged illness with extended physical inactivity, leading to\u2013Muscle disuse, atrophy, and weakness\u2013Poor aerobic functional endurance",
+            "Anemia (i.e., low hematocrit/hemoglobin levels) resulting from diminished kidney production of erythropoietin and othercomorbidities that cause kidney failure (e.g., CVD, hypertension and diabetes mellitus)",
+            "Uremic myopathy may impair muscle O 2 extraction, as indicated by reduced arteriovenous O 2 difference duringexercise(14)",
+            "Reduced maximal-achievable  heart rate (HRpeak) despite hard or maximal exertion on incremental exercise testing.Maximal-achievable cardiac output is reduced even though cardiac stroke volume during exercise may be normal forage(7,14,15)\u2013If in stage 5 of CKD (kidney failure), functional capacity may be only 60-70%  of age-matched  controls(18)",
+            "Reduced left ventricular systolic function(16)",
+            "Anorexia"
+        ],
+        "pathophysiology of reduced physical functioning in pwckd": [
+            "CKD that requires dialysis indicates severely impaired renal function (i.e., decreased glomerular filtration rate) with theaccumulation of nitrogenous toxins (e.g., urea, creatinine) in the blood (i.e.,azotemia)",
+            "Symptoms of uremia, such as nausea, muscle wasting, dependent edema, shortness of breath, and weakness, contribute tophysical disabilities. These changes are associated with chronic lethargy and fatigue, which promote physical inactivity andgeneral deconditioning",
+            "Potential pathophysiological consequences of CKD that may also contribute to reduced physical functioning(17)\u2013Anemia: reduces arterial O 2 content and O 2 delivery to muscle during exercise\u2013Peripheral neuropathy\u2013Uremic myopathy may reduce O 2 oxygen extraction in muscle and contribute to reduced arteriovenous O 2 differenceduring exercise\u2013Metabolic (lactic) acidosis\u2013Autonomic dysfunction: reduced maximal-achievable  HRpeak, with reduced peak cardiac output during exercise",
+            "The reduced VO 2peak and functional aerobic work capacity of pwCKD is associated with low peak cardiac output andarteriovenous O 2 difference during maximal exercise.(7,14,15,18)(Author\u2019s note: Although this finding is attributed toautonomic dysfunction, muscle weakness could also explain failure to achieve a maximal cardiac response)"
+        ],
+        "ckd is associated with increased risk of coronary heart disease morbidity and mortality related to both uremia-specific factors  i.e., markers of impaired renal function, see diagnostic tests , below  and risk factors for atherosclerosis, including": [],
+        "risk factors for ckd": [
+            "Traditional CVD risk factors, especially smoking and obesity(41)",
+            "Hypertension",
+            "Physical inactivity",
+            "Dietary habits that promote weight gain, diabetes, or hyperlipidemia",
+            "Abuse of alcohol or illegal substances",
+            "Poor adherence to medical advice regarding risk factors that contribute to sedentary living",
+            "Diabetes",
+            "Age",
+            "Family history"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The capacity to tolerate vigorous exercise is typically very low in sedentary pwCKD due to aerobic deconditioning and both chronic central fatigue (malaise or lethargy) and peripheral (muscle) weakness or fatigue. Patients may also experience muscle pain during exercise.(17) Initial or start-up workloads during either physical testing or therapeutic exercise should, therefore, feel \u201clight\u201d or \u201ceasy\u201d to allow the patient warm-up  time before any \u201chard\u201d physical activity.(18) Monitor vital signs and pain to ensure an appropriate adjustment to exercise",
+        "Postpone treatment and notify physician if a patient presents with recent onset of the following signs and symptoms of acute illness: Unusual/atypical fatigue for patient Fever Malaise Flu-like  symptoms (e.g., chills, headache, dizziness, muscle aches) Pulmonary crackles/rales Increased nausea Diarrhea",
+        "Stop physical activity/exercise therapy and notify physician in case of(18,19) dizziness or lightheadedness chest pain resting systolic blood pressure (BP) over 200 mmHg resting diastolic BP over 110 mmHg erratic, fluctuating, or inappropriate BP response  severe headache \u2013Severe headache, neck pain and vomiting after routine dialysis were symptoms experienced by a patient who was diagnosed with a spontaneous nontraumatic, nonaneurysmal subarachnoid hemorrhage without any cerebrovascular malformation(50) pProlonged fatigue after exercise",
+        "Contact sports should always be avoided to protect the patient from trauma",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop any therapeutic activity or exercise and notify physician if patient reports the onset of symptoms associated with cardiac insufficiency (e.g., angina, inappropriate shortness of breath, dizziness)",
+            "Even in the absence of exertion-related  symptom limitations, exercise testing on a treadmill or cycle ergometer should progress very gradually and terminated when the patient expresses voluntary fatigue or other predetermined endpoints specific for the patient are reached(18)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "Document the patient\u2019s regimen for renal dialysis,site of dialysis port, and any other ongoing treatments (e.g., for coronary artery disease, heart failure, hypertension, diabetes, neurological disease, or osteoporosis)",
+                    "surgical management": [
+                        "Surgical management: Document any operative procedures that may restrict the type/mode of exercise training"
+                    ],
+                    "medications": "CKD patients are often prescribed cardiac medications (e.g., beta blockers, antihypertensives) that may affect exercise HR or BP. Document all medications and confirm that they are being taken",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests:  The laboratory workup may include",
+                        "Electrocardiogram (ECG)  taken at rest and in some cases during an exercise test",
+                        "Biomarkers of impaired renal function (e.g., decreased serum albumin, increased white blood cell count, increased serum calcium, increased urinary urea, creatinine, potassium, phosphate, and calcium)",
+                        "Blood glucose (a high percentage of pwCKD have diabetes)(41)",
+                        "Hematocrit, hemoglobin, and red blood cell count (low readings are common but not specific for CKD)",
+                        "Exercise testing under medication supervision and may involve functional tests rather than traditional graded exercise test. See Special Tests  below"
+                    ],
+                    "alternative therapies": "Document any use of herbal, behavioral, or other alternative therapies and whether or not they help",
+                    "previous therapy": "Document whether patient has previously received exercise therapy and, if so, what specific program"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document reported symptoms at rest and any additional symptoms during physical activity",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 0-10 scale to assess symptoms at their best, at their worst, and at the moment",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "If present, document number of wakings/nightDocument the use of supplemental oxygen or the need for ventilator support",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate ability to exercise and/ or symptoms that may indicate referral to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) Barriers to learning -Are there any barriers to learning? Yes__ No__  -If Yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any prior exercise prescription or exercise therapy for chronic conditions?",
+                    "comorbid diagnoses": "Document any history of heart disease, hypertension, stroke, diabetes, or peripheral vascular disease",
+                    "medications previously prescribed": "Obtain a comprehensive list of all prescribed and over-the-counter  medications and herbal remedies. If applicable, was there any use of illegal drugs?",
+                    "other symptoms": "Ask about symptoms related to physical exertion"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient work or participate in fitness activities? What does the patient\u2019s occupation involve? Is the patient a smoker?",
+                "functional limitations assistance with ADLs adaptive equipment": "If applicableAsk about family situation, employment status and working conditions that may increase stress/anxiety. Ask about number of floors and stairs in home environment and any symptoms experienced while using steps",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Determine height, weight, and body mass index (BMI). Is the patient overweight or underweight?",
+            "assistive and adaptive devices": "Is an assistive device or wheelchair being used for general mobility or ADLs? Are any adaptive devices being used? If so, are they in good condition and being used properly?",
+            "balance": "Assess static and dynamic balance. Administer Functional Reach Test or Berg Balance Scale (BBS), if indicated. Ensure that exercise equipment selected for training (e.g., treadmill, elliptical trainer) can be safely used without risk for falls",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess peripheral pulses in upper and lower extremities",
+            "functional mobility": "Assess gross movement during transfers and functional tasks using the upper extremities (e.g., reaching, pulling, pushing, holding) and lower extremities (e.g., steps, squatting, kneeling, kicking).The Timed Up and Go (TUG) test can be used to assess functional mobility",
+            "gait locomotion": "Assess gait, including usual speed, synchrony of limb movements, and posture, to ensure ambulatory function is satisfactory for a walking exercise program. Use 10-meter  walk test (10-mWT)  to assess gait speed. Maximal gait speed has been shown to correlate directly with renal function (glomerular filtration rate) (i.e., faster gait speed indicated better renal function).(13) Slow gait speed is common in pwCKD and may identify those at risk for disability(33) \u2013Authors of a cohort study (n = 14 pwCKD receiving hemodialysis) found that thinking tasks while walking (i.e., \u201cdual-tasking\u201d)  decreased walking speed to less than 1 m/sec and altered spatiotemporal gait pattern. Dual tasking while walking could increase risk for falls(37)",
+            "muscle strength": "Scan strength in functional tasks (e.g., hand grip, pushing, pulling, sit-up,  squatting). Assess strength in muscle groups targeted for exercise training with manual muscle testing (MMT), dynamometry, or weights",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "Screen for functional ROM in all extremities to clear for prescribed exercisesAssess deep tendon reflexesScan dermatomes for normal sensation",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests \u2013Patients without contraindications referred specifically for aerobic exercise training may be able to undergo a submaximal, symptom-limited  graded exercise test in compliance with medical guidelines. Assess HR, BP, Borg\u2019s rating of perceived exertion (RPE) responses, and for adverse signs/symptoms while conducting the test on a treadmill or cycle ergometer(16,17,18)  \u2013Sedentary pwCKD typically have very low aerobic work tolerance. The initial workload of an exercise test protocol used to evaluate physical functioning should, therefore, feel \u201clight\u201d or \u201ceasy,\u201d on Borg\u2019s scale and subsequent workloads should progress the patient\u2019s exertion gradually.(7,13,14,15,16,17) In this population, traditional exercise tests may not prove to be as valuable; functional tests may be more appropriate(18) \u2013VO2peak can be measured directly in a cardiopulmonary exercise testing laboratory or estimated from standard protocols that use a treadmill or cycle ergometer(17) \u2013Most pwCKD have a blunted HR response to progressive incremental exercise (i.e., the maximal-achievable  HRpeak on exercise testing may fall below the age-predicted level)(7,14,15,18) \u2013The 6MWTcanalso be used to assess physical functioning in pwCKD. For example, authors of a study (n = 32 pwCKD) in the United States found that 6MWT performance correlated significantly with VO 2peak measured during maximal or symptom-limited  treadmill exercise(13) \u2013HRQoL can be assessed using the Health Status Questionnaire Short Form (physical functioning scale and physical composite scale) (SF-36)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Systolic BP exceeds 260 mm Hg or diastolic BP exceeds 115 mm Hg",
+                "Systolic BP fails to rise more than 20 mmHg with progressive exertion",
+                "Systolic BP falls unexpectedly more than 10 mmHg with continuing exercise",
+                "Exertional symptoms such as chest discomfort, lightheadedness, or dyspnea suggest cardiac insufficiency",
+                "Rehabilitation professionals should always use their professional judgment regarding the use of modalities",
+                "Exercise may change fluid requirements, especially if perspiring heavily. Changes to fluid intake should be coordinated with physician or dietitian"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Because of the heterogeneity of comorbidities in CKD, not all patients are suitable candidates for exercise training. Those with exercise intolerance due to muscle pain, weakness, or fatigue at low workloads are less likely to improve their physical functioning with exercise(8,17,23,24,35,36)",
+                "Tailor the exercise prescription to fit each patient\u2019s measured functional ability, symptoms, and HR, BP, and RPE responses to exercise testing",
+                "Ensure close supervision and instruction during the initial exercise training sessions",
+                "Monitor BP on a regular basis during exercise. According to standard exercise guidelines,(17,18,19) exercise testing or exercise training should be terminated if",
+                "Resting BP higher than 180/110 mmHg is an absolute contraindication and BP higher than 160/100 mmHg is a relative contraindication to starting a resistance exercise session(18)",
+                "To prevent an exaggerated BP response to exercise, provide the patient with a thorough orientation to using the prescribed exercise equipment and with adequate warm-up  time",
+                "Although general guidelines for weight-lifting  exercise are not available specifically for pwCKD, clinical studies have shown that resistance exercise training may be well-tolerated,  safe, and improve strength, physical functioning, and HRQoL(8,9,10,11)",
+                "Resistive exercise training may help reverse skeletal muscle wasting in pwCKD(11)",
+                "Extend the cool-down  period and avoid having the patient stop suddenly and stand still after exercise because this prevents the lower-extremity  muscles from pumping, possibly causing a precipitous fall in systolic BP due to venous pooling and increasing risk of orthostatic hypotension with syncope",
+                "Clinicians should follow the exercise guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+                "Electrotherapeutic and physical modalities are indicated only when prescribed by the referring physician for a coexisting musculoskeletal condition",
+                "Hydration issues for patients on fluid restriction"
+            ]
+        },
+        "diagnosis need for treatment": "CKD requiring hemodialysis/poor physical functioning due to reduced aerobic capacity and muscle strength; physical inactivity contributing to reduced ability in ADLs and to increased risk of CVD comorbidities. Prescribed exercise training may improve cardiovascular fitness, muscle strength, physical functioning, uremia-specific measures, and HRQoL while reducing the risk of atherosclerosis CVD (hypertension, peripheral vascular disease, heart failure, arrhythmias), anemia, osteoporosis, diabetes mellitus, electrolyte abnormalities, metabolic syndrome, neuromuscular irritability",
+        "rule out": "",
+        "prognosis": [
+            "Authors of a 2006 systematic review of 39 studies (n = 1,371,990 non-dialysis-dependent  pwCKD) found that the risk of all-cause  and CVD mortality increases exponentially with decreasing renal function(20)",
+            "Authors of an epidemiologic study (n = 4,011 pwCKD) in the United States found that increased physical activity was associated with reduced risk of rapid decline in kidney function(21)",
+            "Exercise training either during dialysis or between dialysis sessions may have beneficial effects on HRQoL in patients with CKD(9,22,34)",
+            "Authors of a retrospective cohort study (n = 102) in Canada found that patients who participated in a 6-month  outpatient intradialytic cycling exercise program had decreased hospitalization incidence rate ratio (0.48) and length of hospital stay (3.1 vs. 7.8 days) compared to patients not in the program(44)",
+            "Authors of a randomized controlled pilot trial (n = 70 pwCKD) in Tasmania, Australia found no significant improvements in 6MWT or self-reported  physical functioning at 6 months follow-up  in the group who trained 3 times per week on a cycle ergometer during dialysis compared to the group who walked at home to achieve the same amount of weekly exercise or to the controls who received usual care and did not exercise(23)",
+            "Authors of a randomized controlled trial (RCT, n = 296 pwCKD on dialysis) in Italy found that at 6-months  follow-up,  the walking exercise group significantly improved in the 6MWT (328 m to 367 m) but the usual-activity  control group (321 m to 324 m) did not(53)",
+            "Lack of improvement in self-reported  or assessed physical functioning after adequate exercise training may indicate a poor prognosis, similar to patients with chronic heart failure(25)"
+        ],
+        "referral to other disciplines": "Physician for management of worsening symptoms related to renal failure; clinical exercise physiologist for cardiopulmonary exercise testing and measurement of VO 2peak; nutritionist for dietary management and advice on weight management and fluid restriction; occupational therapist for limited instrumental ADLs; psychiatrist/ psychologist for stress-anxiety  disorder or depression",
+        "other considerations": [
+            "Reduced physical activity in pwCKDis often associated with significant malnutrition or mental depression(4,5)",
+            "Exercise training may have positive benefits on factors other than physical functioning that are important clinical issues in renal dialysis patients, such as CVD risk profile, oxidative stress, BP, and inflammation(26)",
+            "The author of a 2009 review concluded that professional kidney organizations and nephrology practitioners at large are slow to adopt recommendations for physical activity and hesitate to encourage physical activity as part of routine medical care for pwCKD(27)",
+            "Specific guidelines for home exercise are lacking. In most cases, pwCKD should be counseled to be as physically active as their health permits on at least 3 days of the week and exercise at an exertion level that is easily tolerated without undue fatigue for 30 minutes per day(8,9,10,11,18,27)"
+        ],
+        "treatment summary": [
+            "The American College of Sports Medicine makes the following exercise recommendations regarding frequency,intensity, time, and type (FITT) for pwCKD:(18) \u2013Frequency \u2013 Aerobic exercise 3 to 5 days per week, resistance exercise 2 to 3 days per week \u2013Intensity \u2013 Moderate intensity aerobic exercise (40 to < 60% of HR reserve, RPE 11-13  on 6 to 20 scale); resistance exercise of 70 to 75% 1 repetition maximum \u2013Time \u2013 20 to 60 minutes of continuous activity; if not possible, 3 to 5 minute bouts of intermittent exercise aiming to accumulate 20-60  minutes per day; resistance training \u2013 at least 1 set of 10 to 15 repetitions; also include flexibility exercises \u2013Type \u2013 walking, cycling, swimming for aerobic; machine or free weights for resistance exercise",
+            "Aerobic exercise training \u2013Type of activity: Rhythmic movement with the legs (e.g., walking,(28) jogging, or cycling), arms (e.g., upper-body  cycle ergometer), or both legs and arms (e.g., elliptical trainer with arm levers) -Authors of an RCT (n = 26 pwCKD receiving hemodialysis) in Thailand found that thehome-based progressive walking program group increased their lower extremity strength significantly more than the usual-activities  group(28)  -Intradialysis cycling exercise training is safe for selected pwCKD and is associated with improved physical functioning and HRQoL(29,38,39,45,46) -Authors of a 2014 continuing education article provided recommendations for implementing an intradialytic exercise rehabilitation program based on their practical experience in the United Kingdom(45) -Authors of a 2014 systematic review of 24 studies with meta-analysis  (n = 997 pwCKD) found that intradialysis exercise was safe and suggested that a clinical guideline for nephrology practitioners should be updated on the benefits of intradialytic exercise(46) -Authors of a single-group  trial (n = 10) in the Republic of Korea found that a 12-week  program of intradialytic cycling exercise (30 minutes, 3 times per week) did not increase muscle mass or strength in knee extension, even though 6MWT, estimated VO 2peak, and HRQoL improved(47) -Authors of an RCT (n = 18) in France found that a 12-week  program of intradialytic cycling exercise (30 min, 3 times per week) improved plasma isoprostanes (markers of lipid peroxidation) and lipid profile, while improving 6MWT in the exercise group. Body composition did not change in either the exercise group or controls(48) \u2013Intensity -The prescribed exercise training intensity should, if possible, be based on the HR, BP, and RPE responses during maximal, symptom-limited  treadmill or cycle-ergometer  testing(17); otherwise, physical performance tests like the 6MWT should be used(18) -\u201cLight\u201d to \u201csomewhat hard\u201d exertion, equaling 11 to 13 on the Borg Rating of Perceived Exertion (RPE) Test (6to20)(30) -The predicted HR peak based on age should not be used to prescribe target training HRs for pwCKD because their maximal-achievable  HRpeak is often reduced(7,14,15) \u2013Duration: Intradialytic aerobic exercise training sessions are usually 30 min in duration. Physical activities may involve continuous or discontinuous exercise totaling 30 min of physical activity per day. Five hours or more per week may promote losing excess weight(18) \u2013Frequency: 3 alternating days per week during or between dialysis(31) -If done during dialysis, exercise should be done during first half of dialysis treatment; otherwise, should be done on days not in dialysis(18)",
+            "Resistance exercise training \u2013Muscle strengthening should be a goal of exercise therapy in the management of most pwCKD. However, the intensity of resistance exercise that is generally effective without compromising safety for most patients varies on a case to case basis similar to aerobic exercise and this emphasizes the importance of individual screening and strength testing(49) \u2013Authors of a 2014 systematic review with meta-analysis  (n = 5 trials) found a small but significant effect of resistance exercise training on increasing muscle mass. However, the authors concluded that only 1 of 9 pwCKD on hemodialysis is likely to receive a clinically important benefit based on their findings(40) \u2013Type of activity: Circuit training.(8,9,10,11) Weight-lifting  exercises using machines or free weights (e.g., leg press, chest press, leg extension, lat pull-down, leg curls, shoulder press, biceps curl, triceps press)(8,9,10,11) \u2013Intensity: Low to moderate intensity.(18) Resistance training at 40-60%  of 1-RM  is used for pwCKD, as in persons with CVD(17,18,19) \u2013Duration: 1-3 sets of 10 repetitions per exercise, taking about 30 min to complete the exercise session, depending on individual fatigue(8,9,10,11,18) \u2013Frequency: 2-3 nonconsecutive days per week(8,9,10,11,18,19)",
+            "Combined aerobic and resistance exercise training that follows the above general guidelines also appears to be safe and effective exercise for pwCKD(24,45)",
+            "Aquatic exercise between dialysis sessions may increase strength and physical performance. Authors of a small cohort study (n = 20 pwCKD on dialysis) in Poland found that isokinetic knee strength and physical fitness improved after a 3-month  interdialysis aquatic training program(54) . Problem Goal Intervention Expected Progression Home Program  Decreased balance Improve balance Balance training _ Individually tailored balance training programProgress patient as appropriateProvide written instructions for home program Decreased walking abilityImprove gait mechanics Gait training _ Individually tailored gait training programProgress patient as appropriateProvide written instructions for home program Decreased ability to perform ADLsImprove ability to perform ADLsADL training _ Individually tailored ADL training programProgress patient as appropriateProvide written instructions for home program Reduced strength, aerobic endurance, and functional exercise capacityImprovement of functional exercise capacity, if possible to age-norm or betterExercise therapy _ See Treatment summary above for aerobic and resistance exercise trainingGradually progress the intensity and duration of exercises to the maintenance phaseProvide the patient with a home program at discharge from supervised exercise. Physical fitness can continue to improve with an independent progressive exercise program ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes with outcome measures": [
+            "Improved aerobic endurance/Cycle or treadmill exercise testing, 6MWT",
+            "Improved strength/MMT, weight machines, or free weights",
+            "Improved functional exercise capacity in ADLs/TUG test, graded exercise test",
+            "Improved HRQoL/SF-36",
+            "Improved balance/Reassessment, BBS",
+            "Improved gait/Reassessment"
+        ]
+    },
+    "maintenance or prevention": [
+        "Continue prescribed exercise training through independent home program(32)",
+        "Weight reduction and control, as indicated",
+        "Dietary program, as prescribed",
+        "Reduce modifiable CVD risk factors, smoking and sedentary lifestyle"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Stack AG, Bloembergen WE. Prevalence and clinical correlates of coronary disease among new dialysis patients in the United States: a cross-sectional  study. J Am Soc Nephrol. 2001;12(7):1516-1523.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Johansen K, Chertow G, Ng A. Physical activity levels in patients on hemodialysis and healthy sedentary controls. Kidney Int . 2000;57(6):2564-2570.  (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Clyne N. The importance of exercise training in predialysis patients with chronic kidney disease. Clin Nephrol . 2004;61(Suppl 1):S10-S13.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Stack AG, Murthy B. Exercise and limitations in physical activity levels among new dialysis patients in the United States: an epidemiological study. Ann Epidemiol . 2008;18(12):880-888.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Altintepe L, Levendoglu F, Okudan N. Physical disability, psychological status, and health-related  quality of life in older hemodialysis patients and controls. Hemodial Int . 2006;10(3):260-266.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Odden MC. Physical functioning in elderly persons with kidney disease. Adv Chronic Kidney Dis . 2010;17(4):348-457.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Painter P, Krasnoff JB, Kuskowski M, Frassetto L, Johansen KL. Effects of modality change and transplant on peak oxygen uptake in patients with kidney failure. Am J Kidney Dis. 2011;57(1):113-122.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Oh-Park M, Fast A, Gopal S. Exercise for the dialyzed: aerobic and strength training during hemodialysis. Am J Phys Med Rehabil . 2002;81(11):814-821.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Cheema BS, Smith BC, Singh MA. A rationale for intradialytic exercise training as standard clinical practice in ESRD. Am J Kidney Dis . 2005;45(5):912-916.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Cheema BS, O'Sullivan AJ, Chan M. Progressive resistance training during hemodialysis: rationale and method of a randomized-controlled  trial. Hemodial Int . 2006;10(3):303-310.  (RCT)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Cheema B, Abas H, Smith B. Progressive exercise for anabolism in kidney disease (PEAK): a randomized, controlled trial of resistance training during hemodialysis. J Am Soc Nephrol. 2007;18(5):1594-1601.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Jhamb M, Argyropoulos C, Steel JL. Correlates and outcomes of fatigue among incident dialysis patients. Clin J Am Soc Nephrol . 2009;4(11):1779-1786.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Padilla J, Krasnoff J, Da Silva M. Physical functioning in patients with chronic kidney disease. J Nephrol . 2008;21(4):550-559.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Moore GE, Parsons DB, Stray-Gundersen  J, Painter PL, Brinker KR, Mitchell JH. Uremic myopathy limits aerobic capacity in hemodialysis patients. Am J Kidney Dis . 1993;22(2):277-287.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Moore GE, Brinker KR, Stray-Gundersen  J, Mitchell JH. Determinants of VO2peak in patients with end-stage  renal disease: on and off dialysis. Med Sci Sports Exerc . 1993;25(1):18-23.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Deligiannis A, Kouidi E, Tassoulas E, Gigis P, Tourkantonis A, Coats A. Cardiac effects of exercise rehabilitation in hemodialysis patients. Int J Cardiol . 1999;70(3):253-266.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Painter PL, Krasnoff JB. End-stage  metabolic disease: renal failure and liver failure. In: Durstine JL, Moore GE, Painter PL, Roberts SO, eds. ACSM\u2019s Exercise Management for Persons with Chronic Diseases and Disabilities . 3rd ed. Champaign, IL: Human Kinetics; 2009:175-181.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "American College of Sports Medicine. Exercise prescriptions for populations with other chronic diseases and health conditions. In: Pescatello E, ed. ACSM\u2019s Guidelines for Exercise Testing and Prescription . 9th ed. Baltimore, MD: Wolters Kluwer Health/Lippincott Williams and Wilkins; 2014:305-309.  (G)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Williams MA, Haskell WL, Ades PA, et al; American Heart Association Council on Clinical Cardiology; American Heart Association Council on Nutrition, Physical Activity, and Metabolism. Resistance exercise in individuals with and without cardiovascular disease: 2007 update: a scientific statement from the American Heart Association Council on Clinical Cardiology and Council on Nutrition, Physical Activity, and Metabolism. Circulation . 2007;116(5):572-584.  (PP)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Tonelli M, Culleton B. Chronic kidney disease and mortality risk: a systematic review. J Am Soc Nephrol . 2006;17(7):2034-2047.  (SR)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Robinson-Cohen  C, Katz R, Mozaffarian D, et al. Physical activity and rapid decline in kidney function among older adults. Arch Intern Med . 2009;169(22):2116-2123.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Takhreem M. The effectiveness of intradialytic exercise prescription on quality of life in patients with chronic kidney disease. Medscape J Med . 2008;10(10):226. (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Koh KP, Fassett RG, Sharman JE, Coombes JS, Williams AD. Effect of intradialytic versus home-based  aerobic exercise training on physical function and vascular parameters in hemodialysis patients: a randomized pilot study. Am J Kidney Dis . 2010;55(1):88-99.  (RCT)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Moinuddin I, Leehey DJ. A comparison of aerobic exercise and resistance training in patients with and without chronic kidney disease. Adv Chronic Kidney Dis . 2008;15(1):83-96.  (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Painter PL. Physical functioning in end-stage  renal disease patients: update 2005. Hemodial Int . 2005;9(3):218-235.  (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Tabet JY, Meurin P, Beauvais F. Absence of exercise capacity improvement after exercise training: a strong prognostic factor in patients with chronic heart failure. Circ Heart Fail. 2008;1(4):220-226.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Painter P. Implementing exercise: what do we know? Where do we go?. Adv Chronic Kidney Dis . 2009;16(6):536-544.  (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Ponngeon O, Chaunchaiyakul R, Vareesangthip K, Lumlertgul D, Nakum S, Jalayondeja W. Home-based  walking program increases leg muscle strength in hemodialysis patients. J Phys Ther Sci . 2011;23(2):345-348.  (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Reboredo M, Faria R, Portes LH, Mol CG, Pinheiro B, de Paula RB. Aerobic exercise during hemodialysis: report of five years experience. Fisioter Mov . 2011;24(2):239-246. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Borg G. Borg's Perceived Exertion and Pain Scales . Champaign, IL: Human Kinetics; 1998. (GI)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Kouidi E, Grekas D, Deligiannis A, Tourkantonis A. Outcomes of long-term  exercise training in dialysis patients: comparison of two training programs. Clin Nephrol . 2004;61(Suppl 1):S31-S38.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Byrne K, Russell M. Physical activity levels of patients with chronic kidney disease requiring dialysis. Physiother Ireland . 2011;32(2):29-33.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Painter P, Marcus R. Physical function and gait speed in patients with chronic kidney disease. Nephrol Nurs J . 2013;40(6):539-538.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Heiwe S, Jacobson SH. Exercise training for adults with chronic kidney disease. Cochrane Database Syst Rev . 2011;(10):CD003236. doi:10.1002/14651858. CD003236.pub2. (SR)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Heiwe S, Jacobson SH. Exercise training in adults with CKD: a systematic review and meta-analysis.  Am J Kidney Dis . 2014;pii: S0272-6386(14):00735-5.  doi:10.1053/ j.ajkd.2014.03.020. (SR)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Weiner DE, Seliger SL. Cognitive and physical function in chronic kidney disease. Curr Opin Nephrol Hypertens . 2014;23(3):291-297.  (RV)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Shin S, Chung HR, Kistler BM, Fitschen PJ, Wilund KR, Sosnoff JJ. Walking and talking in maintenance hemodialysis patients. Arch Phys Med Rehabil . 2013;94(1):127-131. (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Parker K. Establishing a successful intradialytic exercise program: Part 1 of 2. CANNT J . 2012;22(3):37-38.  (X)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Parker K. Establishing a successful intradialytic exercise program: Part 2 of 2. CANNT J . 2012;22(4):38-40.  (X)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Sawant A, House AA, Overend TJ. Anabolic effect of exercise training in people with end-stage  renal disease on hemodialysis: a systematic review with meta-analysis. Physiother Can . 2014;66(1):44-53.  doi:10.3138/ptc.2012-59.  (SR)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Coll-de-Tuero  G, Mata-Cases  M, Rodriguez-Poncelas  A, et al. Chronic kidney disease in the type 2 diabetic patients: prevalence and associated variables in a random sample of 2642 patients of a Mediterranean area. BMC Nephrol . August 20, 2012;13:87. doi:10.1186/1471-2369-13-87.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Rosa CS, Bueno DR, Souza GD, et al. Factors associated with leisure-time  physical activity among patients undergoing hemodialysis. BMC Nephrol . 2015;16:192. doi:10.1186/s12882-015-0183-5.  (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Barcellos FC, Santos IS, Umpierre D, Bohlke M, Hallala PC. Effects of exercise in the whole spectrum of chronic kidney disease: a systematic review. Clin Kidney J . 2015;8(6):753-765.  doi:10.1093/ckj/sfv099. (SR)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Parker K, Zhang X, Lewin A, MacRae JM. The association between intradialytic exercise and hospital usage among hemodialysis patients. Appl Physiol Nutr Metab . 2015;40(4):371-378.  doi:10.1139/apnm-2014-0326.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Greenwood SA, Naish P, Clark R, et al. Intra-dialytic  exercise training: a pragmatic approach. J Ren Care . 2014;40(3):219-226.  doi:10.1111/jorc.12080. (PP)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Sheng K, Zhang P, Chen L, Cheng J, Wu C, Chen J. Intradialytic exercise in hemodialysis patients: a systematic review and meta-analysis.  Am J Nephrol . 2014;40(5):478-490. doi:10.1159/000368722. (M)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Bae YH, Lee SM, Jo JI. Aerobic training during hemodialysis improves body composition, muscle function, physical performance, and quality of life in chronic kidney disease patients. J Phys Ther Sci . 2015;27(5):1445-1449.  doi:10.1589/jpts.27.1445. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Groussard C, Rouchon-Isnard  M, Coutard C, et al. Beneficial effects of an intradialytic cycling training program in patients with end-stage  kidney disease. Appl Physiol Nutr Metab. 2015;40(6):550-556.  doi:10.1139/apnm-2014-0357.  (RCT)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Bessa B, de Oliveira Leal V, Moraes C, Barboza J, Fouque D, Mafra D. Resistance training in hemodialysis patients: a review. Rehabil Nurs . 2015;40(2):111-126.  doi:10.1002/ rnj.146. (RV)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Jayasurya R, Murugesan N, Kumar R, et al. Spontaneous nontraumatic subarachnoid hemorrhage without cerebrovascular malformations in a maintenance hemodialysis patient. Indian Journal of Nephrology . 2015;25(5):310-314.  doi:10.4103/0971-4065.156909.  (C)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Sheshadri A, Johansen KL. Prehabilitation for the Frail Patient Approaching ESRD. Semin Nephrol . 2017;37(2):159-172.  doi:10.1016/j.semnephrol.2016.12.006. (RV)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Qiu Z, Zheng K, Zhang H, Feng J, Wang L, Zhou H. Physical Exercise and Patients with Chronic Renal Failure: A Meta-Analysis.  Biomed Res Int . 2017;2017:7191826. doi:10.1155/2017/7191826. (M)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Manfredini F, Mallamaci F, D'Arrigo G, et al. Exercise in Patients on Dialysis: A Multicenter, Randomized Clinical Trial. J Am Soc Nephrol . 2017;28(4):1259-1268.  doi:10.1681/ ASN.2016030378. (RCT)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Dziubek W, Buli#ska K, Rogowski #, et al. The Effects of Aquatic Exercises on Physical Fitness and Muscle Function in Dialysis Patients. Biomed Res Int . 2015;2015:912980. doi:10.1155/2015/912980. (R)"
+        }
+    ]
+}

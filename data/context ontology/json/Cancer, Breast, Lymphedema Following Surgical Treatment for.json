@@ -1,0 +1,394 @@
+{
+    "metadata": {
+        "title": "Lymphedema Following Surgical Treatment for Breast Cancer",
+        "synonyms": [
+            "lymphoedema",
+            "lymphatic obstruction",
+            "secondary lymphedema",
+            " breast-cancer-related  lymphedema (bcrl)",
+            "carcinoma of the breast",
+            "ductal carcinoma",
+            " ductal carcinoma in situ",
+            "intraductal carcinoma",
+            "inflammatory ductal carcinoma",
+            " medullary ductal carcinoma with lymphocytic infiltrate",
+            "mucinous (colloid) carcinoma",
+            " papillary ductal carcinoma",
+            "scirrhous ductal carcinoma",
+            "tubular ductal carcinoma",
+            "lobular carcinoma in situ",
+            "invasive lobular carcinoma",
+            "paget disease of the breast"
+        ],
+        "anatomical location body part affected": [
+            "Upper extremities"
+        ],
+        "area of specialty": [
+            "women\u2019s health",
+            "oncology",
+            "acute care",
+            "home health",
+            "wound management",
+            "hand therapy",
+            "orthopedic rehabilitation",
+            "aquatic therapy"
+        ],
+        "description": [
+            "Lymphedema occurs in an extremity when lymph flow is impaired. There is an excessive accumulation of protein-rich  interstitial fluid, usually as a result of an impairment of regional lymphatic drainage. Lymphedema following surgical treatment for breast cancer is considered a secondary form of lymphedema, whereas primary lymphedema involves a congenital malformation that impairs lymph flow.(2) In patients with breast cancer, lymphedema typically develops as a result of surgical treatment, which disrupts lymph channels. Lymphedema can also develop following radiation therapy.(1,2) The reported incidence of breast-cancer-related  lymphedema ranges from 6% to 65% due to lack of standardized diagnostic criteria, variations in assessment tools, and length of follow-up(8)",
+            "Lymphedema following surgical treatment for breast cancer is the most common form of lymphedema in the United States and usually occurs within the first year after surgery(11) \u2013Risk factors for the development of lymphedema after surgical treatment for breast cancer include a high BMI, axillary surgery, radiation to breast and/or axilla, and the presence of positive nodes with diagnosis"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "I97.2": "postmastectomy lymphoedema syndrome (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. The United States Women\u2019s Health and Cancer Rights Act of 1998 requires insurance companies to cover treatment for lymphedema related to surgical treatment for breast cancer(3)"
+        ],
+        "presentation signs and symptoms": [
+            "The edema usually is painless and progressive, beginning with smooth and pitting edema and progressing to non-pitting  edema. The skin is hard, thick, and leathery. Infections such as cellulitis, lymphangitis, or onychomycosis might be present. There can be drainage of the lymph(1) \u2013Edema can be evaluated according to grades:(1,11) -Grade 0 \u2013 latent or no evidence of edema  -Grade 1 \u2013 spontaneously reversible - easily pits with pressure but is relieved with elevation, no evidence of fibrosis -Grade 2 \u2013 pits with pressure, but pitting is not relieved with elevation, some evidence of fibrosis -Grade 3 \u2013 edema is irreversible, with evidence of fibrosis and sclerosis of the skin and subcutaneous tissues, lymphostatic elephantiasis",
+            "Presentation might also include numbness and tingling; a feeling of fatigue, heaviness, pressure, or tightness in the affected area; loss of mobility and ROM; and impaired wound healing(4)",
+            "Aching, cramping, and paresthesia might be present Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "The therapist should closely follow the protocol of the patient\u2019s physician",
+            "The clinician should keep in mind that other causes of edema include congestive heart failure (CHF), nephrosis, myxedema, hypoalbuminemia, deep vein thrombosis (DVT), chronic venous stasis, complex regional pain syndrome, and obstruction from abdominal or pelvic malignancy(1)",
+            "The patient\u2019s pain threshold should be respected throughout the examination",
+            "Tell the physician if the patient has warm, tender, or painless enlarged lymph nodes(6) "
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Disruption of the lymphatic system as a result of surgery for the management of breast cancer\u2013Surgical procedures that can lead to lymphedema include:(1)-axillary lymph node dissection-mastectomy-lumpectomy-lymph node removal followed by radiation therapy"
+        ],
+        "pathogenesis": [
+            "This disorder is distinguished by an accumulation of lymph fluid in the tissues. This is the result of mechanicalinsufficiencies of the lymphatic system; the lymphatic system cannot manage the fluid in the body region affected"
+        ],
+        "risk factors": [
+            "Lymphedema remains a lifetime risk when the lymphatics have been compromised\u2013Risk does not decrease over time",
+            "Risk factors can be divided into three main categories: treatment related, disease related, and patient related\u2013Treatment related-Surgery-More involved surgical procedures/axillary node dissection-Sentinel lymph node biopsy (SNLB) was developed to prevent major complications such as lymphedema associatedwith axillary node dissection, and is associated with fewer complications and no significant differences in regionalrecurrence risk or survival compared with axillary node dissection(15,16)-SNLB has been endorsed as the preferred axillary staging procedure in patients with clinically node-negative  breastcancer-In a study conducted in the United States, disparities were noted in the rates of SNLB use, with Black patients\u2019 ratesbeing 12 percentage points lower than White patients\u2019 rates, which contributed to racial disparity in lymphedemarisk(16)-Radiation therapy-Chemotherapy-Combined treatment options\u2013Disease related-Tumor stage at time of diagnosis-Pathological nodal status-Location of tumor in breast-Early onset of mild lymphedema is associated with significantly higher risk of developing moderate to severelymphedema(15)\u2013Patient related-Age-Older age and premenopausal status-High BMI-Hypertension-History of infection or inflammation-Hand dominance-Occupation-Excessive use of affected limb-Genetics(15)-The reason only some patients develop lymphedema secondary to cancer treatment might be related to geneticcharacteristics-Polymorphisms in multiple candidate genes that appear to be associated with breast-cancer-related lymphedema havebeen identified",
+            "Chinese researchers developed a scoring system to predict the probability of lymphedema after axillary lymph nodedissection (ALND) utilizing 358 breast cancer patients surveyed for 12 months. They found that, with a cutoff value of 3,the sensitivity of the system was 81.2% and the specificity was 80.9%. The scoring was as follows:(21)\u2013Level of ALND \u2013 0 points for level I, 1 point for level II, 2 points for level III\u2013History of hypertension \u2013 0 points for no, 1 point for yes\u2013Surgery on dominant arm \u2013 0 points for no, 1 point for yes\u2013Radiation \u2013 0 points for no, 2 points for yes\u2013Surgical infection/seroma \u2013 0 points for no, 2 points for yes",
+            "Authors of a cohort study of 622 breast cancer patients in Brazil found that axillary dissection and the number of lymphnodes (\u2265 15) were the main factors in the development of lymphedema within 10 years of treatment(22)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "The therapist should closely follow the protocol of the patient\u2019s physician",
+            "The clinician should keep in mind that other causes of edema include congestive heart failure (CHF), nephrosis, myxedema, hypoalbuminemia, deep vein thrombosis (DVT), chronic venous stasis, complex regional pain syndrome, and obstruction from abdominal or pelvic malignancy(1)",
+            "The patient\u2019s pain threshold should be respected throughout the examination",
+            "Tell the physician if the patient has warm, tender, or painless enlarged lymph nodes(6) "
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document type of surgery and any radiation or chemotherapy that the patient has had. Were lymph nodes removed? If so, how many? When did the lymphedema develop? How has it progressed since onset?",
+                "course of treatment": {
+                    "medical management": "Has the patient received medical treatment for lymphedema and any underlying disorders? Does the patient have a selfcare  protocol? Is the patient adherent to the prescribed protocol?",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Laboratory tests that might be performed include blood urea nitrogen (BUN), creatinine (Cr), thyroid function, urinalysis, liver function, and albumin tests",
+                        "Imaging studies that might be performed include lymphoscintigraphy, CT scan, MRI, PET scans, and lymphangiography(1)",
+                        "Dual-energy  X-ray  absorptiometry (DEXA) and bioimpedance spectroscopy are newer techniques developed to improve the clinical assessment of lymphedema(8)",
+                        "In bioimpedance spectroscopy, resistance to low-frequency  electrical current within the extracellular fluid of the limbs is used to determine fluid volumes"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., cold pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Static and dependent positions of the lower extremities, sitting with legs crossed, use of heavy weights, vigorous or repetitive activity with the involved extremity, wearing restrictive clothing or tight jewelry, increased sodium intake, and hot environments might aggravate the condition.(6) Does anything ease the symptoms? (e.g., sleeping, stretching, bandaging)",
+                "body chart": "Use body chart to document location and nature of symptoms. Lymphedema usually involves one extremity but can involve both extremities depending on the etiology",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). The edema is usually painless and progressive, beginning as smooth and pitting and progressing to non-pitting.  Patient might complain of numbness and tingling or a feeling of fatigue, heaviness, pressure, or tightness in the affected area(4)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night -Ask about positioning of affected extremity in bed",
+                "other symptoms": "Document other symptoms patient might be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician. Skin infections might be present. There can be drainage of the lymph.(1) Emotional and psychosocial problems might occur and are reported to be unrelated to the severity of the swelling(9)",
+                "respiratory status": "Does the patient require supplemental oxygen? Any history of respiratory compromise? Smoking history? Shortness of breath? Barriers to learning -Are there any barriers to learning Yes__ No__ -If Yes, describe __________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, other cancers, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she is be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Are long periods of standing or sitting required in the patient\u2019s occupation? Does patient use heavy weights, perform vigorous or repetitive activity with the involved extremity, and/or wear restrictive clothing or tight jewelry? Is patient exposed to hot environments?(6) -Researchers in Canada interviewed 40 women with \u201carm morbidity\u201d (i.e., pain, ROM restrictions, and lymphedema) 612  months post breast cancer surgery and found that women may experience an abrupt loss of previously enjoyed leisure activities with arm morbidity(23)",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient use any assistive devices? Has the patient required assistance at home with functional mobility or ADLs? How much does the patient use the affected upper extremity during work and home activities? Is the affected extremity the dominant or nondominant side?",
+                "living environment": "Document information about the living situation, including number of stairs in the home, number of floors in home, and with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013BMI and girth measurements of the involved extremity -There is an association between increased body mass and lymphedema, so comprehensive treatment of lymphedema should include weight control(5) \u2013Circumferential measurements should be compared with the uninvolved extremity -Generally, a 2cm difference in circumference between the two arms is considered indicative of edema -Factors that can bias circumferential measurements include weight gain or loss and arm dominance -Variables to consider include patient position; location and distance of measurement points along arm, hand, and fingers; type of tape measure used; and mathematical formula for calculating volume from girth(8) -Landmarks -Should be identified for girth measurement so they can be used throughout treatment -Anatomical landmarks might also increase reliability(6) -Use landmarks consistent with facility\u2019s protocol(7) \u2013Water displacement can also be used to measure volume -Psychometric properties of the water displacement method are excellent (excellent inter/intrarater reliability; good construct, criterion, and concurrent validity; and high sensitivity to detect small changes)(8) -Limitations include a tendency to overestimate in women with high BMIs, time requirements for setup and cleanup, and contraindications for its use in patients with skin breakdown and open wounds due to concern for cross-contamination  of infections(8) \u2013Perometry is use of a noninvasive optoelectronic device that uses infrared light to quantify the volume of the limb(15) -Does not require direct contact with the limb, so is hygienic to use \u2013Bioelectric impedance measures opposition to the flow of an electric current through the body. Impedance is inversely related to volume of the conductive material in the region(15) -Recording electrodes are placed on the skin at two points and bioimpedance spectroscopy is used to measure impedance over a variety of frequencies",
+            "assistive and adaptive devices": "Does the patient require an assistive device and is it used correctly?",
+            "balance": "Assess throughout functional mobility",
+            "cardiorespiratory function and endurance": [
+                "Assess endurance using 6-minute  walk for distance test (6MWT) as indicated. Fitness level is often reduced due to decreased physical activity and participation in leisure sports"
+            ],
+            "circulation": "Assess pulse in both upper extremities and compareAssess with functional mobilityIs the patient able to perform functional mobility tasks independently? If not, might utilize the FIM",
+            "functional mobility": "",
+            "gait locomotion": "Note gait deviations, need for assistance, and need for assistive deviceAssess mobility of joints of affected extremity and compare to other sideAssess upper extremity coordination as appropriate. Tests include finger to nose and rapid alternating movements(7) \u2013Fine motor function might be diminished. Appropriate tests might include the Jebsen-Taylor  Hand Function Test, the 9-Hole  Peg Test, and the Boxes and Blocks test",
+            "muscle strength": "Assess upper extremities and trunk with manual muscle testing (MMT) and use of dynamometer(7)",
+            "observation inspection palpation including skin assessment": [
+                "Assess the skin with the extremity in a dependent position and note the type, location, and severity of edema",
+                "Use grading system to grade edema(1,11)",
+                "Note changes in the skin (dryness is common), wounds, scars, and color. Document size, location, and mobility of scars. A photograph might be beneficial(6)"
+            ],
+            "posture": "Assess in standing, sitting, and with functional mobility and note asymmetry \u2013A comparative study of 20 women with moderate-severity lymphedema and 18 controls conducted in Turkey indicated that thesagittal thoracic curvature (P = 0.017) and the frontal inclination angle (P = 0.048) were higher in the lymphedema group in comparison with the control group(25)",
+            "range of motion": "Assess upper extremities and trunk. Has the edema limited the mobility of the joints of the involved extremity?Note ability to perform independently. Objective measures that might be used include the Shoulder Pain and Disability Index (SPADI)(7)",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Assess light touch, pain, and proprioception of involved extremity. Compare to uninvolved extremity. Sensation might be impaired by the edema itself",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Bioelectric impedance spectroscopy (BIS) \u2013 a device to measure resistance to low-frequency  electrical current via skin electrodes has been developed for clinical use and has received approval from the U.S. FDA for use in the breast-cancer-related  lymphedema population(8) \u2013Lymphedema Breast Cancer Questionnaire (LBCQ) \u2013 a self-report tool consisting of 19 yes/no questions on symptoms including heaviness, numbness, and swelling(8) -Has high test-retest  reliability and internal consistency is good, but responsiveness to change has not been demonstrated(8) \u2013Morbidity Screening Tool (MST)\u2013  a self-report  tool developed by a multidisciplinary team to identify fatigue, pain, upper limb dysfunction, and lymphedema after breast cancer treatment(9) -In a study conducted in the United Kingdom involving 613 participants who had completed treatment for breast cancer, the MST was found to have good construct validity when compared to the Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure, the Chronic Pain Grade Questionnaire (CPGQ), the LBCQ, and the Functional Assessment of Cancer Therapy questionnaire -MST was shown to be able to identify both early and late treatment-related  morbidity, thought to be important in this population because morbidity continues to impact patients\u2019 lives \u2013The Breast Cancer EDGE Task Force recommends the Functional Assessment of Cancer Therapy \u2013 Breast (FACT-B+4) and the DASH questionnaires to assess QOL and function in patients with breast-cancer-related  lymphedema(10)physical well-being,  emotional well-being, functional well-being,  social/family well-being,  and arm morbidity. The arm morbidity domain includes an arm subscale with questions on swelling and tenderness -Excellent reliability, internal consistency, and sensitivity to change have been reported(10) ",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "In the United States, therapists can be certified by the Lymphology Association of North America (LANA) after completing an approved certification course(5)",
+                "Pregnancy (laser over the uterus area)",
+                "Over cancerous lesions",
+                "Hemorrhage",
+                "Laser to the cardiac region of patients with heart disease",
+                "Infections, history of epilepsy, altered or impaired sensation",
+                "Eyes (eye protection is required)",
+                "Fear of water",
+                "Avoid warm/hot water if patient is pregnant, or has multiple sclerosis, increased risk of hemorrhage (e.g., on anticoagulant medications), impaired thermal regulation, acute inflammation, fever, edema, thrombophlebitis, or acute rheumatoid arthritis",
+                "Epilepsy",
+                "Cardiovascular or pulmonary disease",
+                "Open wounds, catheters, colostomies, IVs, G-tubes",
+                "Urinary or fecal incontinence",
+                "Certain dermatologic conditions (e.g., ichthyosis, infection)",
+                "Venous ulcers",
+                "Tissues damaged by radiation therapy",
+                "Peripheral vascular disease",
+                "Respiratory impairment",
+                "More than half-body  immersion during pregnancy"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Maintain elevation of the involved extremity while sleeping, resting, during use of compression pump, and during sedentary activities",
+                "Extremely close attention should be paid to skin care because of the increased risk of skin breakdown, infection, and decreased wound healing",
+                "Avoid raising the body\u2019s core temperature (in whirlpools, saunas, or hot baths)(6)",
+                "Therapists performing manual lymphatic drainage (MLD) should be specifically trained for this treatment method",
+                "Consult with physician prior to treatment if patient has CHF",
+                "There is some risk of infection with lymphedematous tissue",
+                "Low-level  laser therapy (LLLT) contraindications(17)",
+                "LLLT precautions(17)",
+                "Aquatic therapy contraindications/precautions(17)",
+                "See  Overall Contraindications/Precautions  , above"
+            ]
+        },
+        "diagnosis need for treatment": "Patients with lymphedema commonly present with increased girth of the affected extremity, decreased strength and ROM, and impaired sensation, balance, and function. Physical therapy might be beneficial to improve these deficits",
+        "rule out": "",
+        "prognosis": [
+            "Authors of a study of 212 breast cancer survivors in India found that 49% had arm/shoulder problems as evaluated by the Kwan\u2019s arm problem scale. The prevalence of arm/shoulder pain, lymphedema, and ROM deficits was found to be 12%, 27%, and 51%, respectively(26)",
+            "In a German study of 385 patients who underwent multimodal therapy for nodal positive breast cancer,23.5% experienced permanent lymphedema (stage II\u2013III)  after a median follow-up  time of 10.1\u2009years (range: 4.9\u201315.9\u2009years).  Results also supported that axillary dissection and adjuvant chemotherapy put patients at more risk for lymphedema(27) ",
+            "Lymphedema is a chronic, generally incurable condition that is manageable but is likely to require lifelong care.(1) Early intervention at stage 0 is thought to be key to better outcomes",
+            "Axillary dissection and the number of lymph nodes (\u2265 15) were found to be the main factors in the development of lymphedema within 10 years of treatment(22)"
+        ],
+        "referral to other disciplines": "Back to the physician for concerns or new issues. Occupational therapy for further assistance with ADLs and upper extremity dysfunction",
+        "other considerations": [
+            "A higher stage of lymphedema correlates with a greater degree of limb volume difference, less balance, more kinesiophobia, and a greaterfear of falling(28) \u2013Based on a Turkish study of 132 patients",
+            "Microsurgical reconstruction of the lymphatics performed by a plastic surgeon is a procedure that shows promise as a low-risk  surgical option for treatment of lymphedema(15) \u2013The procedure involves creation of anastomoses, typically between lymph vessels and veins"
+        ],
+        "treatment summary": [
+            "Optimal treatment remains controversial.(15) Authors of a 2021 meta-analysis point out that there is no gold standard or consensus on treatment(29)",
+            "Authors of a 2020 systematic review and meta-analysis  concluded that MLD cannot significantly reduce or prevent lymphedema in patients after breast cancer surgery. The results did suggest that treatment with MLD of women < 60 years old within the first month of surgery may be effective(30) \u2013Based on 17 RCTs involving 1911 patients",
+            "Comprehensive treatment regimens for lymphedema (complex decongestive therapy) have become the standard of care, including the following:(1,11) \u2013Skin care management and treatment of infection \u2013Specialized massage techniques to promote movement of lymph \u2013Compression of the lymphedematous regions \u2013Elevation and exercise to reduce swelling and supplement the massage",
+            "Complete decongestive therapy(1) \u2013Some literature suggests that complete decongestive therapy (also known as complex therapy) is an effective treatment for lymphedema related to surgical treatment of breast cancer(4) -Complete decongestive therapy can be performed by trained healthcare professionals other than physical therapists (e.g., occupational therapists, nurses, physicians) -The overall goal is to improve drainage of the obstructed areas and to push the fluids to unobstructed areas(6) -Complete decongestive therapy has two phases(1) -The first phase involves MLD techniques that are performed by therapists with the goal of reducing the size of the extremity -The second phase involves maintenance of the limb size by the patient by performing self-care activities, including self-massage,  appropriate skin care, exercise, and the use of compression garments -Early complete decongestive therapy is more effective than education alone in preventing lymphedema related to surgical treatment for breast cancer(4) -Based on an RCT conducted in Spain of 120 women who had breast cancer surgery involving lymph node dissection -The women in the physical therapy group received complete decongestive physical therapy initiated 5 days after surgery and continued 3 days a week for 3 weeks -The women in the education group received lymphedema education only during the same time frame as the women in the physical therapy group",
+            "Therapeutic exercise \u2013Authors of a systematic review found that that exercise can improve subjective and objective parameters in patients with lymphedema following surgical treatment for breast cancer, with the most positive effects provided by dynamic, moderate, high-frequency  exercise(31) -Based on 11 RCTS involving 458 women  \u2013Therapeutic exercise and general physical activity neither worsen lymphedema nor increase the risk of the development of lymphedema related to surgical treatment for breast cancer -Contrary to earlier concerns, heavy load resistance does not cause or exacerbate breast-cancer-related lymphedema(12) -In a study conducted in Denmark involving 149 women who participated in progressive resistance training, there was no association between performing heavy resistance during adjuvant treatment and the development of lymphedema(12) -Although progressive resistive exercise was found to be safe for women in the first year after surgical treatment for breast cancer, results from an RCT indicated that it had no significant effect on lymphedema(32) -Based on a Danish study involving 158 women \u2013Although therapeutic exercise on its own does not improve lymphedema in patients with postmastectomy lymphedema, it can improve shoulder ROM",
+            "Aquatic therapy \u2013Authors of a 2018 systematic review determined that aquatic therapy had no significant benefit over traditional land-based exercise for improving lymphedema status or physical function in patients with upper extremity lymphedema after breast cancer. The authors suggested that patient preference should guide treatment choices(33)",
+            "LLLT \u2013LLLT has been suggested as a complement to lymphedema treatment.(18) Its mechanism of action is poorly understood,but has been postulated to be related to stimulation of lymphangiogenesis, increased motility of the lymphatic system, and/or reduced lymphostatic fibrosis(18) -Authors of a systematic review of literature analyzing the effects of LLLT on upper limb lymphedema in women who have had surgical treatment of breast cancer concluded that LLLT had positive results with respect to reduction in circumference or volume of the affected limb(18) -Five RCTs with small samples ranging from 11 to 61 participants were included -Circumference was the main outcome in two of the studies and volume was the main outcome in three studies -Number of LLLT sessions ranged from 9 to 36 over periods ranging from 3 to 12 weeks. Duration of LLLT application was 17\u201320  minutes -Reductions in circumference and volume were reported in all five studies -The authors identified a need for more studies of high methodological quality . Problem Goal Intervention Expected Progression Home Program  Decreased patient knowledge regarding lymphedema and lymphedema managementPatient independent with self-management of lymphedemaPatient education _ Educate patient regarding"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "edema reduction": [
+            "Girth measurements of the involved extremity",
+            "V olumetric measurements"
+        ],
+        "independent with self-management": [],
+        "improved scar mobility ": [],
+        "improved balance, functional mobility, and adls": [
+            "FIM",
+            "SPADI"
+        ],
+        "improved rom, coordination, and strength": [
+            "Goniometric measurements",
+            "MMT"
+        ],
+        "improved cardiovascular fitness": [
+            "6MWT"
+        ]
+    },
+    "maintenance or prevention": [
+        "Prevention Authors of a 2015 Cochrane systematic review of conservative interventions for preventing upper limb lymphedema analyzed 10 trials that involved 1,205 participants and concluded that(19) \u2013current evidence does not allow firm conclusions about the effectiveness of MLD \u2013the evidence does not indicate that there is a higher risk of lymphedema when shoulder mobilizing exercises are started early after surgery compared with delayed start (7 days after surgery) -Early start results in better shoulder mobility \u2013the evidence suggests that progressive resistance exercise therapy does not increase the risk of developing lymphedema provided that symptoms are closely monitored and adequately treated if they occur Prevention recommendations include:(6) \u2013keep limb moving. Avoid prolonged standing or sitting. Have feet flat on floor (no crossing legs) when sitting \u2013avoid needle sticks (e.g., blood draws) and blood pressure measurements on the affected side \u2013avoid limb constriction \u2013elevate the limb \u2013avoid air travel as much as possible and wear compression garments on flights \u2013maintain normal body weight \u2013avoid extremes of temperature and sunburns \u2013exercise \u2013 previous recommendations against exercise have been disproved",
+        "Maintenance Patient to continue with self-management  of lymphedema to maintain edema-free  state, functional independence, and satisfactory QOL Many women find compliance with self-management  protocols to be problematic(13) Breast-cancer-related  self-care  guidelines are multifactorial and include a variety of modalities, including the following:(13) \u2013Self-administered  lymphatic massage 4 times per week \u2013Compression garments during all waking hours \u2013Meticulous skin care daily \u2013Pneumatic compression therapy 30 minutes daily In a study conducted in the United States, researchers found that breast-cancer-related  self-care  prescription varies from current clinical recommendations and that adherence to self-care  modalities is consistently low(13) Adherence to risk-management  behaviors in women at increased risk for developing lymphedema increased with increased knowledge about lymphedema risk management and greater confidence in their ability to manage lymphedema(20) \u2013Based on a study conducted in the United States that involved 103 participants who had undergone breast and lymph node surgery \u2013The findings indicated that information alone is not sufficient to motivate protective behaviors. The well-informed  woman also needed to hold positive views about her own ability to undertake the recommended strategies Researchers of a qualitative study conducted in the United Kingdom of 21 women in the breast-cancer-related  lymphedema self-management phase identified the following enablers and barriers to self-management:(24) \u2013Being able to incorporate self-management  into daily routine \u2013Recognizing the benefits of treatment and the consequences of non-treatment \u2013Choosing to undertake self-management  \u2013 ownership  \u2013Knowledge and understanding \u2013 knowing value of treatment, \u201clistening to your body,\u201d adjusting self-management activities to control symptoms \u2013Problem-solving  \u2013 finding practical solutions, with hosiery creating the most challenges \u2013Block \u2013 time required for treatment, especially for women with children and those who were employed full-time \u2013Block \u2013 aesthetics of hosiery, both because it required them to explain why they are wearing and also reminded them of cancer Use of telerehabilitation to followup breast cancer survivors with lymphedema might improve self-care  adherence(14) \u2013Authors of a study conducted in Spain found a high level of agreement between lymphedema assessment by telerehabilitation internet application and face-to-face assessment Skin care to control skin colonization with bacteria and fungi, eliminate overgrowth in crevices, and hydrate the skin to eliminate microfissuring should be emphasized(11) \u2013Daily cleansing with mineral-oil-based  soap to remove debris and bacteria and to moisturize the skin is recommended Weight control(5)"
+    ],
+    "patient education": [
+        "National Lymphedema Network for help finding treatment and support groups, https://lymphnet.org/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Fort FG, Anilowski KT. Lymphedema. In: Ferri FF, ed. Ferri's Clinical Advisor2022 . Philadelphia, PA: Elsevier; 2022:777-778.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Rapp JH, Gasper WJ, Johnson MD. Blood Vessel & Lymphatic Disorders. Papadakis MA, McPhee SJ, Rabow MW, eds. 2022 Current Medical Diagnosis & Treatment . 61st ed. New York, NY: McGraw-Hill  Education; 2022. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "United States Department of Labor. Your Rights After A Mastectomy. Women's Health and Cancer Rights Act of 1998. https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/your-rights-after-a-mastectomy.pdf . Published September 2018. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Kelly DG. Vascular, lymphatic, and integumentary disorders. In: O'Sullivan SB, Schmitz TJ, eds. Physical Rehabilitation . 7th ed. Philadelphia, PA: FA Davis Company; 2019:524-576.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Stubblefield MD. Rehabilitation of the cancer patient. In: DeVita VT Jr, Rosenberg SA, eds. DeVita, Hellman, and Rosenberg's Cancer: Principles & Practice of Oncology . 11th ed. Philadelphia, PA: Wolters Kluwer Health; 2019:2158-2159.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Hock KL, Colby LA. Management of lymphatic disorders. In: Kisner C, Colby LA, eds. Therapeutic Exercise: Foundations and Techniques . 7th ed. Philadelphia: FA Davis Company; 2018:1019-1040.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Coneely S, Weber K. Standard of care: lymphedema. Brigham and Women's Hospital Web site. https://www.brighamandwomens.org/assets/BWH/patients-and-families/rehabilitation-services/pdfs/general-lymphedema-bwh.pdf . Published 2007. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Perdomo M, Davies C, Levenhagen K, Ryans K. Assessment measures of secondary lymphedema in breast cancer survivors. Rehabil Oncol . 2014;32(1):22-35.  (SR)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Bulley C, Coutts F, Blyth C, et al. A morbidity screening tool for identifying fatigue, pain, upper limb dysfunction and lymphedema after breast cancer treatment. A validity study. Eur J Oncology Nurs . 2014;18(2):218-227.  doi:10.1016/j.ejon.2013.10.006. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Davies C, Ryans K, Levenhagen K, Perdomo M. Quality of life and functional outcome measures for secondary lymphedema in breast cancer survivors. Rehabil Oncol . 2014;32(1):7-12.  (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Smither FC, Wolf LL, Andrews KL. Vascular Diseases. Cifu DX, ed. Braddom\u2019s Physical Medicine & Rehabilitation . 6th ed. Philadelphia, PA: Elsevier; 2021. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Bloomquist K, Karlsmark T, Chirstensen KB, Adamsen L. Heavy resistance training and lymphedema: prevalence of breast cancer-related  lymphedema in participants of an exercise intervention utilizing heavy load resistance training. Acta Oncol . 2014;53(2):216-225.  doi:10.3109/0284186X.2013.844356. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Brown JC, Cheville AL, Tchou JC, Harris SR, Schmitz KH. Prescription and adherence to lymphedema self-care modalities among women with breast cancer-related lymphedema. Support Care Cancer . 2014;22(1):135-143.  doi:10.1007/s00520-013-1962-9.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Galiano-Castillo  N, Ariza-Garcia  A, Cantarero-Villanueva  I, Lao CF, Sanchez-Salado  C, Arroyo-Morales  M. Agreement between telerehabilitation involving caregivers and face-to-face  clinical assessment of lymphedema in breast cancer survivors. Support Care Cancer . 2014;22(1):253-258.  doi:10.1007/s00520-013-1971-8.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Shaitelman SF, Cromwell KD, Rasmussen JC, et al. Recent progress in the treatment and prevention of cancer-related  lymphedema. CA Cancer J Clin . 2015;65(1):55-81. doi:10.3322/caac.21253. (RCT)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Black DM, Jiang J, Kuerer HM, Buchholz TA, Smith BD. Racial disparities in adoption of axillary sentinel lymph node biopsy and lymphedema risk in women with breast cancer. JAMA Surg . 2014;149(8):788-796.  doi:10.1001/jamasurg.2014.23. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Monteiro SE, Resende LV, Felicissimo MF, Rodrigues de Araujo A, Teixeira Vaz C. Treatment of upper limb lymphedema with low-level laser: a systematic review. Fisioter Movimento . 2014;27(4):663-674.  doi:10.1590/0103-5150.027.004.AR01.  (SR)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Stuiver MM, ten Tusscher MR, Agasi-Idenburg  CS, Lucas C, Aaronson NK, Bossuyt PM. Conservative interventions for preventing clinically detectable upper-limb  lymphoedema in patients who are at risk of developing lymphoedema after breast cancer therapy. Cochrane Database Syst Rev . 2015;(2):CD009765. doi:10.1002/14651858.CD009765.pub2.  (SR)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Sherman KA, Miller SM, Roussi P, Taylor A. Factors predicting adherence to risk management behaviors of women at increased risk for developing lymphedema. Support Care Cancer. 2015;23(1):61-69.  doi:10.1007/s00520-014-2321-1.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Wang L, Li HP, Liu AN, et al. A scoring system to predict arm lymphedema risk for individual Chinese breast cancer patients. Breast Care (Basel) . 2016;11(1):52-56. doi:10.1159/000443491. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Viera RA, da Costa AM, de Souza JL, et al. Risk factors for arm lymphedema in a cohort of breast cancer patients followed up for 10 years. Breast Care (Basel) . 2016;11(1):45-50.  doi:10.1159/000442489. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Thomas R, Hack TF, Quinlan E, et al. Loss, adaptation and new directions: the impact of arm morbidity on leisure activities following breast cancer. Can Oncol Nurs J . 2015;25(1):49-59.  doi:10.5737/236880762514953. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Jeffs E, Ream E, Shewbridge A, et al. Exploring patient perception of success and benefit in self-management  of breast cancer-related  arm lymphedema. Eur J Oncol Nurs . 2016;20:173-183.  doi:10.1016.j.ejon.2015.08.001. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Celenay ST, Ucurum SG, Kay DO. Comparison of spinal alignment and mobility in women with and without post modified radical mastectomy unilateral lymphoedema. Clin Breast Cancer . 2020;20(3):e295-e300.  doi:https://doi.org/10.1016/j.clbc.2019.10.003. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Jariwala P, Kaur N. A descriptive study on prevalence of arm/shoulder problems and its impact on quality of life in breast cancer survivors. Indian J Cancer . 2021;58(2):201-209.  doi:https://doi.org/10.4103/ijc.IJC_22_19. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Rupp J, Hadamitzky C, Henkenberens C, Chistiansen H, Steinmann D, Bruns F. Frequency and risk factors for arm lymphedema after multimodal breast-conserving  treatment of nodal positive breast cancer\u2014a long-term  observation. Radiat Oncol . 2019;14(1). doi:https://doi.org/10.1186/s13014-019-1243-y.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Altas EU, Demirdal \u00dcS. The effects of post-mastectomy  lymphedema on balance, kinesiophobia and fear of falling. J Community Health Nurs . April 2021;38(2):130-138. doi:https://doi.org/ 10.1080/07370016.2021.1887564. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Marchica P, D'Arpa S, Magno S, et al. Integrated treatment of breast cancer-related  lymphedema: A descriptive review of the state of the art. Anticancer Res . 2021;41(7):3233-3246.  doi:https://doi.org/10.21873/anticanres.15109. (M)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Liang M, Chen Q, Peng K, et al. Manual lymphatic drainage for lymphedema in patients after breast cancer surgery: A systematic review and meta-analysis  of randomized controlled trials. Medicine (Baltimore) . 2020;99(49):e23192. doi:https://doi.org/10.1097/MD.0000000000023192. (M)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Baumann FT, Reike A, Reimer V, et al. Effects of physical exercise on breast cancer-related  secondary lymphedema: a systematic review. Breast Cancer Res Treat . 2018;170(1):1-13.  doi:https://doi.org/10.1007/s10549-018-4725-y.  (SR)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Ammitzb\u00f8ll G, Johansen C, Lanng C. Progressive resistance training to prevent arm lymphedema in the first year after breast cancer surgery: results of a randomized controlled trial. Cancer. May 2019;125:1683-1692.  doi:10.1002/cncr.31962. (RCT)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Yeung W, Semicw AI. Aquatic therapy for people with lymphedema: A systematic review and meta-analysis.  Lymphat Res Biol . 2018;16(1):9-19.  doi:https://doi.org/10.1089/ lrb.2016.0056. (M)"
+        }
+    ]
+}

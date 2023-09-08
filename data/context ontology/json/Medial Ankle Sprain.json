@@ -1,0 +1,626 @@
+{
+    "metadata": {
+        "title": "Ankle Sprain",
+        "synonyms": [
+            "inversion sprain",
+            "lateral ankle sprain",
+            "turned/rolled ankle",
+            "sprain, ankle",
+            " fibular malleolar sprain",
+            "lateral ankle sprain",
+            "medial ankle sprain",
+            "tibial malleolar sprain",
+            " syndesmotic ankle sprain",
+            "high ankle sprain"
+        ],
+        "anatomical location body part affected": [
+            "During an ankle sprain, the medial or lateral ligaments around the ankle are injured. With a syndesmotic ankle sprain, injury is to the interosseous ligament between the distal tibia and fibula.(1) Concomitant avulsion fractures may also occur at the medial or lateral malleolus"
+        ],
+        "area of specialty": [
+            "acute care",
+            "aquatic therapy",
+            "federal rehabilitation services",
+            " orthopedic rehabilitation",
+            "pediatric rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Ankle sprains are one of the most common sports-related  musculoskeletal injuries,(18) with approximately 600,000 persons sustaining an ankle sprain annually in the Netherlands and 23,000 and 5,000 occurring daily in the United States and United Kingdom, respectively(17)",
+            "Most ankle sprains (85%) involve the lateral ligaments.(3) The anterior talofibular ligament (ATFL) is the most commonly sprained lateral ankle ligament, followed by the calcaneofibular ligament (CFL). Infrequently, the posterior talofibular ligament (PTFL) is affected(4,19)",
+            "A medial ankle sprain will involve the deltoid ligament on the medial aspect of the ankle. Medial (eversion) ankle sprains make up only 5% of all ankle sprains due to the strength of the deltoid ligament, which resists tears(3)",
+            "A syndesmotic ankle sprain, or high ankle sprain, is an injury that involves the interosseous ligament between the distal tibia and fibula",
+            "Ankle sprains do not only damage the ligaments, but also the mechanoreceptors within the ligaments, the joint capsule, and the retinacula around the joint, which provides information about joint movement and position(30)",
+            "It has been reported that 3% to 34% of patients complain of persistent pain, swelling, a giving-way  sensation, re-sprain,  and/or limitations in activities and sports participation, and 10% to 20% complain of persistent instability.(17) When complaints persist for greater than 6 months, the term chronic ankle instability (CAI) is used(29,30) \u2013There are two primary components of CAI(30,31) -Mechanical instability: the result of pathological laxity, impaired arthrokinematics, and joint degeneration -Functional instability: the subjective perception of instability, the result of altered neuromuscular control, strength deficits, and impaired postural control \u2013There is no gold standard for diagnosing CAI; manual laxity testing may only be useful for ruling in the condition(49) \u2013Those with CAI are at increased risk for developing osteoarthritis and often are unable to return to prior level of function(49) ",
+            "A major issue for medical professionals is determining when an athlete is ready for return-to-play  (RTP)(30) \u2013One reason many athletes end up with CAI is that they return to play before they are sufficiently healed \u2013Mechanical laxity can be present up to 1 year after an ankle sprain"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S93.4": "Sprain of unspecified ligament of ankle",
+            "S93.41": "Sprain of calcaneofibular ligament of ankle",
+            "S93.42": "Sprain of deltoid ligament of ankle",
+            "S93.43": "Sprain of tibiofibular ligament of ankle (ICD codes are provided for the reader\u2019s reference only, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this injury; no specific issues or information regarding reimbursement has been identified. Inquire about any ongoing legal or workers\u2019 compensation claims"
+        ],
+        "presentation signs and symptoms": [
+            "Severity of an ankle sprain is graded on physical examination as(19,25) \u2013Grade 1: Mild ligamentous stretching without laxity -Ligament returns to resting length but there is micro-failure  in some fibers -71.3% of all injuries \u2013Grade 2: Partial ligamentous rupture resulting in mild instability -Ligament does not return to resting length -9.5% of all injuries \u2013Grade 3: Complete tear with accompanying joint instability -Gross failure of fibers -2.9% of all injuries",
+            "Patients with grade 2 or 3 sprains present in the acute and subacute stages with impaired weight-bearing  and mobility secondary to pain and a feeling that the ankle is unstable. An assistive device and/or bracing may be needed when ambulating",
+            "Other prominent signs include point tenderness, swelling (grade 1 = minimal, grade 2 = localized, grade 3 = diffuse), and hemorrhage/ecchymosis (grades 2 and 3). In the chronic stage, patients usually report weakness and stiffness(3,4) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "After a foot or ankle injury, a fracture must be ruled out",
+            "If DVT is suspected, stop examination and contact physician (For detailed information, see Clinical Review\u2026Deep Vein Thrombosis: Exercise ; Topic ID Number: T708457)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Lateral sprains result from uncontrolled, forced, and/or excessive supination and adduction of the foot when in ankleplantarflexion.(19) The mechanism by which this occurs may be direct trauma (collision) or indirect trauma (e.g., steppingoff curb or jump landings)",
+            "Although deltoid ligament sprains can occur during an eversion event, it is rarely stressed because of its high tensilestrength. What is more likely to occur during an eversion injury is the avulsion of the deltoid ligament or fracture of themedial malleolus(6)",
+            "Syndesmotic sprains occur with forced dorsiflexion of the ankle, external rotation of the lower extremity, or a combinationof both movements",
+            "Syndesmotic sprains are more likely to occur during collision sports such as American football and sports that involvehigh-energy  maneuvers(61)"
+        ],
+        "pathogenesis": [
+            "Ligaments are made up of elastin and collagen. Tension that occurs suddenly and stretches a ligament beyond its capacityresults in a sprain(25)",
+            "There are three phases of inflammation(25)\u2013Inflammatory phase: patients experience swelling, erythema, and pain; typically lasts 2 to 7 days with ankle sprains\u2013Proliferative phase: macrophages remove hematomas, fibroblasts produce collagen, and the capillary networks begin tobuild; typically lasts days to weeks\u2013Maturation phase: collagen organization improves and capillary networks return to normal levels; typically lasts severalweeks to a year after injury",
+            "Healed ligaments often have reduced tensile strength after injury; usually 50% to 70% of uninjured tissue(25)",
+            "Ligaments have poor blood supply, so appropriate, prompt treatment is important to avoid chronic symptoms(28)"
+        ],
+        "risk factors": [
+            "Individuals who have already experienced an ankle sprain are twice as likely to sprain their ankle as individuals who havenever experienced a sprain(29)",
+            "Researchers who conducted a systematic review with meta-analysis  found a moderate to strong delay in peroneal reactiontime (PRT) in individuals with previous ankle sprains. The PRT deficits are more evident in patients with CAI(14)",
+            "Researchers in Israel who conducted a large cohort study (N = 829,791) investigating whether height and BMI are riskfactors for CAI in the general young adult population found greater prevalence in males, those with increased BMI, andtaller persons(43)",
+            "Other probable risk factors include\u2013slow eccentric inversion strength(5)\u2013fast concentric plantar flexion strength(5)\u2013passive inversion joint position sense(5)\u2013reaction time of the peroneus brevis(5)\u2013obesity/increased BMI(8,43,44)\u2013genetics(44)-Researchers in China found that polymorphism of the ACTN3 gene is associated with ankle sprains in Chinese soldiersand advise that more studies are needed to investigate if these findings hold true for other populations",
+            "Specific populations\u2013Ankle sprains are most likely to occur in those between the ages of 18 and 25(2)",
+            "Faulty ankle and foot characteristics",
+            "Sports\u2013Ankle sprains occur in many types of sports\u2013Soccer-specific  fatigue-Researchers in the United Kingdom studied reactive postural control in 10 male professional soccer players during thereplication of a game and found that dynamic balance performance declined with each 15-minute  exercise interval;and that as they fatigued, players tended to use a balance strategy that included a more plantar flexed and inverted foot,which is the typical lateral ankle sprain mechanism(36)",
+            "Shoe wear: wearing high-heeled  shoes increases risk for ankle sprains(42)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "After a foot or ankle injury, a fracture must be ruled out",
+            "If DVT is suspected, stop examination and contact physician (For detailed information, see Clinical Review\u2026Deep Vein Thrombosis: Exercise ; Topic ID Number: T708457)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -How and when did the injury occur? Obtaining the mechanism of injury can help in determining what type of ankle sprain was sustained and which anatomical structures are involved. How have the symptoms progressed since onset? How quickly did the patient receive medical care? -Did the patient hear or feel a \u201cpopping\u201d sound or sensation at the time of injury? This may help in determining the severity of the injury, as a more significant tear may be involved  -Was the patient able to walk immediately after the injury? Being unable to bear weight immediately afterward can be an indication of a fracture(9)",
+                "course of treatment": {
+                    "medical management": "Ask about patient\u2019s past and current medical management including bracing, weight-bearing restrictions, and injections. How has the ankle responded to treatments?",
+                    "surgical management": [],
+                    "medications": "Take note of medications patient is taking currently Are the medications effectively controlling symptoms? Researchers who conducted a literature review found there is little difference in the pain levels of patients taking NSAIDs and those taking paracetamol (acetaminophen). Because of the complications associated with oral NSAIDs, hospital admissions and other adverse events (e.g., gastric bleeding) may be reduced if physicians instead utilize PRICE (protection, rest, ice, compression, and elevation) and prescribe paracetamol or topical NSAIDs for acute ankle sprain and use oral NSAIDs only with individuals at low risk for side effects(25)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Plain radiographs if fracture is suspected",
+                        "Although rarely necessary, ultrasound sonograms can help to identify torn ligaments/tendons and the degree of sprain",
+                        "Bone scan may be implemented to assess for syndesmotic injury or stress fracture",
+                        "MRI(20,54)"
+                    ],
+                    "alternative therapies": "Document any home remedies (including ice pack) or alternative therapies (e.g., acupuncture) that the patient has been using and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Document any noted aggravating or easing activities and/or positions",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs intermittent, sharp, dull, aching, burning, numbness, tingling), including subjective instability of affected ankle",
+                "rating of symptoms": "Use the visual analog scale (V AS) or 010  scale to assess pain at its best, at its worst, and at the moment (specifically address if pain is present now and, if so, how much pain)",
+                "pattern of symptoms": "Document changes in pain throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night. In what position does the patient sleep? Is ankle elevated?",
+                "other symptoms": "Document other symptoms patient may be experiencing that could complicate the condition (e.g., low back pain, dizziness)",
+                "respiratory status": "Are there any respiratory compromises or concerns? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "A patient with a previous sprain of the involved ankle may report episodes of twisting his or her ankle, suggestive of underlying functional instability Does the patient report a history of any other lower-extremity dysfunction, injury, or surgery?",
+                    "comorbid diagnoses": "Document other conditions patient has, including diabetes, cancer, cardiovascular disease, complications of pregnancy, psychiatric disorders, osteoporosis, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken, including OTC medications",
+                    "other symptoms": "Document other symptoms the patient is experiencing that do not seem to be related to the ankle sprain"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Is the patient employed? If so, what does his or her job require?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment  -Document any preexisting functional limitations or adaptive equipment already in place",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers; identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " \u2013Measurements for edema -Circumferential/perimetry(18,28,34) -Figure of 8 method -V olumetry(18) \u2013Measure height and weight and compute BMI(43)",
+            "assistive and adaptive devices": "If patient is using any assistive equipment or adaptive devices, assess for proper fit and use, if indicated. Assess for appropriateness of footwear",
+            "balance": " Balance \u2013Assess ability to maintain balance statically, eyes open and eyes closed (e.g., Romberg test or single-limb  stance for higher-level  patients) \u2013Assess dynamic balancethe patient stands on one foot and reaches the contralateral foot in 8 predetermined directions(30,38,40) -Measure how closely the patient is able to reach each foot without touching down heavily, coming to rest, making contact with the ground with the reaching foot to maintain balance, or lifting or shifting any part of the stance limb(40) -Researchers who conducted an RCT in Ireland found that compared to controls, participants with a 6-month  history of lateral ankle sprain demonstrated lower reach distances with both the injured and non-injured limb in all directions, and their performance was associated with less hip and knee flexion and ankle dorsiflexion at the point of maximum reach and a less complex center of pressure path(38) -The same researchers also found bilateral deficits in postural control among subjects with an acute first-time  lateral ankle sprain(46) \u2013Assess ability to maintain single-leg  stance, eyes open and eyes closed, and compare time and quality to unaffected side(30) -It should be noted, however, that researchers in Ireland who conducted an RCT found bilateral  impairment of postural control in participants with first-time  acute lateral ankle sprain during single-limb stance eyes closed when compared to healthy controls(28) \u2013Assess for appropriate selection of balance strategy -Researchers who conducted an RCT in Ireland found that participants with a 6-month  history of lateral ankle sprain were more likely to use a hip-dominant  strategy for balance than the more appropriate ankle strategy during single-limb stance eyes open and eyes closed than healthy controls(22) \u2013For older patients or patients with premorbid reduced mobility, Berg Balance Scale might be more appropriateAssess as appropriate; can use 6-minute  walk test (6MWT) for distance",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess presence and quality of dorsalis pedis pulse and posterior tibial pulse. Circulation should be normal unless extensive swelling exists that impairs the quality of the palpable pulseAssess mobility of sural and peroneal nerve(19) Functional mobility  (including transfers, etc.) \u2013Assess ability to use the stairs and get out of chairs/cars \u2013The Timed Up & Go (TUG) test is an appropriate objective measurement Functional Performance Testing \u2013To be used when making the decision if an athlete is ready for RTP(30) -Single-limb  stance eyes open/eyes closed -The Star Excursion Balance Testthe patient hops laterally or forward 3 times on the uninjured leg and returns on the injured leg  -The test is successful if he or she makes it back to the original point in 3 hopsthe patient leans against a wall for stability and rocks back on his or her heels while raising the forefoot as much as possible 10 times -Assess whether the injured foot lags behind \u2013Jumping -Altered kinematics and landing strategies have been found during jumping in acute ankle sprains and altered preparatory movements in recurrent ankle sprains(32,35,39) -Reduced ankle plantar flexion has been observed upon jump landing with an increase in hip flexion as compensation(45) -Single limb triple cross-over  hop -Subject hops 3 consecutive times from side to side (15 cm wide) and then for the final hop he/she hops as far as possible and holds the position for 1 second. Measure the total hopping distance from the start point to the final landing point -Single-leg  vertical jump -Subject hops as high as possible from crouched position on one leg -Single-leg  6-meter  hop for time -Subject hops 6 meters and time to complete is recorded",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Perform thorough gait assessment -Assess safety with Dynamic Gait Index (DGI) -Assess speed with 10-meter  walk test (10MWT) \u2013Gait can be significantly altered even in the later stages of recoveryincreased ankle joint inversion and increased plantar flexion with a greater eccentric evertor moment at the ankle around heel strike, and reduced plantar flexion at toe-off(34) \u2013Researchers who conducted an RCT in Ireland found that, compared to controls, participants with a first-time  acute lateral(34)increased knee flexion, increased net extensor pattern at the knee joint, increased ankle inversion with a greater inversion moment, and reduced ankle plantarflexiondecreased hip extension with a decrease in hip flexor moment at the hip, and decreased ankle plantar flexion with a decrease in net plantar flexion momentInitially, joint mobility may be limited in all directions because of swelling",
+            "muscle strength": "In acute stage, grade isometric strength in plantar flexion, dorsiflexion, inversion, and eversion and compare to uninjured side. Introduce isotonic strength testing as tolerated. Perform manual muscle tests per patient\u2019s tolerance \u2013Isokinetic strength testing(29)",
+            "observation inspection palpation including skin assessment": [
+                "Observe patient as he or she enters clinic for ability to ambulate and expressions of pain",
+                "Examine lower extremities for gross deformity, discoloration, abrasion, edema, trophic changes, and bruising",
+                "Tenderness localized to the medial ankle suggests sprain of the deltoid ligament. Tenderness over one of the lateral ligaments suggests a lateral ankle sprain"
+            ],
+            "posture": "Assess bilateral symmetry of ankle/foot position and for compensatory unloading of injured foot in standing (barefooted) after full weight-bearing  status is achieved. Assess subtalar neutral in non-weight-bearing when appropriate",
+            "range of motion": " Range of motion \u2013Measure active and passive ROM in plantar flexion, dorsiflexion, inversion, and eversion. Compare to the contralateral side \u2013Measure ROM and flexibility of entire lower extremity and compare to contralateral side",
+            "self-care activities of daily living": "",
+            "reflex testing": "Should be normal unless there is extensive swelling that impairs function",
+            "sensory testing": "Assess for sensory changes over the distribution of the superficial peroneal nerve (dorsum of foot) and deep peroneal nerve (first web space)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Instrumented ankle arthrometry(47) -Valid and reliable method of assessing ligament laxity; uses an arthrometer  \u2013Manual laxity testingAssess ATFL integrity by applying a slow firm anterior thrust against the posterior surface of the heel while stabilizing the anterior part of the lower leg(30)With the patient sitting and the ankle in neutral, apply an inversion stress, inverting the heel. The CFL likely is disrupted if laxity is noted when compared to the contralateral side. This test can also be used to test the integrity of the deltoid ligament by everting the heel instead and comparing to the contralateral side -There is limited evidence on the validity and reliability of both testsThis is an assessment for a syndesmotic injury in which the tibia and fibula are squeezed together at mid-calf.  A positive result is if pain radiates down to the fibulaPain in the syndesmosis while applying an external rotation stress to the dorsiflexed foot is a positive test(7) -Lower Extremity Functional Scale (LEFS)(30) -Cumberland Ankle Instability Tool(26,28,34) -Foot and Ankle Disability Index (FADI)(30) -Foot and Ankle Ability Measure (FAAM)(28,30,34,38) -Sports Ankle Rating System(30)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide and does not replace orders from a physician or the specific protocols of the treatment clinic",
+                "Joint effusion",
+                "Hypermobility",
+                "Inflammation",
+                "Infection",
+                "Joint or bone instability",
+                "Joint fusion",
+                "Recent fracture",
+                "Bone-on-bone  end feel",
+                "Malignancy",
+                "Bone disease",
+                "Long-term  corticosteroid use",
+                "Systemic connective tissue diseases",
+                "Advanced osteoporosis",
+                "Raynaud\u2019s disease or phenomenon ",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Impaired circulation",
+                "Over a regenerating peripheral nerve",
+                "Peripheral vascular disease",
+                "Cold intolerance",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Hypersensitivity to cold",
+                "Over an open wound",
+                "Over superficial nerves",
+                "Over areas of poor sensation",
+                "Poor cognition",
+                "Aversion to cold",
+                "In the very old and very young",
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Malignant tumors",
+                "Lack of intact thermal regulation",
+                "Areas of vascular insufficiency or vascular disease",
+                "Areas where liniments or heat rubs have recently been applied",
+                "Presence of or tendency for hemorrhage or edema",
+                "Do not place electrodes near: -carotid bodies, cardiac pacemakers or implantable cardioverter defibrillators, phrenic nerve or urinary bladder stimulators, phrenic nerve, eyes, gonads",
+                "Osteomyelitis",
+                "Tissue vulnerable to hemorrhage or hematoma",
+                "Over compromised skin",
+                "Over cervical or craniofacial regions in patients who have a history of cerebrovascular accident or seizures -Impaired sensation, mental status, communication -Cardiac dysfunction, including uncontrolled hypertension or hypotension, or irregular heart rate or rhythm -Over neoplasms (active or previous) -Epilepsy or seizure disorders -Dermatological conditions -Proximity of diathermy units or other source of electromagnetic radiation (5 yards) -In pregnant women, near the pelvis, lumbar spine, hips, abdomen -In patients with stroke or seizures, near the neck -History of spontaneous abortion in pregnant women",
+                "Over the region of a cardiac pacemaker",
+                "Over the pelvis, abdominal, and lumbar regions during pregnancy",
+                "Over the eyes or testes",
+                "In an area with infection or bleeding",
+                "Cancer  if a tumor or malignancy is present in the area ",
+                "In the area of a DVT or thrombophlebitis",
+                "Over the heart, stellate, or cervical ganglia",
+                "Over epiphyseal plates during active bone growth",
+                "Tissue infected by tuberculosis",
+                "Hemorrhagic conditions  over an area of active bleeding",
+                "Sensory deficits",
+                "Ineffective communication skills in a patient (e.g., impaired cognition, language barrier)",
+                "Circulatory impairments",
+                "Plastic or cemented implants",
+                "Peripheral vascular disease",
+                "Over spinal cord and superficial or regenerating nerves",
+                "Area of infection",
+                "Acute injury",
+                "Skin disease",
+                "Note: Always decrease ultrasound intensity if the patient complains of discomfort",
+                "Malignancy",
+                "Fear of water",
+                "Avoid warm/hot water if patient is pregnant or has multiple sclerosis, increased risk of hemorrhage (e.g., on anticoagulant medications), impaired thermal regulation (avoid full body immersion), acute inflammation, acute febrile episode, edema, thrombophlebitis, or acute rheumatoid arthritis",
+                "Sensory impairment",
+                "Hypersensitivity to cold",
+                "Cardiac insufficiency",
+                "Unstable blood pressure",
+                "Impaired circulation",
+                "Open wounds, catheters, colostomies, IVs, G-tubes",
+                "Tissues damaged by radiation therapy",
+                "Peripheral vascular disease",
+                "Edema",
+                "Pulmonary disease",
+                "Confusion or impaired cognition",
+                "Incontinent bladder or bowel",
+                "Alcohol or drug ingestion",
+                "Uncontrolled epilepsy",
+                "Danger of hemorrhaging",
+                "Postoperative surgical incisions with dehiscence, sutures, or staples",
+                "Skin ulcers caused by venous insufficiency, edema, or lymphedema",
+                "Skin conditions such as atopic eczema, ichthyosis, and senile pruritus",
+                "Tissue flaps or recent skin grafts",
+                "Skin infection",
+                "Thrombophlebitic areas"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment in their assessment and treatment decisions",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Inform patient and family/caregivers of the potential for falls and educate about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Monitor patient\u2019s response to and tolerance of all interventions. If there is increased pain, swelling, warmth, and/or redness, treatment is progressing too rapidly(10)",
+                "Stretching and resistive exercise should not be performed during the acute stage of healing(6)",
+                "When using functional testing to decide whether an athlete is RTP, the general recommendation is that the injured ankle should achieve at least 80% of the performance level of the uninvolved limb(30)",
+                "Passive accessory mobilization  contraindications(10)",
+                "Cryotherapy  contraindications(11)",
+                "Cryotherapy  precautions(11)",
+                "Thermotherapy  contraindications(11)",
+                "Electrotherapy  contraindications/precautions(11)",
+                "Therapeutic ultrasound  contraindications; do not use:(11)",
+                "Therapeutic ultrasound  precautions(11)",
+                "Aquatic therapy precautions(11)",
+                "Aquatic therapy  contraindications(11)"
+            ]
+        },
+        "diagnosis need for treatment": "Painful ankle injury that reduces mobility and functional capacity for regular activities, occupation, and sport",
+        "rule out": " Rule out Calcaneal fracture Fifth metatarsal fracture Tarsal fracture midfoot Malleolar fracture(9,21) Lisfranc injury  Peroneal tendon strain Peroneal nerve injury Cuboid (subluxation) syndrome Talar neck or dome fracture(21) Talar dome chondral defects(21)",
+        "prognosis": [
+            "After a sprain, 60% of cases are likely to present with symptoms up to 18 months after injury(18)",
+            "Researchers conducted a systematic review investigating whether postural control or perceived instability or severity of the original lateral ankle sprain could predict CAI. In the four studies included, only the severity of the initial sprain predicted a re-sprain  (with an initial grade 2 sprain)(26)",
+            "Most patients with uncomplicated ankle sprains return to normal gait in 2\u20134 weeks",
+            "In Australia, 62 athletic participants with acute ankle ligament injuries, diagnosed through MRI, were followed through conservative treatment to full recovery of their preinjury activity level. The median recovery time for a syndesmotic ankle injury was 62 days; median recovery time for a lateral ankle sprain was 15 days(15)",
+            "Researchers in the United States who studied cadaveric specimens found considerable changes to ankle joint mechanics after moderate syndesmotic injuries and hypothesized that those injuries take longer to heal and are more likely to lead to long-term  dysfunction and even arthritis(41)",
+            "Authors of a systematic review found that physical therapy for lateral ankle sprains does not affect re-injury  rates at 3 or 8 months, but evidence is conflicting on the effect at 1 year(37)"
+        ],
+        "referral to other disciplines": " Referral to other disciplinesPatients restricted to a walker or wheelchair may require assessment for home care for ADLs Orthotist Physician for red flags (e.g., suspicion of fracture) or failure to progress Nutritionist for weight loss/BMI reduction",
+        "other considerations": [
+            "Surgical intervention often is delayed in acute ankle sprains, even cases with gross instability, because most heal with nonoperative care(12)",
+            "Researchers have suggested use of lateral ligament reconstruction using the anterior half of the peroneus longus tendon (AHPLT), for which they found good clinical and radiographic outcomes without a decrease in strength and integrity of the peroneus longus muscle(55)",
+            "Researchers who conducted a systematic review to determine the effectiveness of treatments for patients with chronic complaints after ankle sprain found moderate evidence for a training program over a wait-and-see  policy, insufficient evidence for the most effective surgical treatment, and limited evidence to suggest that postoperative early mobilization is more effective than a plaster cast(17)",
+            "Researchers in South Korea who examined radiographs of 274 patients with lateral malleolar fracture and 400 patients with lateral ankle sprain found that those patients with ankle fracture had anatomical structures that favored more bony constraint, and concluded that there might be an anatomical predisposition to ankle sprain or fracture. The authors acknowledged many limitations in their study and suggested that more studies are needed(33)"
+        ],
+        "treatment summary": [
+            "The initial focus of treatment typically is immediate icing for pain/edema management, elevation, and protection, followed by manual therapy to minimize talocrural joint stiffness, muscle shortening, and loss of neuromuscular control. Treatment then addresses restoration of active ROM and full weight-bearing  as soon as tolerated, after which resistance and balance-retraining  exercises are introduced. The final phase of rehabilitation involves exercises that further build strength, endurance, and agility to restore preinjury lower extremity function",
+            "Physical therapists often manage acute ankle sprains with a multimodal approach that can include PRICE and a combination of palliative techniques (e.g., strapping, therapeutic ultrasound, interferential therapy, TENS, gentle manual traction of the joint) and functional rehabilitation (e.g., gait reeducation, non-weight-bearing/weight-bearing  exercises, proprioceptive exercises). The literature is divided regarding the efficacy of physical therapy in acute ankle sprain ",
+            "Cryotherapy \u2013Researchers who conducted an RCT in the United Kingdom found that 10 minutes of joint cooling did not reduce muscle reaction time or muscle amplitude; they concluded that athletes can safely return to sporting activity immediately after icing(27) -Participants were healthy with no history of ankle sprain; ankle sprain mechanism was simulated with a tilt platform -Muscles tested were the peroneus longus and tibialis anterior",
+            "Ultrasound \u2013There is a long history of use of therapeutic ultrasound for soft tissue injuries by physical therapists; however, there is little evidence that therapeutic ultrasound has any statistically significant or clinically relevant effectiveness in patients with ankle sprains",
+            "External ankle support/taping \u2013External devices were applied a few days after injury to allow for swelling to subside \u2013Primary results -Questionnaires were completed by 82% of participants at 3 months and 76% of participants at 9 months -Compared to tubular bandage \u2013 assessed via the Foot and Ankle Outcome Score (FAOS), at 3 months: -The individuals treated with a cast had significantly higher scores on 4/5 domains (pain, ADLs, sports, and foot-and-ankle-related  quality of life [ankle function]) -The individuals treated with an aircast had significantly higher scores in the foot-and-ankle-related  quality of life (ankle function) domain -There were no significant differences between the individuals treated with a Bledsoe boot and those treated with a tubular bandage -There were no significant differences in outcomes between groups measured at 9 months",
+            "Researchers in the United States found that prophylactic ankle bracing significantly improved dynamic postural control and single-limb  functional tests in healthy high school basketball players(45)",
+            "Researchers in Brazil found that Kinesiotaping did not decrease swelling in acute lateral ankle sprain in athletes(18)",
+            "Application of Kinesiotape along the medial ligament and lateral ligament of the ankle applied in a figure eight pattern reinforcement was found to be a useful method for the prevention of ankle sprains(56)",
+            "Researchers in France who conducted an RCT found that the use of a compression stocking 48 hours after ankle sprain did not significantly modify time to normal painless walking time(24) \u2013In a subgroup of patients who regularly participated in sporting activity, time to return to sporting activity was shorter for the compression stocking group \u203aAuthors of a systematic review found strong evidence for the use of proprioceptive training in reducing the incidence of ankle sprains in the athletic population(57)",
+            "Seven studies were reviewed with a total of 3,726 participants \u203aManual therapy",
+            "Researchers conducting an RCT in Spain found that proprioceptive and strengthening exercises combined with manual therapy were more effective than exercise alone to reduce pain and improve strength and ROM(50)",
+            "Using the Mulligan Concept movement with mobilization (MWM) for the treatment of lateral ankle sprains was found to immediately decrease pain and improve function in patients with lateral ankle sprains(58)",
+            "Performing massage to the calf muscle was found to be effective in improving flexibility and balance function of the ankle joint.(59) The authors also suggested that a combination of friction and petrissage massage may be more effective in improving ankle joint flexibility",
+            "A manual therapy and exercise (MTEX) approach is superior to a supervised home exercise program (HEP) in the management of individuals with inversion ankle sprains(16) \u2013Based on an RCT in the United States in which 74 patients were randomized into two groups. The MTEX group had significant improvements in functional outcome measurements and decreased pain when compared to the HEP group",
+            "According to a study conducted in Sweden, patients given written home-exercise instruction without formal physical therapy intervention had worse outcomes at 6 weeks and 3 months than patients who partook in physical therapy as well as written exercise instruction(51) \u2013Thirty-nine  patients were given written exercise instruction after presenting in emergency department with acute ankle sprains  \u2013Results of outcome tests at 6 weeks and 3 months were compared with a previous study on patients who underwent physical therapy intervention",
+            "Researchers in the United States who conducted a case study on a 23-year-old  female college basketball player with a lateral ankle sprain found that treatment that included mobilization with movement (the Mulligan Concept) resulted in immediate pain-free  ankle motion and ambulation(23) \u2013The patient was discharged after 5 sessions and maintained results until follow-up  at 6 weeks \u2013The patient had a history of many lateral ankle sprains; the last one was 1 year before the study \u2013Based on Brian Mulligan\u2019s theory that pain and dysfunction is due to the positional fault of the fibula resulting from the pull of the ATFL and not the sprain itself",
+            "Researchers who published a systematic review that included 3 moderate-  to high-quality  RCTs found limited evidence to support the claim that talocrural joint-thrust  manipulations after an inversion ankle sprain improve dorsiflexion ROM, self-reported  function, and pain(48)",
+            "Researchers of a systematic review conducted in Australia suggested the use of joint mobilization techniques to improve dynamic balance in patients with ankle sprains, which may improve dorsiflexion ROM in the short term. Long-term  use of joint mobilization has not been properly investigated(53) \u2013Fifty-six  studies were selected, of which 23 were eligible for inclusion \u203aTherapeutic exercise",
+            "Authors of an RCT conducted in South Korea concluded that performing open and closed kinetic chain exercises can improve the static and dynamic ankle balance of healthy young women(60) \u2013Twenty women were randomized to either the open kinetic chain group or closed kinetic chain group \u2013Both groups performed their respective exercises for 5 sets, 3 times a week for 4 weeks",
+            "Authors of an RCT conducted in the United States suggested that a 4-week  single exercise wobble board balance training intervention was more effective at treating CAI compared to resistance tubing exercises(52) \u2013Forty patients with CAI were equally randomized to either the wobble board training group or the resistance tubing exercise group \u2013Study consisted of 12 sessions over a 4-week  period \u2013Objective measures used in this study included the foot-lift  test, time-in balance, Star Excursion Balance Test, figure-of-8 hop, and side-hop . Problem Goal Intervention Expected Progression Home Program  Pain, tenderness, and swellingReduce pain, tenderness, and swelling _ _ Protect healing structuresPhysical agents and mechanical modalities _ Cryotherapeutic agents and the PRICE approach should be applied as soon and frequently as possible to reduce pain and swelling in the acute stage(11,25,27) _ _ Ten minutes of cooling did not adversely affect muscle performance in an RCT(27) _ _ Assistive devices _ Grade 2 sprains often require crutches and a supportive elastic wrap for 3 to 7 days until weight-bearing as tolerated begins _ _ This is typically followed by limited immobilization with a stirrup or lace-up ankle brace for protection during daily activities _ _ Grade 3 sprains usually require complete immobilization and a walking cast for up to 4 weeks _ _"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "resolved pain and edema": [
+            "V AS",
+            "Circumferential and/or volumetric measurements"
+        ],
+        "protected healing structures": [],
+        "maintained strength and rom in other areas of the body": [
+            "MMT",
+            "Goniometry"
+        ],
+        "normalized gait pattern without assistive device": [
+            "Gait assessment",
+            "DGI",
+            "10MWT"
+        ],
+        "full pain-free  rom": [
+            "Goniometry"
+        ],
+        "improved strength": [
+            "MMT",
+            "Isokinetic testing"
+        ],
+        "improved balance": [
+            "Star Excursion Balance Test",
+            "Single limb stance",
+            "Berg Balance Scale",
+            "Romberg test"
+        ],
+        "reduced laxity": [
+            "Instrumented ankle arthrometry"
+        ],
+        "improved endurance": [
+            "6MWT for distance"
+        ],
+        "appropriate functional strength, proprioception, and power for return to sport without risk of recurrent ankle sprains": [
+            "Functional performance testing (80% of noninjured limb)"
+        ],
+        "patient satisfaction": [
+            "Lower Extremity Functional Scale (LEFS)",
+            "Cumberland Ankle Instability Tool",
+            "Foot and Ankle Disability Index",
+            "Foot and Ankle Ability Measure (FAAM)",
+            "Sports Ankle Rating System"
+        ]
+    },
+    "maintenance or prevention": [
+        "Advice on wearing supportive shoes appropriate for work or sport (e.g., high-top  vs low-top  shoes or type of cleats, as well as avoiding high heels). Ankle taping and external ankle support may help prevent sprains in high-risk  sports(42)",
+        "After successful return to competition from an ankle sprain, athletes are susceptible to reinjury due to fatigued-induced alterations of static and dynamic postural control (e.g., postural sway, single-legged  jump-landing  activities). Thus, incorporating fatigue resistance into a rehabilitation program is an important component in preventing future ankle sprain injuries(13)",
+        "Maintaining optimal BMI(43)"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "de-Las-Heras  Romero J, Alvarez AML, Sanchez FM, et al. Management of syndesmotic injuries of the ankle. EFORT Open Rev . 2017;2(9):403-409. doi:10.1302/2058-5241.2.160084.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Shah S, Thomas AC, Noone JM, Blanchette CM, Wikstrom EA. Incidence and Cost of Ankle Sprains in United States Emergency Departments. Sports Health . 2016;8(6):547-552.  doi:10.1177/1941738116659639. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Krabak BJ. Ankle sprain. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 3rd ed. Philadelphia, PA: Saunders Elsevier; 2015:426-430.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Mercier LR. The ankle and foot. In: Practical Orthopedics . 6th ed. Philadelphia, PA: Mosby Elsevier; 2008:248-252.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Kobayashi T, Tanaka M, Shida M. Intrinsic Risk Factors of Lateral Ankle Sprain: A Systematic Review and Meta-analysis.  Sports Health . 2016;8(2):190-193. doi:10.1177/1941738115623775. (SR)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kisner C, Colby LA. The ankle and foot. In: Therapeutic Exercise: Foundations and Techniques . 7th ed. Philadelphia, PA: FA Davis Company; 2018:871-875.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Sman AD, Hiller CE, Rae K. Diagnostic accuracy of clinical tests for ankle syndesmosis injury. Br J Sports Med . 2015;49(5):323-329.  doi:10.1136/bjsports-2013-092787.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Fousekis K, Tsepsis E, Vagenas G. Intrinsic risk factors of noncontact ankle sprains in soccer: a prospective study on 100 professional players. Am J Sports Med . 2012;40(8):1842-1850.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Lampridis V, Gougoulias N, Sakellariou A. Stability in ankle fractures: Diagnosis and treatment. EFORT Open Rev . 2018;3(5):294-303.  doi:10.1302/2058-5241.3.170057.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Denegar CR, Saliba E, Saliba SF. Therapeutic Modalities for Musculoskeletal Injuries . 3rd ed. Champaign, IL: Human Kinetics; 2010. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "In: Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:42-44,80-82,127-128,144-145,322-32.  (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Mann JA, Chou LB, Ross SDK. Foot & ankle surgery. In: Skinner HB, McMahon PJ, eds. Current Diagnosis & Treatment in Orthopedics . 5th ed. New York, NY: Lange Medical Books/McGraw-Hill;  2014:445-448.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Steib S, Zech A, Hentschke C, Pfeifer K. Fatigue-induced  alterations of static and dynamic postural control in athletes with a history of ankle sprain. J Athl Train . 2013;48(2):203-208.  doi:10.4085/1062-6050-48.1.08.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Hoch MC, McKeon PO. Peroneal reaction time after ankle sprain: a systematic review and meta-analysis.  Med Sci Sports Exerc . 2014;46(3):546-556.  doi:10.1249/ MSS.0b013e3182a6a93b. (SR)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Sman AD, Hiller CE, Rae K, Linklater J, Black DA, Refshauge KM. Prognosis of ankle syndesmosis injury. Med Sci Sports Exerc . 2014;46(4):671-677.  doi:10.1249/ MSS.0000000000000151. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Cleland JA, Mintken P, McDevitt A, et al. Manual physical therapy and exercise versus supervised home exercise in the management of patients with inversion ankle sprain: a multicenter randomized clinical trial. J Orthop Sports Phys Ther . 2013;43(7):443-455.  doi:10.2519/jospt.2013.4792. (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "van Ochten JM, van Middelkoop M, Meuffels D, Bierma-Zeinstra  SMA. Chronic complaints after ankle sprains: A systematic review on effectiveness of treatments. J Orthop Sport Phys Ther . 2014;44(11):862-871.  doi:10.2519/jospt.2014.5521. (SR)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Nunes GS, Vargas VZ, Wageck B, Hauphental DP, da Luz CM, de Noronha M. Kinesio taping does not decrease swelling in acute, lateral ankle sprain of athletes: A randomised trial. J Physiother . 2015;61(1):28-33.  doi:10.1016/j.jphys.2014.11.002. (RCT)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Jayamoorthy JP. Indian J Physiother Occup Ther . 2014;8(4):156-161.  doi:10.5958/0973-5674.2014.00030.6.  (C)"
+        },
+        {
+            "number in article": 20,
+            "reference": "van Ochten JM, Mos MC, van Putte-Katier  N, et al. Structural abnormalities and persistent complaints after an ankle sprain are not associated: An observational case control study in primary care. Br J Gen Pract . 2014;64(626):e545-e553.  doi:10.3399/bjgp14X681349. (C)"
+        },
+        {
+            "number in article": 21,
+            "reference": "da Encarnacao AP. When something is not quite right: An ankle sprain. Acupunct Med . 2014;32(5):423-426.  doi:10.1136/acupmed-2014-010600.  (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Doherty C, Bleakley C, Hertel J, et al. Inter-joint coordination strategies during unilateral stance 6-months following first-time lateral ankle sprain. Clin Biomech . 2015;30(2):129-135.  doi:10.1016/j.clinbiomech.2014.12.011. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Mau H, Baker RT. A modified mobilization-with-movement  to treat a lateral ankle sprain. Int J Sports Phys Ther . 2014;9(4):540-548.  (C)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Bendahou M, Khiami F, Saidi K, et al. Compression stockings in ankle sprain: A multicenter randomized study. Am J Emerg Med . 2014;32(9):1005-1010.  doi:10.1016/ j.ajem.2014.05.054. (RCT)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Carter D, Amblum-Almer  J. Analgesia for people with acute ankle sprain. Emerg Nurse . 2015;23(1):24-31.  doi:10.7748/en.23.1.24.e1417. (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Pourkazemi F, Hiller CE, Raymond J, Nightingale EJ, Refshauge KM. Predictors of chronic ankle instability after an index lateral ankle sprain: A systematic review. J Sci Med Sport. 2014;17(6):568-573.  doi:10.1016/j.jsams.2014.01.005. (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Thain PK, Bleakley CM, Mitchell ACS. Muscle reaction time during a simulated lateral ankle sprain after wet-ice application or cold-water  immersion. J Athl Train . 2015;50(7):697-703.  (RCT)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Doherty C, Bleakley C, Hertel J, Caulfield B, Ryan J, Delahunt E. Postural control strategies during single limb stance following acute lateral ankle sprain. Clin Biomech . 2014;29(6):643-649.  doi:10.1016/j.clinbiomech.2014.04.012. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Perron M, Moffet H, Nadeau S, Hebert LJ, Belzile S. Persistence of long term isokinetic strength deficits in subjects with lateral ankle sprain as measured with a protocol including maximal preloading. Clin Biomech . 2014;29(10):1151-1157.  doi:10.1016/j.clinbiomech.2014.09.010. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Richie DH, Izadi FE. Return to play after an ankle sprain: Guideline for the podiatric physician. Clin Podiatr Med Surg . 2015;32(2):195-215.  doi:10.1016/j.cpm.2014.11.003. (GI)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Lin CY, Kang JH, Wang CL, Shau YW. Relationship between viscosity of the ankle joint complex and functional ankle instability for inversion ankle sprain patients. J Sci Med Sport. 2015;18(2):128-132.  doi:10.1016/j.jsams.2014.02.009. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Terada M, Gribble PA. Jump landing biomechanics during a laboratory recorded recurrent ankle sprain. Foot Ankle Int . 2015;36(7):842-848.  doi:10.1177/1071100715576517. (C)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Lee KM, Chung CY, Sung KH, et al. Anatomical predisposition of the ankle joint for lateral sprain or lateral malleolar fracture evaluated by radiographic measurements. Foot Ankle Int. 2015;36(1):64-69.  doi:10.1177/1071100714551019. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Doherty C, Bleakley C, Hertel J, Caulfield B, Ryan J, Delahunt E. Lower extremity function during gait in participants with first time acute lateral ankle sprain compared to controls. J Electromyogr Kinesiol . 2015;25(1):182-192.  doi:10.1016/j.jelekin.2014.09.004. (RCT)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Doherty C, Bleakley C, Hertel J, Caulfield B, Ryan J, Delahunt E. Single-leg  drop landing motor control strategies following acute ankle sprain injury. Scand J Med Sci Sports . 2015;25(4):525-533.  doi:10.1111/sms.12282. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Greig M, McNaughton L. Soccer-specific  fatigue decreases reactive postural control with implications for ankle sprain injury. Res Sports Med . 2014;22(4):368-379. doi:10.1080/15438627.2014.944300. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Scherschligt BM, Evensen AE. Does supervised physical therapy after lateral ankle sprain reduce the risk of re-injury? Evid Based Pract . 2014;17(9):E2. (RV)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Doherty C, Bleakley C, Hertel J, Caulfield B, Ryan J, Delahunt E. Dynamic balance deficits 6 months following first-time acute lateral ankle sprain: A laboratory analysis. J Orthop Sports Phys Ther . 2015;45(8):626-633.  doi:10.2519/jospt.2015.5653. (RCT)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Doherty C, Bleakley C, Hertel J, et al. Lower extremity coordination and symmetry patterns during a drop vertical jump task following acute ankle sprain. Hum Mov Sci . 2014;38:34-46.  doi:10.1016/j.humov.2014.08.002. (RCT)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Gribble PA, Hertel J, Plisky P. Using the Star Excursion Balance Test to assess dynamic postural-control  deficits and outcomes in lower extremity injury: A literature and systematic review. J Athl Train . 2012;47(3):339-357.  doi:10.4085/1062-6050-47.3.08.  (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Hunt KJ, Goeb Y, Behn AW, Criswell B, Chou L. Ankle joint contact loads and displacement with progressive syndesmotic injury. Foot Ankle Int . 2015;36(9):1095-1103. doi:10.177/10711007115583456. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Moore JX, Lambert B, Jenkins GP, McGwin G, Jr. Epidemiology of high-heel shoe injuries in U.S. women: 2002 to 2012. Foot Ankle Surg . 2015;54(4):615-19.  doi:10.1053/ j.jfas.2015.04.008. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Hershkovich O, Tenenbaum S, Gordon B, et al. A large scale study on epidemiology and risk factors for chronic ankle instability in young adults. Foot Ankle Surg . 2015;54(2):183-7.  doi:10.1054/j.jfas.2014.06.001. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Shang X, Li Z, Cao X, et al. The association between the ACTN3 R577X polymorphism and noncontact acute ankle sprains. J Sport Sci . 2015;33(17):1775-9. doi:10.1080/02640414.2015.1012098. (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Crockett NJ, Sandrey MA. Effect of prophylactic ankle-brace  use during a high school competitive basketball season on dynamic postural control. J Sport Rehabil . 2015;24(3):252-60.  doi:10.1123/jsr.2013-0152.  (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Doherty C, Bleakly CM, Hertel J, Caulfield B, Ryan J, Delahunt E. Laboratory measures of postural control during the star excursion balance test after acute first-time lateral ankle sprain. J Athl Train . 2015;50(6):651-64.  doi:10.4085/1062-6050-50.1.09.  (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Schwarz NA, Kovaleski JE, Heitman RJ, Gurchiek LR, Gubler-Hanna  C. Arthrometric measurement of ankle-complex  motion: normative values. J Athl Train . 2011;46(2):126-32.  doi:10.4085/1062-6050-46.2.126.  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Keueger B, Becher L, Leemkuil G, Durall C. Does talocrural joint-thrust  manipulation improve outcomes after inversion ankle sprain? J Sport Rehabil . 2015;24(3):315-21. doi:10.1123/jsr.2013-0144.  (SR)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Rose AB, Ko J, Brown CN. Diagnostic accuracy of instrumented and manual talar tilt tests in chronic ankle instability populations. Scand J Med Sci Sport . 2015;25(2):e214. doi:10.111/sms.12288. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Plaza-Manzano  G, Vergara-Vila  M, Val-Otero  S, et al. Manual therapy in joint and nerve structures combined with exercises in the treatment of recurrent ankle sprains: A randomized controlled trial. Manual Ther . 2016;26:141-149.  (RCT)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Gustafsson K, Faltstrom A, Oberg U, et al. Written instruction versus physiotherapist-supervised  rehabilitation after acute ankle sprain. Eur J Physiother . 2017;19(2):76-83.  (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Write CJ, Linens SW, Cain MS. A randomized controlled trial comparing rehabilitation efficacy in chronic ankle instability. J Sport Rehabil . 2017;26(4):238-249. doi:10.1123/jsr.2015-0189.  (RCT)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Weerasekara I, Osmotherly P, Snodgrass S, Marquez J, de Zoete R, Rivett DA. Clinical benefits of joint mobilization on ankle sprains: a systematic review and meta-analysis. Arch Phys Med Rehabil . 2018;99(7):1395-1412.  doi:10.1016/j.apmr.2017.07.019. (SR)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Miller JR, Dunn KW, Ciliberti LJ, Jr, Eldridge SW, Reed LD. Diagnostic value of early magnetic resonance imaging after acute lateral ankle injury. J Foot Ankle Surg . 2017;56(6):1143-1146.  doi:10.1053/j.jfas.2017.05.011. (RV)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Park CH, Lee WC. Donor site morbidity after lateral ankle ligament-reconstruction  using the anterior half of the peroneus longus tendon autograft. Am J Sports Med . 2017;45(4):922-928.  doi:10.1177/0363546516675167. (R)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Seo HD, Kim MY, Choi JE, et al. Effects of Kinesio taping on joint position sense of the ankle. J Phys Ther Sci . 2016;28(4):1158-1160.  doi:10.1589/jpts.28.1158. (RV)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Rivera MJ, Winkelmann ZK, Powden CJ, Games KE. Proprioceptive training for the prevention of ankle sprains: an evidence-based  review. J Athl Train . 2017;52(11):1065-1067.  doi:10.4085/1062-6050-52.11.16.  (SR)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Hudson R, Baker RT, May J, Reordan D, Nasypany A. Novel treatment of lateral ankle sprains using the Mulligan concept: an exploratory case series analysis. J Man Manip Ther. 2017;25(5):251-259.  doi:10.1080/10669817.2017.1332557. (R)"
+        },
+        {
+            "number in article": 59,
+            "reference": "Park J, Shim J, Kim S, et al. Application of massage for ankle joint flexibility and balance. J Phys Ther Sci . 2017;29(5):789-792.  doi:10.1589/jpts.29.789. (RCT)"
+        },
+        {
+            "number in article": 60,
+            "reference": "Kim MK, Yoo KT. The effects of open and closed kinetic chain exercises on the static and dynamic balance of the ankle joints in young healthy women. J Phys Ther Sci . 2017;29(5):845-850.  doi:10.1589/jpts.29.845. (RCT)"
+        },
+        {
+            "number in article": 61,
+            "reference": "Knapik DM, Trem A, Sheehan J, Salata MJ, Voos JE. Conservative Management for Stable High Ankle Injuries in Professional Football Players. Sports Health . 2018;10(1):80-84.  doi:10.1177/1941738117720639. (RV)"
+        }
+    ]
+}

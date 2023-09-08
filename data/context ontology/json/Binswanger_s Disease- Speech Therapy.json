@@ -1,0 +1,531 @@
+{
+    "metadata": {
+        "title": "Dementia, Vascular  Speech Therapy",
+        "synonyms": [
+            "multi-infarct  dementia",
+            "vascular dementia  speech therapy",
+            "binswanger's disease: speech therapy",
+            "arteriosclerotic dementia: speech therapy",
+            "dementia, arteriosclerotic: speech therapy"
+        ],
+        "anatomical location body part affected": [
+            "Blood vessels in the brain(1)"
+        ],
+        "area of specialty": [
+            "adult neurological disorders"
+        ],
+        "description": [
+            "Vascular dementia (VaD) describes impairments in cognitive functioning that result from restricted blood flow to the brain.(1) In 2013, the Diagnostic and Statistical Manual of Mental Disorders , fifth edition (DSM-5 ), was published, in which the term \u201cdementia\u201d was replaced with \u201cmajor neurocognitive disorder\u201d (NCD).(46) According to the DSM-5 , NCDs exist on a spectrum defined by the extent of cognitive and functional impairments. The term mild NCD refers to cognitive impairment that does not interfere with independence but results in the need for occasional assistance, increased time to complete activities, or use of compensatory strategies. Major NCD refers to cognitive impairment that is so severe that it results in considerable functional impairments and the individual requires assistance to complete ADLs.(46) DSM-5  authors note that the terms mild NCD and major NCD are inherently arbitrary and that diagnosis will be based on the physician\u2019s careful history taking and observation to determine and appropriately label the extent of impairment.(46) Despite the introduction of the term NCD, DSM-5  authors state that the term dementia is still used within the DSM-5  for continuity and is appropriate in clinical use as well.(46)For detailed information on other types of dementia see the series of Clinical Reviews on dementia",
+            "According to the DSM-5 , VaDis classified as \u201cmajor or mild vascular neurocognitive disorder.\u201d In order to have the diagnosis of VaD according to the DSM-5 , an individual must meet the diagnostic criteria for either major or mild NCD and exhibit considerable cognitive deficits including reduced complex attention, poor processing speed, and executive dysfunction that are consistent with a vascular etiology (i.e., occurring in close temporal proximity to one or more cardiovascular events)(46)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "F01.50": "vascular dementia without behavioral disturbance",
+            "F01.51": "vascular dementia with behavioral disturbance",
+            "I67.3progressive": "vascular leukoencephalopathy"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status atdischarge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. Prior to initiating speech therapy for a patient with VaD, the clinician should determine if the patient is capable of learning new information. Additionally, in order to receive reimbursement from the insurance company, the clinician must document measurable progress toward functional goals"
+        ],
+        "presentation signs and symptoms": [
+            "The symptoms of VaD often occur suddenly and progress in a stepwise manner. A patient with VaD might suddenly experience cognitive impairments that then plateau; however, following a stroke or mini-strokes,  new symptoms can arise. In other cases, patients with VaD have an insidious onset of symptoms that progress gradually. As VaD progresses, a patient\u2019s personal, social, and vocational functioning become significantly impaired. It is often difficult for the physician to distinguish VaD from Alzheimer\u2019s disease due to shared cognitive and behavioral symptoms. Additionally, many patients have co-occurring  VaD and Alzheimer\u2019s disease.(1,2)For detailed information on Alzheimer\u2019s disease, see Clinical Review\u2026Alzheimer\u2019 s Disease: Speech Therapy ; Topic ID Number: T708913.Patients with VaD can present with a wide range of symptoms that vary according to the part(s) of the brain affected. Patients with small-vessel  VaD often present with more apathy, aberrant motor behavior, and hallucinations as compared to patients with large-vessel  VaD, who typically present with a higher degree of agitation/aggression and euphoria.(3) Symptoms of VaD can include:",
+            "Memory impairment(1,2)",
+            "Confusion and agitation(1)",
+            "Unsteady or abnormal gait(1,2)",
+            "Poor bladder and/or bowel control(1,2)",
+            "Wandering(1,2)",
+            "Depression",
+            "A decline in the ability to organize thoughts or actions",
+            "Difficulty planning ahead(1)",
+            "Trouble communicating details sequentially(1)",
+            "Poor attention and concentration(1)",
+            "Difficulty solving complex problems(1)",
+            "Slowed thinking",
+            "Distractibility or \u201cabsentmindedness\u201d",
+            "Poor ability to navigate familiar locations",
+            "Poor word retrieval",
+            "Difficulty following directions(2)",
+            "Difficulty counting money or engaging in transactions involving money(2)",
+            "Inappropriate displays of emotion(2)",
+            "Irritability",
+            "Apathy",
+            "Hallucinations or delusions",
+            "Dysphagia, especially dysphagia involving bolus formation and chewing semi-solid  food(4) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "In older adult patients especially, sensory deficits (e.g., hearing and/or visual deficits) should be assessed and/or managed prior to the assessment of cognitive-communication  skills(9,10)",
+            "Depression is common among persons with VaD and can adversely affect test performance, making patients seem more impaired than they are(1,9)",
+            "The SLP should consider the possible effect of medication(s) on a patient\u2019s performance during a screening and/or assessment. Older adults might be taking medications that negatively affect their cognitive skills and test performance(9)",
+            "In addition to considering results from standardized measures, the SLP should conduct interviews with caregivers and observe the patient in a variety of settings in order to determine the patient\u2019s level of functioning, identify changes in functioning, and write appropriate treatment goals(9)",
+            "If the patient experiences changes in symptoms, he or she should be reevaluated in order to make appropriate changes to the plan of care(9) ",
+            "Patients with dementia may not be able to complete standardized tests or accurately answer questions regarding medical history",
+            "During a speech-language  evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance, stamina, and level of frustration",
+            "The time of day and the number of previous evaluations can affect the patient\u2019s alertness and performance"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Blood vessels in the brain become completely blocked\u2013Often, a stroke (infarction) results when a blood vessel in the brain becomes completely blocked. When a patientexperiences a \u201csilent brain infarction,\u201d no symptoms of stroke are immediately observed; however, as the number ofstrokes increases, so does the risk of developing VaD(1)",
+            "Blood vessels in the brain narrow\u2013When the blood vessels in the brain narrow, VaD can result from reduced blood flow to the brain(1)",
+            "Low blood pressure(1)",
+            "Brain hemorrhage(1)",
+            "Blood vessel damage from disorders such as systemic lupus erythematosus and temporal arteritis(1)"
+        ],
+        "pathogenesis: symptoms of vad result from chronic reduction of blood flow in and to the brain. loss of cortical cholinergic innervation, which has also been implicated in alzheimer\u2019s disease, appears to be related to cognitive changes in patients": [],
+        "risk factors": [
+            "Age (more common in persons over 65 years of age, with increasing risk in 8th and 9th decades of life)(1,5,49)",
+            "History of stroke(1,5,49)",
+            "Atherosclerosis (hardening of the arteries)(1,49)",
+            "High blood pressure (hypertension)(1,6,49)",
+            "Atrial fibrillation(1)",
+            "Diabetes and insulin resistance(1,49,52,54)",
+            "Smoking(1)",
+            "Hyperlipidemia (high cholesterol)(1,49)",
+            "Male sex(2)",
+            "African American ethnicity",
+            "Patients who have a history of mild cognitive impairment (MCI; isolated memory loss that does not result in a functionalimpairment) are at increased risk of developing VaD(7,8)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The speech-language  pathologist (SLP) should carefully review all medical records before evaluating or treating a patient with dementia",
+        "A patient\u2019s cultural and linguistic background should be considered to determine the appropriateness of examination and/or therapy materials(9)",
+        "The patient\u2019s caregiver/family should be involved in all assessment and treatment procedures"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "In older adult patients especially, sensory deficits (e.g., hearing and/or visual deficits) should be assessed and/or managed prior to the assessment of cognitive-communication  skills(9,10)",
+            "Depression is common among persons with VaD and can adversely affect test performance, making patients seem more impaired than they are(1,9)",
+            "The SLP should consider the possible effect of medication(s) on a patient\u2019s performance during a screening and/or assessment. Older adults might be taking medications that negatively affect their cognitive skills and test performance(9)",
+            "In addition to considering results from standardized measures, the SLP should conduct interviews with caregivers and observe the patient in a variety of settings in order to determine the patient\u2019s level of functioning, identify changes in functioning, and write appropriate treatment goals(9)",
+            "If the patient experiences changes in symptoms, he or she should be reevaluated in order to make appropriate changes to the plan of care(9) ",
+            "Patients with dementia may not be able to complete standardized tests or accurately answer questions regarding medical"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "The patient\u2019s medical history should assess vascular risk factors as well as the degree and type of cognitive impairments the patient is experiencing. The diagnosis of VaD is based on clinical history, results of physical and neurologic examinations, and the use of accepted diagnostic criteria.(7) Medical specialists that might be involved in diagnosing dementia include neurologists, neuropsychologists, neuroradiologists, psychiatrists, -Memory impairment accompanied by aphasia, apraxia, agnosia, and/or executive dysfunction(7) -Impairments in social or occupational functioning(7) -The presence of symptoms even in the absence of delirium(7) -Insidious onset of symptoms(7) -Gradual progression of symptoms(7) -Other conditions (e.g., Parkinson disease, brain tumor) are ruled out through the use of neuroimaging and laboratory testing(7)",
+                "course of treatment": {
+                    "medical management": "Medical management of VaD is directed at preventing or controlling risk factors for stroke (e.g., controlling blood pressure, cholesterol levels, diabetes).(2) Controlling these risk factors might also slow the progression of the disease(1)",
+                    "surgical management": [],
+                    "medications": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs). The concurrent use of multiple medications is common among older adults who have complex medical conditions, and the side effects of these medications may adversely affect cognitive and communicative functioning.(9) Contact a pharmacist or physician regarding questions about medication side effects. Currently, no drugs are approved by the U.S. Food and Drug Administration (FDA) to specifically treat VaD; however, physicians frequently prescribe drugs approved for treatment of Alzheimer\u2019s disease (such as cholinesterase inhibitors and memantine) for patients with VaD.(1) Authors of a systematic review found that antihypertensive medications\u2014 especially ACE inhibitors and diuretics\u2014were effective in reducing the risk and progression of dementia(11)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Neuroimaging studies and laboratory tests may be conducted to rule out other causes of changes in cognitive status (e.g., metabolic abnormalities, infection, toxin effects) or to identify the changes in the brain resulting from stroke.(7) Usual tests for a person suspected of having dementia include the following:",
+                        "Laboratory evaluation(12,13)",
+                        "Complete blood cell count",
+                        "Standard chemistry panel",
+                        "Vitamin B12 and folate",
+                        "Thyroid-stimulating  hormone",
+                        "Neurosyphilis treponemal screen",
+                        "Urinalysis",
+                        "HIV antibody (selected cases)",
+                        "Neuroimaging",
+                        "MRI is a very useful tool in the diagnosis of VaD due to its ability to display changes in the brain resulting from stroke",
+                        "CT(1)",
+                        "PET scan(1)",
+                        "Doppler ultrasound measures the speed and direction of blood flow to identify blockages or narrowing of blood vessels(1) "
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether they help Authors of a systematic review and meta-analysis  of 12 RCTs that examined the effectiveness and safety of acupuncture for vascular mild cognitive impairment reported that acupuncture might be effective for improving cognition; however, current evidence is not sufficient to draw definitive conclusions(45)",
+                    "previous therapy": "Document whether the patient has had occupational, physical, or speech therapy for this or other conditions and what specific treatments were helpful or not helpful. Document whether a patient has previously been treated for depression or MCI"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Are there times of day when the patient has more/less difficulty recalling information, completing cognitive tasks, and/ or communicating? -Are there specific situations in which it is more/less difficult for the patient to recall information, complete cognitive tasks, and/or communicate? -Is the patient aware of cognitive and/or communication difficulties? Is the patient frustrated by cognitive and/or communication difficulties? -Does the patient have a mood disorder (e.g., depression) that may affect motivation to communicate?(9)",
+                "body chart": "Use a body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document the nature of the patient\u2019s current symptoms -Symptoms of dementia -In order for any type of dementia to be diagnosed, a patient must display memory impairment and one or more oflanguage impairment, apraxia, agnosia (difficulty recognizing objects), and/or impaired executive function(10) -In dementia, language impairment may initially present as word-finding  difficulties and progress to mutism in the end stages of the disease(10) -Patients in the end stages of dementia might experience feeding and swallowing problems (dysphagia)(10)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present nowand how much)",
+                "pattern of symptoms": "Document the progressive nature of symptoms.(7,10,12,13) Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night)",
+                "sleep disturbance": "Sleep disturbances are common in patients with VaD. Document number of wakings/night and/or sleep cycle reversal(12)",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to a physician (e.g., constipation, urinary incontinence, sensory deficits, dentition problems, pain, sleep problems)(12,50)",
+                "respiratory status": "Note any respiratory difficulties patient is experiencingDepression is common among persons with VaD(1) -The patient should be referred to a neuropsychologist or clinical psychologist when signs of depression are present(9) -In a retrospective descriptive study conducted in Spain, researchers found that the most prevalent neuropsychiatric symptoms in the sample as a whole (comprising 40 patients with Alzheimer\u2019s disease and 40 patients with VaD) were agitation (45 cases, 56%), depression (33, 41.2%), and anxiety (28, 35%)(39) -Patients with VaD often exhibit apathy and social withdrawal(40) -Review evaluation reports completed by a neuropsychologist or clinical psychologist for information on the patient\u2019s behavioral symptoms and the possible presence of depressionScreening for vision and hearing impairments should always precede screening for cognitive and/or language impairments. An audiologist should check for impacted cerumen prior to a pure-tone  audiometric screening and word recognition testing(9) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe __________________________ "
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document 1) previous communication difficulties or cognitive deficits, 2) any previous history of dementia, delirium, and/or stroke, 3) onset and duration of cognitive, behavioral, and language symptoms, and 4) family history of neuropsychiatric disorders",
+                    "comorbid diagnoses": "Ask the patient and/or caregiver about other problems, including hypertension, high cholesterol levels, depression, diabetes, cancer, heart disease, psychiatric disorders, and orthopedic disorders In a study conducted in the United Kingdom, researchers reviewed 4,438 cases of VaD and found that, compared to the nondementia control group and the Alzheimer\u2019s disease group in the study, patients with VaD had higher prevalence of many conditions. Orthostatic hypotension was less prevalent in patients with VaD than in patients with Alzheimer\u2019s disease and nondementia controls; however, congestive heart failure, atrial fibrillation, ischemic heart disease, hypertension, diabetes mellitus, epilepsy/seizures, and depression were more prevalent in patients with VaD(43)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask the patient or family/caregiver about other symptoms the patient is experiencing, such as falls, constipation, bowel/bladder incontinence, sensory deficits, pain, dental problems, and sleep difficulties(12)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in language-  or motor-based  recreational activities? Does the patient work or attend school? Does the patient regularly use a computer/ telephone?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document if the patient uses any adaptive equipment to communicate (e.g., pen/paper). Document functional limitations such as inability to drive, cook, manage finances, and/or pursue social contacts(12)",
+                "living environment": "Document with whom patient lives (e.g., caregivers, family members). If a patient\u2019s cognitive skills are significantly impaired, he or she might require constant supervision and no longer be able to drive or live independently(12) -Order of acquisition of each language and language history (e.g., language used in education)(14) -Which language is used in which everyday situations (e.g., work, home, with relatives, with friends)(14) -What modalities are used in each language (e.g., reading, speaking, writing)(14) -Information about proficiency in each language can be gathered using a tool such as the Language Use Questionnaire (LUQ), which includes questions about the age of acquisition for each language, the total amount of time a person has been exposed to each language during his or her lifetime, and the proficiency of the person\u2019s most frequent communication partners in each language(14)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Note if the patient wears hearing aids or glasses and determine if hearing aids are in working order. Note any use of wheelchair, walker, or communication devices",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "To assess quality of life and functional outcomes, the clinician can administer quality of life scales, social participation indices, or ratings of communicative effectiveness(24)",
+            "speech and language examination": "Patients with VaD often have deficits in cognitive and language functioning that interact to make functional communication difficult. A patient\u2019s inability to attend to, perceive, organize, and remember information will impact receptive and expressive language skills. Difficulties with problem solving and executive functioning negatively affect functional communication. It is important that the SLP assess ways in which cognitive-linguistic difficulties affect the patient\u2019s ability to communicate in social, academic, and/or vocational situations. A cognitive-linguistic assessment should also consider how various communication tasks can be modified in order to support a patient\u2019s functional communication.(17) When selecting tests, SLPs must consider the cultural and linguistic background of the patient and determine if the measurement was standardized on the relevant population.(9) Tests that have normative information on individuals with dementia should be used when possible. Some tests might be too difficult for an individual with severe dementia to complete and therefore cannot adequately identify that individual\u2019s strengths and weaknesses. Assessment tools should provide the SLP with a picture of the patient\u2019s cognitive-communicative  strengths and weaknesses in the areas of language comprehension, language expression, working memory, declarative memory, and nondeclarative/procedural memory symptoms(9)Assess speech production and articulation to identify if the patient presents with apraxia or dysarthria; patients with VaD are likely to have decreased phonemic fluency and a flattening of pitch and intonation in spontaneous speech(15) -For detailed information on symptoms, assessment, and treatment of apraxia, please see Clinical Review\u2026Apraxia of Speech (Acquired) , referenced above -For detailed informationon symptoms, assessment, and treatment of dysarthria, see the series of Clinical Reviews on dysarthriaPatients with VaD are likely to demonstrate diminished grammatical complexity in sentence production.(15) Standardized tests can be used to assess components of language that are affected by cognitive-communication impairments, such as word finding, auditory comprehension, and reading and writing. Language tests designedAssesses linguistic expression, linguistic comprehension, verbal episodic memory, visuospatial construction, and mental status. The ABCD was standardized on individuals with Alzheimer\u2019s disease and Parkinson disease as well as on younger and older individuals without disabilities. This test can be used to perform the differential diagnosis, develop treatment goals, monitor changes in performance, and plan for discharge(18)Assesses individual strengths and weaknesses in the areas of attention, memory, executive functions, language, and visuospatial skills. The CLQT can be administered in 15 to 30 minutes and is available in English and Spanish(19)Tests that assess pragmatic and communication skills used in daily living (e.g., calling forAn assessment, rating, and inventory of the patient\u2019s functional communication skills (e.g., sign, nonverbal, augmentative)(20) Assesses the following areas of communication Writing, and Using Numbers; Social Interaction; Divergent Communication; Contextual Communication; Nonverbal Communication; Sequential Relationships; and Humor/Metaphor Absurdity(21)Assesses functional communication insocial communication; communication of basic needs; reading, writing, and number concepts; and daily planning(22)Measure of change in functional communicative ability. Assesses four domains Basic Need, Health Threat, Life Skills, and Social Need(23)",
+            "neurological examination": "",
+            "oral structure and oral motor function": "A motor speech evaluation should be performed if there are signs of coexisting oral or verbal apraxia (for detailed information on assessment and treatment of apraxia, see Clinical Review\u2026Apraxia ofT708586) \u2013Patients with dementia are at increased risk of poor oral health and poor oral hygiene(37)Assess impact of cognitive-linguistic  deficits on functional communication skills(17)",
+            "perception": "",
+            "arousal attention cognition": "A patient with VaD can experience cognitive, behavioral, and psychiatric impairments, including memory loss, poor attention, reduced executive functioning, poor insight, and impaired problem-solving  skills.(7,10,13,40) Working memory, procedural memory (memory required to perform daily activities such as making a sandwich), and episodic memory can all be impaired in patients with VaD.(15) Refer to psychological and cognitive evaluations to assist in informing course of treatment and providing a prognosis for therapy. Note that scores on cognitive tests that involve verbal responses may not be valid for persons with language impairments such as those associated with dementia. A complete evaluation should assess the patient\u2019s behavior during interactions, mood, thought content and process, insight and judgment, ability to orient, attention, memory, visuospatial abilities, verbal recall, and executive functioning. Additionally, the presence or absence of psychosis should be determined by a medicalTo assess cognitive status of adults. Sections include Orientation to Time, Orientation to Place, Registration, Attention and Calculation, Recall, Naming, Repetition, Comprehension, Reading, Writing, Drawing.(16) Although commonly used as a screening measure for cognitive impairment, the MMSE has been criticized for being insufficient in identifying visuospatial and executive function deficits in patients with VaD(41) 30-point  (normal score = 26+) screening measure for cognitive impairment; sections include visuospatial/executive functioning, naming, memory, attention, language, abstraction, delayed recall, and orientation. Available in over 40 languages.(42,48) In a study conducted in Japan with the Japanese version of the MoCA (MoCA-J),  researchers found that the MoCA-J  was superior to the MMSE for identifying vascular cognitive impairment in 12 patients with extensive leukoaraiosis (white matter lesions associated with stroke and dementia)(41)T708911",
+            "aac assessment": "",
+            "swallow examination": "Patients with dementia are at risk for swallowing and feeding problems.(4,10)For detailed information on the assessment and treatment of swallowing and feeding problems in patients with dementia see ClinicalDementia ; Topic ID Number",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve.For detailed information on assessment of patients with tracheostomies, see ClinicalAdults with Tracheostomy ; Topic ID Number tracheostomy tube and use of a speaking valve, see Clinical Review\u2026Passy-Muir  Tracheostomy & Ventilator SwallowingT708919"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with VaD who have dysphagia may be at risk for aspiration. Post feeding guidelines at bedside (as applicable) and educate family/staff about feeding status, if appropriate. If inpatient, discharge criteria should include patient and/or family independence with feeding strategies",
+                "Patients with VaD may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside (as applicable), if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Since dementia, including VaD, is progressive, an SLP must determine which patients are likely to benefit from treatment prior to initiating therapy. Being able to respond to cues, read, follow simple instructions, and engage in conversation are all indicators that a patient will be able to benefit from intervention(9,25)",
+                "The SLP should consider the patient\u2019s level of frustration and level of awareness during assessment and treatment so as not to offend or upset him or her",
+                "To determine relevance and appropriateness of treatment programs, decisions about goals and course of therapy should be made in collaboration with the patient, his or her caregivers, and other healthcare professionals.(26) It is highly recommended that family members be involved in the rehabilitation process as much as possible",
+                "The SLP should carefully consider the patient\u2019s stamina and medical status before beginning therapy",
+                "Cultural background, language preference, and patient interests must be considered when planning treatment goals and activities(27)",
+                "Treatment goals and objectives will shift with the progression of dementia(28)",
+                "Precautions will vary according to the individual patient and the severity of accompanying language, cognitive, behavioral, and/or motor symptoms",
+                "As with an evaluation, it is important to thoroughly review a patient\u2019s medical records prior to any treatment",
+                "Individuals with dementia become more and more of a safety risk to themselves and others as the dementia progresses. Impaired driving, wandering behavior, leaving stoves unattended, and accidents all pose safety risks for patients with dementia. The patient and his or her family must be made aware of safety risks and appropriate precautions beginning in the early stages of the disease and throughout the disease\u2019s progression(7)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols "
+            ]
+        },
+        "diagnosis need for treatment": "A fully trained and certified SLP is able to identify patients who are at risk for or who present with cognitive-communication  disorders, such as those communication disorders associated with VaD. An SLP is able to assess cognitive-communication disorders as well as plan and implement intervention(17)",
+        "rule out": "The patient\u2019s physician should rule out a number of other conditions that can cause cognitive, linguistic, or behavioral changes, including Huntington\u2019s disease, Parkinson disease, subdural hematoma, normal-pressure  hydrocephalus, brain tumor, delirium, systemic conditions known to cause dementia (e.g., hypothyroidism, vitamin B12 or folic acid deficiency, hypercalcemia, neurosyphilis, HIV infection), and major psychiatric disorders (e.g., schizophrenia, major depression, substance abuse).(10,12,13) Other types of dementia, such as Alzheimer\u2019s disease, dementia with Lewy bodies, and dementia associated with Parkinson disease, should also be identified or ruled out.(13)For detailed information on other types of dementia see the series of Clinical Review on dementia",
+        "prognosis": [
+            "In a study conducted in the United States with 766 adults aged 50+, researchers followed subjects for 30 years. Authors of this study reported that greater cognitive impairment was associated with poorer physical and functional mobility. Additionally, individuals in this study who developed VaD exhibited faster rates of physical decline than individuals with AD or those older adults with normal cognition(53)",
+            "Authors of an observational longitudinal study with 292 individuals with dementia (multiple different types) conducted in the United States reported that malnutrition was associated with greater overall impairmentover the course of 6 years as measured by the Clinical Dementia Rating\u2013Sum  of Boxes(51)"
+        ],
+        "referral to other disciplines": "Patients with dementia require the care of multiple disciplines, including but not limited to neurology, radiology, speech-language  pathology, physical therapy, occupational therapy, psychology, social work, and/or nutrition depending on their presenting symptoms",
+        "other considerations": [
+            "Families who receive education and support are likely to experience less caregiver stress, depression, and burnout. Treating a caregiver\u2019s psychological symptoms can decrease the need to transfer the patient with dementia to a skilled nursing facility(7)",
+            "Since patients with dementia have decreased cognitive reserve, they are at increased risk for acute cognitive or functional decline should a new illness (e.g., congestive heart failure, infection) develop. Therefore, comorbid diseases should be effectively prevented or immediately treated(10)",
+            "Environmental triggers such as insufficient or excessive sensory stimulation might lead to increased agitation and/or aggressive behaviors. Insufficient sensory stimulation includes poor daytime lighting, while excessive sensory stimulation includesintenseactivity in the environment. Environmental stimuli should be adjusted as needed(12)"
+        ],
+        "treatment summary": [
+            "Direct intervention techniques used when working with patients with dementia that are supported by research include, but are not limited to, spaced-retrieval  training, reminiscence, Montessori-based activities, and the use of graphic and written cues in memory wallets and books(9)",
+            "Authors of a systematic review of 11 trials of cognitive training and 1 trial of cognitive rehabilitation found no evidence for the efficacy of cognitive training on cognitive functioning, mood, or ADLs in individuals with mild to moderate Alzheimer\u2019s disease or VaD; however, the quality of the studies in the review was not high.(38) The trial of cognitive rehabilitation indicated that there were potential benefits of one-on-one  cognitive rehabilitation for ADL functioning in individuals with mild Alzheimer\u2019s disease(38)",
+            "Authors of a review of the literature described a number of techniques successfully used with patients with dementia.(29) Although some research focuses specifically on patients with Alzheimer\u2019s disease, much research involves subjects with dementia resulting from a variety and/or combination of diseases (e.g., VaD, dementia with Lewy bodies, Alzheimer\u2019s disease). Research and/or literature reviews focusing exclusively on patients with Alzheimer\u2019s disease are not included in this summary \u2013Repeated exposure: spaced retrieval training (SRT) -In SRT, a patient is expected to make a target response (e.g., identify the time for lunch) over gradually increasing increments of time. If the patient recalls the target information incorrectly, the therapist provides the correct response  and then asks the patient to repeat it. If the patient recalls the target information correctly, the increment of time before the patient is asked to repeat the information is increased(29) -Advantages of SRT include: 1) SRT can be embedded in other tasks (e.g., having a conversation), and 2) SRT can be used to target both verbal and nonverbal responses (e.g., recalling a patient\u2019s room location or demonstrating swallow safety precautions)(29) -SRT is supported by extensive research and has been shown to be effective when used in patients with Alzheimer\u2019s disease as well as patients experiencing AIDS-related  dementia(29,30) -In a study conducted in the United States involving 66 patients with dementia, researchers examined the effects of SRT on patients\u2019 ability to master communication goals. Patients who received SRT were found to be more likely to master treatment goals than those receiving therapy based upon \u201cbest practice\u201d procedures. During two follow-up evaluations (1 week post intervention and 4months post intervention), patients who received SRT maintained their mastery of communication goals better than patients in the \u201cbest practice\u201d group(30) -Authors of a published systematic review of the literature (13 studies reviewed) found that a majority of patients participating in SRT \u201clearned some or all of the target information and behaviors being taught\u201d(31) -In a published study conducted in Germany comparing word-list  learning skills of healthy young controls, older healthy controls, and patients with VaD, researchers found that although the patients with VaD performed significantly worse in delayed recall tasks (recalling the words on the initial word list) as compared to the controls, these patients were able to recall words with a negative emotional connotation (e.g., \u201cmisery\u201d) significantly better than emotionally neutral words (e.g. \u201cjoint\u201d)(32) \u2013Repeated exposure: quizzes -Published research has shown increases in category naming and recall of personal biographical information when patients participated in intervention combining repeated exposure and quizzes(29) -The repeated exposure requires the patient to use effort to generate a response, while the quiz is structured to constrain the set of possible answers (i.e., multiple choice questions), thus prompting a more directed search of episodic memory and reducing the potential for incorrect (error) responses(29) \u2013Errorless learning (EL) -Intervention using EL attempts to prevent patients from making mistakes while they are learning a new skill or acquiring new information(29) -Patients are asked not to guess when they do not know the correct response; however, cues and forced-choice recognition limit the number of possible patient responses(29) -Authors of a review of the literature found that errorless learning has been beneficial in teaching patients with dementia the names of persons, personal biographical information, how to use a calendar, how to use an electronic memory aid, and new face-name  associations(29)",
+            "Direct attention training: exercises that specifically target attention skills and require the patient to attend to stimuli of increasing complexity(36) \u2013Authors of a case study with a 58-year-old  male subject found that following 10 weeks of intensive, structured, direct attention training with a modified version of the Attention Process Training \u2013 II (APT-II),  the patient had significant positive changes on posttreatment measures of attention. Additionally, the patient had increased confidence in his cognitive skills. All of these changes were maintained at a follow-up  session at 8 months posttreatment(17)",
+            "Group reminiscence therapy (RT)(33) \u2013Patient recalls personal experiences from the past \u2013The SLP facilitates communication while the patient is recalling past experiences and uses reminiscence therapy to increase the patient\u2019s social engagement \u2013The patient is required to activate several cognitive systems, such as attention, semantic memory, and episodic memory \u2013The patient is required to use language associated with recalled concepts, events, and feelings \u2013Authors of a systematic review of the literature found preliminary evidence for the positive effects of RT when used with patients with dementia.(33) Positive outcomes included: -Patients display small improvements in global cognitive functioning -Patients contribute more to conversations during reminiscence group activities -Patients improve their ability to produce verbal and narrative aspects of discourse during reminiscence group activities  -Patients improve their ability to remember information related to topics presented during reminiscence therapy",
+            "Environmental modifications \u2013Speech-language  intervention should focus on teaching the patient ways to retain effective communication skills, providing compensatory strategies, and stabilizing the patient\u2019s environment. A patient\u2019s environment can be stabilized by establishing a routine and by reducing environmental distractions. Objects and topics that the patient encounters in daily life should be integrated into cognitive-communication  therapy(28) \u2013Patients with temporal-spatial  disorientation frequently experience confusion and agitation. Environmental cues such as posting the date, making familiar objects visible, and displaying pictures of loved ones can help to reassure and redirect patients who experience these symptoms(12) \u2013Each patient\u2019s environment should be assessed to confirm that it is safe and secure(13)",
+            "Family/caregiver training \u2013Patients, families, caregivers, and staff should be educated on the proper use of environmental and behavior modification techniques to support the patient\u2019s target behavior(12) \u2013Family, caregivers, and staff should be educated on ways to use gesture, visual cues, and a reduced speech rate to increase their ability to effectively communicate with a person with dementia(28)",
+            "Research in the area of cognitive psychology provides a set of principles that can be applied to patients with dementia and used to foster encoding, storage, and retrieval of information during the learning process. Although research supporting the use of these principles has primarily involved patients with Alzheimer\u2019s disease, the principles might benefit patients experiencing memory impairments resulting from other types of dementia. These principles include:(29) \u2013Repetition is beneficial/use of priming: Patients with dementia profit from repetition. Repetition can help these patients relearn forgotten information or learn new information. Authors of a literature reviewfound research that providing patients with Alzheimer\u2019s disease with repeated opportunities to recall information is more beneficial than repeatedly presenting them with information.(29) Priming is the practice of repeatedly activating related concepts, thus strengthening memory traces. Information that is primed is more accessible and more quickly retrieved \u2013Patients should be actively involved in learning: When a patient generates a response, he or she is required to use greater effort than when required to only watch or listen. Since generating a response is more effortful, it requires patients to process information more deeply and creates a more long-lasting  memory trace \u2013Error responses should be avoided: Patient errors should be avoided because every time the patient repeats an error, the error response is strengthened. EL techniques attempt to reduce patient errors by providing the patient with cues during retrieval in order to limit the number of possible responses and limit guessing when the patient does not know the correct response \u2013Focus on single rather than multiple tasks: Patients who present with divided attention deficits should not be asked to perform multiple tasks or processes concurrently \u2013Use cues to facilitate recall: Cues, such as providing the first letter of a name the patient is trying to recall, can refine the patient\u2019s search of his or her episodic memory. Such cues can be used to facilitate information recall or to decrease undesirable behaviors",
+            "The different types of dementia have different neuropathologies and affect cognitive-communication  skills in a variety of ways. Therefore, treatment should focus on increasing a patient\u2019s reliance on spared cognitive systems while decreasing his or her reliance on impaired systems(25)",
+            "Therapy should focus on strengthening knowledge and cognitive processes that show the potential for improvement(9)",
+            "As the dementia progresses, intervention should be modified to meet the patient\u2019s and caregivers\u2019 needs.(28) Treatment can occur in an outpatient setting, day care, assisted living environment, or skilled nursing facility(13)",
+            "When serving patients with dementia, therapy might include \u201cdirect interventions\u201d (e.g., providing speech-language-cognitive intervention directly to the patient) or \u201cindirect interventions\u201d (e.g., caregiver training, environmental modifications)(9)",
+            "Caregivers should receive training in all direct intervention techniques so that they can use these techniques when the patient is discharged from the treatment program, or in order to supplement ongoing treatment(9)",
+            "Although direct treatment is not appropriate for all patients with dementia, indirect intervention (especially caregiver training) is appropriate during all the stages of dementia for all patients(9) ",
+            "Daily routines and the patient\u2019s living environment should be incorporated into treatment plans in order to address functional communication needs(9) . Problem Goal Intervention Expected Progression Home Program Impairedability to learn new information; poor retention of informationImprove ability to learn new information; improve ability to retain informationRepeated exposure _ Spaced retrieval training (SRT)(29) _ _ Quizzes(29) _ _ See Treatment summary , aboveFor SRT: the patient is asked to recall specific information after increasingly longer periods of timeThis technique can be used to teach functional skills such as using a calendar for self- cuing of the date and medication schedules. Use of this technique can be carried over in the home Poor recall of informationImprove patient\u2019s ability to learn a new skill or acquire new informationErrorless learning   (29) _ Therapists present information or procedures in ways that minimize the likelihood that the patient will give an incorrect response. Patients are instructed not to guess when responding, and therapists provide cues and forced-choice recognition tasks in order to prevent errors. Can be combined with SRT to maximize gains in therapy _ _ See Treatment summary , aboveSLP will slowly increase the difficulty of the task while maintaining a support structure (of cues and prompts) that will eliminate or minimize errorsThis technique can be used to recall functional information Speech and language impairment _Improved functional communicationAphasia therapy _ See the series Clinical Reviewson aphasia for detailed information _ Apraxia/dysarthria therapy _ See the series of Clinical Reviews on motor speech disorders for detailed information _Progression of therapy tasks will vary according to the exact nature of speech and language impairment. Typically, therapeutic activities progress from more simple contexts (e.g., words) to more complex contexts (e.g., conversation) in a stepwise manner _To be determined by the treating SLP; home practice tasks are often assigned as a means of increasing carryover from therapy sessions  ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "increased use of intact cognitive skills to supplement skills that are declining": [
+            "ABCD",
+            "MoCA"
+        ],
+        "improved maintained functional communication": [
+            "Communicative Effectiveness Index",
+            "ASHA-FACS",
+            "CADL-2",
+            "FCP-R",
+            "CLQT"
+        ],
+        "improved mood reduced maladaptive behaviors": [],
+        "increased participation in social, vocational, and avocational activities": [],
+        "increased maintained independence": [],
+        "increased communication with external support": [],
+        "effective external modifications": [],
+        "family education regarding dementia and communicating more effectively with the patient": [],
+        "patient education to increase patient\u2019s awareness of target behaviors": [],
+        "improved quality of life": [
+            "Quality of life scales, social participation indices, or ratings of communicative effectiveness(24)"
+        ]
+    },
+    "maintenance or prevention": [
+        "The risk of developing VaD might be reduced by: Maintaining a healthy blood pressure; use of antihypertensive medication(1,6,11,34) Maintaining normal cholesterol levels(1,34) Preventing or effectively managing diabetes(1,34,54) Smoking cessation(1,34)",
+        "Activities that improve or maintain cardiovascular health, including following a healthy diet, limiting alcohol consumption, and engaging in regular physical exercise, are important for brain protection and are thought to help prevent VaD(5) In a matched case-control  study conducted in the United States with 205 subjects with dementia and 205 age-and gender-matched  control subjects, researchers found that current moderate alcohol use had a slight protective effect against VaD; this effect was stronger for subjects under age 80.(35) Previous alcohol exposure/use was not associated with a protective effect",
+        "Clinic-based  treatment should be eventually transferred to home-based routines so that the patient and caregivers can continue treatment independently"
+    ],
+    "patient education": [
+        "The following organizations provide patient education material on VaD: The Mayo Clinic: http://www.mayoclinic.com/health/vascular-dementia/DS00934 Alzheimer\u2019s Association: http://www.alz.org/dementia/vascular-dementia-symptoms.asp Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Mayo Clinic staff. Vascular dementia. MayoClinic.com  Web site. http://www.mayoclinic.com/health/vascular-dementia/DS00934 . Accessed May 17, 2017. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "NINDS Multi-infarct  dementia information page. National Institute of Neurological Disorders and Stroke Web site. https://www.ninds.nih.gov/Disorders/All-Disorders/Multi-Infarct-Dementia-Information-Page . Accessed May 17, 2017. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Staekenborg SS, Su T, van Straaten EC. Behavioural and psychological symptoms in vascular dementia; differences between small- and large-vessel  disease. J Neurol Neurosurg Psychiatry . 2010;81(5):547-551.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Suh MK, Kim H, Na DL. Dysphagia in patients with dementia: Alzheimer versus vascular. Alzheimer Dis Assoc Disord . 2009;23(2):178-184.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Kalaria RN. Vascular basis for brain degeneration: faltering controls and risk factors for dementia. Nutr Rev. 2010;68 Suppl 2:S74-S87.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Sharp SI, Aarsland D, Day S, S\u00f8nnesyn H, Ballard C. Hypertension is a potential risk factor for vascular dementia: systematic review. Int J Geriatr Psychiatry . 2011;26(7):661-669.  (SR)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Fong TG. Alzheimer's disease. In: Ferri FF, ed. 2016 Ferri's Clinical Advisor: 5 Books in 1 . Philadelphia: Mosby Elsevier; 2016:95-96.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Nordlund A, Rolstad S, G\u00f6thlin M, Edman A, Hansen S, Wallin A. Cognitive profiles of incipient dementia in the Goteborg MCI study. Dement Geriatr Cogn Disord . 2010;30(5):403-410.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Practice Portal: Dementia. American Speech-Language-Hearing  Association Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Dementia/ . Accessed May 17, 2017. (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Johnston CB, Harper GM, Landefeld CS. Geriatric disorders. In: McPhee SJ, Papadakis MA, eds. 2015 Current Medical Diagnosis & Treatment . 54th ed. New York: McGraw-Hill  Medical; 2015:57-60.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Shah K, Qureshi SU, Johnson M, Parikh N, Schulz PE, Kunik ME. Does use of antihypertensive drugs affect the incidence or progression of dementia? A systematic review. Am J Geriatr Pharmacother . 2009;7(5):250-261.  (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "What is vascular dementia? Alzheimer\u2019s Society Web site. https://www.alzheimers.org.uk/info/20007/types_of_dementia/5/vascular_dementia . Accessed May 17, 2017. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Patel BB, Holland NW. Dementia, Vascular. In: Domino FJ, Baldor RA, Golding J, Stephens MB, Maloney M, Ceci L, eds. The 5-Minute Clinical Consult Standard 2016 . 24th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2016:276-277.  (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kiran S, Sandberg C, Gray T, Ascenso E, Kester E. Rehabilitation in bilingual aphasia: evidence for within- and between-language  generalization. Am J Speech Lang Pathol . May 2013;22(2):S298-309.  doi:10.1044/1058-0360(2013/12-0085).  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Reilly J, Rodriguez AD, Lamy M, Neils-Strunjas  J. Cognition, language, and clinical pathological features of non-Alzheimer's  dementias: an overview. J Commun Disord . 2010;43(5):438-452.  (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Folstein MF, Folstein SE, Fanjiang G. Mini-Mental  State Examination: Clinical Guide . Lutz, FL: Psychological Assessment Resources; 2001. (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Working Group on Cognitive-Communication  Disorders of ASHA's Special Interest Division I, Language Learning and Education; and Division 2, Neurophysiology and Neurogenic Speech and Language Disorders. Roles of speech-language  pathologists in the identification, diagnosis, and treatment of individuals with cognitive-communication disorders: position statement. American Speech-Language-Hearing  Association Web site. http://www.asha.org/policy/PS2005-00110/ . Accessed May 17, 2017. (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Bayles KA, Tomoeda CK. The Arizona Battery for Communication Disorders of Dementia . Tucson, AZ: Canyonlands; 1993. (PP)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Helm-Estabrooks  N. Cognitive Linguistic Quick Test: Examiner's Manual . San Antonio, TX: Psychological Corp; 2001. (PP)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Kleiman LI. Functional Communication Profile-Revised:  Assessing Communicative Effectiveness in Clients with Developmental Delays . East Moline, IL: LinguiSystems; 2003. (PP)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Holland AL, Frattali CM, Fromm D. CADL-2. Communicative Abilities of Daily Living . East Moline, IL: LinguiSystems; 1999. (PP)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Frattali C; American Speech and Hearing Association. Functional Assessment of Communication Skills for Adults (ASHA FACS) . Rockville, MD: ASHA; 1995. (PP)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Lomas J, Pickard L, Bester S, Elbard H, Finlayson A, Zoghaib C. The Communicative Effectiveness Index: development and psychometric evaluation of a functional communication measure for adult aphasia. J Speech Hear Disord . 1989;54(1):113-124.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Simmons-Mackie  N, Threats TT, Kagan A. Outcome assessment in aphasia: a survey. J Commun Disord . 2005;38(1):1-27.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Bayles KA, Tomoeda CK. Improving Function In Dementia And Other Cognitive-Linguistic  Disorders: Guide and Resource Book . Tucson, AZ: Canyonlands; 1997. (G)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Simmons-Mackie  N, Kagan A. Application of the ICF in aphasia. Semin Speech Lang . 2007;28(4):244-253.  (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Cultural Competence. American Speech-Language-Hearing  Association Web site. http://www.asha.org/Practice-Portal/Professional-Issues/Cultural-Competence/ . Accessed May 17, 2017. (GI)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Ashley J, Duggan M, Sutcliffe N. Speech, language and swallowing disorders in the older adult. Clin Geriatr Med . 2006;22:291-310.  (GI)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Mahendra N. Direct interventions for improving the performance of individuals with Alzheimer's disease. Semin Speech Lang . 2001;22(4):291-304.  (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Malone ML, Skrajner MJ, Camp CJ, Neundorfer M, Gorzelle GJ. Research in practice II: spaced retrieval, a memory intervention. Alzheimers Care Q . 2007;8(1):65-74.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Hopper T, Mahendra N, Kim E. Evidence-based  practice recommendations for working with individuals with dementia: spaced-retrieval  training. J Med Speech Lang Pathol . 2005;13(4):xxvii-xxxiv.  (RV)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Billino J, Luerssen J, von Renteln-Kruse  W, M\u00fchlhan C, R\u00f6sler A. Effects of subcortical vascular ischemic dementia and aging on negative and neutral word list learning. Dement Geriatr Cogn Disord . 2011;31(3):188-194.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Kim ES, Cleary SJ, Hopper T. Evidence-based  practice recommendations for working with individuals with dementia: group reminiscence therapy. J Med Speech Lang Pathol . 2006;14(3):xxiii-xxxiv.  (RV)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Price RS, Keady J. Systematic review: role of health promotion in vascular dementia. J Nurs Healthc Chronic Illn . 2010;2(2):88-101.  (SR)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Takahashi PY, Caldwell CR, Targonski PV. Effect of alcohol and tobacco use on vascular dementia: a matched case control study. Vasc Health Risk Manag . 2011;7:685-691. doi:10.2147/VHRM.S26194. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Mayer JF, Bishop LA, Murray LL. The feasibility of a structured cognitive training protocol to address progressive cognitive decline in individuals with vascular dementia. Am J Speech Lang Pathol . 2012;21(2):167-179.  doi:10.1044/1058-0360(2012/11-0066.  (C)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Syrj\u00e4l\u00e4 AH, Yl\u00f6stalo P, Ruoppi P, et al. Dementia and oral health among subjects aged 75 years or older. Gerontology . 2012;29(1):36-42.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Bahar-Fuchs  A, Clare L, Woods B. Cognitive training and cognitive rehabilitation for mild to moderate Alzheimer's disease and vascular dementia. Cochrane Database Syst Rev. 2013;(6):CD003260. doi:10.1002/14651858.CD003260.pub2.  (SR)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Ech\u00e1varri C, Burgmans S, Uylings H, et al. Neuropsychiatric symptoms in Alzheimer's disease and vascular dementia. J Alzheimers Dis . 2013;33(3):715-721. doi:10.3233/JAD-2012-121003.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Honda Y, Meguro K, Meguro M, Akanuma K. Social withdrawal of persons with vascular dementia associated with disturbance of basic daily activities, apathy, and impaired social judgment. Care Manag J . 2013;14(2):108-113.  (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Ihara M, Okamoto Y, Takahashi R. Suitability of the Montreal Cognitive Assessment versus the Mini Mental State Examination in detecting vascular cognitive impairment. J Stroke Cerebrovasc Dis . August 2013;22(6):737-41.  doi:10.1016/j.jstrokecerebrovasdis.2012.01.001. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Nasreddine Z. Montreal Cognitive Assessment. http://www.mocatest.org/ . Accessed May 17, 2017. (PP)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Imfeld P, Brauchli Pernus YB, Jick SS, Meier CR. Epidemiology, co-morbidities,  and medication use of patients with Alzheimer's disease or vascular dementia in the UK. J Alzheimers Dis . 2013;35(3):565-73.  doi:10.3233/JAD-121819.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Kim HJ, Moon WJ, Han SH. Differential cholinergic pathway involvement in Alzheimer's disease and subcortical ischemic vascular dementia. J Alzheimers Dis . 2013;35(1):129-36.  doi:10.3233/JAD-122320.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Cao H, Wang Y, Chang D, Zhou L, Liu J. Acupuncture for vascular mild cognitive impairment: a systematic review of randomised controlled trials. Acupunct Med . December 2013;31(4):368-74.  doi:10.1136/acupmed-2013-010363.  (M)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Major and mild neurocognitive disorders. In: Diagnostic and Statistical Manual of Mental Disorders: DSM 5 . 5th ed. Arlington, VA: American Psychiatric Publishing; 2013:602-618.  (G)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Foster V, Oakley AE, Slade JY, et al. Pyramidal neurons of the prefrontal cortex in post-stroke,  vascular and other ageing-related  dementias. Brain. September 2014;137(Pt 9):2509-21.  doi:10.1093/brain/awu172. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Dong Y, Slavin MJ, Chan BP, et al. Improving screening for vascular cognitive impairment at three to six months after mild ischemic stroke and transient ischemic attack. Int Psychogeriatr . May 2014;26(5):787-93.  doi:10.1017/S1041610213002457. (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Song J, Lee WT, Park KA, Lee JE. Association between risk factors for vascular dementia and adiponectin. Biomed Res Int . 2014;2014:261672. doi:10.1155/2014/261672. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Barrie M. Dealing with patients with concurrent dementia and urinary incontinence. J Community Nurs . 2016;30(3):37-43.  (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Sanders C, Behrens S, Schwartz S, et al. Nutritional Status is Associated with Faster Cognitive Decline and Worse Functional Impairment in the Progression of Dementia: The Cache County Dementia Progression Study. J Alzheimers Dis . February 27, 2016;52(1):33\u201342.  doi:10.3233/JAD-150528.  (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Lu ZK, Li M, Yuan J, Wu J. The role of cerebrovascular disease and the association between diabetes mellitus and dementia among aged Medicare beneficiaries. Int J Geriatr Psychiatry . January 2016;31(1):92-8.  doi:10.1002/gps.4293. (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Tolea MI, Morris JC, Galvin JE. Trajectory of Mobility Decline by Type of Dementia. Alzheimer Dis Assoc Disord . 2016;30(1):60-6.  doi:10.1097/WAD.0000000000000091. (R)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Cholerton B, Baker LD, Montine TJ, Craft S. Type 2 Diabetes, Cognition, and Dementia in Older Adults: Toward a Precision Health Approach. Diabetes Spectrum . November 2016;29(4):210-219.  doi:10.2337/ds16-0041.  (R)"
+        }
+    ]
+}

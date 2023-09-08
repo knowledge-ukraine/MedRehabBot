@@ -1,0 +1,471 @@
+{
+    "metadata": {
+        "title": "Alzheimer\u2019s Disease",
+        "synonyms": [
+            "alzheimer disease",
+            "alzheimer's dementia",
+            "major neurocognitive disorder (ncd) due to alzheimer\u2019s disease",
+            "minor ncd due to alzheimer\u2019s disease"
+        ],
+        "anatomical location body part affected": [
+            "Brain/global cortical degeneration"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "home health"
+        ],
+        "description": [
+            "Alzheimer\u2019s disease (AD) is a neurodegenerative brain disease characterized by a progressive decline in executive function (i.e., cognition, memory) and physical functioning in daily life(1)",
+            "In 2011, the National Institute on Aging and Alzheimer\u2019s Association (NIA-AA) revised clinical diagnostic criteria for AD. The updated guidelines describe three stages of AD(36) \u2013Preclinical: No significant clinical symptoms are present. Brain changes, including amyloid buildup and other nerve cell changes, may already be in progress \u2013Mild cognitive impairment (MCI): Symptoms are present of memory and/or other thinking problems that do not yet interfere with the person\u2019s independence but are more than normal for the person\u2019s age and education. Persons with MCI may or may not progress to Alzheimer\u2019s dementia. Brain changes are present \u2013Alzheimer\u2019s dementia: The final stage of the disease. Symptoms such as memory loss, word-finding  difficulties, and visual/spatial problems are significant enough to impair a person\u2019s ability to function independently. Brain changes are present",
+            "Alzheimer's disease is thought to begin 20 years or more before symptoms arise(35)",
+            "The estimated number of persons in the world with AD is 46 million and by 2050 is projected to reach 131.5 million. In the United States the estimated number of Americans aged 65 and older with AD is 5.8 million. By 2050, this may grow to 13.8 million(35)",
+            "There currently is no cure for AD. Focus should be on the prevention of AD before it fully manifests. Exercise is one of these preventive measures",
+            "Increasing physical activity may reduce pathogenic changes in the early stage of AD, have a positive effect on cognitive function, and help to maintain ability to perform ADLs(34,37,38) \u2013Please see Clinical Review Alzheimer\u2019s Disease and Exercise , CINAHL Topic ID Number: T902776 for more information",
+            "Cognitive impairment in older adults is associated with impaired gait mechanics (i.e., reduced stepping accuracy and reduced stride length, speed, and cadence) that increase the risk of falls.(19)As in other neurocognitive disorders, a feature of AD is aimless or purposeless ambulation (i.e., \u201cwandering\u201d), which also increases the risk of falls and other injuries.(20)Functional training may thus help to prevent falls in persons with AD(2,3,4)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G30": {
+                "base": "Alzheimer's disease",
+                "G30.0": "Alzheimer's disease with early onset",
+                "G30.1": "Alzheimer's disease with late onset",
+                "G30.8": "other Alzheimer's disease",
+                "G30.9": "Alzheimer's disease, unspecified"
+            },
+            "F00": {
+                "base": "dementia in Alzheimer's disease [used with G30 code]",
+                "F00.0": "dementia in Alzheimer's disease with early onset",
+                "F00.1": "dementia in Alzheimer's disease with late onset",
+                "F00.2": "dementia in Alzheimer's disease, atypical or mixed type",
+                "F00.9": "dementia in Alzheimer's disease, unspecified"
+            },
+            "F03": "unspecified dementia",
+            "F05.1": "delirium superimposed on dementia",
+            "F06.7": "mild cognitive disorder",
+            "F19.7": "mental and behavioral disorders due to multiple drug use and use of other psychoactive substances with residual and late-onset  psychotic disorder (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Gradual progressive impairment in cognition and memory that interferes with function and ADLs",
+            "Symptoms at early stages before diagnostic criteria are met include increased anxiety and depressive symptoms; apathy and withdrawal; and changes in sleep",
+            "Later-stage  symptoms include impaired judgment, disorientation, confusion, aggression, agitation, wanderingoff, and other behavior changes; and delusions, hallucinations, visual agnosia (inability to recognize familiar objects or persons), expressive aphasia, and other neuropsychiatric changes(1,40)",
+            "Changes in appetite/eating behavior and nighttime mood disturbances (e.g., \u201csundowning\u201d) are also common(7) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Take note of any recent medical or pharmacological changes that may contribute to a change in mental status or cognitive functioning (e.g., urinary tract infection, depression, medication changes)",
+            "Ensure commands or inquiries are kept simple and concise",
+            "Monitor patient agitation level throughout exam and cut assessment short if necessary, as indicated by the patient\u2019s tolerance ",
+            "Avoid leaving patients unsupervised(29)",
+            "Avoid overstimulating a patient, as this may exacerbate abnormal behavior or psychological symptoms(29)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Etiology is unknown in most patients",
+            "Early-onset  AD is a rare type of familial AD. It is caused by mutations in the amyloid precursor protein, presenilin 1, orpresenilin 2 genes. A person who inherits any of these mutations will likely develop AD before age 65. Genetic testing isrecommended for families with a history of early-onset  AD(36)",
+            "Late-onset  AD is the more common form of the disease. The major genetic risk factor isthe apolipoprotein\u2010e4 (APOE\u2010e4) gene. However, carrying this allele does not mean the person will automatically develop AD. Genetic testing is notrecommended(36)",
+            "Oxidative imbalance and abnormal processing of beta-amyloid  protein in the brain are implicated as predisposing factors(1)",
+            "Overproduction of beta-amyloid  in the brains of persons with Down syndrome is felt to cause AD. Most persons withDown syndrome who survive to their 40s develop AD(1)"
+        ],
+        "pathogenesis": [
+            "Brain changes have been associated with AD in postmortem evaluation. Beta-amyloid plaques, accumulation of anabnormal form of the protein tau (called tau tangles), and brain atrophy and inflammation may be present(35)\u2013The accumulation of beta-amyloid  plaques and smaller beta-amyloid  oligomers may contribute to the damage and deathof neurons by interfering with neuron-to-neuron  communication at synapses\u2013Tau tangles block the transport of nutrients and other essential molecules inside neurons\u2013The presence of the toxic beta-amyloid  and tau proteins is believed to activate immune cells in the brain called microglia.Chronic inflammation persists when microglia are unable to sufficiently clear the toxic mediators\u2013Atrophy of the brain can occur due to cell loss\u2013Normal brain function is further compromised in AD by decreases in the brain's ability to metabolize glucose, its mainfuel"
+        ],
+        "risk factors": [
+            "Age\u2013The percentage of persons with AD increases dramatically with age: 3% of persons ages 65\u201374,  17% of persons ages75\u201384,  and 32% of personsaged 85 or older have Alzheimer's dementia(35)",
+            "Genetics\u2013The APOE\u2010e4 gene is the gene with the strongest impact on risk of late\u2010onset AD\u2013A mutation of any of three specific genes: the gene for the amyloid precursor protein (APP) and the genes for thepresenilin 1 and presenilin 2 proteins. Those inheriting an Alzheimer's gene mutation have an extremely high likelihoodof developing the disease if they live a normal life span",
+            "Family history\u2013Having one parent or sibling with AD increases one\u2019s risk and having more than one parent or sibling increases the riskfurther",
+            "Modifiable risk factors\u2013Sedentary lifestyle, cardiovascular risk factors (especially diabetes, obesity, smoking, and hypertension), poor nutrition,lower educational level",
+            "Social factors\u2013Isolation, decreased cognitive stimulation",
+            "Traumatic brain injury (TBI)",
+            "Trisomy in Down syndrome",
+            "Low total daily physical activity(9)\u2013Based on a prospective study of older persons (mean age, 82 years) without dementia (n = 716) who underwent objectivemeasurements of physical activity (actigraphy) and tests of cognitive function at baseline\u2013Nonexercise activities included cooking, washing dishes, and general cleaning\u2013At follow-up  of 3.5 years, 10% (n = 71) had developed AD\u2013Individuals with a higher level of total (exercise and nonexercise) daily physical activity had significantly reduced risk ofAD and global cognitive decline. Persons in the bottom 10% of physical activity intensity were 2.8 times more likely todevelop AD as persons in the top 10%"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Principles of brain-activating  rehabilitation (BAR) can help reduce patients\u2019 confusion, agitation, and disorientation, as well as provide a structure for caregiver support.(5) These include the following: Enjoyable and comfortable activities based on errorless performance in an accepting atmosphere Activities associated with empathetic two-way  communication between the therapist and patient, as well as between patients Giving praise to patients to enhance motivation Offering some social role to each patient that takes advantage of their remaining abilities",
+        "The therapist should make eye contact with the patient, speak clearly and slowly, and introduce themselves by name",
+        "A calm, reassuring demeanor can facilitate a positive interaction with the patient",
+        "Caregiver interviews may be necessary, as the patient may be unable to provide information accurately, especially in more advanced cases of AD",
+        "The caregiver may also benefit from education(5)",
+        "Signs of elder abuse should be noted and reported as indicated",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Take note of any recent medical or pharmacological changes that may contribute to a change in mental status or cognitive functioning (e.g., urinary tract infection, depression, medication changes)",
+            "Ensure commands or inquiries are kept simple and concise",
+            "Monitor patient agitation level throughout exam and cut assessment short if necessary, as indicated by the patient\u2019s tolerance ",
+            "Avoid leaving patients unsupervised(29)",
+            "Avoid overstimulating a patient, as this may exacerbate abnormal behavior or psychological symptoms(29)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was AD diagnosed? How has the disease progressed, gradually or with sudden bursts of decline? What are the patient\u2019s main symptoms? For what specific reason is the patient referred for therapy?",
+                "course of treatment": {
+                    "medical management": "The mainstay of treatment is supportive. In most cases as symptoms progress, patients eventually require assisted living arrangements or care in a nursing home",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Determine what medications the clinician has prescribed; are they being taken, and are they helping symptoms? The first treatment to target the fundamental pathophysiology of AD was granted accelerated U.S. FDA approval in adults in June 2021. Patients receiving aducanumab in trials had a significant reduction of amyloid beta plaque compared to controls, who had no reduction of amyloid beta plaque. This approval in the U.S was controversial. Although early results showed aducanumab lowered amyloid beta plaque there was not clear evidence that there was a clinical benefit to patients.In December 2021 the European Medicines Agency did not approve aducanumab for use in the European Unionbecause of the lack of scientific evidence. More research is needed to prove its effectiveness(39,51) Medications approved by the U.S. FDA include rivastigmine, galantamine, donepezil, memantine, and memantine combined with donepezil. All except memantine work to increase the level of neurotransmitters in the brain and thereby improve cognition, but effectiveness varies. Memantine blocks certain receptors in the brain from excess stimulation that can damage nerve cells(56) Antipsychotic drugs can be used to treat the symptoms of hallucinations, aggression, and agitation. However, these must be used with caution because they are associated with an increased risk of stroke and death in persons with AD. They are not widely recommended(35)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Diagnosis of AD is generally based on exclusion. Consequently, tests are usually conducted to rule out other causes of dementia",
+                        "Brain scans can identify progressive atrophic changes associated with AD(1)",
+                        "Clinicians may refer to DSM-5  criteria for diagnosing AD(24)",
+                        "Key points include that there is insidious onset and gradual progression of impairment in one or more cognitive domains (for major NCD, at least two domains must be impaired; for minor NCD, at least one domain must be impaired)",
+                        "For major NCD, \u201cprobable AD\u201d is diagnosed if either of the following is present (otherwise \u201cpossible AD\u201d is diagnosed):",
+                        "Evidence of causative AD genetic mutation from family history or genetic testing",
+                        "All three of the following: decline in memory, steady progressive decline in cognition, and no evidence of mixed etiology (i.e., AD cannot be diagnosed in the presence of other neurodegenerative or cerebrovascular disease or another neurological, mental, or systemic condition that can contribute to cognitive decline)",
+                        "Many persons with AD are older adults with multiple comorbidities. When a comorbid condition contributes to NCD in an individual with AD, NCD due to multiple etiologies should be diagnosed",
+                        "Recently there has been a paradigm shift in the diagnosis of AD, based on current evidence suggesting that structural and biological changes start to occur during a preclinical phase beginning decades before the emergence of clinical symptoms(30)",
+                        "The concept of AD as a pathophysiological continuum has been adopted by the NIA-AA.Three  stages have been identified: preclinical AD, minimal cognitive impairment (MCI) due to AD (or \u201cprodromal AD\u201d), and AD dementia",
+                        "In this concept, diagnosis is linked to the presence of biomarkers (e.g., specific proteins in cerebrospinal fluid), which provide additional proof of diagnosis in the absence of clinical manifestations",
+                        "Standardization of the use of biomarkers for different purposes needsimprovement(30)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether they help  Relaxation techniques (e.g., massage, aromatherapy, music) may be used to improve symptoms in patients who worsen when frustrated or anxious Authors of a systematic review and meta-analysis  (N = 1855) investigated the effects of Chinese herbal medicine (CHM) on cognitive function and ADLs in patients with AD(41) Twenty-five  RCTs were included.Results of the meta-analysis  found that CHM improved cognitive and ADL function compared to conventional drugs However, there was a high risk of bias in the studies and more studies are needed to make a recommendation on the efficacy of CHM",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Identify situations that either increase or decrease the patient\u2019s agitation level; often the primary caregiver can best provide this type of information",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms (e.g., mood changes, memory loss, specific cognitive impairments, behavioral changes, language impairments, functional impairments). Here again, the caregiver interview may be needed to provide this information or to supplement the patient\u2019s own report. Language function, particularly verbal fluency and naming, deteriorates early in AD and may contribute to semantic memory impairment(21)",
+                "rating of symptoms": "If pain is reported, use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment as able. Use nonverbal scale for patients with communication deficits",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); document changes in symptoms resulting from external variables, such as location (the patient\u2019s home, caregiver\u2019s home, the patient\u2019s room in a facility vs. dayroom in facility), music, and other stimuli -Does patient exhibit any symptoms of sundowning syndrome, including increased activity, agitation, and confusion after dark?",
+                "sleep disturbance": "Document number of wakings/night and level of confusion/agitation when awakening -Does patient have daytime sleepiness or altered sleep/wake cycles? -Sundowning  a common AD phenomenon in which physical activity/wandering/agitation increases at the end of the day and interferes with sleep -The Mini-Sleep  Questionnaire can be useful to assess sleep disturbances(25)",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (including neurological symptoms of sudden balance impairment, sudden loss of muscle strength, new onset of apraxia, aphasia, etc.)Identify if the patient is displaying lack of appetite or disinterest in eating; determine from patient/caregiver if appropriate nutrition is being obtained",
+                "respiratory status": "Is there any respiratory compromise? Chronic obstructive pulmonary disease (COPD) may complicate physical and occupational therapy for patients with AD(22) Barriers to learning -Are there any barriers to learning? Yes__ No__ -Common barriers to learning include memory loss, confusion, disturbed executive functioning, aphasia, apraxia, and poor judgment"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Ask patient about other problems or conditions, including diabetes, cancer, heart disease, COPD, psychiatric disorders, orthopedic disorders, and head trauma. Is there any history of traumatic brain injury? Also, ask the caregiver for this information",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs) Prescription medication may impact the rate of deterioration observed in individuals with AD(10,11) In an observational study (N = 224) conducted in the United Kingdom, participants with a diagnosis of probable AD were followed for 1 year(12) Medications associated with an accelerated rate of decline (using the Global Deterioration Scale) included the Antipsychotic drugs  Sedatives (e.g., benzodiazepines) Medications licensed for dementia Medications impacting the renin-angiotensin  system Statins",
+                    "other symptoms": "Ask patient about other symptoms they may be experiencing; the caregiver interview may yield additional information"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "What leisure activities does the patient enjoy or has the patient enjoyed in the past? How much daily physical activity does the patient typically perform (include \u201cnonexercise\u201d activity such as performance of ADLs or functional walking)?",
+                "functional limitations assistance with ADLs adaptive equipment": "Note use of assistive/adaptive devices or reported functional impairments. Does the patient use any assistive technology (AT)?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home. Are any modifications necessary? Are caregivers able to provide the necessary care for the patient?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting):",
+            "anthropometric characteristics": "Determine height, weight, and BMI",
+            "assistive and adaptive devices": "Assess need for assistive device if gait or balance deficits are noted (may be coexisting and not a direct result of AD) \u2013Note potential for use of AT to increase safety, decrease stress and worry, or save time and effort -Authors of a study conducted in Sweden found that AT can positively affect the activity performance of persons with AD(26)",
+            "balance": "Assess static and dynamic sitting/standing balance using Functional Reach Test and/or Berg Balance Scale, as indicated \u2013Researchers in Australia found that static and dynamic standing balance were impaired in patients with mild to moderate AD compared to healthy, age-matched controls(16) \u2013Researchers in Canada found that the relative reliability (test-retest  and interrater) of the Berg Balance Scale is adequate to support its clinical utility in community-dwelling  adults with mild to moderate AD; however, measures of absolute reliability and agreement show limitations in test performance. The authors concluded that the complex language and multi-step  nature of the standardized instructions for the test should be reviewed for possible modifications to make the Berg Balance Scale more useful in AD(31)",
+            "cardiorespiratory function and endurance": [
+                "Baseline 6MWT averaged 242 meters in older (mean age, 84 years) nursing home residents with advanced AD.(12)In another study, however, mean 6MWT was only 104 m for a similar study population; less than 91 m was considered low functional mobility(13) \u2022Ergonomics/body mechanics:  Evaluation of caregiver ergonomics and body mechanics may be appropriate in cases in which the patient requires physical assistance \u2022Functional mobility  (including transfers, etc.) : Assess need for physical assistance, safety awareness during transfers/gait, and need for assistive devices or adaptive equipment. Use FIM for objective measurement. Assess performance on lower extremity mobility tests ",
+                "Timed Up & Go (TUG) test(4)",
+                "Mobility deficits may also be cognitive in nature, including difficulty with executive functions, problem solving, and performance of complex tasks(2,3,4,6)"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Assess for deficits in walking ability (e.g., gait speed) and whether related to decreased balance or endurance, need for assistive device, need for physical assistance, and/or need for cues for safety awareness. Dynamic Gait Index (DGI) to assess safety with ambulation, as indicated \u2013Assess preferred and maximum walking speed using the 10-meter  walk test (10MWT) or the 4-meter  walk test (4MWT)(4) \u2013AD is associated with reduced lower extremity physical function, stepping accuracy, and performance speed in gait and mobility tasks(3,4,18,19) -Researchers of an observational study in the United States that compared 22 older (mean age, 77 years) persons with AD to 22 cognitively normal, age-matched  controls found that the AD patients had poorer performance on 4MW and TUG tests, while sit-to-stand  test was not significantly different between groups(4) -Longer time on the TUG test and slower gait speed were associated with reduced executive function performance in older persons with mild cognitive impairment in a cross-sectional  study conducted in the United States involving 201 adults with reduced executive function as measured by the Walking Trail-Making  Test, part B (W-TMT  B) and Stroop-Interference test.(3) Both usual gait speed and TUG test results were positively associated with executive function after adjusting for age, sex, depressive symptoms, medical comorbidity, and BMI(3) -Longer time on a stepping accuracy test was associated with executive function decline in persons with early-stage  AD in a cross-sectional  study conducted in the United States involving healthy older adults, persons with minimal cognitive impairment (MCI), and AD patients. Stepping accuracy was assessed with the W-TMT  B. Memory, visual attention, and visual spatial skills were not associated with performance on the W-TMT  B(2)Rigidity may be noted in middle to late stages of AD(8)",
+            "muscle strength": "Scan for functional strength, especially in the lower extremities, with manual muscle testing (MMT)",
+            "observation inspection palpation including skin assessment": [
+                "Screen for signs of falls/injury that may be related to impaired function and decreased safety awareness",
+                "Assess for pressure ulcers",
+                "Assess for tightened musculature or muscle atrophy that may be contributing to poor posture"
+            ],
+            "posture": "Assess overall posture, especially of the neck and trunk. Note any asymmetry or deformity",
+            "range of motion": "Scan functional ROM in upper and lower extremities and torso and general flexibility",
+            "self-care activities of daily living": "Assess ability in ADLs (see Special tests , below) \u2013Obtain results of occupational therapy ADL testing where available",
+            "reflex testing": "Assess deep tendon reflexes. Patellar and Achilles tendon reflexes may be reduced during the middle to late stages of AD(8)",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Cognitive and memory testing, as listed above (see  Arousal, attention, cognition )Consists of two scales used by caregiver to rate patient\u2019s initiative and performance of ADLs(14)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Dementia evaluation, as prescribed, to assess cognition and memory. The Mini-Mental State Exam (MMSE), Neuropsychiatric Inventory (NPI), ADAS-Cog,  Clock Drawing Test, Clinical Dementia Rating (CDR), Global Deterioration Scale, and other standardized tests may identify behavioral and cognitive deficits, as well as their severity. These tests can also be used to monitor for declining cognitive function (i.e., decreased memory, word finding, problem solving).(6) Obtain testing done by other disciplines (e.g., psychology)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Based on a study involving community-dwelling  patients with AD (N = 25) and cognitively normal age- and sex-matched controls (N = 25)",
+                "Responses to challenges in standing static and dynamic balance were measured using computerized posturography, as well as by clinical assessment ",
+                "Standing balance was significantly impaired across a range of static and dynamic balance conditions in the AD group compared to the controls",
+                "Maintaining structured routines may be helpful to decrease patient stress"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "It is unclear whether patients with AD fall more often than cognitively intact age-and sex-matched  persons.(15,16) However, older persons in general, especially those who use ambulatory assistive devices, are at increased risk of falls. In addition, patients with AD typically demonstrate inappropriate safety-awareness  behavior",
+                "Researchers in Australia found that persons with mild to moderate AD had impaired balance compared to controls(16)",
+                "Follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Electrotherapeutic modalities are not indicated for AD and should be avoided, unless specifically prescribed by physician for a coexisting musculoskeletal condition",
+                "The activity of each patient should be individualized. The patient\u2019s surroundings should be safe and familiar. Too much activity can cause agitation, but too little can cause the patient to withdraw. The clinician should encourage participation in activities but not so much as to stress the patient"
+            ]
+        },
+        "diagnosis need for treatment": "AD/reduced physical functioning with deficits in strength, balance, gait, and walking ability; increased risk for falls",
+        "rule out": "Physician may rule out (including but not limited to) presenile dementia non-AD  dementias depression brain tumor Parkinson's disease Huntington disease Pick's disease chronic alcoholism Binswanger's disease liver disease Wilson's disease supranuclear palsy normal-pressure  hydrocephalus thyroid disease (myxedema) pituitary disease pellagra B12 deficiency folate deficiency infection heavy metal intoxication",
+        "prognosis": [
+            "Average survival time after initial diagnosis decreases with age. At 60\u201369  years old it is 6.7 years, at 70\u201379  it is 4.5 years, and at 80\u201389  it is 3 years(42)",
+            "Increased mortality in patients with AD is associated with neuropsychiatric symptoms including psychosis, affective symptoms, and agitation/aggression(43)",
+            "In the late stages of AD, the patient may become bedridden and comatose. Death is often secondary to inanition, dehydration, or infection(8)",
+            "Palliative care in AD is similar to that for end-stage  cancer"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Occupational therapy for difficulty with ADLs and cognitive function Speech therapy for communication problems and feeding concerns \u2013Patients with AD can benefit when caregivers and healthcare providers receive training in communication strategies from speech-language  pathologists. Significant improvements in patients\u2019 quality of life and well-being  have been reported after such training(32) Psychologist/psychiatrist for cognitive or behavioral therapy/psychoactive medications Geriatrician for assessment and treatment of multiple comorbidities in older adults Recreational therapy to provide residents of inpatient facilities with social interaction and an opportunity to participate in physical activities  Back to physician for onset of new symptoms, progression of symptoms, or presentation of symptoms that are atypical of AD Wound care specialist for pressure ulcers Social work for home services or placement",
+        "other considerations": [
+            "There is evidence that physical therapy including various exercise interventions can slow functional decline and decrease fall risk in older adults with AD. Authors of a scoping review assessed various physical performance outcome measures and whether they can effectively be used with adults with AD and related dementias(45) \u2013The most frequently used physical performance measures were the 6MWT, timed up and go, repeated chair stand test, short-distance  gait speed, Berg Balance Scale, and isometric strength tests \u2013All these tests were found to be reliable physical performance outcome measures in adults with AD and related dementias and therefore are recommended for use",
+            "Authors of a review examined the use of non-wearable  sensor technologies for monitoring activity patterns to detect symptoms of MCI and AD. They found that non-wearable  sensor technologies can help researchers understand behavioral changes in adults with MCI and AD. However, due to a lack of studies, no conclusions can be made on using these devices as an effective diagnostic tool. Advancements in technology and more studies may lead to this possibility in the future(47)",
+            "Authors of a meta-analysis  of 17 RCTs comparedfour interventions, physical exercise, music therapy, computerized cognitive therapy, and nutrition therapy, to determine which was optimal for patients with AD or MCI(46) \u2013Fifteen trials were pooled for cognition outcomes; five trials were pooled for neuropsychiatric symptoms \u2013The meta-analysis  found that physical exercise is the optimum cognitive intervention for patients with AD or MCI, whereas computerized cognitive therapy is the optimum intervention for neuropsychiatric symptoms"
+        ],
+        "treatment summary": [
+            "Exercise has no intrinsic negative side effects and there is evidence that it can protect cognitive function in the aging population. Research results seem to be consistent that exercise improves general health in patients with AD. Some studies have demonstrated that exercise can improve cognitive function and/or delay its decline; however, other studies have been less conclusive(34,37,49,50) \u2013Authors of an integrative review of 17 studies reviewed the effect of exercise interventions on health-related  outcomes in community-dwelling  adults with AD. The integrative results confirmed that exercise can enhance general health, but the effects of exercise on cognitive function could not be determined(50) \u2013Authors of a meta-analysis  of 13 RCTs examined the effects of physical activity and exercise on cognitive function of patients with AD. Intervention groups showed a statistically significantly improvement in cognition as measured by the MMSE compared to the control groups. This meta-analysis  suggests that physical activity and exercise can improve cognition of older adults with AD(37) \u2013Authors of an RCT examined the effect of a group-based  exercise program on mental outcomes in patients with mild to moderate AD(49) -The group-based  exercise patients participated in 45-minute  sessions 3 times per week for 8 weeks. The sessions consisted of balance, resistance, aerobic, and flexibility exercises -Those in the group-based  exercise intervention showed a significant increase in their MMSE scores compared to the control group. The group-based exercise patients had no change in their Alzheimer\u2019s Disease Cooperative Study\u2013Activities  of Daily Living Scale (ADCS-ADL)  scores, while the control group had a 13.77% decrease in their ADCS-ADL  from the start of the study -The authors concluded that group exercise is a low-cost  intervention that can positively influence cognitive function and stabilize patients\u2019 ability to perform ADLs \u2013Authors of a 2018 meta-analysis  of 19 studies found that exercise training may delay the decline in cognitive functioning in persons at risk of AD or in whom it has been diagnosed, and that aerobic exercise seemed to have the greatesteffect(34) -Analyzed studies were controlled studies that included an exercise-only intervention and a non-diet,  non-exercise  control group and reported pre-and post-intervention  cognitive function measurements -35% of participants had a diagnosis of AD. The rest were at risk of AD, most because they had MCI (64%), but some (1%) due to having a parent with AD -Exercise training was performed on average for 3.4 days per week at moderate intensity, for an average of 45.2 minutes per session for an average of 18.6 weeks -65% of interventions consisted of aerobic training, 35% consisted of aerobic and resistance training  -Control groups experienced a significant decrease in MMSE scores during the intervention. Average MMSE scores of the exercise groups increased during the intervention -Improvement in cognitive function after aerobic exercise training was 3 times as great as the improvement after combined aerobic and resistance exercise training interventions",
+            "Physical therapy interventions including various types of exercise can also improve overall function (e.g., ability to perform ADLs, mobility, strength, and balance) \u2013Evidence-based  public health messaging plays an important role in the health impact of many diseases. The Ontario Brain Institute formulated an evidence-based  message using the evidence from 7 systematic reviews focused on AD prevention and 20 reviews on symptom management:(38) -\u201cRegular participation in physical activity is associated with a reduced risk of developing Alzheimer\u2019s disease. Among older adults with Alzheimer\u2019s disease and other dementias, regular physical activity can improve performance of activities of daily living and mobility, and may improve general cognition and balance\u201d \u2013Regular exercise may slow the rate of functional deterioration in mild AD and reduce falls in patients with advanced AD(33) -Based on a secondary analysis of an RCT conducted in Finland that examined the effects of exercise intervention twice a week for 12 months in patients with AD (N = 194). The effects in participants with mild dementia and in participants with advanced dementia were studied separately -In subjects with mild dementia, decline in physical functioning, as measured by the FIM at 12 months, was slower in the intervention group than in the controls -In subjects with advanced AD the incident rate of falls was lower in the intervention group than in the controls at 12 months, indicating that the exercise intervention was effective in preventing falls in this group \u2013Participation in a community-based  exercise program can improve cognitive function, mobility, and independence in persons with AD(17) -Based on an RCT involving 40 Australian community-dwelling  persons with AD (mean age, 74 years) allocated to either a 4-month  exercise program group or usual-treatment  control group -MMSE scores averaged 22.0 (range, 10\u201328),  indicating mild to moderate dementia -The exercise program consisted of daily exercises and walking under the supervision of the personal caregiver -Mobility was assessed with the TUG test and functional independence with the Instrumental ADL (IADL) Scale -At 4-month  follow-up,  the exercise group had significantly increased scores on the MMSE, TUG test, and IADL Scale compared to controls \u2013Physical-therapist-guided  and tailored exercise, either at home or in a daycare center, may slow deterioration of physical function in the long term compared to usual care(18) -Based on an RCT conducted in Finland involving home-dwelling  patients with mild to moderate AD (N = 210; mean age, 71 years) who lived with their spousal caregiver -The three trial arms were -Group-based  exercise (GE; N = 70) 1 hour twice per week for 1 year -Home-based  exercise (HE; N = 70)1 hour twice per week for 1 year -Control group (CG; N = 70) that received usual community care -All groups deteriorated in function (FIM) after 1 year, but FIM scores decreased significantly more in CG than in either GE group or HE group -HE and GE groups had significantly fewer falls than CG in the follow-up year \u2013Resistance training may improve performance in some ADLs(23) -Based on an exploratory study in Brazil of patients with mild to moderate AD (N = 34; mean age, 78 years) who had caregiver support -The training group (TG) underwent a progressive resistance exercise program (20 repetitions of five exercises for 1 hour, 3 times per week, 16 weeks) -The social gathering group (SGG) participated in group dynamics (e.g., writing and reading activities) for a similar duration and frequency as TG -Performance in ADLs was assessed by 800-m  walk time, moving around the house, climbing stairs, standing up from floor, manual skills, and putting on socks -Results: Lower limb strength, balance, flexibility, and ADLs increased significantly more in TG than SGG at 16 weeks \u2013Ambulatory physical therapy may improve motor abilities of older adults with AD(27)  -Based on a study conducted in France that involved 50 patients who did not receive ambulatory physical therapy and 20 patients who did -Outcome measures included MMSE, Tinetti Mobility Assessment, mini motor test scores, TUG test, gait speed, one-leg stance time, history of falls within the last 6 months, ability to rise from the floor, and use of walking aid -No differences between the groups were noted at baseline. Analysis of variance showed progression of cognitive disorders in both groups -There was significant improvement or stability of motor abilities in the group that received ambulatory physical therapy. These abilities decreased in the group not receiving ambulatory physical therapy \u2013A rehabilitation program that integrates recommendations of the American College of Sports Medicine for aerobic, resistance, and balance exercises may be beneficial for patients in various phases of AD(28) -Based on a study conducted in Spain that enrolled 64 patients with AD into an intervention program lasting 12 months -Outcome measures included cognitive ability (MMSE), fitness (Chair Stand Test), level of independence (Barthel Index), and quality of life (SF-12) -The intervention program had positive effects on fitness and quality of life in patients in the mild to moderate phases of AD. No effect on cognitive ability was noted \u2013Mild to moderate intensity multimodal physical exercise may improve sleep disturbances and the performance of IADLs in patients with AD(25) -Based on a study conducted in Spain involving 35 patients with AD (19 in a trained group and 16 in a control group) -Multimodal exercise was performed in 1-hour  sessions 3 times per week for 6 months -Significant improvements in IADLs and in sleep disturbance were observed in the trained group. Maintenance or worsening occurred in the control group",
+            "Helping patients with AD engage in enjoyable and meaningful activities can be a challenge. Authors of a descriptive review examined 83 different apps available that are targeted to patients with AD and other related dementias(48) \u2013The activities in the apps included watching and viewing programs, music and sounds, memory training, learning and information, social interaction, and eye-hand  coordination activities \u2013It is recommended therapists and healthcare professionals use a person-centered approach in providing guidance in selecting appropriate apps for patients . Problem Goal Intervention Expected Progression Home Program  Increased risk for falls due to impaired balance, unsafe living environment, and impaired safety awarenessModify living environment and improved balance to prevent fallsHome evaluation _ Assess living area for hazards (cords, throw rugs, narrow halls, dark rooms); make recommendations for appropriate modifications _ _ Prescription, application of devices and equipment _ Provide appropriate assistive and adaptive devices as indicated _ _ Therapeutic exercise _ Implement balance, strengthening, and ROM activities to assist in the prevention of fallsFurther gradual decline in cognition over timeA walking program to maintain strength and mobility will likely require family/ caregiver participation. Educate family/ caregiver on home modifications to implement and how to assist patient with ambulation and ADLs for increased safety Caregiver/patient at risk for injury due to unsafe body mechanicsCaregiver/patient will be independent with safe body mechanics and behavioral techniques to prevent injuryCaregiver education _ Transfer training, body mechanics, behavioral approaches to reduce agitation and aggression; provide equipment, as needed (e.g., mechanical lift); provide instruction in the use of any equipment that is providedGradual decline in physical function; increased need for caregiver to provide physical assistanceProvide verbal instruction, demonstration, and handouts regarding safe and effective approaches to mobility Impaired muscle strength, balance, and ROMImprove/maintain muscle strength, balance, and ROMTherapeutic exercise _ Simple strengthening and flexibility exercises. Administer using BAR principles.(5) Group sessions may be beneficial if the environment is not overstimulatingThe intensity and duration of exercises should be tailored appropriately, depending on the amount of cognitive and physical impairment, and should continue as part of the individual\u2019s daily routine to maintain strengthProvide patient with simple strengthening exercises; use images rather than written descriptions  Impaired functional mobility, gait speed, and balance _ _ Impaired/unsafe ambulationMaintain mobility and slow progressive loss of function _ _ Decreased falls riskFunctional training _ Balance and gait training exercises. Administer using BAR principles _ _ Prescription, application of devices and equipment _ Provide cane, walker, and instruct patient/ caregiver in appropriate use; significant repetition and simple commands may be required when instructing patientGradual decline in functional mobility and gait as AD progresses _ _ As level of care becomes too much for primary caregiver, a social worker or other professional may become involved to assist in safe and appropriate placement of the patientProvide recommendations for home that address decline in function _ _ Caregiver to be instructed on guarding patient during ambulation and should standby whenever patient ambulates in an unsafe environment ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes outcome measures": [
+            "Improved lower extremity strength\u2013MMT",
+            "Improved overall safety and reduced risk for injury",
+            "Improved functional mobility in ADLs\u2013TUG test, FIM",
+            "Improved balance, reduced risk of falls\u2013Functional Reach Test, Berg Balance Scale",
+            "Improved gait and safety with ambulation\u20134MW, 10MWT,DGI",
+            "Improved endurance\u20136MWT",
+            "Improved sleep\u2013Sleep questionnaire",
+            "Reduced decline in cognitive function\u2013MMSE"
+        ]
+    },
+    "maintenance or prevention": [
+        "Home exercise program to preserve strength and functional ability",
+        "Caregiver training to maintain safe environment for patient and caregiver as AD progresses",
+        "The WHO 2019 guidelines to reduce the risk of cognitive decline and dementia include maintaining a healthy lifestyle(44) Physical activity is recommended for adults with normal cognition Physical activity can be considered for adults with MCI A healthy, balanced diet is recommended for all adults based on WHO recommendations for a healthy diet Mediterranean-like  diet can be considered for adults with normal cognition or MCI Tobacco cessation is recommended for adults who use tobacco Interventions aimed at reducing or stopping harmful drinking can be considered for adults with normal cognition or MCI Vitamins B and E, polyunsaturated fatty acids, and multi-complex  supplements are not recommended to reduce the risk of cognitive decline and/or dementia "
+    ],
+    "patient education": [
+        "Alzheimer\u2019s Association website, Education and Resource Center: https://www.alz.org/",
+        "MedlinePlus: https://medlineplus.gov/alzheimersdisease.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bird TD. Alzheimer disease overview. GeneReviews Web site Web site. https://www.ncbi.nlm.nih.gov/books/NBK1161/ . Published December 20, 2018. (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Persad CC, Jones JL, Ashton-Miller  JA, Alexander NB, Giordani B. Executive function and gait in older adults with cognitive impairment. J Gerontol A Biol Sci Med Sci . 2008;63(12):1350-1355.  (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "McGough EL, Kelly VE, Logsdon RG, et al. Associations between physical performance and executive function in older adults with mild cognitive impairment: gait speed and the timed \"up & go\" test. Phys Ther . 2011;91(8):1198-1207.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Eggermont LH, Gavett BE, Volkers KM, et al. Lower-extremity  function in cognitively healthy aging, mild cognitive impairment, and Alzheimer's disease. Arch Phys Med Rehabil. 2010;91(4):584-588.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Yamaguchi H, Maki Y, Yamagami T. Overview of non-pharmacological  intervention for dementia and principles of brain-activating  rehabilitation. Psychogeriatrics . 2010;10(4):206-213.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Nelson PT, Alafuzoff I, Bigio EH, et al. Correlation of Alzheimer disease neuropathologic changes with cognitive status: a review of the literature. J Neuropathol Exp Neurol . 2012;71(5):362-381.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Dowling GA, Graf CL, Hubbard EM, Luxenberg JS. Light treatment for neuropsychiatric behaviors in Alzheimer's disease. West J Nurs Res . 2007;29(8):961-975.  (RCT)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Fuller KS, Demarche E, Winkler PS. Alzheimer's disease. Fuller KS, Goodman CC, eds. Pathology: Implications for the Physical Therapist . 5th ed. Philadelphia, PA: Saunders;"
+        },
+        {
+            "number in article": 2020,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Buchman AS, Boyle PA, Yu L, Shah RC, Wilson RS, Bennett DA. Total daily physical activity and the risk of AD and cognitive decline in older adults. Neurology . 2012;78(17):1323-1329.  doi:10.1212/WNL.0b013e3182535d35. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Kim DH, Brown RT, Ding EL, Kiel DP, Berry SD. Dementia medications and risk of falls, syncope, and related adverse events: meta-analysis  of randomized controlled trials. J Am Geriatr Soc . 2011;59(6):1019-1031.  (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Ellul J, Archer N, Foy CM, et al. The effects of commonly prescribed drugs in patients with Alzheimer's disease on the rate of deterioration. J Neurol Neurosurg Psychiatry . 2007;78(3):233-239.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Venturelli M, Scarsini R, Schena F. Six-month  walking program changes cognitive and ADL performance in patients with Alzheimer. Am J Alzheimer's Dis Other Demen . 2011;26(5):381-388.  (RCT)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Roach KE, Tappen RM, Kirk-Sanchez  N, Williams CL, Loewenstein D. A randomized controlled trial of an activity specific exercise program for individuals with Alzheimer disease in long-term  care settings. J Geriatr Phys Ther . 2011;34(2):50-56.  (RCT)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Voigt-Radloff  S, Leonhart R, Sch\u00fctzwohl M, et al. Interview for Deterioration in Daily Activities in Dementia: construct and concurrent validity in patients with mild to moderate dementia. Int Psychogeriatr . 2012;24(3):382-390.  doi:10.1017/S1041610211001785. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Ryan JJ, McCloy C, Rundquist P, Srinivasan V, Laird R. Fall risk assessment among older adults with mild Alzheimer disease. J Geriatr Phys Ther . 2011;34(1):19-27.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Suttanon P, Hill KD, Said CM, Logiudice D, Lautenschlager NT, Dodd KJ. Balance and mobility dysfunction and falls risk in older people with mild to moderate Alzheimer disease. Am J Phys Med Rehabil . 2012;91(1):12-23.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Vreugdenhil A, Cannell J, Davies A, Razay G. A community-based  exercise programme to improve functional ability in people with Alzheimer\u2019s disease: a randomized controlled trial. Scand J Caring Sci . 2012;26(1):12-19.  doi:10.1111/j.1471-6712.2011.00895.x.  (RCT)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Pitkala KH, Poysti MM, Laakkonen ML, et al. Effects of the Finnish Alzheimer disease exercise trial (FINALEX): a randomized controlled trial. JAMA Intern Med . May 27, 2013;173(10):894-901.  doi:10.1001/jamainternmed.2013.359. (RCT)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Coelho FG, Stella F, de Andrade LP, et al. Gait and risk of falls associated with frontal cognitive functions at different stages of Alzheimer\u2019s disease. Neuropsychol Dev Cogn B Aging Neuropsychol Cogn . 2012;19(5):644-656.  doi:10.1080/13825585.2012.661398. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Nishikata S, Yamakawa M, Shigenobu K, Suto S, Makimoto K. Degree of ambulation and factors associated with the median distance moved per day in Alzheimer\u2019s disease patients. Intern J Nurs Pract . 2013;19(Suppl 3):56-63. doi:10.1111/ijn.12174. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Verma M, Howard RJ. Semantic memory and language dysfunction in early Alzheimer\u2019s disease: a review. Int J Geriatr Psychiatry . 2012;27(12):1209-1217.  doi:10.1002/ gps.3766. (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Voyzey GA. Intervention strategies for individuals with early Alzheimer\u2019s disease and COPD. Perspect Gerontol . 2013;18(1):27-33.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Garuffi M, Costa JL, Hernandez SS, et al. Effects of resistance training on the performance of activities of daily living in patients with Alzheimer\u2019s disease. Geriatr Gerontol Int . 2013;13(2):322-328.  doi:10.1111/j.1447-0594.2012.00899.x.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "American Psychiatric Association. In: Diagnostic and Statistical Manual of Mental Disorders . 5th ed. Washington, DC: American Psychiatric Publishing; 2013:611-614.  (G)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Nascimento CMC, Ayan C, Cancela JM, Gobbi LTB, Gobbi SF, Stella F. Effect of a multimodal exercise program on sleep disturbances and instrumental activities of daily living performance on Parkinson\u2019s and Alzheimer\u2019s disease patients. Geriatrics Gerontol Int . 2014;14(2):259-266.  doi:10.1111/ggi.12082. (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Lindqvist E, Nygard L, Borell L. Significant junctures on the way towards becoming a user of assistive technology in Alzheimer\u2019s disease. Scand J Occupat Ther . 2013;20(5):386-396.  doi:10.3109/11038128.2013.766761. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Manckoundia P, Taroux M, Kubicki A, Mourey F. Impact of ambulatory physiotherapy on motor abilities of elderly subjects with Alzheimer\u2019s disease. Geriatrics Gerontol Int . 2014;14(1):167-175.  doi:10.1111/ggi.12075. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Serda I, Ferrer BC, del Valle A. A rehabilitation program for Alzheimer\u2019s disease. J Nurs Res . 2014;22(3):192-199.  doi:10.1097/jnr.0000000000000046. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Meibeyer E. Common conditions, resources, and evidence: Alzheimer\u2019s disease. Schell BAB, Gillen G, Scaffa ME, Cohn ES, eds. Willard & Spackman\u2019s Occupational Therapy . 13th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2018. (GI)"
+        },
+        {
+            "number in article": 30,
+            "reference": "European Medicines Agency. Draft guideline on the clinical investigation of medicines for the treatment of Alzheimer\u2019s disease and other dementias. http://www.ema.europa.eu/ docs/en_GB/document_library/Scientific_guideline/2016/02/WC500200830.pdf . Published January 28, 2016. (G)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Muir-Hunter  SW, Graham L, Odasso MM. Reliability of the Berg Balance Scale as a clinical measure of balance in community-dwelling  older adults with mild to moderate Alzheimer disease: a pilot study. Physiotherapy Canada . 2015;67(3):255-262.  doi:10.3138/ptc.2014-32.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Hopper T. Not cured\u2026but improved. ASHA Leader . 2016;21960; 44-50. (X)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Ohman H, Savikko N, Strandberg T, et al. Effects of exercise on functional performance and fall rate in subjects with mild or advanced Alzheimer's Disease: Secondary analyses of a randomized controlled study. Dement Geriatr Cogn Disord . 2016;41(3-4):233-41.  doi:10.1159/000445712. (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Panza GA, Taylor BA, MacDonald HV, et al. Can exercise improve cognitive symptoms of Alzheimer\u2019s disease? J Am Geriatr Soc . 2018;66(3):487-495.  doi:10.1111/jgs.15241. (M)"
+        },
+        {
+            "number in article": 35,
+            "reference": "2020 Alzheimer's disease facts and figures. Alzheimers Dement . Advance online publication. March 10, 2020. doi:10.1002/alz.12068. (GI)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Alzheimer\u2019s disease diagnostic guidelines. NIH: National Institute on Aging Web site. https://www.nia.nih.gov/health/alzheimers-disease-diagnostic-guidelines . (G)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Jia RX, Liang JH, Xu Y, Wang YQ. Effects of physical activity and exercise on the cognitive function of patients with Alzheimer disease: a meta-analysis.  BMC Geriatr . July 2, 2019;19(1):181. doi:10.1186/s12877-019-1175-2.  (M)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Ginis KA, Heisz J, Spence JC, et al. Formulation of evidence-based  messages to promote the use of physical activity to prevent and manage Alzheimer's disease. BMC Public Health. February 17, 2017;17(1):209. doi:10.1186/s12889-017-4090-5.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "U.S. Food & Drug Administration. FDA Grants Accelerated Approval for Alzheimer\u2019s Drug. U.S. Food & Drug Administration Web site. https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-alzheimers-drug . Published June 7, 2021. (GI)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Atri A. The Alzheimer's disease clinical spectrum: diagnosis and management. Med Clin North Am . 2019;103(2):263-293.  doi:10.1016/j.mcna.2018.10.009. (GI)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Zhang Y, Noh K, Song W. Chinese herbal medicines on cognitive function and activity of daily living in senior adults with Alzheimer's disease: a systematic review and meta-analysis.  Integr Med Res . 2019;8(2):92-100.  doi:10.1016/j.imr.2019.04.006. (M)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Rait G, Walters K, Bottomley C, Petersen I, Iliffe S, Nazareth I. Survival of people with clinical diagnosis of dementia in primary care: cohort study. BMJ. August 5, 2010;341:c3584. doi:10.1136/bmj.c3584. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Peters ME, Schwartz S, Han D, et al. Neuropsychiatric symptoms as predictors of progression to severe Alzheimer's dementia and death: the Cache County Dementia Progression Study. Am J Psychiatry . 2015;172(5):460-465.  doi:10.1176/appi.ajp.2014.14040480. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "WHO. Risk Reduction of Cognitive Decline and Dementia: WHO Guidelines. https://www.ncbi.nlm.nih.gov/books/NBK542796/ . Published 2019. (G)"
+        },
+        {
+            "number in article": 45,
+            "reference": "McGough EL, Lin SY, Belza B, et al. A scoping review of physical performance outcome measures used in exercise interventions for older adults with Alzheimer disease and related dementias. J Geriatr Phys Ther . 2019;42(1):28-47.  doi:10.1519/JPT.0000000000000159. (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Liang JH, Xu Y, Lin L, Jia RX, Zhang HB, Hang L. Comparison of multiple interventions for older adults with Alzheimer disease or mild cognitive impairment: A PRISMA-compliant  network meta-analysis.  Medicine. 2018;97(20):e10744. doi:10.1097/MD.0000000000010744. (M)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Narasimhan RGM, McGlade C. Current state of non-wearable  sensor technologies for monitoring activity patterns to detect symptoms of mild cognitive impairment to Alzheimer's disease. Int J Alzheimers Dis . February 10, 2021;2021:2679398. doi:10.1155/2021/2679398. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Tak SH. In quest of tablet apps for elders with Alzheimer's disease: a descriptive review. Comput Inform Nurs . March 3, 2021;39(7):347-354.  doi:10.1097/ CIN.0000000000000718. (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Shaw I, Cronje M, Shaw BS. Group-based  exercise as a therapeutic strategy for the improvement of mental outcomes in mild to moderate Alzheimer\u2019s patients in low resource care facilities. Asian J Sports Med . 2021;12(1):1-6.  doi:10.5812/asjsm.106593. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Li B, Liu C, Wan Q, Yu F. An integrative review of exercise interventions among community-dwelling  adults with Alzheimer's disease. Int J Older People Nurs . 2020;15(1):e12287. doi:10.1111/opn.12287. (RV)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Lythgoe MP, Jenei K, Prasad V. Regulatory decisions diverge over aducanumab for Alzheimer's disease. BMJ. January 28, 2022;376:e069780. doi:10.1136/bmj-2021-069780. (GI)"
+        }
+    ]
+}

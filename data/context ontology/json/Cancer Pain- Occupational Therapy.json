@@ -1,0 +1,453 @@
+{
+    "metadata": {
+        "title": "Cancer Pain  Occupational Therapy",
+        "synonyms": [
+            "carcinoma pain  occupational therapy",
+            "cancer-related pain  occupational therapy"
+        ],
+        "anatomical location body part affected": [
+            "Nociceptors of the nervous system with effect on all parts of body, depending on many factors"
+        ],
+        "area of specialty": [
+            "oncology",
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "Cancer is a disease characterized by the uncontrolled growth of unhealthy cells, which invade the space of normal cells and lead to impaired functioning of the body(20)",
+            "Cancer is a major cause of death in the United States (26.6% of deaths), second only to heart disease(1)",
+            "Pain is commonly experienced by persons with cancer and can be caused by either the cancer itself, treatment methods, diagnostic tests, or a combination of factors(5)",
+            "Cancer pain may negatively impact quality of life and daily functioning(5,26)",
+            "The pain experienced by persons with cancer usually implies a pathologic process.(3) There are three major categories of pain, somatic, visceral, and neuropathic, resulting from activation and sensitization of nociceptors and mechanoreceptors by either mechanical or chemical stimuli. These three types of pain may occur alone or together in the same patient(3)",
+            "Cancer pain can also be classified as either acute pain (comes on quickly, but is short-lasting),  chronic pain (continuous pain or pain that comes back often), or breakthrough pain (intense and sudden rise in pain that may be related to a certain activity or has no apparent cause and occurs even when a person is taking pain medications)(18)",
+            "Patients with advanced cancer often have multiple complaints of pain at different places in the body(1)",
+            "The prevalence of cancer-related  pain is estimated to be 30\u201350%  in patients undergoing chronic cancer treatment and over 70% in patients with advanced disease(1)",
+            "Authors of a 2007 systematic review and a meta-analysis  of 40 years of pooled evidence (52 studies) found that(4) \u201333% of patients had pain after curative treatment \u201359% of patients had pain while undergoing anticancer treatment \u201364% of patients had pain with advanced/metastatic/terminal disease \u201353% of patients had pain at all disease stages \u2013Over onethird of patients with pain graded their pain as moderate or severe \u2013Pain had the highest prevalence in patients with head/neck cancer",
+            "The British Pain Society states that physical and occupational therapists have \u201can important role in the management of cancer pain and have specific skills that enable them to be patient-focused  and holistic\u201d(6)",
+            "Occupational therapists have a unique role in oncology by addressing pain, through interventions to improve strength and mobility, modification of activities to  conserve energy, and modification of environments such as the workplace, home, or community(6,7)",
+            "It is generally agreed that occupational therapists play a role in the assessment and management of patients with cancer-related  pain, but the lack of evidence-based  research that supports the use of OT presents a challenge(6,8)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "140\u2212149": "malignant neoplasm of lip, oral cavity, and pharynx",
+            "150\u2212159": "malignant neoplasm of digestive organs and peritoneum",
+            "160\u2212165": "malignant neoplasm of respiratory and intrathoracic organs",
+            "170\u2212176": "malignant neoplasm of bone, connective tissue, skin, and breast",
+            "179\u2212189": "malignant neoplasm of genitourinary organs",
+            "190\u2212199": "malignant neoplasm of other and unspecified sites",
+            "200\u2212209": "malignant neoplasm of lymphatic and hematopoietic tissue",
+            "210\u2212229": "benign neoplasms",
+            "230\u2212234": "carcinoma in situ",
+            "235\u2212238": "neoplasms of uncertain behavior",
+            "239": "neoplasms of unspecified nature"
+        },
+        "ICD-10 codes": {
+            "C00\u2212C14": "malignant neoplasms of lip, oral cavity and pharynx",
+            "C15\u2212C26": "malignant neoplasms of digestive organs",
+            "C30\u2212C39": "malignant neoplasms of respiratory and intrathoracic organs",
+            "C40\u2212C41": "malignant neoplasms of bone and articular cartilage",
+            "C43\u2212C44": "melanoma and other malignant neoplasms of skin",
+            "C45\u2212C49": "malignant neoplasms of mesothelial and soft tissue",
+            "C50": "malignant neoplasms of breast",
+            "C51\u2212C58": "malignant neoplasms of female genital organs",
+            "C60\u2212C63": "malignant neoplasms of male genital organs",
+            "C64\u2212C68": "malignant neoplasms of urinary tract",
+            "C69\u2212C72": "malignant neoplasms of eye, brain and other parts of central nervous system",
+            "C73\u2212C75": "malignant neoplasms of thyroid and other endocrine glands",
+            "C7A": "malignant neuroendocrine tumors",
+            "C7B": "secondary neuroendocrine tumors",
+            "C76\u2212C80": "malignant neoplasms of ill-defined, other secondary and unspecified sites",
+            "C81\u2212C96": "malignant neoplasms of lymphoid, hematopoietic and related tissue",
+            "D00\u2212D09": "in situ neoplasms",
+            "D10\u2212D36": "benign neoplasms, except benign neuroendocrine tumors",
+            "D3A": "benign neuroendocrine tumors",
+            "D37\u2212D48": "neoplasms of uncertain behavior, polycythemia vera and myelodysplastic syndromes",
+            "D49": "neoplasms of unspecified behavior (ICD codes are provided for the reader\u2019s reference and not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Mobility G-code set:": {
+                "G8978": "Mobility: walking & moving around functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8979": "Mobility: walking & moving around functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8980": "Mobility: walking & moving around functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Changing & Maintaining Body Position G-code set:": {
+                "G8981": "Changing & maintaining body position functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8982": "Changing & maintaining body position functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8983": "Changing & maintaining body position functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Carrying, Moving & Handling Objects G-code set:": {
+                "G8984": "Carrying, moving & handling objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, moving & handling objects functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, moving & handling objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Self Care G-code Set:": {
+                "G8987": "Self care functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8988": "Self care functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8989": "Self care functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code Set:": {
+                "G8990": "Other physical or occupational therapy primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other physical or occupational therapy primary functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other physical or occupational therapy primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code Set:": {
+                "G8993": "Other physical or occupational therapy subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other physical or occupational therapy subsequent functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other physical or occupational therapy subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement have been identified for the use of OT in the treatment of cancer pain "
+        ],
+        "presentation signs and symptoms": [
+            "General symptoms of cancer include unexplained weight loss of 10 pounds or more, fever, fatigue, pain, and skin changes (e.g., discoloration, itching, abnormal hair growth), whereas certain forms of cancer have specific signs and symptoms (e.g., thickening or lump in the breast for breast cancer)(20)",
+            "Pain symptoms are characteristic of the three major categories of cancer pain(3) \u2013Somatic pain -Characterized by dull or aching pain that is well-localized(3) \u2013Visceral pain -Characterized by deep, squeezing, pressure-like  pain that is not(3) well-localized -In acute cases, can be associated with autonomic dysfunction, including nausea, vomiting, and diaphoresis(3) -It is often referred to cutaneous sites that are remote from the lesion (e.g., diaphragmatic irritation that causes shoulder pain)(3) \u2013Neuropathic pain -Characterized as burning or \u201cvice-like\u201d  and often severe(3) -Also described as sharp or shooting(18) -May be associated with hypersensitivity(3)",
+            "Cancer treatment may cause other symptoms and/or types of pain, including spasms, mucositis, dermatitis or rash, skin pain, joint and muscle pain, and osteonecrosis of the jaw(5)",
+            "Muscle pain that is associated with cancer is usually described as aching or cramp-like,  is not well-localized,  and can refer to deeper somatic structures(1)",
+            "Cancer and cancer pain also are associated with emotional difficulties, including depression, anger, anxiety, stress, and loneliness(18) \u2013Study investigators describing the experiences of patients with advanced cancer and associated pain, as well as caregivers\u2019 experiences,found that severe, persistent, and/or unpredictable pain led to various emotional challenges(21) -Pain was associated with mood changes, sense of loss of control (when attempts to relieve pain were ineffective), and disruption of daily routines Causes & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Be prepared to stop examination or treatment if patient shows indications of excessive pain or fatigue",
+            "Consider the surgeon\u2019s pre- and post-operative  protocol if the patient has undergone surgery",
+            "Keep in mind that pain can be due to other reasons beside cancer",
+            "Refer to the physician for any \u201cred flags\u201d during the examination (e.g., signs of deep vein thrombosis[DVT], excessive shortness of breath, nausea and vomiting, sudden increase in pain)",
+            "Let the patient know that it is important for him/her to always communicate if any part of the exam increases the pain and that the examination will be stopped if the pain increases significantly"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:": [
+            "Cancer can be caused by genetics, immunological conditions, cell mutations produced via metabolism, or hormones, whichare all factors that are out of a patient\u2019s control. It can also be caused by external, modifiable factors, such as tobacco use,sun exposure, poor nutrition, lack of physical activity, infectious agents, and exposure to carcinogens via employment orpollution(9,20)",
+            "Almost all pain in patients with cancer is the result of direct tumor involvement (e.g., invasion, infection, metabolicimbalance, vascular obstruction), cancer-directed  therapy (e.g., following surgery, chemotherapy, or radiation therapy)(3)",
+            "Diagnostic and medical testing procedures may also result in pain (e.g., biopsy, spinal tap)(5,18)",
+            "Somatic pain is caused by activation of nociceptors in cutaneous or deep tissues\u2013Common examples are metastatic bone pain, postsurgical incisional pain, myofascial pain, and musculoskeletal pain",
+            "Visceral pain is caused by activation of nociceptors by infiltration, compression, extension, or stretching of the thoracic,abdominal, or pelvic viscera\u2013Typically experienced by patients with intraperitoneal metastases; common with pancreatic cancer",
+            "Neuropathic pain is caused by injury to the peripheral or central nervous system from tumor compression, infiltration, andchemical injury caused by surgery, radiation, or chemotherapy\u2013Examples: metastatic and radiation-induced  brachial and lumbosacral plexopathies; chemotherapy-induced  peripheralneuropathies (CIPN);paraneoplastic peripheral neuropathies; and postmastectomy, postthoracotomy, and phantom limbpain",
+            "Pain can also be secondary to prolonged immobilization and general debility (e.g., skin breakdown, contractures)(9)",
+            "Patients with cancer can also have pain that is unrelated to malignancy (e.g., rotator cuff tear in patient with lymphoma)(9)"
+        ],
+        "pathogenesis:": [
+            "The process by which cancer causes pain is complex(1)",
+            "Pathogenesis directly related to tumor(1,18)\u2013Nociceptive pain can be caused by tumor growth and is associated with unhealed tissue injury of either somatic orvisceral structures(1)\u2013Endothelins, vasoactive peptides, are released from several types of tumors, especially prostate, and tend to sensitize andexcite nociceptors(1)\u2013Rapid growth of tumors can entrap and injure nerves, causing compression, ischemia, or direct proteolysis(1)\u2013Tumors within the spine can cause spinal cord compression, often resulting in back and/or neck pain(18,26)\u2013Tumors can also result in pain if they begin to press on bones or organs(18)\u2013Tissue acidosis can also cause tumor-related  pain(1)",
+            "Pathogenesis related to cancer treatment(1)\u2013During radiation treatment, tissues that rapidly self-renew(e.g.,  mucosal surfaces) are most affected and become painful,but injuries are usually self-limiting  and heal without specific intervention\u2013Radiation-induced  neural damage and pain can occur after radiation therapy, even weeks or months after completingtreatment\u2013Postmastectomy, postamputation, and postthoracotomy pain syndromes are common after surgical treatment",
+            "Muscle pain can be due to resulting debilitation, certain chemotherapeutic agents (e.g., paclitaxel [Taxol] causingmyofascial pain syndrome), weight loss and muscle wasting, or direct tumor involvement of muscle(1)",
+            "Pathogenesis related to emotions and suffering(1)\u2013Sustained stimulation of nociceptors creates negative emotional arousal and stimulates the stress responses\u2013Suffering as a consequence of pain-Perceived helplessness, grief, a sense of separation or alienation, emotional distress, fatigue, and stress of prolongedpain all contribute to suffering"
+        ],
+        "risk factors:": [
+            "Risk factors for cancer-related  pain include exposure to chemotherapy, radiation therapy, and surgery(1,5)",
+            "Use of steroids during chemotherapy increases likelihood of osteonecrosis(1)",
+            "Type of cancer(3)\u2013Tumors that metastasize to bone, such as breast or prostate, are associated with a higher incidence of pain than lymphomaand leukemia",
+            "Stage of cancer(3,26)\u2013Pain prevalence increases with disease progression",
+            "Location of cancer(3)\u2013Tumors in close proximity to neural structures cause a higher incidence of pain",
+            "Number of metastases(1)\u2013More pain is generally associated with metastases, although there are exceptions with some types of cancer (e.g., breastand prostate)\u2013Coexisting diagnoses of depression, anxiety, and previous history of substance abuse also influence a patient\u2019s report ofpain(3)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients with cancer and those who have undergone cancer treatment may exhibit fatigue, pain, weakness, cognitive difficulties, anxiety or depression, and changes in self-esteem.(7) All of these should be kept in mind when working with these patients, and examinations and treatments should be adjusted accordingly to the needs of the patient",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Be prepared to stop examination or treatment if patient shows indications of excessive pain or fatigue",
+            "Consider the surgeon\u2019s pre- and post-operative  protocol if the patient has undergone surgery",
+            "Keep in mind that pain can be due to other reasons beside cancer",
+            "Refer to the physician for any \u201cred flags\u201d during the examination (e.g., signs of deep vein thrombosis[DVT], excessive shortness of breath, nausea and vomiting, sudden increase in pain)",
+            "Let the patient know that it is important for him/her to always communicate if any part of the exam increases the pain and that the examination will be stopped if the pain increases significantly"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " -When was the diagnosis of cancer made and at what stage was it? What were the signs and symptoms prior to diagnosis? What treatment has the patient received up to this point? Is the cancer considered to be in remission or is it actively being treated? Has metastasis been diagnosed? -The most common method for staging of cancer is the tumor, node, metastasis (TNM) system, in which the T level (tumor) indicates size and extent of tumor, the N level (node) indicates number of regional lymph nodes to which the cancer has spread, and the M level (metastasis) indicates presence of distant metastasis(22) -For example, T3N1M0 indicates that a large primary tumor exists, one regional lymph node is involved, and no metastasis is present -Cancer may also be described as stage 0 (abnormal cells present without spread to nearby tissue that may become cancer), stage I, II, or III (cancer is present with higher numbers indicating larger tumors and wider spread to nearby tissues), or stage IV (cancer is present and has spread to distant areas of the body)(22)",
+                "course of treatment": {
+                    "medical management": " Based on type and stage of cancer; the most common cancer treatment approaches are surgery, radiation therapy, chemotherapy, immunotherapy, targeted therapy, hormone therapy, stem cell transplant, and precision therapy, which involves physicians determining specific treatment approaches to use with a patient based on genetic factors involved in the disease(22) Cancer treatment usually involves a combination of treatment approaches, but it is possible for only one approach to be used(22) Cancer pain can be treated with oral medications, skin patches, rectal suppositories, medication injections (i.e., subcutaneous, intravenous, intrathecal, and epidural injections), and patientcontrolled  analgesia (PCA) pumps(26)",
+                    "surgical management": [],
+                    "medications": " Analgesic drug therapy is the mainstay of cancer pain management(3) The World Health Organization (WHO) guidelines suggest a three-step  analgesic ladder for treating cancer pain in adults(23) Step 1  mild cancer pain is treated with nonopioid analgesics that may or may not be combined with an adjuvant drug Step 2  persisting mild pain or increasing to moderate pain is treated with a low dose of opioid with nonopioids and/ or adjuvant drugs to enhance analgesia Step 3  persisting moderate pain or increasing to severe pain is treated with a higher dose of opioid, nonopioids, and/ or adjuvant drugs to enhance analgesia Common opioids used to treat cancer-related pain are codeine, hydromorphone, levorphanol, methadone, morphine, oxycodone, hydrocodone, oxymorphone, and fentanyl(26) Drowsiness, constipation, nausea, vomiting, dizziness, itching, confusion, hallucinations, respiratory depression, and trouble urinating are possible side effects of opioids(26) Methadone was found to be an effective and safe second-line  opioid for treating cancer-related pain(27) Based on results of a study which investigated the use of oral methadone in opioid rotation to improve pain control and manage side effects of other opioids  After being transitioned to methadone following a specific protocol, patients reported significant reductions in pain levels and decreased use of rescue medication; no increases in opioidrelated side effects were reported Transdermal fentanyl has been found to be an effective and safe treatment to manage chronic cancer pain in the pediatric population(28) Based on a study of 64 children with moderate to severe cancer pain with no prior opioid use Patients were treated with a transdermal fentanyl patch which allowed for a stepwise dose increase to manage pain Although reductions in blood pressure were noted soon after application of the fentanyl patch, patients remained medically stable throughout the study period; sedation was also noted, but returned to baseline as the study progressed; no other side effects were reported Over the 2-week  study period, scores on pain scales significantly improved; play and activity levels were also improved from baseline Nonopioids used to treat cancer-related  pain include non-steroidal  anti-inflammatory medications (NSAIDs) and acetaminophen(26) Antidepressants, anticonvulsants, local anesthetics, corticosteroids, and a wide variety of other drugs have been used to treat neuropathic cancer pain(3) Common medications for bone pain include bisphosphonate drugs (e.g., pamidronate) to prevent skeletal morbidity, calcitonin, and denosumab (a monoclonal antibody against bonemodifying  agents)(3) Anesthetic and neurosurgical approaches to pain may be used with well-defined  localized pain. Examples are local-use anesthetics, peripheral nerve, celiac plexus, lumbar sympathetic, and stellate ganglion blocks(3) Authors of a case report involving 5 patients described how continuous peripheral nerve blocks using ropivacaine were effective in managing chronic pain in patients with varying types of cancer, were welltolerated  by patients, and may be an appropriate alternative to opioids in managing cancerrelated  pain in selected cases(24) Catheters for drug administration were placed in either the upper or lower extremity depending on the area most affected by pain; doses of ropivacaine were administered via a PCA pump; the duration of drug administration ranged from 12 to 110 days Patients reported decreased pain, with complete resolution for most; improved satisfaction; and improved quality of life Treatment with the continuous nerve block also reduced the need to use other analgesic drugs Other possible treatments are epidural and interspinal analgesia, neuroablative and neurostimulatory procedures for the relief of pain, and trigger point injection and acupuncture(3) Authors of a systematic review found that intrathecal therapy may be an appropriate approach to manage chronic cancerrelated  pain in patients with and without active disease(25) The use of morphine (opioid) and ziconotide (nonopioid) delivered via an intrathecal pump was investigated Results discussed in the review indicated a trend toward improved pain in patients treated with intrathecal morphine, ziconotide, and/or combination drug therapy, as well as fewer systemic side effects than traditional drug administration Researchers highlighted the importance of a multidisciplinary treatment team and drug trialing prior to pump implantation to identify appropriate patients for intrathecal therapy Researchers of a study designed to investigate the use of \u201cCalmare therapy\u201d (a form of electrical stimulation to treat pain) found the treatment approach to be effective in reducing pain levels associated with chemotherapyinduced peripheral neuropathy, metastatic bone pain, and postsurgical  neuropathic pain(29) The study involved a 1-week  baseline period, a 2-week  treatment period, and a 2-week  follow-up visit Treatment involved the use of 1\u22125 sets of electrodes placed near painful sites with electrical impulses delivered to the sites; each treatment lasted 40 minutes and patients received 1 treatment per day for 10 days; treatment followed a general protocol for the use of Calmare therapy with the intensity of the electrical stimulus being gradually increased based on patient tolerance and analgesic response At follow-up,  pain scores on a self-report measure significantly improved from baseline; patients also reported improved functional status and decreased use of rescue opioids",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following(3)",
+                        "Computerized tomography (CT) or magnetic resonance imaging (MRI)  considered most useful for diagnosis ",
+                        "MRI can differentiate osteoporotic from tumor-induced  bony changes in patients with collapsed vertebral bodies",
+                        "Positron emission tomography (PET)  defines tumor and differentiates the tumor from radiation injury and postsurgical injury",
+                        "Bone scan  shows changes in bone before they appear on radiograph",
+                        "Tumor markers  specific to cancer (e.g., cancer antigen 125 for ovarian cancer, prostate-specific  antigen)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help or not Make sure to ask about client\u2019s use of complementary and alternative medicine (e.g., acupuncture, herbal medicine, and massage)(2) Authors of a systematic review and meta-analysis  investigated the efficacy and safety of acupuncture in the management of cancerrelated pain(30) Twenty randomized controlled trials were included in the analysis; results showed that the use of acupuncture alone was not more effective than traditional drug therapy in relieving cancer pain; however, the use of acupuncture in combination with drug therapy resulted in improved pain relief, increased time without pain following treatment, and improved quality of life when compared to drug therapy alone Authors of another systematic review and meta-analysis  investigated the efficacy of massage therapy in reducing pain and improving quality of life in cancer populations(31) Sixteen studies were included in the review; results provided evidence of a therapeutic benefit of massage in reducing pain, fatigue, and anxiety in cancer populations; however, additional studies are needed to determine more specific protocols and outcome measures when using massage to treat cancerrelated  pain Counseling is an alternative therapy for cancer-related  pain that has been shown to help reduce pain and fatigue in patients undergoing chemotherapy(32) Study included 20 patients who were randomly divided into either the counseling group or the control group The counseling group received 4 sessions of counseling services, which included listening to problems, exploring feelings, providing information, clarifying doubts, and developing methods to cope with symptoms. Sessions took place over 4 weeks while patients continued to receive chemotherapy; the control group received usual chemotherapy treatment Results indicated a significant decrease in scores on pain and fatigue rating scales at the end of the intervention; a significant increase in pain and fatigue scores was found for the control group Music and poetry have demonstrated effectiveness in helping to manage cancer pain(33) Based on a study designed to investigate the benefit of passive listening to music or poetry for managing pain, reducing depression, and improving feelings of hope among patients with cancer Study participants were randomly assigned to either the music group, poetry group, or control/no intervention group; patients in the music and poetry groups were provided with mp3 players containing carefully selected music or poems and listened to the players for 30 minutes per day; the study was completed over 3 months Results indicated improved scores on a pain scale and depression inventory for the music group; improvements in pain, depression, and hope were noted for the poetry group; no significant change in scores was noted for the control group Relaxation and guided imagery have also been investigated as alternative therapies in the treatment of cancer pain(34) A recent study investigated the feasibility and efficacy of, and overall patient satisfaction with, relaxation and/or guided imagery programs for managing pain, reducing fatigue, and improving sleep for patients with cancer Patients were randomly assigned to the guided imagery group, relaxation group, combined intervention group, or usual care group; patients in the intervention groups were given mp3 players containing a guided imagery or progressive relaxation audio program; patients in the combined intervention group participated in both programs; the intervention lasted 60 days Outcome measures indicated that pain levels persisted for most patients, but relaxation training and/or guided imagery improved fatigue and sleep quality; most patients also reported high levels of satisfaction with both the intervention approaches",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Document factors that either aggravate the patient\u2019s pain or ease it ",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling) -According to the British Pain Society, the OT assessment of pain should identify factors that aggravate and relieve pain, identify patient beliefs regarding pain, determine the significance of pain from patient and caregiver perspectives, and examine how pain affects a patient\u2019s ability to manage daily activities(6)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, worst, and at the moment (specifically address if pain is present now and how much ) -A multidimensional pain assessment is recommended(3)(3) -Brief Pain Inventory (BPI)  self-administered, easily understood, brief method to assess pain. It has been translated into many languages and used to assess pain in patients with cancer in various settings -McGill Pain Questionnaire (MPQ)  78 adjectives that cluster in 20 categories, which are divided into 4 dimensions -Patient-Reported  Outcome (PRO) measures(3) used in oncology trials -M.D. Anderson Symptom Inventory (MDASI) -Patient Care Monitor (PCM) -Memorial Symptom Assessment Scale (MSAS) validated, patient-rated  measure of multidimensional information about various symptoms. Tests have confirmed its value in patients with various types of cancer -Functional Assessment of Cancer Therapy General (FACT-G)   27 items that assess symptoms in physical, social, emotional, and functional domains -European Organization for Research and Treatment of Cancer Quality of Life Questionnaire  has been shown to reliably predict functional status, toxicity, and chemotherapy response -Edmonton Symptom Assessment Scale (ESAS)  for patients who receive palliative care. It has been validated in patients with cancer and correlates closely with MSAS and BPI",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (AM, mid-day, PM, night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document # of wakings/night and the cause of the wakings (e.g., pain, need to urinate, sleep abnormalities)",
+                "other symptoms": "Document other symptoms patient may be experiencing which could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, shortness of breath, sudden increase in pain, excessive nausea and vomiting, excessive weight loss)",
+                "respiratory status": "Document if the patient uses supplemental oxygen, CPAP or BiPAP at night, was or is on a ventilator -Respiratory status may be especially compromised in patients with lung cancer -Are there any barriers to learning? Yes/No -If Yes, describe -Changes in cognition and ability to learn can occur due to the cancer itself or related treatments(10)"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Ask patient about other problems including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "What activities/hobbies does the patient enjoy? Do these activities tend to affect the patient\u2019s pain? Is he or she trying to return to an activity that he or she stopped doing because of the pain? A patient-caregiver  interview might be helpful to gain insight into the patient\u2019s hobbies, family/ community roles, interests, current or prior work status, and home responsibilities",
+                "functional limitations assistance with ADLs adaptive equipment": "What current assistive or adaptive equipment is available to the patient at home? Can it be utilized based on the patient\u2019s current level of functioning? -Document both high-  and low-tech  adaptations and equipment",
+                "living environment": "stairs, number of floors in home, with whom does patient live, caregivers, etc.; identify if there are barriers to independence in the home; any modifications necessary? -Does the patient have supportive family members? Do those family members live near and/or have the ability to provide assistance? -Does the patient have access to community resources?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting",
+            "anthropometric characteristics": " \u2013Note body mass index (BMI)",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or current use of assistive and adaptive devices \u2013Mobility aids \u2013 cane, walker, wheelchair, crutches, hemi-walker,  ankle-foot  orthoses \u2013Toileting and showering equipment \u2013 grab bars, bedside commode, urinal at bedside, raised toilet seat, shower chair/tub bench, elevated foot rest at the toilet \u2013ADL/IADL aids \u2013 reachers, personal digital assistant, large-print  reading material, adaptive ergonomic computer/mouse/ keyboard, text-to-speech  software, adaptive cooking equipment",
+            "balance": "Evaluate static and dynamic balance functionally during ADLs \u2013Tinetti Balance Scale, Berg Balance Scale, and Functional Reach Test (FRT) can be used",
+            "cardiorespiratory function and endurance": [
+                "Assess heartrate, blood pressure, respiration rate, and pulse oximetry pre/during/post activity; use Borg Rating of Perceived Exertion (RPE) Scale if indicated",
+                "Six minute walk test (6MWT) can also be administered",
+                "If patient has surgically managed breast cancer, avoid taking blood pressure on side of surgery"
+            ],
+            "circulation": "Assess pulse bilaterally and note any discrepancies or abnormalitiesAssess patient for involvement of cranial or peripheral nerves \u2013Because cancer pain can be caused by injury to the peripheral or the central nervous system, a resulting neuropathy or muscle weakness can be present(3)If edema/lymphedema is present, measure extremity circumference using tape measure or volumetric measurements; compare extremitiesAssess body mechanics during functional tasks to determine if pain is contributing to abnormal mechanics, causing compensations and postural changes(6,11)Bed mobility and transfers should be assessed to determine the amount of assistance that the patient needs. Note any complaints of pain during assessment \u2013Fatigue with pain is commonly seen in patients with cancer and may limit mobility in self-care(2) \u2013Timed up and go (TUG) test or FIM can be used",
+            "functional mobility": "",
+            "gait locomotion": "Observe patient\u2019s gait and ability to go up and down stairs. Note any abnormalities \u2013Note use of braces or walking aids \u2013If patient presents with abnormal gait, consider referring to physical therapyAssess joint integrity and mobility. The focus of the exam will depend on the cancer area and complaints of painAssess fine and gross motor function of the upper extremities and describe the quality of the movement. Note if pain is affecting motor function  \u2013The Disabilities of the Arm, Shoulder and Hand (DASH) has been used to assess upper extremity function in patients with breast cancer(12)",
+            "muscle strength": " \u2013Perform manual muscle testing (MMT) to evaluate strength in both upper extremities; do not perform MMT with contracted muscles or muscles with tone and coordination issues \u2013Dynamometer to assess hand strength bilaterally \u2013Assess grip strength in functional tasks \u2013Assess pinch strength \u2013Note any changes in complaints of pain that are associated with any of the tests. Myogenic pain frequently occurs in the oncology population due to debilitation, certain chemotherapeutic agents, muscle wasting, or direct tumor involvement with the muscle(1)",
+            "observation inspection palpation including skin assessment": [
+                "Inspect the skin in the painful area for breakdown, rashes, redness, swelling, warmth, tenderness, discharge, bleeding, wounds, or ulcers",
+                "Palpate areas of tenderness for trigger points, as tolerated, and note reaction of patient to palpation",
+                "Radiation therapy can cause dermatitis(5)",
+                "Chemotherapy or targeted therapy can cause skin pain, rash, or hand-foot  syndrome(5) \u2022Oral mechanism exam and related tests: Ask the patient about any swallowing difficulty and refer to primary physician or speech language pathologist if there are any concerns",
+                "The common treatments of head and neck cancer (e.g., resection of portions of the tongue, palate, and mandible, and radical neck dissection, as well as radiation therapy) often lead to loss of motion, temporomandibular joint dysfunction, and myofascial pain syndromes(1)",
+                "Treatment with bisphosphonates can result in osteonecrosis of the jaw(5)",
+                "Chemotherapy, radiation, and targeted therapy can cause mucositis(5) \u2022Perception  (e.g., visual field, spatial relations):",
+                "Document complaints of double vision, optic pain, visual field cuts, and use of patching",
+                "Perform ocular motor screening, including tracking through all planes, visual accommodation, and clarity of vision",
+                "For additional information on assessment and treatment of patients with visual impairment, see Clinical Review\u2026Visual Dysfunction: Occupational Therapy; CINAHL Topic ID number:T708963"
+            ],
+            "posture": "Poor posture can be the result of pain avoidance and can impact the ability of the patient to complete many functional tasks, including feeding, dressing, oral care, transfers, and meal preparation \u2013Document static/dynamic posture in both sitting/standing throughout a variety of tasks. Document any postural asymmetry observed during examination \u2013Note posture with and without adaptive equipment",
+            "range of motion": "Assess active range of motion (AROM) and passive range of motion (PROM) in both upper extremities, noting pain response with any active movement or stretchingAssess safety and ability to perform ADLs \u2013The FIM, the Physical Self-Maintenance  Scale (PSMS), the Assessment of Motor and Process Skills (AMPS), the Kohlman Evaluation of Living Skills (KELS), the Scorable Self-care Evaluation, and the Barthel Activities of Daily Living Index are appropriate standardized measures for ADLs \u2013For high-functioning  patients, assess IADLs such as driving, bill paying, meal preparation, shopping, and housework -The Lawton and Brody Instrumental Activities of Daily Living Scale -Includes items related to using the telephone, taking public transportation, shopping, meal preparation, housework, and medication and money management",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Assess bilateral upper extremities for lighttouch and sharp-dull  sensationspinprick, temperature, pressure, proprioception, vibration \u2013Patients may have sensory changes secondary to chemotherapy treatment; stinging, itching, and skin pain are all side effects of intravenous chemotherapy(5)",
+            "special tests specific to diagnosis": "See Rating of Symptoms  above for special tests associated with pain \u2013Quality of life can be measured by the Short Form Health Survey (SF-36)  \u2013Fear of Progression Questionnaire (FoP-Q)  \u2013 both a long and short form are available. It is a psychological questionnaire designed to measure fear of progression in patients with chronic illness, including cancer(13)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "The Mini-Mental  State Examination (MMSE) can be used \u2013There is convincing evidence from neuropsychological, imaging, and animal studies that demonstrates the presence of cognitive changes in patients due to cancer and cancer treatments(10)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Cryotherapy  contraindications(19) -Raynaud\u2019s syndrome -Cryoglobulinemia -Cold urticaria -Cold intolerance -Paroxysmal cold hemoglobinuria -Over area of impaired circulation -Over area of peripheral nerve regrowth -Over area of peripheral vascular disease",
+                "Cryotherapy  precautions(19) -Hypertension -Hypersensitivity to cold -Thermoregulatory disorders -Over an acute wound -Over superficial nerves -Over area of poor circulation -In the very young or old populations or those with impaired cognition",
+                "Thermotherapy  contraindications(19) -Over areas of impaired circulation or vascular disease -Over areas of decreased sensation -Over areas of inflammation -Over areas of skin infection -Over areas of malignancy -Over areas where liniments or heat rubs have been used -Over areas with presence of or tendency for hemorrhage -With patients who have impaired cognition or language barrier",
+                "Electrotherapy  contraindications/precautions(19) -Do not place electrodes near/over -Carotid bodies, cardiac pacemakers or implantable cardioverter defibrillators, phrenic nerve or urinary bladder stimulators, the phrenic nerve, eyes, or gonads -Pelvic, abdominal, lumbar, or hip regions in pregnant women -Areas of osteomyelitis -Areas of peripheral vascular disease -Areas of hemorrhage -Compromised skin or dermatological conditions -Cervical or craniofacial regions with history of cerebrovascular accident or seizures -Do not use within close proximity of sources of electromagnetic radiation, such as diathermy units -Use caution with patients who have cardiac dysfunction or seizure disorders  -Use caution with patients who have impaired sensation, mental status, communication(2,19) -Consult with physician prior to using with patients who have active or inactive neoplasms"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis may be at risk for falls; follow facility protocols for fall prevention and postfall-prevention instructions at bedside with inpatients. Ensure that patient and family/caregivers are aware of the potential for falls and that they are educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Contraindications/precautions to use of modalities"
+            ]
+        },
+        "diagnosis need for treatment": "Interruption of daily routines including self-care,  work, leisure, or social activities due to cancer or from the effects of the cancer treatment indicates the need for OT. OT is also indicated for treatment of common side effects of cancer, including fatigue, pain, weakness, cognitive difficulties, anxiety or depression, and changes in self-esteem  or self-image(7) OT can be helpful during all stages of cancer care in patients whose cancer is newly diagnosed, who are undergoing treatment or receiving hospice or palliative care, or those who are cancer survivors. Caregivers can also benefit from the above-mentioned  treatment and instruction in home programs, as well as support and assistance(7)",
+        "rule out": "Pain due to causes other than cancer",
+        "prognosis": [],
+        "referral to other disciplines": " Back to prescribing physician for any abnormal findings Physical therapist for gait abnormalities Speech-language  pathologists for swallowing and speech issues Nutritionist Pain specialist as needed Psychologist, psychiatrist, or counselor for anxiety, depression, low self-esteem,  and other psychosocial difficulties Neuropsychologist for advanced cognitive assessment as needed",
+        "other considerations": [],
+        "treatment summary": [
+            "Combining pharmacological and non-pharmacological  approaches to patients with cancer may optimize pain control(14)",
+            "There is a paucity of evidence regarding the effectiveness of OT interventions for cancer in general and for pain specifically(2,8)",
+            "Researchers who conducted a 2010 systematic review of patient-based educational interventions for cancer pain management found that educational interventions produced a modest benefit (average pain intensity reduced by 1 point on a 10-point  scale)(15) \u2013Based on 21 studies with 3,501 participants",
+            "The British Pain Society released a consensus statement in 2010, endorsed by the United Kingdom Association of Palliative Medicine and the Royal College of General Practitioners, about physical, interventional, and complementary therapies in the treatment of cancer pain that contained the following conclusions about OT and cancer-related  pain(6) \u2013\u201cPhysiotherapists (PTs) and occupational therapists (OTs) have an important role in the management of cancer pain and have specific skills that enable them to be patient focused and holistic. Therapists utilize strategies that aim to improve patient functioning and quality of life, but the challenge remains to practice in an evidence-based  way and more research is needed in this field\u201d(6) \u2013Goals are to relieve pain and to improve function and quality of life with treatment that is patient-centered, collaborative, and restorative \u2013Early referral to therapy is important \u2013It is essential to explore the meaning of pain to the patient, taking into account cultural, spiritual, religious, and philosophical beliefsand how they affect the patient\u2019s perception of pain \u2013Therapy management (both PT and OT) includes graded activity for return to function, therapeutic exercise, graded and purposeful exercise, postural re-education,  massage and soft-tissue  mobilization, transcutaneous electrical nerve stimulation (TENS), hot and cold therapy, and lifestyle adjustment -Lifestyle adjustment includes analysis of activity tolerance with use of pacing, planning, prioritizing, energy management, activity analysis, work simplification, time management, compensatory techniques, ergonomic principles, and the reorganization of routines",
+            "The following are recommendations from clinicians experienced in treating cancer pain \u2013An interdisciplinary, multimodal, and personalized intervention should be considered when managing cancer-related pain(2)  -Team composed of occupational therapist, oncologist, physicians from other specialties, pharmacist, nurse, physical therapist, social worker, chaplain, psychologist, dietician, and respiratory therapist with client-centered  approach -Improvement in the effectiveness of pain management of older adults with cancer in a Geriatric Evaluation and Management Unit (GEMU) may have been due to the significantly greater use of psychology, psychiatry, and physical and occupational therapy services(16) -GEMUs are a specialized program of services provided by a team (geriatrician, social worker, nurse) offered in both inpatient and outpatient settings -The original randomized controlled trial had shown that GEMUs positively influence bodily pain, mental health, and functional status when compared to usual care(17) -This study was conducted in 11 Veterans Affairs medical centers in the United States -In the more recent study, researchers investigated the reasons the patients in the GEMU reported better pain scores than the usual care group(16) -Researchers were not able to detect differences in analgesic use between groups, but attributed this to the small sample size \u2013OT can help patients continue or resume usual roles despite cancer-related  pain. Treatment should consist of(2) -active listening \u2013 realizing that patients hold different beliefs and fears about pain (e.g., pain is inevitable, good patients do not complain of pain, pain is a sign of treatment failure or cancer reoccurrence) -education \u2013 encouraging patient and caregiver to take an active role in pain management (e.g., learning pain vocabulary so needs can be expressed to the medical team) -prevention -Managing acute pain well prevents development of chronic pain -Using exercise prevents physical deconditioning that can contribute to the pain process -Preventing painful syndromes such as lymphedema -Preventing/reducing strain and exhaustion suffered by patient and/or caregivers using home assessment and adaptation -problem solving -Promoting ease and recall to promote adherence to analgesic medication -Addressing ways to achieve independent performance of productive, leisure, and daily living activities -Helping the isolated patient realize the importance of seeking support -facilitating experiential learning -Examples are practicing relaxation techniques; activity pacing; using artistic activities to either explore, express, or distract from pain; returning to meaningful occupations or familiar activity to give life normalcy",
+            "Intervention approaches to pain rehabilitation (not specific to cancer) as put out by AOTA are(11) \u2013education \u2013 informing patients about their pain, clarifying treatment goals and expectations, and a self-management approach to treatment \u2013functional goal setting \u2013 patient is actively involved in identifying and setting goals \u2013training -Proactive pain control \u2013 train in use of modalities (thermo-  and cryotherapy) to increase independent ability to manage/ prevent pain and support participation in daily activities -Safe body mechanics and ergonomics\u2013  train in techniques to reduce/prevent strain during ADLs, work, leisure, social, and community activities -Neuromuscular re-education  \u2013 retrain normal movement patterns -Muscletension reduction training\u2013  train in strategies to relax muscles and promote general calming -Communication skills training \u2013 train in the use of assertive behavior (e.g., being able to say \u201cno\u201d to an activity that causes pain) when needed -Proactive problem solving\u2013  assist patient in determining alternative methods to complete activitiesavoided due to pain and planning for potential challenges -Pacing activities \u2013 assist patient in self-regulating activity level to reduce flare-ups  of pain \u2013home exercise program \u2013 specifically tailored to patient to assist with maintenance of a healthy lifestyle \u2013screening for additional referrals\u2013  refer to other professionals when needed to address psychological, emotional, cognitive, or physical challenges",
+            "Pain associated with specific conditions (e.g., amputee, use of orthosis or prosthesis, spinal cord injury, lymphedema) can also be addressed by rehabilitation medicine(9)  \u2013For specific information on pain and these conditions, see the Clinical Review  associated with that condition . Problem Goal Intervention Expected Progression Home Program Patient/caregiver not educated about causes of pain and ways to manage _ _ Patient not involved in identifying goals for his/her own therapyPatient/caregiver aware of causes of pain and how to manage it _ _ _ Patient able to set functional goalsEducation:  designed to inform client about pain and the self-management approach(11) _ _ _ Discussions about appropriate functional goalsAdditional information provided at patient request _ _ _ Progress goals as patient toleratesN/A Complaints of pain Decreased complaints of pain and/or ability to self-manageTraining:   proactive pain control \u2013 use of pain control modalities (cryotherapy, thermotherapy)(11) _ _ Body mechanics/ ergonomic training(11) _ _ Neuromuscular re- education(11) _ Muscle tension reduction training(11) _ Proactive problem solving(11) _ Pacing activities and energy conservation techniques(11) _ _Progress as patient tolerates, always noting how pain is affectedDevelop programs that use these training methods to self-manage pain  Difficulties with completing ADLs and IADLsIncreased independence in ADLs and IADLsTherapeutic exercise: designed with functional goals of the patient in mind; instruction in stretching and/or exercises to maintain mobility and strength needed to perform ADLs and IADLs; instruction in positioning techniques(7) Adaptation of activity and environment  (7) _ _ Assistive and adaptive equipment  : reachers for patients with shoulder and back limitations, large- handled utensils, tubseat, handheld shower for safety(9)Progress as patient toleratesHome exercise program; instruct caregivers as needed Weakness or loss of ROM in upper extremitiesIncrease strength and ROM in upper extremitiesTherapeutic exercise  : strengthening and ROM exercises(7)Progress as tolerated, always respecting patient\u2019s painDevelop home program and instruct patient/ caregiver in it ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "patient caregiver knowledgeable about the various causes of pain and the ways to self-manage  pain": [],
+        "decreased complaints of pain": [
+            "V AS, BPI, MPQ, MDASI, PCM, MSAS, FACT-G,  ESAS"
+        ],
+        "improved independence in adls": [
+            "FIM, PSMS, AMPS, KELS, the Scorable Self-care  Evaluation, Barthel Activities of Daily Living Index"
+        ],
+        "increased participation and improved independence in iadls": [
+            "The Lawton and Brody Instrumental Activities of Daily Living Scale"
+        ],
+        "improved strength and rom": [
+            "MMT, functional tasks, dynamometry, goniometry"
+        ],
+        "quality of life": [
+            "SF-36,  FoP-Q"
+        ]
+    },
+    "maintenance or prevention": [
+        "Lifestyle management (e.g., preventive health, improved fitness) is important. Focus should be on the person\u2019s strengths and positive coping strategies that give the patient control of his/her lifestyle(7)",
+        "Prevention is a key point of OT because managing acute pain limits the development of chronic pain, supports participation in daily activities to help preventa sedentary lifestyle , and decreases the development of painful syndromes(2)",
+        "Management of cancer pain is considered an important aspect of treatment. If pain is not managed, a patient may be tired, depressed, angry, worried, lonely, and stressed. With good pain management, patients can enjoy being active, sleep better, enjoy family and friends, improve their appetite, enjoy sexual intimacy, and prevent depression(18) "
+    ],
+    "patient education": [
+        "Download a booklet of patient information on pain control from the National Cancer Institute at the National Institutes of Health (NIH) at http://www.cancer.gov/Publications/patient-education/pain-control",
+        "Information regarding cancer pain and management options is available from the American Cancer Society at https://www.cancer.org/treatment/treatments-and-side-effects/physical-side-effects/pain.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Fitzgibbon DR, Loeser JD. In: Cancer pain: Assessment, diagnosis, and management . Philadelphia, PA: Wolters Kluwer/Lippincott Williams & Williams; 2010:2-23.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Lapointe J. Cancer-related  pain: the role of occupational therapy in prevention and management. OT Now. 2012;14(5):10-12.  (X)"
+        },
+        {
+            "number in article": 3,
+            "reference": "LeBlanc TW, Abernethy AP. Management of Cancer Pain. In: Devita VT, Lawerence TS, Rosenberg SA, eds. Hellman and Rosenberg\u2019s Cancer Principles & Practice of Oncology . Philadelphia, PA: Wolters Kluwer; 2015:2084-2104.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "van den Beuken-van  Everdingen MHJ, de Rijke JM, Kessels AG, Schouten HC, van Kleef M, Patijn J. Prevalence of pain in patients with cancer: a systematic review of the past 40 years. Ann Oncol . 2007;18(9):1437-1449.  doi:10.1093/annonc/mdm056. (SR)"
+        },
+        {
+            "number in article": 5,
+            "reference": "National Cancer Institute. Cancer Pain (PDQ\u00ae) \u2013 Patient Version. National Cancer Institute Web site. https://www.cancer.gov/about-cancer/treatment/side-effects/pain/pain-pdq . Published September 23, 2016. Accessed April 9, 2017. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Raphael J, Hester J, Ahmedzai S, et al. Cancer Pain: Part 2: Physical, interventional and complimentary therapies: management in the community; acute, treatment-related and complex cancer pain: a perspective for the British Pain Society endorsed by the UK Association of Palliative Medicine and the Royal College of General Practitioners. Pain Med. 2010;11:872-896.  (G)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Longpre S, Newman R. The role of occupational therapy in oncology. American Occupational Therapy Association Web site Web site. https://www.aota.org/~/media/Corporate/ Files/AboutOT/Professionals/ WhatIsOT/RDP/Facts/Oncology%20fact%20sheet.pdf . Published 2011. Accessed April 9, 2017. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Robb K, Ewer-Smith  C. The role of therapies in managing cancer-related  pain. Eur J Cancer Care (Engl) . 2010;19(5). (X)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Vaughn P. Cancer. In: Boyt Schell BA, Gillen G, Scaffa ME, eds. Willard and Spackman\u2019s Occupational Therapy . 12th ed. Baltimore, MD: Lippincott Williams and Wilkins; 2014:1120-1124.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Ahles TA, Root JC, Ryan EL. Cancer- and cancer treatment-associated  cognitive change: an update on the state of the science. J Clin Oncol . 2012;30(30):3675-3686. doi:10.1200/JCO.2012.43.0116. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Rochman DL. Occupational therapy and pain rehabilitation. American Occupational Therapy Association Web site Web site. http://www.aota.org/~/media/Corporate/Files/ AboutOT/Professionals/WhatIsOT/HW/Facts/ Pain%20Rehabilitation%20fact%20sheet.pdf . Published 2014. Accessed April 9, 2017. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Swisher AK, Davison C, Aranda R, Eye D, Erickson M. Frequency and severity of self-reported  upper extremity impairments, activity limitations, and participation restrictions following breast cancer treatment. Rehabil Oncol . 2010;28(1):3-9.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Mehnert A, Berg P, Henrich G, Herschbach P. Fear of cancer progression and cancer-related  intrusive cognitions in breast cancer survivors. Psychooncology . 2009;18(12):1273-1280.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Chapman S. Cancer pain part 2: assessment and management. Nurs Stand . 2012;26(48):44-49.  (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Bennett M, Bagnall A, Closs SJ. How effective are patient-based  educational interventions in the management of cancer pain? Systematic review and meta-analysis.  Pain. 2009;143:192-199.  (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Nipp R, Solane R, Rao AV, Schmader KE, Cohen HJ. Role of pain medications, consultants, and other services in improved pain control of elderly patients with cancer in geriatric evaluation and management units. J Am Geriatrs Soc . 2012;60(10):1912-1917.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Cohen HJ, Feussner JR, Weinberger M, et al. A controlled trial of inpatient and outpatient geriatric evaluation and management. N Engl J Med . 2002;346:905-912.  (RCT)"
+        },
+        {
+            "number in article": 18,
+            "reference": "National Cancer Institute. Pain Control: Support for People with Cancer. National Cancer Institute Web site Web site. https://www.cancer.gov/publications/patient-education/paincontrol.pdf . Published May 2017. Accessed April 9, 2017. (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: F. A. Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "American Cancer Society. Cancer basics. American Cancer Society Web site Web site. https://www.cancer.org/cancer/cancer-basics.html . Published 2017. Accessed April 9,"
+        },
+        {
+            "number in article": 2017,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Hackett J, Godfrey M, Bennett MI. Patient and caregiver perspectives on managing pain in advanced cancer: a qualitative longitudinal study. Palliat Med . 2016;30(8):711-719. doi:10.1177/0269216316628407. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "National Cancer Institute. About cancer. National Cancer Institute Web site Web site. https://www.cancer.gov/about-cancer . Accessed April 9, 2017. (GI)"
+        },
+        {
+            "number in article": 23,
+            "reference": "World Health Organization. WHO\u2019s cancer pain ladder for adults. World Health Organization Web site Web site. http://www.who.int/cancer/palliative/painladder/en/ . Accessed April 9, 2017. (GI)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Fuzier R, Izard P, Cabos C, Chaminade B, Pouymayou. Chronic cancer-related  pain: continuous perineural infusion of local anesthetics as alternative to systemic analgesic drugs. J Pain Palliat Care Pharmacother . 2016;30(3):195-200.  doi:10.1080/15360288.2016.1192082. (C)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Bruel BM, Burton AW. Intrathecal therapy for cancer-related  pain. V. 2016;17(12):2404-2421.  doi:10.1093/pm/pnw060. (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "American Cancer Society. Cancer pain. American Cancer Society Web site Web site. https://www.cancer.org/ treatment/treatments-and-side-effects/physical-side-effects/pain.html . Published 2017. Accessed April 22, 2017. (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Porta-Sales  J, Garz\u00f3n-Rodr\u00edguez  C, Villavicencio-Ch\u00e1vez  C, Llorens-Torrom\u00e9  S, Gonz\u00e1lez-Barboteo  J. Efficacy and safety of methadone as a second-line  opioid for cancer pain in an outpatient clinic: a prospective open-label  study. Oncologist . 2016;21:981-987.  doi:10.1634/theoncologist.2015-0503.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Othman AH, Mohamad MF, Sayed HA. Transdermal fentanyl for cancer pain management in opioid-naive  pediatric cancer patients. Pain Medicine . 2016;17(7):1329-1336. doi:10.1093/pm/pnw004. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Lee SC, Park KS, Moon JY, et al. An exploratory study on the effectiveness of \u201cCalmare therapy\u201d in patients with cancer-related  neuropathic pain: a pilot study. Eur J Oncol Nurs. 2016;21:1-7.  doi:10.1016/j.ejon.2015.12.001. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Hu C, Zhang H, Wu W, et al. Acupuncture for pain management in cancer: a systematic review and meta-analysis.  Evid Based Complement Alternat Med . 2016;1-13. doi:10.1155/2016/1720239. (M)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Boyd C, Crawford C, Paat CF, et al. The impact of massage therapy on function in pain populations-a systematic review and meta-analysis  of randomized controlled trials: part II, cancer pain populations. Pain Med . 2016;17(8):1553-1568.  doi:10.1093/pm/pnw100. (M)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Kaur R, Mahal RK, Rubia. A randomized control study to evaluate the effectiveness of counseling on pain and fatigue among cancer patients receiving chemotherapy in selected hospital, Ludhiana, Punjab. Int J Nurs Educ . 2016;8(1):47-52.  doi:10.5958/0974-9357.2016.00009.X.  (RCT)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Bacelar Arruda MAL, Garcia MA, Santos Garcia JB. Evaluation of the effects of music and poetry in oncologic pain relief: a randomized clinical trial. J Palliat Med . 2016;19(9):943-948.  doi:10.1089/jpm.2015.0528. (RCT)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Nooner AK, Dwyer K, DeShea L, Yeo TP. Using relaxation and guided imagery to address pain, fatigue, and sleep disturbances: a pilot study. Clin J Oncol Nurs . 2016;20(5):547-552.  doi:10.1188/16.CJON.547-552.  (RCT)"
+        }
+    ]
+}

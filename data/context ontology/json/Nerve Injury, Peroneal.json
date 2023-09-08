@@ -1,0 +1,394 @@
+{
+    "metadata": {
+        "title": "Peroneal Nerve Injury",
+        "synonyms": [
+            "nerve injury, peroneal",
+            "injury, peroneal nerve"
+        ],
+        "anatomical location body part affected": [
+            "The peroneal nerve is a component of the sciatic nerve. The sciatic nerve is the largest nerve arising from the sacral plexus, which is formed from the L4-S4  ventral rami. As the sciatic nerve traverses the posterior thigh, it bifurcates just proximal to the popliteal fossa into the tibial and common peroneal nerves(1)",
+            "The common peroneal nerve extends beyond the lateral head of the gastrocnemius and around the fibular head, where it is most superficial. After this point, the common peroneal nerve bifurcates into the superficial peroneal nerve (traversing the lateral lower leg) and the deep peroneal nerve (within the deep anterior compartment near the interosseous membrane)(1)",
+            "The deep peroneal nerve innervates the anterior muscles of the lower leg responsible for ankle dorsiflexion (i.e., tibialis anterior, extensor digitorum longus, extensor hallucis longus, and peroneus tertius), whereas the superficial peroneal muscles innervate the ankle muscles responsible for eversion (i.e., peroneus longus, peroneus brevis)(1)"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "orthopedic rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Peroneal nerve injury is the most common lower extremity mononeuropathy(2)",
+            "It involves damage to the peroneal nerve (i.e., myelin sheath or the entire neuron) that results in a loss of muscle function and sensation in the lower leg and/or foot(3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S84.1": "injury of peroneal nerve at the lower leg level",
+            "G57.3": "lesion of lateral popliteal nerve (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Usually signs and symptoms are unilateral(4)",
+            "Decreased sensation (tingling, numbness) in lateral lower leg and foot and dorsum of foot, typically in a dermatomal pattern(4)",
+            "Pain within the lateral lower leg and foot, often in the dorsum of the foot(4)",
+            "Drop foot (i.e., weakness of the dorsiflexors and ankle evertors) usually is evident(2)",
+            "Stubbing toe, slapping foot, or tripping(4)",
+            "Antalgic gait pattern with decreased heel strike on initial contact and foot drop through the swing phase on the affected lower extremity",
+            "Decreased static and dynamic balance; increased fall risk",
+            "Difficulties with walking or climbing stairs because of foot drop(4)",
+            "Night cramps in anterior leg(4) ",
+            "Muscle atrophy in chronic cases(2)",
+            "Areflexia(19,20) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "It is important to always respect the patient\u2019s self-reported  level of pain",
+            "Although the peroneal nerve is most susceptible to injury at the knee, the nerve can also be injured at the hip and ankle due to tethered nerve fibers that are subject to traction injuries. Thus, the hip and ankle must be assessed in addition to the knee when evaluating a patient with a peroneal nerve injury(1)",
+            "Although foot drop is most likely due to a peroneal nerve injury, it can also be caused by other conditions that an evaluating clinician should rule out.(10) It is important to conduct a thorough evaluation, including a low-back  assessment. Patients can present with a foot drop due to an L5 radiculopathy (and not from a peroneal nerve injury) without low back or radicular symptoms.(10) See Rule out , below \u2013Acute compartment syndrome is a medical emergency requiring immediate surgery. For more information,see Clinical Review\u2026Compartment Syndrome, Acute ; CINAHL Topic ID Number: T708485. Chronic compartment syndrome is not a medical emergency. For more information, see Clinical Review\u2026Compartment Syndrome, Chronic ; CINAHL Topic ID Number: T708750."
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Acute trauma to lateral side of knee/fibular head(5)\u2013Contact sports (e.g., ice hockey player hit with stick or puck; football collision)(6)\u2013Gunshot wound(7)\u2013Fracture of fibular head/lateral tibial plateau(6)\u2013Knee dislocation(8)-Common peroneal nerve injury occurs in 10\u201340%  of knee dislocations\u2013Lacerations(1)\u2013Posterolateral corner injury(28)",
+            "Acute iatrogenic\u2013Overly tight plaster cast(1)\u2013Below-knee  ankle brace(1)\u2013Ice-pack  wrap over nerve(9)\u2013Obstetric stirrups(10)\u2013Direct surgical injury(11)-In rare cases, common peroneal nerve injury (CPNI) can occur after cardiothoracic surgery in adults(21)-Lisfranc surgery and hardware removal(29)-Reconstruction for multi-ligament  knee injuries(30)-Acetabular fracture and reconstruction(31)-Mechanism of injury appears to be direct compression of the peroneal nerve during hip retraction-Knee flexion reduced stretch and pressure to the nerve-Total knee arthroplasty(32)-Injury to the common peroneal nerve occurred in 0.4% of 47,585 knee replacements-Fasciotomy for anterior chronic exertional compartment syndrome (CECS)(33)-Although up to 8% of patients receiving a fasciotomy experience symptoms suggestive of iatrogenic superficialperoneal neve injury, a case series and cadaveric study determined there was no risk of nerve injury in a semiblindfasciotomy for anterior CECS",
+            "Habitual conduction block\u2013Habitual leg-crossing(10)\u2013Sitting cross-legged(10)\u2013Tight-fitting  high boots\u2013Constricting knee band\u2013Prolonged squatting or kneeling(10)-Can result in bilateral symptoms(22)",
+            "Anterior or lateral compartment syndrome(10)\u2013Can be an acute or chronic injury",
+            "Traction injury\u2013Severe lateral ankle sprain may lead to overstretching of the superficial peroneal nerve(10)\u2013Varus knee deformity from osteoarthritis(1)\u2013Rarely, a rapid growth spurt(23)",
+            "Leprosy(10)",
+            "Hyperlaxity",
+            "Masses/tumors(10)\u2013Nerve sheath tumors\u2013Lipomas\u2013Ganglion cysts\u2013Popliteal cysts\u2013Fibular tumors\u2013Osteomas\u2013Hematomas\u2013Intraneural cysts\u2013Perineural cysts",
+            "Side effects of chemotherapy treatment\u2013Vincristine, a common chemotherapy medication and known neurotoxic agent, is used to treat acute lymphoblasticleukemia(19)\u2013Vincristine causes axonal degeneration that progresses proximally in both the upper and lower extremities, resulting indecreased deep tendon reflexes and paresthesias in the fingers and toes with progressing symptoms including myalgia,paresis, sensory loss, motor weakness, and paralysis(20)\u2013Bilateral peroneal nerve palsy can develop, causing equinocavus deformities(20)"
+        ],
+        "pathogenesis": [
+            "There is direct trauma or compression to the peroneal nerve at the fibular head, resulting in peripheral mononeuropathy(2)",
+            "Seddon\u2019s nerve injury classification system(34)\u2013Neurapraxia: although the axonal structure is still intact, a nerve injury (usually of a compression mechanism) has resultedin a conduction block and demyelination\u2013Axonotmesis: a nerve injury involving a disruption of the continuity of axons while the connective tissue elements arestill intact\u2013Neurotmesis: the most severe nerve injury, in which the entire nerve has been injured",
+            "Sunderland grading classification for nerve injury is more regularly used by surgeons to assist in determining treatment(34)\u2013First degree: corresponds to neurapraxia above\u2013Second degree: corresponds to axonotmesis above\u2013Third, fourth, and fifth degree: injury to the endoneurium, perineurium, and epineurium. Due to disruption in connectivetissue, regenerating neurons are misguided-Third degree: recovery often still occurs, but surgery may be indicated to release entrapped nerves-Fourth degree: regenerating nerve sprouts become entangled due to internal hemorrhage and fibrous tissue formation,neuroma develops in continuity with the axon. Minimal recovery is seen without surgery-Fifth degree: a complete discontinuation of the nerve has occurred and an end-bulb  neuroma forms. Minimal recovery isseen without surgery",
+            "The vasanervorum are small arteries that supply blood to the peripheral nerves. During a stretch/traction injury, elongationof a peripheral nerve over 15% might lead to rupture of the vasanervorum. This will eventually lead to ischemia, followedby numbness, tingling, and weakness(8)"
+        ],
+        "risk factors": [
+            "Prolonged bed rest(1)",
+            "Malnutrition/excessive weight loss(1)",
+            "Jobs that involve extended periods of squatting or kneeling(1)",
+            "Diabetes mellitus, due to increased susceptibility to compression and ischemic injury(10)",
+            "Use of vincristine(19,20)",
+            "No age-related  or race-related  risks are known",
+            "No sex differences in alignment of the lower leg, ankle, or foot that might increase risk(11)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "It is important to always respect the patient\u2019s self-reported  level of pain",
+            "Although the peroneal nerve is most susceptible to injury at the knee, the nerve can also be injured at the hip and ankle due to tethered nerve fibers that are subject to traction injuries. Thus, the hip and ankle must be assessed in addition to the knee when evaluating a patient with a peroneal nerve injury(1)",
+            "Although foot drop is most likely due to a peroneal nerve injury, it can also be caused by other conditions that an evaluating clinician should rule out.(10) It is important to conduct a thorough evaluation, including a low-back  assessment. Patients can present with a foot drop due to an L5 radiculopathy (and not from a peroneal nerve injury) without low back or radicular symptoms.(10) See Rule out , below \u2013Acute compartment syndrome is a medical emergency requiring immediate surgery. For more information,see Clinical Review\u2026Compartment Syndrome, Acute ; CINAHL Topic ID Number: T708485. Chronic compartment syndrome is not a medical emergency. For more information, see Clinical Review\u2026Compartment Syndrome, Chronic ; CINAHL Topic ID Number: T708750."
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Does the patient recall a specific initial injury, or was there a gradual onset? -How long have symptoms been present? Do the symptoms arise from any specific type of activity? -Has strength or sensation improved since the onset of symptoms?",
+                "course of treatment": {
+                    "medical management": "Has the patient undergone any surgical or medical intervention to relieve symptoms? How has the condition responded to treatments? Nerve transfer(s) can be performed following severe nerve injury; however, this surgical procedure generally results in poor outcomes(26) Posterior tibial tendon transfer surgery has been shown to result in significant improvements in functional outcome measures as well as restoration of ankle dorsiflexion strength and ROM(35) This surgery has been applied in situations of foot drop following knee dislocation and CPNI",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Determine what medications the clinician has prescribed, if any. Are they being taken? How have the patient\u2019s symptoms responded to the prescribed medication? Vincristine, a common chemotherapy treatment, can result in peroneal nerve injury(19,20)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Electromyogram and nerve conduction tests; MRI to investigate location of nerve compression",
+                        "Ultrasonography might be utilized to assess the integrity of the common peroneal nerve around the fibular head(10)",
+                        "Radiographs and a CT scan may also be ordered to rule out pathology on or near the spinal cord",
+                        "Standard knee protocols may not be sufficient to assess common peroneal nerve injuries(27)",
+                        "More specific neural sequencing imaging studies with complete common peroneal nerve coverage were recommended for trial",
+                        "Home remedies/complementary therapies:  Document any use of home remedies (e.g., ice or heating pack, OTC pain medications) or complementary therapies (e.g., acupuncture, herbal supplements) and whether they help"
+                    ],
+                    "alternative therapies": "",
+                    "previous therapy": "Document whether patient has had physical therapy for this or other conditions and what specific treatments were helpful or not helpful. If so, what was the duration of therapy? What goals did the patient meet?"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased). Do certain movements or activities aggravate or alleviate symptoms? Does exercise increase the patient\u2019s symptoms? How long can the patient walk/jog/run prior to onset of symptoms? Does prolonged sitting or standing increase the patient\u2019s symptoms? Does the patient prefer to sit cross-legged? ",
+                "body chart": " Body chart -Use body chart to document location and nature of symptoms -In the early stages, patients may report pain in lateral lower leg and dorsum of the foot(1)",
+                "nature of symptoms": " Nature of symptoms -Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling) -The patient might report paresthesias, pain, tenderness, or muscle weakness",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if any. Patient may report night cramps",
+                "other symptoms": " Other symptoms -Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., headaches, symptoms of visual or auditory impairment, vertigo, decreased balance, decreased coordination, dysarthria, loss of consciousness) -Patient might also report stubbing of the toes, slapping foot, and/or tripping when walking",
+                "respiratory status": "Document the need for supplemental oxygen and parameters for oxygen use during rest/mobility. Does the patient smoke? Barriers to learning -Are there any barriers to learning? Yes___ No___ -If Yes, describe ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any previous history of lower leg pain and/or paresthesias",
+                    "comorbid diagnoses": "Document any medical conditions that may impair the patient\u2019s mobility (e.g., arthritis, osteoporosis, neuropathy, central stenosis, traumatic brain injury). Document any medical conditions such as diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational activities, competitive sports, or hobbies? Does the patient currently work? If so, describe the job requirements. Does the patient drive or access public transportation?",
+                "functional limitations assistance with ADLs adaptive equipment": "What was the patient\u2019s prior level of independence with ADLs? Does patient report any new limitations since the onset of the current injury? Is the patient currently using any assistive or adaptive equipment?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Document the patient\u2019s height, weight, body type, and BMI",
+            "assistive and adaptive devices": "Assess for current need, proper use, and condition of prescribed ambulatory assistive device or orthotic. Patient may be prescribed an ankle-foot  orthosis (AFO) to prevent tripping and falling",
+            "balance": "Assess single-leg  balance with eyes closed and open and compare to unaffected side. Use the Berg Balance Scale (BBS) and/or Functional Reach Test to assess patient\u2019s fall risk",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess bilateral distal pedal pulses  Cranial/peripheral nerve integrity \u2013Perform a straight-leg  raise test with and without a peroneal nerve bias (hip flexion, plantarflexion, and inversion) \u2013Note if testing elicits patient\u2019s symptomsComplete a functional assessment as indicated. Use the Functional Independence Measure (FIM), Timed Up and Go (TUG) test, Timed Up and Down Stairs, or Timed Repetition Sit to Stand test for assessment of patient\u2019s functional mobility",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Assess gait mechanics and note any asymmetry during swing and stance phases of gait. Note if the patient is ambulating with a foot drop, circumduction at the hip, increased hip and knee flexion (hip hiking or high stepping gait patterns), decreased step and stride length, decreased heel strike at initial contact, decreased eccentric control of the dorsiflexors causing foot \u201cslapping,\u201d the degree of foot drop(3) \u2013Use the Dynamic Gait Index (DGI) to assess patient\u2019s fall riskAssess bilateral lower extremity, lumbar, and sacral iliac joint mobility. Note if patient complains of increased pain or symptoms during joint mobility testing. Patient may have plantarflexion and inversion joint contracture",
+            "muscle strength": "Assess bilateral lower extremity and trunk strength with manual muscle testing (MMT) \u2013Hip flexion (iliopsoas) \u2013 L1-3,  femoral nerve \u2013Hip adduction \u2013 L3-4,  obturator nerve \u2013Hip abduction \u2013 L4-S1,  superior gluteal nerve \u2013Knee extension \u2013 L2-4,  femoral nerve \u2013Knee flexion \u2013 L4-S1,  sciatic nerve \u2013Plantar flexion \u2013 L5-S2,  tibial nerve \u2013Plantar flexion with inversion \u2013 L5-S1,  tibial nerve \u2013Plantar flexion with eversion \u2013 L5-S1,  superficial peroneal nerve \u2013Dorsiflexion \u2013 L4, deep peroneal nerve \u2013Dorsiflexion of great toe \u2013 L4-5,  deep peroneal nerve \u2013Expect weakness in foot eversion (superficial peroneal nerve), ankle dorsiflexion (deep peroneal nerve), and big-toe dorsiflexion (deep peroneal nerve) \u2013Is any weakness noted in any other muscle groups that might be indicative of another condition?",
+            "observation inspection palpation including skin assessment": [
+                "Check for muscular atrophy, ecchymosis, edema, and ulcers(1)",
+                "Document the presence of any swelling; take lower extremity circumferential measurements as indicated",
+                "Assess wound and dressing if there is a history of trauma. Note any signs/symptoms of infection. Describe the wound size, location, color, and exudate",
+                "Assess for tenderness, especially at fibular head; residual pain after an ankle sprain may indicate entrapment of superficial peroneal nerve",
+                "Assess for skin irritation if the patient is wearing an AFO or brace"
+            ],
+            "posture": "Assess for compensations in hip, knee, and ankle alignment",
+            "range of motion": "Assess active and passive ROM and flexibility of bilateral lower extremities and trunk; expect decreased active ROM in ankle and great-toe  dorsiflexion and foot eversion",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess bilateral lower extremity reflexes",
+            "sensory testing": " Sensory testing \u2013Perform a complete dermatomal sensory test and compare; two-point  discrimination may be more reliable \u2013The common peroneal nerve provides cutaneous sensation to the lateral calf, whereas the superficial and deep peroneal nerves provide cutaneous sensation to the dorsum foot and the first web space (area between the first and second toes), respectively(1) \u2013Assess bilateral lower extremity joint proprioception \u2013Sensory signs and symptoms may be absent despite the presence of a peroneal nerve injury(10)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosiswhen tapping over the most superficial portion of the common peroneal nerve (i.e., fibular head and neck), any local tenderness or dysesthesia might be indicative of a peroneal nerve injury(10) \u2013Use the Oswestry Low Back Pain Disability Questionnaire or the Foot and Ankle Questionnaire, as indicated ",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Is the patient alert and oriented x 4? Use the Mini-Mental  State Examination (MMSE) for further assessment of the patient\u2019s cognition, as indicated. Can the patient focus and attend to a specific task?",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Thermotherapy  contraindications(13) -Decreased circulation -Decreased sensation -Acute/subacute traumatic and inflammatory conditions -Skin infections -Impaired cognition or language barrier -Malignancy -Liniments -Presence of or tendency for hemorrhage or edema -Heat rubs",
+                "Electrotherapy  contraindications/precautions(13) -Do not place electrodes near: -carotid bodies, cardiac pacemakers or implantable cardioverter defibrillators, phrenic nerve or urinary bladder stimulators, phrenic nerve, eyes, gonads -Osteomyelitis -Hemorrhage -Impaired sensation, mental status, communication -Cardiovascular disease -Malignancy -Dermatological conditions -Proximity of electromagnetic radiation -In pregnant women, near the pelvis, lumbar spine, hips, abdomen -In patients with stroke or seizures, near the neck -History of spontaneous abortion in pregnant women"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment in their assessment and treatment decisions",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "An equinovarus foot deformity is a frequent complication when ankle dorsiflexion weakness is present. If a contracture develops, bracing can become intolerable, prompting surgical intervention(1)",
+                "Modify therapeutic exercises to allow for patient\u2019s functional limitations (frailty, easy fatigability, poor balance/ coordination, increased fall risk)",
+                "The peroneal nerve is susceptible to iatrogenic injuries resulting from improperly applied ice packs(9) or below-knee  ankle splints(1)",
+                "If the injury involves complete laceration of the peroneal nerve, strengthening the denervated muscles will be ineffective. Hence, maintaining ankle dorsiflexion ROM becomes imperative in order to prevent contracture(1)",
+                "Consider surgical referral for nerve repair if paresis worsens during treatment or functional deficits persist 4 to 6 months after injury(12)",
+                "Contraindications/precautions to use of modalities"
+            ]
+        },
+        "diagnosis need for treatment": "Painful nerve injury with reduced sensation and strength of lower leg and impaired mobility (walking, climbing stairs)",
+        "rule out": " Rule out Sciatic nerve lesion (includes weakness of ankle plantar flexors)(10)  L5 radiculopathy (includes weakness of foot inverters)(10) Lumbosacralplexopathy(10) Multiple sclerosis(14) Anterior compartment syndrome (associated with night cramps)(36) Vascular disease CNS lesions Polyneuropathy Stroke Disease of muscle or neuromuscular junction Pelvic or retroperitoneal disease",
+        "prognosis": [
+            "Patients with an incomplete peroneal nerve palsy will achieve full motor recovery, whereas < 40% of patients with a complete peroneal nerve palsy will be able to dorsiflex the ankle(25)",
+            "Nerve conduction studies can help determine prognosis. Nerve regeneration time is highly variable and may take months(34) \u2013Neurapraxic injuries: up to 12 weeks \u2013Axonotmesis: recovery time will vary depending on the location of the injury at a rate of 1 mm/day (cell body to the lesion) \u2013Neurotmesis: recovery is poor and often requires surgery",
+            "Twothirds of a small study group (N = 27) experienced some limitations in walking ability, climbing stairs, and leisure activities for 3 years or more following peroneal nerve injury(2)",
+            "Recovery is highly variable after peroneal nerve damage. Patients with acute conduction block may recover in a few weeks, whereas permanent weakness and loss of sensation may follow demyelinating lesions",
+            "Among patients who sustain a knee dislocation, those with a partial peroneal nerve injury are more likely to regain antigravity ankle dorsiflexion strength in comparison to those with a complete peroneal nerve injury(18) \u2013This United States research study included 27 patients with peroneal nerve injury who underwent multi-ligament  knee reconstruction and were followed for 6.3 years. The majority of patients (69%) regained antigravity ankle dorsiflexion(18) \u2013Ankle dorsiflexion recovery is 80% likely to occur if the nerve is in continuity(24) \u2013Multi-ligament  knee injuries with involvement of the posterolateral corner (PLC) are more likely to involve peroneal nerve injuries. In a case series, mid-substance  and fibular avulsion tears of the lateral collateral ligament (found in 96% of PLC injuries) were more likely to include peroneal nerve injury (28) -Patients with complete peroneal nerve palsy were less likely to regain function",
+            "There is generally a poor prognosis in peroneal nerve lesions from gunshot trauma or traction(7)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Occupational therapist for ADL training and evaluation of home or work barriers Podiatric surgeon for decompression of common peroneal nerve(15) Orthotist as indicated",
+        "other considerations": [],
+        "treatment summary": [
+            "The main objective is to alleviate any compression on the nerve. Orthotics and rehabilitation may be prescribed to manage and treat symptoms",
+            "Treatment consists of stretching, strengthening, balance/proprioceptive work, and functional training, in addition to orthotic prescription (as indicated)",
+            "Although peroneal nerve stimulators have been used for foot drop, they require a functioning peroneal nerve, so are not appropriate when a peroneal nerve injury is present(1)",
+            "In cases of posterior tibial tendon transfers for peroneal nerve injury and subsequent foot drop, physical therapy is initiated postoperatively(35) \u2013If physical therapy was completed prior to the tendon transfer with a focus on the posterior tibialis tendon, recruitment and activation of the tendon transfer occurs early in the postoperative period  . Problem Goal Intervention Expected ProgressionHome Exercise Program Pain and paresthesia Reduce pain and paresthesiaPatient education _ Identify and educate patient on habitual causes of conduction block (see  Causes , above) _ _ Referral to surgeon or specialist as indicatedN/A Provide patient with written instructions regarding changes in habits. The use of padding when sleeping or during other offending activities may be necessary(3) Contractures and reduced ROMImprove ROM and reduce/prevent contracturePhysical agents and mechanical modalities _ Use of heating modalities (in areas with normal sensation) to increase tissue extensibility(16) _ _ Manual therapy _ Perform manual stretching and joint mobilization for prevention of contractures due to denervation/weakness _ _ Therapeutic exercises _ Use of stretching techniques to prevent and treat the formation of muscle contractures(16)Progress each unique patient as appropriate and indicatedProvide patient with proper education on stretching techniques, proper warm-up, and use of heating agents such as a hot pack  Impaired strength Improve strength Physical agents and mechanical modalities _ Chronic neuromuscular electrical stimulation (NMES) improved axonal regeneration in an animal model of peroneal nerve injury. It is well established that functional NMES can help prevent disuse atrophy in denervated muscle(17) _ _ Manual therapy _ Apply proprioceptive neuromuscular facilitation techniques to increase ankle strength _ _ Therapeutic exercises _ Strengthening can begin when MMT is greater than 3/5. During the early stages, do not rehabilitate the muscle to exhaustion(3) _Therapeutic exercises _ Progressive stretching and elastic-band strengthening exercises for the ankle and big toe dorsiflexorsProvide patient with home stretching and exercise program  Reduced balance/ proprioception and increased risk of fallsImprove balance/ proprioception and reduce risk of fallsTherapeutic exercises _ Exercises that challenge balance reactions, with a focus on the ankle region, by progressively testing the patient\u2019s limits of stability(16) _ Perform double limb and single limb balance activities using level surfaces and then progress to uneven surfaces such as a foam wedge, Bosu ball, or mats. Challenge patient\u2019s balance reactions and stability by having the patient perform activities with his or her eyes open and then closed and using upper extremities (e.g., toss/catch, dribble ball)Progress each unique patient as appropriate and indicatedMay provide patient with simple exercises that can be done safely at home _ _ Implement fall prevention strategies at home Impaired gait and use of stairs; limited in recreational activitiesImprove gait and use of stairs; return to desired activitiesPrescription, application of devices and equipment _ AFO prescription as indicated. If only toe extensor weakness is present, stiff footwear may be all that is needed. If an isolated superficial peroneal nerve lesion is present, shoe orthosis with a lateral wedge will assist in improving gait(1) _ _ Functional training _ Gait training; stair negotiationProgress each unique patient as appropriate and indicatedIncorporate functional activities into home program as indicated ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced pain and paresthesia": [
+            "V AS, sensory testing"
+        ],
+        "increased functional mobility": [
+            "FIM, TUG test"
+        ],
+        "improved rom and reduction prevention of contracture": [
+            "Goniometry"
+        ],
+        "increased foot and ankle strength, primarily the ankle dorsiflexors and evertors": [
+            "MMT, isokinetic testing"
+        ],
+        "improved active rom": [
+            "Goniometry"
+        ],
+        "improved balance proprioception": [
+            "BBS, Functional Reach Test, single-leg  test"
+        ],
+        "improved functional mobility, gait, and use of stairs": [
+            "Gait assessment, DGI, 6MWT, Oswestry Low Back Pain Disability Questionnaire, Foot and Ankle Questionnaire"
+        ],
+        "return to previous physical activities": []
+    },
+    "maintenance or prevention": [
+        "Identify and prevent habitual causes of conduction block (see Causes ); maintain independent therapeutic exercise program",
+        "Ensure fall-risk  precautions are followed if a patient is at risk for falls due to the presence of gait deficits"
+    ],
+    "patient education": [
+        "See \u201cCommon Peroneal Nerve Dysfunction\u201d from MedlinePlus at https://medlineplus.gov/ency/article/000791.htm",
+        "See \u201cDrop Foot (aka Foot Drop)\u201d from FootEducation.com at http://www.footeducation.com/page/drop-foot Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Baima J, Krivickas L. Evaluation and treatment of peroneal neuropathy. Curr Rev Musculoskelet Med . 2008;1(2):147-153.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "de Bruijn IL, Geertzen JH, Dijkstra PU. Functional outcome after peroneal nerve injury. Int J Rehabil Res . 2007;30(4):333-337.  (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "King JC. Peroneal neuropathy. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain and Rehabilitation . 4th ed. Philadelphia, PA: Saunders Elsevier; 2019:419-422.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Harrahill M. Peroneal nerve compression: a case review. J Emerg Nurs . 2007;33(3):294-296.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Peskun CJ, Chahal J, Steinfeld ZY, Whelan DB. Risk factors for peroneal nerve injury and recovery in knee dislocation. Clin Orthop Relat Res . 2012;470(3):774-778.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Thoma A, Levis C. Compression neuropathies of the lower extremity. Clin Plast Surg . 2003;30(2):189-201,  vi. (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Secer HI, Daneyemez M, Tehli O, Gonul E, Izci Y. The clinical, electrophysiologic, and surgical characteristics of peripheral nerve injuries caused by gunshot wounds in adults: a 40-year experience. Surg Neurol . 2008;69(2):143-152.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Cush G, Irgit K. Drop foot after knee dislocation: evaluation and treatment. Sports Med Arthrosc . 2011;19(2):139-146.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Babwah T. Common peroneal neuropathy related to cryotherapy and compression in a footballer. Res Sports Med . 2011;19(1):66-71.  (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Stewart JD. Foot drop: where, why and what to do?. Pract Neurol . 2008;8(3):158-69.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Lui TH, Chan LK. Deep peroneal nerve injury following external fixation of the ankle: case report and anatomic study. Foot Ankle Int . 2011;32(5):S550-S555.  (C)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Kim DH, Kline DG. Management and results of peroneal nerve lesions. Neurosurgery . 1996;39(2):312-320.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Gilchrist RV, Bhagia SM, Lenrow DA, Chou LH, Chow D, Slipman CW. Painless foot drop: an atypical etiology of a common presentation. Pain Physician . 2002;5(4):419-421. (X)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Anselmi SJ. Common peroneal nerve compression. J Am Podiat Med Assoc . 2006;96(5):413-417.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Kisner C, Colby LA. Therapeutic Exercise: Foundations and Techniques . 7th ed. Philadelphia, PA: FA Davis; 2018. (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Baldi JC, Jackson RD, Moraille R, Mysiw WJ. Muscular atrophy is prevented in patients with acute spinal cord injury using functional electrical stimulation. Spinal Cord . 1998;36(7):463-469.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Krych AJ, Giuseffi SA, Kuzma SA, Stuart MJ, Levy BA. Is peroneal nerve injury associated with worse function after knee dislocation? Clin Orthop Relat Res . 2014;472(9):2630-2636.  doi:10.1007/s11999-014-3542-9.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Gohar SF, Marchese V, Comito M. Physician referral frequency for physical therapy in children with acute lymphoblastic leukemia. Pediatr Hematol Oncol . 2010;27(3):179-187. doi:10.3109/08880010903580209. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Wright MJ, Nanna SE, Halton JM, Barr RD. Maintenance of ankle range of motion in children treated for acute lymphoblastic leukemia. Pediatr Phys Ther . 2003;15(3):146-152. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Setty G, Saleem R, Harijan P, Khan A, Hussain N. Bilateral common peroneal nerve injury after pediatric cardiothoracic surgery: a case report and review of the literature. J Pediatr Neurosci . 2014;9(3):278-279.  doi:10.4103/1817-1745.147594.  (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Yilmaz O, Bodur H. Bilateral peroneal nerve palsy due to prolonged squatting in a farmer. J Phys Med Rehabil Sci . 2015;18(1):40-43.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Eleftheriou KI, Beri S, Alavi A, Tennant S. Deep peroneal nerve palsy during growth spurt: a case report. Eur J Pediatr . 2014;173(12):1603-1605. doi:10.1007/s00431-013-2160-y.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Sanchez M, Yoshioka T, Ortega M, Delgado D, Anitua E. Ultrasound-guided  platelet-rich  plasma injections for the treatment of common peroneal nerve palsy associated with multiple ligament injuries of the knee. Knee Surg Sports Traumatol Arthrosc . 2014;22(5):1084-1089.  doi:10.1007/s00167-013-2479-y.  (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Woodmass JM, Romatowski NP, Esposito JG, Mohtadi NG, Longino PD. A systematic review of peroneal nerve palsy and recovery following traumatic knee dislocation. Knee Surg Sports Traumatol Arthrosc . 2015;23(10):2992-3002.  doi:10.1007/s00167-015-3676-7.  (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Miller TA, Macaluso S, Piggott JR, Ross DC. Results and neurorehabilitation challenges of nerve transfer surgery for peroneal nerve trauma. J Rehabil Med . 2016;48(1):93. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Tran TM, Lim BG, Sheehy R, Robertson PL. Magnetic resonance imaging for common peroneal nerve injury in trauma patients: Are routine knee sequences adequate for prediction of outcome? J Med Imaging Radiat Oncol . 2018;63(1):54-60.  doi:https://doi.org/10.1111/1754-9485.12840.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Kahan JB, Li D, Scheble CA, et al. The pathoanatomy of posterolateral corner ligamentous disruption in multiligament knee injuries is predictive of peroneal nerve injury. Am J Sports Med . 2020;48(14):3541-3548.  doi:https://doi.org/10.1177/0363546520962503. (C)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Meyerkort DJ, Gurel R, Maor D, Calder JD. Deep peroneal nerve injury following hardware removal for lisfranc joint injury. Foot Ankle Int . 2019;41(3):320-323.  doi:https:// doi.org/10.1177/1071100719893699. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Worley JR, Brimmo O, Nuelle CW, Cook JL, Stannard JP. Incidence of concurrent peroneal nerve injury in multiligament knee injuries and outcomes after knee reconstruction. J Knee Surg . 2018;32(06):560-564.  doi:https://doi.org/10.1055/s-0038-1660512.  (RV)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Goyal KS, Hill M, O'Malley M, Mehta M, Moossy J, Tarkin I. Preferential peroneal nerve injury after acetabular fracture and reconstruction. Curr Orthop Practice . 2018;29(2):160-166.  doi:https://doi.org/10.1097/bco.0000000000000596. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Carender CN, Bedard NA, An Q, Brown TS. Common peroneal nerve injury and recovery after total knee arthroplasty: a systematic review. Arthroplast Today . 2020;6(4):662-667.  doi:https://doi.org/10.1016/j.artd.2020.07.017. (SR)"
+        },
+        {
+            "number in article": 33,
+            "reference": "de Bruijn JA, van Zantvoort AP, Hundscheid HP, Hoogeveen AR, Teijink JA, Scheltinga MR. Superficial peroneal nerve injury risk during a semiblind fasciotomy for anterior chronic exertional compartment syndrome of the leg: an anatomical and clinical study. Foot Ankle Int . 2018;40(3):343-351.  doi:https://doi.org/10.1177/1071100718811632. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Chhabra A, Ahlawat S, Belzberg A, Andreseik G. Peripheral nerve injury grading simplified on MR neurography: as referenced to Seddon and Sunderland classifications. Indian J Radiol Imaging . 2014;24(3):217. doi:https://doi.org/10.4103/0971-3026.137025.  (G)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Park JS, Casale MJ. Posterior tibial tendon transfer for common peroneal nerve injury. Clin Sports Med . 2020;39(4):819. doi:https://doi.org/10.1016/j.csm.2020.07.003. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Dutton M. The knee. In: Morita J, Kearns B, eds. Dutton\u2019s Orthopaedic Examination, Evaluation, and Intervention . 3rd ed. New York, NY: McGraw-Hill  Companies; 2020:1004-1007.  (GI)"
+        }
+    ]
+}

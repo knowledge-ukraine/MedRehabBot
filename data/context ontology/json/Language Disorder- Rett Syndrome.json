@@ -1,0 +1,485 @@
+{
+    "metadata": {
+        "title": "Rett Syndrome  Communication Disorders",
+        "synonyms": [
+            "rett\u2019s disorder",
+            "rett disorder",
+            "zappella variant of rett syndrome",
+            " preserved speech variant",
+            "rs",
+            "rtt",
+            "z-rtt",
+            "rett disorder: communication disorders",
+            " communication disorders: rett syndrome",
+            "communication impairment: rett syndrome",
+            " language disorder: rett syndrome",
+            "language impairment: rett syndrome"
+        ],
+        "anatomical location body part affected": [
+            "Cardiac, neurologic, motor, and speech systems"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders",
+            "augmentative alternative communication"
+        ],
+        "description": [
+            "Rett syndrome (RTT) is a neurodevelopmental disease affecting the white matter of the brain. RTT occurs in approximately 1/10,000 females, with onset typically between the ages of 6 months and 2 years.(1,2) RTT leads to cardiac, neurologic, motor, and speech and language complications and impairments.(3) RTT in males is very rare, as it is usually lethal to the male fetus.(1) Late-onset  RTT (after age 3 years) is uncommon and usually is less severe, with better preservation of motor and speech skills.(3) A milder variant of RTT is known as the preserved speech variant (PSV) or Zappella variant of RTT (Z-RTT).(4,49,50,51) Two other of the more common variants of RTT are the early seizure variant (marked by the presence of severe seizures during the first year of life) and the congenital variant (marked by no apparent period of normal development and microcephaly documented at birth).(49,50) Most research confirms that RTT is not a degenerative disease.(5) RTT was previously considered an autism spectrum disorder (ASD); however, it is now a distinct, separate diagnosis.(6,48) Though there are over 200 different mutations or Rett \u201cvariants,\u201d four specific mutations account for most cases of RTT(1)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {
+            "Swallowing G-code set": {
+                "G8996": "Swallowing functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G8997": "Swallowing functional limitation, projected goal status, at initial therapy treatment/outset and at discharge from therapy",
+                "G8998": "Swallowing functional limitation, discharge status, at discharge from therapy/ end of reporting on limitation"
+            },
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Signs and symptoms vary in occurrence and severity based on the specific genetic mutation present(7)",
+            "Individuals with RTT demonstrate typical development until about 6 months of age, with a normal perinatal period, in which there is normal or near-normal  psychomotor development(8,9) \u2013Some research suggests that signs of RTT (such as early hand stereotypies with slow fidgety movements, idiosyncratic vocalizations, asymmetric eye opening, and abnormal facial expressions) are often present even in the first months of life(11)",
+            "After approximately 6 months of typical development, there is a period of rapid deterioration of mental, motor, and language skills, and the following signs begin to be evident: \u2013Main criteria (at least 3 of the following 6 required for diagnosis)(12) -Physical signs -Microcephaly(3) -Although children with RTT have normal head circumference at birth, their head circumference does not grow at the normal rate -Speech and language signs -Slowed or regression of expressive/receptive language development(3) -Language development does not usually progress beyond 1-word  utterances(13,14) -In some cases, children exhibit delayed communication development even before the onset of other signs and symptoms of RTT(13) -More commonly, speech is normally developing until speech production begins to regress(3) -Approximately 50% of children with RTT use meaningful words before the age of 20 months(14) -Post onset, receptive and expressive language is severely delayed, with the child being able to use short sentences (2\u20133 words) at most(14) -Most individuals with RTT regress and cease to use verbal communication altogether(14) -Average language development for individuals with RTT is at the level of 1\u20132 years of age(14) -Some nonverbal children are able to make meaningful choices, use a \u201cwant\u201d symbol, or use eye gaze to indicate a request(15) -Social communication \u2013 loss of social communication skills(12) -Disinterest in social interactions and loss of social skills, although such skills are sometimes reacquired later in development(2,8,16) -Social anxiety(1) -Deterioration of motor function(12) -Slowed or regression of fine motor development and hand skills -Uncoordinated gait and trunk movements, ataxia, and apraxia(6,8,17) -Rigidity and bradykinesia in some older patients(18) -Behavioral features \u2013 wringing of hands/stereotyped hand movements(6,16) -RTT disease profile/RTT stage development (see description below of the four stages of RTT)(12,19)  \u2013Supportive criteria -Physical signs -Growth retardation(12) -Small feet(20) -Waking hyperventilation (i.e., periods of excessive breathing that can lead to dizziness; numbness of toes, fingers, and lips; confusion; and weakness)(8) -Scoliosis(3,12,17) -Disturbed ambulation(7) -Gastrointestinal dysfunctions(12,18) -Gastroesophageal reflux, esophagitis, and gallbladder dysfunction are common(12) -Reduced life span(12,18) -Speech, communication, and swallowing functions -Apraxia of speech(21) -Swallowing/feeding issues \u2013 reduced oral movements, reduced lip closure, delayed pharyngeal swallow, breathing disturbances during feeding(17,21) -Patient might be malnourished as a result of swallowing difficulties and have difficulty gaining weight(17) -Aspiration risk is high in approximately 15% of patients with RTT(21) -Hearing loss in 27\u201335%  of females with RTT(22) -Higher prevalence of sensorineural hearing loss than conductive/mixed hearing loss(22) -Risk of early onset of high-frequency  hearing loss(22) -Prevalence of hearing loss is increased in those treated with anticonvulsant medications(22) -Respiratory -Breathing issues, hyperventilation, and apnea(17,18,21,23) -Brainstem immaturity causing labile breathing rhythms, reduction in baseline cardiac vagal tone signs, and vacant spells with involuntary movements, long breath holds, and shallow breathing(24) -Cardiac -Elevated risk of cardiac arrest(12) -Bradycardia(12) -Cold extremities (due to poor blood flow)(12,25) -Neurologic -Seizures(12) -Abnormal EEG findings(12,18) -Spastic paraparesis and quadriparesis (later stages of RTT)(23) -Dementia(12) -Intellectual disability/cognitive impairment(26) -Behavioral -Teeth grinding(9,21) -Agitation(17) -Autistic-like  behavior such as hand stereotypies, loss of social communication, and reduced eye contact(23) -Eye pointing(27) -Sleeping difficulties(9) -Lower levels of irritability, hyperactivity, and inappropriate speech behaviors than control groups of individuals with isolated intellectual disability(28) -Unmotivated sudden laughter or screaming(19)  -Self-abusive  behavior(12) \u2013Exclusionary criteria -Other metabolic or heredodegenerative disorder(20) -Acquired neurological disorder due to head trauma (i.e., brain injury) or infection(20,50) -Perinatally acquired brain damage(20,50) -Intrauterine growth retardation(20) -Optic atrophy or retinopathy(20) -Severely abnormal psychomotor development during first 6 months of life(50)",
+            "There are 4 stages of RTT(3,10,26) \u2013Early onset \u2013 stage I (6\u201318  months of age)(26) -Withdrawal from surroundings and demonstration of delay in speech and motor skill acquisition \u2013Rapid destructive or regression stage \u2013 stage II (1\u20133 years of age)(26) -\u201cAutistic-like\u201d  withdrawal, social-emotional instability, stereotyped hand movements, and a loss of previously acquired skills(54) \u2013Pseudostationary or plateau stage \u2013 stage III (preschool to school years)(26) -Disease stabilizes, brain growth continues, social interactions improve, mood changes are evident, autistic behavior is minimized, and some recovery of receptive and expressive speech is seen \u2013Late motor deterioration stage \u2013 stage IV (adolescent/teen years)(3,8,26) -Characterized by a loss of ambulation, progressive scoliosis, difficulties chewing and swallowing, muscle weakness, and loss of receptive and expressive speech -By late childhood, children usually are nonverbal and nonambulatory(8)",
+            "The preserved speech variant (PSV), or Zappella variant, of RTT (Z-RTT)  affects 2\u20134%  of females with RTT and varies somewhat from classic RTT(25) \u2013Microcephaly, microsomia (small stature), and low weight are less common(4) \u2013Breathing irregularities, cold extremities, and gastrointestinal disturbances are less common(4,25) \u2013Milder scoliosis and kyphosis (curving of the spine leading to hunchback or slouching posture)(4) \u2013Milder intellectual impairments (as compared to individuals with classic RTT)(4) \u2013Although the four stages of the disease are the same as in classic RTT, individuals with Z-RTT  have a delayed stage I and stage IV and might not progress to stage IV until they are over 18 years of age(4) \u2013Hand stereotypies are often less intense and/or less evident(4) \u2013Hand use is better(4) \u2013Less frequent seizures(4) \u2013During stage III, patients recover some language abilities(25) -Receptive and expressive language skills improve, ranging from single words to complex phrases. Language is recovered around age 6 years(4) -Authors of a case study of a female in whom Z-RTT  was diagnosed at age 3 years documented her developmental profile until the age of 11 and, despite some recovery of language abilities following the regression stage, reported restricted gestural repertoire, morpho-syntactic  and socio-pragmatic  deficits in language development, and the presence of echolalia which interrupted the flow of speech(51) \u2013Speech has a sing-song  quality; many patients love music and singing(25) \u2013Some children with Z-RTT  do not regress (but also do not further develop) in language and motor skills(29) \u2013Autistic-like  behavior such as hand stereotypies and reduced eye contact is evident(4) \u2013Since many of the signs of RTT are so mild in individuals with Z-RTT,  it may be more difficult to diagnose(4,29) \u2013There is a higher rate of familial cases of Z-RTT  as compared to classic RTT(25)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "RTT is a sporadically occurring, X-linked  disorder caused by a mutation in the MECP2  gene(1)",
+            "Mutations of the MECP2  gene inhibit synthesis of methyl cytosine-binding  protein 2 (MeCP2), a protein found in the brainthat has a role in motor control, emotional control, emotional development, and early brain development.(8,23) Insufficientquantities or abnormal forms of the protein can negatively affect other genes(26)"
+        ],
+        "pathogenesis": [
+            "The underlying molecular pathology of the disorder is unknown(18)",
+            "Studies suggest that RTT might result from improper development or maintenance of synaptic connections in the brain andneuronal maturation failure during a time of rapid brain development(12)",
+            "Genotype-phenotype  correlations are weak(6)",
+            "RTT is not a degenerative disease. While some motor and communication skills do worsen with time, other skills plateau orimprove as the patient grows older and with intervention(5)"
+        ],
+        "risk factors": [
+            "Female sex (it is very rare for a male to present with RTT)\u2013Males with MECP2  mutations typically exhibit signs and symptoms that are different from those exhibited by individualswith RTT (i.e., rapidly progressive encephalopathy, severe developmental delay, spastic paraparesis, and intellectualdisability)(12)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The clinician must be aware of the cultural and linguistic backgrounds of the patient and patient\u2019s family, as these can affect assessment and the treatment protocol",
+        "The clinician should involve the parents as well as the patient\u2019s teachers and other therapists (collaborative model) in the assessment and treatment process for more accurate information and best results",
+        "The clinician should observe the patient in a variety of settings as well as conduct interviews with parents and caregivers to become aware of the patient\u2019s level of communicative functioning and to develop appropriate communication and language goals",
+        "The clinician must be aware of the patient\u2019s pain and tolerance level as well as attention span, anxiety level, and any other behavioral issues during assessment and treatment",
+        "The clinician should complete a thorough review of the medical history prior to conducting a speech-language  evaluation or treatment"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -What signs or symptoms of RTT are exhibited by the patient? When was RTT diagnosed? (Diagnosis is usually tentative until age 2 years)(13) -What is the child\u2019s current stage of RTT?",
+                "course of treatment": {
+                    "medical management": "Which physicians follow and care for the patient? What is the patient\u2019s general health status and issues? Review medical records, as well as any previous therapy records, especially those pertaining to communication development. What is the child\u2019s ear health status?",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken? Various medications may be prescribed to reduce symptoms, including carbamazepine (to improve alertness), valproic acid and lamotrigine (to control seizures), and naltrexone (to modify irregular breathing)(8,12)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Following initial observation of the signs and symptoms of RTT, usual tests for this condition are the following: ",
+                        "EEG: EEG of RTT patients in the later stages is characterized by being slow, having focal epileptiform discharges and rare spikes or sharp waves when awake, and a progressive loss of sleep characteristics(18)",
+                        "Cranial CT and MRI: Findings from these tests are normal in the initial stages of the disease, but later atrophy of both cerebral hemispheres is found along with reduction of volume in the caudate nucleus(18)",
+                        "Laboratory tests: A physician will order laboratory studies of blood, urine, CSF, and lysosomal enzymes(18)",
+                        "Review results of audiological testing(22)",
+                        "Auditory brainstem response (ABR) testing",
+                        "Tympanometry testing",
+                        "Genetic testing and gene mapping can determine what mutation of the MECP2  gene is responsible for the disease. Certain mutations of the gene are linked to specific signs and symptoms, and knowing the type of mutation helps predict the likelihood of developing or retaining various skills such as hand use, walking, and speech abilities and provide information regarding the likely clinical profile of the patient(1,30)",
+                        "Chromosome analysis and molecular probing is also important for ruling out Angelman syndrome in the differential diagnosis(12)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Inquire about factors that appear to improve or worsen communication ability (e.g., music, lights, noise, time of day)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, regressing skills, improving, advancing symptoms). See Signs and symptoms , above",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night)",
+                "sleep disturbance": "Document number of wakings/night, ability to sleep during the day (nap)",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician",
+                "respiratory status": "Document patient\u2019s respiratory status. Does the patient require supplemental oxygen, tracheostomy tube, or mechanical ventilation?Document any behavioral symptoms that indicate a psychosocial disturbance. At 1 to 4 years of age, children with RTT syndrome lose their ability to speak and may scream or cry without provocation. At 2 to 10 years of age, children with RTT syndrome have been reported to be less irritable and may show an improvement in alertness and communication skills.(20,21) Refer to psychologist or social work as indicated -Caregiver burden usually is high for caregivers of children with RTT syndrome. The RTT Caregiver Inventory has been shown to be a valid and reliable measure of physical, social, and emotional burden on caregivers for individuals with RTT syndrome(55) -Caregivers/parents of children with RTT syndrome might benefit from referral for counseling servicesDocument results of audiological evaluations. Hearing loss occurs in 27% to 35% of females with RTT(22) -Higher prevalence of sensorineural hearing loss than conductive/mixed hearing loss(22) -Increased risk of early onset of high-frequency hearing loss(22) -Prevalence of hearing loss is increased in those treated with anticonvulsant medications(22) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Ask about speech and language development. Document if any previous speech/language testing has been completed; if it has, review past reports. Ask about delayed speech/language development, plateaus in development, and regression of language and/or motor skills ",
+                    "comorbid diagnoses": "Ask patient\u2019s family/caregiver about other problems, including diabetes, cancer, hearing loss, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs). See Medications for current illness , above",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient attend daycare, preschool, or school? If so, what type of support is in place during school hours? Does the patient interact with peers? Does the child show an interest in the use of toys? Document patient\u2019s likes and dislikes as well as interests (e.g., music and singing)(29)",
+                "functional limitations assistance with ADLs adaptive equipment": "Document what type of adaptive equipment the patient is using, such as augmentative and alternative communication (AAC) devices, hearing aids, or glasses. Ask patient and/or family members about the effect of communication deficits on the patient\u2019s participation in social, educational, and occupational activities. Obtain any relevant occupational or physical therapy evaluations or notes. There is some research to suggest that preservation of motor functions in individuals with RTT might be associated with better preservation of speech skills(3)",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members, group home). Identify if there are barriers to age-appropriate  independence in the home; any modifications necessary? With whom does the patient communicate? How does the patient communicate at home and/or at school?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Determine if patient uses AAC devices. If so, what kind? How does the device impact communication functioning? Common alternative forms of communication include eye gaze, pictures, and other forms of assisted communication; gestures; facial expressions; and sounds or vocalizations with specific meaning(21)",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": " Speech and language examination (including reading) \u2013Speech -Complete a phonetic inventory and assess articulation accuracy in single words if patient produces words and/or phrasesThe following are examples of standardized and nonstandardized testing measures that may be used to assess expressive/receptive language abilities -Clinical Linguistic and Auditory Milestone Scale (CLAMS) provides normative data on milestones achieved between birth and 2 years of age(13) -Most children with RTT meet early communication milestones such as being alert, smiling, cooing, babbling, and saying \u201cmama/dada\u201d indiscriminately. Children who develop RTT rarely are able to say \u201cmama/dada\u201d discriminately, use first words, or follow one-step  commands and rarely have a vocabulary of more than 3\u20134 single words(13) -Infant/Toddler Checklist in the Communication and Symbolic Behavior Scales Developmental Profile can be used to evaluate skills such as intentional eye gaze, gestures, sounds, and understanding(32) -The Inventory of Potential Communication Acts (IPCA) assessment can be used to assess communication skills for both typical and atypical variants of RTT(15,52) -The Nonspeech Test can be used to evaluate expressive and receptive communication and to assign a language age score(15)(11) -slow, fidgety movements -high pain tolerance -bursts of abnormal facial expression -Test ability to use gestures, follow simple directions, understand and use simple vocabulary words, and identify body parts -Parent questionnaires are helpful in determining if and what kind of oral or alternative communication is used by the",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Using a checklist or parent/caregiver questionnaire, document presence and/or frequency of abnormal behavioral and emotional features(28) -Hand stereotypies -Rapid and heavy breathing -Autistic-like  behavior such as reduced eye contact, reduced interest in social interactions, and stereotypies -Indifference to or little interest in both persons and objects -Patients with Z-RTT  are more likely to take pleasure in communication and even prefer persons to objects(30) -Repeatedly putting hands in mouth -Poor eye contact -Holding of breath -Grinding of teeth -Expressionless face -Inappropriate laughter -Screaming fits -Insensitivity to pain -Inappropriate fear in unfamiliar situations -Withdrawn behavior -Anxiety, distress, frustration -Low mood -Staring at lights -Self-abusive  behavior with hands \u2013Due to impaired motor and communication skills, cognitive function is difficult to assess using standardized measures(12) -Parent/caregiver interview, patient observations, and assessments that rely on visual response only can provide information about cognitive level and adaptive skills (feeding, dressing, and toileting)(12) -Level of cognitive functioning usually is determined following thorough psychiatric or neuropsychiatric examination by a psychologist or psychiatrist(19) -IQ testing -Mental scale of the Bayley Scales of Infant Development (BSID-II).  This scale gathers information on cognitive, language, social, and personal development and describes behavior qualitatively(31) ",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "RTT leading to profound communication and language disorders",
+        "rule out": "The signs and symptoms of RTT are similar to those of various other disorders. In individuals with Z-RTT, especially those who have mild signs and symptoms, Angelman syndrome, ASD, or non-syndromic intellectual disability may be mistakenly diagnosed.(30) The physician will do a differential diagnosis to rule out the following: ASD(23) Cerebral palsy(23) Prader-Willi  syndrome Encephalitis West syndrome Tuberous sclerosis Phenylketonuria Spinocerebellar degeneration Neuroaxonal dystrophy Lennox-Gastaut  syndrome Psychosis(23) Angelman syndrome(10) Other neurogenic diseases(23) Klinefelter syndrome in males with signs and symptoms of RTT(10)",
+        "prognosis": [
+            "Life expectancy is reduced, and many patients die between adolescence and age 30. As many as 67% of patients live beyond age 30.(6,12,23) Common causes of death are apnea and seizures(6)",
+            "RTT is a lifelong disease but not a degenerative one. As such, various forms of therapy can be effective in improving and maintaining motor skills, functional living skills, and cognitive, behavioral, and communication abilities(5)",
+            "There is no cure for RTT "
+        ],
+        "referral to other disciplines": "Refer to physician, audiologist, psychologist, dentist, occupational therapist, school/ educational personnel, and physical therapist as needed",
+        "other considerations": [
+            "Goals for treatment include symptom relief such as physical therapy for muscular issues, medications to reduce occurrences and severity of seizures, behavioral therapy for self-coping,  and speech therapy for improved communication skills(2)",
+            "Physical, occupational, and speech therapies are recommended in order to address and improve the patient\u2019s functional abilities(23)"
+        ],
+        "treatment summary": [
+            "There is a lack of randomized controlled studies regarding the efficacy of rehabilitative treatments to improve communication skills in patients with RTT",
+            "Feeding \u2013In a study conducted in Sweden on eating proficiency in individuals with RTT, researchers found that up to 63% of subjects required food consistency to be adjusted in order to chew properly(21)",
+            "Oral motor treatment \u2013Oral motor treatment such as mirror work, blowing bubbles, licking up on a spoon or popsicle stick, tongue clicking, and tension exercises by an SLP might be beneficial for treating teeth grinding(21) \u2013Referral to a dentist might be indicated, especially in the case of teeth grinding",
+            "Music therapy \u2013Music therapy might temporarily motivate patients to interact socially with others and may temporarily diminish hand stereotypies -Based on the results of a research study conducted in Japan of 3 children with RTT (aged 4, 5, and 6 years)(35) -SLPs can implement musical activities in their therapy (e.g., playing the piano or other instruments together, taking turns playing instruments) \u2013Music therapy can encourage communication and learning in patients with RTT(36) -Based on the results of a case study of a female with RTT -During music therapy, the subject was found to demonstrate turn taking, vocalization, anticipation of the desired event, and understanding of cause and effect and object permanence -Weaknesses of the study include subject number (N = 1) and lack of statistical data(36) -Based on a study of 7 girls with RTT conducted in Norway(37) -The subjects were able to indicate choice using eye gaze or nose or hand pointing during musical activities -The accuracy and rate of making choices improved among the subjects during musical activities -The authors also suggest that the relationship between the clinician and the participant is very important and that it is vital that a participant feel comfortable with his or her therapist -With the proper intervention, fluent nonverbal communication (such as the use of mutual imitation, responsiveness to playful teasing, use of basic oral, vocal, and gestural expressions, as well as joint attention and eye gaze) is a realistic goal for nonverbal individuals with RTT.(38) Using humorous interactions and music or singing in therapy, a clinician is more likely to be successful in eliciting turn taking, imitation, joint attention, and vocalization.(38) A \u201cmother-infant\u201d model was described by a researcher and developmental psychologist in 1993(39) in which the goal of the interaction is to develop social play in a spontaneous, enjoyable, and naturalistic manner. Researchers in Scotland note that this model has been and can be used in therapy, and that the naturalistic and biologically based intervention might be appropriate for use with children with RTT(38)",
+            "Sensory-motor  rehabilitation \u2013Developmental, Individual Differences, Relationship-Based Approach, also known as Greenspan\u2019s Floortime Model, can be used by clinicians to guide patients with RTT through six developmental levels and to involve them in developmentally appropriate interactions. Much focus is placed on helping the patient be self-regulated,  calm, and focused before he or she interacts with others. In addition, the therapist is encouraged to respond to all intentional and meaningful modes of communication from the patient(40) \u2013Sensory-motor  rehabilitation may improve language, motor, cognitive, and behavioral skills in patients with RTT(41) -Based on a case study of a female with RTT who began a rehabilitation program at age 5 -The treatment program was based on Piaget\u2019s cognitive development theory  -The patient underwent 3 years of visual-motor coordination training as well as a sensory-motor rehabilitation program -After treatment, the subject was able to respond to her name, understand 58 words (compared to 2 words pretreatment), use gestures, play a game, demonstrate symbolic play, and choose requested objects and pictures (discrimination tasks). These were all skills that were deficient pretreatment \u2013SLPs and behavioral therapists need to be trained in sensory motor rehabilitation or visual-motor  coordination in order to implement these models in therapy with the patient \u2013Functional communication training -Authors of a preliminary study conducted in the United States reported that functional communication training in 3 individuals with RTT resulted in positive changes, including novel communicative acts. The 3 females in the study were ages 15, 27, and 47, and all had classic RTT. Functional communication training involved training the participants to use a switch to indicate functional needs. The switch was placed close to each participant\u2019s dominant hand and researchers used positive reinforcement when the participants used the switch to indicate a desire (turning on the TV). Each participant responded quickly to the functional communication training and at the end of 18 sessions was more likely to request that the TV be turned on with the use of the switch versus whining or other undesired behavior. Researchers recommended functional communication training in larger populations of patients with RTT to determine efficacy(53) \u2013Structured overinterpretation, structured total communication, and multimodal cueing -Researchers recommend training eye gaze for functional communication, as well as training teachers and caregivers how to understand and interpret communication attempts. In a study conducted in Israel, researchers found that stereotypical hand motions of 8 females with RTT increased during interruptions in given activities, suggesting that study subjects were attempting to use the hand stereotypies to communicate. These behaviors were found to be consistent by repeated trials, but it was difficult to ascertain if they were intentional. This study was limited by small subject number and inability to unequivocally demonstrate that subjects intentionally used eye gaze or hand stereotypies to communicate(15) -Research is conflicting regarding the efficacy of increasing communication opportunities for children with RTT to improve communication -Improving existing communication attempts as well as increasing the number of communication opportunities for children with RTT might be more effective than training children with RTT to use an AAC device(42,43) -Multimodal cueing (such as verbal and tactile cues) helps maintain the child\u2019s level of alertness and gain the child\u2019s attention -Extra response time is warranted for children with RTT -Caregivers and teachers can reinforce language acts by acknowledging all communication attempts made by the child -In a study conducted in Australia of 3 nonverbal girls with RTT that used video recordings to observe and analyze teacher/student interactions, researchers found that while increased communication opportunities provided by the caregivers did not significantly increase patient responses, all 3 subjects responded to interactions that required a response. This might indicate that some patients with RTT can understand the intent of spoken language (as the subjects did seem to understand that by initiating communication, the caregiver was expecting a response)(44)",
+            "AAC can be used to teach patients to make choices, indicate preference, and increase communication skills \u2013Van Acker\u2019s device employs a touch-sensitive  computer screen and animated graphics to allow a patient to request food and other basic needs. In a study conducted in the United States with 3 individuals with RTT(ages 5, 6, and 11 years), researchers found that all of the subjects learned to discriminate and make consistent choices using this device. Weakness of the study includes small subject number(45) \u2013AAC devices such as the Unity 45 One Hit on a Vanguard II (Prentke Romich Company, Wooster, OH), Specs switches (AbleNet Inc., Roseville, MN), single switch devices, and BIGmack Communicators (AbleNet Inc., Roseville, MN) for yes/no answers; LITTLE Step-by-Step  Communicator (AbleNet Inc., Roseville, MN) and Mini-Coms  (Enabling Devices, Hastings-on-Hudson,  NY) for making choices; Jellybean switches (AbleNet Inc., Roseville, MN), Microlight switches (AbleNet Inc., Roseville, MN); and picture communication symbols to make choices and requests and to convey information. When training patients to use a new device, it is important to use the device in a highly motivating activity, and one in which the patient is allowed to direct the activity. Case studies have shown that individuals with RTT can make choices, play games, and express detailed requests using AAC. It is important to note that more complicated devices may be difficult to use for individuals with apraxia or poor hand strength or control(46) -In a study involving 2 girls with RTT (ages 12 and 17), researchers found that after an intensive therapy program provided 3 times per week for 5 months, quantity and quality of the subjects\u2019 responses were improved when they used AAC.(46) The subjects were taught to use aided communication devices to signal \u201cwant\u201d to request a preferred item. Before treatment, the percentage of independent responses was approximately 30%; following treatment, the percentage  of independent responses increased to 57.5% in 1 subject and to 87.5% in the other. Limitations of the study include small subject number(46)",
+            "Communication partner training \u2013In a study conducted in the United States with 4 girls with RTT (ages 3 to 7 years) and their communication partners, researchers found that communication partner training resulted in increased communicative initiations by the girls with RTT(47) -Researchers used the context of mealtime to implement communication strategies; communication partners were 2 classroom teachers, 1 classroom aide, and 1 SLP -Each communication partner was trained in 3 to 4 communication strategies to implement during mealtimes with the child with RTT, and their interactions were videotaped and analyzed -The specific strategies trained were tailored to the individual needs of the dyad; however, all communication partners were encouraged to increase their wait time between bites and after asking questions of the girls to allow the girls to communicate desire for another bite or to respond to questions posed -Communication partners were taught to observe the girls for eye gaze, head turns, body movements toward food, vocalizations, and use of low-tech  AAC devices and to actively respond to these communicative behaviors -Researchers\u2019 analysis of the videotapes found that as the communication partner purposefully changed his or her behavior, there were noticeable changes in the child\u2019s behavior as well, namely increased requests for more food and increased initiation of communication by the child . Problem Goal Intervention Expected Progression Home Program Lack of communication, inability to make request or choicePatient will make requests, choicesMusic therapy",
+            "Use motivating musical activities such as joint piano playing, the playing of other instruments, or even taped music as opportunities for patients to indicate preference/make choices using eye gaze, language, or AAC. For example, the patient may indicate a desire for the caregiver or therapist to continue playing the instrument using eye gaze or AAC",
+            "SLP can collaborate with a musical therapist in treating a child with RTT",
+            "Patient might learn to indicate desires through the use of eye gaze with prompts, eye gaze without prompts, or indicating by the use of a switchMusic therapy may diminish hand stereotypies(35) and promote turn taking, understanding of cause and effect, and vocalization(36)Teach parents/ caregivers how to incorporate musical activities in the home environment  Reduced communication and interaction skillsImprove ability to make choices and other communication functionsCommunication aides \u2013 AAC/aided communication",
+            "Patients can be trained to point/use eye gaze/ hand over graphic communication (photographs, pictures) and actual objects to signal immediate needs. Focus on training patients to choose between a few objects or activities(27)",
+            "Use visual communication aides such as basic symbols from a communication board or switches to indicate desire and preference(46) and to improve communication",
+            "Van Acker\u2019s touch- sensitive screen and graphics system can be effectively used by patients to request food and basic needs(45)",
+            "Clinicians should train use of device during highly motivating activities(46)",
+            "Symbolic requests through aided communication can be used in conjunction with interpretation of eye gaze and idiosyncratic gesturesCommunication aids such as pointing, eye gaze, hand over hand graphic communication with cues, hand over hand graphic communication without cues should be introduced as early as possible. Maintain use on a consistent basis _ _ Patients with RTT do have ability to learn and retain learning over time(37) _ _ With intensive treatment, patients can make significant progress(46)Family and caregivers should know how to use communication aid so that it can work functionally for the patient(21)  Reduced communication and interaction skills on the part of the patient, reduced ability for the caregiver to understand the behaviors of the patientImprove spontaneous communication on the part of the patient, improve quality of life of the patient, improve ability for the caregiver to understand and interpret the behaviors of the patientStructured overinterpretation and structured total communication   (27)",
+            "Parents and caregivers learn to interpret needs, wants, and interests through the patient\u2019s behaviors (such as eye gaze)",
+            "Stereotypical hand movements might be used by patients as a form of communication. Caregivers should be trained how to interpret such gestures(15)",
+            "Clinician and parents should respond to all intentional and meaningful modes of conversation(46)",
+            "Structured total communication aims to teach patients to use objects, signs, and photographs to express their needs and wantsStructured overinterpretation has not been found to lead to independent and spontaneous communication. Nevertheless, it can be used to help caregivers understand and interpret the needs and interests of the patient and improve quality of life(27)Provide patient and family/caregivers with strategies to interpret/ over interpret behaviors and actions of the patient (such as eye gaze)  Poor communication, play skills, joint attentionImprove communication and languageSensory-motor rehabilitation   (41)",
+            "Based on Piaget\u2019s cognitive development stages, this type of therapy incorporates visual motor coordination training as well as sensory- motor training in combination with communication goals _ Sensory motor training includes:",
+            "Visual attention and hand-eye coordination",
+            "Increasing awareness about relations in space",
+            "Teaching object permanence",
+            "Means\u2013ends relation and operational casualty",
+            "Verbal comprehension (patient is asked to touch preferred object)",
+            "Gestural imitation and use of gestures in communicationStudy found that after 3 years, subject demonstrated improved vocabulary, joint attention, symbolic play, and choice making, as well as improved motor skills, cognitive skills, and language skills(41)Parent education is important in order to help train joint attention and develop vocabulary in the home/child\u2019s natural environment Poor attention, alertness, reduced communication attemptsIncrease responses Multimodal cueing (44)",
+            "Allow child extra response time",
+            "Give verbal, visual, and tactile cues to gain patient\u2019s attention and maintain alertness",
+            "Acknowledge all communication attemptsProgression will vary according to individual patient needs and goals _Parent education and follow-up at home is recommended ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved functional abilities in communication": [
+            "IPCA",
+            "Infant/Toddler Checklist in the Communication and Symbolic Behavior Scales Developmental Profile",
+            "The Nonspeech Test",
+            "FCP-R",
+            "Communicative Abilities of Daily Living"
+        ],
+        "increased use of aac device for communication ": [],
+        "more accurate and consistent interpretation of communicative initiations by caregivers and parents": []
+    },
+    "maintenance or prevention": [
+        "RTT is a genetic, lifelong disease for which there is no cure. However, therapy and treatment can reduce and manage symptoms and improve quality of life",
+        "Despite the fact that chance of reoccurrence in families is less than 1%,parents of a child with RTT should be offered genetic counseling during subsequent pregnancies(2,12)"
+    ],
+    "patient education": [
+        "For more information on RTT for caregivers and families of RTT patients, seehttps://www.ninds.nih.gov/Disorders/All-Disorders/Rett-Syndrome-Information-Page Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Zhang Y, Minassian BA. Will my Rett syndrome patient walk, talk, and use her hands?. Neurology . 2008;70(16):1302-1303.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Chahrour M, Zoghbi HY. The story of Rett syndrome: from clinic to neurobiology. Neuron. November 8, 2007;56(3):422-37.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Bashina VM, Simashkova NV, Grachev VV, Gorbachevskaya NL. Speech and motor disturbances in Rett syndrome. Neurosci Behav Physiol . 2002;32(4):323-327.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Renieri A, Mari F, Mencarelli MA. Diagnostic criteria for the Zappella variant of Rett syndrome (the preserved speech variant). Brain Dev . 2009;31(3):208-216.  doi:10.1016/ j.braindev.2008.04.007. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Cass H, Reilly S, Owen L. Findings from a multidisciplinary clinical case series of females with Rett syndrome. Dev Med Child Neurol . 2003;45(5):325-337.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Vorsanova SG, Iourov IY, Yurov YB. Neurological, genetic and epigenetic features of Rett syndrome. J Pediatr Neurol . 2004;2(4):179-190.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Neul JL, Fang P, Barrish J. Specific mutations in methyl-CpG-binding  protein 2 confer different severity in Rett syndrome. Neurology . 2008;70(16):1313-1321.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Rogers S. Common conditions that influence children's participation. In: Case-Smith  J, ed. Occupational Therapy for Children . 5th ed. St. Louis, MO: Mosby Elsevier; 2005:191-194.  (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Mount RH, Hastings RP, Reilly S, Cass H, Charman T. Behavioural and emotional features in Rett syndrome. Disabil Rehabil . 2001;23(3/4):129-138.  (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Dunn HG, MacLeod PM. Rett syndrome: review of biological abnormalities. Can J Neurol Sci . 2001;28(1):16-29.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Marschik PB, Einspieler C, Oberle A, Laccone F, Prechtl HF. Case report: retracing atypical development: a preserved speech variant of Rett syndrome. J Autism Dev Disord . 2009;39(6):958-961.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Percy AK. Rett syndrome: current status and new vistas. Neurol Clin . 2002;20(4):1125-1141.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Tams-Little  S, Holdgrafer G. Early communication development in children with Rett syndrome. Brain Dev . 1996;18(5):376-378.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Uchino J, Suzuki M, Hoshino K, Nomura Y, Segawa M. Development of language in Rett syndrome. Brain Dev . 2001;23(suppl 1):S233-S235.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Hetzroni O, Rubin C. Identifying patterns of communicative behaviors in girls with Rett syndrome. Augment Altern Commun . 2006;22(1):48-61.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Shangraw K. Autism spectrum disorders. In: Atchison BJ, Dirette DK, eds. Conditions in Occupational Therapy: Effect on Occupational Performance . 3rd ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2007:23-46.  (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Kerr AM, Burford B. Towards a full life with Rett disorder. Pediatr Rehabil . 2001;4(4):157-168.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Jellinger KA. Rett syndrome - an update. J Neural Transm . 2003;110(6):681-701.  (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Zappella M, Gillberg C, Ehlers S. The preserved speech variant: a subgroup of the Rett complex: a clinical report of 30 cases. J Autism Dev Disord . 1998;28(6):519-526.  (C)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Rett syndrome. Mayo Clinic Web site. http://www.mayoclinic.com/health/rett-syndrome/DS00716/DSECTION=symptoms . Accessed August 5, 2018. (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Lavas J, Slotte A, Jochym-Nygren  M, van Doorn J, Engerstrom IW. Communication and eating proficiency in 125 females with Rett syndrome: The Swedish Rett Center Survey. Disabil Rehabil . 2006;28(20):1267-1279.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Pillion JP, Rawool VW, Bibat G, Naidu S. Prevalence of hearing loss in Rett syndrome. Dev Med Child Neurol . 2003;45(5):338-343.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Rosenblum RK, Blosser CG. Neurologic disorders. In: Burns CE, Dunn AM, Brady MA, et al, eds. Pediatric Primary Care . 6th ed. Philadelphia, PA: Saunders Elsevier; 2017:668-669.  (GI)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Julu P, Kerr A, Apartopoulos F. Characterisation of breathing and associated central autonomic dysfunction in the Rett disorder. Arch Dis Child . 2001;85(1):29-37.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Zappella M, Mari F, Renieri A. Should a syndrome be called by its correct name? The example of the preserved speech variant of Rett syndrome. Eur J Pediatr . 2005;164(11):710. (X)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Rett syndrome fact sheet. National Institute of Neurological Disorders and Stroke Web site. https://www.ninds.nih.gov/Disorders/All-Disorders/Rett-Syndrome-Information-Page . Accessed August 5, 2018. (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "von Tetzchner S. Communication skills among females with Rett syndrome. Eur Child Adolesc Psychiatry . 1997;6(suppl 1):33-37. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Mount RH, Hastings RP, Reilly S, Cass H, Charman T. Behaviour problems in adult women with Rett syndrome. J Intellectual Disabil Res . 2002;46(pt 8):619-624.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Kerr AM, Archer HL, Evans JC, Prescott RJ, Gibbon F. People with MECP2 mutation-positive  Rett disorder who converse. J Intellect Disabil Res . 2006;50(pt 5):386-394.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Bebbington A, Anderson A, Ravine D. Investigating genotype-phenotype  relationships in Rett syndrome using an international data set. Neurology . 2008;70(11):868-875.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Bayley N. The Bayley Scales of Infant Development . 2nd ed. New York, NY: Psychological Corporation; 1993. (GI) "
+        },
+        {
+            "number in article": 32,
+            "reference": "Fyfe S, Downs J, McIlroy O. Development of a video-based  evaluation tool in Rett syndrome. J Autism Dev Disord . 2007;37(9):1636-1646.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Kleiman LI. Functional Communication Profile-Revised:  Assessing Communicative Effectiveness in Clients with Developmental Delays . East Moline, IL: LinguiSystems; 2003. (PP)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Holland AL, Frattali CM, Fromm D. CADL-2. Communicative Abilities of Daily Living . 2nd ed. Austin, TX: Pro-Ed; 1999. (PP)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Yasuhara A, Sugiyama Y. Music therapy for children with Rett syndrome. Brain Dev . 2001;23(suppl 1):S82-S84.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Wigram T, Lawrence M. Music therapy as a tool for assessing hand use and communicativeness in children with Rett syndrome. Brain Dev . 2005;27(suppl 1):S95-S96.  (C)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Elefant C, Wigram T. Learning ability in children with Rett syndrome. Brain Dev . 2005;27(suppl 1):S97-S101.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Burford B, Trevarthen C. Evoking communication in Rett syndrome: comparisons with conversations and games in mother-infant  interaction. Eur Child Adolesc Psychiatry . 1997;6(Suppl 1):26-30. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Stern D. The First Relationship: Infant and Mother . Glasgow, UK: Fontana/Open Books; 1993. (GI)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Lariviere J. Exploring options of access: enhancing communication and learning for girls with Rett syndrome. Technol Spec Interest Sect Q . 1997;17(4):1-4.  (C)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Pizzamiglio M, Nasti M, Piccardi L. Sensory-motor  rehabilitation in Rett syndrome: a case report. Focus Autism Other Dev Disabil . 2008;23(1):49-62.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Woodyatt GC, Ozanne AE. Communication abilities in a case of Rett syndrome. J Intellect Disabil Res . 1992;36(1):83-92.  (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Evans IM, Meyer LH. Modifying adult interactional style as positive behavioural intervention for a child with Rett syndrome. J Intellect Dev Disabil . 1999;24(3):191-205.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Ryan D, McGregor F, Akermanis M, Southwell K, Ramke M, Woodyatt G. Facilitating communication in children with multiple disabilities: three case studies of girls with Rett syndrome. Disabil Rehabil . 2004;26(21-22):1268-1277.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Van Acker R, Grant SH. An effective computer-based  requesting system for persons with Rett syndrome. J Child Commun Disord . 1995;16(2):31-38.  (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Sigafoos J, Laurie S, Pennell D. Teaching children with Rett syndrome to request preferred objects using aided communication: two preliminary studies. AAC Augment Altern Commun. 1996;12:88-96.  (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Bartolotta TE, Remshifski PA. Coaching communication partners: a preliminary investigation of communication intervention during mealtime in Rett syndrome. Commun Disord Q. 2013;34(3):162-171.  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "A Quick Guide to DSM-5: How will the new Diagnostic and Statistical Manual of Mental Disorders affect the way you diagnose? ASHA Leader. https://leader.pubs.asha.org/pdfaccess.ashx?url=/data/journals/ashanl/929389/dsm-5-chart.pdf . Accessed September 20, 2018. (GI)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Neul JL. The relationship of Rett syndrome and MECP2 disorders to autism. Dialogues Clin Neurosci . September 2012;14(3):253-262.  (RV)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Neul JL, Kaufmann WE, Glaze DG, et al. Rett syndrome: Revised diagnostic criteria and nomenclature. Ann Neurol . 2010;68(6):944-950.  doi:10.1002/ana.22124.  (RV)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Marschik PB, Vollmann R, Bartl-Pokorny  KD, et al. Developmental profile of speech-language  and communicative functions in an individual with the preserved speech variant of Rett syndrome. Dev Neurorehabil . August 2014;17(4):284-90.  doi:10.3109/17518423.2013.783139. (C)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Marschik PB, Bartl-Pokorny  KD, Tager-Flusberg  H, et al. Three different profiles: early socio-communicative  capacities in typical Rett syndrome, the preserved speech variant and normal development. Dev Neurorehabil . February 2014;17(1):34-8.  doi:10.3109/17518423.2013.837537. (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Byiers BJ, Dimian A, Symons FJ. Functional communication training in Rett syndrome: A preliminary study. Am J Intellect Dev Disabil . 2014;119(4):340-350. doi:10.1352/1944-7558-119.4.340.   (R)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Munde V, Vlaskamp C, Ter Haar A. Social-emotional  instability in individuals with Rett syndrome: parents' experiences with second stage behaviour. J Intellect Disabil Res . January 2016;60(1):43-53.  doi:10.1111/jir.12233. (R)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Lane JB, Salter AR, Jones NE, et al. Assessment of Caregiver Inventory for Rett Syndrome. J Autism Dev Disord . April 2017;47(4):1102-1112. doi:10.1007/s10803-017-3034-3.  (R)"
+        }
+    ]
+}

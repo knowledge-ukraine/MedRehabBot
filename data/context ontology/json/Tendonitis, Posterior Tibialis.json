@@ -1,0 +1,327 @@
+{
+    "metadata": {
+        "title": "Tendinopathy, Posterior Tibialis",
+        "synonyms": [
+            "tibialis posterior tendinopathy",
+            "posterior tibial tendon dysfunction",
+            " posterior tibial tendon insufficiency",
+            "posterior tibialis tendinopathy",
+            "tibialis, posterior, tendinopathy",
+            "posterior tibialis tendinitis",
+            "posterior tibial tendon insufficiency",
+            "tendinitis, posterior tibialis",
+            "posterior tibialis tendonitis",
+            "tendonitis, posterior tibialis",
+            "tibialis posterior dysfunction"
+        ],
+        "anatomical location body part affected": [
+            "The lower leg (calf and foot)"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "sports rehabilitation",
+            "geriatric rehabilitation"
+        ],
+        "description": [
+            "The tibialis posterior muscle originates at the posterior surface of the interosseous membrane, the posterior surface of the tibia, and the medial surface of the fibula. The posterior tibialis tendon (PTT) travels distally and posteriorly to the medial malleolus. It then splits into 3 components: primary, plantar, and recurrent. The main portion inserts on the navicular bone, the plantar portion inserts onto the base of the 2nd, 3rd, and 4th metatarsals along with the 2nd and 3rd cuneiforms and the cuboid. The recurrent portion inserts at the sustentaculum tali of the calcaneus(8)",
+            "The PTT normally functions to(8) \u2013support the medial longitudinal arch (MLA) of the foot \u2013assist in plantar flexion and inversion",
+            "Overuse tendon injury should be considered tendinopathy, but NOT tendinitis(15) \u2013Tendinopathy is a clinical syndrome describing overuse tendon injury characterized by pain, swelling, and/or functional limitation \u2013Tendinopathy could be tendinitis (presence of inflammation) or tendinosis (absence of inflammation) \u2013Distinguishing tendinitis from tendinosis is not clinically feasible in most cases \u2013Inflammation is not considered to be part of the pathology in most clinical cases of tendinopathy (anti-inflammatory medications may have no benefit) \u2013Tendinosis is likely more common than tendinitis"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M78.6": "other enthesopathies of lower limb, excluding foot; anterior tibial syndrome, posterior tibial tendinitis",
+            "M76.82": "posterior tibial tendinitis (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Pain along the medial aspect of the ankle, hindfoot, and/or MLA",
+            "Swelling",
+            "Localized tenderness over PTT",
+            "Decreased strength/endurance in tibialis posterior muscle  \u2013Initially may show a normal single-leg  calf raise and decreased endurance, with inability to perform successive single-leg calf raises",
+            "As dysfunction progresses, may see: \u2013Hindfoot valgus and/or forefoot abducted and supinated: initially flexible but can become rigid \u2013MLA collapse (flatfoot deformity): initially may return when non-weight-bearing  but can progress to a more permanent deformity",
+            "Abnormal/painful gait",
+            "Classification of posterior tibialtendon dysfunction(9,10,11) \u2013Stage I -Tendon is intact but inflamed -Normal tendon length \u2013Stage II -Tendon no longer functional -Tendon is elongated and more permanent changes have occurred -Loss of MLA and presence of acquired flatfoot -May be corrected by passive means \u2013 foot retains flexibility \u2013Stage III -Deformity is rigid -Degenerative changes are present (in subtalar joint) \u2013Stage IV -Degenerative changes are seen in the ankle Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "The precise etiology is unknown; however, theories include the following:(1)\u2013Inadequate blood supply to the area\u2013Abnormal foot mechanics (e.g., exaggerated antagonist contractions by the peroneus brevis)"
+        ],
+        "pathogenesis": [
+            "The mechanisms of any tendinopathy are complex. They often involve mechanical stress, degenerative changes in thetendon tissue, and disorganized healing(14)",
+            "Fibrosis occurs in the PTT due to recurrent microtrauma(1)",
+            "Most agree posterior tibialis tendinopathy is a progressive disorder. Soft tissue tendinopathy in the posterior tibialis leadsto altered foot biomechanics. Progressive loss of the MLA leads to acquired flatfoot deformity.This results in secondaryreactive changes including subsequent ligament(superomedial calcaneonavicular ligament) and tendon attenuation.Halluxvalgus may occur due to transversely shifted weight-bearing  along with secondary osteoarthritis due to instability(8,11)",
+            "In a study from the United Kingdom comparing normal PTTs, stage II dysfunctional tendons, and replacement tendonsafter surgical transfer, tissue samples were analyzed for total collagen, glycosaminoglycan, pentosidine, and collagencrosslinks(3)\u2013Stage II dysfunctional PTTs showed biochemical and molecular changes consistent with chronic remodeling of theextracellular matrix, rather than rupture\u2013This remodeling process may be indicative of an incomplete healing response to repeated microtrauma or overuse"
+        ],
+        "risk factors": [
+            "Pes planus/abnormal foot mechanics",
+            "Sex: more common in females\u2013Estrogen receptor gene variants have been found to be associated with posterior tibialistendinopathy(14)",
+            "Hypertension",
+            "Diabetes mellitus",
+            "Steroid injection near the tendon",
+            "Seronegative arthropathies",
+            "Accessory navicular bone in the foot\u2013Having an accessory navicular bone can cause various foot problems, including posterior tibialis tendon pathology, lossof the MLA, and foot pain. Researchers found that having an accessory navicular bone is substantially influenced bygenetics(16)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Avoid aggravating activities",
+        "Refer the patient back to the physician if symptoms do not improve with conservative management",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Patients typically present after weeks of aching and tenderness near the medial malleolus as well as pain extending into the arch of the foot. Most patients have not experienced direct calf or ankle trauma",
+                "course of treatment": {
+                    "medical management": " Medical management Conservative management is attempted initially(11) A period of immobilization and rest may be tried in the early stages(11) In recalcitrant cases or in cases associated with inflammatory arthropathies, surgery may be considered(11)minimally invasive techniques for tendon synovectomytendon transfer using either the flexor hallucis longus or the flexor digitorum longus.A calcaneal osteotomy is usually performed as well to prevent premature reelongation  or re-rupture  of the reconstructed posterior tibialistriple arthrodesis. In the future, ankle arthroplasty may be a good option as techniques and prostheses improve",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? Are they effective? NSAIDS to alleviate pain. The use of corticosteroids is controversial because of the increased risk for tendon rupture. Plateletrich plasma injections may be beneficial, but evidence is lacking(11) Diagnostic tests completed  (11) The diagnosis usually is based on clinical examination. However, special clinical tests have only modest accuracy in identifying pathology. Xrays  may be needed to rule out fracture. If flatfoot deformity is present, weight-bearing images can help to quantify the degree of deformity Ultrasound (US) is helpful in evaluating the PTT MRI is important for the assessment of tendon or ligament rupture Foot pressure analysis for objective assessment of foot arches",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Ask patient to describe the main aggravating activity. The pain generally is worse after walking. Pain usually improves with rest",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables ",
+                "sleep disturbance": "Document number of wakings/night related to the condition",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., marked increase in swelling) Barriers to learning -Are there any barriers to learning? Yes___ No___ -If Yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Is there a history of ankle injuries or prior ankle pain?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient wear orthotics; if so, how old are the orthotics? Does the patient report any limitations in ADLs?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) Complete a general exam as indicated with a focus on the items listed below",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Is the patient currently using foot orthotics? Are they appropriate?",
+            "balance": "Assess static and dynamic balance reactions in stance",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Distal pulses should be normalDoes the patient report any paresthesias? Complete a dermatome scan to assist in ruling out nerve impairmentComplete a functional assessment as indicted",
+            "functional mobility": "",
+            "gait locomotion": "Assess the patient\u2019s gait; note deviations \u2013Authors of a systematic review and meta-analysis  compared foot/ankle kinematics and kinetics in patients with posterior tibial tendon dysfunction with healthy controls during gait(10) -Results showedthat patients with posterior tibial tendon dysfunction had increased dorsiflexion and abduction in the forefoot and increased plantarflexion and eversion in the hindfoot during the stance phase of walking -These kinematics during the stance phase of walking may be associated with the pathological process of posterior tibial tendon dysfunctionAssess the integrity of the joints within the foot; document any hyper-  or hypomobility \u2013Authors of a study (N = 32) compared first ray mobility of patients with flatfeet with and without symptoms of posterior tibial tendon dysfunction.First ray mobility did not differ between symptomatic patients and asymptomatic controls. First ray mobility was not associated with posterior tibial tendon dysfunction(12)Is there any atypical muscle tone noted?",
+            "muscle strength": "Manual muscle testing to assess strength of the muscles of the lower leg. Compare results to unaffected ankle. Assess strength of knee and hip stabilizers, which may contribute to faulty mechanics with squatting/running/stairs, etc.",
+            "observation inspection palpation including skin assessment": [
+                "Assess tenderness (V AS) to palpation posterior to the medial malleolus and along the instep at the navicular. Palpate for increased prominence of the navicular on the plantar surface of the foot",
+                "Assess for provocation of pain with plantar flexion and inversion against resistance ",
+                "Mild swelling may be noted in the ankle joint or posterior to the medial malleolus. Circumferential measurements should be completed proximal and distal to the malleoli and a figure 8 measurement about the entire joint should be taken. Compare with the unaffected side"
+            ],
+            "posture": "Assess general posture and the ankles and knees for symmetry. Inspect for alignment faults at the ankle, including dropping of the inside of the ankle, flattening of the foot arch, and bowing of the Achilles tendon and the heel inward.(1) These occur with an over-elongated  tibialis posterior. The toes point outwards, such that when the kneecap is pointing forward the foot is rotated laterally with reference to the knee. Knee alignment faults are associated with a knock-kneed stance, in which the femur rotates medially and adducts, causing the kneecap of the affected leg to face inward. Compare to the contralateral limb",
+            "range of motion": "Determine active and passive ROM of the foot/ankle. Goniometric measurements should be completed for dorsiflexion, plantar flexion, inversion, and eversion. Compare to the contralateral limb",
+            "self-care activities of daily living": "",
+            "reflex testing": "Complete a reflex assessment as indicatedAssess ability to complete ADLs as indicated",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Functional leg length(4) -With the patient standing, the clinician feels the anterior superior iliac spines (ASISs) as well as the posterior superior iliac spines (PSISs) and assesses for asymmetry -The clinician adjusts the patient\u2019s feet to position the patient in subtalar neutral; this position is then held -The ASISs and PSISs are felt once again; if asymmetries persist, the pelvis requires further examination -If asymmetries are corrected, an ankle/foot impairment is likely causing a functional leg-length discrepancy (may also be from hip or knee) -Leg-length  discrepancy may be associated with posterior tibial tendon dysfunction. Changes in gait on both the shorter limb and the longer limb can place increased stress on the PTT(10)With the patient in normal standing position, an assessment of the feet from behind will show more visible toes on the outside of the affected leg compared to the unaffected leg. This is due to the fallen arch (i.e., hyperpronation) and malalignment of the foot(1,2)The patient attempts to complete 10 single-leg  heel raises without support. Positive test occurs with reproduction of pain or inability to complete full motion with each heel raise, or the inability to complete the specified number of heel raises when compared to the other side(11) \u2013Feiss line(4) -With the patient in sitting (no weight on feet), the clinician draws a small point on the apex of the medial malleolus and plantar region of the first metatarsophalangeal joint; a line is then drawn connecting these two points -The clinician feels the navicular tuberosity and marks its position in relation to the line intersecting the points marked in the first step -With the patient instance, the position of the navicular tuberosity is noted again; typically (in the normal foot) the tuberosity will fall on/near the line -First-degree  flatfoot \u2013 navicular tuberosity lowers one third of distance to the floor -Second-degree  flatfoot \u2013 navicular tuberosity lowers two thirds of distance to the floor -Third-degree  flatfoot \u2013 navicular tuberosity touches the floor \u2013Patla tibialis posterior length test(4) -While the patient is prone with the knee on the involved side flexed to 90\u00b0, the examiner dorsiflexes and everts the ankle with one hand -The thumb of the examiner\u2019s other hand is then placed over the plantar surface of the bases of the second, third, and fourth metatarsals and the index and middle fingers over the plantar surface of the navicular -The metatarsals and the navicular are then pushed dorsally, and the end feel is compared to the contralateral foot -A positive test is the reproduction of the patient\u2019s symptoms, which is indicative of a dysfunctional PTT",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Over an area of circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Cold intolerance",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Avoid applying cold over superficial nerves",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "With individuals with poor cognition",
+                "In the very young or very old",
+                "Persons with aversion to cold",
+                "Application over areas with a lack of intact thermal sensation",
+                "Application over areas of vascular insufficiency or vascular disease",
+                "Application over areas of recent hemorrhage or potential hemorrhage",
+                "Application over areas of known malignancy",
+                "Application over areas of acute inflammation",
+                "Application over infected areas where infection may spread or cross-contamination  may occur",
+                "Application over areas where liniments or heat rubs have recently been applied",
+                "Application in any situation deemed unreliable by the practitioner",
+                "Pregnancy\u2014over the abdomen or low back",
+                "Active bone growth at the epiphysis",
+                "Cancer\u2014over a known or suspected area of malignancy",
+                "Tuberculosis infection\u2014infected tissue",
+                "Hemorrhagic conditions",
+                "Impaired circulation",
+                "pregnancy  over the abdomen or low back",
+                "Cancer  over a known or suspected area of malignancy",
+                "Hemorrhagic conditions",
+                "Active bone growth at the epiphysis",
+                "Areas of infection",
+                "Acute injury",
+                "Impaired sensation",
+                "Impaired cognition or communication",
+                "Impaired circulation ",
+                "Skin disease, including damaged and at-risk  skin",
+                "Plastic or cemented implants",
+                "Spinal cord and superficial or regenerating nerves"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols. Only those  contraindications/precautions that apply to this diagnosis are mentioned below. Rehabilitation professionals should use their own professional judgment when treating patients",
+                "Patients with this diagnosis may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Cryotherapy contraindications  (5)",
+                "Cryotherapy precautions  (5)",
+                "Thermotherapy contraindications  (5)",
+                "Therapeutic ultrasound  contraindications for continuous US(5)",
+                "Therapeutic ultrasound  contraindications for pulsed US(5)",
+                "Therapeutic ultrasound precautions for pulsed US(5)"
+            ]
+        },
+        "diagnosis need for treatment": "Exertional pain in the posterior tibial tendon with restricted strength, in conjunction with foot, ankle, or knee alignment faults. Trial of physical therapy to reduce pain, improve ankle/foot and knee alignment, and restore function(2)",
+        "rule out": " Rule out Ankle sprain Fracture (tibial, fibular, calcaneal) Achilles tendon pathology Osteoarthritis(1) Collapsed arch secondary to aging or obesity(1) Shin splints or stress fractures of the lower leg Plantar fasciitis Calcaneal bone spurs Posterior tibial nerve entrapment Anterior or posterior compartment syndrome DVT Lisfranc dislocation(2) Generalized dysplasia (ligamentous laxity)(2) Idiopathic pes planus(2) Congenital pes planus(2)",
+        "prognosis": [],
+        "referral to other disciplines": " Referral to other disciplines Orthopedist or podiatrist as indicated Orthotist",
+        "other considerations": [
+            "Authors of a radiographic study evaluated the prevalence of bony impingement using weight-bearing  CT scans of patients with flatfeet with posterior tibial tendon dysfunction. They found that 35% of patients had bony impingement between the fibula and calcaneus. Thirty-eight  percent had bony impingement between the talus and calcaneus. Accurate diagnosis of bony impingement is necessary for surgical decision-making(13)"
+        ],
+        "treatment summary": [
+            "Conservative treatment is indicated for nearly all patients.(1) Pain management, strengthening, and stretching are the main physical therapy interventions recommended. Fitting for orthotics may also be warranted. Patients with posterior tibial tendinopathy benefit from a program of progressive strengthening. The physical therapy treatment plan should also involve patient education on the risk of faulty techniques and sports training errors, as well as discussion of acceptable approaches to relative rest and activity modification. A realistic period for return to sports is 3\u20134 weeks after resolution of pain in aggravating activities",
+            "Treatment approach will vary depending on stage of posterior tibial tendon dysfunction; please see classification system in Presentation/signs and symptoms , above(1)",
+            "Increased activation of intrinsic foot muscles is important in supporting the MLA. Short-foot  exercises (SFE)focus on isolating the intrinsic muscles. Authors of a study (N = 15) investigated the effects of a 4-week  SFE intervention on biomechanical factors in patients with stage II posterior tibial tendon dysfunction(9) \u2013SFE intervention consisted of patients performing activation of the intrinsic foot muscles 15 repetitions, 5 times/day, 3 times/per for 4 weeks. Patients were instructed to pull their first metatarsal head toward the calcaneus without toe flexion or extension (causing activation of extrinsic muscles) along with the elevation ofMLA and shortening oftheir involved foot in an anterior-posterior  direction. They were also asked to place the forefoot and heel on the ground during holding (isometric contraction) time. During the first week, neuromuscular electrostimulation was used to assist in activation of the intrinsic muscles  \u2013Although the exercise program failed at changing the structural deformity (increase MLA height), it did have positive effects on changing the activation patterns for the tibialis anterior muscle and the fibularis longus muscle. These often present with an abnormal compensatory muscle activation in patients with posterior tibialtendon dysfunction \u2013Clinicians should consider using both SFE and extrinsic muscle strengthening over a longer training period to produce more beneficial results",
+            "Calcaneal-cuboid  manipulation was found to immediately reduce symptoms and increase function in a patient with posterior tibialis tendinopathy in a 2015 case report(7) \u2013Initial treatment (prior to the manipulation) consisted of stretching, soft tissue mobilization, therapeutic exercise, and taping \u2013After minimal gains were made, manipulation was performed with patient prone while therapist used an internal rotation directed high velocity, low amplitude thrust at the calcaneal-cuboid  joint \u2013Immediately after manipulation, patient reported 0/10 pain. With 6 weeks of additional treatment, the patient was able to return to pain-free  running \u2013A posterior tibialis lengthening exercise was added to the patient\u2019s home program after manipulation. While standing, the patient maintained knee extension and lower leg internal rotation to create pronation of the rear and midfoot, which in turn lengthened the posterior tibialis",
+            "In patients with posterior tibialis tendinopathy, orthoses and therapeutic exercise may improve function of the involved foot(6) \u2013Based on an RCT with 36 participants \u2013Participants with stage I or II disease were randomized to one of the following (for 12 weeks) -Orthoses and stretching -Orthoses, stretching, and concentric progressive resistive exercise -Orthoses, stretching, and eccentric progressive resistive exercise \u2013Outcome measures included the Foot Function Index, 5-minute walk test, and recorded pain after the 5-minute  walk test \u2013Pain was significantly reduced in all intervention groups \u2013Foot Function Index scores improved in all intervention groups \u2013No comparisons between groups were reported due to significant differences in scores between groups at baseline . Problem Goal Intervention Expected Progression Home Program  Pain, tenderness, and swelling _ _ Faulty foot mechanicsMinimize pain, tenderness, and swelling _ _ Improve foot mechanicsPatient education for pain management _ Use of ice pack/heat pack as indicated and appropriate, independent exercise program, and avoidance of overuse/training errors _ _ Ankle/foot protection: Modify or discontinue activities that provoke pain _ _ Physical agents/ mechanical modalities _ Trial of low-intensity pulsed US for pain management may be implemented _ _ Prescription, application of devices and equipment _ Many patients will benefit from simple treatments, such as orthotics. Because correcting the PTT dysfunction by orthotics alone may just shift the alignment problem further up the leg to the knee, muscular strengthening and education for the patient must be completed in conjunction with the addition of orthotics(1)Education may help to prevent exacerbation of injury and reduce the risk of reinjuryPatient should be educated on proper use of heat and cold packs  Reduced ankle joint ROMRestore ankle ROM Stretching exercises _ Passive ankle stretching in all directions to restore normal, pain- free ROMProgress each unique patient as appropriate and indicatedHome program may include strategies such as a towel plantar- flexor stretch: Patient long sitting with towel around the plantar aspect of the forefoot. The patient pulls the ankle into dorsi-flexion, stretching the plantar flexors. The stretch should be held 30 seconds and repeated 5\u201310 times (throughout the day) Reduced balance(1) Improve balance Therapeutic strategies _ Implement therapeutic activities to address balance impairments as indicated (e.g., BAPS board)Progress each unique patient as appropriate and indicatedIncorporate balance activities into the home program as indicated and appropriate Reduced strength Improve muscle strength and prevent atrophyStrengthening exercises _ Begin with isometric ankle dorsiflexion, plantar flexion, inversion, and eversion exercises _ _ Progress to dynamic ankle exercises against resistance bands and heel raises against the patient\u2019s body weight(#)Further progression to manually resisted eccentric ankle motions, which may include single-leg heel raises against resistance and/or body weight(#)Strategies may include resisted ankle plantar flexion and inversion: Patient long sitting with resistance bands around the plantar aspect of the foot. The patient actively completes plantar-flexion against the resistance band. This exercise is completed for inversion by shifting the band so that it rests on the medial aspect of the foot and the patient actively completes inversion _ _ Aerobic conditioning with a stationary bike may be used  Restrictions in daily activities and/or sport _ _ Increased risk for reinjury or progression of injuryRestore prior functional capacity in daily activities and/or sports _ _ Reduce risk of reinjury or progression of injuryFunctional training _ May begin with walking on the ground with correct/improved alignment and then progress to treadmill walking. Jogging should begin on an elliptical machine to simulate jogging (without the impact force). This also aids in reinforcing correct ankle and knee alignmentProgress each unique patient as appropriate and indicatedA home exercise program may be provided to improve results ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "minimized or resolved pain": [
+            "V AS"
+        ],
+        "improved foot mechanics": [
+            "Special tests"
+        ],
+        "restored ankle rom": [
+            "Goniometry"
+        ],
+        "improved muscle strength and prevention of atrophy": [
+            "MMT"
+        ],
+        "improved balance": [
+            "Berg Balance Scale or other balance assessment tool"
+        ],
+        "restored prior functional capacity in daily activities and or sports": [
+            "Patient questionnaire"
+        ],
+        "reduced risk of reinjury or progression of injury": [
+            "Incidence of injury",
+            "Patient questionnaire"
+        ]
+    },
+    "maintenance or prevention": [
+        "Similar to athletes recovering from stress fractures, patients treated for PTT pain should be given an independent ankle strengthening/stretching program and advised to correct poor ankle alignment. Orthotics should be worn during athletic participation, if warranted"
+    ],
+    "patient education": [
+        "See \u201cPosterior Tibial Tendon Dysfunction\u201d from the American Academy of Orthopaedic Surgeons at https://orthoinfo.aaos.org/en/diseases--conditions/posterior-tibial-tendon-dysfunction Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Kohls-Gatzoulis  J, Angel JC, Singh D, Haddad F, Livingstone J, Berry G. Tibialis posterior dysfunction: a common and treatable cause of adult acquired flatfoot. BMJ. 2004;329(7478):1328-1333.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Wexler D, Kile TA, Grosser DM. Posterior tibial tendon dysfunction. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Saunders Elsevier; 2019:506-509.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Corps AN, Robinson AHN, Harrall RL, et al. Changes in matrix protein biochemistry and the expression of mRNA encoding matrix proteins and metalloproteinases in posterior tibialis tendinopathy. Ann Rheum Dis . 2012;71(5):746-752.  doi:10.1136/annrheumdis-2011-200391.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Magee D. Lower leg, ankle, and foot. Orthopedic Physical Assessment . 7th ed. Philadelphia, PA: Saunders; 2021. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kulig K, Reischl SF, Pomrantz AB. Nonsurgical management of posterior tibial tendon dysfunction with orthoses and resistive exercise: a randomized controlled trial. Phys Ther. 2009;89(1):26-37.  (RCT)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Patla C, Lwin J, Smith L, Chacona E. Cuboid Manipulation and exercise in the management of posterior tibialis tendinopathy: a case report. Int J Sports Phys Ther . 2015;10(3):363-370.  (C)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Concoran NM, Varacallo M. Anatomy, bony pelvis and lower limb, tibialis posterior muscle. StatPearls . Treasure Island (FL): StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Kim J, Lee SC, Chun Y, et al. Effects of a 4-week short-foot  exercise program on gait characteristics in patients with stage ii posterior tibial tendon dysfunction [published online ahead of print, 2020 Mar 31]. J Sport Rehabil . 2020;30(1):120-128.  doi:https://doi.org/10.1123/jsr.2019-0211.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Wang J, Mannen EM, Siddicky SF, Lee JM, Matt LD. Gait alterations in posterior tibial tendonitis: A systematic review and meta-analysis.  Gait Posture . 2020;76:28-38. doi:https://doi.org/10.1016/j.gaitpost.2019.11.002. (M)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Ling SK, Lui TH. Posterior tibial tendon dysfunction: an overview. Open Orthop J . July 31, 2017;11:714-723.  doi:https://doi.org/10.2174/1874325001711010714. (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Heng ML, Krishnasamy P, Kong PW. First ray mobility and posterior tibial tendon dysfunction (PTTD) in persons with flatfoot: A case control study. Foot (Edinb) . 2018;37:57-60.  doi:https://doi.org/10.1016/j.foot.2018.08.001. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Jeng CL, Rutherford T, Hull MG, Cerrato RA, Campbell JT. Assessment of bony subfibular impingement in flatfoot patients using weight-bearing  CT scans. Foot Ankle Int . 2019;40(2):152-158.  doi:https://doi.org/10.1177/1071100718804510. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Pontin PA, Nogara PRB, Fonseca FCP, et al. ER# PvuII and XbaI polymorphisms in postmenopausal women with posterior tibial tendon dysfunction: a case control study. J Othop Surg Res . 2018;13(1):316. doi:https://doi.org/10.1186/s13018-018-1020-x.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Federer AE, Steele JR, Dekker TJ, Liles JL, Adams SB. Tendonitis and tendinopathy: what are they and how do they evolve?. Foot Ankle Clin . 2017;22(4):665-676.  doi:https:// doi.org/10.1016/j.fcl.2017.07.002. (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Cheong IY, Hang HJ, Ko H, Sung J, Song YM, Hwang JH. Genetic influence on accessory navicular bone in the foot: a Korean twin and family study. Twin Res Hum Genet . 2017;20(3):326-241.  doi:https://doi.org/10.1017/thg.2017.21. (R)"
+        }
+    ]
+}

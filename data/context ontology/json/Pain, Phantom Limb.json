@@ -1,0 +1,324 @@
+{
+    "metadata": {
+        "title": "Phantom Limb Pain",
+        "synonyms": [
+            "phantom limb syndrome with pain",
+            "pseudomelia",
+            "pain, phantom limb",
+            "limb pain",
+            "phantom"
+        ],
+        "anatomical location body part affected": [
+            "Upper and lower extremities, somatosensory and motor cortex of brain, spinal and peripheral nervous pathways"
+        ],
+        "area of specialty": [
+            "acute care",
+            "wound management",
+            "neurological rehabilitation",
+            " orthopedic rehabilitation"
+        ],
+        "description": [
+            "Phantom limb pain is the continued perception of pain from an amputated limb. Continued perception of sensation is experienced by most amputees; however, the perception of pain (i.e., phantom limb pain) is distinguished from phantom limb sensation",
+            "Phantom limb sensation is the perception of pain in a limb that no longer exists(17)",
+            "Phantom limb pain can be described as having a painful sensation associated with the missing body part.(1)It typically begins within the first postsurgical week and then stabilizes after a few months. In some cases, it may not begin until several months or years following the amputation(1) \u2013It can be classified as a type of neuropathic pain(17) \u2013Pain may be reported as very intense pain and may occur as a result of an external or internal stimulus(1) \u2013Pain may also be reported as dull, continuous aching or burning that is not episodic(1)",
+            "Stump pain is pain arising from the residual part of the body as opposed to phantom pain, which is felt in the missing part of the body(1) \u2013Stump pain is described as a sharp or sticking sensation or increased pressure that is localized to the end of the stump(1) \u2013The most common cause of stump pain is prosthogenic, with neurogenic pain the second most common cause. Neurogenic pain results from the formation of a neuroma where the nerve was cut during amputation(1)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G54.6": "phantom limb syndrome with pain (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "The occurrence of phantom limb pain in individuals who undergo amputation is reported to be as high as 80%.(1)Phantom pain is more common in traumatic amputation in adulthood and adolescence(2)",
+            "Typically, the onset of phantom limb pain is during the first week after surgical amputation; the pain generally wanes after several months. However, phantom limb pain may persist for years(1) ",
+            "The patient may report the following painful sensations, distal to the level of the amputation in the extremity (e.g., below-knee  amputation and pain is perceived to be in the foot) \u2013Profound burning(3) \u2013Cramping(3) \u2013Shooting(3) \u2013Throbbing(1) \u2013Squeezing(1) \u2013Knife-like(1)",
+            "The focus of this Clinical Review is phantom limb pain; for more information on lower extremity amputation, please see Clinical Review\u2026Amputation, Lower Extremity: Physical Therapy ; Item Number: T708442. For more information on upper extremity amputation, please see Clinical Review\u2026Amputation, Upper Extremity, in Adults: Physical Therapy ; Item Number: T708916 Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "There is no evidence in the literature that phantom pain is caused by psychological disorders, although stress andpsychological disturbances can exacerbate the pain(1)",
+            "Phantom pain is considered to be neuropathic pain (i.e., pain caused by dysfunction of the nervous system).(4) Neuropathicpain occurs when trauma results in secondary injury to a portion of the nervous system,(4) causing abnormal activation ofpain pathways. The damage can occur in the peripheral and/or central nervous system",
+            "Various factors generally present following an amputation are theorized to play a role, including the following:(3)\u2013Irritation of the peripheral nerves\u2013Atypical sympathetic nervous system functioning",
+            "The CNS is thought to be altered by amputation through the abrupt cessation of afferent nerve impulses(5)"
+        ],
+        "pathogenesis": [
+            "Complex changes take place throughout the body following amputation; the trauma to the peripheral nerves duringamputation sets off cellular alterations as well as structural alterations in the peripheral and central nervous systems. Forexample, chemicals/enzymes expelled when injury occurs come into contact with nociceptors for extended periods, leadingto hypersensitivity of these nociceptors(17)",
+            "Phantom limb pain may be associated with changes that take place after the nerve is completely cut. The nerves becomemore active and sensitive to chemical and mechanical changes, which can lead to an increased sensitivity to allodynia andhyperalgesia(17)"
+        ],
+        "risk factors": [
+            "Amputation\u2013Most common with lower and upper extremities but can also occur with amputation or surgical removal of other bodyparts (e.g., breast, penis, eye, tongue)(6)\u2013Eighty percent of patients with amputations experience some phantom pain at some point during the recovery process(1)",
+            "Persisting preoperative pain(18)",
+            "Stump pain(19)",
+            "Stump pain \u2013 patients who complain of stump pain more frequently complain of phantom pain as well(6)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Carefully follow the surgeon\u2019s orders and restrictions",
+        "The patient\u2019s and family\u2019s emotional state must be taken into account during evaluation and subsequent treatment",
+        "Following amputation, skin breakdown may result (e.g., from prosthetic use);(7) the clinician is advised to follow universal precautions and ensure that medical staff are aware of the compromised tissue",
+        "Monitor for signs/symptoms of DVT",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care "
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was the amputation? What was the cause? Document type of amputation and any postsurgical complications. If traumatic, were there any additional injuries? When did the phantom limb pain begin? Was there limb pain prior to or at the time of the amputation?",
+                "course of treatment": {
+                    "medical management": "Regional anesthesia with local anesthetics may be tried. Surgery may include spinal cord stimulation electrode implantation, dorsal root ablation, or sympathectomy, in cases of intractable pain(2)",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Phantom limb pain is usually diagnosed based on history and physical examination",
+                        "Plain X-rays  and ultrasound may be used to diagnose underlying conditions",
+                        "MRI, electrodiagnostic tests, or laboratory tests may be performed if other diagnoses are suspected(2)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, relaxation techniques, hypnosis, distraction, massage) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful (e.g., use of prosthetics)"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased) -Aggravating factors may include -stress and anxiety(2,3) -shifts in weather patterns(19) -prosthetic use(2) -external stressors(19) -muscle tension(2) -Phantom limb pain is not relieved with change of position(2)",
+                "body chart": "Use body chart to document location and nature of symptoms, as applicable. Phantom limb pain is usually localized in distal parts of the absent limb, usually the hand or foot(2)",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, throbbing, aching, burning, numbness, tingling, squeezing, pinching, or cramping). Episodic painful shocks may be described. Phantom limb pain is usually intermittent, although some patients have exacerbations superimposed on constant pain.(2) Inquire about other phantom sensations that may be annoying but not necessarily painful, including itching, pressure, touch, and movement",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if  pain   is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables. The pattern of symptoms may help differentiate central neuropathic pain from peripheral neuropathic pain. Peripheral nerve pain is more intense at night(8)",
+                "sleep disturbance": "Sleep disorders are a common complication of phantom limb pain. Document number of wakings/ night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., increase in pain, increased swelling in the residual limb). Increased anxiety and emotional arousal may be symptoms of PTSD and patient should be referred to physician",
+                "respiratory status": "Document any respiratory compromise (e.g., need for supplemental oxygen) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________ "
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any history of dysfunction in that limb? History of previous surgeries (e.g., bypass)?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient currently working? Has there been a loss of employment as a direct consequence of the amputation? Does the patient participate in any recreational activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any reported impairments in ADLs related to amputation and phantom limb pain",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  For comprehensive assessment procedures specific to upper or lower extremity amputation, see the appropriate Clinical Review. The areas listed below focus on the assessment of an individual with (or suspected of having) phantom limb pain",
+            "anthropometric characteristics": "Circumferential measurements may be used to monitor edema; compare to the unaffected limb. Measure residual limb length",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013As indicated, assess if assistive/adaptive and ambulatory devices are appropriate for the patient \u2013Does the patient have a prosthesis? If so, is the fit appropriate and is the device well tolerated? If the patient does not have a prosthesis, is he or she a candidate, and has any prosthesis training occurred?",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Evaluate bilateral distal pulses; note general temperature of extremityComplete a functional assessment; document if pain increases during any particular activity. Use the FIM",
+            "functional mobility": "",
+            "gait locomotion": "Assess patient\u2019s gait with the use of any assistive devices and use of prosthesis, if available. Note any gait asymmetries or gait deviationsIs there any laxity noted in joints proximal to the amputation? Any joint restrictions? Use Paris Stoddard Scale for joint mobility assessmentAssess bilateral upper and lower extremities for abnormal tone or spasticity as indicated. Use the Modified Ashworth Scale to assess tone",
+            "muscle strength": "Assess trunk and bilateral upper and lower extremity strength using manual muscle testing (MMT); include the residual limb, nonaffected extremities, and trunk",
+            "observation inspection palpation including skin assessment": [
+                "Observe for skin breakdown elsewhere and improper fit of prosthesis",
+                "Examine and palpate residual limb for neuromas, cysts, bursae, bone spurs"
+            ],
+            "posture": "Complete a full postural assessment, including standing with prosthesis; note deviations, in particular any that may be compensation due to pain",
+            "range of motion": "Complete a full bilateral upper and lower extremity ROM assessment. Assess bilateral lower extremity flexibility. Use goniometryComplete an ADL assessment as indicated and document pain level during the various activities. Use Barthel Index or other standardized measure",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": " Sensory testing -Sharp vs. dull  -Proprioception testing",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Tinel\u2019s sign may be used to assist in differentiating neuroma pain from phantom limb pain(20) \u2013Quality of life indices \u2013 phantom limb pain has been reported to be an important factor in determining quality of life post amputation. Use of a structured health-related  quality of life questionnaire, such as the WHO Quality of Life-BREF  or the Short Form Health Survey (SF-36),  may be indicated",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess cognition as indicated. Is patient alert and oriented x 4?",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barriers",
+                "Malignant tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs",
+                "Stimulation through or across the chest",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Over carotid sinuses",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Cancer",
+                "Used in close proximity to diathermy treatment",
+                "Over the region of a cardiac pacemaker",
+                "Over the pelvis, abdominal, and lumbar regions during pregnancy",
+                "In an area with infection or bleeding",
+                "If a tumor is present in the area ",
+                "In the area of DVT or thrombophlebitis",
+                "Over epiphyseal plates",
+                "Sensory deficits",
+                "Individuals who cannot communicate effectively (e.g., impaired cognition, language barrier)",
+                "Circulatory impairments",
+                "Plastic or metal implants",
+                "Note: Always decrease ultrasound intensity if the patient complains of discomfort"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including those in regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Patients with chronic neuropathic pain often require management with many medications and adjunctive therapies, and are at risk for drug addiction(9)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Thermotherapy  contraindications(10)",
+                "Electrotherapy  contraindications/precautions (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(10)",
+                "Therapeutic ultrasound  contraindications(10)",
+                "Therapeutic ultrasound  precautions(10)"
+            ]
+        },
+        "diagnosis need for treatment": "The presence of phantom limb pain is an indication for physical/occupational therapy",
+        "rule out": " Rule out Chronic postsurgical pain(2) Neuralgia(2) Angina(2) DVT or pain that is vascular in origin",
+        "prognosis": [
+            "Phantom pain typically decreases in frequency, duration, and severity over the course of 6 months after amputation(1)",
+            "Phantom limb pain that is still present 6 months after amputation is difficult to treat and usually does not respond to standard treatment options(1) \u203aReferral to other disciplines  (as appropriate and indicated)",
+            "Support groups",
+            "Back to physician/surgeon",
+            "Pain specialist/pain clinic",
+            "Prosthetist",
+            "Social worker",
+            "Occupational therapist",
+            "Psychologist"
+        ],
+        "referral to other disciplines": "",
+        "other considerations": [
+            "Spinal cord stimulation may be effective in reducing phantom limb pain \u2013Epidural electrodes are permanently implanted after a trial of percutaneous stimulation successfully reduces pain",
+            "Transcranial direct current stimulation over the motor cortex (superficially) may be effective for management of post-amputation  phantom limb pain(12) \u2013Based on a crossover, double-blind,  sham-controlled  study in Italy \u2013Eight subjects with unilateral lower or upper limb amputation and chronic phantom limb pain were included \u2013Nodal transcranial direct current stimulation was applied over the motor cortex at 1.5 mA for 15 minutes. Patients received 5 consecutive days of treatment (active or sham) \u2013Response to active treatment was immediate phantom limb pain relief and increased ability to move phantom limb; improvements lasted for 1 week after treatment concluded. Response to sham treatment was variable, with patients noting an increase or decrease in symptoms from baseline",
+            "Acupuncture or hypnosis may be tried(3)",
+            "Authors of a study in the United Kingdom of 75 military personnel who had unilateral or bilateral lower extremity amputations concluded that 56% of the participants experienced a change in the severity of phantom limb pain with visceral stimuli (bowel or bladder filling or evacuating)(14)",
+            "Virtual-reality  rehabilitation can be effective at treating phantom limb pain associated with phantom limb movement (i.e., clamping, gnawing)(15)"
+        ],
+        "treatment summary": [
+            "Authors of an RCT study have suggested that mirror therapy treatment can reduce the intensity, duration, and frequency of phantom limb pain, with improvements being maintained for up to 12 weeks post therapy(16) \u2013Sixty patients with amputation and phantom limb pain were randomized to either the experimental group (n = 32) or control group (n = 28) \u2013The experimental group completed 4 weeks of mirror therapy and were followed up 12 weeks after completion  \u2013Sessions were 15 minutes daily for 4 weeks",
+            "Mirror visual feedback (MVF) is a treatment intervention in which movement of one limb is perceived as movement of the other limb using visual feedback with a mirror. MVF may alleviate phantom limb pain(11,13) \u2013According to a 2015 systematic review, mirror therapy is a promising and low-cost  treatment for phantom limb pain(13) -One hundred thirty-seven  articles were reviewed and 7 were included in the review -Due to the heterogeneity of the literature, additional larger RCTs are warranted . Problem Goal Intervention Expected Progression Home Program Phantom limb pain Reduce phantom limb pain to improve ability to complete ADLs, tolerate prosthesis, and participate in rehabilitation programTherapeutic interventions _ Other interventions may include ultrasound,(5) thermotherapy,(5) vibration,(5) and massage(5,7) _ _"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased pain and normalized sensation": [
+            "Improved performance of ADLs, use of prosthesis, and participation in rehabilitation program\u2013FIM, Barthel Index, gait/prosthetic assessment",
+            "Improved psychosocial well-being\u2013TAPES-R,  quality of life indices (WHO Quality of Life-BREF  or SF-36)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Maintenance: Patients with phantom limb pain should adhere to their home program to maintain achieved pain relief. Daily residual limb inspection should also be completed (this is especially important in prosthetic users)"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Magee DJ. Assessment of the amputee. In: Orthopedic Physical Assessment . 6th ed. St. Louis, MO: Saunders Elsevier; 2014:1060-1061.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Bang MS, Jung SH. Phantom limb pain. In: Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 3rd ed. Philadelphia, PA: Saunders Elsevier; 2015:540-543.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Mitsch S, Smurr Walters L, Yancosek K. Amputations and prosthetics. In: Radomski MV, Latham CA, eds. Occupational Therapy for Physical Dysfunction . 7th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2014:1267-1272.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Goodman CC, Synder TEK. Differential Diagnosis for Physical Therapists: Screening for Referral . 5th ed. St. Louis, MO: Saunders Elsevier; 2012. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Burke-Doe  A. Pain management. In: Umphred DA, Burton GU, Lazaro RT, Roller ML, eds. Neurological Rehabilitation . 6th ed. St. Louis, MO: Mosby; 2014:1003-1004.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Mayo Clinic staff. Phantom pain. https://www.mayoclinic.org/diseases-conditions/phantom-pain/symptoms-causes/syc-20376272 . Published October 23, 2018. Accessed August 28, 2019. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Dillingham TR, Braza DW. Upper limb amputations. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 2nd ed. Philadelphia, PA: Saunders Elsevier; 2008:595-598.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Sheehan TP. Rehabilitation and prosthetic restoration in upper limb amputation. In: Braddom RL, ed. Physical Medicine and Rehabilitation . 5th ed. Philadelphia, PA: Elsevier Saunders; 2016:167-189.  (G)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Grimaldi PL. Neuropathic pain. In: Domino FJ, ed. The 5-Minute Clinical Consult 2016 . 26th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2017:686-687.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:80-82,  127-128, 322-323. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Deconinck FJ, Smorenburg AR, Benham A, Ledebt A, Feltham MG, Savelsbergh GJ. Reflections on Mirror Therapy: A Systematic Review of the Effect of Mirror Visual Feedback on the Brain. Neurorehabil Neural Repair . 2015;29(4):349-361.  doi:1545968314546134. (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Bolognini N, Spandri V, Ferraro F, et al. Immediate and sustained effects of 5-day transcranial direct current stimulation of the motor cortex in phantom limb pain. J Pain. 2015;16(7):657-665.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Timms J, Carus C. Mirror therapy for the alleviation of phantom limb pain following amputation: a literature review. Int J Ther Rehabil . 2015;22(3):135-145.  (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Rafferty M, Bennett Britton TM, Drew BT, Phillip RD. Cross-sectional  study of alteration of phantom limb pain with visceral stimulation in military personnel with amputation. J Rehabil Res Dev . 2015;52(4):441-447.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Osumi M, Inomata K, Inoue Y, Otake Y, Morioka S, Sumitani M. Characteristics of phantom limb pain alleviated with virtual reality rehabilitation. Pain Med . 2019;20(5):1038-1046.  doi:10.1093/pm/pny269. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Ramadugu S, Nagabushnam SC, Katuwal N, Chatterjee K. Intervention for phantom limb pain: a randomized single crossover study of mirror therapy. Indian J Psychiatry . 2017;58(4):457-464.  doi:10.4103/psychiatry.IndianJPsychiatry_259_16. (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Kaur A, Guan Y. Phantom limb pain: a literature review. Chin J Traumatol . 2018;21(6):366-368.  doi:10.1016/j.cjtee.2018.04.006. (RV)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Limakatso K, Bedwell GJ, Madden VJ, Parker R. The prevalence of phantom limb pain and associated risk factors in people with amputations: a systematic review protocol. Syst Rev. 2019;8(1):17. doi:10.1186/s13643-018-0938-8.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Fuchs X, Flor H, Bekrater-Bodmann  R. Psychological factors associated with phantom limb pain: a review of recent findings. Pain Res Manag . 2018;2018:5080123. doi:10.1155/2018/5080123. (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Collins KL, Russell HG, Schumacher PJ, et al. A review of current theories and treatments for phantom limb pain. J Clin Invest . 2018;128(6):2168-2176.  doi:10.1172/JCI94003. (RV)"
+        }
+    ]
+}

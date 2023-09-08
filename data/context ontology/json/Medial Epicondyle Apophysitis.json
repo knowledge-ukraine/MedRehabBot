@@ -1,0 +1,325 @@
+{
+    "metadata": {
+        "title": "Medial Epicondyle Apophysitis",
+        "synonyms": [
+            "medial apophysitis",
+            "medial epicondyle avulsion",
+            "little league elbow (a broad term used to describe numerous pathologies of the immature elbow)",
+            "apophysitis, medial",
+            "apophysitis, medial epicondyle",
+            "elbow, little league"
+        ],
+        "anatomical location body part affected": [
+            "The elbow comprises three articulating bones: the humerus superiorly, the radius inferolaterally, and the ulna inferomedially",
+            "The medial epicondyle is a bony protrusion on the distal humerus on the medial elbow. The ulnar nerve traverses underneath the medial epicondyle via the cubital tunnel",
+            "The medial epicondyle serves as an attachment site for the ulnar collateral ligament and pronator teres and thus is frequently under tension. In a chronologically immature individual, a secondary ossification center develops in the medial epicondyle(1)",
+            "An apophysis is a secondary ossification center where a muscle tendon inserts into the bone.(2) In this case, the medial epicondyle apophysis continues to develop until the age of 15 to 17, when it fuses(1,2)",
+            "During maturation, the elbow develops five different apophyses:(1) \u2013Capitellum (lateral articular surface of the of the distal humerus) \u2013Radius \u2013Medial epicondyle \u2013Trochlea (medial articular surface of the distal humerus) \u2013Olecranon (proximal prominence of the ulna) \u2013Lateral epicondyle"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "pediatric rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Medial epicondyle apophysitis is an overuse injury of the medial elbow that commonly occurs in young, overhead-throwing  athletes, resulting in a widening of the apophysis and/or fragmentation of the medial epicondyle ossification center(2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "719.42": "traction apophysitis of the medial epicondyle",
+            "732.3": "juvenile osteochondrosis of upper extremity",
+            "732.9": "unspecified osteochondropathy",
+            "841": {
+                "base": "sprains and strains of elbow and forearm",
+                "841.0": "radial collateral ligament sprain",
+                "841.1": "ulnar collateral ligament sprain",
+                "841.2": "radiohumeral (joint) sprain",
+                "841.3": "ulnohumeral (joint) sprain",
+                "841.8": "sprain of other specified sites of elbow and forearm",
+                "841.9": "sprain of unspecified site of elbow and forearm"
+            }
+        },
+        "ICD-10 codes": {
+            "S53.4": "sprain and strain of elbow",
+            "M92.3": "other juvenile osteochondrosis of upper limb (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Carrying, Moving & Handling Objects G-code set": {
+                "G8984": "Carrying, moving & handling objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, moving & handling objects functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, moving & handling objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Self Care G-code set": {
+                "G8987": "Self care functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8988": "Self care functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8989": "Self care functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code set": {
+                "G8990": "Other physical or occupational primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other physical or occupational primary functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other physical or occupational primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code set": {
+                "G8993": "Other physical or occupational subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other physical or occupational subsequent functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other physical or occupational subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Occurs primarily at 9-14 years of age, during a growth spurt, and observed primarily in baseball pitchers(3)",
+            "Presentation may be acute or insidious(4)",
+            "The patient may present with the following: \u2013Edema  \u2013Loss of elbow range of motion (ROM)(5) \u2013Pain with palpation along the medial aspect of the elbow, distal arm, and/or proximal forearm(5) \u2013Pain in the medial elbow during throwing(5) \u2013Difficulty maintaining control of the pitch and decreased speed of pitch(5) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "If the patient is presenting through direct access and the condition has not been formally diagnosed by a physician, a referral to a general practitioner or orthopedist is indicated if medial epicondyle apophysitis or other serious pathology is suspected"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "The secondary ossification center is unable to meet the demands of repetitive valgus forces at the medial epicondyleapophysis, usually with overhead throwing during the cocking and acceleration phases of the pitching motion(1)",
+            "Pitching in baseball causes medial traction forces and lateral compressive forces(1)",
+            "In older athletes (> 16 years), avulsion fractures of the medial epicondyle and medial collateral ligament are morefrequently due to fusing of the secondary ossification center and increased muscle strength(2)"
+        ],
+        "pathogenesis": [
+            "Microtrauma caused by the repetitive throwing leads to medial epicondyle apophysitis and may be evidenced on X-ray  bywidening of the apophysis and/or fragmentation(2)",
+            "As the bones in children go through different developmental stages, apophyses are susceptible to injury because of theirdecreased ability to withstand tensile forces from strong and repetitive muscle contractions when compared to apophyses ofskeletally mature individuals(6)",
+            "The medial epicondyle of the elbow is usually the last ossification center of the elbow to fuse, at about age 15\u201316(4)"
+        ],
+        "risk factors": [
+            "Baseball pitchers \u2013 risk increases with incorrect technique, training errors, longer competitive seasons (or simply more timepitching), and muscle weakness",
+            "The baseball sidearm pitching delivery is associated with a higher risk of elbow injury due to an increased valgus forcewith the whipping motion associated with this type of pitch; three quarters or vertical pitch delivery places less valgusstress on the elbow(7)",
+            "As the number of pitches and breaking ball pitches (e.g., curveballs and sliders) increases, the risk for elbow or shoulderpain increases(3)\u2013Based on a prospective cohort study\u2013Four hundred seventy-six  baseball pitchers, aged 9\u201314  years, were tracked for a season\u2013At least 50% of the participants complained of upper extremity pain during the observation period\u2013Amount of pitches in a game and throughout the season was associated with rate of upper extremity pain\u2013There was an association between-the slider pitch and an increased risk of elbow pain (86% increase in risk)-the curveball and an increased risk of shoulder pain (52% increased risk)",
+            "Can also occur in other overhead sports, including tennis and American football(8)",
+            "Poor physical conditioning has been associated with medial epicondyle apophysitis(5)",
+            "Adolescent males are most commonly affected(4)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The damaged growth plate may not close if the stressful activity is not discontinued; it is important to educate the patient on the risk of permanent damage if rest period is not adhered to(3,9)",
+        "The following conditions can also be present with medial epicondyle apophysitis: Stretching of the ulnar nerve Ulnar collateral ligament sprains(10)",
+        "Common elbow injuries in pitchers or the \u201cthrowing elbow\u201d include:(11) ulnar collateral ligament tears ulnar neuritis flexor-pronator  muscle strain or tendinopathy  medial epicondyle apophysitis or avulsion valgus extension overload syndrome with olecranon osteophytes olecranon stress fractures osteochondritis dissecans of the capitellum loose bodies",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "If the patient is presenting through direct access and the condition has not been formally diagnosed by a physician, a referral to a general practitioner or orthopedist is indicated if medial epicondyle apophysitis or other serious pathology is suspected"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Clinician should inquire about -symptom onset -patient\u2019s age -hand dominance(5) -sport and position played(5) -intensity of play -number of pitches thrown and type and delivery of pitch (vertical, three quarters, or sidearm)(5) -frequency of pitching(5) -amount of time unable to play sport due to injury",
+                "course of treatment": {
+                    "medical management": "Ask about patient\u2019s past and current medical management. How has the elbow responded to treatments?",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Diagnostic tests may assist with differential diagnosis",
+                        "X-ray  may show signs of repetitive stress, injury, or fracture as well as widening of the apophysis and/or fragmentation of epicondyle ossification center",
+                        "MRI is useful to determine amount of displacement of a fracture, presence of osteochondritis dissecans or loose bodies within the joint(2)",
+                        "Nerve conduction tests may be ordered to rule out nerve involvement(5)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased) -Inquire about pain at rest and with activity. Pitching may exacerbate symptoms",
+                "body chart": "Use body chart to document location and nature of symptoms. Concurrent Little League elbow and Little League shoulder, also caused by overhead throwing, have been reported(4)",
+                "nature of symptoms": " Nature of symptoms -Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling) -Ask the patient if the joint ever locks (true locking indicates a loose body in joint from a prior injury, osteochondritis dissecans, or severe degenerative changes) -Are there any complaints of numbness or paresthesias?(5)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much) ",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if any",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Family history of osteochondrosis? Any history of elbow joint injuries, such as a ligament sprain? Any history of an upper extremity nerve injury? Any history of other sports-related  injuries that could suggest biomechanics or training errors?",
+                    "comorbid diagnoses": "Ask patient/caregiver about other medical conditions, including diabetes, cancer, cardiac impairments, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -Has the patient\u2019s position been changed? -Is the patient still participating in the sport on some level?(2) -What is the patient\u2019s current training regimen or warm-up  routine in his or her sport?",
+                "functional limitations assistance with ADLs adaptive equipment": "Assess current ability to participate in sport or other activities. Patients, parents, and coaches may note a reduction in the velocity of pitches or control over pitches(9)",
+                "living environment": "With whom patient lives, caregivers, etc."
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess distal pulses and comparePerform gross neurological screen, paying special attention to the ulnar nerve assessment as irritation of the nerve can be associated with medial epicondyle apophysitis(11) Ergonomics/body mechanics \u2013During pitching, assess balance, body and shoulder rotation, stride length, and follow-through  for a minimum of 5 to 8 pitches at a distance of 33 ft. (10 m) from the side and front views(1)windup, cocking, acceleration, and follow-through -Pitchers tend to rush the windup stage and therefore lose the benefit of using their lower extremities in the kinetic chain. Some authors have argued that the windup stage may be the most important period of the pitching motion because it influences the later stages of the pitching motion(1) -The pitching motion places excessive valgus stress on the medial elbow during the cocking and acceleration stages(1) -The cocking stage begins when the stride foot hits the ground and ends when the shoulder has reached full external rotation(1) -Proposed by authors to be the most studied stage of pitching, the acceleration stage begins when the shoulder has reached full external rotation and ends when the ball leaves the hand(1) -Critical features of proper pitching(1) -Outer portion of the leading hip should point toward the target to assist in proper pelvic/trunk translation and weight transfer -Hand on top of the ball as the ball is taken out of the baseball mitt to promote shoulder internal rotation and forearm pronation  -Elbow at the level or slightly higher than the shoulder during the throwing position to diminish shoulder stress -The leading foot should be pointed towards the target when landing on the ground to promote proper hip/trunk rotation -Avoiding excessive horizontal abduction of the leading shoulder by keeping both shoulders in alignment prior to the acceleration stageAssess medial ligamentous stability by providing valgus stress to the elbow",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": " Muscle strength \u2013Assess upper extremity strength and compare to unaffected extremity -Lateral epicondylitis \u2013 pain upon resisted wrist extension and forearm supination(12) -Medial epicondylitis \u2013 pain upon resisted wrist flexion and forearm pronation(12) \u2013Be sure to also assess shoulder and scapular musculature",
+            "observation inspection palpation including skin assessment": [
+                "Inspect upper extremities and cervical spine; note any areas of atrophy, hypertrophy, or edema",
+                "Inspect the elbow for edema or deformity",
+                "Evaluate tenderness as pain may be present upon palpation of bony prominences around the elbow, especially the medial epicondyle"
+            ],
+            "posture": " Posture \u2013Inspect head, neck, shoulder girdle, and spine for general alignment. Also inspect posture of the spine in sitting and standing positions",
+            "range of motion": " Range of motion \u2013Assess general ROM throughout, with a specific assessment of elbow flexion, extension, forearm pronation, and supination; compare to noninjured side \u2013Take note that the pitching arm usually has higher external rotation ROM and diminished internal rotation ROM when compared to the non-pitching  arm \u2013If appropriate, assess lower extremity ROM as it pertains to the pitching mechanics",
+            "self-care activities of daily living": "",
+            "reflex testing": "Should be normal",
+            "sensory testing": "The assessment should yield normal results. However, if the ulnar nerve is irritated, the sensory distribution of the ulnar nerve may be affected",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Clinical diagnosis is usually based on complaints of medial elbow pain in a baseball pitcher (in the appropriate age group)(5)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Cold intolerance",
+                "Raynaud\u2019s syndrome",
+                "Medical instability",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Over a regenerating peripheral nerve",
+                "Over a circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Paroxysmal cold hemoglobinuria",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "Individuals with poor cognition",
+                "In the very young or very old",
+                "Persons with aversion to cold "
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Cryotherapy  contraindications(13)",
+                "Cryotherapy  precautions(13)"
+            ]
+        },
+        "diagnosis need for treatment": "Pain, edema, loss of ROM, loss of strength, and impaired ability or inability to participate in sport",
+        "rule out": " Rule out Fracture Osteoarthritis Rheumatoid arthritis Loose cartilaginous bodies Synovitis Lateral elbow pain(5) \u2013Panner\u2019s disease (avascular necrosis of the capitellum) \u2013Osteochondritis dissecans (see Clinical Review\u2026Osteochondritis Dissecans ; Topic ID Number: T708414) Medial elbow pain(5) \u2013Flexor/pronator strain \u2013Medial collateral ligament/ Ulnar collateral ligament (UCL) injury \u2013Medial epicondyle avulsion \u2013Ulnar neuritis Posterior elbow pain(5) \u2013Olecranon apophysitis \u2013Olecranon impingement \u2013Olecranon osteonecrosis \u2013Triceps avulsion",
+        "prognosis": [
+            "If the injury is recognized and treated in the early stages, there are usually no long-term  consequences",
+            "After 12 weeks of rehabilitation and a throwing program, a patient typically returns to competitive pitching/throwing(5)",
+            "In most cases, a full return to prior level is obtainable with proper supervision and coaching(4)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Orthopedist \u2013 indicated by the presence of(5) \u2013Loose bodies \u2013Avulsion fractures \u2013Osteochondritis dissecans \u2013Lack of response to conservative intervention",
+        "other considerations": [],
+        "treatment summary": [
+            "In general, care is conservative and begins with rest and activity modification for approximately 2\u20133 months. Pitchers may be able to continue playing by moving to a different position (such as first base or designated hitter)(2)",
+            "Nonsteroidal anti-inflammatory  drugs (NSAIDs) are generally prescribed; immobilization may be implemented if symptoms are intense(2)",
+            "Encourage patients to maintain cardiovascular fitness if unable to play; also encourage stretching and core strengthening . Problem Goal Intervention Expected Progression Home Program  Pain and edema Eliminate pain and edemaActivity modification _ 4\u20136 weeks of rest (sporting activity ceases or is greatly reduced).(2) For those still pitching, limiting or avoiding breaking balls may be necessary(7) _ _ Physical agents and mechanical modalities _ Ice to decrease pain, inflammation, and edema _ _ Prescription, application of devices and equipment _ Elbow sleeve may be worn for support if needed. Immobilization is used only in severe cases(2)N/A Provide recommendations for home that address pain and edema Decreased ROM Restore normal ROM Therapeutic exercises _ ROM and general upper extremity stretching as indicated. In addition to stretching the forearm and elbow musculature, stretch the posterior shoulder through static glenohumeral internal rotation stretching (e.g., sleeper stretch)(1)Progress each unique patient as indicated and appropriateProvide recommendations for home that address ROM/appropriate stretching  Decreased strength Restore normal strength Therapeutic exercises _ Progressive strengthening of the forearm musculature as well as shoulder and scapular musculature may begin upon resolution of symptoms (approximately 6\u20138 weeks post injury).(2) Also strengthen the core and trunkProgress each unique patient as indicated and appropriateProvide recommendations for home that address strengthening Inability to participate in pitching/throwing/ sporting activities due to pain or faulty mechanicsFacilitate return to normalized and pain- free pitching/throwing mechanicsWindup stage _ Gradual progression of a throwing program can begin after resolution of symptoms.(5) Instruct pitchers to not rush the windup stage or the benefit of using lower extremities in the kinetic chain will be lost _ _ Acceleration stage _ During the acceleration phase, the body may move ahead of the arm (\u201copening up too soon\u201d); instruct pitchers to keep the opposite shoulder tucked under the chin so that the arm motion can accelerate prior to trunk rotation _ _ Follow-through stage _ In the follow-through phase, sufficient pelvic rotation will occur by ensuring the stride foot is not placed short of the midline so that the body does not lose momentum. Also see Ergonomics/body mechanics , aboveFull return to sport expected around 12 weeks(5)Provide recommendations to coaches and parents for home management and training concepts that address returning to sport  ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "elimination of pain and edema": [
+            "V AS"
+        ],
+        "restored rom": [
+            "Goniometry",
+            "Flexibility assessment tests"
+        ],
+        "normalized strength": [
+            "Manual muscle test",
+            "Isokinetic testing",
+            "Hand-held  dynamometry"
+        ],
+        "full return to sport": [
+            "Pitching mechanics assessment"
+        ]
+    },
+    "maintenance or prevention": [
+        "Icing and stretching after play/practice",
+        "Evaluate throwing mechanics and alter as needed",
+        "Enforce proper technique and type of pitching (no curveballs or sliders) in skeletally immature athletes",
+        "Preseason conditioning with gradual increase in amount of throwing",
+        "Warming up with calisthenics and stretching prior to pitching",
+        "The American Academy of Pediatrics recommends limiting the number of pitches to 200 per week with 90 pitches per session. The USA Baseball Medical and Safety Advisory Committee recommends a more conservative approach: 75\u2013125 pitches per week with 50\u201375  pitches per session. Be sure the athlete includes pitches thrown at home or during physical education class(10)",
+        "Adequate rest is needed after injury",
+        "Educate players, coaches, and parents on injury prevention,(5) including safe amounts of pitching, adequate rest, and throwing-free  periods.(4) A variety of sports rather than increased duration and intensity of a single sport may be an option"
+    ],
+    "patient education": [
+        "See \u201cLittle League Elbow Syndrome\u201d from Medscape Reference at http://emedicine.medscape.com/article/97101-overview#showall",
+        "See \u201cLittle League Elbow\u201d from Healthy Children of the American Academy of Pediatrics at https://www.healthychildren.org/English/health-issues/injuries-emergencies/sports-injuries/Pages/Little-League-Elbow.aspx",
+        "See \u201cThrowing Injuries in the Elbow in Children\u201d from the American Academy of Orthopaedic Surgeons at http:// orthoinfo.aaos.org/topic.cfm?topic=A00328 Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on October 14, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Marsh D. Little league elbow: risk factors and prevention strategies. Strength Cond J . 2010;32(6):22-37.  (GI) "
+        },
+        {
+            "number in article": 2,
+            "reference": "Klingele KE, Kocher MS. Little league elbow: valgus overload injury in the paediatric athlete. Sports Med (Auckland, N.Z.) . 2002;32(15):1005-1015.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Lyman S, Fleisig GS, Andrews JR, Osinski ED. Effect of pitch type, pitch count, and pitching mechanics on risk of elbow and shoulder pain in youth baseball pitchers. Am J Sports Med . 2002;30(4):463-468.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Domes CM, Petering RC, Chesnutt JC, Mirarchi A. Concurrent little leaguer's elbow and shoulder in a 15-year-old  baseball pitcher and football quarterback. Orthopedics . 2012;35(1):68. (C)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Cassas KJ, Cassettari-Wayhs  A. Childhood and adolescent sports-related  overuse injuries. Am Fam Physician . 2006;73(6):1014-1022.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Tachdjian MO. The art of diagnosis and principles of management. Clinical Pediatric Orthopedics . Stamford, CT: Appleton and Lange; 1997. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Kramer DE. Elbow pain and injury in young athletes. J Pediatr Orthop . 2010;30(2 Suppl):S7-S12.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Kocher MS, Waters PM, Micheli LJ. Upper extremity injuries in the paediatric athlete. Sports Med (Auckland, N.Z.) . 2000;30(2):117-135.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Blohm D, Kaalund S, Jakobsen BW. \"Little league elbow\"--acute  traction apophysitis in an adolescent badminton player. Scand J Med Sci Sports . 1999;9(4):245-247.  (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Risser WL, Anderson JA, Bolduc SP. Risk of injury from baseball and softball in children 5 to 14 years of age. American Academy of Pediatrics Committee on Sports Medicine. Pediatrics . 1994;93(4):690-692.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Cain EL, Dugas JR, Wolf RS, Andrews JR. Elbow injuries in throwing athletes: a current concepts review. Am J Sports Med . 2003;31(4):621-635.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Luke A, Ma CB. Sports medicine & outpatient orthopedics. In: Papadakis MA, McPhee SJ, Rabow MW, eds. Current Medical Diagnosis & Treatment . 55th ed. New York, NY: McGraw-Hill  Education; 2016:1664-1678.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI) "
+        }
+    ]
+}

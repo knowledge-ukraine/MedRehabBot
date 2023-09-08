@@ -1,0 +1,421 @@
+{
+    "metadata": {
+        "title": "Carpal Tunnel Syndrome  Conservative Management \u2022Authors of a meta-analysis  found no evidence to support effectiveness of magnetic therapy for management of CTS(43) \u2022There is mixed evidence that acupuncture and electroacupuncture are effective for reducing pain due to CTS(15,27) \u2013Investigators who conducted a systematic review and meta-analysis  foundlow-quality  evidence that acupuncture may have little or no short-term  effect compared to sham acupuncture or placebo. There was no evidence that acupuncture caused harm(27) \u2013Authors of an RCT found electroacupuncture combined with night splinting to be more effective than night splinting alone for reducing pain and improving function in patients with chronic CTS(15) \u2022Massage therapy, heat wrap therapy, cupping therapy, and yoga might be effective in the treatment of CTS, but additional research is needed to determine efficacy(5,8) \u2013Targeted massage might assist in improving grip strength in individuals with CTS(20) -Based on a small RCT involving 27 subjects -Subjects were randomized to CTS-targeted  massage or general massage -The intervention took place 2x/week for 6 weeks -Outcome measures included the BCTQ, Grooved Pegboard test, hand grip and key pinch dynamometers    -There were improvements in BCTQ in both treatment groups but no significant difference between groups -There was a significant improvement in grip strength detected in the targeted massage group (when measured against the general massage group) \u2022Overview of recommendations from the American Academy of Orthopaedic Surgeons (AAOS) practice guideline on the treatment of CTS(13) \u2013It is generally recommended that conservative treatment be attempted initially; however, the patient has the right to decline conservative treatment and undergo surgery -Splinting or steroid injections should be implemented prior to undergoing surgery -Conservative treatment might also include therapeutic ultrasound or oral steroids -Heat therapy is not recommended \u2013If the patient does not respond to a treatment within 2 to 7 weeks, another intervention should be implemented \u2013Carpal tunnel release might be used to effectively treat CTS -Immobilization after surgery is not generally recommended",
+        "synonyms": [
+            "median nerve compression, carpal tunnel",
+            "entrapment neuropathy, carpal tunnel",
+            "compression neuropathy, carpal tunnel",
+            "median neuropathy",
+            "cts"
+        ],
+        "anatomical location body part affected": [
+            "The median nerve, the carpal tunnel, the transverse carpal ligament of the flexor retinaculum, the thenar musculature of the hand, and the extrinsic flexor tendons of the digits (within the carpal canal)"
+        ],
+        "area of specialty": [
+            "hand therapy",
+            "orthopedic rehabilitation",
+            "women\u2019s health"
+        ],
+        "description": [
+            "Carpal tunnel syndrome (CTS) is compression of the median nerve in the wrist, resulting in pain and/or paresthesias in thumb, forefinger, and middle finger.(6)Conservative treatment options include rehabilitation (occupational or physical therapy), bracing, steroid injections, and alternative medicine _ _ Patient education for pain management (ice pack), independent exercise program, proper posture, splint use, and activity modification At risk for recurrence; poor positioning of hand/wristDecrease risk of recurrence; improve posturePatient education _ Instruct patient to monitor for signs and symptoms of recurrence and promote activity modification to prevent reinjury. Avoid sustained wrist flexion, ulnar deviation, and repetitive wrist flexion and extension combined with pinching and grippingN/A Patient education for prevention of reinjury, activity modification . Desired Outcomes/Outcome Measures"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G56.0": "Carpal tunnel syndrome",
+            "G56.01": "Carpal tunnel syndrome, left upper limb",
+            "G56.02": "Carpal tunnel syndrome, right upper limb",
+            "G56.03": "Carpal tunnel syndrome, bilateral upper limbs (ICD codes are provided for the reader\u2019s reference only, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement will depend on the provider. If work-related,  the patient might be eligible for workers\u2019 compensation. In many states, workers\u2019 compensation systems have adopted guidelines to prevent workers from receiving treatments that appear unnecessary or might delay return to work. To be considered for insurance coverage of carpal tunnel surgery, patients might be required to submit documentation of conservative treatment for CTS"
+        ],
+        "presentation signs and symptoms": [
+            "Paresthesias in the median nerve distribution of the hand (volar surface of the thumb; volar surface of digits two, three, and the radial half of the fourth; the radial half of the palm; the distal halves of digits two and three and the radial half of the fourth digit dorsally) (4,33)",
+            "Pain, burning, aching, and swelling (patient perceived) might also be present(26)",
+            "Symptoms often are increased at night (\u201cwaking numbness\u201d) and might be exacerbated by wrist flexion positions(4,6,33)",
+            "Patients often complain of \u201ctiredness\u201d in their hand or forearm or fatigue while performing manual tasks(17)",
+            "In more severe cases, motor deficits, muscle weakness, and muscle atrophy occur in the thenar musculature, which is innervated by the median nerve(33)",
+            "Bilateral involvement is seen in up to 65% of cases",
+            "A progressive loss of hand dexterity and function may be seen(34)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "CTS often occurs insidiously, and its exact cause is often unknown, despite the identification of many risk factors. Anycondition that results in a reduction of space in the carpal tunnel (e.g., swelling secondary to pregnancy, ganglion cyst, andtenosynovitis) can result in CTS(33)",
+            "The role of repetitive hand or wrist use (e.g., in the workplace) remains controversial(33)"
+        ],
+        "pathogenesis": [
+            "CTS is a compression neuropathy in which there is an increase in pressure or a decrease in the space of the carpal tunnel,resulting in irritation and compression of the median nerve within the tunnel(34)",
+            "The exact pathophysiology of how the pressure in the carpal tunnel increases over time is not clear; most cases areidiopathic(33)"
+        ],
+        "risk factors": [
+            "Trauma to the area increases risk. Pregnancy, hypothyroidism, rheumatoid arthritis, diabetes mellitus, chronic renal failureare also risk factors.(33)",
+            "Female sex (menopausal, taking birth control or estrogen), obesity, smoking, rheumatoid arthritis, diabetes, lupus,hypothyroidism, multiple sclerosis, and increased age are risk factors for CTS(9)",
+            "Occupational risk factors for CTS(33)",
+            "The role of repetitive activities and work factors is controversial(59)CTS can exist in individuals with existing cervicalnerve root pathology (double crush syndrome), creating a clinical scenario requiring that both pathologies be addressed tooptimize outcome(16)",
+            "Individuals who rely on a manual wheelchair as their primary means of mobility (e.g., those with spinal cord injury) are atincreased risk for developing CTS(31)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients with CTS should avoid exacerbating activities and allow the affected hand to rest. Exacerbating activities might include sports, hobbies, playing musical instruments, and certain work activities. Patients should avoid repetitive use of the hand as well as wrist flexion posturing of the hand",
+        "Use caution during evaluation, especially with upper limb tension tests, to avoid exacerbating patient\u2019s symptoms",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Patients typically report a gradual onset of symptoms that have worsened over time. Has a diagnosis of CTS been made? When and by whom? -Inquire about onset of symptoms in pregnancy. Symptoms presenting in the first 2 trimesters are characteristically more acute and rapidly progressing, and conservative treatment often fails. When onset is in the third trimester, it is usually slower and responds well to conservative treatment(25)",
+                "course of treatment": {
+                    "medical management": "Customary practice includes activity modification, splinting, local corticosteroid injections, and surgery.(34) Carpal tunnel release surgery involves cutting the transverse carpal ligament to release the pressure on the median nerve. It is commonly performed via an open or endoscopic approach. Ultrasoundguided percutaneous release is being explored(40)",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury NSAIDs Although there is no evidence for effectiveness of NSAIDs for CTS they may be used. (33) Steroid injections Steroid injections are most beneficial for mild CTS and typically provide temporary relief(2)  The goal of steroid injection is to decrease the pressure in the carpal canal by decreasing tenosynovitis within the tunnel (41) Patients who receive two or three injections are more likely to ultimately undergo surgical release compared to those who receive a single injection, based on the findings of a study assessing U.S. utilization of steroid injections (42) Phonophoresis and iontophoresis with steroid (e.g., dexamethasone sodium phosphate) are alternative methods of introducing steroids locally that are noninvasive.There is moderate evidence to support phonophoresis over iontophoresis in shortterm  follow-up(1) Low-dose  oral corticosteroids might also be used(41) Gabapentin might be used to treat the symptoms of CTS, but there is moderate evidence that suggest it does not improve patient outcomes(41)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Electrodiagnostic testing, including nerve conduction studies (NCS) and EMG testing, is most commonly used to support a clinical diagnosis of CTS (6,33)",
+                        "Based on data obtained from a study comparing the results of NCS with the results of prospective pre-NCS,",
+                        "selfadministered  questionnaires of patients with clinical diagnoses of CTS",
+                        "NCS may be useful for verification of clinical diagnoses and to rule out other pathologies(29)",
+                        "Confirmation by NCS should be considered prior to invasive procedures",
+                        "The results indicate that NCS might provide valuable information but should not be viewed as a diagnostic criterion standard, especially when the clinician\u2019s confidence in the clinical diagnosis is high",
+                        "EMG might show active denervation muscle potentials(33)",
+                        "Diagnostic ultrasound might be used to assist in the diagnosis of CTS. It is low cost and can be used to assess the carpal canal and contents (e.g., flexor tendons, presence of tumor, tenosynovitis, thickening of the retinaculum) and the median nerve. Some studies show that it has similar sensitivity and specificity compared to EMG, but other studies have not supported this (18,44)",
+                        "Ultrasound imaging can be used for the evaluation of CTS. It can show carpal tunnel structural changes and nerve swelling as well as median nerve echogenicity, mobility, and characteristics (e.g., thickening) of the flexor retinaculum. Given its availability, cost, and noninvasive nature, ultrasound may be advantageous in the management of CTS (7)",
+                        "Based on a United States study, diagnostic ultrasound, NCS, and Carpal Tunnel Syndrome 6 (CTS-6)  have similar sensitivity and specificity for diagnosing CTS(36)",
+                        "Sensitivity  ultrasound, 91%; CTS-6,  95%; NCS, 91%",
+                        "Specificity  ultrasound, 94%; CTS-6,  91%; NCS, 83%",
+                        "X-ray  might identify or rule out coexisting pathologies"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Early on, sleeping might be the only identified aggravating factor. Aggravating activities might include those that are repetitious in nature and those in which the hand is in significant flexion or extension. Shaking the involved extremity might reduce symptoms temporarily(34)",
+                "body chart": "Use body chart to document location and nature of symptoms. Paresthesias in the median nerve distribution of the hand(8) (volar surface of the thumb; volar surface of digits two, three, and the radial half of the fourth; the radial half of the palm; the distal halves of digits two and three; and the radial half of the fourth digit dorsally) are typical. The self-administered  Katz hand diagram might be used to mark symptoms including pain, numbness, tingling, and decreased sensation. The patient\u2019s diagram can be compared to a classification system for symptoms for diagnosis or documentation of change",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Patients will commonly report clumsiness of the hand and paresthesias. Pain, burning, aching, swelling (patient perceived), and cramping might also be present. Clumsiness, loss of dexterity, frequent dropping of  items, functional impairment, and decreased strength in the thumb also are common.(6,34) Some patients might progress from intermittent to persistent sensory symptoms, then later develop motor symptoms(33)",
+                "rating of symptoms": " Rating of symptoms -An adapted version of the Carpal Tunnel Syndrome Symptom Severity Scale (CTS SSS) was found to be reliable and valid in a study of 213 individuals with CTS. The new scale was labeled the 6-item  CTS symptoms scale(CTS-6)(3) -Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Take note of pain with hand passively positioned in wrist flexion. Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also, document changes in symptoms due to weather or other external variables -Clinical course might have remissions and exacerbations(33)",
+                "sleep disturbance": "Symptoms often are increased at night (\u201cwaking numbness\u201d) and might be exacerbated by wrist flexion positions(33)",
+                "other symptoms": " -Individuals with CTS frequently also have trigger finger; however, the patient\u2019s CTS signs/symptoms might overshadow the signs/symptoms of trigger finger, and the diagnosis can be missed -The presence or absence of trauma, deformity including swelling, or fever should be noted -Symptoms inconsistent with CTS (including any new fever, new point tenderness, or new deformity) in patients with suspected CTS should be considered red flags to be evaluated for other diagnoses Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any prior hand or forearm problems Any history of distal radius fracture? CTS can occur following distal radius fracture, acutely, transiently, or delayed. Acute CTS should be addressed urgently to minimize risk of nerve damage. Transient symptoms are not considered emergent but should be monitored. Delayed symptoms can develop months or even years after fracture and evaluation should include assessment to determine the presence of anatomic changes, residual fracture malunion,or hardware problems(21)",
+                    "comorbid diagnoses": "Does the patient have any medical conditions that might predispose him or her to CTS (pregnancy, hypothyroidism, chronic edema, or other musculoskeletal conditions)? Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, and kidney disease. With pregnant patients presenting with CTS, inquire about gestational age, weight gain, nulliparity, excessive edema, previous pregnancyrelated  CTS, and any current complications of pregnancy such as preeclampsia and/or gestational hypertension(25)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she might be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -In what types of occupational tasks, leisure activities, and hobbies does the patient participate? Are there any repetitive behaviors? What functional deficits is the patient experiencing because of this condition? -Obtain a detailed occupational history as indicated, including functional job duties, duration of occupation, whether symptoms improve or worsen at work, and specific job duties that are associated with symptoms. -Is patient currently working, or on temporary work-associated  disability? If indicated, inquire about any other barriers to returning to work",
+                "functional limitations assistance with ADLs adaptive equipment": "Document limitations in function. Document whether dominant or nondominant hand (or both) is affected",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary? "
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting) \u2022The least aggressive tests and measures should be performed first \u2013Anthropomorphic characteristics:  Measure height and weight and calculate BMI -Obesity is a risk factor for CTS(8) -There is a strong correlation of increased volume load (generalized edema) and development of CTS during pregnancy; however, there is little evidence of a direct correlation between weight gain during pregnancy and CTS(25)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Examine any splints patient might be using. Assess for fit and appropriateness -Many prefabricated splints are made in 20\u201330\u00b0  wrist extension, which might increase pressure within the carpal tunnel. Repositioning the splint in neutral might be required to maximize carpal tunnel volume, thereby decreasing pressure on the nerve(9)",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Distal pulses should be normal -For information about ergonomics, see  Clinical Review ... Ergonomics Assessment and Intervention  ; CINAHL TopicT708456Assess for carpal stability; screen the distal radial-ulnar  joint for pathology. Screen cervical spine for possible pathology that might cause referred pain to the upper extremity(33)Assess UE coordination and hand dexterityNine Hole Peg Test (9HPT), Purdue Pegboard Test, Moberg Pick-Up  Test, Jebsen-Taylor Hand Function Test, and other standardized tests can be used to evaluate dexterity of the affected hand -In a study conducted in Brazil, patients with CTS were observed to apply unnecessarily elevated grip force during a task that involved lifting and holding an object(17) -Eight patients with CTS were compared with eight healthy control subjects in the performance of the task -Decreased sensory information from the fingertips might have caused the patients with CTS to feel that they had to hold the object more tightly -This difficulty regulating grip force interferes with dexterity and can contribute to muscle fatigue",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "Complete a general strength assessment. Assess grip strength using a Jamar dynamometer. Assess pinch strength using a pinch gauge (lateral and two-point  pinch). Have the patient attempt three trials for each and record the average. Compare to the contralateral side. The abductor pollicis brevis muscle should be assessed using manual muscle testing techniques. A muscle imbalance between the wrist extensors and flexors also is common(14)",
+            "observation inspection palpation including skin assessment": [
+                "Observation/inspection/palpation (including skin assessment):  Usually there is no apparent edema unless onset is related to trauma. Assess tenderness (V AS) at the carpal tunnel (volar wrist). Palpate and inspect thenar musculature for atrophy,(33) contracture, or edema compared to uninvolved side. Identify any visible arthritic hand deformities or other pathologies that might exist"
+            ],
+            "posture": "Perform a general postural screen to assess for neck and upper extremity abnormality(14)",
+            "range of motion": "General screen of upper extremity and cervical spine. Measure active and passive ROM (AROM and PROM) of the forearm, wrist, and fingers, including the thumb(14,33)Identify ADLs, occupational activities, or other activities that might be impaired because of weakness of the thumb or loss of dexterity of the hand(6)",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Conduct a thorough evaluation of the sensation of the hand. Use Semmes-Weinstein  or Weinstein-Enhanced  Sensibility Test (WEST) monofilament testing to assess light touch/deep pressure sensibility of the hand, including the median, ulnar, and radial distributions. Two-point  discrimination testing should also be completed(4,35) -There is a distinctive pattern of sensory changes in CTS -The thenar eminence is spared because the palmar sensory cutaneous branch of the median nerve arises proximal to the wrist and passes over, not through, the tunnel(33)",
+            "special tests specific to diagnosis": " \u2013Special tests specific to diagnosis -Phalen\u2019s test \u2013 a provocative test in which the patient places both hands in full wrist flexion to increase pressure of the carpal tunnel  -Tinel sign\u2013  clinician lightly taps over the median nerve at the wrist; a positive result is tingling/paresthesias from the wrist distally(33) -Phalen sign \u2013 symptoms reproduced within 1 minute of gentle, unforced wrist flexion(59,67) -Durkan test (aka carpal compression) \u2013 symptoms reproduced within 30 seconds of direct compression over the carpal tunnel(33,39)The patient is placed in a supine position, and the examiner positions theslight glenohumeral abduction, shoulder girdle depression, elbow extension, external rotation of the arm, wrist/thumb/digit extension, and glenohumeral abduction. Increased symptoms, alteration of symptoms with distal body part movement, or lack of tolerance of mobilization as compared to the contralateral side might indicate median nerve pathology(28) -The following questionnaires/surveys measuring symptoms and/or physical function are reliable and valid(13) -Boston Carpal Tunnel Questionnaire (BCTQ) -Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Decreased circulation",
+                "Decreased sensation",
+                "Acute/subacute traumatic and inflammatory conditions",
+                "Skin infections",
+                "Impaired cognition or language barrier",
+                "Malignant tumors",
+                "Tendency for hemorrhage or edema",
+                "Heat rubs",
+                "In an area with infection or bleeding",
+                "If a benign or malignant tumor is present in the area",
+                "In the area of a deep vein thrombosis (DVT) or thrombophlebitis",
+                "Over epiphyseal plates",
+                "Sensory deficits",
+                "Individuals who cannot communicate effectively (e.g., impaired cognition, language barrier)",
+                "Circulatory impairments",
+                "Plastic or metal implants",
+                "Note: Always decrease ultrasound intensity if the patient complains of discomfort",
+                "Do not use over malignant lesions or over hemorrhaging lesions",
+                "Goggles with an appropriate optical density rating should be worn",
+                "LLLT use is not advised in patients with epilepsy, fever, malignancy, reduced sensation, or infection",
+                "Do not use LLT over the epiphyseal plates in children"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regards to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Thermotherapy  contraindications(19)",
+                "Therapeutic ultrasound  contraindications(19)",
+                "Therapeutic ultrasound  precautions(19)",
+                "Low-level  laser therapy (LLLT)  contraindications(19)",
+                "LLLT  precautions(19)"
+            ]
+        },
+        "diagnosis need for treatment": "Progressive pain and paresthesias in the hand, impaired muscle strength, and decreased hand function and dexterity associated with median nerve compression Results of a single blind, randomized, controlled study conducted in Spain indicate that women treated nonoperatively have better short-term  outcomes and similar longer-term  outcomes as women having CTR(24) ",
+        "rule out": " Rule out  (34) Basilar joint arthritis of the thumb Cervical radiculopathy Hand/arm vibration syndrome Proximal median nerve compression (i.e., at elbow) Rheumatoid arthritis/osteoarthritis of the wrist/digits Tendonitis of the flexor carpi radialis de Quervain tenosynovitis Ulnar neuropathy at the elbow Generalized neuropathy Gout Raynaud\u2019s phenomenon Brachial plexopathy Thoracic outlet syndrome",
+        "prognosis": [
+            "Patients with mild to moderate CTS who are treated conservatively may respond positively to nonoperative treatment. Patients severe CTS (e.g., thenar atrophy, nerve damage identified by electrodiagnostic evaluation) are more likely to require surgical intervention. CTS caused by pregnancy often resolves spontaneously after childbirth(16)",
+            "Symptoms will worsen in a significant number of patients treated conservatively, progressing to a need for surgery.(27) Patients presenting with higher symptom severity scores and those not responding to conservative treatment are more likely to require surgery following conservative management(9)",
+            "Long-term  results of surgical treatment generally are good(33)"
+        ],
+        "referral to other disciplines": "Refer back to physician for possible surgical intervention if there is no improvement with conservative measures; to occupational therapist for splinting, ADL issues, ergonomic assessment, and devices as indicated A surgical referral is indicated when conservative therapy is unsuccessful in managing symptoms or thenar atrophy develops",
+        "other considerations": [
+            "Surgery is more effective than splinting in the treatment of CTS(30) \u2013Based on a Cochrane systematic review \u2013The review included 4 RCTs encompassing 317 subjects -Two of the trials compared surgery to splinting -Two of the trials compared surgery to steroid injection \u2013Definitive conclusions could not be drawn in regard to surgery vs. steroid injections \u2013The authors of the review caution that more research is warranted (due to the high incidence of surgical complications) to distinguish patients for whom a positive surgical outcome is probable from those with a poor probability of a favorable"
+        ],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {
+        "decreased or eliminated global cts symptoms": [
+            "BCTQ(13)",
+            "Michigan Hand Outcomes Questionnaire (MHQ)(13)",
+            "The 6-item  CTS symptoms scale(3)"
+        ],
+        "eliminated decreased pain and paresthesias": [
+            "V AS"
+        ],
+        "increased strength of thumb and other muscles found to be weak": [
+            "Grip and pinch strength measurements"
+        ],
+        "restoration of prior functional capacity in daily activities and restoration of work capacity without symptom exacerbation": [
+            "DASH Outcome Measure(13)",
+            "Standardized functional and dexterity test scores"
+        ],
+        "decreased risk of recurrence": [],
+        "increased quality of life": [
+            "SF-12  or SF-36  Short-Form  Health Survey(13)"
+        ],
+        "overall patient satisfaction": [
+            "MHQ(13)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Individuals with CTS should maintain a home exercise program, night or occupational splinting as needed, and activity modification to maintain resolution of symptoms and prevent recurrence. Exacerbating activities should be avoided, and the affected hand should receive adequate rest"
+    ],
+    "patient education": [
+        "Patient.info, \u201cCarpal Tunnel Syndrome,\u201d https://patient.info/health/carpal-tunnel-syndrome-leaflet",
+        "National Institute of Neurological Disorders and Stroke, \u201cCarpal Tunnel Syndrome Fact Sheet,\u201d https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Carpal-Tunnel-Syndrome-Fact-Sheet",
+        "The OT Practice, \u201cCarpal Tunnel Syndrome,\u201d https://www.theotpractice.co.uk/how-we-help/conditions/carpal-tunnel-syndrome Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Huisstede BM, Hoogvliet P, Franke TP, Ransdorp MS, Koes BW. Carpal tunnel syndrome: effectiveness of physical therapy and electrophysical modalities: an updated systematic review of randomized controlled trials. Arch Phys Med Rehabil . 2018;99(8):1623-1634.e23.  doi:10.1016/j.apmr.2017.08.482. (SR)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Klokkari D, Mamais I. Effectiveness of surgical versus conservative treatment for carpal tunnel syndrome: A systematic review, meta-analysis  and qualitative analysis. Hong Kong Physiother J . 2018;38(2):91-114.  doi:10.1142/S1013702518500087. (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Atroshi I, Lyr\u00e9n PE, Gummesson C. The 6-item CTS symptoms scale: a brief outcomes measure for carpal tunnel syndrome. Qual Life Res . 2009;18(3):347-358.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Bednar MS, Light TR, Bindra R. Hand surgery. In: Skinner HB, McMahon PJ, eds. Current Diagnosis & Treatment in Orthopedics . 5th ed. New York, NY: Lange Medical Books/McGraw-Hill  Medical; 2014:481-483.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Farhat A, Mughal SM. Is there a role of cupping therapy in the treatment of carpal tunnel syndrome in primary care setting? Cureus. January 28, 2021;13(1):e12954. doi:10.7759/cureus.12954. (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Craig A. Neuropathies. In: Braddom\u2019s Physical Medicine & Rehabilitation . Philadelphia, PA: Elsevier; 2021:842-874.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Georgiev GP, Karabinov V, Kotov G, Iliev A. Medical ultrasound in the evaluation of the carpal tunnel: a critical review. Cureus. October 23, 2018;10(10):e3487. doi:10.7759/ cureus.3487. (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Wipperman J, Goerl K. Carpal tunnel syndrome: Diagnosis and management. American Family Physician . 2016;94(12):993-999.   (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Calandruccio J, Thompson N. Carpal tunnel syndrome: making evidence-based  treatment decisions. Orthop Clin North Am . 2018;49(2):223-229.  doi:10.1016/j.ocl.2017.11.009. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Horng YS, Hsieh SF, Tu YK, Lin MC, Horng YS, Wang JD. The comparative effectiveness of tendon and nerve gliding exercises in patients with carpal tunnel syndrome: a randomized trial. Am J Phys Med Rehabil . 2011;90(6):435-442.  (RCT)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Janssen RG, Schwartz DA, Velleman PF. A randomized controlled study of contrast baths on patients with carpal tunnel syndrome. J Hand Ther . 2009;22(3):200-208.  (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Kara M, Ozcakar L, Gokcay D. Quantification of the effects of transcutaneous electrical nerve stimulation with functional magnetic resonance imaging: a double-blind randomized placebo-controlled  study. Arch Phys Med Rehabil . 2010;91(8):1160-1165.  (RCT)"
+        },
+        {
+            "number in article": 13,
+            "reference": "American Academy of Orthopaedic Surgeons. Management of carpal tunnel syndrome evidence-based  clinical practice guideline. https://www.aaos.org/quality/quality-programs/upper-extremity-programs/carpal-tunnel-syndrome/ . Published February 29, 2016. (G)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Knutson M. Chronic + repetitive + stress=opportunity: achieving value-based  physical therapy. Case in Point . 2010;8(1):22-23,  26. (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Chung VC, Wong SY, Kung K, et al. Electroacupuncture and wrist splinting for carpal tunnel syndrome: a randomised trial. Hong Kong Med J . 2017;2(3):28-31.  (R) "
+        },
+        {
+            "number in article": 16,
+            "reference": "Vigneri S, Sindaco G, Zanella M, Sette E, Tugnoli V, Pari G. Interventional treatment for neuropathic pain due to combined cervical radiculopathy and carpal tunnel syndrome: a case report. Clin Case Rep . February 23, 2017;5(4):414-418.  doi:10.1002/ccr3.840. (C)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Mattos DJ, Domenech SC, Borges Junior NG, Santos MJ. Effect of fatigue on grip force control during object manipulation in carpal tunnel syndrome. Motor Control . 2012;16(4):521-536.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Petrover D, Richette P. Treatment of carpal tunnel syndrome: from ultrasonography to ultrasound guided carpal tunnel release. Joint Bone Spine . 2018;85(5):545-552. doi:10.1016/j.jbspin.2017.11.003. (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Moraska A, Chandler C, Edmiston-Schaetzel  A, Franklin G, Calenda EL, Enebo B. Comparison of a targeted and general massage protocol on strength, function, and symptoms associated with carpal tunnel syndrome: a randomized pilot study. J Altern Complement Med . 2008;14(3):259-267.  (RCT)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Pope D, Tang P. Carpal tunnel syndrome and distal radius fractures. Hand Clin . 2018;34(1):27-32.  doi:10.1016/j.hcl.2017.09.00. (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Page MJ, Massy-Westropp  N, O'Connor D, Pitt V. Splinting for carpal tunnel syndrome. Cochrane Database Syst Rev . 2012;(Issue 7):CD010003. doi:10.1002/14651858.CD010003.    (SR)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Page MJ, O'Connor D, Pitt V, Massy-Westropp  N. Exercise and mobilisation interventions for carpal tunnel syndrome. Cochrane Database Syst Rev . 2012;(Issue 6):CD009899. doi:10.1002/14651858.CD009899.    (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Fern\u00e1ndez-de-Las-Pe\u00f1as  C, Cleland J, Palacios-Ce\u00f1a  M, Fuensalida-Novo  S, Pareja JA, Alonso-Blanco  C. The effectiveness of manual therapy versus surgery on self-reported  function, cervical range of motion, and pinch grip force in carpal tunnel syndrome: a randomized clinical trial. J Orthop Sports Phys Ther . 2017;47(3):151-161. doi:10.2519/jospt.2017.7090. (RCT)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Osterman M, Alyas AM, Matzon JL. Carpal tunnel syndrome in pregnancy. Orthop Clin North Am . 2012;43(4):515-520.  doi:10.1016/j.ocl.2012.07.020.   (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Wright AR, Atkinson RE. Carpal tunnel syndrome: an update for the primary care physician. Hawaii J Health Soc Welf . 2019;78(11 Suppl 2):6-10. (GI)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Choi GH, Wieland LS, Lee H, Sim H, Lee MS, Shin BC. Acupuncture and related interventions for the treatment of symptoms associated with carpal tunnel syndrome. December 2, 2018;12(12). Art No: CD011215. doi:10.1002/14651858.CD011215.pub2.  (SR)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Tal-Akabi  A, Rushton A. An investigation to compare the effectiveness of carpal bone mobilisation and neurodynamic mobilisation as methods of treatment for carpal tunnel syndrome. Man Ther . 2000;5(4):214-222.  (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Sonoo M, Menkes DL, Bland JDP, Burke D. Nerve conduction studies and EMG in carpal tunnel syndrome: Do they add value? Clin Neurophysiol Pract . April 5, 2018;3:78-88. doi:10.1016/j.cnp.2018.02.005.  (X)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Verdugo RJ, Salinas RA, Castillo JL, Cea JG. Surgical versus non-surgical  treatment for carpal tunnel syndrome. Cochrane Database Syst Rev. 2008:4. Art No: CD001552. doi:10.1002/14651858.CD001552.  (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Asheghan M, Hollisaz MT, Taheri T, Kazemi H, Aghda AK. The prevalence of carpal tunnel syndrome among long-term  manual wheelchair users with spinal cord injury: A cross-sectional  study. J Spinal Cord Med . 2016;39(3):265-271.  doi:10.1179/2045772315Y.0000000033. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Yoo WG. Effect of a wrist motion storage biofeedback system (WMSBS) on wrist motion during keyboard typing work. J Phys Ther Sci Web site. https://www.jstage.jst.go.jp/article/jpts/25/2/25_JPTS-2012-304/_article/-char/en . (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Dwivedi S, Dasilva MF. Carpal tunnel syndrome. In: Ferri FF, ed. Ferri's Clinical Advisor 2021: 5 Books in 1 . Philadelphia, PA: Mosby Elsevier; 2021:319. (GI)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Francisco H, Santiago MD, Vallarino MD. Median neuropathy. In: Frontero WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation . 4th ed. Philadelphia, PA: Elsevier; 2019:131-136.  (GI)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Dabbagh A, MacDermid JC, Yong J, Packham TL, Macedo LG, Ghodrati M. Diagnostic accuracy of sensory and motor tests for the diagnosis of carpal tunnel syndrome: a systematic review. BMC Musculoskelet Disord . April 7, 2021;22(1):337. doi:10.1186/s12891-021-04202-y.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Fowler JR, Cipolli W, Hanson T. A comparison of three diagnostic tests for carpal tunnel syndrome using latent class analysis. J Bone Joint Surg Am . 2015;97(23):1958-1961. doi:10.2106/JBJS.O.00476. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Burger M, Kriel R, Damon A, et al. The effectiveness of low-level laser therapy on pain, self-reported  hand function, and grip strength compared to placebo or \u201csham\u201d treatment for adults with carpal tunnel syndrome: A systematic review. PHYSIOTHER THEORY PRACT . 2017;33(3):184-197.  doi:10.1080/09593985.2017.1282999. (SR)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Ordahan B, Karahan AY. Efficacy of paraffin wax bath for carpal tunnel syndrome: a randomized comparative study. Int J Biometeorol . 2017;61:2175-2181. doi:10.1007/s00484-017-1422-1.  (RCT)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Zhang D, Chruscielski C, Blazar P, Earp B. Accuracy of provocative tests for carpal tunnel syndrome. J Hand Surg Glob Online . 2020;2(3):121-125.  doi:10.1016/ j.jhsg.2020.03.002. (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Burnham RS, Loh EY, Rambaransingh B, Roberts SL, Agur AM, Playfair LD. A controlled trial evaluating the safety and effectiveness of ultrasound-guided  looped thread carpal tunnel release. Hand. 2021;16(1):73-80.  doi:10.1177/1558944719842199. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Ostergaard PJ, Meyer MA, Earp BE. Non-operative  treatment of carpal tunnel syndrome. Curr Rev Musculoskelet Med . 2020;13(2):141-147.  doi:10.1007/s12178-020-09616-0. (RV)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Sears ED, Swiatek PR, Chung KC. National utilization patterns of steroid injection and operative intervention for treatment of common hand conditions. J Hand Surg Am . 2016;41(3):367-373.e2.  doi:10.1016/j.jhsa.2015.11.021. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Bula-Oyola  E, Belda-Lois  JM, Porcar-Seder  R, Page \u00c1. Effectiveness of electrophysical modalities in the sensorimotor rehabilitation of radial, ulnar, and median neuropathies: A meta-analysis.  PLoS One . March 18, 2021;16(3):e0248484. doi:10.1371/journal.pone.0248484. (M)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Yoshii Y, Zhao C, Amadio PC. Recent advances in ultrasound diagnosis of carpal tunnel syndrome. Diagnostics . August 15, 2020;10(8):596. doi:10.3390/diagnostics10080596. (RV)"
+        }
+    ]
+}

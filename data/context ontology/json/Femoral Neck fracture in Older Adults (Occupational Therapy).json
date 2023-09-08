@@ -1,0 +1,456 @@
+{
+    "metadata": {
+        "title": "Fractures, Hip, in Older Adults  Occupational Therapy",
+        "synonyms": [
+            "femoral neck fracture",
+            "proximal femur fracture",
+            "intracapsular fracture",
+            " extracapsular fracture",
+            "hip fractures in older adults: occupational therapy",
+            "(occupational therapy) hip fractures in older adults",
+            "femoral neck fracture in older adults: occupational therapy",
+            "proximal femur fracture in older adults: occupational therapy",
+            "intracapsular fracture in older adults: occupational therapy",
+            "extracapsular fracture in older adults: occupational therapy"
+        ],
+        "anatomical location body part affected": [
+            "The hip; the lower extremity"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "acute care",
+            "geriatric rehabilitation",
+            " home health"
+        ],
+        "description": [
+            "A hip fracture, more specifically a fracture of the most proximal portion of the femur in the hip joint region, is one of the most common musculoskeletal problems in the older adult population.(1) Hip fractures in older adults often result in disability due to loss of independence and mobility, with patients frequently requiring long-term nursing care or permanent institutionalization(1)",
+            "Types and specific locations of proximal femur fractures \u2013Intracapsular: fracture site is proximal to the attachment of the hip joint capsule(1) -Specific sites of intracapsular fractures include the femoral head, subcapital, and femoral neck(1) -Femoral neck fractures can be transcervical or basicervical fractures(1) -Types of intracapsular fractures include displaced, nondisplaced, and impacted(1) -Most often sustained by older females(1) -Intracapsular fractures of the proximal femur can result in compromise of the blood supply to the head of the femur, thereby increasing risk of delayed healing, nonunion, and osteonecrosis/avascular necrosis(1) \u2013Extracapsular: fracture site is distal to the capsule to a line measured 5 cm distal to the lesser trochanter(1) -Extracapsular fractures are intertrochanteric (between the greater and lesser trochanters) or subtrochanteric; also stable or unstable(1) -An intertrochanteric extracapsular fracture is the most common proximal femur hip fracture(1) -Although the blood supply to the head of the femur is undisturbed, nonunion can result from fixation failure(1)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S72": {
+                "base": "fracture of femur",
+                "S72.0": "fracture of neck of femur",
+                "ICD-10-CA": " ICD-10-CA  modification ion Canada: S72.0 subdivided to identify ICD-10-CA  modification in Canada: S72.1 subdivided to identify ICD-10-CA  modification in Canada: S72.0-S72.9 assigned sixth digits to indicate",
+                "S72.00": " S72.00 fracture of upper femoral epiphysis (separation)",
+                "S72.01": " S72.01 fracture of base of femoral neck (cervicotrochanteric)",
+                "S72.08": " S72.08 other fracture of femoral neck",
+                "S72.09": " S72.09 unspecified fracture of neck of femur",
+                "S72.1": "pertrochanteric fracture",
+                "S72.10": " S72.10 intertrochanteric fracture",
+                "S72.19": " S72.19 unspecified trochanteric fracture",
+                "S72.2": "subtrochanteric fracture",
+                "S72.8": " S72.8 fractures of other parts of femur",
+                "S72.9": " S72.9 fracture of femur, part unspecified",
+                "Use": " Use optional subclassification codes for S72 to indicate",
+                "0": " 0 closed 0 closed",
+                "1": " 1 open 1 open"
+            },
+            "M84.4": {
+                "base": "pathological fracture, not elsewhere classified",
+                "Use": "optional subclassification code 5: pelvic region and thigh, to indicate site of involvement"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement has been identified",
+            "Presentation/signs and symptoms:  Acute signs and symptoms of hip fracture include: \u2013affected lower extremity is shorter by several centimeters than the unaffected lower extremity(1,2,3) \u2013affected lower extremity assumes a position of external rotation(1,2,3) \u2013pain in the affected lower extremity with weight-bearing(1) \u2013pain in the hip or groin area with active or passive motion of the hip(1) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "Acute signs and symptoms of hip fracture include \u2013affected lower extremity is shorter by several centimeters than the unaffected lower extremity(1,2,3) \u2013affected lower extremity assumes a position of external rotation(1,2,3) \u2013pain in the affected lower extremity with weight-bearing(1) \u2013pain in the hip or groin area with active or passive motion of the hip(1) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Be sensitive to pain in patients who have had a hip fracture; ensure that the patient has a reliable means of communicating pain through evaluation and treatment",
+            "After surgical intervention for hip fracture, the patient is at increased risk for heart attack, stroke, pneumonia, and blood clots as a result of prolonged bed rest and general anesthesia(1,2,3) \u2013Symptoms of blood clots in the leg/deep vein thrombosis (DVT) include redness, warmth, pain, tenderness, and swelling of the leg; refer to physician urgently if these symptoms are present(2,3,6)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: hip fractures are most often the result of high-force, high-impact  trauma, especially falls, but can also occur due to diseases such as osteoporosis and bone cancer and from repetitive microtrauma ,,": [],
+        "pathogenesis": [
+            "Ninety percent of hip fractures in older adults are associated with falls; however, it is sometimes uncertain whether traumafrom the fall caused the hip fracture or whether a pathological fracture of the hip resulted in the fall(1,5)\u2013Balance, protective reactions, and muscle strength worsen with advancing age and increase the risk of falls; withincreased risk of falls and reduced ability to absorb the impact of a fall, older adults have an increased risk of hipfractures(1)",
+            "Rather than falling forward on outstretched hands, it is more common for older adults with slower walking cadence to fallto the side when balance is lost(1)\u2013For additional information on assessment of fall risk and prevention of falls in older adults, see  Clinical Review\u2026FallPrevention in Older Adults: Occupational Therapy  ; CINAHL Topic ID Number: T708971",
+            "Risk factors  (33,34,35)\u201390% of hip fractures are reported to be associated with falls, making falls the principal risk factor for hip fracture\u2013Demographic factors associated with increased risk of hip fracture include-older age (> 65 years old)-female sex-White-lower socioeconomic status\u2013Medical diagnoses associated with increased risk of hip fracture include-osteoporosis, as well as risk factors for osteoporosis, such as family history or cancer treatment-vitamin D deficiency-history of previous fracture\u2013Other medical conditions associated with increased risk of hip fracture include-cardiovascular disorders (e.g., stroke and heart failure)-endocrine disorders (e.g., diabetes, subclinical hyperthyroidism, and low hormone levels)-renal dysfunction (e.g., macroalbuminuria and low glomerular filtration rate)\u2013Medications associated with increased risk of hip fracture include-psychotropic medications (e.g., antidepressants, antipsychotics, and benzodiazepine and nonbenzodiazepine sedatives)-proton pump inhibitors (PPIs)-loop diuretics-certain antihypertensive medications (specifically, angiotensin II converting-enzyme  [ACE] inhibitors, beta-blockers,and alpha-blockers)-opiate analgesics-bisphosphonates (atypical femoral fracture)\u2013Lifestyle and dietary factors associated with increased risk of hip fracture include-reduced activity level-heavy alcohol consumption-smoking-\u2264 1 serving of fruit and vegetables daily-high consumption of carbonated soda-dietary insufficiency and amenorrhea in female athletes"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Review physician orders regarding wound care, weight-bearing status/ambulation, and limits on ROM prior to evaluation and treatment of a patient following a hip fracture(1,2,3,6) Patients whose hip fractures were stabilized with internal fixation do not require hip ROM precautions and can usually bear weight as tolerated immediately(2,3,7) Precautions will depend upon the nature of the fracture and the management (e.g., internal fixation, total arthroplasty, hemiarthroplasty)",
+        "General hip precautions for the patient for the first 6 to 8 weeks after a total hip replacement (THR) and hemiarthroplasty include: avoiding extreme internal and external rotation of the hip(2,3,8) avoiding hip adduction; use wedge pillow to maintain abduction(6) not crossing the legs, knees, or ankles(8) not lying down or rolling on the affected side(8) no hip flexion beyond 90\u00b0; do not reach forward(6)",
+        "There areconflicting opinions regarding the need for total hip arthroplasty precautions A recent survey of the American Association of Hip and Knee Surgeons (AAHKS) and Canadian Arthroplasty Society (CAS) found that 44% of surgeons prescribe hip precautions to their patients who have undergone a posterolateral approach to a THR(36) In a survey conducted with 16 clinicians(surgeons, occupational therapists [OTs], physical therapist [PTs], and nurses) from 6 different hospitals in England, researchers found differences of opinions and variations in clinical practice with respect to hip precautions for patients with THR.Most of the differences in opinion and practice among clinicians interviewed stemmed from the lack of evidence supporting the use of hip precautions. Researchers cited multiple studies that have questioned the need for hip precautions(24) Authors of an RCTfound that the absence of hip precautions did not impact the early recovery of patients who had a posterolateral approach THR. There was no difference in the rate of dislocation between the group following hip precautions and the group that did not(37) For additional information on THR, see  Clinical Review\u2026Total Hip Replacement: Occupational Therapy  ; CINAHL Topic ID Number: T709000",
+        "Hip precautions according to approach type of THR Guidelines for posterolateral approach \u2013Positions of hip stability include flexion (not beyond 90\u00b0), abduction, gentle external rotation(4) \u2013Avoid positions of hip instability, which include adduction, any internal rotation, hyperflexion beyond 90\u00b0(2,3,6)  Guidelines for anterolateral approach \u2013Positions of hip stability include flexion (not beyond 90\u00b0), abduction to neutral, gentle internal rotation(4) \u2013Avoid positions of hip instability, which include adduction, any external rotation, excessive hyperextension(1,4) Long-term  precautions for patients with a history of joint replacement surgery \u2013Prophylactic antibiotics prior to dental work, medical procedures, or surgery(8) \u2013Monitor infections closely; if a person who has had a joint replacement gets an infection, it has the potential to travel through the bloodstream to the replaced joint, which can result in a serious systemic infection(8)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Be sensitive to pain in patients who have had a hip fracture; ensure that the patient has a reliable means of communicating pain through evaluation and treatment",
+            "After surgical intervention for hip fracture, the patient is at increased risk for heart attack, stroke, pneumonia, and blood clots as a result of prolonged bed rest and general anesthesia(1,2,3) \u2013Symptoms of blood clots in the leg/deep vein thrombosis (DVT) include redness, warmth, pain, tenderness, and swelling of the leg; refer to physician urgently if these symptoms are present(2,3,6)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "How did the hip fracture occur? Review medical reports and document the type and site of the fracture",
+                "course of treatment": {
+                    "medical management": "Hip fractures are most frequently managed surgically; the goal of surgery is to achieve maximum stability and restore the alignment of the bones of the hip(1,2,3) Surgery for hip fracture typically occurs 2448 hours after injury(1) In an observational study in Italy, researchers reviewed records from January 1995 to September 2008 of 1,199 patients with hip fracture and found that delay of surgical intervention for hip fracture past 48 hours did not result in significantly worse outcomes in patients with comorbidities. The researchers recommended surgical management within 48 hours for medically stable patients and within 72 hours for patients who required management of comorbid conditions (e.g., heart disease, neurological condition)(25) Indications for surgical intervention Displaced or nondisplaced intracapsular femoral neck fractures(1) Fracture with dislocations of the head of the femur(1) Stable or unstable intertrochanteric fractures(1) Subtrochanteric fractures(1) Most surgical interventions for hip fracture involve stabilization of the fracture by internal fixation of the bone with screws, pins, or nails(1,7) THR after hip fracture is indicated for older adults with displaced intracapsular fractures because of the high incidence of nonunion after this type of fracture(1,7) For additional information on assessment and treatment of patients following THR, see  Clinical Review\u2026Total HipOccupational Therapy  ; CINAHL Topic ID Number Review the details of the patient\u2019s medical history and physician reports; note the date(s) of any hip or other surgery as well as any complications or infections If the patient has had a THR, note the surgical technique used for the THR as well as the physician order for weightbearing status(1) Weight-bearing  and ambulation often are restricted until 10 to 16 weeks post-surgery  to allow for sufficient bone healing to take place(1)  Due to the increased risk of postoperative pneumonia, the patient may be instructed to use an incentive spirometer to promote deep breathing and prevent the development of pneumonia(1,2,3,4) Nonsurgical management is the only option for some patients with hip fracture, including those who are nonambulatory or not medically stable for surgery(1,2,3) Traction is often the alternative to hip surgery or THR, during which time the patient remains bedbound until the bone has begun to heal, per physician orders(1) Patients who are scheduled to undergo surgery for hip fracture should NOT be placed in skin or skeletal traction prior to surgery(2,3) Following hip fracture and/or surgical intervention for hip fracture, the physician may order the donning of compression stockings, use of a sequential compression device (SCD), and/or local cryotherapy to maintain circulation, manage swelling, and decrease the risk of DVT(2,3,4) Patient may undergo blood transfusion if hemoglobin (Hgb) or hematocrit (Hct) is low secondary to blood loss",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being pain medication(2,3) antibiotics to prevent infection(9) anticoagulants to prevent blood clots(2,3) iron and/or vitamin supplements for the treatment of anemia(2,3) zoledronic acid for patients with osteoporosis to reduce risk of another fracture(5) laxatives or stool softeners to treat constipation(2,3)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Imaging studies (X-ray,  CT scan, MRI, and/or bone scan) to determine the specific type of fracture and level of impairment, including the amount of joint space destruction(33,34)",
+                        "X-ray  is initial imaging modality for suspected hip fracture; appropriate routine views include a cross-table  lateral view of the hip and an anteroposterior view of the pelvis",
+                        "American Academy of Orthopaedic Surgeons (AAOS) states that moderate evidence supports MRI as advanced",
+                        "imaging of choice for diagnosis of suspected hip fracture in older adult patients if initial Xray  is negative(38)",
+                        "CT scan may be used if MRI is contraindicated or unavailable",
+                        "Blood work (complete blood count [CBC], electrolyte levels, coagulation profile)(2,3)",
+                        "EKG(2,3)",
+                        "Urinalysis(2,3)",
+                        "Older adults with cardiopulmonary disease, functional debilitation, or dementia will require a baseline arterial blood gas (ABG) level(2,3)",
+                        "Postoperative limb swelling should be examined with ultrasound or Doppler to rule out DVT(6)",
+                        "If an infection is suspected, arthrocentesis of synovial fluid can be performed with Gram stain and assessment of culture sensitivity(6)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Document what positions, activities, etc. aggravate or ease symptoms and length of time each item is performed before the symptoms come on or are eased",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)  -Pain usually is present after hip fracture and surgical intervention for hip fracture; however, the amount of pain experienced following hip fracture with or without surgery varies greatly between patients(1)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) -After surgical intervention for hip fracture, the patient is at increased risk for heart attack, stroke, pneumonia, and blood clots as a result of prolonged bed rest and general anesthesia(1,2,3) -Symptoms of blood clots in the leg/DVT -Redness, warmth, pain, tenderness, and swelling of the leg; refer to physician urgently if these symptoms are present(2,3,6) -For patients who have had surgical intervention for hip fracture, there is a small risk of failure of the internal fixation -severe, persistent groin, thigh, or knee pain that increases with limb movement or weight-bearing(1) -progressive limb length inequality (shortening of the affected lower extremity)(1) -persistent external rotation of the affected lower extremity(1) -positive Trendelenburg sign (weakness of the hip abductors that results in contralateral pelvic tilt or drop) during weight-bearing  with the affected lower extremity that does not improve with strengthening exercises(1) -Patients who have had a hip fracture are at increased risk for malnutrition(5) -Patients with hip fractures often experience psychosocial and emotional consequences such as social limitations, physical restrictions, dependency for daily activities, hopelessness, anxiety, and depression, especially within the first few months post fracture(10)",
+                "respiratory status": "Note respiratory status -Does the patient require supplemental oxygen? Tracheostomy tube, nasal cannula, or breathing mask? -Does the patient become short of breath? If so, when? Standing? Walking? With exercise? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any prior history of hip fracture, a joint replacement surgery (including the knee, hip, etc.), falls, etc.?",
+                    "comorbid diagnoses": "Ask patient about other problems, including history of falls, diabetes, cancer, heart disease, psychiatric disorders, orthopedic disorders, and visual impairment Patients with protein malnutrition, history of smoking, or prolonged use of NSAIDs can have increased healing times and be predisposed to nonunion after hip fracture(9)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -What are the patient\u2019s occupations and role(s) within his or her family? -Is patient currently employed? If so, is he or she planning to return to work? -What activities, hobbies, etc., does the patient enjoy?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Document if and what type of adaptive equipment the patient is using, such as wheelchairs, hearing aids, glasses -Document current assistive or adaptive equipment available to the patient at home. Determine whether this equipment is appropriate to be used based on patient\u2019s current level of functioning  -Document both high-  and low-tech  adaptations and equipment -Document premorbid functional mobility and ambulatory status(28,29)",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (caregivers, etc.)(2,3) -Identify the patient\u2019s caregiver or network of support; the patient will require significant assistance with ADLs and IADLs initially(4) -Identify if there are barriers to independence in the home; any modifications necessary?(4) -Home visits can assist with determination of appropriate home modifications(2,3) -Environmental modifications often are necessary to maintain safety for patients who have had a hip fracture(2,3,8) -Modifications include installation of grab bars, use of assistive devices such as a shower chair, and removing loose carpets around the house(2,3,8)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " \u2013Note BMI \u2013Measure leg length and compare bilaterally for discrepancy",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or use of assistive and adaptive devices to determine the devices that are most appropriate and will best serve his or her needs; incorrect use of devices can increase risk of falls(2,3) \u2013Mobility aids(2,3) -Cane (single-point  and four-pronged  canes) -Walker -Standard walkers provide good support but can be difficult for an older adult to advance -Rolling walkers are easier to advance; however, the patient must be able to sufficiently limit his or her forward movement -Hemi walker may be indicated when a patient does not have full use of both upper extremities for weight bearing on a standard walker -Wheelchair (reclining wheelchairs are used for patients who have had THR to maintain appropriate hip flexion)(2,3,4) -Ideal for patients who are nonambulatory or unable to tolerate weight-bearing -Crutches (forearm or underarm) -Handrails on stairways \u2013Bathroom equipment(2,3) -Grab bars next to the toilet -Shower chairs, bars, and/or benches -Bedside commode -Bedside urinal -Raised toilet seat -Elevated footrest at the toilet \u2013ADL/IADL aids(2,3,4) -Reachers -Long-handled  equipment  -Dressing sticks; sock aids -Specialized kitchen equipment -Adaptive cooking equipment \u2013Equipment specifically for patients who have undergone THRconnected to surgical site for collection of drainage; should not be disconnected for activity; usually left in place for 2 days following surgery(4)large or small triangular wedge used when the patient is in supine position to maintain abducted position of the lower extremities(4)fabricated and set up by the PT; usually used for 3 days post-surgery;  do not remove the limb from suspension without physician order(4)",
+            "balance": "Balance and postural control often are impaired following hip fracture(1) \u2013Evaluate static and dynamic balance functionally during ADL tasks \u2013Tinetti Balance Scale \u2013Berg Balance Scale",
+            "cardiorespiratory function and endurance": [
+                "Assess heart rate, blood pressure, and respiratory rate regularly pre/during/post activity; use the Borg Rating of Perceived Exertion (RPE) Scale if indicated(4)",
+                "Monitor breathing to assist with determining fatigue and endurance levels"
+            ],
+            "circulation": "Assess pulse bilaterally; note any discrepancies or abnormalities \u2013Note use of compression stockings or compression pump \u2013Document history of blood clots and observe for signs/symptoms of DVTAssess bed mobility and transfers to determine the amount of assistance needed for the patient to perform each activity(4) \u2013Patients often can perform self-mobilization  with assistance from an overhead bed trapeze frame after hip fracture(2,3)a measurement of mobility; includes tasks such as standing from a seating position, walking, turning, stopping, and sitting down, which are all important for independent mobility(5,13)an 18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(14)",
+            "functional mobility": "",
+            "gait locomotion": "Observe patient\u2019s gait and ability to climb stairs (assisted or unassisted) \u2013Note use of braces, orthoses, prosthetic or ambulatory aids for walking \u2013If the patient is not already being seen by a PT, refer to physical therapy for full evaluation and treatmentJoint mobility commonly is impaired in patients who have had a hip fracture(1) \u2013Assess stability and mobility of the hip joint within precautions set by physician(1,6)Assess fine and gross motor function of the affected lower extremity; describe the quality of movement \u2013Document motor function of both upper extremities (ataxia, tremor)",
+            "muscle strength": "Manual muscle testing (MMT) to evaluate strength in both affected and unaffected lower extremity; do not perform MMT with contracted muscles or muscles with tone and coordination issues(4) \u2013Muscle strength will be reduced following hip fracture, with or without surgical intervention for hip fracture(1) -Compare strength in the affected and unaffected lower extremities; note differences \u2013Assess upper extremities and document any abnormalities; use dynamometer to evaluate hand strength bilaterally; assess grip strength in functional tasks; assess pinch strength Perception  (e.g., visual field, spatial relations) \u2013Oculomotor control, tracking, visual accommodation and visual clarity",
+            "observation inspection palpation including skin assessment": [
+                "Note any areas of swelling, bruising, or pain.(2,3) Swelling can be monitored using circumferential measurements",
+                "Older adults who sustain hip fracture often live alone and might be on the floor for hours or days before they are found; dehydration, malnutrition, and decubitus ulcers can occur as a result(2,3)",
+                "A turning protocol to shift the patient\u2019s weight can reduce the risk of pressure ulcers(2,3) ",
+                "For patients who have had surgical intervention for hip fracture, observe incision site(s), noting any redness, pus, or swelling, as these are signs of infection(6,9) -Infection rate is higher for open fractures than for closed fractures(9) -Note the presence of staples or sutures(6) -Surgical dressing over the hip is usually first changed on postoperative day 3(2,3) -For the first week post-surgery,  a serosanguineous discharge might be present(6)"
+            ],
+            "posture": "Poor posture can affect the patient\u2019s ability to complete occupational tasks such as feeding, dressing, oral care, transfers, and meal preparation(11) \u2013Postural control is important for patients who have undergone THR due to the importance of maintaining hip abduction(11) \u2013Document static/dynamic posture in supine, sitting, and standing throughout a variety of tasks according to weight-bearing  precautions(11) -Note the presence of rounded or internally rotated shoulders(11) -Provide patients with cushions, wedges, or other modifications to chairs and beds to achieve adequate positioning(11) -Note posture with/without adaptive equipment(11)",
+            "range of motion": "AROM and PROM will be limited after hip fracture; limitation can be self-imposed  due to pain with movement(1,4) \u2013Assess ROM in both affected and unaffected hip joint using goniometer -Hip and knee motions can both be painful during the initial postoperative phase following hip fracture and surgery; proceed with caution and sensitivity to pain(1) \u2013Assess AROM/PROM for upper extremity and torso; vertebral compression and wrist fractures are common co-occurrences  in older adults with hip fracture(2,3)Assess safety and ability to perform ADLs hair, upper and lower body dressing, clothing management, using the toilet, applying makeup or shaving the face, bathing, eating(4) \u2013Hip fracture significantly limits an individual\u2019s ability to perform ADLs and IADLs \u2013The FIM, the Assessment of Motor and Process Skills (AMPS), the Disability Rating Index (DRI), the Katz Index of Independence in Activities of Daily Living, and the Barthel Activities of Daily Living Index are appropriate standardized measures for ADLs in older adults with hip fracture(8,15) \u2013For high-functioning  patients, assess IADLs such as driving (including car transfers), meal preparation, shopping, and housework -Lawton and Brody Instrumental Activities of Daily Living Scale -Includes items related to using the telephone, taking public transportation, shopping, meal preparation, housework, and medication and money management",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Assess light touch, sharp/dull, position sensation(proprioception and kinesthesia), vibration, and temperature",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013QOL(15) -The Short Form Health Survey (SF-36)  evaluates overall independence, emotional and mental health, limitations to previous roles, and social status; valid, reliable, and sensitive for the hip fracture population(16) -The Canadian Occupational Performance Measure (COPM) evaluates function through evaluation at baseline and status throughout treatment, utilizing the patient\u2019s direct input(17) -The COPM allows patients to identify goals in therapy that are personally meaningful; it is useful as part of a client-centered  approach to therapy(17) ",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Note patient\u2019s ability to communicate and level of arousal as well as memory, attention, problem solving, and orientation to person, place, time, and situation(4) \u2013Older adults who have had hip fracture may have cognitive impairments. Cognitive impairment negatively impacts patients\u2019health-related  quality of life (HRQoL) after hip fracture. It is recommended that older adults with cognitive impairments who undergo hip fracture surgery be carefully monitored for the first 4 months postoperatively(39) \u2013Document the presence of postoperative delirium.Approximately one fourth of older adults undergoing hip fracture surgery havepostoperative delirium,which is marked by sudden severe mental status changes (e.g., agitation, confusion, lethargy).Postoperative deliriumincreases short-term  and long-term  mortality(40) \u2013A brief cognitive assessment such as the Mini-Mental  State Examination (MMSE) is appropriate for older adults with hip fracture(12)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Patients in non-Western  cultures perform ADLs in a kneeling, squatting, or cross-legged  position more often than patients in Western cultures(18)"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies  (5)",
+                "When initiating exercises of the affected lower extremity in a patient with comminuted subtrochanteric fracture with medial cortex reconstruction, do not have the patient perform contractions of the abductor and adductor muscles for 4 to 6 weeks to avoid stress over the fracture site(1)",
+                "To ensure relevance and appropriateness of treatment programs, decisions about goals and course of therapy should be made in collaboration with the patient, the caregivers, and other healthcare professionals. Cultural background, language preference, and patient interests must also be considered(18)",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Rehabilitation for patients who have had a hip fracture should begin as soon as possible post-surgery  for medically stable patients with a physician order for physical and occupational therapy.(1,2,3,7,17) Initiating an exercise program on the first postoperative day can help prevent postoperative complications and improve functional outcomes.(1,7) The goal of rehabilitation programs for patients who have had a hip fracture is to return to the community and/or to prior level of function and independence; however, even with the best care, this is not always possible.(17) The role of the OT is to provide support and education; gather pertinent information regarding the patient\u2019s prior functional status, current home environment, and living situation; and train the patient to safely, efficiently, and adequately perform ADLs/ IADLs with as much independence as possible(2,3,4,7)",
+        "rule out": "N/A",
+        "prognosis": [
+            "Only approximately40\u201350%  of patients recover their mobility following a hip fracture and onlyapproximately 40\u201370%  are able to regain ability to perform ADLs(43)",
+            "Maximum functional improvement is likely to be achieved in the first 6 months after hip fracture(43)",
+            "There is increased mortality within first year following hip fracture. Factors associated with mortality include \u2013advanced age: Based on a systematic review,older age (\u2265 85 years old) is associated with increased mortality following hip fracture surgery(41) \u2013male sex: Authors of a study foundincreased mortality within 1 year of hip fracture in men compared to women regardless of comorbidities(42) \u2013presence of comorbidities:Authors of a study found that greater comorbidity was associated with increased mortality within 1 year of hip fracture(42)",
+            "In a study conducted in the United States, researchers found that in 27,305 hip fractures that occurred in a cohort of patients receiving skilled nursing facility (SNF) care, within 90 days after hospitalization (for the hip fracture) 24.1% of patients died, 54.6% were still in care (SNF or long-term  care), and 14.0% discharged to the community without return to institutional care(31)",
+            "Authors of a systematic review found that rehabilitation plans implemented by a geriatric interdisciplinary team for patients \u2265 65 years old who had sustained a hip fracture increased their physical function and mobilitycompared to conventional care(44)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines PT for ambulation, gait training, lower extremity strengthening/ROM program, etc. Registered dietician due to the increased risk of malnutrition Wound care nurse or specialist if signs of pressure ulcers are present(6)  Social work or case management to assist with care transfers (e.g., hospital to rehabilitation facility, nursing home, assisted living, home with care), conflict resolution, and family issues as well as to provide \u201crelational continuity\u201d(32) Psychiatrist or psychologist if patient presents with signs of depression or distress",
+        "other considerations": [
+            "Physical activity is extremely important following hip fracture, yet the evidence indicates that patients are too sedentary during hospital stays, rehabilitation stays, and at home after discharge. Patients need to be mobilized on postoperative day 1 and receive regular physical activity post fracture(51) \u2013Authors of a systematic review on physical activity following hip fracture found that older adult patients across all settings had excessive sedentary time (> 10 hours/day). Patients\u2019 upright time varied depending on the setting (hospital 16\u201352  minutes/day, community 51\u2013261 minutes/day)(51)",
+            "For functionally dependent older adults with hip fracture, caregiver training, not intensive rehabilitation for the patient, may provide the most benefit to the patient(19)",
+            "Fear of falling can adversely affect the functional recovery of older adults with hip fracture and should be addressed during the rehabilitation course by the OT and/or psychologist(20)",
+            "Orthogeriatric (OG) care, when geriatric specialists primarily manage older adult patients following admission for hip fracture,is recommended, as it may improve patient outcomes(45) \u2013Authors of a systematic reviewand meta-analysis  on OG care foundthat it reduced the rate of hospital-acquired  pressure ulcers and improved short-term  physical functioning, long-term  cognitive functioning, and short-  and long-term ability to perform ADLs(45)"
+        ],
+        "treatment summary": [
+            "Occupational therapy interventions can improve functional recovery, reduce hospital stay, and result in more favorable discharge destinations.(50)Occupational therapy occurs in all stages of the rehabilitation process: acute phase (begins at the time of fracture and lasts up to 5\u20137 days postoperatively), sub-acute  (lasts up to 90 days postoperatively), and post-acute (lasts up to one year after the fracture)(43)",
+            "Specific occupational therapy interventions will vary according to patients\u2019 goals and characteristics (e.g., comorbidities, age, level of function prior to fraction, motivation for therapy, role function), but can include the following:(50) \u2013positioning and postural care \u2013movements in bed \u2013transfers in and out of bed \u2013techniques for sitting, standing, walking, dressing, bathing \u2013home environment and furniture advice \u2013education on fall prevention",
+            "Authors of a study interviewed 18 OTs to gain insight on integrating occupation-based  interventions during post-acute rehabilitation for patients with hip fracture. Three main ideas emerged from the qualitative study(47) \u2013OTs should conduct an occupational profile during their initial evaluation that guides occupation-based interventions during the rehabilitation phase and discharge goals \u2013OTs should work with patients and their family members to identify desired occupations and implement treatments to assist in the patient returning to the community \u2013OTs should work to develop an electronic medical record platform to enhance documentation of the occupation-based interventions and show their value",
+            "Acute phase \u2013Early mobilization: Patients should be mobilized on day 1 following hip fracture surgery and receive regular physical therapy after surgery(48,51) \u2013Authors of a retrospective observational study (N = 1266) evaluated the effectiveness of acute in-hospital occupational therapy for older patients with hip fracture(46) -Patients were included if they were admitted to the hospital within 1 day of the injury -50.9% received occupational therapy and 49.1% did not  -The primary outcome measure was motor FIM efficiency (this was determined by the equation: discharge motor FIM score \u2013 admission motor FIM score / length of stay in days). The secondary outcome measure was motor FIM effectiveness (this was determined by the equation: motor FIM gain / [91 points \u2013 admission motor FIM) -Occupational therapy was provided by an OT and followed recommended guidelines of the Japanese Association of Occupational Therapists for hip fracture. Activities included self-care  practices (e.g., getting in and out of bed, going to the bathroom, getting dressed) and training on any necessary aids. The OT also maderecommendations about the home living situation to prepare the patient for returning to home -Results found that OT is associated with higher efficiency and motor FIM effectiveness \u2013The Scottish Standards of Care for hip fracture patients developed in 2014 include two standards relating to physical and occupational therapy. Physical therapy was to mobilize all hip fracture patients by the end of day 1 following surgery and perform an initial evaluation by the end of day 2. Occupational therapy was to perform an initial evaluation by the end of day 3(48) -Before the standards were developed it was found that only 39% of patients were mobilized by the end of day 1, 83% of patients had an initial evaluation by physical therapy by the end of day 2, and 55% of patients had an initial evaluation by occupational therapy by the end of day 3 -After the national health serviceimplemented several changes, including the development of a stand-alone hip fracture ward,improvements were seen -Currently 82% of patients are mobilized by the end of day 1 -100% have a physical therapy initial evaluation by the end of day 2 -81% have an occupational therapy initial evaluation by the end of day 3 -The percentage of patients dischargedwithin 14 days or fewer has increased from 40% to 91%",
+            "Sub-acute  phase \u2013In this phase the focus is on improving patient transfers, ADLs, and ambulation. Care may continue in initial setting or patient may be transitioned to a rehabilitation facility or their home to continue rehabilitation(43) \u2013Authors of an RCT compared the effects of CBT-based occupational therapy and CBT-based  occupational therapy with sensor monitoring on the daily functioning (measured by the COPM) in older patients after hip fracture(49) -All patients following hip fracture surgery were admitted to a rehabilitation hospital and were given the usual rehabilitation care. In addition to the usual care, patients received 1 of 2 treatments: -CBT-based  occupational therapy: Occupational therapy interventions focused on teaching patients strategies to improve task performance and coach them to modify their patterns of cognition and behavior, especially relating to any fear of falling. OTs treated the patients 1x/week in the rehabilitation hospital and then 4x (45-60  minute sessions) in the first 4 weeks after discharge. Then the OT conducted a 10\u201315-minutetelephone visitwith the patients in weeks 5,6,8, and 10 -CBT-based  occupational therapy with sensor monitoring:Patients receive similar treatments as the group above, but wore a sensor monitor to detect the number of movements they made. The OT used the sensor feedback to coach the patient in subsequent visits including setting physical activity goals for the next week and addressing which activities in the previous week were easy or difficult and why -At 6 months, the mean COPM scores in the CBT-based  occupational therapy with sensor monitoring group were larger than those in the usual care group receiving no additional intervention. There was no significant difference in COPM scoresbetween the CBT-based  occupational therapy group and usual care group receiving no additional intervention -CBT-based  occupational therapy with sensor monitoring was more effective at improving patients\u2019 daily functioning at 6 months than usual care only \u2013Authors of a systematic review and meta-analysis  evaluated whether occupational therapy improves ADLs and overall physical functioning of patients after surgery for hip fracture(50) -5 RCTs were included (N = 524) -Improvements were seen in ADLs, physical functioning, and fall occurrence, but the changes were not significant -Health perception and patient emotions improved significantly with OT compared to control group -The authors concluded that there is support for OT interventions in comprehensive rehabilitation programs for patients after surgery for hip fracture",
+            "Post-acute  phase \u2013After discharge from the hospital setting, patients with hip fracture can continue to make functional gains in a home-based rehabilitation setting(21)  \u2013In an RCT conducted in Italy, researchers found that a single home visit performed by an OT significantly reduced the risk of falling up to 6 months after discharge from the hospital in older female adults with hip fracture(22) -Ninety-five  women participated in the trial: 45 in the intervention group and 50 in the control group.All participants were recruited from the inpatient rehabilitation unit of the hospital following hip fracture, during which time they all received physical and occupational therapy at least 3 hours/5 days per week -During their stay in the inpatient rehabilitation unit, all participants were educated by an OT about appropriate home modifications after hip fracture -In addition to the standard inpatient rehabilitation therapy, the participants in the intervention group received a home visit by an OT at some point 6\u201344 days post discharge (median 20 days); the home visit was approximately 60 minutes long, during which the OT assessed the home and provided suggestions for home modifications -Outcome measures were falls sustained over the 6-month  period following discharge -13/50 women in the control group sustained falls (20 total falls) during 9,231 total days -6/45 women in the intervention group sustained falls (9 total falls) during 8,970 total days -. Problem Goal Intervention Expected Progression Home Program Pain, tenderness, and/or swelling of the hipResolve pain, tenderness, and/or swelling of the hip _ _ Protect any healing structuresPhysical agents and mechanical modalities _ Elevation, ice, and compression(1,4,6) _ _ SCDs, compression stockings or wraps(4,6)Gradual reduction and then elimination of modalities and compression protocol as toleratedProvide patient and caregiver with education regarding pain and swelling management at home Impairment of ADLs/ IADLsIncrease independence with ADLs/IADLs; increased safety and efficiency when performing ADLs/ IADLsFunctional training _ Therapeutic and conditioning exercise program(1) _ _ ADL/IADL trainingincorporating appropriate precautions _ _ Adaptive/assistive device and equipment training _ _ Energy-conservation strategies _ _ See Treatment summary , aboveGradual progression of intensity of exercises; increase the resistance, frequency, and/or duration of each exercise as the patient\u2019s strength increases; active- assisted ROM and strengthening exercises are progressed as tolerated(6) _ _ Initially, break ADL/ IADL tasks down into separate parts; with increased patient tolerance, have the patient perform progressively longer segments of each ADL/ IADL task at a timeCaregiver education is important for carryover of ADL/ IADL training into the home environment; provide the patient\u2019s family with a plan for maximizing home safety for ADLs/IADLs with environmental modifications as appropriate  Reduced functional mobility; reduced community mobility _ _ Increased risk for fallsIncrease functional mobility at home and within the community setting _ _ Decrease risk for falls, improve balanceFunctional training _ Therapeutic and conditioning exercise program _ Balance exercises _ _ Bed mobility and transfer training as appropriate _ _ Adaptive/assistive device and equipment training _ _ Energy-conservation strategies _ _ See Treatment summary , above _ _ OT home visit to determine appropriate home modifications _ _ Referral to PT for balance and gait trainingProgression will vary between patients based on the interventions selected and the response to treatment tasks _ _ Gradual progression of intensity of exercises; increase the resistance, frequency and/or duration of each exercise as the patient\u2019s strength increases; active- assisted ROM and strengthening exercises are progressed as tolerated(6) _ Progress patient from static to dynamic balance activities _ _ N/AProvide patient and family/ caregivers with written instructions regarding functional activities that can safely be performed at home and correct use and/or application of equipment _ _ Implementation of suggested modifications ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes: desired outcomes after a hip fracture vary according to patient goals and characteristics": [
+            "Decreased pain\u2013V AS",
+            "Decreased swelling(6)\u2013Circumferential measurements",
+            "Improved balance(1,6)\u2013Tinetti Balance Scale\u2013Berg Balance Scale",
+            "Improved functional mobility\u2013TUG",
+            "Improved QOL(15,30)\u2013SF-36",
+            "Increased strength(1,6)\u2013MMT",
+            "Increased functional independence(1,6,11,15)\u2013FIM\u2013Assessment of Motor and Process Skills (AMPS)\u2013Disability Rating Index (DRI)\u2013Katz Index of Independence in Activities of Daily Living\u2013Barthel Activities of Daily Living Index\u2013COPM"
+        ]
+    },
+    "maintenance or prevention": [
+        "Home assessments are highly recommended for older adults recovering from hip fracture to prevent falls after discharge to home(52) Authors of a study found that falls were the most common reason for readmission to the hospital after hip fracture(52)",
+        "Authors of a Cochrane systematic review reported that there is reliable evidence that in older adults vitamin D supplementation in conjunction with calcium supplementation slightly reduces the risk of hip fracture.(26) Authors noted that vitamin D alone did not reduce risk of hip fracture. Additionally, individuals with history of kidney disease, kidney stones, high blood calcium levels, or gastrointestinal disease, as well as those with a risk of heart disease, have increased risk of complications with vitamin D and calcium supplementation and should take them only if directed by their personal physician(26)",
+        "Authors of a Cochrane systematic review assessed the effectiveness of hip protectors for preventing hip fractures in older adults. Hip protectors are hard plastic shields or soft foam pads that are fitted into specialized undergarments to reduce the risk of hip fracture in a fall. Researchers reported that there is moderate evidence that providing hip protectors to older adults in nursing care facilities slightly decreases the risk of hip fracture, but they slightly increase the risk of pelvic fracture. In older adults living at home, there does not appear to be a preventive effect from the use of hip protectors. Although side effects (e.g., skin irritation) were minimal, authors reported that acceptance and adherence with hip protectors typically was poor(27)",
+        "To maintain gains of therapeutic interventions and continue to make gains, the patient should continue exercises found effective and well tolerated(1,23) The length of time that exercises should be continued is not established in the research literature(1) Bone healing after hip fracture and surgical intervention for hip fracture generally takes 8 to 16 weeks; however, it can take up to 6 months for some patients(1)",
+        "Review short-  and long-term  weight-bearing  and hip precautions. High-stress activities that can result in increased torque through the femur (e.g., running, waterskiing, football, baseball, hockey, racket sports) should be avoided to prevent damage to the hip joint(6)"
+    ],
+    "patient education": [
+        "Caregiver education is important for carryover of ADL/IADL training into the home environment; provide the patient\u2019s family with a plan for maximizing home safety for ADLs/IADLs with environmental modifications as appropriate",
+        "See Patient Education Library at the American Academy of Orthopaedic Surgeons website, https://orthoinfo.aaos.org/en/diseases--conditions/hip-fractures/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "The hip. Kisner C, Colby LA, eds. Therapeutic Exercise: Foundations and Techniques . 7th ed. Philadelphia, PA: F.A. Davis Company; 2017. (GI) "
+        },
+        {
+            "number in article": 2,
+            "reference": "Koval KJ, Cooley MR. Clinical pathway after hip fracture. Disabil Rehabil . 2005;27(18-19):1053-1060.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Koval KJ, Chen AL, Aharonoff GB, Egol KA, Zuckerman JD. Clinical pathway for hip fractures in the elderly: the Hospital for Joint Diseases experience. Clin Orthop Relat Res . 2004;(425):72-81.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Murphy LF, Lawson S. Orthopedic Conditions: Hip fractures and Hip, Knee, and Shoulder replacements. In: Pendleton HM, Schultz-Krohn  W, eds. Pedretti\u2019s Occupational Therapy: Practice Skills for Physical Dysfunction . 8th ed. St. Louis, MO: Mosby Elsevier; 2018:1004-1027.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Bruyere O, Brandi ML, Burlet N. Post-fracture  management of patients with hip fracture: a perspective. Curr Med Res Opin . 2008;24(10):2841-2851.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Cabrera JA, Cabrera AL. Total hip replacement. Frontera WR, Silver JK, Rizzo TD Jr, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 4th ed. Philadelphia, PA: Elsevier; 2018. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Wasserman BR, Egol KA, Zuckerman JD. Managing hip fractures in older patients: perioperative decision making. J Musculoskelet Med . 2008;25(7):326-334.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Keller J, Stone K. Hip and knee replacements. Boyt Schell BA, Gillen G, eds. Willard & Spackman's Occupational Therapy . 13th ed. Philadelphia, PA: Wolters Kluwer Health/ Lippincott Williams & Wilkins; 2018. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Prokuski L. Principles of fractures. Weinstein SL, Buckwalter JA, eds. Turek's Orthopaedics: Principles and Their Application . 7th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2016. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Zid\u00e9n L, Wenestam CG, Hansson-Scherman  M. A life-breaking  event: early experiences of the consequences of a hip fracture for elderly people. Clin Rehabil . 2008;22(9):801-811.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Stinnet KA. Occupational therapy intervention for the geriatric client receiving acute and subacute services following total hip replacement and femoral fracture repair. Top Geriatr Rehabil . 1996;12(1):23-31.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Wang X, Emery L. Cognitive status after hip replacement. Phys Occup Ther Geriatr . 2002;21(1):51-64.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Podsiadlo D, Richardson S. The timed \"Up & Go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc . 1991;39(2):142-148. doi:10.1111/j.1532-5415.1991.tb01616.x.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Hagsten B, Svensson O, Gardulf A. Health-related  quality of life and self-reported  ability concerning ADL and IADL after hip fracture: a randomized trial. Acta Orthop . 2006;77(1):114-119.  (RCT)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Latham NK, Mehta V, Nguyen AM. Performance-based  or self-report  measures of physical function: which should be used in clinical trials of hip fracture patients? Arch Phys Med Rehabil . 2008;89(11):2146-2155.  doi:10.1016/j.apmr.2008.04.016. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Edwards M, Baptiste S, Stratford PW, Law M. Recovery after hip fracture: what can we learn from the Canadian Occupational Performance Measure?. Am J Occup Ther . 2007;61(3):335-344.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Mulholland SJ, Wyss UP. Activities of daily living in non-Western  cultures: range of motion requirements for hip and knee joint implants. Int J Rehabil Res . 2001;24(3):191-198. doi:10.1097/00004356-200109000-00004.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Chin RP, Ng BH, Cheung LP. Factors predicting rehabilitation outcomes of elderly patients with hip fracture. Hong Kong Med J . 2008;14(3):209-215.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Jellesmark A, Herling SF, Egerod I, Beyer N. Fear of falling and changed functional ability following hip fracture among community-dwelling  elderly people: an explanatory sequential mixed method study. Disabil Rehabil . 2012;34(25):2124-2131.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Chudyk AM, Jutai JW, Petrella RJ, Speechley M. Systematic review of hip fracture rehabilitation practices in the elderly. Arch Phys Med Rehabil . 2009;90(2):246-262. doi:10.1016/j.apmr.2008.06.036. (M)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Di Monaco M, Vallero F, De Toma E, De Lauso L, Tappero R, Cavanna A. A single home visit by an occupational therapist reduces the risk of falling after hip fracture in elderly women: a quasi-randomized  controlled trial. J Rehabil Med . 2008;40(6):446-450.  (RCT)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Hershkovitz A, Pulatov I, Brill S, Beloosesky Y. Can hip-fractured  elderly patients maintain their new rehabilitation achievements after 1 year?. Disabil Rehabil . 2012;34(4):304-310.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Coole C, Edwards C, Brewin C, Drummond A. What do clinicians think about hip precautions following total hip replacement? Br J Occup Ther . July 2013;76(6):300-307.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "de Palma L, Torcianti M, Meco L, Catalani A, Marinelli M. Operative delay and mortality in elderly patients with hip fracture: an observational study. Eur J Orthop Surg Traumatol . July 2014;24(5):783-8.  doi:10.1007/s00590-013-1241-y.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Avenell A, Mak JC, O'Connell D. Vitamin D and vitamin D analogues for preventing fractures in post-menopausal  women and older men. Cochrane Database Syst Rev . April 14, 2014;(4):CD000227. doi:10.1002/14651858.CD000227.pub4.  (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Santesso N, Carrasco-Labra  A, Brignardello-Petersen  R. Hip protectors for preventing hip fractures in older people. Cochrane Database Syst Rev . March 31, 2014; (3):CD001255. doi:10.1002/14651858.CD001255.pub5.  (SR)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Ting B, Zurakowski D, Herder L, Wagner K, Appleton P, Rodriguez EK. Preinjury ambulatory status is associated with 1-year mortality following lateral compression Type I fractures in the geriatric population older than 80 years. J Trauma Acute Care Surg . May 2014;76(5):1306-9.  doi:10.1097/TA.0000000000000212. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Adam S, Godlwana L, Maleka D. Effect of pre-fracture  mobility on the early post-operative  functional outcome in elderly patients with a hip fracture. S Afr J Physiother . 2013;69(3):13-18.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Shyu YI, Liang J, Tseng MY, et al. Comprehensive and subacute care interventions improve health-related  quality of life for older patients after surgery for hip fracture: a randomised controlled trial. Int J Nurs Stud . August 2013;50(8):1013-24.  doi:10.1016/j.ijnurstu.2012.11.020. (RCT)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Leland NE, Gozalo P, Bynum J, Mor V, Christian TJ, Teno JM. What happens to patients when they fracture their hip during a skilled nursing facility stay? J Am Med Dir Assoc . 2015;16(9):767-774.  doi:10.1016/j.jamda.2015.03.026. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Sims-Gould  J, Byrne K, Hicks E, Franke T, Stolee P. When things are really complicated we call the social worker. Post-hip-fracture  care transitions for older people. Health Soc Work . 2015;40(4):257-2.  doi:10.1093/hsw/hlv069. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "LeBlanc KE, Munchie HL, Jr, LeBlanc LL. Hip fracture: Diagnosis, treatment, and secondary prevention. Am Fam Physcian . June 2014;15(12):945-51.  (GI)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Florschutz AV, Langford JR, Haidukewych GJ, Koval KJ. Femoral neck fractures: current management. J Orthop Trauma . 2015;29(3):121-129.  doi:10.1097/ BOT.0000000000000291. (GI)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Sheehan SE, Shyu JY, Weaver MJ, Sodickson AD, Khurana B. Proximal femoral fractures: what the orthopedic surgeon wants to know. Radiographics . 2015;35(5):1563-1584. doi:10.1148/rg.2015140301. (GI)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Carli AV, Poitras S, Clohisy JC, Beaul\u00e9 PE. Variation in use of postoperative precautions and equipment following total hip arthroplasty: a survey of the AAHKS and CAS membership. J Arthroplasty . 2018;33(10):3201-3205.  doi:10.1016/j.arth.2018.05.043. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Dietz MJ, Klein AE, Lindsey BA, et al. Posterior hip precautions do not impact early recovery in total hip arthroplasty: a multicenter, randomized, controlled study. J Arthroplasty . 2019;34(7S):S221-S227.e1.  doi:10.1016/j.arth.2019.02.057. (RCT)"
+        },
+        {
+            "number in article": 38,
+            "reference": "American Academy of Orthopedic Surgeons (AAOS). Management of hip fracture in the elderly: evidence-based  clinical practice guidelines. https://www.aaos.org/globalassets/quality-and-practice-resources/hip-fractures-in-the-elderly/hip-fractures-elderly-clinical-practice-guideline-4-24-19--2.pdf . Published 2014. (G)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Wantonoro W, Kuo WY, Shyu YL. Changes in health-related  quality of life for older persons with cognitive impairment after hip fracture surgery: a systematic review. J Nurs Res. 2020;28(3):e97. doi:10.1097/jnr.0000000000000371. (SR)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Bai J, Liang Y, Zhang P, et al. Association between postoperative delirium and mortality in elderly patients undergoing hip fractures surgery: a meta-analysis.  Osteoporos Int . 2020;31(2):317-326.  doi:10.1007/s00198-019-05172-7.  (M)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Smith T, Pelpola K, Ball M, Ong A, Myint PK. Pre-operative  indicators for mortality following hip fracture surgery: a systematic review and meta-analysis.  Age Ageing . 2014;43(4):464-471.  doi:10.1093/ageing/afu065. (M)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Riska BSL, Fors\u00e9n L, Omsland TK, S\u00f8gaard AJ, Meyer HE, Holvik K. Does the association of comorbidity with 1-year mortality after hip fracture differ according to gender? The Norwegian Epidemiologic Osteoporosis Studies (NOREPOS). J Am Geriatr Soc . 2018;66(3):553-558.  doi:10.1111/jgs.15207. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Copanitsanou P. Community rehabilitation interventions after hip fracture: Pragmatic evidence-based  practice recommendations. Int J Orthop Trauma Nurs . 2019;35:100712. doi:10.1016/j.ijotn.2019.100712. (G)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Nordstr\u00f6m P, Thorngren KG, Hommel A, Ziden L, Anttila S. Effects of geriatric team rehabilitation after hip fracture: meta-analysis  of randomized controlled trials. J Am Med Dir Assoc. 2018;19(10):840-845.  doi:10.1016/j.jamda.2018.05.008. (M)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Mukherjee K, Brooks SE, Barraco RD, et al. Elderly adults with isolated hip fractures-  orthogeriatric care versus standard care: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg . 2020;88(2):266-278.  doi:10.1097/TA.0000000000002482. (G)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Uruma M, Momosaki R, Chono M, et al. Effectiveness of acute in-hospital  occupational therapy for older patients with hip fracture. Geriatr Gerontol Int . 2019;19(7):611-615. doi:10.1111/ggi.13675. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Wong C, Fagan B, Leland NE. Occupational therapy practitioners' perspectives on occupation-based  interventions for clients with hip fracture. Am J Occup Ther . 2018;72(4):7204205050p1-7204205050p7.  doi:10.5014/ajot.2018.026492. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Henderson K. Rehabilitation following hip fracture; how data can drive service development and improvement.Chartered Society of Physiotherapy Conference & Trade Exhibition, Physiotherapy UK 2019, Nov 1, 2019-Nov  2, 2019. Physiotherapy . 2020;107:e128-e129.  doi:10.1016/j.physio.2020.03.186. (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Pol MC, Ter Riet G, van Hartingsveldt M, Kr\u00f6se B, Buurman BM. Effectiveness of sensor monitoring in a rehabilitation programme for older patients after hip fracture: a three-arm  stepped wedge randomised trial. Age Ageing . 2019;48(5):650-657.  doi:10.1093/ageing/afz074. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Lee SY, Jung SH, Lee SU, Ha YC, Lim JY. Is occupational therapy after hip fracture surgery effective in improving function? a systematic review and meta-analysis  of randomized controlled studies. Am J Phys Med Rehabil . 2019;98(4):292-298.  doi:10.1097/PHM.0000000000001069. (M)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Zusman EZ, Dawes MG, Edwards N, Ashe MC. A systematic review of evidence for older adults' sedentary behavior and physical activity after hip fracture. Clin Rehabil . 2018;32(5):679-691.  doi:10.1177/0269215517741665. (SR)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Lockwood KJ, Harding KE, Boyd JN, Taylor NF. Reasons for readmission to hospital after hip fracture: Implications for occupational therapy. Br J Occup Ther . 2018;81(5):247-254.  doi:10.1177/0308022618756000. (R)"
+        }
+    ]
+}

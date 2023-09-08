@@ -1,0 +1,228 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "whirlpool therapy, a focus on  hydrotherapy",
+            "aquatic therapy  a focus on whirlpool therapy",
+            "pool therapy: a focus on whirlpool therapy"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "aquatic therapy",
+            "musculoskeletal rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Types of whirlpools(1) \u2013Small whirlpools -These tanks are used to treat the hand or ankle/foot -Small whirlpools can generally be transferred (wheeled) to a different treatment area without difficulty \u2013Large whirlpools -Low-boy  tanks -Patients typically undergo whirlpool treatment in these tanks with the hips at 90\u00b0 and the knees extended -Patients are able to step in/out of the tank (with close supervision for safety) -High-boy  tanks -Treatment may entail the patient sitting in the tank (on a seat designed for the tank) or on a specialized chair adjacent to the tank with the leg submersed -Patients may be mechanically lifted in/out of these whirlpools -Burn tanks -Fabricated with the special needs of burn care in mind (e.g., tank may be seamless in an effort to minimize risk of infection) -Patients must be mechanically lifted in/out of these whirlpools -Hubbard tanks -The patient\u2019s entire body (with the exception of the head) is in the water -The tank is shaped similar to an hourglass in order to accommodate abduction of all 4 limbs while allowing the therapist to get close to the patient -Patients must be mechanically lifted in/out of these whirlpools",
+            "The degree of water agitation can be managed via the turbine.(1) The agitation creates the \u201cwhirlpool\u201d effect, which can provide benefits such as decreased muscle pain, improved circulation, and improved wound healing"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "code": "97022 whirlpool, 97036 Hubbard tank",
+            "description": ""
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "The clinician is advised to check with the patient\u2019s insurance carrier to obtain reimbursement information Indications for device/equipment"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "What is the nature of referral?",
+                "course of treatment": {
+                    "medical management": " Medical management What medical procedures, surgeries, and/or hospital stays has the patient had? If the patient has a wound, what type of dressing is being applied to the wound? Medical management will vary widely depending on underlying condition/reason for referral",
+                    "surgical management": [],
+                    "medications": "Determine what oral and/or topical medications clinician has prescribed; are they being taken/used as prescribed?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Diagnostic tests will vary depending on nature of condition"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Document any noted aggravating or easing factors",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if any",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) ",
+                "respiratory status": "Is there any history of respiratory compromise? Barriers to learning -Are there any barriers to learning? Yes___ No___ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? If the patient works, what are the job requirements?",
+                "functional limitations assistance with ADLs adaptive equipment": "Include limitations with self-care,  home management, work, and/or community leisure",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (caregivers, etc.). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Obtain circumferential or volumetric measurements of the treated extremity; the presence of mild edema post warm The effect of warm whirlpool treatment on circulation can be harmful to patients with vascular impairments;(4) see Contraindications/Precautions to device/equipment , above(4) -Ankle pumps (during lower-extremity  warm whirlpool treatment) were not effective in preventing edema -Elevating the treated extremity above the level of the heart (post whirlpool treatment) led to a significantly faster reduction in edema compared to no elevation",
+            "assistive and adaptive devices": "Does the patient require the use of any assistive or adaptive devices?",
+            "balance": "Complete a balance assessment in sitting and standing. Use objective measurements such as the Berg Balance Test or the Tinetti",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess the patient\u2019s circulation (e.g., capillary refill time, color/temperature of extremity)Observe general body mechanics throughout assessment",
+            "functional mobility": "Complete a full assessment of mobility; use standardized tests as indicated",
+            "gait locomotion": "Evaluate the patient\u2019s gait as indicated; note any atypical findingsAssess the integrity of any involved joints",
+            "muscle strength": "Complete a full strength assessment as indicated and appropriate",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Complete a general assessment of the patient\u2019s posture. Assess the patient\u2019s position while using the whirlpool",
+            "range of motion": "Complete a full active and passive ROM assessment as indicated and appropriate",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess reflexes bilaterally and compareAssess ADLs as indicated",
+            "sensory testing": "Complete a sensory assessment (e.g., light touch, temperature, proprioception) prior to initiating whirlpool therapy.(1) If sensation is diminished, whirlpool treatment should not be initiated ",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess cognition as indicated and appropriate",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "The clinician should take appropriate precautions to prevent falls (e.g., drying any water on the floor, using nonslip mats, closely supervising patients)(1)",
+                "Patients who need this intervention or those with a diagnosis for which this intervention is used may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Close supervision during whirlpool therapy is required, particularly with whole-body  immersion, as there is always the risk of drowning(1)",
+                "Also see Other considerations , below \u203aDiagnosis/need for device/equipment:  There are multiple indications for whirlpool therapy; please see Indications for device/equipment , above"
+            ],
+            "general": "There are multiple indications for whirlpool therapy; please see Indications for"
+        },
+        "diagnosis need for treatment": " treatment(9) \u2013Based on a study from the University of Wisconsin using a pretest-posttest design with repeated measures \u2013Involved 21 healthy subjects (20 subjects completed the study) \u2013Subjects were asked to participate in certain functional tasks prior to and after a cold whirlpool treatment; there were 4 functional tasks in total, and subjects participated in 1 per session \u2013Cold whirlpool treatment -Administered to both lower extremities from the knee joint down -Duration of 20 minutes -Water temperature was 50\u00b0F (10\u00b0C) \u2013Outcome measures -Anaerobic power \u2013 counter movement vertical jump (CMJ) test (peak power and average power were calculated via two equations based on data from the CMJ test) -Agility \u2013 a standard T-test -Speed during sprinting -AROM \u2013Results (comparing pretest to post-tests;  post-test  results were obtained every 5 minutes starting at 2 minutes \u2013 ending at 32 minutes) -On all post-tests,  results of the CMJ test were significantly lower; this included calculations of peak power and average power -Speed \u2013 time to complete test was significantly increased at 2, 7, 12, and 22 minutes -Agility \u2013 time to complete test was significantly increased at 2 and 7 minutes -AROM \u2013 dorsiflexion was significantly reduced at 7 and 12 minutes",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "Refer to other disciplines as indicated and appropriate",
+        "other considerations": [
+            "A patient with end-stage  renal disease (ESRD) was reported to sustain a significant hematoma (with bleeding) to his kidney after recreational whirlpool use; anticoagulation during the patient\u2019s hemodialysis treatment may have exacerbated the injury(8)",
+            "Athletic performance was reported to be impaired immediately following and up to 32 minutes after cold whirlpool"
+        ],
+        "treatment summary": [
+            "Whirlpool therapy may be more effective than paraffin therapy in reducing pain and improving function and quality of life in women with osteoarthritis (OA) of the hand(10) \u2013Based on an RCT from Istanbul of 58 women with OA of the hand who received 15 sessions of whirlpool or paraffin therapy \u2013Outcome measures included the V AS for pain, AUSCAN for osteoarthritis index, and SF-36  for quality of life \u2013Both groups had a significant improvement in pain, function, and quality of life, but the whirlpool therapy group had a significantly greater improvement ",
+            "Cold whirlpool may be an effective intervention for the treatment of DOMS involving the upper extremity(2) \u2013Based on an RCT at the University of Pittsburgh \u2013Fifty-six  healthy subjects \u2013Participants were randomized to one of the following groups: -Warm whirlpool \u2013 24 minutes total, 102.2\u00b0F (39\u00b0C) -Cold whirlpool \u2013 24 minutes total, 55.04\u00b0F (12.8\u00b0C) -Contrast baths \u2013 24 minutes total, warm bath at 102.2\u00b0F (39\u00b0C), cold bath at 55.04\u00b0F (12.8\u00b0C), alternating 3 minutes in warm and 1 minute in cold -Control group \u2013 no treatment \u2013Each participant received 4 treatment sessions (right after exercise, 24 hours later, 48 hours later, and 72 hours later) \u2013The investigators induced DOMS in the participants\u2019 upper extremity (elbow flexors) following a preset protocol \u2013Outcome measures included ROM values, the Graphic Pain Rating Scale (GPRS), and the subjects\u2019 maximal voluntary isometric contraction \u2013Results -Cold whirlpool and contrast baths were significantly more effective in reducing pain than the control condition and warm whirlpool -Cold whirlpool and contrast baths were significantly more effective in restoring resting elbow flexion than the control condition and warm whirlpool -Warm whirlpool was significantly more effective in restoring resting elbow flexion than the control condition",
+            "The authors of a systematic review investigating the various methods of cleansing pressure ulcers reported that the current body of evidence is lacking and further research is warranted in order for the most effective interventions to be identified. At this time, use of a whirlpool is not substantiated by the available evidence (1 small RCT) for pressure ulcer cleansing(11)",
+            "Whirlpool therapy for pressure ulcers may expedite healing(12) \u2013Based on a 1998 pilot RCT from Harvard Medical School \u2013There were 18 participants with a total of 42 pressure ulcers (which appeared to be free from infection) \u2013All participants were inpatients and had a grade III or IV pressure ulcer \u2013Wounds were randomized to one of two groups (therefore one patient could be receiving whirlpool intervention for one wound and conservative management for another) -Control group \u2013 conservative wound management -Wound irrigation with normal saline; dressings placed in the wound were soaked with normal saline; dressings were saturated with saline again prior to removal -Wound care took place 2x per day and upon soiling -As indicated, patients had an air mattress and used appropriate pressure-relieving  devices when out of bed (e.g., ROHO cushion) -Positioning schedules were also used as indicated -Intervention group -Whirlpool therapy in addition to conservative management listed above -Water temperature was 96\u00b0 to 98\u00b0 F (35.6\u00b0 to 36.7\u00b0C) -Whirlpool took place 1x/day for 20 minutes \u2013Results -The intervention group experienced significantly faster wound healing than the control group (measured by wound size)",
+            "Whirlpool treatment can be used for mechanical debridement for pressure ulcers(15)",
+            "Patients recovering from abdominal surgery who received whirlpool therapy were reported to experience less pain and inflammation (around the wound) than those who did not participate in whirlpool therapy(5) \u2013Based on a nonrandomized controlled trial \u2013Study involved 63 patients from 2 different U.S. hospitals \u2013Participants in the study all underwent major abdominal surgery; all were on morphine postoperatively -Thirty-two  patients received whirlpool therapy for pain management (in addition to morphine) -Two times per day for 15 minutes a session -Intervention began 6 hours after surgery and lasted for a minimum of 3 days -Temperature was 96\u00b0 to 98\u00b0 F (35.6\u00b0 to 36.7\u00b0C) -Patients were immersed in the water from the nipple line down  -Thirty-one  patients did not receive whirlpool therapy (only morphine)",
+            "Whirlpool therapy is an effective treatment for patients who have complex regional pain syndrome (CRPS)(13) \u2013Based on an RCT from the University of Turkey \u2013Study included 60 patients with hand and wrist pain for type I CRPS \u2013Patients were randomized into two groups: Group 1 received 15 sessions (5 days per week for 3 weeks) of underwater ultrasound therapy, whirlpool bath, and exercise therapy. Group 2 received 15 sessions (5 days per week for 3 weeks) of underwater ultrasound therapy, neuromuscular electrical stimulation [NMES], and exercise therapy -Ultrasound treatment for both groups placed the probe 1\u20132.5cm  away from the hand or wrist with intensity setting of 1.5 W/cm2 for 5 minutes -A Chiron extremity caldron was used for the whirlpool bath with temperature setting at 40o C. Patients placed their hand and wrist in the caldron for 30 minutes -NMES was applied to the flexor muscle group for 20 minutes and extensor muscle groups for 20 minutes with a frequency of 30 Hz with pulse duration of 300ms \u2013Results from this study showed that both whirlpool treatment and NMES treatments are effective in decreasing pain levels for patients with type I CRPS; however, further improvements were seen in those receiving whirlpool treatment as compared to NMES treatments",
+            "Whole-body  whirlpool therapy is an effective treatment to reduce pain and anxiety in patients with chronic myofascial pain syndrome (MPS)(14) \u2013Based on an RCT conducted in South Korea \u2013Study included 41 patients with MPS in the upper trapezius muscle \u2013Pain via V AS was the primary outcome measure; however, secondary outcome measures included the Beck Anxiety Inventory and WHO Quality of Life (WHOQOL) \u2013Patients were randomly assigned to either the whirlpool therapy group or hot pack group -Patients in the whirlpool group had their whole body immersed up to the neck with temperatures at 32oC\u201336oC for 30 minutes -Patients in the hot pack group had hot hydrocollator packs with up to four or five layers of towels placed on their upper trapezius muscle group for 30 minutes \u2013A total of 6 sessions (3x a week for 2 weeks) \u2013Results showed that both groups had a reduction in overall pain, but those in the whirlpool treatment group had significantly less pain compared to those receiving only hotpack treatment \u203aSee Description , Indications of device/equipment , and Guidelines for use of device/equipment , above . Problem Goal Intervention Expected Progression Home Program DOMS(2) _ _ Muscle spasm(2) _ _ Pain(2)Relieve DOMS, muscle spasm, and/or painWhirlpool therapy _ Please see Treatment summary , above _ _ Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physicianN/A Develop and implement a home program, as appropriate and indicated, that supports therapeutic goals  Edema(2) Reduce edema Whirlpool therapy (cold whirlpool) _ Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physicianN/A Develop and implement a home program, as appropriate and indicated, that supports therapeutic goals Soft tissue contracture and decreased joint ROMIncrease soft tissue mobility and joint ROMWhirlpool therapy _ Utilize warm whirlpool either simultaneously or prior to stretching of soft tissue(1) _ Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physicianN/A Develop and implement a home program, as appropriate and indicated, that supports therapeutic goals Wound care (e.g., increase circulation to area, mechanical debridement)(1)Facilitate wound healingWhirlpool therapy _ Please see Treatment summary , above _ _ Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physicianN/A Develop and implement a home program, as appropriate and indicated, that supports therapeutic goals Support therapeutic exercise(1)Patient tolerance and completion of exercise program; water can also be used to make the exercises more challenging if desired(1)Whirlpool therapy _ Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physicianProgress each unique patient as appropriate and indicatedDevelop and implement a home program, as appropriate and indicated, that supports therapeutic goals Impaired safety in whirlpool environment (e.g., inability to independently get out of whirlpool)Maintain the patient\u2019s safety at all timesSafety strategies _ Proper staff present during aquatic intervention _ _ Equipment (as indicated) to assist in aiding the patient out of the pool _ _ Constant supervision during therapyN/A N/A  ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "relieve doms, muscle spasm, and or pain": [
+            "V AS, manual muscle test"
+        ],
+        "reduce edema": [
+            "V olumetric measurement, goniometric measurement"
+        ],
+        "facilitate wound healing": [
+            "Patient tolerance and completion of exercise program; water can also be used to make exercises more challenging ifdesired(1)"
+        ],
+        "maintain the patient\u2019s safety at all times": []
+    },
+    "maintenance or prevention": [
+        "The patient is advised to follow his or her home exercise program and follow up with his or her physician as indicated",
+        "Prevention should always include a risk assessment by identifying risk factors and performing skin inspections(15)"
+    ],
+    "patient education": [
+        "\u201cWhirlpool Use in Physical Therapy\u201d https://www.verywellhealth.com/whirlpool-use-in-physical-therapy-2696642 Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on February 14, 2017 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bukowski EL, Nolan TP, Jr. Hydrotherapy: the use of water as a therapeutic agent. In: Bellew JW, Michlovitz SL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:135-163.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Kuligowski LA, Lephart SM, Giannantonio FP, Blanc RO. Effect of whirlpool therapy on the signs and symptoms of delayed-onset  muscle soreness. J Athl Train . 1998;33(3):222-228.  (RCT)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Merrick MA. Therapeutic modalities as an adjunct to rehabilitation. In: Andrews JR, Harrelson GL, Wilk KE, eds. Physical Rehabilitation of the Injured Athlete . 4th ed. Philadelphia, PA: Saunders; 2012:104-142.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Ogiwara S. Calf muscle pumping and rest positions during and/or after whirlpool therapy. J Phys Ther Sci . 2001;13(2):99-105.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Juv\u00e8 Meeker B. Whirlpool therapy on postoperative pain and surgical wound healing: an exploration. Patient Educ Couns . 1998;33(1):39-48.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kazakova SV, Hageman JC, Matava M, et al. A clone of methicillin-resistant  Staphylococcus aureus among professional football players. N Engl J Med . 2005;352(5):468-475. (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Diaz SW, Roper LD, Back MR. Atypical color Doppler findings related to remote lower-extremity  traumatic injury. J Vasc Ultrasound . 2005;29(2):93-95.  (C)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Liefeldt L, Destanis P, Rupp K, Morgera S, Neumayer HH. The hazards of whirlpooling. Lancet. 2003;361(9356):534. (C)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Patterson SM, Udermann BE, Doberstein ST, Reineke DM. The effects of cold whirlpool on power, speed, agility, and range of motion. J Sports Sci Med . 2008;7(3):387-394. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "U\u00e7ar D, Paker N, Bu#dayci DS, Yal\u00e7inkaya EY. Comparison of the efficacy of whirlpool and paraffin treatments in women with symptomatic hand osteoarthritis. Turkiye Fiziksel Tip ve Rehabilitasyon Dergisi . 2011;57(3):124-127.  (RCT)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Moore Z, Cowman S. A systematic review of wound cleansing for pressure ulcers. J Clin Nurs . 2008;17(15):1963-1972.  (SR)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Burke DT, Ho CH, Saucier MA, Stewart G. Effects of hydrotherapy on pressure ulcer healing. Am J Phys Med Rehabil . 1998;77(5):394-398.  (RCT)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Devrimsel G, Turkyilmaz AK, Yildirim M, Beyazal MS. The effects of whirlpool bath and neuromuscular electrical stimulation on complex regional pain syndrome. J Phys Ther Sci. 2015;27(1):27-30.  doi:10.1589/jpts.27.27. (RCT)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Im SH, Han EY. Improvement in anxiety and pain after whole body whirlpool hydrotherapy among patients with myofascial pain syndrome. Ann Rehabil Med . 2013;37(4):534-540.  doi:10.5535/arm.2013.37.4.534. (RCT)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Bluestein D, Javaheri A. Pressure ulcers: Prevention, evaluation, and management. Am Fam Physician . 2008;78(10):1186-1194.   (GI) "
+        }
+    ]
+}

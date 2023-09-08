@@ -1,0 +1,380 @@
+{
+    "metadata": {
+        "title": "Herniated Disc",
+        "synonyms": [
+            "disc, herniated",
+            "herniated nucleus pulposus",
+            "slipped disc",
+            "ruptured disc",
+            " nucleus pulposus, herniated",
+            "hnp",
+            "disc, slipped",
+            "disc, ruptured",
+            "prolapsed disc",
+            "disc, prolapsed",
+            "intervertebral disc displacement",
+            "disc displacement, lumbar radiculopathy"
+        ],
+        "anatomical location body part affected": [
+            "The lumbar spine including intervertebral discs"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "neurological rehabilitation",
+            "sports rehabilitation",
+            "aquatic therapy"
+        ],
+        "description": [
+            "Lumbar disc herniation is an injury or weakness of the inner portion of a disc in the lower spine area. This causes it to slip and protrude, pressing on spinal nerves and causing pain(1,2,7)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M50": {
+                "base": "cervical disc disorders",
+                "M50.0": "cervical disc disorder with myelopathy",
+                "M50.1": "cervical disc disorder with radiculopathy",
+                "M50.2": "other cervical disc displacement",
+                "M50.8": "other cervical disc disorders",
+                "M50.9": "cervical disc disorder, unspecified"
+            },
+            "M51": {
+                "base": "other intervertebral disc disorders",
+                "M51.0": "lumbar and other intervertebral disc disorders with myelopathy",
+                "M51.2": "other specified intervertebral disc displacement",
+                "M51.3": "other specified intervertebral disc degeneration",
+                "M51.4": "Schmorl's nodes",
+                "M51.8": "other specified intervertebral disc disorders",
+                "M51.9": "intervertebral disc disorder, unspecified"
+            },
+            "M96.1": "postlaminectomy syndrome, not elsewhere classified ICD codes are provided for the reader\u2019s reference, not for billing purposes"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement will depend on the patient\u2019s insurance. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Approximately 30\u201340%  of persons with lumbar disc herniation are asymptomatic(3)",
+            "Signs and symptoms include:(2,4) \u2013lower back pain \u2013neck pain \u2013pain in buttocks that may travel down thigh and calf \u2013numbness or tingling in lower extremities \u2013Leg weakness causing unstable gait \u2013inability to lift arms or hold items  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Patients in extreme pain that cannot be lessened by movement or changes in position need to be evaluated by a physician prior to initiation of therapy to rule out more serious pathology",
+            "Caution should be used during the evaluation to prevent exacerbation of symptoms. Additionally, any movement or other evaluation that causes pain that is centralized to peripheralized should be stopped immediately",
+            "Refer to physician if symptoms and clinical findings suggest myelopathy (i.e., clumsiness of upper or lower limbs, bilateral lower extremity weakness, urinary urgency, frequent falls, hyperreflexia, positive Babinski test)",
+            "Children and adolescents who report low back pain may have an underlying medical condition needing a referral to a physician"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes pathogenesis": [
+            "Lumbar disc herniation occurs when tissue between vertebrae protrudes into the spinal canal, causing pressure on a spinalnerve(3,4,5)",
+            "Lumbar disc herniation is commonly a result of degeneration. With aging, discs are more prone to tear or rupture with aminor twist or strain to low back area (2,4,5)",
+            "Approximately 90% of lumbar disc herniations occur at L4-L5  and L5-S1  (3,4,6)"
+        ],
+        "risk factors  deyo, sommers": [
+            "Risk factors for lumbar disc herniation in pediatric patients include:\u2013participation in contact sports\u2013genetics\u2013scoliosis\u2013physical trauma, such as a motor vehicle accident",
+            "Risk factors for lumbar disc herniation in adult patients include:\u2013excess body weight\u2013jobs with repetitive lifting, bending, pulling, and twisting at waist\u2013genetics\u2013tobacco/nicotine use"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Lumbar disc herniation can cut off nerve impulses to lower back and legs, causing loss of bladder and bowel control. This is known as cauda equina syndrome and it may require emergency surgery (2)",
+        "Loss of sensation in inner thighs, back of legs, and around rectum is a long-term complication of lumbar disc herniation known as saddle anesthesia(2)",
+        "When using manipulation or mobilization, care should be taken to do a complete neurological examination as well as to rule out fracture, spondylolysis/listhesis, or other pathologies for which manipulation is contraindicated. Manipulation/ mobilization techniques should be performed only by skilled clinicians; if performed incorrectly, joint trauma or hypermobility may occur",
+        "Caution should be used during the evaluation to prevent exacerbation of symptoms. Additionally, any movement or other evaluation that causes pain to peripheralize should be stopped",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Patients in extreme pain that cannot be lessened by movement or changes in position need to be evaluated by a physician prior to initiation of therapy to rule out more serious pathology",
+            "Caution should be used during the evaluation to prevent exacerbation of symptoms. Additionally, any movement or other evaluation that causes pain that is centralized to peripheralized should be stopped immediately",
+            "Refer to physician if symptoms and clinical findings suggest myelopathy (i.e., clumsiness of upper or lower limbs, bilateral lower extremity weakness, urinary urgency, frequent falls, hyperreflexia, positive Babinski test)",
+            "Children and adolescents who report low back pain may have an underlying medical condition needing a referral to a physician"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -When and how did symptoms begin? -Insidious onset vs. traumatic event? -What is the 24-hour  pattern of pain? -Damage to the disc may be associated with repetitive, prolonged flexion of the spine as well as extended postures (e.g., prolonged sitting)  -What positions/activities are aggravating? Alleviating?",
+                "course of treatment": {
+                    "medical management": " Medical management Initial treatment guidelines for lumbar disc herniation commonly are conservative. Most patients respond to conservative treatment and surgical intervention is usually not necessary. Surgical treatment is recommended only if symptoms have not subsided in 46 weeks or pain becomes increasingly worse and debilitating When there is a poor response to conservative treatment and patient continues to have mildtomoderate pain, an epidural steroid injection might be considered, especially for radicular pain (1,6) Common surgical procedures for a lumbar disc herniation include discectomy, microdiscectomy, laminectomy, and spinal fusion (1,2,4)",
+                    "surgical management": [],
+                    "medications": " Medications for current illness/injury Analgesics (acetaminophen, opioids(6) NSAIDs to help reduce pain and inflammation in the acute phase of disc herniation(6)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  X-ray,  MRI, CT scan, discogram, myelogram, EMG (electromyogram), NCS (nerve conduction studies). CT scan or MRI is best for diagnosing a disc herniation(1,2)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased) -What specific movements, positions, or tasks increase or decrease symptoms? -Inquire about the presence of increased symptoms with sit-to-stand, coughing, sneezing, or carrying objects -Pain may also increase gradually after prolonged periods of sitting or standing",
+                "body chart": " Body chart -Use body chart to document location and nature of symptoms. The disc is aneural, so not all herniations produce symptoms. However, compression of a nerve root can elicit symptoms along the nerve root distribution. Symptoms can also occur from the disc protruding onto ligaments, dura mater, and blood vessels -With a lumbar herniated disc, the patient may complain of severe midline back pain that spreads across the back into the buttock and thigh. Large protrusions may cause signs of spinal cord injury (bladder dysfunction, saddle anesthesia) -In the thoracic region, symptoms may be centralized or wrap around the ribcage -Pain may be noted up to three segments above and below the herniation due to innervation patterns of the afferent nerves. Muscle guarding may be noted over multiple segmental levels",
+                "nature of symptoms": " Nature of symptoms -What symptoms are being experienced? -What symptoms were experienced initially? -Is pain localized or generalized? -Description of pain (burning, aching, stabbing)? -Extremity weakness? -Have there been any occurrences of paresis of any extremities? -Is the patient experiencing any paresthesias; if so, in what areas? -Is the patient experiencing any saddle paresthesia or numbness? -Bowel/bladder difficulty?",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables. Inquire about changes in symptoms throughout the day and night",
+                "sleep disturbance": "Document number of wakings per night. Inquire about sleep position and if patient finds a position that is without pain",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)  Barriers to learning -Are there any barriers to learning? Yes __ No __ -If Yes, describe ____________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Other current or previous spinal disorders? Any neuromuscular disorder? Any other pertinent medical history?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient\u2019s job involve prolonged postures in sitting or standing, heavy lifting, or repetitive motion?",
+                "functional limitations assistance with ADLs adaptive equipment": "Inquire about limitations in ADLs -What activities is the patient having difficulty with? -Gait or other functional deficits?",
+                "living environment": "Inquire about stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "May want to consider height and weight measurements, if pertinent. May also want to assess for a leg-length  discrepancy if a lumbar herniated disc is suspected",
+            "assistive and adaptive devices": "Assess for need, appropriate fit, appropriate use. May require cane or walker if in severe pain, especially lower extremity radicular pain",
+            "balance": "Assess balance statically and dynamically. Decreased balance, difficulty turning, increased base of support, and other deficits are not typically observed. Pain accompanied by trunk co-contraction  might affect balance. If present, symptoms may be associated with a cervical myelopathy, and the patient should be referred back to the referring physician",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Although they typically are normal, assessment of the distal pulses (e.g., radial artery, tibial artery, dorsalis pedis artery) may be appropriate if vascular claudication is suspectedSee Special tests specific to diagnosis , below Ergonomics/body mechanics \u2013Assess for appropriate lifting technique (depending on severity), transfer technique (i.e., log rolling sit to supine and vice versa) \u2013For additional information on ergonomics, see  Clinical Review ... Ergonomics Assessment and Intervention  ; CINAHLT708456 Functional mobility  (including transfers, etc.) \u2013Oswestry Disability Index \u2013FIM \u2013SF-36",
+            "functional mobility": "",
+            "gait locomotion": "Assess for the presence of antalgia or abnormalities due to pain or weakness and determine if there is a need for an assistive deviceConsider the possibility of nonspinal causes of pain, even in patients who present with a specific diagnosis of disc herniation \u2013Assess lumbar and thoracic passive accessory intervertebral movements (PAIVMs). Identify each segment as hypermobile, hypomobile, or normal \u2013Assess sacroiliac (SI) and hip joints",
+            "muscle strength": " Muscle strength \u2013Manual muscle test trunk and extremities. Patient may have myotomal weakness \u2013To check the lower extremity myotomes (lumbar herniation)  -Hip flexion (L1-L2) -Knee extension (L3-4) -Ankle dorsiflexion (L4-5) -First toe extension (L5) -Ankle plantarflexion (S1-2)",
+            "observation inspection palpation including skin assessment": [
+                "Assess for the presence of -vertebral hyper-  or hypomobility -spondylolisthesis/lysis -muscle spasm"
+            ],
+            "posture": " Posture \u2013Assess in standing/sitting for -abnormal lordosis -inappropriate pelvic tilt -decreased lumbar lordosis -lateral shifting -forward head posture -internally rotated shoulders -kyphosis -scoliosis -height symmetry of joints and anatomical landmarks",
+            "range of motion": "Assess trunk and extremity flexibility; determine if muscular tightness or pain restricts trunk ROM. Assess cautiously within the patient\u2019s pain tolerance. Note Gowers\u2019 sign if present",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess for neurological abnormality. Patient may have hyporeflexia if there is peripheral nerve impingement and hyperreflexia if there is spinal cord impingement \u2013To check the lower extremity reflexes (lumbar herniation) -Patellar (L3-4) -Achilles (S1)Assess safety and ability during performance of work duties and leisure activities \u2013The Oswestry Disability Index may be used to assess disability during daily living activities",
+            "sensory testing": " Sensory testing \u2013Sensation testing should include light touch, deep pressure, temperature, two-point  discrimination, and any other sensation testing deemed relevant based on the patient\u2019s history \u2013To check the lower extremity dermatomes (lumbar herniation) -Inguinal area (L1) -Proximal anterior thigh (L2) -Distal anterior thigh (L3) -Medial lower leg (L4) -Lateral lower leg (L5) -Posterior calf (S1)",
+            "special tests specific to diagnosis": "Assess cautiously and within the patient\u2019s pain tolerance \u2013Straight leg raise (SLR) test(8) -While the patient is supine and both knees are straight, the symptomatic leg is slowly raised (hip flexion) while maintaining knee extension until symptoms are experienced -The leg is then lowered until symptoms subside -If symptoms return when the ankle is dorsiflexed, the test is positive \u2013Slump test(8) -This test is a series of steps that are continued unless symptoms arise -While sitting on the edge of an examination table, the patient slowly slumps forward while keeping the head in neutral -The patient then slowly flexes the neck and the examiner holds the patient in this position -The knee is then slowly extended  -If there are still no symptoms present, the ankle is dorsiflexed by examiner -A positive test is the reproduction of symptoms with any of the steps, which are then alleviated with cervical extension",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "centralization of pain does not occur with changes in position or with movement",
+                "saddle anesthesia or bladder dysfunction is present (indicative of spinal cord involvement or cauda equina syndrome)",
+                "the patient is in extreme pain",
+                "the medical condition contraindicates the maneuver during treatment (e.g., spinal stenosis, spondylolisthesis)",
+                "extension relieves symptoms",
+                "flexion increases pain",
+                "osteoporosis is present",
+                "Acute cervical trauma, including whiplash-associated  disorders",
+                "Osteoporosis or osteopenia",
+                "Use of steroids or other medications that tend to compromise bone integrity",
+                "Rheumatologic disorders affecting connective tissue, including rheumatoid arthritis and ankylosing spondylitis",
+                "Joint hypermobility/instability",
+                "Pregnancy",
+                "Prior surgical stabilization or decompression",
+                "Spinal implants/prosthetic discs",
+                "Nonmechanical pain",
+                "Claustrophobia",
+                "Patients with COPD or other respiratory disorders",
+                "Raynaud\u2019s syndrome",
+                "Over an area of circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Cold intolerance",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Avoid applying cold over superficial nerves",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "With individuals with poor cognition",
+                "In the very young or very old",
+                "Persons with aversion to cold",
+                "Application over areas with a lack of intact thermal sensation",
+                "Application over areas of vascular insufficiency or vascular disease ",
+                "Application over areas of recent hemorrhage or potential hemorrhage",
+                "Application over areas of known malignancy",
+                "Application over areas of acute inflammation",
+                "Application over infected areas where infection may spread or cross-contamination  may occur",
+                "Application over areas where liniments or heat rubs have recently been applied",
+                "Application in any situation deemed unreliable by the practitioner",
+                "Electrodes should not be placed over: -the trunk or heart region in patients with demand-type  pacemakers or implantable cardioverter defibrillators -the pelvic, abdominal, lumbar, or hip region in pregnant women -carotid bodies -phrenic nerve or urinary bladder stimulators -areas of known peripheral vascular disease, including arterial or venous thrombosis or thrombophlebitis -the phrenic nerve, eyes, or gonads -areas of active osteomyelitis -areas of hemorrhage",
+                "Electrotherapy should be used with caution -in patients without intact sensation -in patients who are unable to communicate -in patients with compromised mental status -in patients with cardiac dysfunction -in patients with epilepsy",
+                "Electrodes should not be placed -over neoplasms -over compromised skin -over tissues vulnerable to hemorrhage or hematoma -over the cervical or craniofacial region",
+                "Pregnancy\u2014over the abdomen or low back",
+                "Active bone growth at the epiphysis",
+                "Cancer\u2014over a known or suspected area of malignancy",
+                "Tuberculosis infection\u2014infected tissue",
+                "Hemorrhagic conditions",
+                "Impaired circulation",
+                "Pregnancy  over the abdomen or low back",
+                "Cancer  over a known or suspected area of malignancy",
+                "Hemorrhagic conditions",
+                "Active bone growth at the epiphysis",
+                "Areas of infection",
+                "Acute injury",
+                "Impaired sensation",
+                "Impaired cognition or communication",
+                "Impaired circulation",
+                "Skin disease, including damaged and at-risk  skin",
+                "Plastic or cemented implants",
+                "Spinal cord and superficial or regenerating nerves ",
+                "Direct eye exposure",
+                "Pregnancy",
+                "Active malignancy",
+                "Active hemorrhage",
+                "Open growth plates",
+                "Endocrine system disorders",
+                "Impaired sensation",
+                "Indirect eye exposure",
+                "Bowel or bladder incontinence",
+                "Tracheostomy",
+                "Infectious diseases",
+                "Cardiovascular problems",
+                "Uncontrolled seizures",
+                "Respiratory compromise, vital capacity less than 1L",
+                "Aspiration risk",
+                "Catheters",
+                "Cognitive impairments",
+                "Tetraplegia or high paraplegia",
+                "Open wounds",
+                "Dry skin or skin rashes"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "When using manipulation or mobilization, care should be taken to do a complete neurological examination as well as to rule out fracture, spondylolysis/listhesis, or other pathologies (e.g., Marfan syndrome, rheumatoid arthritis) for which manipulation is contraindicated. Manipulation/mobilization techniques should be performed by skilled clinicians only",
+                "Avoid spinal extension if",
+                "Avoid flexion of spine when",
+                "Traction contraindications(9)",
+                "Traction precautions(9)",
+                "Cryotherapy contraindications  (10)",
+                "Cryotherapy precautions  (10)",
+                "Thermotherapy contraindications  (10)",
+                "Electrotherapy contraindications  (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(10)",
+                "Precautions  for electrotherapy",
+                "Therapeutic ultrasound  contraindications for continuous US(10)",
+                "Therapeutic ultrasound contraindications for pulsed US(10)",
+                "Therapeutic ultrasound precautions for pulsed US(10)",
+                "Low-level  laser therapy contraindications(10)",
+                "Low-level  laser therapy precautions(10)",
+                "Aquatic therapy contraindications(10)",
+                "Aquatic therapy precautions(10)"
+            ]
+        },
+        "diagnosis need for treatment": "Treatment is required if there is pain, weakness, decreased ROM/flexibility, decreased function, poor posture, and/or faulty body mechanics. Physical therapy may also be indicated after interventions for disc herniation such as microdiscectomy, percutaneous discectomy, open discectomy, fusion, or intradiscal electrothermal therapy Based on a 2015 systematic literature review and longitudinal study, recurrent back pain after discectomy for herniated disc was present in 15\u201325%  of patients at the 2-year  follow-up(12)",
+        "rule out": " Rule out Sacroiliac joint pain Zygapophyseal joint pain Discogenic pain Piriformis syndrome Spondylolisthesis Lumbosacral plexopathy Lumbar spinal stenosis Cervical myelopathy Shoulder pathology Hip pathology",
+        "prognosis": [
+            "Based on the results of a 2015 systematic review of spontaneous disc regression and type of lumbar herniated disc, the authors concluded that patients with disc sequestration(96%) and disc extrusion (70%) had a higher possibility of spontaneous regression than patients with protruding discs (40%) or bulging discs (13%)(13)",
+            "Researchers in Austria followed up 12 years later on the effects of postoperative physical therapy (PT), started one week after lumbar disc surgery, and found that patients who participated in PT had greater long-term  health benefits than those with no intervention, but their results were not better when compared to patients who participated in sham PT(14) \u2013Based on an RCT involving 111 patients following first-time,  uncomplicated lumbar disc surgery \u2013PT was 20 treatment sessions over a 12-week  period that was customized by physician and physical therapist; sham PT consisted of 20 sessions of neck massage, and the control group was told to \u201cwait and see\u201d for the first 3 months \u2013Outcome measure was changes in ratings on the Low Back Pain Rating Scale "
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physical therapist trained in manual therapy for graded joint mobilization (high velocity, low amplitude thrust) Psychiatry, psychology, occupational therapy, or social services for depression-related  issues",
+        "other considerations": [],
+        "treatment summary": [
+            "A prescribed physical therapy program will include(11,15) \u2013deep tissue massage \u2013hot and cold therapy \u2013electrical stimulation \u2013core-stabilizing  exercises \u2013stretching and flexibility exercises \u2013hydrotherapy \u2013traction \u2013spinal manipulation, such as oblique-pulling  manipulation",
+            "Authors of a 2014 Cochrane Review of rehabilitation after surgery for herniation of the lumbar disc that included 22 RCTs and 2,503 patients concluded that(15) \u2013patients in exercise programs started 4\u20136 weeks post-surgery  reported slightly less pain and disability than those who received no treatment \u2013patients who participated in high-intensity  exercise programs reported slightly less pain and disability than those who participated in low-intensity  exercise programs \u2013the authors suggested that no firm conclusions could be drawn due to the low quality of evidence",
+            "Vertebral resonant oscillation using the POLD technique may be an effective manual therapy approach for reducing the severity and radiation of pain in patients with lumbar disc hernia with sciatica(16) \u2013Based on an RCT conducted in Spain on 30 patients \u2013The control group received microwave thermotherapy, TENS, and ultrasound treatment and did self-directed  muscle stretching. The intervention group received vertebral resonant oscillation using the POLD technique. Both groups received a total of nine sessions \u2013When compared to the control group, patients in the intervention group were found to have -significant improvements in forward flexion -a significant reduction in the severity of pain (V AS scale) -a significant reduction in pain extension (centralization phenomena) . Problem Goal Intervention Expected Progression Home Program  Back/neck pain, muscle guardingDecrease pain and muscle guardingPrescription, application of devices and equipment _ Bracing if needed _ _ Electrotherapeutic modalities _ TENS to decrease back pain and spasm _ _ Physical agents and mechanical modalities _ Cryotherapy for pain relief. Moist heat and massage _ _ Manual therapy _ Spinal mobilization for pain relief; massage therapy may also be of benefit. _ Vertebral resonant oscillation using the POLD technique(16)N/A Patient education in avoiding activities and movements that peripheralize symptoms. Also instruct patient in use of heat/cold to decrease pain _ Postural exercises to decrease stress on tissue  Radicular symptoms Centralize disc herniation symptomsPhysical agents and mechanical modalities _ Intermittent lumbar traction may have some benefit in patients with herniated disc injuries when placed in a 90/90 position _ _ Manual therapy _ Joint mobilization techniques that decrease compression on the nerve roots on the side of the body experiencing symptoms. _ Manual neural gliding to increase peripheral nerve mobility _ Vertebral resonant oscillation using the POLD technique(16)Therapeutic exercises _ Lumbar extension (McKenzie method) focuses on exercises and manual techniques that centralize pain, using the presence of symptoms to determine which direction of movement to emphasize. Therapeutic exercises emphasizing neutral spineHome exercise program involving self neural gliding of the involved peripheral nerves Decreased ROM Increase ROM to prior level of functionManual therapy _ Manual stretching of tight muscles. _ Vertebral resonant oscillation using the POLD technique(16) _ _ Therapeutic exercises _ Pain-free stretching of trunk and extremities _ _ Aquatic therapy _ Can begin with floatation for lumbar traction and progress to walking and extremity movements to enable exercising without disc compressionWhen symptoms have subsided, should be able to progress to strengthening exercises and functional activitiesInstruct patient in a self-stretching program  Decreased strength Increase strength to prior level of functionTherapeutic exercise _ Lumbar stabilization exercises in 4 stages (exercises are carried over from one week to the next and performed 3x/week): week 1: Cat and camel in quadruped, supine heel slides. Week 2: Bridging, bridging with straight leg raise. Week 3: Prone upper extremity extension, prone lower extremity extension, quadruped alternating arm and leg. Week 4: Prone over ball with upper extremity extension, standing forward lungeContinue progressing core and hip strength while incorporating more dynamic stability exercisesProvide a home exercise program appropriate for the"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes with associated outcome measures": [
+            "Decreased pain and muscle guarding\u2013V AS",
+            "Centralized disc herniation symptoms\u2013Sensory testing",
+            "Increased ROM to prior level of function\u2013Goniometry",
+            "Increased strength to prior level of function\u2013Manual muscle and myotomal testing",
+            "Improved posture and body mechanics\u2013Posture assessment",
+            "Improved gait/function\u2013Gait assessment, functional testing (Oswestry Disability Index, FIM, SF-36)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Appropriate body mechanics during lifting and other strenuous activity",
+        "Home exercise program with concentration on trunk/core strengthening",
+        "Neutral sitting posture and appropriate work ergonomics"
+    ],
+    "patient education": [
+        "See \u201cHerniated Disc\u201d from the American Association of Neurological Surgeons, http://www.1.org/en/Patient %20Information/Conditions%20and%20Treatments/Herniated%20Disc.aspx",
+        "See \u201cHerniated Disc\u201d from MedlinePlus, website of U.S. National Library of Medicine and National Institutes of Health, https://medlineplus.gov/ency/article/000442.htm",
+        "See \u201cHerniated Disk,\u201d Mayo Clinic website, http://www.mayoclinic.org/diseases-conditions/herniated-disk/basics/definition/con-20029957 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "American Association of Neurological Surgeons. Herniated disc. https://www.1.org/Patients/Neurosurgical-Conditions-and-Treatments/Herniated-Disc . Published January 2019. (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Deyo RA, Mirza SK. Herniated lumbar intervertebral disk. The New England Journal of Medicine . 2016;374(18):1763-1772.  doi:10.1056/NEJMcp1512658. (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Cunha C, Silva AJ, Pereira P, Vaz R, Gon\u00e7alves RM, Barbosa MA. The inflammatory response in the regression of lumbar disc herniation. Arthritis Res Ther . 2018;20(1):251. doi:10.1186/s13075-018-1743-4.  (SR)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Sommers MS. Herniated disk. In: Davis\u2019s Diseases and Disorders: A Nursing Therapeutics Manual . 6th ed. : FA Davis Company; 2019:501-505.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Fjeld OR, Gr\u00f8vle L, Helgeland J, et al. Complications, reoperations, readmissions, and length of hospital stay in 34 639 surgical cases of lumbar disc herniation. Bone Joint J . 2019;101-B(4):470-477.  doi:10.1302/0301-620X.101B4.BJJ-2018-1184.R1.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Annaswamy TM, Taylor C. Lumbar disc disorders. American Academy of Physical Medicine and Rehabilitation Web site. https://now.aapmr.org/lumbar-disc-disorders/ . Published August 2017. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Ellenberg M, Ellenberg MJ. Lumbar radiculopathy. In: Essentials of Physical Medicine and Rehabiliation Musculoskeletal Disorders, Pain and Rehabilitation . Philadelphia, PA: Elsevier; 2019:257-263.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Starkey C, Ryan J. Orthopedic and Athletic Injury Evaluation Handbook . Philadelphia, PA: FA Davis; 2015. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Kisner C, Colby LA. The spine: Management guidelines. In: Therapeutic Exercise Foundations and Techniques . 6th ed. Philadelphia, PA: F.A. Davis Company; 2012:438-484. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. In: Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016:42-43,  80-82, 127-128, 144-145, 179, 227-230, 322-323. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Mo Z, Zhang R, Chen J, Shu X, Shujie T. Comparison between oblique pulling spinal manipulation and other treatments for lumbar disc herniation: a systematic review and meta-analysis.  J Manipulative Physiol Ther . 2018;41(9):771-779.  doi:10.1016/j.jmpt.2018.04.005. (M)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Parker SL, Mendenhall SK, Godil SS, et al. Incidence of low back pain after lumbar discectomy for herniated disc and its effect on patient-reported  outcomes. Clin Orthop Relat Res. 2015;473-6:1988-1999.  doi:10.1007/s11999-015-4193-1.  (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Chiu C-C, Chuang T-Y, Chang K-H, Wu C-H, Lin P-W, Hsu W-Y. The probability of spontaneous regression of lumbar herniated disc: a systematic review. Clin Rehabil . 2015;29(2):184-195.  doi:10.1177/0269215514540919. (SR)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Ebenbichler GR, Inschlag S, Pfluger V, et al. Twelve-year  follow-up of a randomized controlled trial of comprehensive physiotherapy following disc herniation operation. Clin Rehabil. 2015;29(6):548-560.  doi:10.1177/0269215514552032. (RCT)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Qaseem A, Wilt T, McLean R, Forciea M. Clinical Guidelines Committee of the American College of Physicians. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians. Ann Intern Med . 2017;166(7):514-530.  doi:10.7326/M16-2367.  (G)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Lopez-Diaz  JV, Aras-Buria  JL, Lopez Gordo E, Lopez Gordo S, Aros Oyarzun AP. \u201cEffectiveness of continuous vertebral resonant oscillation using the POLD method in the treatment of lumbar disc hernia\u201d a randomized controlled pilot study. Man Ther . 2015;20(3):481-486.  doi:10.1016/j.math.2014.11.013. (RCT)"
+        }
+    ]
+}

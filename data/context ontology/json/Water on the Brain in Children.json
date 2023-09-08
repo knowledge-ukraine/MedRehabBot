@@ -1,0 +1,378 @@
+{
+    "metadata": {
+        "title": "Hydrocephalus in Children",
+        "synonyms": [
+            "hydrocephalus in children",
+            "hydrocephaly in children",
+            "water on the brain in children",
+            "pediatric hydrocephalus"
+        ],
+        "anatomical location body part affected": [
+            "Brain/ultimately the entire individual is affected"
+        ],
+        "area of specialty": [
+            "neurological rehabilitation",
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "Hydrocephalus is a condition caused by an imbalance in the production and absorption of cerebrospinal fluid (CSF) in the ventricular system. Hydrocephalus is defined as an abnormal accumulation of CSF in the ventricular system within the cranial vault that results in increased intracranial pressure (ICP) and passive dilation of the ventricles(1,8)",
+            "Types of hydrocephalus \u2013Congenital(2,3) \u2013Acquired(2,3) \u2013Communicating \u2013 CSF is able to flow from ventricle to ventricle and circulate in its normal manner; however, there is impaired absorption, resulting in abnormal accumulation of CSF(3) \u2013Noncommunicating\u2013  occurs when the flow of CSF is blocked along one or more of the narrow pathways connecting the ventricles(2) -May be referred to as obstructive hydrocephalus(2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "G91": {
+                "base": "hydrocephalus",
+                "G91.0": "communicating hydrocephalus",
+                "G91.1": "obstructive hydrocephalus",
+                "G91.3": "post-traumatic hydrocephalus, unspecified",
+                "G91.8": "other hydrocephalus",
+                "G91.9": "hydrocephalus, unspecified"
+            },
+            "Q03": {
+                "base": "congenital hydrocephalus",
+                "Q03.0": "malformations of aqueduct of Sylvius",
+                "Q03.1": "atresia of foramina of Magendie and Luschka Dandy-Walker syndrome",
+                "Q03.8": "other congenital hydrocephalus",
+                "Q03.9": "congenital hydrocephalus, unspecified"
+            },
+            "Q05": {
+                "base": "spina bifida",
+                "Q05.0": "cervical spina bifida with hydrocephalus",
+                "Q05.1": "thoracic spina bifida with hydrocephalus",
+                "Q05.2": "lumbar spina bifida with hydrocephalus",
+                "Q05.3": "sacral spina bifida with hydrocephalus",
+                "Q05.4": "unspecified spina bifida with hydrocephalus"
+            },
+            "Q07.0": "Arnold-Chiari syndrome (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "In an infant/toddler, signs and symptoms may include: \u2013\u201cSunsetting\u201d \u2013described  as \u201ca downward deviation of the eyes, and separation of the cranial sutures with a bulging anterior fontanelle\u201d(1) \u2013Bulging fontanelles (especially anterior) with or without head enlargement(2) -Fontanelles feel tense and nonpulsatile(2) \u2013Pronounced/dilated scalp veins(6) \u2013Abrupt change in head circumference(2,4,5) -Researchers of a retrospective study conducted in the Netherlands concluded that increases in head circumference were useful in diagnosing hydrocephalus only in the first year of life(20) \u2013Macrocephaly(2,6) \u2013Frontal bone bossing/enlargement(2) \u2013A gap/separation between the coronal and sagittal sutures can be felt(4,6) \u2013Thinning of skull bones(2) \u2013Macewen sign: tapping of the skull near the junction of the frontal, temporal, and parietal bones produces a stronger, resonant \u201ccracked-pot\u201d  sound(2) \u2013Irritability(2,4,6,(7) \u2013Drowsiness(2)/lethargy(4,7) \u2013V omiting(2,4,5,6) \u2013Seizures(2,4,5) \u2013Pupils sluggish with unequal response to light(2) \u2013Trouble feeding(4,5) \u2013Infant cries when picked up or rocked and quiets when at rest and still(2) \u2013Piercing cry(4,5) \u2013Resistance to repositioning the head/neck(5) \u2013Developmental delay(5) \u2013Lower extremity spasticity(2) \u2013Persistent neonatal reflexes(2) \u2013Opisthotonos(i.e., abnormal posturing in which the body is rigid, back is arched, and head is thrown backward) \u2013 often extreme(2)",
+            "In an older child, signs and symptoms may include: \u2013Headaches coupled with vomiting(2,5,6) -Headache improves after vomiting or being in an upright posture(2) \u2013Nausea(2,5) \u2013Irritability(2,5,7) \u2013Incontinence of bladder that begins or worsens(2,5) \u2013Deterioration in school performance(4,5) \u2013Neck pain(4) \u2013Personality changes(2,4,5) \u2013Incoherence(2) \u2013Confusion(5) \u2013Impaired memory(2,5) \u2013Sunsetting of the eyes(2,5,6)  \u2013Impaired vision(2,5) -Strabismus, papilledema(2) \u2013Developmental delay or loss of acquired skills(2,5) -Impaired balance -Impaired gait -Impaired coordination \u2013Onset of or increased spasticity(4) \u2013Reduced energy level(2,5)/lethargy/apathy(2) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention during assessment"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  the causes of hydrocephalus in children are many": [
+            "Intraventricular hemorrhage due to prematurity",
+            "Developmental malformation\u2013Most cases of noncommunicating hydrocephalus are a result of developmental malformations. Although the malformationis present in early infancy, the development of hydrocephalus may not become evident until late childhood or earlyadulthood(8)\u2013Developmental defects account for most cases of hydrocephalus from birth to 2 years of age\u2013In older children, hydrocephalus is most often a result of intracranial masses, intracranial infections, hemorrhage, ortrauma\u2013Some of the most common developmental malformations are listed below-For more information on myelomeningocele, see Clinical Review\u2026Spina Bifida ; CINAHL Topic ID Number: T708537-Dandy-Walker  malformation(7,8)-Arnold-Chiari  malformation(1,7)-Aqueduct stenosis, aqueduct gliosis(8)-Dysmorphic syndromes (e.g., Apert syndrome, trisomy 13, trisomy 21)(7)-Mucopolysaccharidosis (e.g., type II [Hunter])(7)-Migrational disorders/congenital muscular dystrophies (e.g., Miller-Dieker,  muscle-eye-brain disease)(7)-Achondroplasia(7)-Alexander disease(7)-Neurocutaneous syndromes (e.g., neurofibromatosis type 1)(7)",
+            "Neoplasms(2)",
+            "Cysts(6)",
+            "Infection\u2013Meningitis(2,7)\u2013Intrauterine infection(7,8)",
+            "Trauma\u2013Traumatic brain injury (TBI)(2)\u2013Subarachnoid hemorrhage(2)\u2013Intraventricular hemorrhage(7)",
+            "Idiopathic(7)",
+            "This Clinical Review focuses on childhood hydrocephalus. For information about the adult-onset  syndrome normalpressure hydrocephalus, please see Clinical Review \u2026Hydrocephalus, Normal Pressure ; CINAHL Topic ID Number:T709056"
+        ],
+        "pathogenesis": [
+            "Hydrocephalus can occur when:\u2013The absorption of CSF is reduced(7,8)\u2013The circulation of CSF is obstructed(7,8)\u2013CSF is produced in excess(7)",
+            "Pathophysiology of hydrocephalus(8)\u2013There is an abnormal increase in CSF within the ventricles of the brain, causing the ventricles to dilate (ventriculomegaly)and compress the brain tissue against the rigid cranium. As a result, ICP rises\u2013When this occurs prior to the cranial sutures fusing, the skull will enlarge and the ventricles dilate. In children underthe age of 12 years, who have partially closed suture lines, especially the sagittal suture, the suture can open or partiallyseparate\u2013An obstruction to the normal CSF flow can occur at any point in the CSF pathway and will result in a rise in ICP anddilation of the pathways proximal to the site of obstruction(8)",
+            "Myelomeningocele(1)\u2013When Arnold-Chiari  malformation is present in an infant, the cerebellum, medulla, and cervical spinal cord are impacted\u2013The malformation impedes the circulation of CSF\u2013The vast majority of infants with Arnold-Chiari  malformation will develop hydrocephalus"
+        ],
+        "risk factors": [
+            "Prematurity(5)\u2013In a study conducted in Germany, researchers found that ventricular size on cranial ultrasonography in preterm and terminfants was not only correlated to gestational age, but also to birthweight(25)",
+            "TBI(5)",
+            "Brain hemorrhage(5)",
+            "Infections affecting the brain and spinal cord(5)",
+            "Brain tumors, cysts(5)",
+            "Spinal cord tumors(5)",
+            "Myelomeningocele(5)",
+            "Genetic factors(10)\u2013The presence of adducted thumbs and aqueductal stenosis is suggestive of X-linked  hydrocephalus due to neural celladhesion moleculeL1 deficiency(10)\u2013Rhombencephalosynapsis is a rare genetic abnormality that is associated with hydrocephalus and aqueductal stenosis. It ishypothesized that a defect involving common gene(s) may be responsible",
+            "Being a first-born  child or first trimester maternal use of antidepressants for idiopathic hydrocephalus(21)\u2013Based on a cohort of 1,928,666 live-born  children in Denmark (between 1978 and 2008), of whom 1,193 had idiopathichydrocephalus\u2013The researchers also determined that male sex, multiple births, and maternal diabetes were risk factors for hydrocephalusassociated with congenital malformation (n = 985 children)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Following shunt placement in an infant Individual physicians and hospitals have their own specific protocols regarding physical therapy intervention following shunt placement. The severity of hydrocephalus prior to shunt placement is carefully considered by the physician as he or she determines when physical therapy may begin. At a minimum, physical therapy intervention can begin 24 to 48 hours following surgery(1) The severity of hydrocephalus prior to shunt placement will affect the timing of when the child may receive oral feedings, position changes, ROM exercises, and handling in the upright position. If such interventions begin too early, a significant decrease in ICP can develop and vascular insult can occur(1)",
+        "Shunt complications include: Obstruction(4,7) \u2013Original symptoms return(6) Infection(4,7) Mechanical failure(2,7)  Catheter fracture(27) \u2013The presence of shunt calcifications increases risk for shunt fracture System requires lengthening(2) Overdraining(2,7) \u2013Siphoning(7) -When the forces of gravity (patient in sit or stand) cause more CSF to exit the ventricles than desired -Symptoms -Headaches -Nausea -V omiting -Shunts now have specific components that are included to avert this phenomenon Underdraining(2) \u2013Symptoms of hydrocephalus persist in spite of shunt placement(6)",
+        "Shunt complications are extremely serious; if proper medical care is not obtained, coma and/or death can occur(6)",
+        "Symptoms of shunt complications may include: Return of original symptoms(7) Fever(6) Swelling adjacent to the pathway of the shunt(6) Erythema adjacent to the pathway of the shunt(6)",
+        "Clinicians must be aware that the valve components of shunts can be impacted by magnetic fields (e.g., MRI, vagus nerve stimulator magnets); depending on strength, magnetic fields can cause changes in the set drainage pressure that can be dangerous to the patient",
+        "Abrupt occlusion of the endoscopic third ventriculostomy (ETV) can occur(6) For a description of this procedure, see Medical management , below This occurrence is also extremely serious, as death may result if prompt medical management is not obtained If a patient experiences an abrupt sealing off of the ETV , generally the original symptoms return",
+        "Follow facility protocols for obtaining parental consent",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention during assessment"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "What type of hydrocephalus has been diagnosed? How old was the child when it was diagnosed? What were the child\u2019s symptoms? Was the child premature?Were there complications during pregnancy or delivery? What is the current reason for referral?",
+                "course of treatment": {
+                    "medical management": " Medical management Hydrocephalus is most often treated surgically by inserting a shunt system. The system is designed to divert the flow of CSF from the CNS to another area of the body where it can be absorbed as part of the normal circulatory process.(2) The surgical approach may be described as posterior or frontal, referring to the area of the brain the proximal catheter must pass to reach the ventricles A shunt system is composed of a shunt (flexible tube), ventricular catheter, flush pump, valve, and distal catheter. The valve, located along the catheter, maintains a oneway  flow and regulates the rate of CSF flow. The valves are designed to open at a predetermined intraventricular pressure and close when the pressure falls below that level, preventing fluid backflow(2)  Shunt typesan internal shunt that transports excess CSF from one lateral ventricle to the right atrium. Due to increased risk of septicemia, ventriculitis, superior vena cava occlusion, and pulmonary emboli, the V A shunt is not used as commonly as others(1)an internal shunt that transports excess CSF from the lateral ventricle directly into the peritoneum, where it can be reabsorbed and the excess excreted. It is the preferred method for shunt placement. There is a greater risk for shunt occlusion; however, the complications are much less severe compared to a V A shunt(1)an internal shunt that transports excess CSF from the subarachnoid space to the peritoneum. Typically used for patients who have a pathology that obstructs CSF flow. The advantages compared to VP or V A shunts are the avoidance of brain penetrance, large CSF space in the thecal sac, and potential for large amount of CSF drainage.(16) It is more commonly used for adults but may be used in children as an alternative to a VP shunt for the management of communicating hydrocephalus(16) In a 2019 retrospective study conducted in Taiwan, researchers concluded there was a lower complication rate associated with LP shunt compared to VP shunt (1% and 13.5%, respectively). The overall revision rate due to shunt malfunction was 7.3% in both groups(16) A reservoir placement may be appropriate to siphon excess CSF for a period of time into a superficial well that can be emptied by needle aspiration. Reservoir placements may be used to assess the need for a shunt and the specific type of shunt that would be best suited for a child(1) External shunt placement  common in inpatient settings following surgery or during treatment of a shunt infection Please see  Overall Contraindications/Precautions  , above, for shunt complications ETV  alternative procedure to a shunt system for managing hydrocephalus(2) A tiny opening is surgically created in the floor of the 3rd ventricle with the use of a neuroendoscope, allowing CSF to bypass the obstruction and recirculate toward the site of reabsorption around the brain\u2019s surface(2) ETV  indications(9) The ideal patient for this procedure has a diagnosis of noncommunicating hydrocephalus with the obstruction located at the aqueduct of Sylvius ETV may be appropriate for other patients, including those with spina bifida or Arnold-Chiari malformation; however, this decision must be carefully weighed by the physician and depends on unique patient circumstances Children presenting with shunt malfunction may be better served with ETV instead of shunt revision When ETV was first introduced, it was considered, in contrast to shunts, to be minimally invasive and effective for treating hydrocephalus. It is now recognized that serious complications can also occur after ETV(15) ETV  precautions/potential contraindications to procedure(9) History of interventricular hemorrhage History of subarachnoid hemorrhage History of infection affecting the brain and/or spinal cord Infants ETV  potential complications of procedure(9) Death Basilar artery injury Neurological insult Intraventricular hemorrhage Subdural hematoma Infection Following the postsurgical phase, occlusion may occur and death can result Endoscopic aqueductal stenting (EAS)  an alternative shunting procedure to address aqueductal stenosis has been shown to greatly reduce the number of shuntrelated  surgeries required in children with hydrocephalus (15) Results of a 2014 systematic review conducted by the Pediatric Hydrocephalus Systematic Review and EvidenceBased  Guidelines Task Force indicate that both shunts and ETV demonstrated equivalent outcomes in the clinical etiologies studies(22)  Based on the results of a 2020 updated systematic review of the 2014 Evidence-Based Guidelines on the treatment of(28) Neuroendoscopic lavage was found to be a safe option for removal of intraventricular clots Use of antibiotic-impregnated  shunt tubing compared to conventional silicone hardware reduces risk of shunt infection",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Hydrocephalus can be diagnosed by head circumference measurements. A head circumference measurement that crosses at least one percentile line on the head measurement chart within 2 to 4 weeks, may be indicative of hydrocephalus. Adapted head circumference charts for preterm infants are used to differentiate between abnormal head growth and typical rapid head growth(17)",
+                        "Prenatal ultrasounds can reveal the presence of hydrocephalus(6)",
+                        "In neonates, echoencephalography can be used to compare the ratio of lateral ventricle to cortex(2)",
+                        "The primary diagnostic tools for toddlers and other children are CT scans and MRI(10)",
+                        "Fast-sequence  MRI (taking approximately 3.37 minutes) is being used with non-sedated  children to limit radiation and anesthesia exposure and limit artifacts from movement, and has been shown to have excellent overall quality and a high degree of interrater reliability(23)",
+                        "Ultrasound of the head may be used in newborns(7)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Are there any reported aggravating or easing factors?",
+                "body chart": "Use body chart to document location and nature of symptoms where indicated",
+                "nature of symptoms": "Document nature of symptoms",
+                "rating of symptoms": "Use FLACC, a visual analog scale (V AS), or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., confusion,(5) irritability(2,5))",
+                "respiratory status": "Is there any respiratory compromise? Has the patient ever required intubation or supplemental oxygen? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Does the patient have a history significant for meningitis?(2) tumors?(2) intraventricular cysts?(6) TBI?(2) subarachnoid hemorrhage?(2) intraventricular hemorrhage?(7) ",
+                    "comorbid diagnoses": "Ask the patient/caregiver about other problems and associated conditions, including diabetes, cancer, heart disease, psychiatric disorders, and orthopedic disorders. Associated conditions may include other congenital abnormalities, other CNS pathologies, and seizures",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask the patient/caregiver about other symptoms the patient may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational activities? Does the patient go to school?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any reported limitations in ADLs. Document achievement and/or loss of developmental milestones up to this point",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary? Is the family supportive and understanding of the child\u2019s condition? Are social and community supports available and accessible?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  The information presented below is meant to serve as a guide. Clinicians are advised to modify/supplement the examination process as indicated by the patient\u2019s age and unique circumstances",
+            "anthropometric characteristics": "Clinician should refer to physician\u2019s reports on patient\u2019s head circumference measurements. Clinician can also measure patient\u2019s head circumference \u2013Measure height and weight and compare to age- and sex-matched growth curves -Children with shunts often have smaller head circumferences as they age compared to children without a shunt(18) -In a study conducted in Sweden that included 50 children with shunt placement before they were 12 months of age who were compared to age- and sex-matched  normative data over a 4-year  period, researchers concluded that the predictors for low head circumference are low weight, decreased height for age, and frequent shunt valve revisions(18) -Hydrocephalus can cause feeding problems, nausea, and vomiting -Nutritional issues and delayed growth and weight gain are common in conditions that are associated with hydrocephalus -Obesity may be a problem in children with myelomeningocele due to mobility limitations and decreased energy expenditure(4)",
+            "assistive and adaptive devices": "Does the patient utilize any assistive or adaptive devices? If so, are they appropriate?",
+            "balance": "Assess static and dynamic balance using the Pediatric Balance Scale (PBS), the balance subscale of the Peabody Developmental Motor Scales, Second Edition (PDMS-2),  or the Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2).  Ataxia may be present",
+            "cardiorespiratory function and endurance": [
+                "In advanced acute hydrocephalus, Cushing triad (hypertension, reflex bradycardia, respiratory irregularities) can be seen after fusion of head sutures(7) \u2022Cranial/peripheral nerve integrity:  Assess the cranial nerves as indicated; cranial nerves that assist with vision may be impacted.(7) Observe for dilated pupils indicating increased ICP due to compression of the oculomotor nerve on the ipsilateral side of increased pressure.(8) Refer to an appropriate specialist as indicated \u2022Functional mobility  (including transfers, etc.): Complete a functional assessment using the WeeFIM"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Complete a gait assessment in the ambulatory child. Note asymmetry of movement, gait speed, stride and step length, or arm swing \u2013In the ambulatory child with chronic hydrocephalus, ataxia may be noted during gait(7) Assess bilateral upper and lower extremity joint integrity as indicated by symptoms and patient presentation. Use Paris Stoddard Scale for joint mobility Motor function (motor control/tone/learning) \u2013Evaluate muscle tone and motor control as indicated. Document any hypotonia or hypertonicity. Use the Modified Ashworth Scale to measure spasticity. Document whether the child is able to isolate individual muscle groups against gravity or if the child uses synergistic patterns -In the child with chronic hydrocephalus, hypertonicity may be present in the extremities(7) \u2013Evaluate child\u2019s upper and lower extremity coordination, assessing for dysmetria or dysdiadochokinesia",
+            "muscle strength": "Complete a thorough strength assessment using manual muscle testing if there are no tone or coordination issues. In younger children a functional assessment of strength may be necessary depending on ability to follow instructions. The strength subscale of the BOT-2can  be used for children older than 5 years. Assess pinch and grip strength using a pinch gauge and handheld dynamometerUtilize standardized tests to assess neuromotor development (e.g., PDMS-2,BOT-2,  Alberta Infant Motor Scales [AIMS])",
+            "observation inspection palpation including skin assessment": [
+                "Impaired motion processing, vision problems, and poor coordination may be present in children with hydrocephalus (13)"
+            ],
+            "posture": "Assess the patient\u2019s sitting and standing posture. Assess posture of an infant or toddler in supine and prone. Note any asymmetry or abnormal posturing movements",
+            "range of motion": "Evaluate bilateral upper and lower extremity passive and active ROM. Assess active and passive cervical ROM. Observe active ROM with functional activities",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess bilateral upper and lower extremity deep tendon reflexes; a child with hydrocephalus may present with hyperreflexia(7)Assess ADLs and note impairments",
+            "sensory testing": "Complete bilateral upper and lower extremity sensory testing for light touch and pinprick as indicated and appropriate. Assess upper and lower extremity joint proprioception",
+            "special tests specific to diagnosis": "The Hydrocephalus Outcome Questionnaire (HOQ) can be used to assess physical, mental, social, emotional, and cognitive status.(11)Pediatric Quality of Life Inventory QL, 4th edition, Short Form-15 (PedsQL) can be used",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess the patient\u2019s arousal level and complete a cognitive assessment as indicated. Is the patient alert and oriented x 4? Is the patient able to attend and focus on a task? Can the patient follow simple and multiple-step  commands? \u2013Irritability or somnolence in infants can be seen as well as behavioral changes in children in both acute and chronic conditions(7)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regards to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Movement of the child into a Trendelenburg position(i.e., supine with feet elevated 15\u00b0 to 30\u00b0 higher than the head) is contraindicated, as this may disrupt the appropriate drainage of the CSF from the cranial vault"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Physical therapy typically begins 1 to 2 days after shunt placement in an infant; however, physician orders must be obtained because initiating intervention too early can harm the infant.(1) Please see  Overall Contraindications/ Precautions  , above, for more details",
+        "rule out": " Rule out The physician should rule out alternative causes of macrocephaly (e.g., familial macrocephaly) and ventriculomegaly(7)  Benign external hydrocephalus(7)",
+        "prognosis": [
+            "Generally, without proper medical management, hydrocephalus (which is progressive in nature) is fatal(2)",
+            "The Hydrocephalus Clinical Research Network (HCRN) comprises 14 children\u2019s hospitals in North America that conduct research and provide multicenter assessments of outcomes of CSF shunting and other surgical interventions. In 2018 researchers conducted a prospective study of the surgical procedures ETV and choroid plexus cauterization (CPC) in infants and compared the data to a historical cohort of infants treated with shunt or ETV alone(19) \u2013Using data from 2014\u20132015  researchers compared outcomes for infants undergoing either a shunt (n = 969) or EVT alone (n = 74) with infants who underwent ETV + CPC (n = 118), resulting in 112 matched pairs for ETV + CPC versus shunt alone and 34 matched pairs for ETV + CPC versus ETV alone \u2013Mean age of patients in the HCRN cohort was 1.3 months \u2013The most common etiologies were myelomeningocele, intraventricular hemorrhage, and aqueductal stenosis \u2013Complications included seizures, CSF leak \u2013Data showed a significantly greater failure rate in the ETV + CPC group compared to shunt alone, but a similar failure rate when compared to ETV-alone  group \u203aResearchers in Germany who conducted a 2018 retrospective analysis of pediatric hydrocephalus shunt independence found that independence was achieved in approximately 3\u20139%  of patients (29)",
+            "212 pediatric patients enrolled in 29 separate independence trials who received shunts between 2000 and 2016 were included in the study and followed for one year post surgery",
+            "Researchers found that secondary EVT surgery at the time of shunt failure had the highest success rate (75%) in achieving independence and that the removal of the shunt due to overdrainage increased likelihood of shunt failure \u203aIn a similar study conducted in India in 2018, researchers evaluated the clinical outcomes of shunt surgeries in children with hydrocephalus and risk factors for VP shunt failure(30)",
+            "A total of 137 patients with the average age of 20.7 months (range 1.5 months to 8.5 years) post VP shunt placement were included in the study",
+            "Overall shunt complication rate was about 36%",
+            "Incidence of shunt revision was 27% and blockage 46%",
+            "Shunt infection rate was approximately 16%",
+            "Overall mortality rate was 5.10%",
+            "Risk factors associated with shunt failure included hydrocephalus associated with post-tubercular  meningitis and intraventricular hemorrhage",
+            "Cognitive impairments and difficulties in school affect 10\u201350%  of children with hydrocephalus (12)",
+            "The prognosis is variable based on the following:(2) \u2013Underlying cause \u2013Comorbid conditions \u2013Length of time between onset of symptoms and time of diagnosis \u2013Treatment outcomes (e.g., response to shunting)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Neurologist Occupational therapist (OT) Speech-language  pathologist (SLP) Psychologist Social services Ophthalmologist \u2013 strabismus is frequently observed with hydrocephalus(4)",
+        "other considerations": [
+            "Extremely preterm infants (< 28 weeks) with a low concentration of corticotropin-releasing  hormonemessenger ribonucleic acid (CRH mRNA) in the placenta are at increased risk of ventriculomegaly on ultrasound scan, whereas an elevated concentration of CRH mRNA is associated with increased risk of an inability to walk at the age of 2 years and a Bayley Motor Scale 3 standard deviations below the mean(26)"
+        ],
+        "treatment summary": [
+            "No studies evaluating the efficacy of rehabilitation interventions for this condition were identified  . Problem Goal Intervention Expected Progression Home Program Developmental delay or loss of acquired skills(2,5) _ _ Impaired gait, balance, coordination, and functional mobility(2,5)Attainment of appropriate motor milestones _ _ Improve gait, balance, coordination, and functional mobilityTherapeutic interventions _ Physical therapy interventions aimed at addressing specific impairments as noted in evaluation _ _ Physical therapy interventions aimed at addressing specific impairments as noted in evaluationProgress each unique patient as appropriate and indicated _ _ Progress each unique patient as appropriate and indicatedImplement a home program to support the therapeutic interventions utilized during treatment sessions as appropriate and indicated Impaired ability to complete ADLsImprove ability to complete ADLsTherapeutic interventions _ Occupational therapy interventions aimed at addressing specific impairments as noted in evaluationProgress each unique patient as appropriate and indicatedImplement a home program to support the therapeutic interventions utilized during treatment sessions as appropriate and indicated Potential for shunt complications _ _ Potential for ETV complicationsMonitor for shunt/ETV complications; patient and/or caregivers independent in monitoring for shunt/ ETV complicationsTherapeutic strategies _ See  Overall"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes and the associated outcome measures": [
+            "Attainment of appropriate motor milestones\u2013PDMS-2,BOT-2,  AIMS",
+            "Improved gait, balance, coordination, and functional mobility\u2013Balance testing, PBS, MMT, grip strength, pinch strength, gait assessment, 6MWT, ROM, WeeFIM",
+            "Improved ability to complete ADLs",
+            "Patient and/or caregivers independent in monitoring for shunt/ETV complications"
+        ]
+    },
+    "maintenance or prevention": [
+        "With normal growth, the tubing can be pulled out or disconnected from the distal insertion site. Parents need to be constantly aware of the signs and symptoms associated with shunt failure(2) There is a need for professionals and parents to collaborate when assessing a child with potential shunt malfunction  \u2013Results from a study conducted in the United States indicate that parents of children with hydrocephalus perceived that their expertise was not always valued by professionals and not used to inform decisions about care(24) -The author noted the need for better integration of parents\u2019 input into assessment and treatment",
+        "Patients with shunts have special lifelong healthcare needs. They should be monitored and evaluated on a regular basis by their healthcare providers.(2) Patients and primary caregivers need to be educated on the necessity of regular checkups (by a physician trained in the management of hydrocephalus) for the continued monitoring of their condition(12)",
+        "Patients should also be reminded that shunt complications can arise at any time (even years after implantation)(12)",
+        "Active children may fall and have injuries that can damage the shunt. Contact sports should be avoided(2)",
+        "Prenatal folic acid is associated with reduced incidence of neural tube defects",
+        "Antenatal ultrasound screening may detect neural tube defects and hydrocephalus",
+        "Recent evidence supports Prenatal repair of myelomeningocele to reduce risk of developing shunt-dependent  hydrocephalus (31)"
+    ],
+    "patient education": [
+        "Based on results of a 2017 utilization survey of 3 social media platforms, parents and caregivers of children with hydrocephalus frequently use social media networking for support and information gathering(14)",
+        "See \u201c Hydrocephalus Defined\u201d from the National Hydrocephalus Foundation at http://www.nhfonline.org/hydrocephalus-defined.htm",
+        "See \u201cAbout Hydrocephalus\u201d from the Hydrocephalus Association at http://www.hydroassoc.org/hydrocephalus/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Tappit-Emas  E. Spina Bifida. In: Tecklin JS, ed. Pediatric Physical Therapy . 6th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2014:252-254.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Hydrocephalus fact sheet. National Institute of Neurological Disorders and Stroke Web site. https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Hydrocephalus-Fact-Sheet . Published May 13, 2020. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Hydrocephalus defined. National Hydrocephalus Foundation Web site. http://www.nhfonline.org/hydrocephalus-defined.htm . Published 2018. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Salem Y, Godwin EM. Spina bifida: A neural tube defect. In: Lazaro RT, Reina-Guerra  SG, Quiben MU, eds. Umphred\u2019s Neurological Rehabilitation . 7th ed. St. Louis, MO: Elsevier Mosby; 2020:chapter 13. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Newly diagnosed with hydrocephalus? You are not alone. Hydrocephalus Association Web site. https://www.hydroassoc.org/newly-diagnosed-with-hydrocephalus/ . Published"
+        },
+        {
+            "number in article": 2021,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Learning about hydrocephalus. Hydrocephalus Association Web site. http://www.hydroassoc.org . Accessed February 18, 2017. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Markowitz JA. Hydrocephalus. In: Cabana MD, ed. The 5-Minute Pediatric Consult Standard . 7th ed. Philadelphia, PA: Wolters Kluwer; 2015:460-461.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Rogers C. The child with cerebral dysfunction. In: Perry SE, Lowdermilk DL, Cashion K, Alden KR, eds. Maternal Child Nursing Care . 6th ed. St. Louis, MO: Elsevier; 2018:Chapter 46. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Sokal P, Birski M, Rusinek M, Paczkowski D, Zielinski P, Harat A. Endoscopic third ventriculostomy in treatment of hydrocephalus. Wideochir Inne Tech Maloinwazyjne . 2012;7(4):280-285.  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3557737/ . doi:https://doi.org/10.5114/wiitm.2011.30810. (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Kedia S, Knupp K, Schreiner T, Yang ML, Levisohn PM, Moe PG. Neurologic & muscular disorders. In: Hay WW, Levin MJ, Deterding RR, Abzug MJ, eds. Current Diagnosis & Treatment Pediatrics . 22nd ed. New York, NY: McGraw Hill Education; 2014:811-812.  (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Kulkarni AB, Donnelly R, Shams I. Comparison of Hydrocephalus Outcome Questionnaire scores to neuropsychological test performance in school-aged  children. J Neurosurg Pediatr. 2011;8(4):396-401.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Prakash P, Dhandapani M, Ghai S, Singh NV, Dhandapani S. Quality of life among children who had undergone ventriculoperitoneal shunt surgery. J Pediatr Neurosci . 2018;13(2):189-194.  doi:https://doi.org/10.4103/jpn.JPN_118_17. (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "National Institute of Neurological Disorders and Stroke (NINDS). Hydrocephalus Fact Sheet. https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Hydrocephalus-Fact-Sheet . Published 2021. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Elkarim GA, Alotaibi NM, Samuel N, et al. Social media networking in pediatric hydrocephalus: a point-prevalence  analysis of utilization. J Neurosurg Pediatr . 2017;20(2):119-124.  doi:10.3171/2017.3.PEDS16552. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Guida L, Beccaria K, Benichi S, et al. Endoscopic aqueductal stenting in the management of pediatric hydrocephalus. J Neurosurg Pediatr . 2020;1-7.  doi:https:// doi.org/10.3171/2020.4.PEDS20144. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Yang T-H, Chang C-S, Sung W-W, Liu J-T. Lumboperitoneal shunt: a new modified surgical technique and a comparison of the complications with ventriculoperitoneal shunt in a single center. Medicina. 2019;55(643):1-10.  doi:https://doi.org/10.3390/medicina55100643. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Jones S, Samanta D. Macrocephaly. StatPearls [Internet] Web site. https://www.ncbi.nlm.nih.gov/books/NBK560786/ . Published 2021. (GI) "
+        },
+        {
+            "number in article": 18,
+            "reference": "Nilsson D, Svensson J, Korkmaz BA, Nelvig H, Tisell M. Decreased head circumference in shunt-treated  compared with healthy children. J Neurosurgery: Pediatrics . 2013;12(5):483-490.  doi:10.3171/2013.8.PEDS1370. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Kulkarni AV, Riva-Cambrin  J, Holubkov R, et al. Endoscopic third ventriculostomy in children: prospective, multicenter results from the Hydrocephalus Clinical Research Network. J Neurosurg Pediatr . 2016;18(4):423-429.  doi:https://doi.org/10.3171/2016.4.PEDS163. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Breuning-Broers  JM, Deurloo JA, Gooskens RH, Verkerk PH. At what age is hydrocephalus detected, and what is the role of head circumference measurements? Eur J Public Health. 2014;24(1):32-34.  doi:10.1093/eurpub/ckt101. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Munch TN, Rasmussen ML, Wohlfahrt J, Juhler M, Melbye M. Risk factors for congenital hydrocephalus: A nationwide, register-based,  cohort study. J Neurol Neurosurg Psychiatry . 2014;85(11):1253-1259.  doi:10.1136/jnnp-2013-306941.   (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Limbrick DD, Jr, Baird LC, Klimo P, Jr, Riva-Cambrin  J, Flannery AM. Pediatric Hydrocephalus Systematic Review and Evidence-Based  Guidelines Task Force. Pediatric hydrocephalus: Systematic literature review and evidence-based  guidelines. Part 4: Cerebrospinal fluid shunt or endoscopic third ventriculostomy for the treatment of hydrocephalus in children. J Neurosurg Pediatr . 2014;14(Suppl 1):30-34. (SR)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Patel DM, Tubbs RS, Pate G, Johnston JM, Jr, Blount JP. Fast-sequence  MRI studies for surveillance imaging in pediatric hydrocephalus. J Neurosurg Pediatr . 2014;13(4):440-447.  doi:10.3171/2014.1.PEDS13447. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Smith J, Cheater F, Bekker H. Parents' experiences of living with a child with hydrocephalus: A cross-sectional  interview-based  study. Health Expect . 2015;18(5):1709-1720. doi:10.1111/hex.12164. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Hartenstein S, Bamberg C, Proquitt\u00e9 H, Metze B, B\u00fchrer C, Schmitz T. Birth weight-related  percentiles of brain ventricular system as a tool for assessment of posthemorrhagic hydrocephalus and ventricular enlargement. J Perinat Med . 2016;44(2):179-185.  doi:10.1515/jpm-2015-0085.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Leviton A, Allred EN, Kuban KCK, O'Shea TM, Paneth N, Majzoub J. Brain disorders associated with corticotropin-releasing  hormone expression in the placenta among children born before the 28th week of gestation. Acta Paediatrica . 2016;105(1):e7-e11.  doi:10.1111/apa. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Siddiqui MA, Hardy AK, Mercier PA, Farmakis SG. Association between ventricular shunt catheter calcifications and the development of shunt fracture. Pediatr Radiol . 2019;49(13):1773-1780.  doi:https://doi.org/10.1007/s00247-019-04488-0.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Bauer DF, Baird LC, Klimo P, et al. Congress of neurological surgeons systematic review and evidence-based  guidelines on the treatment of pediatric hydrocephalus: Update of the 2014 guidelines. Neurosurgery . 2020;87(6):1071-1075.  doi:https://doi.org/10.1093/neuros/nyaa434. (SR)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Iglesias S, Ros B, Ib\u00e1\u00f1ez G, Delgado A, Ros \u00c1, Arr\u00e1ez M\u00c1. Shunt independence in paediatric hydrocephalus: our 16-year experience and review. Child Nerv Syst . 2019;35(9):1547-1555.  doi:https://doi.org/10.1007/s00381-019-04267-0.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Pan P. Outcome analysis of ventriculoperitoneal shunt surgery in pediatric hydrocephalus. J Pediatr Neurosci . 2018;13(2):176-181.  https://www.pediatricneurosciences.com/ text.asp?2018/13/2/176/235952 . doi:https://doi.org/10.4103/jpn.JPN_29_18. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Tamber MS, Flannery AM, McClung-Smith  C, et al. Congress of neurological surgeons systematic review and evidence-based  guideline on the incidence of shunt-dependent hydrocephalus in infants with myelomeningocele after prenatal versus postnatal repair. Neurosurgery . 2019;85(3):E405\u2013E408.  doi:https://doi.org/10.1093/neuros/nyz262. (SR)"
+        }
+    ]
+}

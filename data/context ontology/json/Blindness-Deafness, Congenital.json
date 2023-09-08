@@ -1,0 +1,412 @@
+{
+    "metadata": {
+        "title": "Deaf-Blindness,  Congenital",
+        "synonyms": [
+            "blindness-deafness,  congenital",
+            "congenital deaf-blindness"
+        ],
+        "anatomical location body part affected": [
+            "Middle ear, inner ear, eyes, visual cortex"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders",
+            "hearing impairment"
+        ],
+        "description": [],
+        "indications": [],
+        "ICD-9 codes": {
+            "Hearing": {
+                "base": "loss",
+                "389.06": "conductive hearing loss, bilateral",
+                "389.1": "sensorineural hearing loss",
+                "389.22": "mixed bilateral conductive and sensorineural hearing loss",
+                "389.9": "unspecified hearing loss",
+                "315.34": "speech and language developmental delay due to hearing loss"
+            },
+            "Blindness": {
+                "base": "",
+                "369": "blindness and low vision",
+                "369.0": "profound impairment, both eyes",
+                "369.1": "moderate or severe impairment, better eye, profound impairment lesser eye",
+                "369.2": "moderate or severe impairment, both eyes",
+                "369.3": "unqualified visual loss, both eyes",
+                "369.4": "legal blindness, as defined in U.S.A.",
+                "369.9": "unspecified visual loss"
+            }
+        },
+        "ICD-10 codes": {
+            "H54.0": "blindness, both eyes",
+            "H54.10": "blindness, one eye, low vision other eye, unspecified eyes",
+            "H54.11": "blindness, right eye, low vision left eye",
+            "H54.12": "blindness, left eye, low vision right eye",
+            "H54.2": "low vision, both eyes",
+            "H54.3": "unqualified visual loss, both eyes",
+            "H54.7": "unspecified visual loss",
+            "H54.8": "legal blindness, as defined in USA",
+            "H90.0": "conductive hearing loss, bilateral",
+            "H90.3": "sensorineural hearing loss, bilateral",
+            "H90.6": "mixed conductive and sensorineural hearing loss, bilateral (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement have been identified"
+        ],
+        "presentation signs and symptoms": [
+            "\u201cDeaf-blind\u201d  refers to the condition of complete lack of auditory or visual function or to cases in which a person is partially sighted and hard of hearing.(1) The definition for legal blindness in the United States is best-corrected  visual acuity of 20/200 for distant vision in the better eye.(2) Those with congenital deaf-blindness  often have  additional cognitive deficits, verbal language abilities, and/or motor disorders.(2,45) Persons with congenital deaf-blindness use a variety of methods to communicate, from signs and speech to touch, gestures, and body movements(3) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Assessment times might be longer than those for patients who are not blind or deaf because it is critical to promote a positive interaction with the patient before beginning the evaluation.(1) The following are strategies to facilitate interaction before and during the evaluation:",
+            "To identify yourself as an interaction begins, touch a nonthreatening part of the patient\u2019s body (hand, top of the wrist).(1) Ask the patient\u2019s teacher/family how the patient is typically approached and how new people best identify themselves. Some children with congenital deaf-blindness  are uncomfortable with tactile/touch cues(40)",
+            "Show the patient what will happen during the evaluation by placing an object into the patient\u2019s hand (e.g., toy that will be used during the current assessment)(1)",
+            "Parents/caregivers can supply information about preferred interactions for the child. Use activities that the child prefers for initial interaction (e.g., rocking together in a chair)(1)",
+            "Never grab or restrain the patient(1)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  congenital deaf-blindness  is a very rare condition, with approximately , children in the united states meeting the classification.   a person is considered to have congenital deaf-blindness  if both hearing impairment and visual": [],
+        "pathogenesis": [
+            "Pathogenesis varies due to the variety of causes of congenital deaf-blindness"
+        ],
+        "risk factors": [
+            "Maternal alcohol or drug use during pregnancy(1)",
+            "Maternal ingestion of ototoxic medications (e.g., aminoglycosides) during pregnancy(1)",
+            "Genetic predisposition(1,35,36,39)",
+            "Head injury in the fetus/newborn(1)",
+            "Premature birth(1)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "To identify yourself as an interaction begins, touch a nonthreatening part of the patient\u2019s body (hand, top of the wrist).(1) Ask the patient\u2019s teacher/family how the patient is typically approached and how new people best identify themselves. Some children with congenital deaf-blindness  are uncomfortable with tactile/touch cues(40)",
+            "Show the patient what will happen during the evaluation by placing an object into the patient\u2019s hand (e.g., toy that will be used during the current assessment)(1)",
+            "Parents/caregivers can supply information about preferred interactions for the child. Use activities that the child prefers for initial interaction (e.g., rocking together in a chair)(1)",
+            "Never grab or restrain the patient(1)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document mechanism of injury or etiology of illness if applicable (see Causes , above)",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken? ",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Note the results of any diagnostic (e.g., hearing, vision, psychological, speech-language) tests that have been previously completed"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies and if they are helpful",
+                    "previous therapy": "Document whether the patient has had previous speech-language  therapy, occupational therapy, or physical therapy for this or other conditions and what specific treatments were effective or ineffectiveDocument information about the patient\u2019s psychosocial status; obtain information from the patient, patient\u2019s parents, and/or patient\u2019s caregivers Many patients with congenital deaf-blindness have a positive outlook on life with moderate to high levels of social engagement(4) Given the significant and unique challenges that exist for patients with congenital deaf-blindness,  these patients are at increased risk for social disengagement as well as high levels of stress(4,8,37) Children with congenital deaf-blindness  should be explicitly taught how to engage in social interactions with same- and differentaged  peers. In typically-developing  children, social rules and language are often learned implicitly by watching and listening to how other children interact with each other(43) Issues with poor overall physical health and chronic pain often result in stress and fatigue in individuals with congenital deafblindness associated with Usher syndrome(41) Patients with congenital deaf-blindness  are also at increased risk for anxiety due to difficulty communicating needs and wants, and may exhibit challenging behaviors such as tantrums, hitting, biting, and hairpulling(9) In a study conducted in Sweden, researchers compared the physical and psychological health of adults with Usher syndrome type II (marked by moderate to severe congenital hearing loss that is either stable or gradually progressive as well as progressively deteriorating visual abilities) to that of a reference group that included a random sampling of 5,738 adults. Researchers found that there were significantly more instances of headache, fatigue, depression, suicidal thoughts, and suicide attempts in the group of individuals with Usher syndrome type II as compared to the reference group.(31) Additionally, the psychological differences were even greater when comparing only the men in each group(31) In a study conducted in the Netherlands with 4 individuals with congenital deaf-blindness  (2 children, 2 adults) and 16 of their most frequent conversational partners, researchers examined the effectiveness of the Intervention Model for Affective Involvement (IMAI) for improving communication interactions and behavior problems among these subjects. The goal of the study was to determine whether the intervention 1) increased affective involvement/positive emotions and decreased negative emotions and 2) improved communication efficacy between the participants with congenital deafblindness  and their conversational partners (e.g., parents, caregivers, teachers) across different settings (e.g., school, home, activity center). Researchers used a 7step  protocol that involved first training the conversational partners how to identify communicative intent in affective behaviors. Conversational partners were then taught how to better respond to these behaviors through implementation of newly learned strategies in interactions with the participants. At the conclusion of the study, researchers found that the intervention increased affective involvement and very positive emotions as well as decreased very negative emotions during communication interactions with trained communication partners(33)Note hearing status What is the extent of the patient\u2019s hearing loss?Thoroughly review current audiogram, audiological history, and audiology reports. Does the patient use a hearing aid and/or cochlear implant? If so, on one side or bilaterally? Cochlear implants in patients with congenital deaf-blindness  are associated with improved communication and quality of life(41) See Relevant tests and measures , below, for additional information Barriers to learning Are there any barriers to learning? Yes__ No__ If Yes, describe _______________________"
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Document relevant developmental issues, including prenatal/perinatal problems, cognitive and motor developmental delays, and presence of intellectual disability (ID) or autism spectrum disorder (ASD)(10) ",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask the patient or caregivers about other symptoms patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -Describe the educational/work environment (e.g., special program, day school, vocational program, work) -Many adults who are congenitally deaf-blind  are unemployed or underemployed due to a lack of adequate accommodations and necessary technologies in the workplace(42) -In a study conducted in Sweden with 67 individuals with Usher syndrome, researchers found that employment among the individuals with Usher syndrome was associated with a better psychosocial status and improved quality of life as compared to those who were unemployed(44) -Ask the patient, parent, and/or caregiver about the patient\u2019s preferred activities/hobbies and frequent communication partners(11)",
+                "functional limitations assistance with ADLs adaptive equipment": "Describe any adaptive devices that the patient uses for vision, hearing, or communication -Does the patient use any alternative methods of communication? -Does the patient use hearing aids or have a cochlear implant?",
+                "living environment": " Living environment -With whom does the patient live? Who is the primary caregiver? -What adaptations and modifications have been made in the home to assist with mobility and communication? -What language(s) are spoken within the home, school, work, and community?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "Assessment of cognitive-communicative  functioning of a child with congenital \u203aRelevant tests and measures:  Assessment of cognitive-communicative  functioning of a child with congenital deaf-blindness  should be performed by a team of professionals that might include a pediatric otolaryngologist, a psychologist, a genetic counselor, an audiologist, an ophthalmologist, an early interventionist, and a speech-language pathologist (SLP) specializing in deaf-blindness.  Assessment of an adult with congenital deaf-blindness  might also include a vocational counselor",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Describe any adaptive devices that the patient uses for vision, hearing, mobility,and communication \u2013In a study conducted in the United States with 10 participants with deaf-blindness  aged 14-21  years, researchers investigated the usefulness of videophone technology to promote social interactions among these individuals. Because the diagnosis of deaf-blindness  does not necessarily refer to complete lack of hearing and sight, many individuals with this diagnosis do have some minimally preserved sensory capacities and are able to use them to communicate. Each of the participants in the study was provided with a videophone unit equipped with a 22-inch television monitor for use in the home. All participants were enrolled in educational facilities and used manual signed language as their primary mode of communication. The initial communication interaction included a \u201cbreaking the ice\u201d call and facilitated conversation between pairs of participants. Participants were then encouraged to use their videophone to contact the other participants at least once weekly for 1 month and were provided guided prompts to promote conversation. At the conclusion of the1) the use of the videophone broadened the participants\u2019 social interactions, not only with fellow participants but with other communication partners as well; 2) the participants reported feeling happy and motivated about their videophone interactions; and 3) the participants\u2019 level of independence increased(32)Many children with congenital deaf-blindness  have fine-motor  delays that may interfere with their ability to produce meaningful gestures. Motor limitations must be taken into account when selecting mode of communication.(15) Refer to an occupational therapist (OT) for an evaluation for assessment of fine",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": " Sensory testingBefore 6 months of age, a complete evaluation with an auditory brainstem response (ABR) is used for patients with deaf-blindness. Between 6 months and 2 years of age, children who are typically developing in other areas can be tested using a behavioral conditioning paradigm (Visual Reinforcement Audiometry), and some children with low vision can be tested with the same paradigm using a bright light reinforcer. Because of developmental delays among children with congenital deaf-blindness,  there may be greater reliance on ABR and otoacoustic emissions after 6 months of age. In addition, ABR and otoacoustic emissions tests can be used to determine the presence of auditory neuropathy/dyssynchrony.(1) Systematic behavioral observations can also be used by parents and teachers to check for different types of behavior in relation to various auditory stimuli. This procedure can identify children\u2019s responses to different frequencies and intensities of sounds(2)A pediatric eye and vision examination for children under the age of 3 years consists of a vision history of the child and family, vision assessment, pupil examination, and examination for red reflex (to check for abnormalities/ obstructions that block light flow within the eye).(1) Other tests include the Hirschberg corneal reflex test, ductions and versions examinations (eye movement tests), alternate cover test, and rapid retinoscopy.(1) An ophthalmologic evaluationoculomotor functioning, visual acuity, field/peripheral vision, color perception, visual adaptation, funduscopic and slit-lamp  examination and eye pressures. For the most difficult cases, cortical evoked response and electroretinogram might be necessary(1)A functional vision assessment can be performed by a pediatric ophthalmologist to determine how the child uses visual ability and what limitations might exist. Instruction to improve visual usage can be developed from this assessment.(1) For example, the Fagan test, a test designed to assess higher-order  visual functions, can be used to identify residual visual capacities in children with intellectual disability(2)Identify other senses that the child uses to gain information(17)",
+            "special tests specific to diagnosis": "All standardized tests that rely on verbal communication must be adapted to the patient\u2019s level of verbal ability. Normative data should not be used on adapted tests",
+            "speech and language examination": " Speech and language examinationVideotaped analyses of the child\u2019s interaction with a caregiver and/or teacher can be useful in determining the child\u2019s expressive attempts and the adult\u2019s responses.(1) The Diagnostic Intervention Model describes an observation protocol and a systematic analysis of the child\u2019s interactions with an educator. This analysis can then be used for coaching or training of an educator or parent.(18,19) The trainer or coach should be someone who has undergone specialized training in working with children with congenital deaf-blindness.(19) In this analysis, the following 8Start of an interaction. Examples include taking the hand of the teacher, giving an object, taking an object, or making a verbal signal or a gesture(19)Acknowledgement that an interaction has been noticed and recognized(19)Positive or negative reactions to an utterance of the interaction partner(19)An interaction that involves turn taking and turn giving(19)Focus on the interaction partner. Examples include the child\u2019s hands following a teacher\u2019s hands(19) -Because of the lack of visual information, it can be difficult to gain the attention of a child with congenital deaf-blindness.  Additionally, once attention has been gained, it can also be difficult for children with congenital deaf-blindiness  to maintain and shift attention during linguistic exchanges(40)The teacher allows the child to guide the intensity of the interaction. Appropriate examples of the child guiding the interaction include the child withdrawing by turning head away or the child laying hand on teacher\u2019s hand(19)Mutual sharing of emotions(19)Child\u2019s acts of independence such as getting dressed or being involved in the steps of dressing(19) Describe patient\u2019s nonverbal interactions through observation or videotaped analysis (e.g., classroom, clinic, home) and parent/caregiver or teacher report. Examples of gestures used by children who are deaf-blind  may include pushing an object, pushing a person\u2019s hand, turning away, tapping an object, pointing with contact, pointing with distal approximation, \u201cmore\u201d gestures, shaking or nodding head, and reaching(15)Determine all communication modes used by the patient by observing/interviewing the patient or by parent/teacher report. Communication modes include touch cues, body language, Cued Speech, lip-reading, finger-spelling, gestures, sign language (e.g., American Sign Language, Signed Exact English), tactile sign language (the hand of the listener is placed over the communicator\u2019s hand while signing), tangible symbols or picture symbols, communication boards, tactile calendars, and Tadoma (the hand of the listener is placed over the face and neck of the speaker to monitor actions of the face associated with speech)(3,11,20)an assessment designed to identify how a person with severe or multiple disabilities is currentlyPre-Intentional  BehaviorIntentional BehaviorUnconventional CommunicationConventional CommunicationConcrete SymbolsAbstract SymbolsLanguageSome standardized tests of expressive and receptive language may be adapted for children with congenital deaf-blindness  (e.g., sign language, use of an interpreter), but normative data must not be formally used. Standardized tests are generally not appropriate for children with congenital deaf-blindness  or those who have ID.(12) Systematic observation of play can yield information about receptive and expressive language(12)If the child uses speech to communicate, use a standardized test or an informal (nonstandardized) analysis to determine errors that have a high frequency of occurrence, are early developing, and those that are functionally important for that child and child\u2019s family. For specific sounds, the number of omissions, substitutions, distortions, and additions can be completedScales to measure speech intelligibility in children with hearing loss have been found to be quick to administer, discriminative, and reliable. In one method, children are asked to name pictures and an unfamiliar listener can rate the intelligibility of each word on a scale (e.g., poor, pass, fair, good). Scales can also be an analogue for quick numerical calculations (e.g., 1\u201310,  \u201cSpeech is completely intelligible\u201d to \u201cSpeech is completely unintelligible\u201d)(21)",
+            "neurological examination": "",
+            "oral structure and oral motor function": " motor function Use informal or formal assessment to record any impairments in form or function of the oral mechanism and their effect, if any, on speech communicationAsk the patient and/or caregiver about the patient\u2019s self-care  skills at home. Standardized interviews consisting of questions related to a child\u2019s daily living skills (e.g., Vineland Adaptive Behavior Scales) can provide information in a variety of domains(16)",
+            "perception": "",
+            "arousal attention cognition": "Cognitive evaluations are typically performed by a psychologist and include standardized tests administered by an interpreter using manual communication, systematic observation of play, and/or caregiver questionnaires/developmental checklists.(1,12) The Callier-Azusa  Scale allows for observation of the child in multiple areas of development using a checklist format.(13) Other developmental scales such as the Bayley Scales of Infant and Toddler Development-3rd  Edition can be adapted for use(14)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "All children with congenital deaf-blindness  will require intervention from a SLP and/or a special education teacher trained in working with this population",
+        "rule out": "Congenital deaf-blindness  can be identified soon after birth by a team of professionals that includes, at minimum, a pediatric otolaryngologist, a psychologist, a genetic counselor, an audiologist, and an ophthalmologist",
+        "prognosis": [],
+        "referral to other disciplines": "Orientation and mobility (O&M) should be integrated with communication from birth because of the strong association between communication and exploration.(11) Text resources and research studies provide guidelines for the integration of orientation and mobility goals with communication goals.(22,23) Collaboration with an O&M specialist and/or teacher might be necessary. The team of professionals working with a child with congenital deaf-blindness often includes a pediatric otolaryngologist, a psychologist, a genetic counselor, an audiologist, an ophthalmologist, an early interventionist, an OT, and an SLP specializing in deaf-blindness",
+        "other considerations": [
+            "It is of the utmost importance to maintain sensitivity while parents of a child with deaf-blindness  explore options for augmentation and modes of communication for hearing impairment (i.e., Total Communication vs. oral communication [if the child has the capability]; cochlear implant vs. aids vs. no augmentation). There is no one set of communication options that is appropriate for every patient or family ",
+            "Because of the low incidence of congenital deaf-blindness,  presented material is mainly based on expert opinion and small studies. There have been only a few case studies and single subject research studies with this population. Given the heterogeneity of children with both congenital blindness and hearing loss, individualization of treatment is warranted and a range of different approaches for a single child may be necessary. Texts on children with congenital deaf-blindness provide comprehensive guidelines for treatment of a variety of children and several curriculums and parent/teacher training programs have also been established.(18,24,25,28,29) Listed below are some examples of behavioral techniques and parent/teacher education programs to address some of the areas of communication deficits for children with congenital deaf-blindness"
+        ],
+        "treatment summary": [
+            "Educator-oriented  intervention \u2013Educators are trained to interpret and respond more appropriately to the patient\u2019s subtle interactive behaviors(9,26,27) \u2013In a multiple baseline study conducted in the Netherlands of 4 deaf-blind  children (aged 6-9 years) and their 14 educators, 3 of the 4 children increased their appropriate interactive behaviors while decreasing their inappropriate behaviors after educator training. Educators in this study were taught to react adequately to the child\u2019s interactive behaviors (e.g., immediately repeating the child\u2019s behavior or utterance) and adapt the interactional context to facilitate interactive behaviors (e.g., provide communicative aids, offer choices, remove distracting stimuli)(26) -The same researchers conducted a second study using the same subjects and examined the long-term  effects of this intervention. The researchers found that for 2 of the 4 subjects, the positive effects of the intervention on both educator behaviors and target child behaviors were retained on follow-up  (10 weeks post intervention)(27) \u2013Researchers in Netherlands reported on the first 2 years of a small, ongoing study investigating the effectiveness of a program named Project CHANGE aimed at improving communication in adults with both congenital deaf-blindness and ID. Participants in the program were 6 adults (average age, 42 years) with both congenital deaf-blindness  and ID, none of whom had received any prior deaf-blind  education or intervention focused on improving communication geared specifically toward deaf-blindness.  Intervention took place at a group home with 8 residents with both congenital deaf-blindness  and ID. The staff at the group home included 15 caregivers, 2 educational psychologists, and a coordinator. The staff-to-resident  ratio for most of the day was 1:2. Prior to having the study participants move into the group home, the staff participated in a 4-day  training course on interaction and communication that focused on the principles of communicating with people with congenital deaf-blindness.  Nine months after the residents moved in, staff was given a half-day  course on tactile sign language and follow-up  training from the initial 4-day  session was provided after the first 10 months of the program. Throughout the first 22 months of the program that were reported in this study, caregivers were provided with individual on-the-job  training from the coordinator and video analyses were conducted by the educational psychologists once per month. The approach for each participant was tailored to the specific needs, strengths, and weaknesses of the individual. Expressive communication outcomes of the participants were measured by the Communication Matrix. After the first 22 months of Project CHANGE, results showed an improvement in interaction between staff and residents marked specifically by increased attention, confirmations, and affective involvement by the caregiver. Additionally, improvements were documented in the participants\u2019 level of expressive communication as well as the variety of their communicative behaviors(34) \u2013In a case study, authors described a 28-year-old  man with congenital deaf-blindness  who lived in a group home with 3 other patients with deaf-blindness.  The authors found that instances of challenging behaviors were significantly reduced and positive communication interactions increased following an intervention to educate the staff of the group home(9)",
+            "Using preferred objects \u2013Joint attention can be first established on a variety of preferred objects. To scaffold a child\u2019s exploration of objects, adults can demonstrate how to experience the object through multiple senses. Using hand-under-hand  exploration, adults can indicate the visual, auditory, olfactory, and tactile features of the object depending on the child\u2019s abilities. It is important for the child to be free to leave and return to the adult\u2019s hands for exploration so that the child can moderate the level of stimulation(28)",
+            "Recognize and reinforce initiations \u2013Parents and teachers may be taught to recognize a child\u2019s early initiations. Examples of such initiations may include reaching to locate an object or leaning toward others to indicate a desire to interact  \u2013Adults can reinforce such initiations by responding to their interpreted intent (e.g., giving the child an object). Gestures that spontaneously emerge in motivating situations are more likely to be recalled and reproduced. If a child uses \u201chome signs\u201d or idiosyncratic gestures, it is important that the adult first respond to the invented signs instead of shaping them into the conventional form(11,28) \u2013In a case study involving two 3-year-old  boys with congenital deaf-blindness,  their mothers were each trained to reinforce interactions with their sons to promote appropriate communication and other interactive behaviors(29) -Researchers applied the Diagnostic Intervention Model\u2019s 5-step  protocol as the basis of the intervention(29) -The 5 steps are: 1) determination of the question, 2) clarification of the question, 3) interaction analysis, 4) implementation of the intervention, and 5) evaluation(29) -The mothers were trained to respond to 8 different types of interactions: initiatives, confirmations, answers, turns, attention, intensity, affective involvement, and independent acting(29) -Positive intervention effects were seen for both boys at the conclusion of the study; specific results (i.e., strengths and weaknesses) were different for each boy, and researchers highlighted the importance of individualized treatment protocols for children with congenital deaf-blindness(29)",
+            "Reinforcement of vocalizations \u2013After maximizing the child\u2019s access to auditory input through appropriate augmentation, adults can create opportunities for the child to vocalize by reinforcing babbling. Determine the functional intent of the vocalization and respond regularly. For example, if the caregiver determines the sound \u201cah\u201d is to gain attention, the caregiver should respond in a systematic way (e.g., touching the child\u2019s hand) after hearing the vocalization(28)",
+            "Provide opportunities for the child to use a variety of communicative intents \u2013The following intents occur early in development but are often absent in the communication of a child with congenital deaf-blindness:  protesting; requesting objects, information, and actions; calling for attention; greeting; showing objects; giving objects; answering; labeling; and commenting on objects and actions(11) \u2013Adults in the child\u2019s environment have to create opportunities for different functions (e.g., a situation that may elicit a protest), providing opportunities for choice making(11)",
+            "Environmental modifications \u2013Classrooms can be structured to increase opportunities for communication by 1) placing students so they face each other (U-shaped  desks or round tables), 2) using structured routines, and 3) using calendars or communication shelves(3) \u2013Communication shelves are arranged in order of a routine and contain objects that signify a specific activity(3) . Problem Goal Intervention Expected Progression Home Program Use of inappropriate interactive behaviorsReduce inappropriate interactive behaviors and increase appropriate behaviorsEducator-oriented intervention _ Educators are trained to interpret and respond more appropriately to the child\u2019s subtle interactive behaviors _ _ See Treatment summary , aboveEducator will likely focus on one behavior at a time, progressing to a new targeted behavior once prior goal is metNo home-based program has been trialed, but parents/ caregivers can also be taught these strategies to use at home  Lack of joint attention Establish and increase joint attention between the child and communication partnerUsing preferred objects _ Using a variety of preferred objects to increase communication and attention _ _ See Treatment summary , aboveSlowly increase the amount of time the child is expected to attend to given objectNo home-based program has been trialed, but this approach can be taught to parents and used at home Lack of communicative initiationsIncrease the child\u2019s communicative initiations using gesture and body languageRecognize and reinforce initiations _ Parents and teachers may be taught to recognize a child\u2019s early communication initiations _ _ See Treatment summary , aboveN/A The child\u2019s parent/ caregiver can be trained to reinforce initiations of gesture and body language; for the youngest children (ages 0-3), the entire intervention may take place in the home(29) Lack of vocalizations Increase the child\u2019s vocalizationsReinforcement of vocalizations _ After maximizing the child\u2019s access to auditory input through appropriate augmentation, adults can create opportunities for the child to vocalize by reinforcing babbling _ _ See Treatment summary , aboveN/A The child\u2019s parent/ caregiver can be trained to reinforce vocalizations  Lack of variety in pragmatic functionIncrease function of languageProvide opportunities for the child to use a variety of communicative intents _ Adults in the child\u2019s environment create opportunities for different communicative interactions(30) _ _ See Treatment summary , aboveAs the child\u2019s understanding of communication improves, increased opportunities for communication should be providedThe child\u2019s parent/ caregiver can be trained to provide opportunities for the child to utilize various communicative intents Lack of communication and engagement in the classroomIncrease opportunities for communication and engagement by restructuring the environmentEnvironmental modifications _ Classroom modifications to increase opportunities for engagement and communication _ _ See Treatment summary , aboveN/A No home-based program has been trialed, but environmental modifications can also be applied in the home ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "communication goals will vary depending on the etiology of the congenital deaf-blindness,  accompanying deficits, and the degree to which the person is able to use residual vision and hearing": [],
+        "desired outcomes include:": [
+            "Development of pre-symbolic  skills\u2013Communication Matrix",
+            "Development of functional communication abilities\u2013Communication Matrix",
+            "Increased literacy",
+            "Improved vocational skills",
+            "Increased communicative independence and engagement in the environment(11)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Immunization programs can serve as a preventive measure to eliminate maternal rubella as a cause of congenital deaf-blindness(6)",
+        "It is important to monitor any progressive hearing loss or vision. Refer to an audiologist or ophthalmologist if additional loss is suspected"
+    ],
+    "patient education": [
+        "Parents or caregivers should be educated about possible causes of the disorder and the potential effects on social and academic development. Information for families and caregivers of children with  congenital deaf-blindness  is available on the Senses Australia, Deaf blind Information Web Site: https://www.deafblindinformation.org.au/congenital-deafblindness/for-families-carers/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Holte L, Van Dyke DC, Lubrica P. Issues in the evaluation of infants and young children who are suspected of or who are deaf-blind.  Infants Young Child . 2006;19(3):213-227. (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "R\u00f6nnberg J, Borg E. A review and evaluation of research on the deaf-blind  from perceptual, communicative, social and rehabilitative perspectives. Scand Audiol . 2001;30(2):67-77.  (G)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Engleman MD, Griffin HC, Griffin LW, Maddox JI. A teacher's guide to communicating with students with deaf-blindness.  Teach Except Child . 1999;31(5):64-70.  (G)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Dalby DM, Hirdes JP, Stolee P. Characteristics of individuals with congenital and acquired deaf-blindness.  J Vis Impair Blind . 2009;103(2):93-102.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Bonnet C, El-Amraoui  A. Usher syndrome (sensorineural deafness and retinitis pigmentosa): pathogenesis, molecular diagnosis and therapeutic approaches. Current Opinion in Neurology . 2012;25(1):42-49.  doi:10.1097/WCO.0b013e32834ef8b2. (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Dammeyer J. Prevalence and aetiology of congenitally deafblind people in Denmark. Int J Audiol . 2010;49(2):76-82.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Thelin JW, Swanson LA. CHARGE syndrome: multiple congenital anomalies including disorders of all senses and speech, language, feeding, swallowing and behavior. ASHA Lead. 2006;11(14):6-7.  (G)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Prain M, McVilly K, Ramcharan P, Currie S, Reece J. Observing the behaviour and interactions of adults with congenital deafblindness living in community residences. J Intellect Dev Disabil . 2010;35(2):82-91.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Jacobsen K, Bjerkan B, Sorlie R. Challenging behaviour in an adult male with congenital deaf-blindness:  analysis and intervention. Scand J Disabil Res . 2009;11(3):209-220. (C)"
+        },
+        {
+            "number in article": 10,
+            "reference": "den Boom MA, Antonissen AC, Knoors H, Vervloed MP. Differentiating characteristics of deafblindness and autism in people with congenital deafblindness and profound intellectual disability. J Intellect Disabil Res . 2009;53(6):548-558.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Marks SB. Understanding and preventing learned helplessness in children who are congenitally deaf-blind.  J Vis Impair Blind . 1998;92(3):200-212.  (G)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Finn DM, Fewell RR. The use of play assessment to examine the development of communication skills in children who are deaf-blind.  J Vis Impair Blind . 1994;88(4):349-356. (G)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Callier Center for Communicative Disorders. The Callier-Azusa  Scale. Dallas, TX: University of Texas; 2006. (PP)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Bayley N. Bayley Scales of Infant and Toddler Development . 3rd ed. San Antonio, TX: Psychological Corp; 2006. (PP)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Bruce SM, Mann A, Jones C, Gavin M. Gestures expressed by children who are congenitally deaf-blind:  topography, rate and function. J Vis Impair Blind . 2007;101(10):637-652.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Sparrow SS, Balla DA, Cicchetti DV. Vineland Adaptive Behavior Scales . Circle Pines, MN: American Guidance Service; 1985. (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Chen D. Young children who are deaf-blind:  implications for professionals in deaf and hard of hearing services. Volta Rev . 2004;104(4):273-284.  (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Bruce SM. The importance of shared communication forms. J Vis Impair Blind . 2003;97(2):106-109.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Jannssen MJ, Riksen-Walraven  M, van Dijk JPM. Applying the diagnostic intervention model for fostering harmonious interactions between deaf-blind  children and their educators: a case study. J Vis Impair Blind . 2006;100(2):91-105.  (C)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Heller KW, Allgood MH, Ware SP, Castelle MD. Use of dual communication boards at vocational sites by students who are deaf-blind.  RE: view. 1996;27(4):180-190.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Huttunen K, Sorri M. Methodological aspects of assessing speech intelligibility among children with impaired hearing. Acta Otolaryngol . 2004;124(4):490-494.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Hand in Hand: Essentials of Communication and Orientation and Mobility for Your Students who are Deaf-Blind . New York, NY: American Foundation for the Blind; 1995. (GI)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Dunnett J. Use of activity boxes with young children who are blind, deaf-blind,  or have severe learning disabilities and visual impairments. J Vis Impair Blind . 1999;93(4):225-232.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Hagood L. Communication: a guide for teaching students with visual and multiple impairments . Austin, TX: Texas School for the Blind and Visually Impaired; 1997. (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Chen D, Klein MD, Haney M. Promoting interactions with infants who have complex multiple disabilities: development and field-testing  of the PLAI curriculum. Infants Young Child. 2007;20(2):149-162.  (G)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Janssen MJ, Riksen-Walraven  JM, van Dijk JPM. Enhancing the quality of interaction between deaf-blind  children and their educators. J Dev Phys Disab . 2002;14(1):87-108. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Janssen MJ, Riksen-Walraven  JM, van Dijk JPM. Enhancing the interactive competence of deaf-blind  children: do intervention effects endure?. J Dev Phys Disab . 2004;16(1):73-94.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Bruce SM. The impact of congenital deaf-blindness  on the struggle to symbolism. Int J Dis Dev Edu . 2005;52(3):233-251.  (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Janssen MJ, Riksen-Walraven  M, van Dijk JPM, Ruijssenaars WAJ. Interaction coaching with mothers of children with deaf-blindness  at home: applying the Diagnostic Intervention Model. J Vis Impair Blind . 2010;104(1):15-29.  (C)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Janssen MJ, Riksen-Walraven  JM, van Dijk JPM, Huisman M, Ruijssenaars WAJJM. Fostering harmonious interactions in a boy with congenital deaf-blindness:  a single-case study. J Vis Impair Blind . 2011;105(9):560-572.  (C)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Wahlqvist M, M\u00f6ller C, M\u00f6ller K, Danermark B. Physical and psychological health in persons with deafblindness that is due to Usher syndrome Type II. J Vis Impairment Blindness . 2013;107(3):207-220.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Emerson J, Bishop J. Videophone Technology and Students with Deaf-Blindness:  A Method for Increasing Access and Communication. Journal for Visual Impairment and Blindness . 2012;106(10):622-633.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Martens MAW, Janssen MJ, Ruijssenaars WAJ, Huisman J, Riksen-Walraven  JM. Applying the Intervention Model for Fostering Affective Involvement with Persons Who Are Congenitally Deafblind: An Effect Study. Journal for Visual Impairment and Blindness . 2014;108(5):399-413.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Bloeming-Wolbrink  KA, Janssen MJ, Ruijssenaars WA, Menke R, Riksen-Walraven  JM. Effects of changes in life circumstances on interaction and communication in adults with congenital deafblindness and an intellectual disability. British Journal of Visual Impairment . 2015;33(1):31-44.  doi:10.1177/0264619614558429. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Blanco-Kelly  F, Jaijo T, Aller E, et al. Clinical aspects of Usher syndrome and the USH2A gene in a cohort of 433 patients. JAMA Ophthalmol . February 2015;133(2):157-64. doi:10.1001/jamaophthalmol.2014.4498. (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Lenassi E, Robson AG, Luxon LM, Bitner-Glindzicz  M, Webster AR. Clinical heterogeneity in a family with mutations in USH2A. JAMA Ophthalmol . March 2015;133(3):352-5. doi:10.1001/jamaophthalmol.2014.5163. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "H\u00f6gner N. Psychological Stress in People with Dual Sensory Impairment Through Usher Syndrome Type II. Journal of Visual Impairment & Blindness . 2015;36(3):185-197.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Cascella PW, Bruce SM, Trief E. Sign Language, Speech, and Communication Repair Abilities by Children with Congenital Deafblindnes. 2015;109(2):141-146.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Moteki H, Yoshimura H, Azaiez H, et al. USH2 caused by GPR98 mutation diagnosed by massively parallel sequencing in advance of the occurrence of visual symptoms. Ann Otol Rhinol Laryngol . May 2015;124(Suppl 1):123S-8S.  doi:10.1177/0003489415574070. (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Boas DC, Ferreira SP, de Moura MC, Maia SR, Amaral I. Analysis of Interaction and Attention Processes in a Child With Congenital Deafblindness. Am Ann Deaf . 2016;161(3):327-341.  doi:10.1353/aad.2016.0025. (C)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Wahlqvist M, M\u00f6ller C, M\u00f6ller K, Danermark B. Implications of Deafblindness: The Physical and Mental Health and Social Trust of Persons with Usher Syndrome Type 3. J Vis Impairment Blindness . 2016;110(4):245-256.  (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Arndt K, Parker A. Perceptions of Social Networks by Adults Who Are Deafblind. Am Ann Deaf . 2016;161(3):369-383.  doi:10.1353/aad.2016.0027. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Bruce SM, Zatta MC, Gavin M, Stelzer S. Socialization and Self-Determination  in Different-Age  Dyads of Students Who Are Deafblind. J Vis Impairment Blindness . 2016;110(3):146-161.  (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Ehn M, M\u00f6ller K, Danermark B, M\u00f6ller C. The Relationship Between Work and Health in Persons with Usher Syndrome Type 2. J Vis Impairment Blindness . 2016;110(4):233-244.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Henricson C, Fr\u00f6lander H-E, M\u00f6ller C, Lyxell B. Theory of Mind and Cognitive Function in Adults with Alstr\u00f6m or Usher Syndrome. J Vis Impairment Blindness . 2016;110(5):349-366.  (R)"
+        }
+    ]
+}

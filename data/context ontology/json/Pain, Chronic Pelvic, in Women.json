@@ -1,0 +1,311 @@
+{
+    "metadata": {
+        "title": "Pelvic Pain, Chronic, in Women",
+        "synonyms": [
+            "persistent pelvic pain in women",
+            "pain, chronic pelvic, in women",
+            "chronic pelvic pain in women"
+        ],
+        "anatomical location body part affected": [
+            "Pelvis, pelvic ligaments, pubic symphysis, sacroiliac (SI) joints, uterus, vagina, urological system, pelvic floor muscles (PFM), lower abdomen below the umbilicus, lumbar spine"
+        ],
+        "area of specialty": [
+            "women\u2019s health",
+            "orthopedic rehabilitation"
+        ],
+        "description": [
+            "Continuous or episodic pelvic pain that lasts for at least 6 months, occurs below the umbilicus, and is severe enough to interrupt normal ADLs, requiring medical or surgical treatment(20)",
+            "Chronic pelvic pain, by definition, is not caused by menstruation(1)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "F45.4": "persistent somatoform pain disorder",
+            "N94.9": "unspecified condition associated with female genital organs and menstrual cycle",
+            "R10.2": "pelvic and perineal pain (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Chronic pelvic pain is not a disease, but rather a condition associated with dysfunction in usually more than one of the following systems: gynecological, urological, gastrointestinal, musculoskeletal, and neurological",
+            "Signs and symptoms \u2013Intermittent or constant pain, pressure, or heaviness deep within the pelvis \u2013Dull aching \u2013Cramping \u2013Dyspareunia (pain with [or following] sexual intercourse) \u2013Pain with defecation \u2013Pain with urination \u2013Pain with sitting down \u2013Low back pain",
+            "Please see Clinical Review\u2026Pelvic Girdle Pain: An Overview ; CINAHL Topic ID Number: 5000008059 for more information on this condition (e.g., symptoms, causes, precautions/contraindications, tests, treatment)",
+            "Please see Clinical Review\u2026Pelvic Pain in Pregnancy ; CINAHL Topic ID Number: 5000007837 for more information on this condition (e.g., symptoms, causes, precautions/contraindications, tests, treatment)",
+            "Please see Clinical Review\u2026Fracture, Pelvic ; CINAHL Topic ID Number: 5000007562 for more information on this condition (e.g., symptoms, causes, precautions/ contraindications, tests, treatment) ",
+            "Please see Clinical Review\u2026Sacroiliac Joint Dysfunction ; CINAHL Topic ID Number: 5000007883 for more information on this condition (e.g., symptoms, causes, precautions/contraindications, tests, treatment)",
+            "Please see Clinical Review\u2026Symphysis Pubis Separation ; CINAHL Topic ID Number: 5000007887 for more information on this condition (e.g., symptoms, causes, precautions/contraindications, tests, treatment) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Only clinicians specifically trained in the evaluation/treatment of the pelvic floor should carry out portions of the examination related to this region",
+            "Maneuvers that duplicate the patient\u2019s pain should be noted, but undue reproduction of pain should be avoided to minimize guarding, which can interfere with performance of a thorough exam"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Neuromuscular/musculoskeletal-related  causes can be the primary or secondary source of pain(9)",
+            "Gynecological-related  causes: pelvic inflammatory disease (PID), pelvic adhesions, endometriosis, pelvic relaxation,vaginal apex pain, ovarian remnant, pelvic congestion, dysmenorrhea, adenomyosis, chronic ectopic pregnancy, ovariancystic growth or bleeding, leiomyoma (uncommon), torsion of mass or organ, retrodisplaced uterus (rare)(9)\u2013Current research suggests a weak correlation between pelvic adhesions and chronic pelvic pain(9)\u2013Authors of a 2018 study conducted in the United Kingdom concluded that there was little to no correlation betweenpatient-reported  pain and pelvic adhesions identified with investigative laparoscopy. On the contrary, women with themost adhesions were found to have the lowest pain scores(18)",
+            "Many women with chronic pelvic pain have more than one condition that may lead to pain(1)"
+        ],
+        "pathogenesis": [
+            "Pathogenesis remains unclear and poorly understood. Chronic pelvic pain is a multisystem disorder that affects the mindand the body. It is thought to be a dynamic interaction between the brain and the musculoskeletal and organ systems(1)",
+            "Central sensitization\u2013Researchers in Brazil found that sensitivity to experimental pain (electric stimulation was used) was reduced after6 months of multidisciplinary treatment for chronic pelvic pain, which provides additional evidence for centralsensitization(11)-Fifty-eight  patients participated in the study-Clinical management varied according to causal diagnosis (e.g., patients with musculoskeletal pain were treated withphysiotherapy; patients with endometriosis were treated with laparoscopic excision of lesions followed by hormonaltreatment; patients with gastroenterological symptoms were treated with dietary modification). Pain medications wereused to relieve symptoms during exacerbations-The results demonstrated a reduction of pain intensity perceived by the patient with treatment that was associated with aproportional increase in pain threshold",
+            "The gate control theory(1)\u2013Pain impulses are regulated by the spinal cord, which serves as a \u201cgate,\u201d either allowing the impulse to reach the brain orstopping it before it reaches the brain\u2013When the \u201cgates\u201d are negatively impacted through chronic pain, pain impulses may still travel to the brain even when theinitial root of the pain has been properly addressed",
+            "Neuropathic pain can develop from within nerves"
+        ],
+        "risk factors": [
+            "Risk factors for chronic pelvic pain; based on a systematic review(2)\u2013Drug or alcohol abuse\u2013Miscarriage\u2013Heavy menstrual flow\u2013PID(1)-Eighteen percent to 35% of all women with acute PID will develop chronic pelvic pain(1)\u2013Previous cesarean section\u2013Pelvic pathology-Interstitial cystitis (chronic bladder inflammation) (1)-Pelvic pain is reported in up to 70% of women with chronic interstitial cystitis-Endometriosis\u2013Abuse (physical or sexual)-Approximately 40% to 50% of women with chronic pelvic pain have a history of physical or sexual abuse(1)\u2013Psychological disorders-It is not clear whether mood disorder is a predisposing factor for, or a result of, chronic pelvic pain(9)\u2013Mesh complications-Women with mesh implants with complications have a high degree of pain associated with worse quality of life (19)",
+            "Other reported risk factors\u2013Irritable bowel syndrome (IBS)(1)-The gastrointestinal system is the most common nongynecological contributor to chronic pelvic pain, typicallymanifesting as IBS(9)-About one third of women with chronic pelvic pain have IBS\u2013Musculoskeletal disorders (e.g., increased lumbar lordosis, increased thoracic kyphosis)(1)-Poor posture can result in chronically weak and deconditioned muscles, creating core and pelvic muscle imbalances,hypertonicity, and trigger points\u2013Certain surgical procedures (e.g., cholecystectomy, groin hernia repair, pelvis fracture repair)(1)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "In women with chronic pelvic pain presenting for physical therapy evaluation, confirm that the patient has undergone an exhaustive medical workup in an attempt to diagnosis the underlying cause of pain. If during the course of evaluation/ treatment the clinician suspects the cause of pain is nonmusculoskeletal in nature or there is coexisting serious pathology, the patient should be referred back to the treating physician",
+        "If an abusive situation is suspected, patient should be referred back to treating physician",
+        "Please see Clinical Review\u2026Pelvic Girdle Pain: An Overview , referenced above, for more information on contraindications/ precautions in the case of acute pelvic pain",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Only clinicians specifically trained in the evaluation/treatment of the pelvic floor should carry out portions of the examination related to this region",
+            "Maneuvers that duplicate the patient\u2019s pain should be noted, but undue reproduction of pain should be avoided to minimize guarding, which can interfere with performance of a thorough exam"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Inquire about the history of the patient\u2019s pain. When did the pain begin? Was there any specific event or trauma that the patient can recall? How often does the patient experience pain? Is the pain worsening or improving? Has the pain changed or spread over time? Are there any associated discomforts?",
+                "course of treatment": {
+                    "medical management": "What diagnostic tests has the patient undergone? Any surgical procedures? Was a definitive diagnosis made? What were the reasons for physical therapy referral? Are there any specific orders/precautions/ contraindications noted?",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken as prescribed? Implantation of a levonorgestrel-releasing  intrauterine device(9) Long-term  use of NSAIDs or opioid narcotics is not recommended. Some patients may benefit from structured narcotic therapy; however, patients should be screened carefully for factors associated with high risk for misuse/ abuse(9) There are few controlled trials published specifically on the use of antidepressants or neuroleptics for the management of chronic pelvic pain. Current evidence supports tricyclic antidepressants as effective in treating chronic pain, including chronic pelvic pain. Neuroleptics are often prescribed when patients present with neuropathic symptoms(9) Combined oral contraceptives are effective in reducing pain associated with endometriosis(9) ",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Transvaginal ultrasound and MRI may be utilized to assist in diagnosis(20)",
+                        "The interstitial cystitis symptom index may be implemented(21)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or complementary therapies (e.g., acupuncture, chiropractic care, dry needling) and whether or not they help",
+                    "previous therapy": "Document whether patient has had physical therapy for this or other conditions and what specific treatments were helpful or not helpful. Surveys suggest that more than onethird of women with sexual pain never seek help from healthcare professionals, and 50% of women who do seek help are dissatisfied with their encounters(12)"
+                },
+                "aggravating easing factors": " Document any noted aggravating or easing factors (e.g., certain positions, following food consumption, voiding)(1) -Most women with chronic pelvic pain experience painful sexual activity(12)",
+                "body chart": "Use body chart to document location and nature of symptoms. Does the pain always occur in the same place?",
+                "nature of symptoms": "Document nature of pain symptoms (constant vs intermittent, sharp, dull, aching, burning, numbness, tingling). Ask the patient about other symptoms that present with the pain (e.g., vomiting, diaphoresis, constipation)(1)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables. Is it linked to the menstrual cycle?",
+                "sleep disturbance": "Document number of wakings/night related to the condition",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia) -In a chart review of 107 female patients with chronic pelvic pain, researchers in the United States found that psychological distress and impairment in daily activities were common, but that most areas of functional impairment were not associated with pain variables(13) -Rather, functional impairment was often related to higher levels of depression and anxiety -The authors suggest that the possibility that psychiatric symptoms contribute to the functional impairment in this population points to a need for a multidisciplinary approach in evaluation and treatment",
+                "respiratory status": "Is there any reported respiratory compromise? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history of same/similar diagnosis Has the patient ever been pregnant? If so, inquire about the course of the pregnancy and any complications during delivery Has the patient undergone any surgeries in the abdominal/pelvic region (which may be a factor in her chronic pelvic pain)? Any history of urinary or vaginal infections?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, gastrointestinal conditions, urinary system involvement, psychiatric conditions (e.g., depression, anxiety),(2)and orthopedic disorders Functional urinary problems (e.g., interstitial cystitis) and IBS are the most common medical conditions associated with chronic pelvic pain Psychological comorbidity, such as depression, and anxiety are more common in women with chronic pain(9)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms she may be experiencing "
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Does the patient work? What are the physical demands of the work? Patients may find it difficult to sit for any length of time. They often sit on one buttock and have to frequently stand up, which makes travelling or working difficult",
+                "functional limitations assistance with ADLs adaptive equipment": "Chronic pelvic pain is by definition sufficiently severe to interfere with ADLs. What impairments in ADLs does the patient report?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) Evaluation procedures may include but are not limited to the following",
+            "anthropometric characteristics": "Document patient\u2019s height and weight and calculate BMI",
+            "assistive and adaptive devices": "",
+            "balance": "Complete a general balance assessment. Assess single-leg stance for pain and instability with eyes open and closed",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "Complete a gait assessment; note deviations (e.g., antalgic pattern, Trendelenburg gait) Joint integrity and mobility \u2013Assess the bilateral hips for pain with provocation (e.g., Scour test) \u2013Assess lumbar spine for joint mobility and pain \u2013Motion tests, such as the trunk forward flexion test, are not reliable for assessing the SI joint(10)Assess for atypical muscle tone in the lower extremities Incoordination of the PFM and abdominal muscles may be observed. Note patient\u2019s ability to relax muscles between contractions when instructed to contract and relax quickly and repeatedly",
+            "muscle strength": " Muscle strength \u2013Complete manual muscle testing of the trunk and bilateral lower extremities",
+            "observation inspection palpation including skin assessment": [
+                "Palpate spinous processes, around/over SI joints, and region of trunk extensors for tenderness(1)"
+            ],
+            "posture": " Posture \u2013Complete a thorough postural assessment in standing, supine, and sitting. It is important to note that landmark testing to assess postural malalignments (e.g., elevated iliac crest height, posterior pelvic tilt) is not reliable for diagnosing dysfunction but can be utilized for general observation(1)",
+            "range of motion": " Range of motion \u2013Complete a bilateral lower extremity and trunk active and passive ROM assessment \u2013Document any compensations/abnormalities with active ROM trunk testing",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess deep tendon reflexes of the lower extremity Identify any impairment caused by chronic pelvic pain. Use of \u2013Constipation Scoring System (CSS)(8) \u2013Female Sexual Function Index (FSFI)(14) \u2013Incontinence Impact Questionnaire(15)",
+            "sensory testing": "The clinician should assess for impaired sensation or hypersensitivities",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Perform SI provocation tests. If SI joint pain is reported on 3/5 of these tests, it is highly likely that SI joint dysfunction is present(10) -Gaenslen\u2019s test -Patient is seated at the edge of the table and instructed to lie supine on the table. One knee is placed to the patient\u2019s chest with the other leg straight. Therapist pushes down on the straight leg while pushing the knee of the other leg toward the chest -Sacral thrust test -Patient is prone; therapist directs a force through the patient\u2019s joint on either side -Thigh thrust test -Patient is supine and one hip is flexed to 90\u00b0; therapist directs a force through the patient\u2019s femur via the knee -Pelvic compression test -Patient is placed in side-lying  and therapist compresses the patient\u2019s pelvis into the table by directing force through the iliac crest -FABER (flexed, abducted, externally rotated position of the extremity) test -Clinician directs force though knee and contralateral pelvis (over anterior superior iliac spine)A standardized questionnaire that may be administered to evaluate the severity of functional impairment as a result of pelvic girdle pain \u2013Quality of life questionnaires \u2013Pelvic Floor Distress Inventory (PFDI)(16) -Pelvic Floor Distress Inventory Short Form 20 (PFDI-20) \u2013Pelvic Floor Impact Questionnaire (PFIQ)(16) -Pelvic Floor Impact Questionnaire Short Form 7 (PFIQ-7) \u2013Pain Disability Index \u2013Pelvic Organ Prolapse/Urinary Incontinence Sexual Function Questionnaire (PISQ-12)(17)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis ",
+                "Cancer",
+                "Used in close proximity to diathermy treatment"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Electrotherapy  contraindications/precautions (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(4)"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Access may be limited due to relatively few therapists with women\u2019s health training. A listing of certified women\u2019s health physical therapists can be found on the American Physical Therapy Association website at http:// www.womenshealthapta.org  (7) Awareness of women\u2019s health therapy by the public and the healthcare community is somewhat limited, so there is often a significant delay between onset of symptoms and referral to physical therapy. Early referral to therapy is important for improving functional outcomes(7)",
+        "rule out": " Rule out There are numerous potential underlying causes of chronic pelvic pain that should be ruled out as part of the comprehensive evaluation and treatment program. Gastrointestinal dysfunction is often at the root of the pain.(1) For a more comprehensive list of possible causes of chronic pelvic pain, please see Causes , above",
+        "prognosis": [
+            "One quarter of women with chronic pelvic pain can recover from the condition(5) \u2013Based on a cohort study involving women with chronic pelvic pain \u2013Sixty percent of women responded to the questionnaires \u2013Seventy-two  women (> 18 years) participated in the study \u2013Follow-up  \u2013 average of 3.4 years -Eighteen women declared they had experienced \u201crecovery,\u201d which was defined as pelvic pain for < 3 months/year -Eight (of the 18) women responded that they had no pain \u2013The authors noted that there was no association detected between treatment (during the study period) and the outcomes of this cohort"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Refer patient to pain management specialist Sexual counseling, couples counseling, and psychotherapy can be helpful in the collaborative care of patients with chronic pelvic pain",
+        "other considerations": [
+            "Cognitive behavioral therapy (CBT) and biofeedback therapy can be useful in reducing autonomic responses to painful stimuli(9)"
+        ],
+        "treatment summary": [
+            "European Association on Urology guidelines for chronic pelvic pain recommend that treating pelvic floor overactivity and myofascial trigger points should be considered in the management of chronic pelvic pain(6) \u2013Pelvic floor muscle exercises should be applied as first-line treatment(6) -Relaxation and stretching should be included(6) \u2013Biofeedback is recommended as therapy adjuvant to muscle exercises(6)",
+            "European Association on Urology guidelines on chronic pelvic pain recommend a holistic approach with biological, psychological, and social components(6) \u2013Centers with a particular interest in pelvic pain that involve clinicians from several specialties, including those with expertise in chronic pain management, should be considered(6) . Problem Goal Intervention Expected Progression Home Program  Chronic pelvic pain Reduce/eliminate pain Patient education _ Patient should be taught various techniques to manage pain, including planning and pacing exercise and activities _ _ Prescription, application of devices and equipment _ Combination biofeedback and electrical stimulation units may also be employed _ _ (Please see Treatment summary , above)Progress each unique patient as appropriate and indicated _Verbal instruction/ education should be supported by written material in an effort to improve knowledge about the various components of chronic pelvic pain as well as"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "reduced eliminated pain": [
+            "V AS",
+            "Pain Disability Index"
+        ],
+        "normalized tone in the pelvic floor as able": [
+            "Pelvic Floor Distress Inventory (PFDI)"
+        ],
+        "improved postural alignment": [
+            "Posture assessment"
+        ],
+        "improved restored normal joint mobility": [
+            "Functional and provocative tests"
+        ],
+        "improved muscle strength flexibility": [
+            "Strength and ROM measurements"
+        ],
+        "improved body mechanics, ergonomics": [],
+        "improvement in the various domains of function": [
+            "Oswestry Disability Questionnaire (ODQ)",
+            "Pelvic Floor Impact Questionnaire (PFIQ)",
+            "Pelvic Organ Prolapse/Urinary Incontinence Sexual Function Questionnaire (PISQ-12)"
+        ]
+    },
+    "maintenance or prevention": [
+        "The patient is advised to continue her prescribed home program and follow up with the appropriate healthcare professionals as indicated"
+    ],
+    "patient education": [
+        "See \u201cPatient Information: Chronic Pelvic Pain in Women (Beyond the Basics),\u201d http://www.uptodate.com/contents/chronic-pelvic-pain-in-women-beyond-the-basics",
+        "See \u201cChronic Pelvic Pain in Women\u201d at the Mayo Clinic website, http://www.mayoclinic.org/diseases-conditions/chronic-pelvic-pain/home/ovc-20208133 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Polgar-Bailey  P. Chronic pelvic pain. In: Primary Care: A Collaborative Practice . 5th ed. St. Louis, MO: Mosby Elsevier; 2017:817-821.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Latthe P, Mignini L, Gray R, Hills R, Khan K. Factors predisposing women to chronic pelvic pain: systematic review. BMJ. 2006;332(7544):749-755.  (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Hertling D, Kessler RM. In: Management of Common Musculoskeletal Disorders: Physical Therapy Principles and Methods . 4th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2006:935-985.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. In: Bellew JW, Michlovitz JL, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis Co; 2016:322-323.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Weijenborg PT, Greeven A, Dekker FW, Peters AA, Ter Kuile MM. Clinical course of chronic pelvic pain in women. Pain. 2007;132(suppl 1):S117-S123.  (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Engeler D, Baranowski AP, Borovicka J, et al. Guidelines on chronic pelvic pain. European Association of Urology Web site. http://uroweb.org/wp-content/uploads/25-Chronic-Pelvic-Pain_LR_full.pdf . Published April 2014. Accessed June 21, 2019. (G)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Binford J. Physical therapy management of outlet dysfunction constipation and pelvic pain. Women\u2019s Health Phys Ther . 2013;37(2):59-69.  doi:10.1097/ JWH.0b013e31829df717. (C)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Agachan, et al. Constipation scoring system. The Pelvic Floor Society Web site. https://thepelvicfloorsociety.co.uk/budcms/includes/kcfinder/upload/files/Cleveland%20Clinic %20Constipation%20Score.pdf . Accessed June 21, 2019. (G)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Steege JF, Siedhoff MT. Chronic pelvic pain. Obstet Gynecol . 2014;124(3):616-629.  doi:10.1097/AOG.0000000000000417. (RV)"
+        },
+        {
+            "number in article": 10,
+            "reference": "van der Wurff P, Meyne W, Hagmeijer RH. Clinical tests of the sacroiliac joint. A systematic methodological review. Part 2: validity. Man Ther . 2000;5(2):89-96.  (SR)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Ferreira Gurian MB, Poli Neto OB, Rosa de Silva JC, Nogueira AA, Candido dos Reis FJ. Reduction of pain sensitivity is associated with the response to treatment in women with chronic pelvic pain. Pain Med . 2015;16(5):849-854.  doi:10.1111/pme.12625. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Coady D. Chronic sexual pain. Contemp OB GYN . 2015;60(9):18-23.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Miller-Matero  L, Saulino C, Clark S, Bugenski M, Eshelman A, Eisenstein D. When treating the pain is not enough: a multidisciplinary approach for chronic pelvic pain. Arch Womens Ment Health . 2016;19(2):349-354.  doi:10.1007/s00737-015-0537-9.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Isidori AM, Pozza C, Esposito K, et al. Development and validation of a 6-item version of the female sexual function index (FSFI) as a diagnostic tool for female sexual dysfunction. J Sex Med . 2010;7(3):1139-46.  doi:10.1111/j.1743-6109.2009.01635.  (RV)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Uebersax JS, Wyman FF, Shumaker SA, McClish DK, Fantl JA. Short forms to assess life quality and symptom distress for urinary incontinence in women: the incontinence impact questionnaire and urogenital distress inventory. Neurourol Urodyn . 1995;14(2):131-139.  doi:10.1002/nau.1930140206. (RV)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Barber MD, Walters MD, Bump RC. Short forms of two condition-specific  quality-of-life  questionnaires for women with pelvic floor disorders (PFDI-20 and PFIQ-7). Am J Obstet Gynecol. 2005;193:103-13.  doi:10.1016/j.ajog.2004.12.02. (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "'t Hoen LA, Utomo E, Steensma AB, Blok BFM, Korfage IJ. The pelvic organ prolapse/urinary incontinence sexual questionnaire (PISQ-12):  validation of the Dutch version. Int Urogynecol J . 2015;26(9):1293-1303.  doi:10.1007%2Fs00192-015-2692-y.  (RV)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Cheong Y, Saran M, Hounslow JW, Reading IC. Are pelvic adhesions associated with pain, physical, emotional and functional characteristics of women presenting with chronic pelvic pain? A cluster analysis. BMC Womens Health . 2018;18(1):11. doi:10.1186/s12905-017-0509-5.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Moradzadeh A, Jamnagerwalla J, Eilber KS, Anger JT, Lenore Ackerman A. High catastrophizing in subjects with painful mesh complications leads to worse outcomes. Urology. 2019;124:83-90.  doi:10.1016/j.urology.2018.05.050. (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Sakala MD, Carlos RC, Mendiratta-Lala  M, Quint EH, Maturen KE. Understanding patient preference in female pelvic imaging: transvaginal ultrasound and MRI. Acad Radiol . 2018;25(4). doi:10.1016/j.acra.2017.10.011. (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Passavanti MB, Pota V, Sansone P, Aurilio C, De Nardis L, Pace MC. Chronic pelvic pain: Assessment, evaluation, and objectivation. Pain Res Treat . 2017;2017:9472925. doi:10.1155/2017/9472925. (RV)"
+        }
+    ]
+}

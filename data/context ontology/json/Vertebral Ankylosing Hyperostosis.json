@@ -1,0 +1,343 @@
+{
+    "metadata": {
+        "title": "Diffuse Idiopathic Skeletal Hyperostosis (DISH)",
+        "synonyms": [
+            "ankylosing hyperostosis",
+            "diffuse enthesopathic hyperostosis",
+            "forestier disease",
+            "forestier-rotes-querol  disease",
+            "(22) generalized juxta-articular  ossifications of ligaments of the vertebral column",
+            "metabolic hyperostoticspondylopathy",
+            " physiologic vertebral ligamentous calcification",
+            "spondylitis deformans",
+            "spondylitis ossificansligamentosa",
+            "vertebral hyperostosingdiscosomatic osteoarthritis",
+            "vertebral osteophytosis",
+            "dish",
+            "hyperostosis, diffuse idiopathic skeletal (dish)",
+            "skeletal hyperostosis, diffuse idiopathic (dish)",
+            "vertebral ankylosing hyperostosis",
+            "ankylosing hyperostosis, vertebral",
+            "hyperostosis, vertebral ankylosing"
+        ],
+        "anatomical location body part affected": [
+            "Most common location is the lower thoracic spine (T7\u2013T11).(1) Can also affect cervical spine C3\u2013C7,  levels of the lumbar spine, and extremities of the shoulder, elbow, hip, knee, and heel"
+        ],
+        "area of specialty": [
+            "acute care",
+            "orthopedic rehabilitation",
+            "geriatric rehabilitation",
+            " home health"
+        ],
+        "description": [
+            "Diffuse idiopathic skeletal hyperostosis (DISH) is an idiopathic disease characterized by osteophyte formation in the spine. There are 3 hallmark signs of the disease:(2,3) \u2013Heterotopicosteophytes involving at least 4 contiguous vertebral levels \u2013Preservation of the disk spaces \u2013Absence of any apophyseal joint degeneration or sacroiliac inflammatory changes",
+            "Elbow DISH is classified as having both elbow and thoracospinal hyperostosis(20)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M48.1": {
+                "base": "ankylosing hyperostosis (Forestier)",
+                "Optional": "supplementary subclassification to indicate site of involvement",
+                "0": " 0 multiple sites in spine",
+                "1": " 1 occipito-atlanto-axial  region",
+                "2": " 2 cervical region",
+                "3": " 3 cervicothoracic region",
+                "4": " 4 thoracic region",
+                "5": " 5 thoracolumbar region",
+                "6": " 6 lumbar region",
+                "7": " 7 lumbosacral region",
+                "8": " 8 sacral and sacrococcygeal region",
+                "9": " 9 site unspecified"
+            },
+            "(ICD": {
+                "base": "codes are provided for the reader\u2019s reference, not for billing purposes)",
+                "Reimbursement:": "No specific issues or information regarding reimbursement has been",
+                "identified.": " identified. Reimbursement for therapy will depend on insurance contract coverage",
+                "Presentation/signs": " Presentation/signs and symptoms:  DISH is generally asymptomatic,(4) but patients",
+                "might": " might present with the following:",
+                "Spinal": " Spinal stiffness(5)",
+                "Decreased": " Decreased ROM in spinal mobility (flexion, extension, side bending, rotation)(4,6)",
+                "Radicular": " Radicular symptoms(7,8)",
+                "Chronic": " Chronic neck and low back pain(3,5,7)",
+                "Dysphagia(1,5,8,9,22)": " Dysphagia(1,5,8,9,22)",
+                "20%": " 20% to 30% of persons with DISH present with dysphagia",
+                "Dysphonia(9)": " Dysphonia(9)",
+                "Unstable": " Unstable thoracolumbar fractures(8)",
+                "Causes,": " Causes, Pathogenesis, & Risk Factors"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified. Reimbursement for therapy will depend on insurance contract coverage -Presentation/signs and symptoms:  DISH is generally asymptomatic,(4) but patients might present with the following: -Spinal stiffness(5) -Decreased ROM in spinal mobility (flexion, extension, side bending, rotation)(4,6)  -Radicular symptoms(7,8) -Chronic neck and low back pain(3,5,7) -Dysphagia(1,5,8,9,22) -20% to 30% of persons with DISH present with dysphagia -Dysphonia(9) -Unstable thoracolumbar fractures(8) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "DISH is generally asymptomatic,(4) but patients might present with the following: -Spinal stiffness(5) -Decreased ROM in spinal mobility (flexion, extension, side bending, rotation)(4,6)  -Radicular symptoms(7,8) -Chronic neck and low back pain(3,5,7) -Dysphagia(1,5,8,9,22) -20% to 30% of persons with DISH present with dysphagia -Dysphonia(9) -Unstable thoracolumbar fractures(8) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "No known specific causes of DISH have been identified(1)"
+        ],
+        "pathogenesis": [
+            "Osteophytes present along the anterolateral margins of 4 contiguous vertebral bodies and calcification of entheseal sites(1)\u2013Ossifications start at the insertion point of ligaments, tendons, and joint capsules (entheses)",
+            "Osteophyte formation affecting the anterior longitudinal ligament(5)"
+        ],
+        "risk factors": [
+            "Metabolic conditions(9,10)",
+            "Endocrine disorders(9)",
+            "Environmental factors(9)",
+            "Obesity(6,7)",
+            "Diabetes mellitus, type 2 (DM2)(8,10)",
+            "Hypertension(7)",
+            "Increased waist circumference(4)",
+            "Inflammatory disorders",
+            "Hyperinsulinemia(2,4)",
+            "Hyperuricemia(7,11)",
+            "Dyslipidemia(11)",
+            "Increased BMI(11)",
+            "Male sex(3,5,6)",
+            "Age > 60 years(5,8,10)",
+            "Patients with aortic valve sclerosis(19)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients with DISH are at increased risk for fractures",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Patients with DISH often are misdiagnosed as having ankylosing spondylitis. It is important for the examiner to understand the differences between the two conditions(23) \u2013The diagnosis of ankylosing spondylitis depends on the presence of inflammatory back pain or restriction of spinal mobility when radiographic sacroiliitis is present(3) "
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When did the symptoms begin? How old is the patient? Has the patient noticed any changes in swallowing? Has the patient noticed any changes in ability to speak? Any changes in spinal mobility? Has the patient had any radiographic images of the spine taken?",
+                "course of treatment": {
+                    "medical management": "Depending on severity and location of DISH, surgical removal of osteophytes may be required.(7,12) Treatment is aimed at decreasing pain and maintaining physical function(7)",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? NSAIDs are commonly prescribed for pain relief.(12)Longterm  use of retinoids (e.g., isotretinoin [Amnesteem, Claravis]) can increase risk for DISH",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Radiographic imaging is the diagnostic gold standard for DISH(1,13)",
+                        "Imaging will show new osteophyte formation at the anterior aspect of at least 4 contiguous vertebral bodies when viewed from the lateral aspect",
+                        "Imaging will show ossification of the anterior longitudinal ligament and extraspinal ligaments(11)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)(9) -ambulation -weight-bearing -spinal movement -sit to stand(9) -standing erect posture -minimized movement",
+                "body chart": "Use body chart to document location and nature of symptoms. Pain may distribute along the lateral margins of the thoracic and lumbar spine.(5) It may also involve the peripheral joints of the shoulders, elbows, and entheseal regions.(#) DISH more commonly affects the right side of the spine than the left(4)",
+                "nature of symptoms": "Document nature of symptoms (e.g., pain vs. stiffness, constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables. Stiffness is more evident in the morning and late evening(5)",
+                "sleep disturbance": "Document number of wakings/night. Are they due to symptoms of pain and stiffness?",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia). Note any changes in swallowing or phonation; note any breathing difficulty",
+                "respiratory status": "Patients with severe cases of DISH involving the cervical segments may require a tracheostomy and be intubated to open up the airways(14) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Previous history of spinal injury or dysfunction? ",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, metabolic disorders, endocrine disorders, parathyroid disorders, complications of pregnancy, psychiatric disorders, and orthopedic disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs). Patient may be taking NSAIDs, analgesics, or myorelaxants(12)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Are there any desired activities that the patient cannot participate in currently due to symptoms?",
+                "functional limitations assistance with ADLs adaptive equipment": "Patient may present with decreased functional range of the spine and shoulder, limiting ability to dress, shower, and ambulate. Determine any use of assistive devices such as a single-point  cane, walker, and/or wheelchair",
+                "living environment": "stairs, number of floors in home, with whom patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Assess BMI of patient. Those with higher BMI are at increased risk for DISH(6,7,11)",
+            "assistive and adaptive devices": "Determine if an assistive device is used by the patient. Ensure proper use of assistive device as well as proper height setting",
+            "balance": "Assess static and dynamic balance. Utilize functional balance assessments such as the Berg Balance Scale and the Timed Up and Go (TUG) test to determine balance. Patients with DISH are at increased risk for fractures(8,13)",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "Perform a gait assessment to determine any abnormalities in gait patternExamine the end feels and joint integrity of proximal joints and spinal segments. Determine hypermobility versus hypomobility in spinal segments",
+            "muscle strength": "Perform manual muscle testing (MMT) of upper and lower extremities as necessary and compare differences bilaterallySwallow study and endoscopy for patients presenting with dysphagia. Assess oral cavity, pharynx, larynx, and esophagus.(12)Dysphagia occurs with solid foods and is improved with anterior flexion of the neck(21)",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Patients may present with forward hunchback posture secondary to spinal stenosis(7)",
+            "range of motion": "Thoracic mobility will most often be restricted.(3,6,7) Some patients may present with limited mobility in the shoulder, cervical, and lumbar ranges(11)",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess integrity of peripheral nerves of C5, C6, C7, L4, and S1 and compare both sidesDetermine any limitations to reach arm overhead, hand behind back, hand behind head, etc. Barthel Index for ADLs assessment",
+            "sensory testing": "Check for differentiation of sharp/dull testing to note any changes in sensory distribution ",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Recent or potential hemorrhage",
+                "Thrombophlebitis",
+                "Impaired sensation",
+                "Impaired mentation",
+                "Malignant tumors",
+                "Irradiation of the eyes",
+                "Acute injury or inflammation",
+                "Pregnancy",
+                "Impaired circulation",
+                "Poor thermal regulation",
+                "Edema",
+                "Cardiac insufficiency",
+                "Metal in the area",
+                "Over an open wound",
+                "Over areas of topical counterirritants recently applied",
+                "Demyelinated nerves"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Thermotherapy  contraindications(15,23)",
+                "Thermotherapy  precautions(15,23)"
+            ]
+        },
+        "diagnosis need for treatment": "Radiographic imaging is the gold standard for diagnosing DISH.(11,16) Physical therapy evaluation and treatment may be indicated for increasing/maintaining spinal mobility and strength as well as treatment for related balance, function, and gait abnormalities. Physical therapy may also be indicated for decreased endurance due to lack of physical activity and for the treatment of pain associated with DISH",
+        "rule out": " Rule out Acromegaly(5) Ankylosing spondylitis(1,5,23) Degenerative disc disease(5) Discitis(9) Ochronosis(3) Osteitis condensansilii(3) Paget disease(5) Polymyalgia rheumatica(5) Psoriatic arthritis(1) Pyogenic spine infections(9) Reactive arthritis(1) Spinal epidural abscess(9) Spinal osteomyelitis(9) Spondylosis deformans(1)",
+        "prognosis": [],
+        "referral to other disciplines": "Patients with neurogenic claudication, myelopathy, or dysphagia may require referral services to other specialties.(5) Refer to speech language pathologists for those with dysphagia/dysphonia(17)",
+        "other considerations": [],
+        "treatment summary": [
+            "Therapeutic interventions for DISH can include:  (18) \u2013nutritional intervention to minimize saturated fat intake and carbohydrates \u2013weight reduction and increased physical activity \u2013joint protection techniques \u2013corticosteroid injections and entheseal protection \u2013minimizing falls and reducing risk of aspiration pneumonia \u2013in extreme cases, surgical resection of cervical osteophytes . Problem Goal Intervention Expected Progression Home Program Pain and tenderness Decrease pain and tendernessPhysical agents and mechanical modalities _ Thermotherapy hot packs can provide relief in patients with DISH(17) _ _ Manual massage therapy to decrease tenderness and muscle spasms in spinal musculature _ _ Walking and a generalized exercise program may help reduce pain(5)Discontinue use of modalities, splints, and braces as appropriateProvide strategies for home that address the patient\u2019s pain Decreased spinal mobilityMaintain or improve spinal mobilityTherapeutic exercises _ Provide stretching and ROM exercises to focus on spinal mobility _ _ Exercises targeting the abdominal muscles (obliques, transverse abdominis, multifidi) to strengthen core stabilizers(9)Stretching, as indicated and tolerated, of tightened muscle groupsProvide strategies for home that address ROM/muscle tightness  Decreased functional mobility, balance, and/or safety with ambulationDecrease or reduce prevalence of metabolic syndrome and chronic heart diseaseExercise _ Provide a weight-loss program and aerobic training program to decrease the prevalence of metabolic syndrome and chronic heart disease(4)Progression of intensity as necessary to increase level of enduranceProvide home exercise program to continue with cardiovascular fitness ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes with outcome measures": [
+            "Decreased pain\u2013V AS",
+            "Increased ROM/flexibility\u2013Goniometry",
+            "Increased strength\u2013MMT",
+            "Improved functional mobility\u2013FIM, TUG",
+            "Improved ADLs\u2013Barthel Index for ADLs",
+            "Improved balance\u2013Berg Balance Scale",
+            "Improved ambulation\u2013Gait speed, gait assessment",
+            "Improved cardiovascular endurance\u20136MWT"
+        ]
+    },
+    "maintenance or prevention": [
+        "There are some preventive measures to follow to reduce the risk of DISH Maintain proper body weight and reduce risk of obesity Reduce risk of DM2 Improve cardiovascular fitness Proper nutrition to decrease risk of hyperlipidemia Exercise program to maintain or improve spinal mobility"
+    ],
+    "patient education": [
+        "More information on DISH can be found at the following: https://www.mayoclinic.org/diseases-conditions/diffuse-idiopathic-skeletal-hyperostosis/symptoms-causes/syc-20371661 https://www.medicinenet.com/diffuse_idiopathic_skeletal_hyperostosis/article.htm Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Mader R, Baraliakos X, Eshed I, et al. Imaging of diffuse idiopathic skeletal hyperostosis (DISH). RMD Open . 2020;6(1). doi:https://doi.org/10.1136/rmdopen-2019-001151. (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Zarei M, Golbakhsh M, Rostami M, et al. Dysphonia, stridor, and dysphagia caused by diffuse idiopathic skeletal hyperostosis: Case report and review of literature. Neurospine . 2020;9:47. doi:https://doi.org/10.4103/abr.abr_50_20. (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Reveille JD. Ankylosing spondylitis. In: Bope ET, Kellerman R, eds. Conn's Current Therapy 2017 . Philadelphia, PA: Elsevier Saunders; 2017:829-831.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Okada E, Ishihara S, Azuma K, et al. Metabolic syndrome is a predisposing factor for diffuse idiopathic skeletal hyperostosis. Neurospine . 2021;18(1):109-116.  doi:https:// doi.org/10.14245/ns.2040350.175. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Diffuse idiopathic skeletal hyperostosis. In: Sarwark JF, ed. Essentials of Musculoskeletal Care 4 . Rosemont, IL: American Academy of Orthopaedic Surgeons; 2010:87-88. (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Ngian GS, Littlejohn GO. Is DISH painful? J Rheumatol . 2010;37(9):1797-1799.  doi:10.3899/jrheum.100519. (X)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Srikulmontree T, Rao TPS. Chronic neck pain. Diffuse idiopathic skeletal hyperostosis. Am Fam Physician . 2009;79(7):595-596.  (X)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Westerveld LA, Verlaan JJ, Lam MG. The influence of diffuse idiopathic skeletal hyperostosis on bone mineral density measurements of the spine. Rheumatology (Oxford) . 2009;48(9):1133-1136.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Fish DE, Middleton K, Gluzman A. Atypical presentation of osteomyelitis, discitis, epidural, and iliopsoas abscess in diffuse idiopathic skeletal hyperostosis (DISH) syndrome. Am J Phys Med Rehabil . 2008;87(11):960-966.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Verdone F. Diffuse idiopathic skeletal hyperostosis in the third millennium: is there (yet) cause for concern?. J Rheumatol . 2010;37(6):1356-1358.  (X)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Unverdi S, Ozturk MA, Inal S. Idiopathic hypoparathyroidism mimicking diffuse idiopathic skeletal hyperostosis. J Clin Rheumatol . 2009;15(7):361-362.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Karadag B, Cat H, Aksoy S. A geriatric patient with diffuse idiopathic skeletal hyperostosis. World J Gastroenterol . 2010;16(13):1673-1675.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Olivieri I, Angelo S, Palazzi C, Padula A, Mader R, Khan MA. Diffuse idiopathic skeletal hyperostosis: differentiation from ankylosing spondylitis. Curr Rheumatol Rep . 2009;11(5):321-328.  (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Gokce A, Beyzadeoglu T, Hanci L, Erdogan F. Diffuse idiopathic skeletal hyperostosis as a cause of acute respiratory distress in early postoperative period of total knee arthroplasty. Arch Orthop Trauma Surg . 2007;127(7):553-555.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Cameron MH. In: Physical Agents in Rehabilitation: From Research to Practice . 3rd ed. St. Louis, MO: Elsevier Saunders; 2009:140-141,  157-158. (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Urrutia J, Bono CM. Long-term  results of surgical treatment of dysphagia secondary to cervical diffuse idiopathic skeletal hyperostosis. Spine J. 2009;9(9):e13-17.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Krishnarasa B, Vivekanandarajah A, Ripoll L, Chang E, Wetz R. Diffuse idiopathic skeletal hyperostosis (DISH) - a rare etiology of dysphagia. Clin Med Insights Arthritis Musculoskeletal Disord . 2011;4:71-75.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Mader R, Verlaan JJ, Buskila D. Diffuse idiopathic skeletal hyperostosis: clinical features and pathogenic mechanisms. Nar Rev Rheumatol . 2013;9(12):741-750.  doi:10.1038/ nrrheum.2013.165. (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Orden AO, David JM, Diaz RP, Nardi NN, Ejarque AC, Yochler AB. Association of diffuse idiopathic skeletal hyperostosis and aortic valve sclerosis. Medicina (B Aires) . 2014;74(3):205-209.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Beyeler C, Thomann SR, Gerber NJ, Kunze C, Aeberli D. Diffuse idiopathic skeletal hyperostosis (DISH) of the elbow: a controlled radiological study. BMC Musculoskeletal Disord. 2015;16:119. doi:10.1186/s12891-015-0575-5.  (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Van Horn AS, Blight AA, Edwards CC, II. Dysphagia with diffuse idiopathic skeletal hyperostosis/Forestier\u2019s disease. J Nurse Pract . 2014;10(9):737-740.  (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Bird JH, Biggs TC, Karkos PD, Repanos C. Diffuse idiopathic skeletal hyperostosis as an acute airway presentation requiring urgent tracheostomy. Am J Emerg Med . 2015;33(5):737.e1. doi:10.1016/j.ajem.2014.10.050. (C)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: FA Davis; 2016. (GI) "
+        }
+    ]
+}

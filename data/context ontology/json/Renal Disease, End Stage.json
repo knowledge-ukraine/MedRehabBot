@@ -1,0 +1,413 @@
+{
+    "metadata": {
+        "title": "Kidney Disease, Chronic",
+        "synonyms": [
+            "chronic kidney failure",
+            "chronic renal disease",
+            "chronic renal failure",
+            "end-stage kidney disease (eskd)",
+            "end-stage  renal disease (esrd)",
+            "kidney disease, end-stage",
+            "renal disease",
+            "end-stage"
+        ],
+        "anatomical location body part affected": [
+            "Kidneys/renal nephrons (i.e., glomeruli and tubules); renal blood vessels; heart; blood; multiple systemic comorbidities"
+        ],
+        "area of specialty": [
+            "cardiovascular rehabilitation",
+            "home health",
+            "orthopedic rehabilitation",
+            "geriatric rehabilitation"
+        ],
+        "description": [
+            "Chronic kidney disease (CKD) is a common medical condition, affecting 11\u201313%  of U.S. adults aged 20 years and older, that is mainly due to uncontrolled hypertension and diabetes(9,10,27)",
+            "CKD is defined as a reduction in glomerular filtration rate (GFR) to below 60 ml/ min/1.73m2 (normal values range from 90 to 120 ml/min/1.73m2) for 3 months or more(27)",
+            "CKD can be broken down into the following stages:(27) \u2013Stage 1 \u2013 Kidney damage with normal or elevated GFR (\u2265 90) \u2013Stage 2 \u2013 Kidney damage with mildly reduced GFR (60\u201389) \u2013Stage 3a \u2013 Mildly-moderately  reduced GFR (45\u201359) \u2013Stage 3b \u2013 Moderately-severely  reduced GFR (30\u201344) \u2013Stage 4 \u2013 Severely reduced GFR (15\u201329) \u2013Stage 5 \u2013 End-stage  renal disease \u2013 GFR < 15 (or on dialysis)",
+            "In most cases, the characteristic signs and symptoms of CKD do not appear until excessive metabolic toxins accumulate in blood (uremia), and thus the diagnosis is usually made at an advanced stage of renal impairment(27)",
+            "Physical functioning often is compromised after signs/symptoms of uremia appear, and worsens with disease progression(1)",
+            "Individualized aerobic and resistance exercise training is indicated to counteract cardiovascular deconditioning, muscle weakness, and increased coronary risk, as well as to improve functional capacity, uremia-specific  measures, and QOL(1)",
+            "Authors of a 2015 review recommended that prescription of exercise interventions should become part of the standard nephrological care for patients with CKD(28) \u2013Based on the fact that physical activity (PA), cardiorespiratory fitness, and muscle function are low in patients with CKD and that a sedentary lifestyle has been associated with an increased risk of mortality and morbidity \u2013An expert statement issued by researchers in the United Kingdom (British Association of Sport and Exercise Sciences \u2013 BASES) also states that renal medicine services need to evolve to incorporate exercise rehabilitation as part of a comprehensive and integrated renal care package, including \u201cexercise on prescription\u201d(29)",
+            "This Clinical Review discusses interventions in CKD patients in stages 1\u20134 who are not dependent on hemodialysis or kidney transplantation; i.e., interventions required to sustain life in ESRD  \u2013Exercise prescription during dialysis treatments or after kidney transplantation is the focus of a separate review. (See Clinical Review\u2026Renal Dialysis and Exercise ; CINAHL Topic ID Number: T709129)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "N18": {
+                "base": "chronic renal failure",
+                "N18.0": "end-stage renal disease",
+                "N18.8": "other chronic renal failure, specified",
+                "N18.9": "chronic renal failure, unspecified"
+            },
+            "I12.0": "hypertensive renal disease with renal failure (ICD codes are provided for the reader\u2019s reference, and not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Early stages are asymptomatic(29)",
+            "Hypertension is the most common physical finding and is often present in early stages of CKD(27)",
+            "General symptoms of uremia usually do not present until CKD is advanced. They include(27) \u2013persistent fatigue (lethargy) \u2013anorexia \u2013nausea and vomiting \u2013metallic taste in the mouth \u2013Irritability, memory impairment, insomnia, restless legs",
+            "Difficulty walking",
+            "Deficits in balance",
+            "Joint pain and stiffness",
+            "Muscle spasm",
+            "Paresthesias",
+            "Shortness of breath with minimal exertion",
+            "Reduced functional independence in ADLs",
+            "Edema (e.g.,swollen feet and ankles and puffiness around eyes)",
+            "Muscle atrophy Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Differential diagnosis is important as there are many reversible causes of kidney injury, including(29) \u2013infection \u2013obstruction \u2013extracellular fluid volume depletion or significant hypotension relative to baseline \u2013hypokalemia, hypercalcemia, and hyperuricemia \u2013nephrotoxic agents \u2013severe/urgent hypertension \u2013heart failure",
+            "Stop the exam and notify physician if patient reports symptoms of cardiac insufficiency such as angina, inappropriate shortness of breath, dizziness, etc.",
+            "Stop exercise testing or exercise training at the onset of symptoms resulting from exertion. In the absence of symptom limitations, exercise should be terminated at voluntary fatigue or other predetermined endpoints specific for the patient\u2019s tolerance(2)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Primarily due to uncontrolled hypertension and diabetes but also associated with the following:\u2013Glomerular diseases-Primary glomerular diseases-Focal and segmental glomerulosclerosis-Membranoproliferative glomerulonephritis-IgA nephropathy-Membranous nephropathy-Hereditary nephritis-Secondary glomerular diseases-Diabetic nephropathy-Renal amyloidosis-Postinfectious glomerulonephritis-HIV-associated  nephropathy-Collagen-vascular  diseases (e.g., systemic lupus erythematosus)\u2013Tubulointerstitial nephritis-Drug hypersensitivity-Heavy metals-Analgesic nephropathy-Reflux/chronic pyelonephritis-Sickle cell nephropathy-Idiopathic\u2013Cystic disease-Polycystic kidney disease-Medullary cystic disease\u2013Obstructive nephropathies-Prostate disease-Nephrolithiasis-Retroperitoneal fibrosis/tumor-Congenital\u2013Vascular disorders-Hypertensive nephrosclerosis\u2013Renal artery stenosis"
+        ],
+        "pathogenesis": [
+            "Causes mentioned above lead to destruction of nephrons, which leads to compensatory hypertrophy and hyperfiltration ofremaining nephrons. Compensatory hyperfiltration in remaining nephrons leads to overwork injury, causing progressiveglomerular sclerosis and interstitial fibrosis(27)",
+            "Markers of impaired renal function include low GFR, azotemia (accumulation of nitrogenous toxins in blood, such as ureaand creatinine), passage of protein and albumin in urine, and retention of water, sodium, and potassium (leading to edema)",
+            "Complications from CKD occur at fairly predictable stages of disease(27)\u2013Hypertension \u2013 present in all stages of the disease process\u2013Increased levels of parathyroid hormone and anemia \u2013 usually occurs in stage 3a or 3b\u2013Increased levels of phosphorus \u2013 early in stage 4\u2013Acidosis and hyperkalemia as the patient approaches stage 5\u2013Uremic syndrome in stage 5"
+        ],
+        "risk factors": [
+            "Traditional cardiovascular risk factors, especially smoking, hypertension, physical inactivity, and obesity",
+            "Sedentary lifestyle",
+            "Dietary habits that promote weight gain, diabetes mellitus, or hyperlipidemia",
+            "Abuse of alcohol or illegal substances",
+            "Failure to implement medical screening and monitoring criteria for CKD in early stages(9,10)",
+            "History of HIV or hepatitis C virus infection (10)",
+            "Poor adherence to medical advice on CKD-related  risk factors",
+            "Family history",
+            "Blacks, Hispanics, Pacific Islanders, Native Americans, and older adults are at increased risk",
+            "Kidney donation does not increase risk of CKD later in life(27)",
+            "Hypertension during pregnancy(18)\u2013The risk of developing CKD and ESRD was greater for women with hypertensive pregnancy disorders based on acohort study of 26,651women in Taiwan with hypertensive pregnancy disorders. The risk was greater in women withpre-eclampsia or eclampsia compared with those with gestational hypertension only"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Notify physician if a patient presents with recent onset of signs and symptoms of acute illness, including unusual/atypical fatigue fever malaise flulike symptoms (e.g., chills, headache, dizziness, muscle aches) pulmonary crackles/rales increased nausea diarrhea ",
+        "Start-up  workloads should feel \u201clight\u201d during either exercise testing or exercise training; allow the patient a warm-up  period to avoid overexertion",
+        "Postpone PA/exercise therapy and notify physician in case of(2) chest pain resting systolic blood pressure (BP) over 200 mmHg resting diastolic BP over 110 mmHg erratic, fluctuating, or inappropriate BP response severe headache, dizziness, or lightheadedness occurs during exercise prolonged fatigue after exercise",
+        "Between 1% and 4% of patients with CKD on hemodialysis develop calciphylaxis, a cutaneous ischemic infarct caused by occlusion of blood vessels in the dermis and subcutaneous fat. This is a severe disorder associated with a 40% to 80% mortality rate. Patients present with extreme pain, sudden skin lesions that most often occur on the lower extremities, and signs of infection or sepsis. Notify the referring physician immediately(16)",
+        "Contact sports should always be avoided to prevent trauma to the kidneys",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Differential diagnosis is important as there are many reversible causes of kidney injury, including(29) \u2013infection \u2013obstruction \u2013extracellular fluid volume depletion or significant hypotension relative to baseline \u2013hypokalemia, hypercalcemia, and hyperuricemia \u2013nephrotoxic agents \u2013severe/urgent hypertension \u2013heart failure",
+            "Stop the exam and notify physician if patient reports symptoms of cardiac insufficiency such as angina, inappropriate shortness of breath, dizziness, etc.",
+            "Stop exercise testing or exercise training at the onset of symptoms resulting from exertion. In the absence of symptom limitations, exercise should be terminated at voluntary fatigue or other predetermined endpoints specific for the patient\u2019s tolerance(2)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "Is the patient being treated for cardiovascular disease (e.g., coronary artery disease, hypertension, heart failure, hyperlipidemia), diabetes, neurological disease, osteoporosis, or other comorbidities? Is the patient on dialysis?",
+                    "surgical management": [],
+                    "medications": "Certain medications (e.g., beta blockers, diuretics) might affect exercise heart rate (HR) or BP. Document these and confirm that they are being taken The American Academy of Physicians published clinical practice guidelines in 2013 based on a systematic review of(17) Patients with hypertension and stage 1 to 3 CKD should be prescribed an angiotensin-converting enzyme (ACE) inhibitor or an angiotensin IIreceptor blocker (ARB) Statin medications should be prescribed to manage elevated low-density  lipoprotein (LDL) cholesterol in patients with stage 13 CKD",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests:  The laboratory workup might include the following:",
+                        "ECG  resting and exercise recordings might indicate heart disease (e.g., ischemia, arrhythmias, hypertrophy)",
+                        "Biomarkers of impaired renal function (e.g., decreased serum albumin; increased white blood cell count; increased serum calcium and phosphate; increased urinary urea, creatinine, potassium, phosphate, and calcium) ",
+                        "Blood glucose (a high percentage of patients with CKD have diabetes)",
+                        "Hematocrit, hemoglobin, red blood cell count (low levels indicate anemia)",
+                        "Cystatin C alone or in combination with creatinine values increases the accuracy of the estimated GFR and its",
+                        "association with the risk of death and ESRD. This is based on a metaanalysis of 11 general population and 5 cohort studies that included over 92,000 patients(23)",
+                        "Ultrasound  if small, echogenic kidneys are observed bilaterally, this finding supports the diagnosis of CKD"
+                    ],
+                    "alternative therapies": "Document any use of herbal, behavioral, or other alternative therapies (e.g., acupuncture, medical marijuana) and whether they help",
+                    "previous therapy": "Document whether patient has previously received exercise therapy and what specific program was followed. What education has patient already received about management of CKD?"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document reported symptoms",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms such as pain or fatigue at their best, at their worst, and at the moment",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Common in patients with CKD. Document number of wakings/night -Insomnia might be present in later stages of CKD as well as restless leg syndrome(27)",
+                "other symptoms": "Document other symptoms patient might be experiencing that could reduce the ability to exercise and/ or symptoms that might indicate referral to physician (e.g., dizziness, shortness of breath, headache, swelling of ankles, lack of energy) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________",
+                "respiratory status": "Document the use of any supplemental oxygen or the need for any assistance with ventilation"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any prior exercise prescription or exercise therapy for chronic conditions?",
+                    "comorbid diagnoses": "Any history of heart disease, hypertension, stroke, diabetes, peripheral vascular disease, or osteoporosis? Are diabetes and hypertension wellcontrolled? In a large United Kingdom cohort study of 868,616 patients from the United Kingdom Diabetes Audit, renal dysfunction was diagnosed in 42.3% and 32.4% of patients with type 1 and type 2 diabetes, respectively(19)",
+                    "medications previously prescribed": "Obtain a comprehensive list of all prescribed and OTC medications and herbal remedies that are being taken. If applicable, any use of illegal drugs?",
+                    "other symptoms": "Ask about symptoms related to physical exertion"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient work or participate in fitness activities? Note the patient\u2019s baseline level of PA. Is the patient a smoker?",
+                "functional limitations assistance with ADLs adaptive equipment": "If applicableAsk about family situation, employment status, and working conditions that might increase stress/anxiety",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be appropriate \u203aRelevant tests and measures:  (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Determine height, weight, and BMI. Document whether the patient is overweight or obese as indicated by BMI",
+            "assistive and adaptive devices": "Is an assistive device being used for ambulation or to allow greater independence in ADLs?",
+            "balance": "Assess static and dynamic balance reactions to clear for specific modes of exercise. Functional Reach Test or Berg Balance Test, as indicated",
+            "cardiorespiratory function and endurance": [
+                "Based on data collected from 651,749 United States veterans with CKD, the optimal BP in patients with CKD is",
+                "130159/7089  mmHg. Patients with these values had the lowest adjusted mortality rates and those in whom both systolic BP and diastolic BP were concomitantly very high or very low had the highest mortality rates(22)"
+            ],
+            "circulation": "Confirm that peripheral pulses are palpable in all limbs",
+            "functional mobility": "Check for normalcy in gross movement during transfers and functional tasks using the upper extremities (e.g., reaching, pulling, pushing, holding) and lower extremities (steps, squatting, kneeling, kicking, etc.). Timed Up and Go (TUG) test for functional mobility, FIM for objective measurement",
+            "gait locomotion": "Assess ambulatory function, including synchrony of limb movements and posture, for suitability of a walking exercise program. Dynamic Gait Index (DGI) for gait safety, if applicable",
+            "muscle strength": "Manually scan strength in functional tasks (e.g., pushing, pulling, sittingup, squatting). Assess handgrip strength with a hand dynamometer",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "Assess for functional ROM in all extremities during the prescribed exerciseAssess deep tendon reflexesScan dermatomes. Assess proprioception if indicated by poor balance",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests \u2013Graded exercise testing on a treadmill or cycle ergometer -In compliance with medical guidelines, assess HR, BP, and RPE responses and monitor for adverse signs/symptoms.(2) Do not use any percentage of the age-predicted  maximal HR as a target in progressive exercise testing because the maximal-achievable  HR might be lower than predicted",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Poor functioning in ADLs",
+                "Severe muscle weakness",
+                "Symptoms of cardiac and respiratory discomfort during ADLs",
+                "Fear of exercise and lack of confidence",
+                "No previous exercise experience",
+                "Serious psychological disorders",
+                "If none of the above is present, experts in the United Kingdom recommend that an initial evaluation should include a referral to a community-supported  PA program and a written, self-managed  PA and exercise plan to follow until next reevaluation",
+                "systolic BP exceeds 250 mmHg or diastolic BP exceeds 115 mmHg",
+                "systolic BP falls unexpectedly more than 10 mmHg",
+                "the patient reports chest discomfort, lightheadedness, or dyspnea suggestive of cardiac insufficiency"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with CKD are at increased risk for fracture due to severe hyperparathyroidism, osteoporosis, osteomalacia, adynamic bone disease, and post-transplantation  syndrome. The risk of hip and vertebral fractures increases with the severity of CKD, especially ESRD(20)",
+                "Patients with CKD might be on fluid restrictions, which might affect their ability to exercise, especially if they perspire heavily. Consult with physician or dietician if there are concerns",
+                "Tailor the exercise prescription to match the patient\u2019s functional ability, symptoms, and cardiorespiratory responses to exercise testing",
+                "Ensure close supervision with instruction during the initial phase of exercise therapy and functional training sessions",
+                "Certain populations might require continuing structured and supervised exercise if they have at least one of the following:(29)",
+                "Hypertension is common in patients with CKD. Monitor BP on a regular basis during PA. According to standard exercise guidelines,(2) exercise should be terminated if",
+                "Resting BP higher than 180/110 mmHg is an absolute contraindication and BP higher than 160/100 mmHg is a relative contraindication to performing resistance exercise(2) ",
+                "Provide the patient with a thorough orientation to using therapeutic exercise equipment and with adequate warm-up  time to help reduce apprehension about exercise",
+                "In addition to monitoring HR and BP for appropriate responses, use the patient\u2019s RPE and reported symptoms to make the exercise tolerable for either aerobic or resistance training(3)",
+                "Extend the cooldown period and avoid having the patient stop suddenly after exercise, because this might cause a precipitous fall in systolic BP due to venous pooling (i.e., orthostatic hypotension with possibly syncope)",
+                "Clinicians should follow the exercise guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician",
+                "Electrotherapeutic modalities are indicated for coexisting musculoskeletal conditions when prescribed by the referring physician or if, in clinician\u2019s judgment, the benefit outweighs any risk",
+                "Rehabilitation professionals should always use their professional judgment regarding the use of modalities"
+            ]
+        },
+        "diagnosis need for treatment": "CKD/generalized pain and paresthesias. Deficits in physical functioning can be associated with muscle weakness ROM limitations reduced endurance disturbed balance difficulty in ambulation limitations in ADLsCardiovascular disease (e.g., coronary artery disease, peripheral vascular disease, stroke, heart failure, pericarditis), anemia, coagulopathy, osteoporosis, diabetes mellitus, electrolyte abnormalities, metabolic syndrome, neuromuscular irritability, decreased libido and erectile dysfunction, anovulation",
+        "rule out": "",
+        "prognosis": [
+            "Patients with CKD are more likely to have a major cardiovascular event than to progress to ESRD. These patients have a worse prognosis with higher mortality rates following a-myocardial infarction than patients without CKD. Furthermore, patients with CKD are at higher risk for recurrent myocardial infarction, heart failure, and sudden cardiac death(24)",
+            "Untreated CKD inevitably progresses to ESRD, resulting in the need for dialysis or transplantation",
+            "Authors of a population-based  cohort study in South Korea involving 1,473 non-dialysis-dependent  patients with CKD found an increased mortality rate (134 per 1,000 persons) compared to the age-matched healthy control group (30 per 1,000 persons)(4)",
+            "Serial measurements of handgrip strength (HGS) are used to assess muscle function related to nutritional status in patients with CKD. Loss of HGS is associated with poor renal outcomes (e.g.,higher levels of inflammation, fluid overload, low pre-dialysis  sodium levels, and protein energy wasting).(5) Low pre-dialysis  sodium levels are associated with malnutrition and mortality"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician for management of medical symptoms related to CKD Clinical exercise testing laboratory for direct measurement of VO 2 peak Nutritionist for dietary management and advice on weight management \u2013The following recommendations are based on the Kidney Disease: Improving Global Outcomes (KDIGO) 2012 clinical practice guidelines(26) -Protein intake should be 0.8g/kg/day in all adults and GFR < 30 ml/min/1.73m2. High-protein  diets should be avoided in patients with CKD -Hemoglobin A1c should be \u2264 7% to prevent or delay the progression of microvascular complications associated with diabetes and CKD. For those with comorbidities or limited life expectancy and risk for hypoglycemia, hemoglobin A1c can be > 7% -Sodium intake should be < 2g per day unless contraindicated Occupational therapist for limitations in ADLs Psychiatrist/psychologist for stress/anxiety disorder \u2013In a review of the literature, Greek researchers reported that patients with CKD present with long-term  psychological difficulties related to maintaining their employment, social life, financial stability, and diet constraints(21) ",
+        "other considerations": [
+            "Educate patients to be physically active on most days of the week, ideally for a total of 30 minutes per day, at an exertion level that is easily tolerated(11)",
+            "Higher BMI and obesity are associated with more rapid disease progression in patients with CKD.Lifestyle interventions including reduction in body fat through caloric restriction, increasing activity levels, and nutritional education may reduce or ameliorate CDK progression(6)",
+            "Authors of a mini-meta-analysis  looking at GFR during the holy month of Ramadan (alternating abstinence and feasting periods) demonstrated that GFR did not significantly change during this period, suggesting that patients with CKD can safely fast during Ramadan(30)",
+            "Based on a United States\u2013based  qualitative study, the treatment burden on patients with CKD can improve by addressing four components: eliciting family and social support, diet modification, healthy lifestyle and medication compliance, and learning to monitor CKD and comorbidities(33)"
+        ],
+        "treatment summary": [
+            "Exercise/PA/lifestyle modifications \u2013Researchers investigating the perspective of the patient with CKD on exercise and PA identified both barriers to exercise and motivating factors(31) -Barriers: physical (fatigue, non-specific, comorbidities), psychological (reduced motivation, anxiety) and social (time and cost) -Motivators: support, education, and gentle exercise -Preferred exercise was walking, and authors suggested that walking combined with an educational manual has the potential to encourage patients with CKD to be more active -Based on questionnaires (Leisure Time Questionnaire and free text comments on preferred exercise) given to 1,357 pre-dialysis  patients at 3 clinics in the United Kingdom -1,104 or 81.4% of the pre-dialysis  patients were labeled inactive \u2013Exercise has been shown to improve efficiency of muscle mitochondrial oxidative metabolism, which is strongly correlated with muscle power(12) \u2013Researchers in Pakistan investigated the effectiveness of high-intensity  aerobic resistance exercise, including interval and circuit training, on improving exercise capacity in patients with CDK(7) -82 patients ages 36\u201371  years with CKD stages 2\u20135 were recruited to participate in the study and assigned to either the interval group (N = 41) or the circuit group (N = 41) -Each group exercised 3x/week for a duration of 50\u201355 minutes for 8 weeks (2 weeks supervised followed by 6 weeks at home). Borg\u2019s RPE scale was used to monitor and modulate exercise intensity, frequency, and duration during each session. Vital signs (pulse rate and BP) and 6MWT were assessed at baseline and post intervention -Exercise protocol for the interval group consisted of 10-minute  warm-up  of general stretching, followed by 30\u201335 minutes of aerobic and resistive training (usinga stationary bike only) followed by 10-minute cooldown. The circuit training group performed the same 10-minute  stretch warm-up,  followed by 30\u201335 minutes of moderate-intensity exercise (cycling, stair-stepping,  walking,and light weights) without rest periods, followed by 10 minutes of cooldown -Both groups demonstrated significant improvements in pulse rate and performance on the 6MWT. Authors concluded that this model of combined supervised and home-based  exercise training was an effective way to improve exercise capacity in patients with CKD \u2013Improved biomarkers of inflammation and oxidative stress with training suggest that both endurance and strength training exercises improve muscle function and strength(13) -59 patients (40 men and 19 women) undergoing maintenance hemodialysis (MHD) and 22 (17 men and 5 women) normal controls (CTL),with a mean age of 42 for the MHD and 41 for the CTL,were enrolled in the study -Subjects were randomly assigned to one of 5 groups: 1) CTL (N = 22), 2) MHD with no training (NT; N = 15), 3) MHD with endurance training (ET; N = 13), 4) MHD with strength training (ST; N = 17) and 5) MHD with combination of strength and endurance training (EST; N = 14) -Participants performed supervised exercise 3 x/weekfor 21 weeks, with an initial duration of 20 minutesper session progressed to 40 minutes by week 8 with advancement in work intensity as tolerated -Skeletal muscle biopsies of the right vastus lateralis (VL) muscle wereobtained at baseline and post intervention  -Post intervention, compared to baseline the capillary density of the VL muscle increased significantly in both the EST and ET groups but not in the ST group. Researchers concluded that performance of ET and EST improves oxidative capacity and muscle power of MHD patients \u2013A routine walking program can enhance immune function and reduce inflammation(14) -Based on a small non-randomized  study involving 15 dialysis-dependent  patients with CKD -Patients performed home-based  treadmill walking at 1% grade for 30 minutes at a speed that elicited a RPE 12\u201314,  5 days/week for 6 months -All patients completed an exercise test (recording of HR response to exercise) and blood samples of inflammatory markers were obtained at rest (pre-exercise),  immediately after exercise,and 1 hour after exercise at baseline and 6 months \u2013Researchers conducted a systematic review and meta-analysis to evaluate the effects of exercise training on markers of inflammation and nutrition in non-dialysis-dependent  (NDD) patients with CKD(15) -16 RCTs (N = 724 patients) through October 2020 were included -The overall effect of exercise on BMI, waist circumference, and levels of inflammation was statistically significant -Researchers concluded that exercise training may improve inflammatory status in NDD-CKD  patients and enhance weight loss in obese adult CKD patients \u2013Exercise may improve depression and anxiety in patients with CKD(34) -Based on the results of a systematic review and meta-analysis  including 8 RCTspublished through February 2020 -Results showed that participants in exercise programs experienced decreased self-reported  levels of depression and anxiety \u2013Occupational therapy provided for hospitalized CKD patients improves functional capacity and promotes independence through the provision of education and emotional support(35) \u2013Compared to aerobic exercise only, exercise programs combining aerobic and resistive training performed for more than 6 months result in greater improvements in exercise capacity (VO2) (25) \u2013The BASES expert statement suggested using the FITT (frequency, intensity, time, type) principle when prescribing exercise for patients with CKD(29) \u2013Primary care physicians need to be educated on the benefits of exercise training and guidelines for training for patients with CKD(32) . Problem Goal Intervention Expected Progression Home Program Decreased patient knowledge regarding benefits of exercise programImproved patient understanding of exercise benefitsPatient education _ Educate patient regarding the benefits of regular exercise(8,11)N/A Provide patient with written instructions for exercise program Muscle weakness Improve strength to promote ADLsExercise therapy _ Personalized resistance exercise trainingGradually progress resistance, repetitions, and setsProvide the patient with an independent home program to maintain functional gains; patient education as needed  Reduced cardiorespiratory enduranceImprove endurance to promote daily activitiesExercise therapy _ Personalized aerobic exercise training (e.g., stationary cycling, treadmill, walking), as tolerated _ _ Exercise performed during dialysis might promote adherence(8)Gradually progress intensity, duration, and frequency of exerciseProvide the patient with an independent home program to maintain functional gains; patient education as needed ROM and flexibility limitationsImprove flexibility to facilitate ADLsExercise therapy _ Active/passive ROM and stretching exercises; joint mobilization, as neededGradually progress passive stretchingProvide the patient with an independent home program to maintain functional gains; patient education as needed Decreased balance and increased risk for fallsImprove balance to facilitate safety with ADLs and decrease risk for fallsFunctional training _ Therapeutic balance/ proprioceptive activitiesProgress challenges to static and dynamic balance, as toleratedProvide the patient with an independent home program to maintain functional gains; patient education as needed Difficulty in ambulationImprove walking ability and safety with ambulation; discontinued use of assistive devicesFunctional training _ Exercises in gait mechanics; functional ambulatory activitiesProgress the difficulty of gait exercises, as toleratedProvide the patient with an independent home program to maintain functional gains; patient education as needed Difficulty with independent performance of ADLsIncrease independence Functional training _ Functional mobility and ADL trainingProgress the difficulty of exercises, as toleratedProvide the patient with an independent home program to maintain functional gains; patient education as needed ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes": [
+            "Reduced pain and paresthesias\u2013V AS",
+            "Improved strength\u2013MMT, ability to do functional tasks",
+            "Improved ROM\u2013Goniometry, functional ROM",
+            "Improved aerobic endurance\u2013Cycle or treadmill graded exercise testing, VO2peak, 6MWT",
+            "Improved balance\u2013Berg Balance Scale or Functional Reach Test",
+            "Improved walking ability\u2013Gait speed, DGI",
+            "Improved functional exercise capacity in daily activities\u2013TUG test, STS60, 6MWT",
+            "Improved QOL\u2013Health Status Questionnaire Short Form (SF-36,  physical functioning scale and physical composite scale)",
+            "Decreased BMI, as indicated"
+        ]
+    },
+    "maintenance or prevention": [
+        "In a 2015 review, the authors recommended that prescription of exercise interventions should become part of the standard nephrological care for patients with CKD(30) Based on the fact that PA, cardiorespiratory fitness, and muscle function are low in patients with CKD and that a sedentary lifestyle has been associated with an increased risk of mortality and morbidity",
+        "An expert statement issued by researchers in the United Kingdom (BASES) also states that renal medicine services need to evolve to incorporate exercise rehabilitation as part of a comprehensive and integrated renal care package, including \u201cexercise on prescription\u201d(29)",
+        "Early diagnosis can prevent or slow progression of complications such as cardiovascular compromise",
+        "American Academy of Physicians clinical guidelines and United States Preventive Services Task Force (USPSTF) recommendations on screening areas follows:(17) There is insufficient evidence to assess the balance of benefits and harm of routine screening for CKD in asymptomatic adults. Patients with or without diabetes who are currently taking an ACE inhibitor or an ARB should not be tested routinely for proteinuria",
+        "KDIGO updated clinical practice guidelines for the management of blood pressure in CKDin 2021 based on a systematic review of the literature(26) BP control and the reduction of proteinuria are critical in preventing CKD progression(24) Systolic blood pressure of < 120 mmHg for non-dialysis-dependent CDK patients is recommended(30) Lifestyle modifications that include reducing sodium intake to < 2g per day, maintaining a healthy BMI of 20 to 25 kg/ m2, smoking cessation, and exercising for 30 minutes 5 times per week, in conjunction with good diabetes control (target hemoglobin A1c level of 7%), are all associated with reducing proteinuria and slowing the progression of CKD(24,26)",
+        "Continue prescribed exercise and functional training through independent home program",
+        "Weight reduction and control, as indicated",
+        "Dietary program, as prescribed",
+        "Lifestyle changes (e.g., smoking, alcohol intake), as appropriate",
+        "Patients are at high risk for fractures and should be educated on fall prevention and advised to participate in regular exercise and to avoid smoking and alcohol(19)"
+    ],
+    "patient education": [
+        "National Kidney Foundation, \u201cStaying Fit with Kidney Disease,\u201d https://www.kidney.org/sites/default/files/11-10-0502_IBD_stayfit.pdf Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Nakamura K, Sasaki T, Yamamoto S, Hayashi H, Ako S, Tanaka Y. Effects of exercise on kidney and physical function in patients with non-dialysis  chronic kidney disease: a systematic review and meta-analysis.  Sci Rep. 2020;10(1):181-95.  doi:https://doi.org/10.1038/s41598-020-75405-x.  (SR)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Pescatello LS, Arena R, Riebe D, Thompson PD, American College of Sports Medicine. In: ACSM\u2019s Guidelines for Exercise Testing and Prescription . 9th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2014:128-131,  305-308. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Borg G. Borg's Perceived Exertion and Pain Scales . Champaign, IL: Human Kinetics; 1998. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Kim KM, Oh HJ, Choi HY, Lee H, Ryu D-R. Impact of chronic kidney disease on mortality: A nationwide cohort study. Kidney Res Clin Pract . 2019;38(3):382-390.  doi:https:// doi.org/10.23876/j.krcp.18.0128. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Markaki A, Kyriazis P, Dermitzaki EK, et al. The association between handgrip strength and predialysis serum sodium level in patients with chronic kidney disease stage 5D. Front Med (Lausanne) . January 12, 2021;610659. doi:https://doi.org/10.3389/fmed.2020.610659. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kovesday CP, Furth SL, Zoccali C. Obesity and kidney disease: hidden consequences of the epidemic. Can J Kidney Health Dis . 2017;4:1-10.  doi:https:// doi.org/10.1177/2054358117698669. (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Damodaran DPANF, Pai S, Shaik A. Comparative study between efficacy of circuit training and interval training in improving exercise capacity among chronic kidney disease patients. Indian J Physiother Occup Ther . 2020;14(2):29-33.  doi:https://doi.org/10.37506/ijpot.v14i2.2595. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Wilund KR, Jeong JH, Greenwood SA. Addressing myths about exercise in hemodialysis patients. Semin Dial . 2019;32(4):297-302.  doi:https://doi.org/10.1111/sdi.12815. (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Levin A, Stevens PE; Kidney Disease: Improving Global Outcomes Chronic Kidney Disease Guideline Development Work Group Members. KDIGO 2012 clinical practice guideline for the evaluation and management of chronic kidney disease. Kidney Int Suppl . 2013;3(1):5-150.  (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Ammirati AL. Chronic kidney disease. Rev Assoc Med Bras . 2020;66(1):53-59.  doi:https://doi.org/10.1590/1806-9282.66.S1.3.  (G)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Hoshino J, Ferraro PM. Renal rehabilitation: exercise intervention and nutritional support in dialysis patients. Nutrients. 2021;13(5):1444. doi:https://doi.org/10.3390/ nu13051444. (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Roshanravan B, Gamboa J, Wilund K. Exercise and CKD: skeletal muscle dysfunction and practical application of exercise to prevent and treat physical impairments in CKD. Am J Kidney Dis . 2017;69(6):837-852.  doi:https://doi.org/10.1053/j.ajkd.2017.01.051. (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Lewis MI, Fournier M, Wang H, Storer TW, Casaburi R, Kopple JD. Effect of endurance and/or strength training on muscle fiber size, oxidative capacity, and capillarity in hemodialysis patients. J Appl Physiol (1985) . 2015;119(8):865-871.  doi:https://doi.org/10.1152/japplphysiol.01084.2014. (RU)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Viana JL, Kosmadakis GC, Watson EL, et al. Evidence for anti-inflammatory  effects of exercise in CKD. J Am Soc Nephrol . 2014;25(9):2121-2130.  doi:https://doi.org/10.1681/ ASN.2013070702. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Wu L, Liu Y, Wu L, Yang J, Jiang T, Li M. Effects of exercise on markers of inflammation and indicators of nutrition in patients with chronic kidney disease: a systematic review and meta-analysis.  Int Urol Nephrol . 2021. doi:https://doi.org/10.1007/s11255-021-02949-w.  (M)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Chang JJ. Calciphylaxis: diagnosis, pathogenesis and treatment. Adv Skin Wound Care . 2019;32(5):205-215.  doi:https://doi.org/10.1097/01.ASW.0000554443.14002.13. (SR)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Qaseem A, Hopkins RH, Jr, Sweet DE, Starkey M, Shekelle P. Screening, monitoring, and treatment of stage 1 to 3 chronic kidney disease: A clinical practice guideline from the American College of Physicians. Ann Intern Med . 2013;159(12):835-847.  doi:10.7326/0003-4819-159-12-201312170-00726.   (G)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Asad R, Garovic V. Hypertension during pregnancy is associated with increased risk of chronic and end-stage  kidney disease. Evid Based Nurs . 2014;17(2):35-36. doi:10.1136/eb-2013-101327.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Hill CJ, Cardwell CR, Patterson CC, et al. Chronic kidney disease and diabetes in the National Health Service: a cross-sectional  survey of the UK National Diabetes Audit. Diabet Med . 2014;31(4):448-454.  doi:10.1111/dme.12312. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Gupta A. Management of osteoporosis in patients with chronic kidney disease. Br J Hosp Med . 2014;75(2):83-89.  (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Gerogianni SK, Babatsikou FP. Psychological aspects in chronic renal failure. Health Sci J . 2014;8(2):205-214.  (RV)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Kovesdy CP, Bleyer AJ, Molnar MZ, et al. Blood pressure and mortality in U.S. veterans with chronic kidney disease: a cohort study. Ann Intern Med . 2013;159(4):233-242. doi:10.7326/0003-4819-159-4-201308200-00004.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Shilpak MG, Matsushita K, Arnlov J, et al. Cystatin C versus creatinine in determining risk based on kidney function. New Eng J Med . 2013;369(10):932-43.  doi:10.1056/ NEJMoa1214234. (M)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Stevens PE, Levin A. Evaluation and management of chronic kidney disease: synopsis of the Kidney Disease: Improving Global Outcomes 2012 clinical practice guideline. Ann Intern Med . 2013;158(11):825-830.  doi:10.7326/0003-4819-158-11-2013306040-00007.  (G)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Yamagata K, Hoshino J, Sugiyama H, et al. Clinical practice guideline for renal rehabilitation: systematic reviews and recommendations of exercise therapies in patients with kidney diseases. Ren Replace Ther . 2019;5(28). doi:https://doi.org/10.1186/s41100-019-0209-8.  (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "KDIGO 2021 Clinical Practice Guidelines for the Management of Blood Pressure in Chronic Kidney Disease. Kidney International: Practice Guideline . 2021;99(3):S1-S87. doi:https://doi.org/10.1016/j.kint.2020.11.003. (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Dirkx T, Woodell T, Watnick S. Kidney disease. In: Papadakis MA, McPhee SJ, Rabow MW, eds. Current Medical Diagnosis & Treatment 2018 . 57th ed. New York, NY: McGraw-Hill  Education; 2018:922-939.  (GI)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Howden EJ, Coombes JS, Isbel NM. The role of exercise training in the management of chronic kidney disease. Curr Opin Nephrol Hypertens . 2015;24(6):480-487. doi:10.1097/MNH.0000000000000165. (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Koufaki P, Greenwood S, Painter P, Mercer T. The BASES expert statement on exercise therapy for people with chronic kidney disease. J Sports Sci . 2015;33(18):1902-1907. doi:10.1080/02640414.2015.1017733. (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Bragazzi NL. Ramadan fasting and chronic kidney disease: Does estimated glomerular filtration rate change after and before Ramadan? Insights from a mini meta-analysis.  Int J Nephrol Renovasc Dis . 2015;8:53-57.  doi:10.2147/IJNRD.S61718. (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "MacKinnon HJ, Clarke AL, Young HL, Hull KL, Burton JO, Smith AC. Creating a SPARK: Investigating exercise behaviour and preferences in patients with chronic kidney disease to aid the design of exercise programmes. Int J Ther Rehabil . 2015;22:52. (CP)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Morishita Y, Nagata D. Strategies to improve physical activity by exercise training in patients with chronic kidney disease. Int J Nephrol Renovasc Dis . 2015;9:19-24. doi:10.2147/IJNRD.S65702. (RV)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Kahn LS, Vest BM, Madurai N, et al. Chronic kidney disease (CKD) treatment burden among low-income  primary care patients. Chronic Illn . 2015;11(3):171-183. doi:10.1177/1742395314559751. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Ferreira TL, Ribeiro HS, Ribeiro ALA, et al. Exercise interventions improve depression and anxiety in chronic kidney disease patients: a systematic review and meta-analysis. Int Urol Nephrol . 2021;53(5):925-933.  doi:https://doi.org/10.1007/s11255-020-02612-w.  (SR)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Barbosa Pereira J, Morgani de Almeida MH, Perez Batista MP, Colom Toldr\u00e1 R. Contributions of occupational therapy in health care of users with chronic renal insufficiency in hospital context. Brazilian J Occup Ther . 2020;28(2):575-599.  doi:https://doi.org/10.4322/2526-8910.ctoAO1855.  (R)"
+        }
+    ]
+}

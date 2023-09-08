@@ -1,0 +1,330 @@
+{
+    "metadata": {
+        "title": "Dysphagia Assessment  Manometry",
+        "synonyms": [
+            "swallowing disorder  manometry",
+            "deglutition disorder  manometry",
+            "oral dysphagia: manometry",
+            "pharyngeal dysphagia: manometry",
+            "esophageal dysphagia: manometry",
+            "difficulty swallowing: manometry",
+            "dysphagia, oral: manometry",
+            "dysphagia, pharyngeal: manometry",
+            "dysphagia, esophageal: manometry",
+            "swallowing difficulty: manometry",
+            "manometry: dysphagia assessment"
+        ],
+        "anatomical location body part affected": [],
+        "area of specialty": [
+            "swallowing and swallowing disorders"
+        ],
+        "description": [
+            "Manometry is a procedure that measures and records intraluminal pressures (i.e., muscle contraction or squeeze) as well as the amplitude, duration, and velocity of pressure activity within an organ(1,2)",
+            "Esophageal manometry measures the pressures within the esophagus and/or the lower esophageal sphincter (LES)(2)",
+            "Oropharyngeal manometry evaluates pressures within the pharynx and/or the upper esophageal sphincter (UES)(3)"
+        ],
+        "indications": [
+            "Manometry is indicated in certain patients with dysphagia or suspected dysphagia.(2,3,4) The patient\u2019s physician will determine if the patient is an appropriate candidate for manometry",
+            "Sometimes indicated in patients with esophageal dysphagia who have complaints of heartburn, chest pain, or difficulty swallowing food or liquid(2,5,6)",
+            "Sometimes indicated in patients with abnormal X-ray  (barium swallow or upper GI series) or endoscopy tests who need further gastrointestinal workup(2)"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {
+            "91010:": "esophageal motility (manometric study of the esophagus and/or gastroesophageal junction) study",
+            "91011:": "esophageal motility (manometric study of the esophagus and/or gastroesophageal junction) study with Mecholyl or similar stimulant",
+            "91012:": "esophageal motility (manometric study of the esophagus and/or gastroesophageal junction) study with acid perfusion studies",
+            "91020:": "gastric motility (manometric) studies",
+            "91022:": "duodenal motility (manometric) study"
+        },
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for this procedure will depend on insurance contract coverage; no specific special agencies are applicable for this procedure Indications for procedure"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "Observe universal precautions with every patient during dysphagia assessments; take note of any additional precautions required for specific patients (i.e., airborne, droplet, or contact precautions)(16)",
+            "Manometry is associated with very few risks; however, patients might experience gagging during the procedure as well as mild soreness afterward(2) ",
+            "Patients should be educated regarding these possible complications prior to the examination"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [
+        "Dysphagia Dysphagia refers to difficulty swallowing and/or a swallowing disorder(4,8,9) Complications of dysphagia include malnutrition, dehydration, aspiration, aspiration pneumonia, and death(8,10,11) There are two main categories of dysphagia(4,9) \u2013Oropharyngeal dysphagia(5,6,9) -Dysphagia involving the oral and/or pharyngeal phase of swallowing -Dysphagia that affects the oral phase only is referred to as oral dysphagia(12) -Dysphagia that affects the pharyngeal phase only is referred to as pharyngeal dysphagia(12) -Dysphagia that affects both oral and pharyngeal phases of the swallow is referred to as oropharyngeal dysphagia(12) -Symptoms of oropharyngeal dysphagia include choking or coughing while eating or drinking, pocketing food in the cheeks, and loss of food or liquid from the mouth while attempting to swallow(6,8) \u2013Esophageal dysphagia(5,6,9) -Dysphagia resulting from an impairment of the esophagus or LES -Patients generally report chest pain, regurgitation, or heartburn(4,5,6,8) For detailed information on assessment and treatment of dysphagia, see the series of Clinical Reviews on this topic",
+        "Patients with a history of stroke, head injury, head/neck/esophageal surgery or cancer, head/neck/esophageal radiation and/or chemotherapy, or neurodegenerative disease, as well as a history of sensations of reflux, regurgitation, and/or globus (i.e., the sensation of fullness or sticking at the back of the throat), might all be appropriate candidates for manometric evaluation of swallowing function(3)"
+    ],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {
+        "refer to the guidelines of specific clinic hospital regarding examination and assessment for manometry. the summary below is meant to serve as a guide, not to replace orders from a physician or a hospital\u2019s specific protocol": [],
+        "certain drugs can alter the natural contractile pattern of the esophagus; usually, these should be discontinued at least hours before an esophageal manometry procedure.   inquire as to whether the patient has had any of the following in the": []
+    },
+    "guidelines for use of procedure": {
+        "physicians as well as specially trained technicians  sometimes specially trained speech-language  pathologists [slps]  and registered nurses  rns  perform the manometry procedure ,": [],
+        "equipment": [
+            "Equipment for a manometric evaluation includes a thin catheter with tiny sensors at various locations along the catheter aswell as the computer hardware and software required to transmit and analyze the information(1,2,14)",
+            "There are several different commercially available manometry devices(1)",
+            "The catheter is positioned in either the pharynx or the esophagus, and the sensors record the pressure in adjacent muscles(2)",
+            "As the muscles squeeze on the catheter, the muscle pressures are transmitted to a computer. The manometric data can thenbe analyzed with the use of specially programmed software(1,2,14)",
+            "The physician is able to evaluate these wave patterns to determine if the muscle movement is normal or abnormal(2)",
+            "The most advanced type of manometry is high-resolution  manometry (HRM) with esophageal pressure topography (EPT);HRM technology allows for one pressure sensor per centimeter from the pharynx to the stomach(15)\u2013With HRM, computer technology is able to analyze large amounts of data and present it in real time(15)\u2013In a study conducted in the United States with 30 subjects, researchers were able to identify pharyngeal swallowingabnormalities by analyzing patterns obtained by HRM. Researchers investigated the utility of HRM for pharyngealdysphagia due to limitations associated with frequent administration of videofluoroscopic swallow studies (VFSSs).Although a VFSS is unparalleled for its ability to identify pharyngeal phase swallowing impairments, since it exposespatients to radiation it cannot be used for frequent reassessments of swallowing ability over time. Researchers wereable to identify 12 different swallowing impairments through analysis of the HRM data; however, those types ofimpairments involving abnormalities of pressure (e.g., reduced anterior hyoid excursion, pharyngeal residue, impairedpharyngoesophageal segment opening) were identified with a higher degree of accuracy than those without clear pressurepatterns (e.g., reduce epiglottic retroflexion, delayed pharyngeal swallow initiation).(28) The same group of researchersinvestigated the use of a novel automated HRM program for evaluating pharyngeal swallow impairment and foundhigh interrater reliability within and across groups of expert users, novice users, and SLPs.(29) Novice users (a group ofundergraduate research assistants) and SLPs were given a short training sessions prior to evaluating 30 swallow studieswith the automated HRM program. The automated program produced objective, numerical data, which likely resulted inthe fast and reliable interpretation of data by new users(29)"
+        ],
+        "examination preparation": [
+            "The patient will receive specific instructions regarding examination preparation from his or her physician or the facility atwhich the test is being performed(2)",
+            "Generally, the patient is instructed not to have food or liquid for 8 hours before the manometry procedure(2)",
+            "The physician will advise the patient on what medications should and should not be taken before the exam(2)"
+        ]
+    },
+    "examination": {
+        "contraindications precautions to examination": [
+            "Observe universal precautions with every patient during dysphagia assessments; take note of any additional precautions required for specific patients (i.e., airborne, droplet, or contact precautions)(16)",
+            "Manometry is associated with very few risks; however, patients might experience gagging during the procedure as well as mild soreness afterward(2) ",
+            "Patients should be educated regarding these possible complications prior to the examination"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -The first step in a manometric evaluation is gathering the patient\u2019s medical history and reviewing his or her medical records(4) An interview with the patient and family members might be appropriate to gather a detailed history of the symptoms and presentation of the patient\u2019s dysphagia",
+                "course of treatment": {
+                    "medical management": "Note current and previous management of medical diagnosis (e.g., gastroesophageal reflux disease [GERD], stroke, head and neck cancer); do any of the medical treatments put the patient at elevated risk of dysphagia? Radiation therapy for head and neck, esophageal, lung, or breast cancer might result in radiation esophagitis (i.e., inflammation of the esophagus as a result of radiation therapy)(2) Current or previous ear, nose, throat, maxillofacial, cervical, or esophageal surgery/procedures might place the patient at elevated risk for dysphagia(9,17) Esophageal manometry might be included as part of a preoperative workup for patients having surgical treatment for GERD(26)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken? Bethanechol (Urecholine) Cimetidine (Tagamet) Famotidine (Pepcid) Lansoprazole (Prevacid) Metoclopramide (Reglan) Nizatidine (Axid) Omeprazole (Prilosec) Ranitidine (Zantac)",
+                    "diagnostic tests completed": [
+                        "Review the results of any previous tests of swallowing or esophageal function",
+                        "FEES",
+                        "MBS",
+                        "Esophagram",
+                        "Review neuroimaging (e.g., MRI and CT scan) results",
+                        "Review chest X-rays"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had physical, occupational, or speech therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased) -With specific foods?(4) -When a patient has difficulty swallowing specific solid foods only, the origin of dysphagia is likely mechanical or muscular in nature(4) -Patients who report difficulty swallowing all types of solid foods and liquids should be referred to a neurologist, as neuromuscular disease is the likely cause(4) -During specific meals?(4) -As the meal progresses?",
+                "body chart": "",
+                "nature of symptoms": "Document nature of symptoms For patients who complain of difficulty swallowing, what exactly is the problem with swallowing?  Does food stick in the throat?(5) -If the patient reports food sticking in the throat, ask the patient to identify the portion of the throat or chest where he or she feels food sticks -Patients with esophageal dysphagia often report that food sticks at the level of the sternum(4) -Patients with GERD often report globus sensation (usually described as the feeling of a \u201clump in the throat\u201d)(27) Does the patient cough or choke while eating or drinking? Is there pain associated with swallowing? -Pain with swallowing might indicate an inflammatory process(4)",
+                "rating of symptoms": "",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables When did the symptoms of dysphagia initially present?(18) How frequently does the patient experience the symptoms of dysphagia?(18)",
+                "sleep disturbance": "Do symptoms (e.g., difficulty swallowing saliva) interfere with patient\u2019s ability to sleep? Document number of wakings per night",
+                "other symptoms": "",
+                "respiratory status": "Patients with a compromised respiratory status are at higher risk of complications of dysphagia(16,19) Does the patient require supplemental oxygen? Nasal cannula?(17) Does the patient have a tracheostomy tube?(17) Does the patient require ventilator support? Barriers to learning Are there any barriers to learning? Yes__ No__ If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have a history of either oropharyngeal or esophageal dysphagia?",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": "Ask patient or family/caregiver about other symptoms the patient might be experiencing, including aspiration pneumonia, heartburn, weight loss, oral or throat pain"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": " Living environment -Who does the patient live with (e.g., caregivers)?(17) -Does the patient require feeding assistance at home? -Who prepares the patient\u2019s food? -Patients who will require an altered diet might require assistance with food preparation from family members and/or caregiver Is the patient receiving nutritional supplements orally or nonorally?(16) -Is there a feeding tube present?(16,17)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Patients with extremely large girth might not fit into the standard examination chair; refer to gastroenterology department for specific height, weight, and girth measurement limitations",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Esophageal manometry -The procedure generally takes 1 hour(2)  -While the patient is seated in a chair or lying on his or her side, the thin soft catheter is lubricated and then passed through the nose or mouth(1,2) -In addition to lubrication, a topical anesthetic might be used to increase the patient\u2019s comfort(1) -The patient is instructed to swallow the catheter(2) -Upon swallowing, the tip of the catheter enters the esophagus and the technician then quickly passes it down to the appropriate level(2) -Once the catheter is inside the esophagus, the patient is instructed to swallow his or her saliva (dry swallow) and/or water(1,2) -Pressure recordings are made and the catheter is withdrawn(1,2,14) -The patient is usually able to resume regular activity, eating, and medicines immediately after the exam(2) \u2013Oropharyngeal manometry -Manometric evaluations for the purpose of examining oropharyngeal swallowing function generally are performed simultaneously with another instrumental assessment of swallowing (e.g., MBS or FEES)(5,7,13,20) -When combined with videofluorography, a manometric swallow evaluation is termed manofluorography; however, more research is necessary to establish this as a clinically useful tool for evaluation of oropharyngeal dysphagia(21) -Multiple studies have shown that combining manometry with endoscopic evaluation of swallowing, termed mano-videoendoscopy,  can provide additional information about pharyngeal wall contraction and UES function that cannot be obtained by endoscopic evaluations in isolation. Additionally, mano-videoendoscopy  evaluations are performed without radiation, which is beneficial for repeat evaluations of swallow function(31,32) -The tip of the manometric catheter is lubricated and passed transnasally by a trained technician(13) -The tip of the catheter is fed into the hypopharynx and through the UES(13) \u2013Manometric evaluation of oropharyngeal swallowing likely is unfamiliar to many SLPs -In the past, oropharyngeal manometry failed to become a widely used clinical tool because SLPs were not trained to perform transnasal procedures, the use of a 4.6 mm catheter for the procedure required nasal anesthetic (possibly anesthetizing the oropharynx), and the use of this type of large-bore  catheter altered temporal aspects of swallowing physiology(3,7) -In recent years, integration of manometry as a diagnostic tool for oropharyngeal dysphagia has become more common because SLPs are better trained in transnasal procedures (e.g., FEES), a much smaller (2.1 mm) catheter is available that does not require nasal anesthetic, and the smaller nasopharyngeal catheter does not appear to alter baseline swallowing function in any substantial way(3,13) -In a study conducted in the United States involving 20 healthy older adults (mean age 78.9 years), researchers examined swallowing ability by FEES with various viscosities of boluses with and without a 2.1-mm  manometric catheter present(13) -The researchers scored 545 swallows based on the Penetration-Aspiration  Scale (PAS). The presence of the manometric catheter did not increase instances of penetration or aspiration in these healthy adults(13) \u2013Lack of normative data for normal swallowing and dysphagic populations is a considerable obstacle to widespread use of manometry for oropharyngeal dysphagia assessment(5,13) -Although manometry can be used to quantify pressures generated in the pharynx and pharyngeal musculature, manometry alone cannot identify the specific anatomical structures (i.e., tongue, palate, larynx, pharynx) generating specific pressures at any given moment during the examination(20)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Briefly assess the patient\u2019s cognitive function as well as his or her ability to follow directions \u2013To successfully complete the examination, the patient must be able to follow simple directions and maintain alertness throughout \u2013Patients who are combative or noncompliant are not good candidates for the manometry procedure",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "The esophagus should normally contract in a sweeping, regular pattern as food passes into the stomach; this pattern is referred to as peristalsis(2)",
+                "Additionally, the LES should remain tightly closed except when passing food from the esophagus into the stomach(2)",
+                "Dysfunction of the LES -Hypotensive LES(2,22,23) -Resting pressure < 15 mm Hg(22) -Might result in the development of GERD(2) -Hypertensive LES(22,23) -Increased resting pressure of the LES (> 40 mm Hg)(22) -Incomplete LES relaxation (residual pressure > 8 mm Hg)(22) -Might result in the development of GERD -Esophageal dysmotility(2,22,23) -Abnormal peristalsis(2) -Symptoms of esophageal dysmotility disorders include sensation of food sticking in the neck or chest, chest pain, or regurgitation -Hypomotility is associated with minimal or absent esophageal contractions measured by manometry(30) -Hypertensive peristalsis (also known as nutcracker esophagus) -Mean amplitude in the distal esophagus > 180 mm Hg(22) -Increased duration of distal esophageal contractions (mean value > 8 seconds)(22) -Diffuse esophageal spasms(2,22,23) -Simultaneous contractions with > 20% wet swallows(22) -Prolonged duration of esophageal contractions(> 8 seconds)(22) -Might result in intense pain while swallowing or eating(2) -Esophageal achalasia(2,22) -Incomplete LES relaxation (residual pressure > 8 mm Hg)(22,30) -The LES is very spastic and tight; type of esophageal achalasia determined by manometry and is based on the measurement of esophageal pressure(30) -Elevated resting pressure of the LES (> 40 mm Hg)(2,22) -Aperistalsis of the esophageal body(2,22) -Systemic sclerosis(22,23) -Loss of distal peristalsis(22,23) -Reduced LES resting pressure (< 15 mm Hg)(22) -Normal proximal esophagus(22,23) -Cricopharyngeal dysfunction(3,5,24) -Elevated UES resting pressure might result in globus(3) -Decreased UES relaxation might result in pharyngeal residue and ineffective swallowing(3,5) -Reduced posterior pharyngeal wall contraction(7) "
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with a diagnosis for which this procedure is used might be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention strategies. Discharge criteria should include independence with fall-prevention  strategies ",
+                "Patients with the diagnosis of dysphagia might be at risk for aspiration. Swallowing precautions/feeding guidelines should be posted at bedside and caregivers, family members, and nursing staff should be educated regarding patient\u2019s risk of aspiration \u203aDiagnosis/results of assessment: Following the manometry procedure, a physician will review the results of the tests. For information on the various types of therapy for dysphagia, see the series of Clinical Reviews on this topic. Possible findings of a manometric evaluation of swallowing include:",
+                "Normal esophageal muscle function",
+                "Abnormal esophageal muscle function"
+            ],
+            "general": "Following the manometry procedure, a physician will review the results of the tests. For"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "A multidisciplinary approach is necessary for the successful treatment of dysphagia(25) Referral to neurologist for patients with dysphagia that results in difficulty swallowing all solid foods and liquids; also appropriate for patients with dysphagia of unknown cause, as further neurological workup might be indicated(4,25) Referral to pulmonologist for patients who appear to have poor respiratory status and/or function(25) Referral to nutrition services/dietitian for patients with poor oral intake or those at risk for malnutrition(15,25) Referral to otolaryngology if cricopharyngeal dysfunction is suspected; otolaryngologist might recommend botulinum toxin type A (Botox) injections to improve UES relaxation(3,24) Referral to physical and/or occupational therapy for patients with poor posture, difficulty sitting up in the bed or chair, or difficulty feeding themselves(25) . Problem Goal Intervention Expected Progression Home Program N/A N/A N/A N/A N/A . . Problem Goal Intervention Expected Progression Home Program N/A N/A N/A N/A N/A . See Description, Indications of procedure , and Guidelines for use of procedure , above",
+        "other considerations": [],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {
+        "the desired outcome of a manometry procedure is to identify the cause of a patient\u2019s dysphagia": [
+            "Esophageal manometry might also rule out esophageal muscle dysfunction as a cause of a patient\u2019s swallowing difficulties"
+        ],
+        "once the cause of the dysphagia is identified, the physician will recommend the appropriate treatment, medicinal management, or surgical management": []
+    },
+    "maintenance or prevention": [],
+    "patient education": [
+        "Information about manometry is available from the Mayo Clinic: https://www.mayoclinic.org/tests-procedures/esophageal-manometry/basics/definition/prc-20014211",
+        "Information for patients and families regarding swallowing disorders is available through MedlinePlus, a research database maintained by the U.S. National Library of Medicine and the U.S. National Institutes of Health, at https://medlineplus.gov/ swallowingdisorders.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Lever TE, Cox KT, Holbert D, Shahrier M, Hough M, Kelley-Salamon  K. The effect of an effortful swallow on the normal adult esophagus. Dysphagia . 2007;22(4):312-325.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Esophageal manometry. Jackson Siegelbaum Gastroenterology Web site. http://gicare.com/procedures/esophageal-manometry/ . Published 2008. Accessed November 24,"
+        },
+        {
+            "number in article": 2017,
+            "reference": " (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Butler SG. The role of pharyngeal and upper esophageal manometry in swallowing assessment. ASHA Lead Web site. http://leader.pubs.asha.org/article.aspx? articleid=2291944 . Accessed November 24, 2017. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Lawal A, Shaker R. Esophageal dysphagia. Phys Med Rehabil Clin N Am . 2008;19(4):729-745,  viii. (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Cook IJ. Oropharyngeal dysphagia. Gastroenterol Clin North Am . 2009;38(3):411-431.  (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Robbins J, Kays S, McCallum S. Team management of dysphagia in the institutional setting. J Nutr Elder . 2007;26(3-4):59-104.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Hila A, Castell JA, Castell DO. Pharyngeal and upper esophageal sphincter manometry in the evaluation of dysphagia. J Clin Gastroenterol . 2001;33(5):355-361.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Nazarko L. Nutrition part 5: dysphagia. Br J Healthc Assist . 2009;3(5):228-232.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Krishnan K, Pandolfino JE. Dysphagia and esophageal obstruction. In: Bope ET, Kellerman RD, eds. Conn's Current Therapy 2017 . Philadelphia, PA: Saunders Elsevier; 2017:196-201.  (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "White GN, O'Rourke F, Ong BS, Cordato DJ, Chan DK. Dysphagia: causes, assessment, treatment, and management. Geriatrics . 2008;63(5):15-20.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Ginocchio D, Borghi E, Schindler A. Dysphagia assessment in the elderly. Nutr Ther Metab . 2009;27(1):9-15.  (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Edelman DA, Sheehy-Deardorff  DA, White MT. Bedside assessment of swallowing is predictive of an abnormal barium swallow examination. J Burn Care Res . 2008;29(1):89-96.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Butler SG, Stuart A, Markley L, Rees C. Penetration and aspiration in healthy older adults as assessed during endoscopic evaluation of swallowing. Ann Otol Rhinol Laryngol . 2009;118(3):190-198.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Umeki H, Takasaki K, Enatsu K, Tanaka F, Kumagami H, Takahashi H. Effects of a tongue-holding  maneuver during swallowing evaluated by high-resolution  manometry. Otolaryngol Head Neck Surg . 2009;141(1):119-122.  doi:10.1016/j.otohns.2009.01.025. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Roman S, Kahrilas PJ. Challenges in the swallowing mechanism: nonobstructive dysphagia in the era of high-resolution  manometry and impedance. Gastroenterol Clin North Am. 2011;40(4):823-835.  (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Avery W. Dysphagia. In: Radomski MV, Trombly Latham CA, eds. Occupational Therapy for Physical Dysfunction . 7th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2014:1327-1351.  (GI)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Ricci Maccarini A, Filippini A, Padovani D, Limarzi M, Loffredo M, Casolino D. Clinical non-instrumental  evaluation of dysphagia. Acta Otorhinolaryngol Ital . 2007;27(6):299-305. (RV)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Carnaby-Mann  G, Lenius K. The bedside examination in dysphagia. Phys Med Rehabil Clin N Am . 2008;19(4):747-768.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Cichero JA, Heaton S, Bassett L. Triaging dysphagia: nurse screening for dysphagia in an acute hospital. J Clin Nurs . 2009;18(11):1649-1659.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Cappabianca S, Reginelli A, Monaco L, Del Vecchio L, Di Martino N, Grassi R. Combined videofluoroscopy and manometry in the diagnosis of oropharyngeal dysphagia: examination technique and preliminary experience. Radiol Med . 2008;113(6):923-940.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Nativ-Zeltzer  N, Kahrilas PJ, Logemann JA. Manofluorography in the evaluation of oropharyngeal dysphagia. Dysphagia . 2012;27(2):151-161.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Robson KM, Glick ME. Dysphagia and advancing age: are manometric abnormalities more common in older patients?. Dig Dis Sci . 2003;48(9):1709-1712.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Ragunath K, Williams JG. A review of oesophageal manometry testing in a district general hospital. Postgrad Med J . 2002;78(915):34-36.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Krause E, Schirra J, G\u00fcrkov R. Botulinum toxin a treatment of cricopharyngeal dysphagia after subarachnoid hemorrhage. Dysphagia . 2008;23(4):406-410.  (C)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Logemann JA. Swallowing disorders. Best Pract Res Clin Gastroenterol . 2007;21(4):563-573.  (RV)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Society of American Gastrointestinal and Endoscopic Surgeons. Guidelines for Surgical Treatment of Gastroesophageal Reflux Disease (GERD). http://www.sages.org/publications/guidelines/guidelines-for-surgical-treatment-of-gastroesophageal-reflux-disease-gerd/ . Accessed November 24, 2017. (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Chen CL, Yi CH, Liu TT. Association between swallow perception and esophageal bolus clearance in patients with globus sensation. Dig Dis Sci . 2013;58(4):1042-1048. doi:10.1007/s10620-012-2463-2.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Hoffman MR, Jones CA, Geng Z, et al. Classification of high-resolution  manometry data according to videofluoroscopic parameters using pattern recognition. Otolaryngol Head Neck Surg . July 2013;149(1):126-33.  doi:10.1177/0194599813489506. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Jones CA, Hoffman MR, Geng Z, Abdelhalim SM, Jiang JJ, McCulloch TM. Reliability of an automated high-resolution  manometry analysis program across expert users, novice users, and speech-language  pathologists. J Speech Lang Hear Res . June 1, 2014;57(3):831-6.  doi:10.1044/2014_JSLHR-S-13-0101.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Yazaki E, Woodland P, Sifrim D. Uses of esophageal function testing: dysphagia. Gastrointest Endosc Clin N Am . 2014;24(4):643-654.  doi:10.1016/j.giec.2014.06.008. (RV)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Karaho T, Satoh T, Nakajima J, Nakayama T, Kohno N. Can mano-videoendoscopy  substitute for videofluorography in evaluation of upper esophageal sphincter function? Acta Otolaryngol . February 2015;135(2):187-192.  doi:10.3109/00016489.2014.969384. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Karaho T, Nakajima J, Satch T, Kawahara K, Nakayama T, Kohno N. Mano-videoendoscopic  assessment in the evaluation of the pharyngeal contraction and upper esophageal sphincter function in dysphagic patients. Auris Nasus Larynx . February 2017;44(1):79-85.  doi:10.1016/j.anl.2016.08.004. (R)"
+        }
+    ]
+}

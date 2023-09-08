@@ -1,0 +1,347 @@
+{
+    "metadata": {
+        "title": "Calf Strain",
+        "synonyms": [
+            "strain, calf",
+            "pulled calf muscle",
+            "tennis leg",
+            "calf muscle strain",
+            "calf-muscle strain injury (cmsi)"
+        ],
+        "anatomical location body part affected": [
+            "Posterior lower leg muscles/gastrocnemius, plantaris, soleus, or flexor hallucis longus"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "sports rehabilitation"
+        ],
+        "description": [
+            "Anatomy review(5) \u2013The posterior compartment of the leg contains the superficial and deep compartments. When referring to calf strain, most authors are referring to the muscles of the superficial compartment, also known as the triceps surae: the gastrocnemius (with its medial and lateral heads), plantaris, and soleus",
+            "A calf-muscle  strain injury (CMSI) is a muscle injury due to fiber tearing, usually in the mid-section  of the calf. The medial gastrocnemius is most often affected. The lateral gastrocnemius, soleus, plantaris, and flexor hallucis longus muscles (part of the deep posterior compartment) may also be involved(5)",
+            "Fibers typically tear in the muscle belly or in the gastrocnemius-soleus  myotendinous complex(5)",
+            "Grading the severity of CMSI(6) \u20131st degree: tearing of relatively few fibers -The muscle is stretched, causing micro tears in the muscle fibers. Recovery takes approximately 2 to 4 weeks \u20132nd degree: partial tearing of many muscle fibers; muscle and tendon remain partly intact -Full recovery takes approximately 4 to 8 weeks \u20133rd degree: The most severe CMSI, with a complete tearing or rupture of muscle fibers (See Clinical Review\u2026Achilles Tendon Rupture ; CINAHL Topic ID Number: T708413) -Obvious muscle defect/deformity -Surgery is often needed to repair the rupture site -Return to sport may take months",
+            "Acute injury is most likely CMSI to gastrocnemius or plantaris and is associated with quick, sharp movement during sprinting or jumping. As it was first observed in lawn tennis players, CMSI is also known as \u201ctennis leg.\u201d Soleus injuries have a more gradual onset, typically within 24 hours of precipitating even, and are associated with fatigue and overtraining(5)",
+            "The differential diagnosis should include deep vein thrombosis (DVT) when pain and swelling are near the popliteal fossa(5)",
+            "Specific evidence-based  treatment guidelines for CMSI are lacking. Most research onCMSI is in athletes, especially runners  or application of equipment . Desired Outcomes/Outcome Measures"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "S86.1": "injury of other muscle(s) and tendon(s) of posterior muscle group at lower leg level",
+            "S83.6": "sprain and strain of other and unspecified parts of knee (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No specific special agencies are applicable for this condition. No specific reimbursement issues or information regarding CMSI has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Tenderness to palpation in specific areas can indicate which muscle is involved: \u2013Gastrocnemius - distal insertion of the medial or lateral head into the proximal Achilles fascia \u2013Soleus - deep and often distal to the muscle bellies ofthe gastrocnemius on either medial or lateral leg \u2013Popliteus - commonly localized along the medial posterior tibial border or shin or along the tarsal tunnel",
+            "Milder injuries: \u2013Tenderness to palpation \u2013Pain with MMT \u2013No swelling, discoloration, or defects",
+            "More severe injuries: \u2013Significant tenderness to palpation \u2013Discoloration and swelling \u2013Sometimes a visible defect Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Stop evaluation and refer to physician if signs of DVT (e.g., positive Homans\u2019 test, decreased distal pulses) or myositis ossificans are found",
+            "Follow surgeon\u2019s postoperative protocol, if applicable",
+            "Inform physician if activation or squeezing of calf muscle does not plantar flex foot (i.e., the Thompson\u2019s test is positive for complete rupture of Achilles tendon)",
+            "Avoid tests and maneuvers that evoke the patient\u2019s pain"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "The medial head of the gastrocnemius is often injured in one explosive episode (e.g., sprinting or jumping)(5)",
+            "Mechanism of injury may involve passive or active overloading/overstretching(5)\u2013Eccentric (lengthening) contraction when landing on toes, as in sprinting or stepping down from a curb or stairs\u2013Explosive calf muscle contractions with bursts of speed, as in tennis (and other racket sports), jumping, running uphill,and soccer",
+            "Repetitive subacute microtrauma that extends a tear over time, as in tennis, running, soccer, jumping sports, andbasketball(5)",
+            "Soleus injuries are typically due to overuse and occur as a result of repetitive dorsiflexion of the ankle with knee bent (e.g.,uphill running)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Returning to sport before adequate calf muscle strengthening and sport-specific  conditioning increases risk of recurrence",
+        "Notify physician if numbness, tingling, or weakness is found distal to the injury",
+        "Consider the possibility that a DVT is associated with the patient\u2019s posterior leg pain",
+        "Increased risk of myositis ossificans (see Clinical Review on this topic) in cases of muscle contusion resulting from direct blow or trauma to the calf",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Stop evaluation and refer to physician if signs of DVT (e.g., positive Homans\u2019 test, decreased distal pulses) or myositis ossificans are found",
+            "Follow surgeon\u2019s postoperative protocol, if applicable",
+            "Inform physician if activation or squeezing of calf muscle does not plantar flex foot (i.e., the Thompson\u2019s test is positive for complete rupture of Achilles tendon)",
+            "Avoid tests and maneuvers that evoke the patient\u2019s pain"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Commonly related to sports or work. Abrupt onset of moderate to severe sharp calf pain during physical activity, followed by reduced ambulatory function. Patient may recall a sudden tearing sensation or hearing a \u201cpop\u201d in the calf(5)",
+                "course of treatment": {
+                    "medical management": "What acute care did the patient receive? Did patient have restricted weight-bearing  (WB)? What are the ongoing limitations in daily activities? Are symptoms subsiding?",
+                    "surgical management": [],
+                    "medications": "What medications, if any, were prescribed, and are these being taken and effectively controlling symptoms? Oral NSAIDs often are prescribed for pain and swelling in early stage",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Soft tissue diagnostic ultrasound or MRI may be used to identify a severe tear or rupture. MRI is used only if the diagnosis is unclear, as ultrasound has been found to be just as effective in diagnosing CMSI",
+                        "o Authors of a review of the literature on ultrasound diagnosis of calf injuries found that(7)",
+                        "two-thirds  of calf injuries occur at the junction of the fascia between the medial head of the gastrocnemius and the soleus",
+                        "injuries to the lateral head of the gastrocnemius occur in up to 14% of patients",
+                        "A D-dimer  blood test may be ordered if a blood clot is suspected"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Document these factors and the length of time before the symptoms come on or are eased",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much) ",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night, if applicableDocument the use of supplemental oxygen and assistance with ventilation",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., low back pain, knee pain, hip pain) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Any history of CMSI or posterior leg pain?",
+                    "comorbid diagnoses": "Ask patient about other ongoing conditions (e.g., diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic problems)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms being experienced"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Is the patient an athlete? If so, consider involving the coach in the maintenance phase of rehabilitation and the return to sport",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": "Stairs, number of floors in home; does patient live with a caregiver? Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.) Compare all abnormal test results with uninjured side",
+            "anthropometric characteristics": "Document patient\u2019s height, weight, and BMI",
+            "assistive and adaptive devices": "Assess need for and proper use of ambulatory assistive devices",
+            "balance": "Assess balance in standing, walking on toes (as applicable), and timed single-leg  stance. Look for deficits in ankle strategies to maintain balance. Use Berg Balance Scale (BBS) for objective measure, as applicable",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess pulses distal to affected areaAssess for swelling with circumference measure. Unilateral pitting edema can be a sign of DVT",
+            "functional mobility": "Assess ability in transfers, standing, walking, stairs, carrying, etc. Timed Up-and-Go  (TUG) test. Use the FIM, as indicated",
+            "gait locomotion": "Assess for antalgic gait. Expect shortened step length on injured side. Use Dynamic Gait Index (DGI) for objective measure, as applicableThe intrinsic joint mobility of knee and ankle should not be affected by this condition",
+            "muscle strength": "Assess strength of lower extremity using manual muscle testing (MMT), especially of plantar flexors in knee extension and knee flexion. Expect pain and weakness in most cases. Increased pain with knee extended is consistent with gastrocnemius strain, whereas no change in pain with the knee extended suggests a soleus strain. Assess ability to perform single-leg  heel raise. Strength of ankle dorsiflexors should be similar to unaffected side",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Assess general posture, lower extremity alignment, and leg length in standing. Partial WB on injured side may affect findings",
+            "range of motion": "Assess ROM of ankle in sitting and prone positions. Note if calf pain limits ROM",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess patellar tendon and Achilles tendon reflexes",
+            "sensory testing": "Scan dermatomes in lower extremity",
+            "special tests specific to diagnosis": " Special tests \u2013Lower Extremity Function Scale (LEFS)  \u2013Thompson\u2019s test (i.e., squeeze patient\u2019s calf while lying in prone \u2013 resulting plantarflexion movement normal and lack of plantarflexion abnormal) has been shown to be 96% sensitive and has a 98% positive predictive value for Achilles rupture(11)",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Over an area of circulatory compromise",
+                "Over an area of peripheral vascular disease",
+                "Cold intolerance",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Avoid applying cold over superficial nerves",
+                "Hypertension",
+                "Thermoregulatory disorders",
+                "Over a superficial peripheral nerve",
+                "Over an open wound",
+                "Over an area of poor sensation",
+                "With individuals with poor cognition",
+                "In the very young or very old",
+                "Persons with aversion to cold",
+                "Over areas with a lack of intact thermal sensation",
+                "Over areas of vascular insufficiency or vascular disease",
+                "Over areas of recent hemorrhage or potential hemorrhage",
+                "Over areas of known malignancy",
+                "Over areas of acute inflammation",
+                "Over infected areas where infection may spread or cross-contamination  may occur",
+                "Over areas where liniments or heat rubs have recently been applied",
+                "Application in any situation deemed unreliable by the practitioner",
+                "Severe epilepsy",
+                "Certain dermatologic conditions",
+                "Surface infections",
+                "Uncontrolled bowels",
+                "Acute rheumatoid arthritis",
+                "Venous ulcers",
+                "Tissues devitalized by X-ray  therapy",
+                "Peripheral vascular disease",
+                "Decreased thermal sensation",
+                "Respiratory dysfunction",
+                "Cardiac dysfunction ",
+                "Active bleeding",
+                "Malignancy",
+                "Recent fever",
+                "Acute inflammatory conditions",
+                "Heat sensitivity",
+                "Impaired sensation",
+                "Confusion or impaired cognition",
+                "Recent skin grafts",
+                "Certain medications",
+                "Alcohol intoxication",
+                "Decreased strength/ROM/endurance/balance*",
+                "Urinary incontinence*",
+                "Fear of water*",
+                "Respiratory problems",
+                "Pregnancy*",
+                "Multiple sclerosis*",
+                "Poor thermal regulation*",
+                "Seasickness",
+                "Edema, when warm/hot water immersion",
+                "Electrodes should not be placed over: -the trunk or heart region in patients with demand-type  pacemakers or implantable cardioverter defibrillators -the pelvic, abdominal, lumbar, or hip region in pregnant women -carotid bodies -phrenic nerve or urinary bladder stimulators -areas of known peripheral vascular disease including arterial or venous thrombosis or thrombophlebitis -the phrenic nerve, eyes, or gonads -areas of active osteomyelitis -areas of hemorrhage",
+                "Electrotherapy should be used with caution -in patients without intact sensation -in patients who are unable to communicate -in patients with compromised mental status -in patients with cardiac dysfunction -in patients with epilepsy",
+                "Electrodes should not be placed -over neoplasms -over compromised skin -over tissues vulnerable to hemorrhage or hematoma -over the cervical or craniofacial region",
+                "Pregnancy\u2014over the abdomen or low back",
+                "Active bone growth at the epiphysis",
+                "Cancer\u2014over a known or suspected area of malignancy",
+                "Tuberculosis infection\u2014infected tissue",
+                "Hemorrhagic conditions",
+                "Impaired circulation",
+                "pregnancy  over the abdomen or low back ",
+                "Cancer  over a known or suspected area of malignancy",
+                "Hemorrhagic conditions",
+                "Active bone growth at the epiphysis",
+                "Areas of infection",
+                "Acute injury",
+                "Impaired sensation",
+                "Impaired cognition or communication",
+                "Impaired circulation",
+                "Skin disease, including damaged and at-risk  skin",
+                "Plastic or cemented implants",
+                "Spinal cord and superficial or regenerating nerves"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with painful and weak calf function are at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Evaluate fall risk",
+                "Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Cryotherapy contraindications  (1)",
+                "Cryotherapy precautions  (1)",
+                "Thermotherapy contraindications  (1)",
+                "Whirlpool contraindications(1)",
+                "Whirlpool precautions (*some are relevant only if entire body is immersed)(1)",
+                "Electrotherapy contraindications  (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk)(1)",
+                "Precautions  for electrotherapy",
+                "Therapeutic ultrasound  contraindications for continuous US(1)",
+                "Therapeutic ultrasound  contraindications for pulsed US(1)",
+                "Therapeutic ultrasound precautions for pulsed US(1)"
+            ]
+        },
+        "diagnosis need for treatment": "CMSI/pain on exertion, limitations in ROM, strength, gait, and functional mobility. Intervention is indicated to return patient safely to daily activities and sport",
+        "rule out": " Rule out Achilles tendon rupture (partial or complete)(5) Popliteal injury \u2013 usually associated with downhill running/walking. Pain is commonly localized along the medial posterior tibial border or shin or along the tarsal tunnel(5) Plantaris rupture Achilles tendinopathy(5) DVT(5) Ruptured Baker\u2019s or popliteal cyst(6) Claudication \u2013 peripheral arterial disease Sciatica and lumbar radiculopathy Compartment syndrome(5) Popliteal artery entrapment(5) \u2013 mimics soleus injury",
+        "prognosis": [
+            "Functional outcomes are excellent in 1st degree strain and good in 2nd degree strain, whereas complete rupture is generally not associated with full recovery of strength, flexibility, or sports performance(6)",
+            "Injuries to the central soleus aponeurosis tend to heal more slowly than tears in the medial and lateral calf(3)",
+            "Healing time for CMSI may be up to 6 weeks before the athlete can safely return to regular training.(4) Other sources estimate 3 to 4 months, depending on severity.(5) It should be kept in mind that a prior CMSI is a risk factor for a recurring CMSI(8,9) \u203aReferral to other disciplines  (as indicated)",
+            "Orthopedic surgeon for surgical consult in 3rd degree strain cases",
+            "Podiatrist for involvement of the affected foot",
+            "Orthotist for orthotic or CAM walker",
+            "Physical therapist trained in functional dry needling"
+        ],
+        "referral to other disciplines": "",
+        "other considerations": [
+            "Muscle fiber regeneration time varies according to the degree of strain. Limit the period of immobilization to the time needed to restore sufficient strength for safe therapeutic exercise. Restrict physical activity to avoid pain. An athlete\u2019s safe return to sport may take months, depending on the degree of strain(5)",
+            "Some research has looked at the timing of beginning treatment after injury. The following was reported when 50 amateur athletes with severe acute injury of the thigh muscle or calf muscle either started treatment 2 days after injury or 9 days after injury: \u2013All the patients in this Danish RCT completed daily repeated static stretching in week one of the protocol, daily isometric loading with increasing load (weeks 2 to 4), dynamic loading with increasing resistance 3 times per week (weeks 5 to 8), and functional exercises combined with heavy strength training 3 times per week (weeks 9 to 12).There were no differences reported in MRI measurements (measuring tissue inflammation and perfusion) or strength measures between  groups, although there was a trend in the early rehabilitation group toward having less pain and more confidence in their abilities(12) \u2013An earlier RCT by the same group showed that patients who received early rehabilitation were able to return to play significantly sooner than patients who received the later rehabilitation (median of 62.5 days versus 83 days, respectively)(13)"
+        ],
+        "treatment summary": [
+            "In general, earlier therapy may produce more satisfaction, less pain, and earlier return to sport(12,13)",
+            "Acute phase: control ROM and restrict specific activities that provoke pain, but prevent unnecessary immobilization. Try gentle seated active plantar flexion and dorsiflexion. Encourage WB as tolerated. Recommend that the patient treat pain and swelling using PRICE using PRICE (protection, rest, icing, compression, elevation) approach 2\u20134 times daily(6)",
+            "Physical agents/mechanical modalities: The effectiveness of cryotherapy, ultrasound, or electrostimulation for CMSI rehabilitation has not been investigated in randomized controlled studies. Heat pack or therapeutic ultrasound may help increase tissue elasticity prior to stretching or manual therapy",
+            "Calf compression sleeves and heel lifts in the shoeduring the early phases of treatment may be helpful to reduce swelling, provide support, and accommodate the shortened muscle(5,6)",
+            "Strengthening exercises \u2013In subacute phase (7 days post injury): try submaximal isometric ankle plantar flexion in seated position at multiple angles with minimal pain \u2013In late-subacute  phase (> 14 days): progress to concentric exercises (try ankle submaximal plantar flexion in seated position with ankle weights); single-leg  balance with opposite leg swings, half squats, walking lunges, and balance board exercises; gait reeducation, and proprioceptive training, as needed",
+            "Stretching exercises: in subacute phase, progress ankle plantar flexion ROM (without increasing pain); long-term therapeutic goal is to match flexibility of the contralateral side",
+            "Functional training: progress to dynamic ankle plantar flexion exercises using elastic bands or tubing, one-footed  hops, duck walk, run forward and backward at half speed, jog figure-8s  at half speed(6)",
+            "Sports-specific  training: gradually progress running at speeds to near-maximal.  Add agility running, jumping, and drills specific to sport(5)",
+            "Manual therapy: gentle soft-tissue  work to mobilize hematoma and adhesions, effleurage for swelling",
+            "Patient education for self-care  and implementing an independent exercise program",
+            "Due to the biomechanical differences seen in patients with recurrent CMSI, it has been suggested that addressing pelvis and hip kinematics may reduce the demands placed upon the calf complex(10) . Problem Goal Intervention Expected Progression Home Program Pain, tenderness, swelling, and bruisingResolve pain, edema, and ecchymosis _ _ Protect healing structuresPhysical agents and mechanical modalities _ Use of cryotherapeutic agents and the PRICE formula in acute phase _ _ Prescription and application of ambulatory devices/ equipment for 2nd and 3rd degree strainsWean from devices Provide the patient with simple instructions for PRICE  Calf muscle weakness and reduced ROM in ankle plantar flexionMaximize (preferably normalize) ankle strength and flexibilityTherapeutic modalities _ Strengthening and stretching exercises, as indicated (see Treatment summary , above)Gradual progression of weight-bearing and intensity of exercises, allowing patient to bear additional weight. Progress to eccentric ankle strengthening exercisesProvide the patient with exercises for ROM and strengthening. Daily repetition of exercises Painful or nonsymmetrical weight-bearing. Reduced functional mobilitySymmetry in standing posture and weight- bearing activities. Maximized ambulatory function and return to regular activities, including sports for athletesFunctional training _ Posture, gait, and mobility training. Balance and proprioception training. Sport specific training, as indicated _ _ Prescription, application of devices and equipment _ Ambulatory assistive devices may be prescribed, as neededProgression of task- specific exercises to achieve goalsProvide patient and family/caregivers with written instructions regarding functional activities that can be performed at home and correct use and/ or application of equipment ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased pain during daily activities v as": [],
+        "normal ankle flexibility goniometric rom": [],
+        "normal strength in ankle plantar flexion mmt, isokinetic testing of lower extremity": [],
+        "normal balance, gait, proprioception, and functional mobility bbs, tug test, dgi, fim, lefs": [],
+        "return to sport sport-specific  testing of affected leg": []
+    },
+    "maintenance or prevention": [
+        "Increase calf flexibility and eccentric single-leg  strength(6)",
+        "Reduce risk factors",
+        "Immediate reassessment if symptoms return"
+    ],
+    "patient education": [],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Bellew JW, Michlovitz SL, Nolan TP, Jr. Michlovitz\u2019s Modalities for Therapeutic Intervention . 6th ed. Philadelphia, PA: F. A. Davis; 2016. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Medes R, Kim B, Cianca J. The Clinic. Slumped form can overload the calves. Run Fitnews . 2015;33(1):16-18.  (X)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Pedret C, Rodas G, Balius R, et al. Return to play after soleus muscle injuries. Orthop J Sports Med . 2015;3(7):1-5.  doi:10.1177/2325967115595802. (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Saxena A, St Louis M, Fournier M. Vibration and pressure wave therapy for calf strains: a proposed treatment. Muscles Ligaments Tendons J . 2013;3(2):60-62.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Fields KB, Rigby MD. Muscular calf injuries in runners. Cur Sports Med Reports . 2016;15(5):320-324.  doi:https://doi.org/10.1249/JSR.0000000000000292. (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Filley A. Calf strain: what all athletes should know about diagnosis, treatment and recovery. https://www.sportsperformancebulletin.com/endurance-injuries-and-health/muscles-and-tendons/calf-injury-avoiding-the-strain/ . Published 2021. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Bright JM, Fields KB, Draper R. Ultrasound diagnosis of calf injuries. Sports Health . 2017;9(4):352-355.  doi:https://doi.org/10.1177/1941738117696019. (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Green B, Pizzari T. Calf muscle strain injuries in sport: a systematic review of risk factors for injury. Br J Sports Med . 2017;51:1189-1194. doi:https://doi.org/10.1136/bjsports-2016-097177.  (SR)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Green B, Lin M, McClelland JA, et al. Return to play and recurrence after calf muscle strain injuries in elite Australian Football players. Am J Sports Med . 2020;48(13):3306-3315.  doi:https://doi.org/10.1177/0363546520959327. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Bramah C, Preece SJ, Gill N, Herrington L. Kinematic characteristics of male runners with a history of recurrent calf muscle strain injury. Int J Sports Phys Ther . 2021;16(3):732-740.  doi:https://doi.org/10.26603/001c.22971. (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Maffulli N. The clinical diagnosis of subcutaneous tear of the Achilles tendon. A prospective study in 174 patients. Am J Sports Med . 1998;26:266Y70. doi:https:// doi.org/10.1177/03635465980260021801. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Bayer ML, Hoegberget-Kalisz  M, Jensen MH, et al. Role of tissue perfusion, muscle strength recovery, and pain in rehabilitation after acute muscle strain injury: A randomized controlled trial comparing early and delayed rehabilitation. Scand J Med Sci Sports . 2018;28(12):2579-2591.  doi:https://doi.org/10.1111/sms.13269. (RCT)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Bayer ML, Magnusson SP, Kjaer M, Tendon Research Group Bispebjerg. Early versus delayed rehabilitation after acute muscle injury. N Engl J Med . 2017;377(13):1300-1301. doi:https://doi.org/10.1056/NEJMc1708134. (RCT)"
+        }
+    ]
+}

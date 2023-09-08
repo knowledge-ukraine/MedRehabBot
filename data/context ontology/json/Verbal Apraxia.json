@@ -1,0 +1,508 @@
+{
+    "metadata": {
+        "title": "Apraxia of Speech (Acquired)",
+        "synonyms": [
+            "apraxia of speech (aos)",
+            "dyspraxia of speech",
+            "verbal apraxia"
+        ],
+        "anatomical location body part affected": [
+            "AOS can be caused by damage to any part of the distributed network of sites that are involved in speech production. Lesions in the following areas have resulted in documented cases of AOS: basal ganglia and frontal white matter, anterior portion of the insula, and frontal cortex(1)"
+        ],
+        "area of specialty": [
+            "adult neurological disorders",
+            "pediatric genetic and/or neurological disorders"
+        ],
+        "description": [
+            "Apraxia is an inability to perform learned movements voluntarily that does not result from a motor or sensory impairment (i.e., weak muscles, hemiplegia) or lack of cooperation (e.g., apathy, depression).(65) Apraxia affects learned, or intentional, fine or gross motor movements or patterns of movement (e.g., pantomiming/gesturing, using a toothbrush and toothpaste to brush the teeth).(65) AOS is an acquired, neurological motor speech disorder that affects the precision and consistency of movements for speech, causing impaired speech intelligibility.(64) With AOS, the patient is able to formulate intended messages in the brain; however, the connection to the muscles of speech and articulation is disrupted.(64) Despite intact muscle strength, a patient with AOS is unable to move his or her lips and tongue into the correct positions to form intended sounds, words, phrases, or sentences (depending on severity level)(64)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "R48.2": "apraxia",
+            "I69.090": "apraxia following nontraumatic subarachnoid hemorrhage",
+            "I69.190": "apraxia following nontraumatic intracerebral hemorrhage",
+            "I69.290": "apraxia following other nontraumatic intracranial hemorrhage",
+            "I69.390": "apraxia following cerebral infarction",
+            "I69.890": "apraxia following other cerebrovascular disease",
+            "I69.990": "apraxia following unspecified cerebrovascular disease _ (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Acquired AOS is a neurologic sensorimotor speech disorder characterized by sound distortions, sound substitutions, slowed rate of speech, and prosodic abnormalities.(2,3) AOS can range in severity from a complete inability to produce speech to only minor problems with some sounds.(4) In addition to AOS, patients might also have buccofacial (oral) AOS, which is an inability to produce nonspeech movements of the articulators and upper respiratory apparatus (e.g., sticking out tongue, opening mouth)on command(5) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Precautions will vary according to the individual patient and the severity of accompanying language, cognitive, and motor symptoms. A patient\u2019s medical records should be reviewed thoroughly prior to the evaluation. During the evaluation, it is of utmost importance to be aware of a patient\u2019s level of fatigue, pain tolerance, and level of frustration",
+            "A patient\u2019s culture and native language should also be considered to determine the appropriateness of examination questions and materials",
+            "Depression and anxiety are common among persons with brain injury and can adversely affect test performance(11)",
+            "Persons with AOS might not be able to complete standardized tests or answer questions regarding medical history. It is recommended that the caregiver, spouse, or family member be involved in all assessment procedures"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  stroke in the left hemisphere is the most common cause of brain injury leading to aos. other causes include head trauma, brain tumors, brain infections, neurodegenerative diseases  e.g., progressive aphasia , and other conditions of the": [],
+        "pathogenesis": [
+            "Acquired AOS is commonly associated with damage to the premotor cortex and insular regions of the left hemisphere(7)",
+            "Authors of a study conducted in Australia compared the neuroimaging results from healthy controls with those fromtwo groups of individuals who had experienced a stroke: those with AOS and those without evidence of AOS. Theneuroimaging used in this study was fMRI in resting state, which researchers chose to allow them to look at brainfunction independent of any specific task (e.g., speaking, moving, reading).Researchers found that there were reductionsin functional connectivity across the brain in individuals who had experienced a stroke compared to healthy controls.Additionally, individuals with AOS had reduced neural connectivity between the left and right premotor regions and theleft premotor and right anterior insula regions when compared to individuals with stroke but without AOS. Overall, thestrength of bilateral ventral premotor cortex connectivity was negatively correlated with severity of AOS(73)",
+            "It is unclear where the breakdown in speech production occurs for patients with AOS. Research suggests that some patientswith AOS have deficits of phonological encoding (the process in the brain whereby the word\u2019s sound structure is internallyformulated) as well as problems with motor planning (planning the movements of the speech articulators).(62,72) It isimportant to distinguish the underlying breakdown in speech production that appears to be causing an individual patient\u2019serrors in order to provide targeted speech therapy intervention (i.e., whether to target phonological processing or motorlearning)(72)"
+        ],
+        "risk factors": [
+            "Stroke\u2013Advanced age (risk doubles each decade after age 55; peak incidence at 80\u201384 years of age)(8)\u2013Sex (more common in females than males)(8)-Use of birth control pills, pregnancy, smoking, and postmenopausal hormone therapy further increase risk of stroke inwomen(8)\u2013Family history of stroke(8)\u2013History of stroke, heart attack, or transient ischemic attack (TIA)(8)\u2013Cigarette smoking(8)\u2013Hypertension (normal blood pressure \u2264 120/80 mm Hg)(8)\u2013Diabetes mellitus(8)\u2013Carotid or other artery disease (including peripheral artery disease)(8)\u2013Excess weight(8)\u2013Hyperlipidemia (LDL cholesterol > 100 mg/dL)(8)\u2013Physical inactivity(8)\u2013Alcohol and/or drug abuse(8)\u2013Atrial fibrillation or other heart disease(8)\u2013Sickle cell disease(8)\u2013High-fat  diet(8)\u2013Geographical location (in the United States, strokes are more common in the Southeast)(8)\u2013Socioeconomic factors (some evidence suggests strokes are more common among persons of low income)(8)",
+            "Traumatic brain injury (TBI)\u2013Age-Children, specifically newborns through age 4 years(9)-Teenagers and young adults, especially those 15\u201324  years of age(9)-Adults over age 75(9)\u2013Male sex(9)",
+            "Brain tumor\u2013Age (risk increases with age)(10)\u2013Exposure to ionizing radiation(10)\u2013Family history of brain tumor(10)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Precautions will vary according to the individual patient and the severity of accompanying language, cognitive, and motor symptoms. A patient\u2019s medical records should be reviewed thoroughly prior to the evaluation. During the evaluation, it is of utmost importance to be aware of a patient\u2019s level of fatigue, pain tolerance, and level of frustration",
+            "A patient\u2019s culture and native language should also be considered to determine the appropriateness of examination questions and materials",
+            "Depression and anxiety are common among persons with brain injury and can adversely affect test performance(11)",
+            "Persons with AOS might not be able to complete standardized tests or answer questions regarding medical history. It is recommended that the caregiver, spouse, or family member be involved in all assessment procedures"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "What is the underlying cause of AOS (e.g., stroke, TBI)? -What were the initial signs and symptoms of AOS? Have any signs or symptoms improved or worsened since onset? -Refer to neurological testing for site and size of lesion",
+                "course of treatment": {
+                    "medical management": "Medical management of patients who have AOS is highly complex and variable according to the underlying cause of AOS Document any surgical procedures performed prior to evaluation",
+                    "surgical management": [],
+                    "medications": "The concurrent use of multiple medications is common among older adults who have complex medical conditions, and the side effects of these medications can adversely affect cognitive and communicative functioning.(12) Contact a pharmacist or physician regarding questions about medication side effects(12)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Note the results of any neurological (MRI, CT scan), neuropsychological, or psychological/cognitive tests that have been completed"
+                    ],
+                    "alternative therapies": "Document any use of home training programs or alternative therapies (e.g., acupuncture) and their efficacy",
+                    "previous therapy": "Document whether patient has had physical, occupational, or speech-language  therapy for this or for other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Does the patient have vision or hearing problems? -Does the patient have difficulty with mobility? -Does the patient have limb apraxia (motor planning deficit that impairs voluntary movement of limbs) or oral apraxia? The presence of these deficits may be determined in consultation with the physical therapist (PT) or occupational therapist (OT). Failure to correctly diagnose limb apraxia might result in an erroneous diagnosis of a comprehension deficit due to failure to follow directions(7) -Does the patient have a mood disorder (e.g., depression) that may affect motivation to communicate?(11)",
+                "body chart": "Use body chart to document location and nature of symptoms and document any limb apraxia",
+                "nature of symptoms": "",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/ or symptoms that could be indicative of a need to refer to physician. Examples include aphasia, depression, reduced/ impaired physical mobility, dysphagia, overall health status, and vision deficits",
+                "respiratory status": "Document any respiratory difficulties the patient is experiencing (e.g., use of supplemental oxygen, mechanical ventilator)Depression and anxiety are common among persons with communication impairments.(11) It is important that speech-language  pathologists (SLPs) be knowledgeable of the symptoms of depression (e.g., loss of interest in daily activities, problems sleeping, feelings of sadness and hopelessness) and refer to a neuropsychologist or a clinical psychologist when such symptoms are present.(12) Many depression scales and psychological scales have been  used to assess patients who have had stroke. The SLP can collaborate with the psychologist to determine the appropriate -Hospital Anxiety and Depression Scale (HADS) (mild aphasia)(11) -Depression Intensity Scale Circles (DISC) (moderate aphasia)(11) -Stroke Aphasic Depression Questionnaire (severe aphasia\u2014to be completed by caregiver)(11) -Visual Analogue Self-Esteem  Scale(13)Document hearing ability -Does the patient have known hearing loss? If so, does he or she wearing hearing aids? Left, right, or bilateral? -Refer to audiologist for full audiological evaluation if hearing impairment is suspected Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any previous communication difficulties or cognitive deficits",
+                    "comorbid diagnoses": "Refer to medical charts and ask patient or patient\u2019s family about other problems, including hearing loss, vision deficits, diabetes, cancer, heart disease, and psychiatric disorders Broca\u2019s aphasia is a common comorbid diagnosis in patients with acquired AOS(72)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter drugs)",
+                    "other symptoms": "Ask patient or family/caregiver about other symptoms he or she is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in any language-based recreational activities, such as a book club or speaking club? Does the patient attend school or work? Does the patient regularly use a computer/telephone?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Document if the patient uses any adaptive equipment to communicate (e.g., pen/paper) -Note if patient wears hearing aids or glasses -Determine if hearing aids are in working order -Note if patient uses any devices to assist with mobility (e.g., walker, wheelchair)",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members), and language(s) that the patient uses in the home -obtain information about order of acquisition of each language and language history (e.g., language used in education)(14) -which language is used in different situations (e.g., work, home, with relatives, with friends)?(14) -what modalities are used in each language (e.g., reading, speaking, writing)?(14) -premorbid proficiency in each language can be compared to present proficiency using a 7-point  scale (e.g., 1 = not fluent, 7 = native proficiency)(15)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting.)  A comprehensive communication and swallowing evaluation should determine the severity of AOS and coexisting impairments by examining speech, language, and swallowing ability",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Assess need for and ability to use augmentative and alternative communication (AAC)(18) Measures skills required to use AAC systems and strategies. Consists of 8 sections designed to assess communication tasks, such as selecting pictorial symbols, telling a story by pointing to photos, choosing pictures to complete a daily transaction (e.g., buying medicine at a drugstore), and providing information about places by pointing to locations on a map \u2013For detailed information on assessment and treatment using AAC for patients with severe communication impairments, see the series of Clinical Reviews on this topic",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "When selecting tests, clinicians must consider the patient\u2019s level of awareness and cultural and linguistic background.(12) Tests that have normative information on diverse groups should be used when possible.(12) In addition, comprehension tests that ask the patient to follow directions without using speech are useful in distinguishing between comprehension and speech production deficits. However, if the patient has limb apraxia, commands involving physical movement may be difficult to completeEstimate speech intelligibility at the single-word level;(19) for patients with less severe AOS, estimate speech intelligibility at phrase, sentence, and/or conversation level, if ableUse a standardized test or an informal (nonstandardized) analysis to determine errors that have a high frequency of occurrence. For specific sounds, calculate the percentage of omissions, substitutions, distortions, and additions -Distortions are the most common speech sound error in patients with AOS(20,21) -Speech sound errors of patients with AOS are unpredictable and irregular(22)Patient performance on different speech tasks can assess situations in which the patient has most and least difficulty with speech production. Tasks should include a combination of \u201cautomatic\u201d and spontaneous speech. Audio record the patient\u2019s speech in different speech tasks for baseline measures and to measure patient progress. ThePatients with AOS have more difficulty with multisyllabic words(20)Document if the patient improves or worsens on successive repetitionsDocument if the patient improves with imitation -Conversation/picture description (have the family bring photos for the patient to describe) -Oral reading -In a study conducted in the United States, researchers investigated the use of a specifically designed reading passage to distinguish between and among the dysarthrias and apraxia of speech (\u201cThe Caterpillar\u201dpassage).(23) The passage includes specific tasks (e.g., prosodic contrasts, words of increasing length and complexity). The passage was administered to 15 adults with dysarthria or AOS and 7 healthy controls. The researchers concluded that use of the passage was helpful in describing individual profiles of impairment and assisting in treatment planning -Automatic speech tasks (e.g., counting task/days of the week/months of the year); automatic/overlearned speech is typically less impaired than spontaneous speech in patients with AOS(24) Designed to diagnose AOS and to estimate the severitydiadochokinetic rate, increasing word length, limb apraxia and oral apraxia, latency time and utterance time for polysyllabic words, repeated trials, and inventory of articulation characteristics of AOSA descriptive tool developed by researchers and found to have good reliability and validity. The ASRS is not currently used in clinical settings; however, it has potential to be used as an outcome measure in both clinical practice and research studies(68)Because aphasia often co-occurs  with AOS, standardized tests assessing aphasia often have subtests that examine for the presence of AOS(25) To assess different modalities of language (auditory, visual, gesture) and processing functions (26) To assess components of language structure such as orthography and phonology, word and picture semantics, and morphology and syntax(27) To assess oral language (verbal fluency, language information content, comprehension, repetition, and naming), nonverbal language, and reading and writing. Contains a screening measure (Bedside WAB-R)Briefly assess vocal function, including vocal quality, loudness, pitch, and endurance; if there are specific concerns regarding voice, refer to otolaryngologist for complete workup to rule out laryngeal pathologies prior to completing a full",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Refer to psychological and cognitive evaluations to assist in informing course of treatment and developing a prognosis for therapy. Note that the patient\u2019s reading and language ability may affect scores on some subtests and that some subtests might not be used as an accurate measure of the patient\u2019s cognitive ability. In addition, the patient\u2019s comprehension and reading abilities often are disproportionately better than (16) To assess cognitive status of adults. Sections include Orientation to Time, Orientation to Place, Registration, Attention and Calculation, Recall, Naming, Repetition, Comprehension, Reading, Writing, Drawing(17) To assess intellectual and cognitive abilities of adults",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "The relative benefits and risks of intensive therapy should be evaluated on a case-by-case  basis. To ensure relevance and appropriateness of treatment programs, decisions about goals and course of therapy should be made in collaboration with the patient, the caregivers, other healthcare professionals, and teachers (if appropriate)(34)",
+                "Cultural background, language preference, and patient interests must also be considered.(34) Treatment goals and objectives will shift with the recovery of the patient. It is recommended that outcome measures include assessment of functional reading and writing skills",
+                "Patients with AOS are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Inform the patient and family/caregivers of the potential for falls and educate about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with AOS are at risk for swallowing and feeding difficulties. Inform the patient and family/caregivers of potential aspiration risks and educate about prevention and compensatory strategies when appropriate"
+            ]
+        },
+        "diagnosis need for treatment": "Diagnosis will be determined by formal and informal testing by the SLP and confirmed by neurological tests. Need for treatment must be evaluated by the patient, therapist, and patient\u2019s family. Primary clinical characteristics that are considered necessary for diagnosis are: Slow rate of speech Sound distortions Sound substitutions  Prosodic irregularities/dysprosody(3,59) treatment(47) -Practice schedules will influence the rate of learning -The use of MLG approach with a patient with AOS was reported in a case study in the United States(45)  -Twenty-nine-year-old  patient status post penetrating left-hemisphere TBI from a gunshot wound -Presented with moderate-severe  AOS on the ABA-2  in baseline assessment -MLG treatment focused on 2 sets of 5 target items for a total of 16 weeks. (Set A was targeted for 12 sessions over 12 weeks; set B was targeted for 6 sessions over 4 weeks) -Home practice program was provided -According to an assessment 2 months post treatment cessation, the patient improved on target items in Set A and maintained progress on Set B -Three months after treatment cessation, patient demonstrated decreased accuracy from the 2-month  follow-up; however, increased mean scores compared to pre-treatment  baseline \u2013Biofeedback:  Forms of biofeedback to improve articulation include electromyography, electropalatography, and electromagnetic articulography.(48,49) These treatments provide biofeedback for a single articulator (e.g., tongue body, tongue tip). The articulatory gesture typically is practiced in isolation in a nonspeech task and then in phoneme tasks (e.g., CV , CVC)(48) -In a small study conducted in the United States with 10 subjects with aphasia and apraxia, researchers investigated the effect of masked auditory feedback (MAF) on speech fluency. MAF is a type of altered auditory feedback (AAF) in which the speaker hears his or her own speech through headphones and it is continuously augmented by an additional masking sound, such as white noise. Researchers compared speech fluency when subjects were reading sentences while listening to normal auditory feedback (i.e., their own voice), MAF, and delayed/pitch-modified  auditory feedback. Additionally, researchers assessed the effects of the various types of auditory feedback on speech fluency on healthy, nonapraxic adult subjects. Researchers found that the MAF did improve speech fluency in several of the apraxic/ aphasic subjects, but not all. The other type of AAF (delayed/pitch-modified)  was not beneficial for any of the subjects. Researchers encouraged additional research with larger sample sizes to determine the effectiveness of MAF on improving speech fluency(69) -In a case study in the United States, authors investigated the effects of electromagnetic articulography with an adult with Broca\u2019s aphasia and AOS to train the sounds /s/ and /sh/.(5) The treatment involved 5 sessions in which the patient was placed in front of a monitor displaying a midsagittal portion of the tongue tip. Small receiver coils were attached to the subject\u2019s articulators by biocompatible glue and were then connected to a computer by means of fine wires leading from the corner of the subject\u2019s mouth. When the patient hit the target region of the palate with the tongue tip, a pleasing tone sounded and a balloon image would rise on the screen. During the therapy sessions, the patient performed four tasks: silent (touching the target zone with tongue), humming, nonword, and real word. Results indicated that patient was able to improve /s/-/sh/  contrasts in nonwords and, to a lesser extent, in real words. Data regarding social validity and generalization of effects in conversational speech are lacking. The authors caution that the clinical utility of this method is low due to the high cost and technical expertise needed to use the equipment(5) -Authors of a case study on a 59-year-old  female with AOS used ultrasound feedback of the tongue to assist the patient in correcting errors on rhotic sounds. Treatment took place over 12 sessions with 2 60-minute  sessions per week. The first 6 sessions addressed production of prevocalic \u201cr,\u201d targeting the variants in \u201cray\u201d and \u201crow.\u201d The final sessions addressed postvocalic \u201cr,\u201d targeting the variants in \u201care\u201d and \u201cor.\u201d During sessions visual feedback on a computer screen display from an ultrasound probe held beneath the chin was used by the clinician to improve \u201cr\u201d productions. Prior to intervention, the patient could not produce the rhotic sounds. At the conclusion of the intervention, the patient was still unable to produce prevocalic \u201cr\u201d; however,she had average scores of 71.9% accuracy with postvocalic \u201cr\u201d(61) Approaches for improving prosody (rate and or rhythm) \u2013Metronomic pacing(47) -The use of metronomic pacing was investigated in 3 separate studies with positive results; however, all 3 studies used different techniques: -Pairing metronomic pacing with the production of nonspeech movements, alternate motion rate productions, multisyllabic word productions, and sentence productions(50) -Pairing metronomic pacing with production of isolated vowels, vowel sequences, and vowel plus /h/ sequences(51) -Pairing metronomic pacing with multisyllabic word production(52) -Given that no single technique was replicated in multiple studies, this technique has promise but limited empirical support  -The effectiveness of a rate/rhythm control treatment was investigated in a single-subject  design study in the United States with 10 participants with apraxia and aphasia.(36) All participants first received treatment that involved repeated practice (see study described above under \u201cRepeated practice\u201d). Rate/rhythm control treatment was applied after a plateau was reached with repeated practice treatment to determine if additional  gains could be observed with rate/ rhythm control treatment. Treatment involved repeated practice (repeating an item 5 times) with the addition of hand-tapping  in time to the beat of a digital metronome. Two participants did not receive rate/rhythm control treatment because they achieved positive responses with repeated treatment alone. Six participants showed modest gains with the addition of the rate/rhythm control treatment \u2013Melodic Intonation Therapy (MIT):  MIT targets prosodic aspects of speech (tempo, pitch, rhythm, and stress) and has been investigated primarily in studies of patients with aphasia and children with developmental AOS(53) -MIT is a hierarchically structured treatment in 4 levels: -The clinician hums a melody pattern and the patient taps the rhythm and stress(53) -The patient taps and repeats the clinician\u2019s production of the intoned utterance(53) -The clinician and patient produce the intonation in unison and the clinician\u2019s participation is faded. The patient is required to give an appropriate intoned response to the clinician\u2019s intoned probe question(53) -Normal speech prosody is the final goal(53) -A technique called speech-song  (sprechgesang ) is used in transition to normal speech prosody. The patient may continue to use hand tapping to maintain rhythm and stress(53) -In speech song, the melodic line of the intoned utterance is retained but the constant pitch of intoned words is replaced by the variable of speech(53) -The effects of MIT on patients with AOS are promising but preliminary. No studies using MIT with adults with clearly defined AOS have been published, only those with Broca\u2019s aphasia. In an unpublished study in the United States, researchers investigated the effects of MIT with 2 subjects with AOS and Broca\u2019s aphasia and found that MIT was effective in increasing fluency, rate, repetition, stress, and grammatical features of speech(54)Authors of a case study on a 56-year-old  male with AOS following a stroke reported improvement in the production of complex consonant blends and generalization to untreated simple consonant blends, both at the word level. Additionally, researchers documented significant activation in the brain regions responsible for phonological processing after this treatment. The implicit treatment protocol was designed to allow the participant to manipulate phonemes in order to create his own word and then associate this word with an image. As an example, the participant would be shown 4 pictures and given the instructions: \u201cI want you to point to the correct picture, think about it, don\u2019t say it out loud. \u2018Eaks,\u2019 what would it be if you added \u201cstr\u201d to the beginning?,\u201d and then he would be shown a picture of \u201cseeks,\u201d \u201cpeaks,\u201d \u201csneaks,\u201d and \u201cstreaks\u201d(60) Two emerging treatments for AOS with minimal, but promising, evidence for their effectiveness are transcranial direct current stimulation (tDCS) and self-administered  computer treatments. tDCS involves painless, noninvasive stimulation of the brain with electrical currents passed between electrodes on the head to stimulate specific regions of the brain. Self-administered  computer treatments involve programs that patients can download to their computer or tablet for repetition and naming practice(74)Communication boards, speech-generating  devices, or a gestural system such as American Indian Sign (Amerind) might be considered for patients with AOS when oral speech is not intelligible(55,56,57) \u2013For detailed information on assessment and treatment using AAC for patients with severe communication impairments, see the series of Clinical Reviews on this topic . Problem Goal Intervention Expected Progression Home Program  Errors in sound productionIncrease intelligibility of speech productionArticulatory/ kinematic approaches _ _ SPT _ _ PROMPT _ _ Phonomotor rehabilitation _ _ MLG _ _ Biofeedback _ _ See Treatment summary , aboveProgress in hierarchical manner beginning with syllables and progressing to words, phrases, sentences, and conversationA home program will vary with patient\u2019s goals and should be developed if home practice is feasible Impaired prosody of speechImprove prosody of speech; increase naturalness of speechFunctional training _ _ Metronomic pacing _ _ MIT _ _ See Treatment summary , aboveMIT: Progress hierarchically according to MIT protocolA home program will vary with patient\u2019s goals and should be developed if home practice is feasible Lack of functional communicationImplement an AAC system with which the patient will communicateFunctional training _ _ AAC _ _ See Treatment summary , above _ _ _ For detailed information on assessment and treatment using AAC for patients with severe communication impairments, see the series of Clinical Reviews on this topicProgression will vary with respect to the individual patient\u2019s goals and level of severity of AOSTrain patient and caregiver to use AAC system at home and in the community  Dysphagia (as needed) Increase swallow safety Dysphagia therapy _ Therapy will vary according to the results of a swallow evaluation. Treatment might include strategies for airway protection, strategies for facilitating oral phase of swallowing, and dietary adjustmentsProgression will vary with respect to the individual patient\u2019s goals and safety precautionsHome program will vary with respect to the goals of the patient Aphasia of speech (as needed)Increase functional language productionAphasia therapy _ For detailed information on assessment and treatment of aphasia, see Clinical Review\u2026 Aphasia, Broca\u2019 s (Nonfluent Aphasia) , referenced aboveProgression will vary with respect to the individual patient\u2019s goals and level of severity of AOSHome program will vary with respect to the goals of the patient .",
+        "rule out": "Rule out dysarthria, muscle weakness, and language impairment as the primary cause of production difficulties. Speech characteristics that are exclusionary (contradict diagnosis) include fast rate, normal rate, and normal prosody(3)",
+        "prognosis": [],
+        "referral to other disciplines": " Referral to other disciplines Referral to occupational and/or physical therapy for assistance with daily living skills and/or mobility if needed Referral to a psychologist or counselor for depression or anxiety Referral to audiology if the patient appears to have hearing loss Referral to neuropsychology for significant cognitive impairment",
+        "other considerations": [],
+        "treatment summary": [
+            "Authors of a systematic review published in 2015 that included 26 studies from 2004 to 2012 investigating the effects of treatment for acquired AOS reported that the evidence was Class III to Class IV (meaning there were no case controlled studies, retrospective cohort studies, or RCTs). Class III studies were those that were controlled studies and used within-participant  designs and masked, objective, or independent outcomes and Class IV studies were uncontrolled. Of the 26 studies, the researchers concluded that 18 had high to reasonable methodological quality. The evidence of the studies indicated a strong effect for articulatory-kinematic  and rate/rhythm treatment approaches (both described below) for acquired AOS(67)",
+            "Authors of a published review in the United States of 42 treatment studies for AOS completed between 1973 and 2002 found that there are several treatments that have been described for AOS; however, very few treatments have been systematically evaluated in repeated studies.(35) The review authors also found limited information regarding dosage of treatment, generalization effects, maintenance effects, or relative effects of different treatments(35)",
+            "A systematic review commissioned by the Academy of Neurologic Communication Disorders and Sciences (ANCDS) in Washington, D.C., was completed to develop practice guidelines for AOS. A total of 59 studies were included in the review. Reviewers categorized treatments into four main types: articulatory kinematic, intersystemic facilitation/ reorganization, alternative/augmentative communication, andrate and/or rhythm.(3) Most treatment research for AOS has centered on articulatory kinematic treatments, such as Sound Production Treatment (SPT),which have been found to provide gains in speech production even for patients with chronic or severe deficits. Gains in articulation, fluency, and reduced rate or decrease in overall AOS symptoms have also been noted for some patients who have received rate/ rhythm control treatment. Intersystemic reorganization involves the use of relatively intact systems (e.g., manual gestures) to facilitate functioning of systems that are impaired (e.g., articulatory). Preliminary studies have shown promise for intersystemic facilitation/treatment in improving articulation and gestural abilities. However, there are comparatively few studies and more research is needed. AAC approaches may be recommended for some patients with very limited verbal output. However, there are insufficient data to determine whether AAC approaches may be successful for patients with AOS(3)",
+            "There have been no randomized controlled trials investigating the effects of any treatment for AOS(2,67)",
+            "Repeated practice: Repeated practice of words or phrases is a common element of most treatments for AOS. In a United States single-subject  experimental design study (multiple probe across behaviors and multiple baseline across participants) of 10 adults with AOS and aphasia, researchers investigated the effects of repeated practice on sound production accuracy.(36) The investigators defined repeated practice as \u201cproducing a target item five times after a single model with general feedback provided after the group of productions\u201d (p. S6). Modeling and specific feedback were absent in the treatment to assess the effects of repeated practice alone. Five lists of stimuli of 20 items each were developed for each participant to correspond to the level of production in which sound errors were the most prevalent. Items ranged in complexity from monosyllabic words to multisyllabic words in sentences. Treatment was provided 3 times a week for 1.25\u20131.5  hours. During the repeated practice treatment, participants practiced three lists. Two other lists served as \u201cno treatment lists\u201d\u2014one with limited probing and the other with more frequent probing. Participants received treatment until a high level of accuracy was reached or until they reached a plateau in performance. Results indicated that repeated practice resulted in improved performance for the majority of participants (80%); the amount of improvement varied within and across participants ",
+            "Approaches for improving articulatory positioning (articulatory/kinematic): Treatment approaches that support improved movement and/or positioning of the articulators for more intelligible speech production(2,3) \u2013General principles of the articulatory/kinematic approach(1,37) -Build in a high level of patient motivation and success -Provide observational learning (e.g., modeling, graphic representations of articulators) -Use extensive and intensive drill with a large number of repetitions -Use primarily speech tasks rather than nonspeech tasks -A hierarchical approach should be used. For example, work on sounds in isolation, then in syllables and in words -There should be some focus on prosody (contrastive stress drills) -Introduce meaningful or functional material as soon as possible to allow for generalization -Use a combination of randomized presentation of sounds (different sounds) and blocked presentation of sounds (multiple presentations of the same sound) \u2013SPT: SPT is an articulatory-kinematic  treatment that targets specific consonant production by using modeling, repetition, minimal pair contrast, integral stimulation (e.g., watch me, listen to me, say it with me), articulatory placement cueing, and feedback(4,38,39,70) -The basic steps of the response-contingent  hierarchy include the following: -Produce the target phrase or word in a minimal pair context or alone following a verbal model by the therapist(4) -Repeat step 1 with a written cue (e.g., printed letter of the target sound)(4) -Produce the target word only with integral stimulation(4) -Produce the target word only with articulatory placement cues and a model from the therapist(4) -Produce the target sound in isolation with a model(4) -The therapist presents the next item(4) -Multiple studies have demonstrated positive effects of SPT on targeted sounds in trained and untrained exemplars with strong maintenance of the effects at 1\u20132 months post treatment(4,58) -Authors of a meta-analysis  of SPT published in 2015 found 10 published reports on the effects of SPT for individuals with AOS. The data analyzed in the meta-analysis  were taken from 24 individuals. Authors found that effect sizes for SPT varied according to the specific target of treatment and from participant to participant; however, they were generally large and positive. The data also suggested that more severe AOS led to greater effect sizes from SPT. Authors of the meta-analysis  concluded that SPT is likely beneficial for individuals with AOS; however, it is unknown which components of SPT are essential and which are extraneous. Additionally, more research should be done examining the underlying neural changes that result from SPT(70) -In a study conducted in the United States with 20 individuals with AOS, researchers compared results from SPT with a blocked practice schedule versus a randomized practice schedule. All of the participants in the study made gains and there was not a significant difference between blocked or random practice schedules. Additionally, generalization was observed to untreated items for both groups, but improvement on untreated items was not as strong as that on treated items(75) -In a study conducted in the United States, researchers employed a multiple baseline design across participants and behaviors to study the effects of 2 treatment intensities and 2 schedules of practice of SPT with 4 participants who had chronic AOS and aphasia.(39) Each participant received 4 variations of SPT: 1) intensive-blocked  practice, 2) intensive-random  practice, 3) traditional-blocked  practice, and 4) traditional-random  practice. Blocked stimulus practice refers to practicing the same behaviors repeatedly with no intervening trials of other behaviors (e.g., /b/ would be targeted on all items followed by /k/ stimulus items). Random practice involves practicing all items in a mixed and nonpredictable order (e.g., /b/ and /k/ items would be targeted simultaneously). All phases of treatment lasted 16 hours, with intensive treatment provided in 4 hourly treatment sessions per day, 4 days per week (total = 1 week). \u201cTraditional\u201d phases were provided in 1 hourly session per day, 3 days a week (total = 5.5 weeks). All participants showed positive changes in accuracy for all phases of treatment. Follow-up  data did not indicate any clinically meaningful differences among treatment applications. Researchers hypothesized that extending treatment to include higher levels of accuracy might have revealed possible differences in conditions(39) \u2013PROMPT:  In this approach, the patient is provided with proprioceptive, pressure, and spatial information using oral-facial  prompts. In two case studies performed in the United States with participants with aphasia and AOS, authors  reported positive effects for PROMPT in improving production of target words and phrases and trained and untrained declarative sentences.(40,41) Data regarding generalization effects and social validity are lacking \u2013Phonomotor rehabilitation:  The phonomotor approach incorporates principles designed for treatment for dyslexia in children (Lindamood Phoneme Sequencing Program).(42) The rationale for using this approach is based on the assumption that AOS is a motor level disorder and that the impairment stems from the inability to retrieve and sequence previously learned motor patterns.(43) The treatment includes two main phases: 1) the pre-practice  phase, in which the patient studies oral movements that are depicted in treatment pictures (line drawings of articulatory placement), and 2) the acquisition phase, in which the target stimulus (sound) is presented in nonwords in conditions that optimize motor learning. Sounds are presented with their corresponding line drawings and practiced with auditory discrimination tasks, verbal production tasks, and tactile/kinesthetic tasks. Self-evaluation and \u201cmental practice\u201d are also key components of the program. The patient is asked to use a mirror to evaluate whether sounds are correct or incorrect. In a multiple baseline single-subject design study investigating the effects of the phonomotor approach, the patient with AOS showed improvements on individual phoneme production but no improvements in multisyllabic words or discourse production(43) \u2013Speech Motor Learning (SML) approach : The SML approach was developed to address not only specific sound errors but also inter-segment transitionalization (transitioning between sounds), coarticulation, temporal flow of speech, recall of motor plans and programs for long utterances, and automated production of practiced speech utterances.(44) The overall aim is to help the individual with apraxia regain control of motor planning and become a more natural speaker. Unique features of this approach include rating the ease of production of specific consonants, vowels, and diphthongs by the patient and therapist prior to treatment, the use of nonwords for practice, and stages of treatment which increase in difficulty with respect to sounds targeted as well as syllable structures. There is limited research on the effectiveness of using principles of motor learning for the rehabilitation of AOS; however, the small body of research is promising and warrants additional studies(71) -In a multiple baseline single-participant  design across behaviors study in South Africa, researchers investigated the effectiveness of the SML approach in a 54-year-old  individual with apraxia secondary to a stroke.(44) Prior to the study, the patient had received treatment with specific error sounds in nonwords and his speech had reached a plateau. He started receiving SML treatment 30 months post onset of stroke. Treatment was conducted twice a week for 18 months for a total of 89 1-hour  sessions. Results indicated improvement with production of untrained nonwords and words containing the trained and untrained speech motor targets. The number of speech errors decreased across the treatment period and improvement was maintained 2 years post treatment \u2013Motor Learning Guided (MLG) approach:  An approach based on learned motor programs (such as riding a bike or typing on a keyboard) that has been modified for use in therapy for AOS(45) -Based on the following principles:(45) -Repetitive drills are essential motor learning tools -Instruction for motor skill should involve a model of the appropriate motor pattern -Self-learning  is important; motor learning should not be structured in an errorless fashion -Feedback guides the patient to correct his or her mistakes and will help increase accuracy over time -Two types of feedback can be provided: knowledge of results (KR) and knowledge of performance (KP) -KR: informs patient about accuracy (e.g., \u201cYou got 9 of 10 correct\u201d) -KP: provides patient with specific information about his or her performance (e.g., \u201cYour tongue was placed too far forward that time\u201d) -The skill being practiced should be very similar to or exactly the same as the target skill -Selection of treatment stimuli -In speech-language  therapy, it is essential to train patients to use functional words, phrases, and sentences(46) -In a study conducted in the United States, researchers found high social validity among 124 unfamiliar listeners when listening to a patient who had been treated according to a modified script training protocol in which the patient selected personally meaningful phrases to practice in treatment sessions(46) -Authors of a literature review for AOS treatments strongly recommend beginning with syllables as the initial targets because syllables are such overlearned motor patterns and therefore are more likely to produce early success in"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes of speech-language  therapy for patients with aos vary; outcomes should reflect improvements of communication and body function as well as increased activity participation and contextual factors": [],
+        "in a published review of treatments for aos, the authors found that there was a wide variety of reported outcome measures for patients with aos, including aphasia test scores, intelligibility scores, verbal productivity calculations, kinematic": []
+    },
+    "maintenance or prevention": [
+        "Maintenance of treatment can be provided by educating the family on tasks to use at home",
+        "Clinic-based  treatment should eventually be transferred to home-based  routines so that the patient and caregivers can continue treatment independently"
+    ],
+    "patient education": [
+        "See \u201cApraxia of Speech\u201d from the National Institute on Deafness and Other Communication Disorders (NIDCD) at https://www.nidcd.nih.gov/health/apraxia-speech",
+        "See \u201cApraxia of Speech in Adults\u201d from the American Speech-Language-Hearing  Association at https://www.asha.org/public/speech/disorders/apraxia-of-speech-in-adults/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Peach RK. Acquired apraxia of speech: features, accounts, and treatment. Top Stroke Rehabil . 2004;11(1):49-58.  (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Wambaugh JL, Duffy JR, McNeil MR, Robin DA, Rogers MA. Treatment guidelines for acquired apraxia of speech: a synthesis and evaluation of the evidence. J Med Speech Lang Pathol . 2006;14(2):xv-xxxiii.  (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Wambaugh JL, Duffy JR, McNeil MR, Robin DA, Rogers MA. Treatment guidelines for acquired apraxia of speech: treatment descriptions and recommendations. J Med Speech Lang Pathol . 2006;14(2):xxxv-lxvii.  (SR)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Wambaugh JL. Stimulus generalization effects of sound production treatment for apraxia of speech. J Med Speech-Lang  Pathol. 2004;12(2):77-97.  (C)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Katz WF, Bharadwaj SV, Carstens B. Electromagnetic articulography treatment for an adult with Broca's aphasia and apraxia of speech. J Speech Lang Hear Res . 1999;42(6):1355-1366.  (C)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Ogar J, Slama H, Dronkers N, Amici S, Gorno-Tempini  ML. Apraxia of speech: an overview. Neurocase . 2005;11(6):427-432.  (G)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Chapey R, ed. Language Intervention Strategies in Aphasia and Related Neurogenic Communication Disorders . Philadelphia: Lippincott Williams & Wilkins; 2001. (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "American Heart Association. Stroke risk factors. American Stroke Association Web site. http://www.strokeassociation.org/STROKEORG/AboutStroke/UnderstandingRisk/Understanding-Risk_UCM_308539_SubHomePage.jsp . Published October 23, 2012. Accessed April 23, 2018. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Mayo Clinic Staff. Traumatic brain injury: risk factors. MayoClinic.com Web site. http://www.mayoclinic.org/diseases-conditions/traumatic-brain-injury/basics/risk-factors/con-20029302 . Published October 12, 2012. Accessed April 23, 2018. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Mayo Clinic staff. Brain tumor. MayoClinic.com Web site. https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084 . Published June 14,"
+        },
+        {
+            "number in article": 2012,
+            "reference": " Accessed April 23, 2018. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Brumfitt S. Psychosocial aspects of aphasia: speech and language therapists' views on professional practice. Disabil Rehabil . 2006;28(8):523-534.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "American Speech-Language  Hearing Association. Dementia: Practice Portal. http://www.asha.org/Practice-Portal/Clinical-Topics/Dementia/ . Accessed April 23, 2018. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Brumfitt SM, Sheeran P. The development and validation of the Visual Analogue Self-Esteem  Scale (VASES). Br J Clin Psychol . 1999;38(Pt 4):387-400.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Mu\u00f1oz ML, Marquardt TP, Copeland G. A comparison of the codeswitching patterns of aphasic and neurologically normal bilingual speakers of English and Spanish. Brain Lang. 1999;66(2):249-274.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Edmonds LA, Kiran S. Effect of semantic naming treatment on crosslinguistic generalization in bilingual aphasia. J Speech Hear Res . 2006;49(4):729-748.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Folstein MF, Folstein SE, McHugh PR, Fanjiang G. Mini-Mental  State Examination . Odessa, FL: Psychological Corporation; 2001. (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Wechsler D. Wechsler Adult Intelligence Scale . 3rd ed. San Antonio, TX: The Psychological Corporation; 1997. (PP)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Garrett KL, Lasker JP. The Multimodal Communication Screening Task for Persons with Aphasia - MCST-A. Hattie B. Munroe Barkley Memorial Augmentative & Alternative Communication Centers Web site. http://cehs.unl.edu/aac/aphasia-assessment-materials/ . Published 2005. Accessed April 23, 2018. (PP)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Haley KL, Martin G. Production variability and single word intelligibility in aphasia and apraxia of speech. J Commun Disord . 2011;44(1):103-115.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Mauszycki SC, Wambaugh JL, Cameron RM. Apraxia of speech: perceptual analysis of bisyllabic word productions across repeated sampling occasions. J Med Speech Lang Pathol. 2010;18(4):8p. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Bartle-Meyer  CJ, Murdoch BE, Goozee JV. An electropalatographic investigation of linguopalatal contact in participants with acquired apraxia of speech: A quantitative and qualitative analysis. Clin Linguistics Phonetics . 2009;23(9):688-716.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Marquardt TP, Schneider HG, Jacks A. Error prediction in acquired apraxia of speech. J Med Speech Lang Pathol . 2010;18(4):4p. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Patel R, Connaghan K, Franco D, et al. The Caterpillar: a novel reading passage for assessment of motor speech disorders. Am J Speech Lang Pathol . February 2013;22:1-9. doi:10.1044/1058-0360(2012/11-0134).  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Dabul BL. Apraxia Battery for Adults (ABA-2). 2nd ed. King of Prussia (PA): Merion Publications; 2000. (PP)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Goodglass H, Kaplan E, Barresi B. Boston Diagnostic Aphasia Examination-3 . Philadelphia, PA: Lippincott Williams & Wilkins; 2001. (PP)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Kay J, Lesser R, Coltheart M. Psycholinguistic Assessment of Language Processing in Aphasia . Hove, UK: Lawrence Erlbaum Associates, Ltd; 1992. (PP)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Kertesz A, Raven JC. Western Aphasia Battery-Revised . San Antonio, TX: Pearson; 2006. (PP)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Staiger A, Ruttenauer A, Ziegler W. The economy of fluent speaking: phrase-level  reduction in a patient with pure apraxia of speech. Lang Cognit Process . 2010;25(4):483-507. (C)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Jacks A, Mathes KA, Marquardt TP. Vowel acoustics in adults with apraxia of speech. J Speech Lang Hear Res . 2010;53(1):61-74.  (R) "
+        },
+        {
+            "number in article": 30,
+            "reference": "Hurkmans J, Jonkers R, Boonstra AM, Stewart RE, Reinders-Messelink  HA. Assessing the treatment effects in apraxia of speech: introduction and evaluation of the Modified Diadochokinesis Test. Int J Lang Commun Disord . 2012;47(4):427-436.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Helm-Estabrooks  N. Test of Oral and Limb Apraxia . Chicago, IL: Riverside; 1992. (PP)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Moore WM, Rosenbek JC, LaPointe LL. Assessment of oral apraxia in brain-injured  adults. University of Pittsburgh Web site. http://aphasiology.pitt.edu/7/1/06-05.pdf . Accessed April 23, 2018. (PP)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Dworkin JP, Culatta RA. Dworkin-Culatta  Oral Mechanism Examination . Nicholasville, KS: Edgewood Press; 1980. (PP)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Simmons-Mackie  N, Kagan A. Application of the ICF in aphasia. Semin Speech Lang . 2007;28(4):244-253.  (G)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Wambaugh JL. A summary of treatments for apraxia of speech and review of replicated approaches. Semin Speech Lang . 2002;23(4):293-308,  C1-C7. (RV)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Wambaugh JL, Nessler C, Cameron R, Mauszycki S. Acquired apraxia of speech: the effects of repeated practice and rate/rhythm control treatments on sound production accuracy. Am J Speech Lang Pathol . 2012;21(2):S5-S27.  (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Peach R. Melodic intonation therapy. In: Kent RD, ed. The MIT Encyclopedia of Communication Disorders . Cambridge, MA: The MIT Press; 2004:347-348.  (GI)"
+        },
+        {
+            "number in article": 38,
+            "reference": "McNeil MR, Robin DA, Schmidt RA. Apraxia of speech: definition, differentiation, and treatment. In: McNeil MR, ed. Clinical Management of Sensorimotor Speech Disorders . New York: Thieme Verlag; 1997:311-344.  (GI)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Wambaugh J. Sound production treatment for acquired apraxia of speech. Perspect Neurophysiol Neurogenic Speech Lang Disord . 2010;20(3):67-72.  (RV)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Freed DB, Marshall RC, Frazier KE. Long-term  effectiveness of PROMPT treatment in a severely apractic-aphasic  speaker. Aphasiology . 1997;11(4-5):365-372.  (C)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Bose A, Square PA, Schlosser R, van Lieshout P. Effects of PROMPT therapy on speech motor function in a person with aphasia and apraxia of speech. Aphasiology . 2001;15(8):767-785.  (C)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Lindamood PC, Lindamood PD. The Lindamood Phoneme Sequencing Program for Reading, Spelling, and Speech . 3rd ed. Austin, TX: Pro-Ed; 1998. (PP)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Kendall DL, Rodriguez AD, Rosenbek JC, Conway T, Gonzalez-Rothi  LJ. Influence of intensive phonomotor rehabilitation on apraxia of speech. J Rehabil Res Dev . 2006;43(3):409-418.  (C)"
+        },
+        {
+            "number in article": 44,
+            "reference": "van der Merwe A. A speech motor learning approach to treating apraxia of speech: rationale and effects of intervention with an adult with acquired apraxia of speech. Aphasiology . 2011;25(10):1174-1206.  (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Friedman IB, Hancock AB, Schulz G, Bamdad MJ. Using principles of motor learning to treat apraxia of speech after traumatic brain injury. J Med Speech Lang Pathol . 2010;18(1):13p. (C)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Youmans SR, Youmans GL, Hancock AB. The social validity of script training related to the treatment of apraxia of speech. Aphasiology . 2011;25(9):1078-1089.  (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Ziegler W, Aichert I, Staiger A. Syllable- and rhythm-based  approaches in the treatment of apraxia of speech. Perspect Neurophysiol Neurogenic Speech Lang Disord . 2010;20(3):59-66.  (RV)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Ballard KJ. Response generalization in apraxia of speech treatments: taking another look. J Commun Disord . 2001;34(1/2):3-20,  183-186. (RV)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Katz WF, McNeil MR. Studies of articulatory feedback treatment for apraxia of speech based on electromagnetic articulography. Perspect Neurophysiol Neurogenic Speech Lang Disord . 2010;20(3):73-79.  (RV)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Dworkin JP, Abkarian CG, Johns DF. Apraxia of speech: the effectiveness of a treatment regimen. J Speech Hear Disord . 1988;53(3):280-294.  (C)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Dworkin JP, Abkarian CG. Treatment of phonation in a patient with apraxia and dysarthria secondary to severe closed head injury. J Med Speech Lang Pathol . 1996;4(2):105-115.  (C)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Wambaugh JL, Martinez AL. Effects of rate and rhythm control treatment on consonant production accuracy in apraxia of speech. Aphasiology . 2000;14(8):851-871.  (C)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Peach R. Melodic intonation therapy. In: Kent RD, ed. The MIT Encyclopedia of Communication Disorders . Cambridge, MA: The MIT Press; 2004:347-348.  (GI)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Hundley C, Drew R. Is melodic intonation therapy effective in improving speech output in individuals with apraxia of speech and Broca's aphasia? Paper presented at: The American Speech-Language  Hearing Association Convention; November 2007; Boston, MA. (CP)"
+        },
+        {
+            "number in article": 55,
+            "reference": "Wambaugh JL. Understanding and management of acquired apraxia of speech: contribution of the Department of Veterans Affairs. Aphasiology . 2009;23(9):1127-1145.  (RV)"
+        },
+        {
+            "number in article": 56,
+            "reference": "Lasker JP, Stierwalt AG, Spence M, Calvin-Root  C. Using webcam interactive technology to implement treatment for severe apraxia: a case example. J Med Speech Lang Pathol. 2010;18(4):4p. (C)"
+        },
+        {
+            "number in article": 57,
+            "reference": "Choe Y, Azuma T, Mathy P. The use of computers and augmentative and alternative communication devices in independent naming practice: three single-case  studies. J Med Speech Lang Pathol . 2010;18(2):9p. (C)"
+        },
+        {
+            "number in article": 58,
+            "reference": "Wambaugh JL, Mauszycki SC. Application of the WHO ICF to management of acquired apraxia of speech. (World Health Organization's International Classification of Functioning, disability and health). J Med Speech Lang Pathol . 2010;18(4):6p. (RV)"
+        },
+        {
+            "number in article": 59,
+            "reference": "Vergis MK, Ballard KJ, Duffy JR, McNeil MR, Scholl D, Layfield C. An acoustic measure of lexical stress differentiates aphasia and aphasia plus apraxia of speech after stroke. Aphasiology . 2014;28(5):554-575.  doi:10.1080/02687038.2014.889275. (R)"
+        },
+        {
+            "number in article": 60,
+            "reference": "Farias D, Davis CH, Wilson SM. Treating apraxia of speech with an implicit protocol that activates speech motor areas via inner speech. Aphasiology . 2014;28(5):515-532.  (C)"
+        },
+        {
+            "number in article": 61,
+            "reference": "Preston JL, Leaman M. Ultrasound visual feedback for acquired apraxia of speech: A case report. Aphasiology . 2014;28(3):278-295.  doi:10.1080/02687038.2013.852901. (C)"
+        },
+        {
+            "number in article": 62,
+            "reference": "Maas E, Guti\u00e9rrez K, Ballard KJ. Phonological encoding in apraxia of speech and aphasia. Aphasiology . 2014;28(1):25-48.  doi:10.1080/02687038.2013.850651. (R)"
+        },
+        {
+            "number in article": 63,
+            "reference": "Aichert I, Ziegler W. Segments and syllables in the treatment of apraxia of speech: An investigation of learning and transfer effects. Aphasiology . 2013;27(10):1180-1199. doi:10.1080/02687038.2013.802285. (R)"
+        },
+        {
+            "number in article": 64,
+            "reference": "Apraxia of speech in adults. American Speech-Language-Hearing  Association Web site. http://www.asha.org/public/speech/disorders/ApraxiaAdults/ . Accessed April 23, 2018. (GI)"
+        },
+        {
+            "number in article": 65,
+            "reference": "Smits LL, Flapper M, Sistermans N, Pijnenburg YA, Scheltens P, van der Flier WM. Apraxia in mild cognitive impairment and Alzheimer's disease: validity and reliability of the Van Heugten test for apraxia. Dement Geriatr Cogn Disord . 2014;38(1-2):55-64.  doi:10.1159/000358168. (R)"
+        },
+        {
+            "number in article": 66,
+            "reference": "Vergis MK, Ballard KJ, Duffy JR, McNeil MR, Scholl D, Layfield C. An acoustic measure of lexical stress differentiates aphasia and aphasia plus apraxia of speech after stroke. Aphasiology . 2014;28(5):554-575.  doi:10.1080/02687038.2014.889275. (R)"
+        },
+        {
+            "number in article": 67,
+            "reference": "Ballard KJ, Wambaugh JL, Duffy JR, et al. Treatment for Acquired Apraxia of Speech: A Systematic Review of Intervention Research Between 2004 and 2012. Am J Speech Lang Pathol . May 1, 2015;24(2):316-337.  doi:10.1044/2015_AJSLP-14-0118.  (SR)"
+        },
+        {
+            "number in article": 68,
+            "reference": "Strand EA, Duffy JR, Clark HM, Josephs K. The apraxia of speech rating scale: a tool for diagnosis and description of apraxia of speech. J Commun Disord . September 2014;51:43-50.  doi:10.1016/j.jcomdis.2014.06.008. (R)"
+        },
+        {
+            "number in article": 69,
+            "reference": "Jacks A, Haley KL. Auditory Masking Effects on Speech Fluency in Apraxia of Speech and Aphasia: Comparison to Altered Auditory Feedback. J Speech Lang Hear Res . December 2015;58(6):1670-86.  doi:10.1044/2015_JSLHR-S-14-0277.  (R)"
+        },
+        {
+            "number in article": 70,
+            "reference": "Bailey DJ, Eatchel K, Wambaugh J. Sound Production Treatment: Synthesis and Quantification of Outcomes. Am J Speech Lang Pathol . November 2015;24(4):S798-814. doi:10.1044/2015_AJSLP-14-0127.  (M)"
+        },
+        {
+            "number in article": 71,
+            "reference": "Bislick LP, Weir PC, Spencer K, Kendall D, Yorkston KM. Do principles of motor learning enhance retention and transfer of speech skills? A systematic review. Aphasiology . 2012;(26):709\u2013728.  doi:10.1080/02687038.2012.676888. (R)"
+        },
+        {
+            "number in article": 72,
+            "reference": "Buchwald A, Gagnon B, Miozzo M. Identification and Remediation of Phonological and Motor Errors in Acquired Sound Production Impairment. J Speech Lang Hear Res . June 22, 2017;60(6S):1726-1738.  doi:10.1044/2017_JSLHR-S-16-0240.  (R)"
+        },
+        {
+            "number in article": 73,
+            "reference": "New AB, Robin DA, Parkinson AL. Altered resting-state  network connectivity in stroke patients with and without apraxia of speech. Neuroimage Clin . March 25, 2015;8:429-39. (R)"
+        },
+        {
+            "number in article": 74,
+            "reference": "Basilakos A. Contemporary approaches to the management of post-stroke  Apraxia of Speech. Seminars In Speech & Language . 2018;39(1):25-36. doi:10.1055/s-0037-1608853.  (RV)"
+        },
+        {
+            "number in article": 75,
+            "reference": "Wambaugh JL, Nessler C, Wright S, et al. Effects of Blocked and Random Practice Schedule on Outcomes of Sound Production Treatment for Acquired Apraxia of Speech: Results of a Group Investigation. J Speech Lang Hear Res . June 22, 2017;60(6S):1739-1751.  doi:10.1044/2017_JSLHR-S-16-0249.  (R)"
+        }
+    ]
+}

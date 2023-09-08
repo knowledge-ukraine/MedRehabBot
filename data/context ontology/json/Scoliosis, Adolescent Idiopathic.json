@@ -1,0 +1,389 @@
+{
+    "metadata": {
+        "title": "Adolescent Idiopathic Scoliosis",
+        "synonyms": [
+            "scoliosis, adolescent idiopathic",
+            "idiopathic scoliosis, adolescent",
+            "fixed or nonflexible \u2013defined: an irreversible lateral curvature of the spine with fixed rotation of the vertebrae. typically",
+            "the vertebral bodies rotate toward the convex side of the curve. in the thoracic spine",
+            "this results in a rib prominence (hump) posteriorly on the convex side of the curve and anteriorly on the concave side of the curve(1)",
+            "nonstructural scoliosis \u2013synonyms: functional",
+            "postural",
+            "flexible",
+            "or correctable \u2013defined: a reversible lateral curvature of the spine. this type of deviation can be reversed with forward or side bending or with a positional change",
+            "such as lying supine(1)",
+            "classification of idiopathic scoliosis \u2013infantile idiopathic scoliosis\u2014presents by the age of 3 years (29) \u2013juvenile idiopathic scoliosis\u2014presents between the ages of 3 years and 10 years (29) \u2013adolescent idiopathic scoliosis (ais)\u2014presents between the ages of 10 years and 18 years (30)",
+            "staging of scoliosis using the classification for early-  onset scoliosis (c-eos)  system: (29) \u2013etiology -congenital/structural (c) -neuromuscular (m) -syndromic (s) -idiopathic (i) \u2013coronal cobb angle -less than 20\u00b0 (1) -20 to 50\u00b0 (2) -51 to 90\u00b0 (3) -greater than 90\u00b0 (4) \u2013maximum kyphosis -less than 20\u00b0(-) -20 to 50\u00b0 (n) -greater than 50\u00b0 (+) \u2013progression modifier -less than 10\u00b0 per year -10 to 20\u00b0 per year -greater than 20\u00b0 per year \u2013example of using the c-eos  system -a 10-year-old  patient with a neuromuscular scoliosis with a 25\u00b0 coronal curve having a 51\u00b0kyphosis with 12\u00b0 progression would be labeled as 10m2+p1"
+        ],
+        "anatomical location body part affected": [
+            "Spine, chest wall"
+        ],
+        "area of specialty": [
+            "aquatic therapy",
+            "pulmonary rehabilitation",
+            "orthopedic rehabilitation",
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "A fixed (structural) lateral curvature of the spine > 10\u00b0 in the coronal plane with onset near puberty and no known cause(2)",
+            "Structural scoliosis \u2013Synonyms: Fixed or nonflexible \u2013Defined: An irreversible lateral curvature of the spine with fixed rotation of the vertebrae. Typically, the vertebral bodies rotate toward the convex side of the curve. In the thoracic spine, this results in a rib prominence (hump) posteriorly on the convex side of the curve and anteriorly on the concave side of the curve(1)",
+            "Nonstructural scoliosis \u2013Synonyms: Functional, postural, flexible, or correctable \u2013Defined: A reversible lateral curvature of the spine. This type of deviation can be reversed with forward or side bending or with a positional change, such as lying supine(1)",
+            "Classification of idiopathic scoliosis \u2013Infantile idiopathic scoliosis\u2014presents by the age of 3 years (29) \u2013Juvenile idiopathic scoliosis\u2014presents between the ages of 3 years and 10 years (29) \u2013Adolescent idiopathic scoliosis (AIS)\u2014presents between the ages of 10 years and 18 years (30)",
+            "Staging of scoliosis using the Classification for Early-  Onset Scoliosis (C-EOS)  system: (29) \u2013Etiology -Congenital/structural (C) -Neuromuscular (M) -Syndromic (S) -Idiopathic (I) \u2013Coronal Cobb Angle -Less than 20\u00b0 (1) -20 to 50\u00b0 (2) -51 to 90\u00b0 (3) -Greater than 90\u00b0 (4) \u2013Maximum Kyphosis -Less than 20\u00b0(-) -20 to 50\u00b0 (N) -Greater than 50\u00b0 (+) \u2013Progression Modifier -Less than 10\u00b0 per year  -10 to 20\u00b0 per year -Greater than 20\u00b0 per year \u2013Example of using the C-EOS  system -A 10-year-old  patient with a neuromuscular scoliosis with a 25\u00b0 coronal curve having a 51\u00b0kyphosis with 12\u00b0 progression would be labeled as 10M2+P1"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M41": {
+                "base": "scoliosis",
+                "M41.0": "infantile idiopathic scoliosis",
+                "M41.1": "juvenile idiopathic scoliosis",
+                "M41.2": "other idiopathic scoliosis",
+                "M41.3": "thoracogenic scoliosis",
+                "M41.4": "neuromuscular scoliosis",
+                "M41.5": "other secondary scoliosis",
+                "M41.8": "other forms of scoliosis",
+                "M41.9": "scoliosis, unspecified",
+                "Optional": "fourth digit site codes",
+                "0": " 0 multiple sites in spine",
+                "1": " 1 occipito-atlanto-axial  region",
+                "2": " 2 cervical region",
+                "3": " 3 cervicothoracic region",
+                "4": " 4 thoracic region",
+                "5": " 5 thoracolumbar region",
+                "6": " 6 lumbar region",
+                "7": " 7 lumbosacral region",
+                "8": " 8 sacral and sacrococcygeal region",
+                "9": " 9 site unspecified",
+                "M96.5": "postradiation scoliosis",
+                "Q67.5": "congenital deformity of spine",
+                "Q76.3": "congenital scoliosis due to congenital bony malformation",
+                "I127.1": "kyphoscoliotic heart disease"
+            }
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified",
+            "Presentation/signs and symptoms  (the patient may present with some or all of the following signs and symptoms) \u2013Lateral curvature of the spine and rotation of the vertebrae(2) \u2013Asymmetrical pelvis/shoulders \u2013Asymmetrical waistline \u2013Rib hump/prominence \u2013Prominent scapula \u2013Asymmetrical spinal muscular extensibility/pliability \u2013Muscle spasms \u2013Tenderness to palpation of spinal soft tissue \u2013Spinal joint hypermobility/hypomobility \u2013Leg-length  discrepancy \u2013Pain, if present, typically is mild(30) \u2013Negative body image(2) \u2013Fatigue after prolonged standing, walking, or activity \u2013Antalgic gait \u2013Asymmetry in transverse abdominal muscle thickness as determined by ultrasound imaging (17,22)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [],
+        "contraindications precautions to test": [
+            "If the child/adolescent complains of pain, more serious pathology than scoliosis may be suspected. Refer back to physician as indicated",
+            "The evaluation below can serve as a screening tool/guide to identify a potential case of scoliosis as well as an evaluation tool for assessing children with AIS referred to physical therapy for pain management, strengthening, or stretching"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Ninety percent of scoliosis cases are considered idiopathic(3)",
+            "However, there is some evidence(multiple family members presenting with the condition) of a genetic component (30)",
+            "Other causes may be hormonal causes, asymmetric growth and/or muscle imbalance(30)"
+        ],
+        "pathogenesis": [
+            "AIS can lead to a stiff chest wall and a reduction in lung volume. Other complications can include corpulmonale, rightventricular dysfunction, and pulmonary hypertension(2)"
+        ],
+        "risk factors": [
+            "Incidence of scoliosis is the same in males and females; however, females are at higher risk of curve progression thanmales (10:1)(3)",
+            "Genetic factors have been suggested as a contributing risk factor in developing AIS. Authors of a 2014 study suggest thatgenetic variations of the CALM1  gene are associated with AIS susceptibility(18)",
+            "Results of a study conducted in Australia showed that adolescent ballet dancers were 12.4 times more likely to havescoliosis than age-matched  controls(9)\u2013Thirty dancers and 30 nondancers participated\u2013There was a higher rate of hypermobility in the dancer group than the nondancers (70%:3%); however, there was nostatistically significant relationship between hypermobility and scoliosis\u2013There was no significant relationship between scoliosis and age of menarche, BMI, or hours of dance per week\u2013The researchers concluded that adolescent dancers are at significantly higher risk of developing scoliosis than nondancersof the same age"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The U.K. National Screening Committee updated its guidelines based on a systematic review of the literature through 2015 and concluded that no change was warranted to its policy that screening for AIS is not recommended(4) There is evidence to suggest that screening programs identify a higher proportion of individuals with more minor curves than would typically present outside screening. There is not a high level of evidence to suggest that treatment of a minor curvature will prevent progression(4) Referral after positive screening will lead to radiography, meaning that a proportion of individuals will have X-rays  they would not normally have had, on the basis of a test with poor predictive value(4) A lack of consensus on when treatment is indicated means there is also a risk that persons with AIS could receive unnecessary and ineffective treatments on the basis of the screening test(4)",
+        "In contrast, in its revised guidelines in 2016, the International Scientific Society on Scoliosis Orthopaedic and Rehabilitation Treatment (SOSORT) recommends that school screening programs for the early diagnosis of idiopathic scoliosis be implemented(5)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "If the child/adolescent complains of pain, more serious pathology than scoliosis may be suspected. Refer back to physician as indicated",
+            "The evaluation below can serve as a screening tool/guide to identify a potential case of scoliosis as well as an evaluation tool for assessing children with AIS referred to physical therapy for pain management, strengthening, or stretching"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Has the curvature progressed over time? How much? -Is surgical intervention or bracing an option at this time? ",
+                "course of treatment": {
+                    "medical management": " Medical management Bracing As a form of treatment, bracing continues to be a controversial topic. Some clinics utilize a thoraco-lumbo-sacral orthosis (TLSO) or a cervicothoraco-lumbo-sacral  orthosis (CTLSO) in the treatment of AIS, while others continue to monitor the curve Types of braces The Milwaukee Brace (CTLSO) is utilized to treat high thoracic curves (apex above T9). TLSOs are utilized to treat curves with an apex \u2264 T9. LSOs are utilized to treat lumbar curves(6) The Osaka Medical College (OMC) Brace is a popular TLSO brace used in Japan that was developed in the 1970s. In a 2015 study, researchers found the OMC brace to be effective at changing curve progression if high compliance is maintained(15)The goal of bracing is to prevent curve progressionBrace wearing can be terminated when the child has reached skeletal maturity(1) Researchers in a 2014 study found that high compliance with wearing a brace can alter curve progression and decrease chance of surgery, while overnightonly  bracing and poor compliance are associated with a high rate of curve progression(13) A newer technique of ultrasound-assisted  brace casting has been found to be a radiation-free  way to check pressure level, location, and brace corrections(14) Surgery Surgery can help increase lung volume and overall long-term  prognosis in patients who have decreased preoperative lung volumes(19) Authors of a retrospective study in 2018 found that a surgical procedure of using a surgical procedure of anterior release, instrumentation, and fusion using an autogenous rib graftshow good outcomes for healthrelated  quality of life (HRQoL), pain scores, and functional activities (23)",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed, if any; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "An inclinometer (or scoliometer) assessment may be completed and results used to determine if an X-ray  is indicated(2)",
+                        "X-ray\u2014Assesses  the Cobb angle",
+                        "MRI or a bone scan may be used to rule out other conditions.(3) MRI is usually not indicated unless there is pain, a neurologic deficit, or a left thoracic curve associated with an underlying spinal disorder(3)",
+                        "Pulmonary function tests"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational, chiropractic, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful. Ask if shoe inserts for real or apparent leglength discrepancy have been used"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Any radicular pain?",
+                "rating of symptoms": " Rating of symptoms -Scoliosis often becomes painful in adulthood -Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Ask patient about sleep disturbance due to pain. This is not a typical sign or symptom of AIS and may indicate a more insidious condition such as a tumor ",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Does the patient complain of shortness of breath? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Inquire about family history of scoliosis",
+                    "comorbid diagnoses": "Ask patient about other conditions, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, and orthopedic disorders. Congenital spine deformity (e.g., hemivertebra), neuromuscular disease (e.g., cerebral palsy, spinal cord injury, or progressive neurological or muscular diseases), osteopathic disorders (e.g., osteomalacia, rickets, or fracture),(1) and local inflammation or infection(3) may cause nonidiopathic scoliosis. Severe scoliosis may result in corpulmonale, right ventricular dysfunction, or pulmonary hypertension",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he/she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -School grade level (onsite or home school) -Amount and type of physical activity/participation in sports each week -If the patient works, describe job duties",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient or caregiver report any difficulties with ADLs? Has a brace been prescribed and/or ordered? If so, is it in use? How many hours per day does the patient wear the brace? Does the patient/caregiver have any difficulties with donning and doffing the brace? Is the brace wear schedule functional in the school setting for this child? Does the patient drive?",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Note patient\u2019s height, weight, and BMI; document the height of the child\u2019s mother and father, if able \u2013Assess for a leg-length  discrepancy(2)",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013Assess fit of brace if applicable",
+            "balance": " Balance \u2013Assess single-leg  stance with eyes open and closed. Note asymmetry \u2013Romberg or Sharpened Romberg test may be used \u2013Pediatric Balance Scale (PBS) or Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)  balance subscale may also be used for balance assessment",
+            "cardiorespiratory function and endurance": [
+                "Assess independence and safety with basic mobility such as floor to stand transfers, stair negotiation, sit-to-stand, and car transfers"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Assess gait and note any asymmetry, including asymmetrical arm swing and trunk rotationAssess joint mobility and note any areas of hypomobility or hypermobilityComplete a fine and gross motor coordination assessment as indicated(2) \u2013The BOT-2  can be used in children and youth aged 4\u201321  years for gross and fine motor skill assessment",
+            "muscle strength": " Muscle strength \u2013Assess bilateral upper and lower extremity and trunk strength per manual muscle testing (MMT) as age-appropriate(2)",
+            "observation inspection palpation including skin assessment": [
+                "The paravertebral muscles will have increased tone and stiffness along the concave side of the body (24)"
+            ],
+            "posture": "Assess posture in both sitting and standing positions. Maintaining certain positions for long periods of time may influence the progression of the scoliosis \u2013Posterior posture assessment -Palpate each spinous process. Note convexity of scoliosis and location in spine. Examine and document asymmetry in shoulder height, scapulae, rib cage, iliac crest, and other pelvic prominences \u2013Lateral posture assessment -Evaluate spinal curves. Individuals with scoliosis may present with excessive thoracic kyphosis and lumbar lordosis -Note presence of forward head posture -Craniovertebral angle may be measured to assess forward head posture -The angle between a line drawn from the tragus of the ear to the seventh cervical vertebra and a horizontal line -A lateral photograph may be used to perform the measurement \u2013Asymmetry of rib cage -Convex side of curve\u2014increased space between ribs -Concave side of curve\u2014narrowed space between ribs",
+            "range of motion": " Range of motion \u2013Gross assessment of upper and lower extremities and lumbar ROM. Assess for increased hip adduction; decreased flexibility may be present on the ipsilateral side and abductors may be overstretched(1) \u2013See Special tests specific to diagnosis , below, for spinal screeningEvaluate deep tendon reflexes bilaterally in an effort to rule out neurological involvementAssess ability and safety to perform ADLs",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": " Sensory testing \u2013Nerve root irritation may be present on the concave side(1) \u2013Assess bilateral dermatomes and note any asymmetry/abnormality \u2013Complete a sensory assessment (e.g., light touch, pin prick, two-point  discrimination)(2)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Posterior Trunk Symmetry Index (POTSI)(10) -Assesses body asymmetry in scoliosis patients using several indices for trunk deformity \u2013Cobb angle(10) \u2013Walter Reed Assessment Scale(10) -Body curve -Rib prominence -Flank prominence -Relative position of the head to the rib cage and pelvis  -Relative position of head to pelvis -Shoulder level -Scapular rotation \u2013Adam\u2019s Forward-Bending  Test -Have the patient lean forward at the waist, with his or her back exposed and arms at side. Observe the contours of the rib cage from the front or back for asymmetry",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment Treatment intervention varies depending on severity at diagnosis, rate of progression during puberty, and patient\u2019s perception. Concerns include: \u2013cardiopulmonary dysfunction: A severe curve (> 60\u00b0) can result in a progressive reduction in lung function Rule out  (structural vs. nonstructural scoliosis) Leg-length  discrepancy (true or functional) Acute pain rarely is noted; likely other causes if present Local inflammation or infection Habitual or asymmetrical postures(1) Marfan syndrome scoliosis(12)",
+        "rule out": "",
+        "prognosis": [
+            "Curve magnitude \u2013The greater the curve at diagnosis, the greater the risk of progression",
+            "Age/skeletal maturity \u2013The closer a child is to skeletal maturity, the less the risk of scoliotic advancement(2) -Ossification of the iliac apophysis is evaluated and assigned a Risser stage (0 to 5) -Stage 0 equates to no ossification and stage 5 equates to full fusion",
+            "Type of curve \u2013Thoracic and double major curves have 3 times the rate of progression as nonthoracic curves(4)",
+            "Recent advancements in genetic assessment have made it possible to evaluate the risk of idiopathic scoliosis progression(5) \u2013Fifty-three  loci have been identified \u2013Polymorphism of selected genes is thought to enable categorization of a patient into a progressive or a stable group"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Refer patient to an orthopedist, preferably a pediatric orthopedist, for an initial evaluation if the patient has not already been seen Orthotist for brace management. This should be discussed with the referring physician \u2013Bracing remains controversial. The authors of some reports advocate for early bracing to prevent surgery, while other authors report that bracing is not an effective means to prevent surgery \u2013There is also controversy over which type of brace is most effective",
+        "other considerations": [],
+        "treatment summary": [
+            "Specific recommendations include that exercises always be individualized even if performed in groups and that specific exercises be provided to autocorrect the posture in three dimensions, stabilize the corrected posture, and train in ADLs(5)",
+            "Exercises should focus on the transversus abdominal (TA) muscle in order to normalize the structural changes of the spine. The TA plays an important role in trunk stability (22) ",
+            "Nonstructural scoliosis: Treatment consists mainly of correcting conditions that cause compensatory postural changes (e.g, muscle spasm, leg-length  discrepancy)",
+            "Structural scoliosis \u2013Bracing -Spinal bracing is generally not utilized in this patient population as it is found to be ineffective and poorly tolerated (29) -Bracing is controversial. The authors of some reports advocate for early bracing to prevent surgery, while other authors report that bracing is not an effective means to prevent surgery. In addition, there is controversy over which type of brace is most effective -A study conducted in Hong Kong showed that bracing affected quality of life negatively(7) -Providing psychosocial support to patients and their families was found to be important to enhance their quality of life as well as their compliance -Good compliance with a conservative treatment program that included bracing and specific exercises was reported to result in significant improvement in curvatures in a study conducted in South Africa(8) -Poor compliance resulted in progression of curvatures and was associated with poor quality of life -Factors affecting compliance need to be identified and may relate to psychosocial coping mechanisms \u2013Therapeutic exercise -Researchers conducting an RCT (N = 47) in Turkey found three-dimensional  Schroth exercises performed in clinic to be superior to a home exercise program at decreasing both Cobb and rotation angles in patients with AIS(20) -Schroth method uses exercises to strengthen and/or lengthen asymmetrical muscles. Exercises consist of posture correction and corrective breathing patterns -Subjects were divided into three groups: Schroth exercise group, home exercise group, and a control group -Subjects in the Schroth exercise group performed exercises 1.5 hours a day 3 times a week. Exercises included spinal elongation, de-rotation,  de-flexion,  stretching, strengthening, and rotational breathing exercises. After 6 weeks the exercises were performed at home -Subjects in the home exercise group received instruction from a physical therapist and were asked to do their exercises at home -The control group received no formal instruction -In a 2014 European study, researchers found that active self-correction,  task-oriented  exercises, and patient education performed until skeletal maturity is reached decreased incidence of spinal deformity and improved quality of life in patients with AIS(16) -Scientific Exercises Approach to Scoliosis (SEAS) consists of exercises that are adapted to each individual patient based on impairments present. These exercises include spinal stabilization, strengthening of anti-gravity  muscles, and balance and coordination activities while maintaining active self-correction  (ASC) (31) -ASC is the basis of SEAS. It may be possible to actively reduce the curve by teaching the patient specific exercises -It is thought that ASC activates a motor neuron reflex corrective response. The patient is taught to autocorrect postures without any external aid",
+            "Combined aerobic and resistance training exercise has been shown to improve functional exercise capacity and respiratory outcome measures for patients with AIS (25) \u2013Based on an RCT study of 40 adolescents with idiopathic scoliosis who were randomized to either the aerobic and resistance training group (n = 20) or aerobic exercise only group (n = 20) \u2013Both groups performed their respective activities for 60-minute  training sessions once a week for 12 weeks \u2013Results at the end of 12 weeks show that the group that received both aerobic and resistance training had a significant improvement on the 6MWT and a lower rating of perceived exertion compared to the aerobic-only  group",
+            "Participating in a scoliosis-specific  exercise program can help reduce the curve pression in participants with mild AIS (26) \u2013Based on an RCT of 49 participants with mild AIS who were placed in an exercise group (n = 26) or control group (n = 23) \u2013The exercise group performed a 15-minute  home exercise program, 3 days a week,of Schroth-based  exercises in a variety of positions (supine, sitting, side-lying,  prone, and standing) -The Schroth program is a nonsurgical program that uses customed exercises to help restore the curvature of the spine to its natural position (27) -The exercises focus on de-rotations, elongation, and stabilizing in a three-dimensional plane  \u2013After 1-year  follow-up,  the researchers found that the exercise group had smaller curve angles compared to the control group as well as less curve progression",
+            "Bracing has been shown to be superior to exercise for corrections of spinal curvature and improvement of body symmetry (28) \u2013Participants were randomly assigned to either the bracing group (n = 30) or exercise group (n = 30) \u2013Those in the bracing group received a rigid TLSO and were asked to wear the brace for 23 hours a day \u2013Those in the exercise group followed SEASprotocol and were asked to perform the exercises once a week for 40 minutes along with a routine home exercise program for 10\u201315  minutes daily \u2013Results show that those in the bracing group had better results with respect to correction of spinal curvature; however, those in the exercise group had better scores on quality of lifeassessments . Problem Goal Intervention Expected Progression Home Program Progression of spinal curveSlow progression of spinal curveTherapeutic exercises _ SEAS treatment may reduce need for bracing or delay start of bracing _ _ Postural rehabilitation; education regarding awareness of body posture and deficits. Verbal and tactile cues can be used by the therapist _ _ Manual therapy _ There is insufficient evidence regarding the efficacy of manual therapy (manipulative(21) and other passive techniques including massage) in the treatment of AIS _ _ Equipment prescription _ True leg-length discrepancy may be addressed with shoe lifts as indicated _Therapeutic exercises _ ASC (see above) _ _Patient should be instructed to perform ASC during standing exercises; use of a mirror may be helpful  Decreased cardiopulmonary function may disturb functional activitiesIncrease functional ability and cardiopulmonary functionTherapeutic exercises _ Breathing exercises _ Address specific functional limitationsTherapeutic exercises _ Cardiovascular endurance activitiesEncourage participation in recreational activities Decreased spinal stabilityImprove spinal stability Therapeutic exercises _ Spinal stabilization exercisesTherapeutic exercises _ Maintain correct posture during ADLs and other everyday activitiesTeach patient ergonomics to prevent further injuries to the spine Poor body image _ _ Negative perception of using braceImprove body image and acceptance of bracing (if bracing is ordered by physician)Patient education _ Carefully listen to patient and family concerns and help to solve problems (31) _ _ Educate patient on AIS and the potential benefits of bracingN/A Encourage patient to continue sport/aerobic exercise during brace treatment to assist in maintaining positive body image Decreased strength Improve strength and spinal stabilityTherapeutic exercises _ Strengthening exercises of the paravertebral, abdominal, scapulohumeral, and lower extremitiesTherapeutic exercises _ Strengthening exercises while maintaining the correct postureContinue prescribed exercises at home Decreased balance and postural controlDevelopment of balance reactionsTherapeutic exercises _ SEAS \u2013 encourage development of balance reactions (31) _ _ _ Balance activities _ Standing balance activities while maintaining correct postureTherapeutic exercises _ Progress to exercises on unstable surfacesContinue prescribed exercises at home  Decreased patient knowledge regarding scoliosisPatient and family will be aware of potential negative long-term effects of scoliosis (i.e., pain, arthritic changes), and importance of following up with a specialistPatient education _ Educate the patient and family regarding scoliosis, potential negative effects, appropriate physical activities, and importance of following up with a specialistN/A Provide patient and family with appropriate literature regarding scoliosis ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "stopped or slowed progression of spinal curve": [
+            "Cobb angle"
+        ],
+        "avoided or postponed use of brace": [],
+        "increased functional ability and cardiopulmonary function": [
+            "Cardiopulmonary assessment"
+        ],
+        "improved body image and quality of life": [
+            "HRQoL: It is important to measure how the patient perceives the impact of scoliosis on his or her quality of life, especiallyafter conservative treatment",
+            "PedsQL",
+            "Scoliosis Research Society-22  health-related  quality of life questionnaire (SRS-22  HRQL)",
+            "SF-36",
+            "Body Esteem Scale for Adolescents and Adults (BESAA)(11)",
+            "Body Image Disturbance Questionnaire (BIDQ-S)(11)"
+        ],
+        "improved strength and spinal stability": [
+            "MMT",
+            "Prone instability testing",
+            "Spring testing"
+        ],
+        "improved balance reactions": [
+            "Balance assessment: BOT-2  balance subscale, PBS"
+        ],
+        "restored normal posture": [
+            "Postural assessment/reassessment"
+        ],
+        "normalize gait": [
+            "Gait assessment, 6MWT"
+        ],
+        "decrease pain": [
+            "V AS",
+            "NPRS"
+        ],
+        "patient and family are aware of potential negative long-term  effects of scoliosis  e.g., pain, arthritic changes  and the importance of following up with a specialist": []
+    },
+    "maintenance or prevention": [
+        "It has been the prevailing thought that early detection and treatment intervention results in better outcomes for the patient with scoliosis. However, this statement cannot be fully supported or rejected based on the literature",
+        "It is not recommended that specific sports be prescribed as a treatment for idiopathic scoliosis(5) Benefits for the cardiovascular system and musculoskeletal system, weight control, stress management, balance, risk of osteoporosis, and psychosocial well-being  may be derived from exercise participation(5) It is recommended that during brace treatment sports activities are continued, but that contact or highly dynamic sports activities be performed with caution(5) "
+    ],
+    "patient education": [
+        "See Mayo Clinic website, Scoliosis, https://www.mayoclinic.org/diseases-conditions/scoliosis/symptoms-causes/syc-20350716",
+        "See OrthoInfo by American Academy of Orthopaedic Surgeons, Idiopathic Scoliosis in Children and Adolescents, https://orthoinfo.aaos.org/en/diseases--conditions/idiopathic-scoliosis-in-children-and-adolescents",
+        "See U.S. National Library of Medicine and National Institutes of Health website, MedlinePlus, Scoliosis, https:// medlineplus.gov/ency/article/001241.htm Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Kisner C, Thorp JN. The spine and posture: structure, function, and posture. In: Therapeutic Exercise: Foundation and Techniques . 7th ed. Philadelphia, PA: FA Davis; 2018:417-442.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Bazner-Chandler  J, Claytor CM. Musculoskeletal Disorders. In: Burns CE, Dunn AM, Brady MA, Starr NB, Blosser CG, eds. Pediatric primary care . 6th ed. St. Louis, MO: Saunders Elsevier; 2017:1042-1059.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Scoliosis. In: Ferri FF, ed. Ferri's Clinical Advisor 2021: 5 Books in 1 . Philadelphia, PA: Elsevier Mosby; 2021:1242-1243.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Screening for adolescent idiopathic scoliosis. External review against programme appraisal criteria for the UK National Screening Committee (UK NSC). Version 3, June 2015."
+        },
+        {
+            "number in article": 2015,
+            "reference": " (SR)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Negrini S, Aulisa AG, Aulisa L, et al. 2016 SOSORT guidelines: orthopaedic and rehabilitation treatment of idiopathic scoliosis during growth. Scoliosis. 2018;13(3):3. doi:10.1186/s13013-017-0145-8.  (G)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Moore DP, Tilley E, Sugg P. Spinal orthoses. In: Cifu DX, ed. Braddom\u2019s Physical Medicine and Rehabilitation . 5th ed. Philadelphia, PA: Saunders Elsevier; 2016:275-285.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Chan SL, Cheung KM, Luk KDK, Wong KWH, Wong MS. A correlation study between in-brace correction, compliance to spinal orthosis and health-related  quality of life of patients with adolescent idiopathic scoliosis. Scoliosis (17487161) . 2014;9(1):1-22.  doi:10.1186/1748-7161-9-1.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Rivett L, Stewart A, Potterton J. The effect of compliance to a Rigo System Cheneau brace and a specific exercise programme on idiopathic scoliosis curvature: a comparative study: SOSORT 2014 award winner. Scoliosis (17487161) . 2014;9(1):1-27.  doi:10.1186/1748-7161-9-5.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Longworth B, Fary R, Hopper D. Prevalence and predictors of adolescent idiopathic scoliosis in adolescent ballet dancers. Arch Phys Med Rehabil . 2014;95(9):1725-1730. doi:10.1016/j.apmr.2014.01.027. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Zheng X, Tang YJ, Ong SK, Nee AY. A novel evaluation index for adolescent idiopathic scoliosis progression measurement and diagnosis. Technol Health Care . 2014;22(2):225-241.  doi:10.3233/THC-140779.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Auerbach JD, Lonner BS, Crerand CE, et al. Body image in patients with adolescent idiopathic scoliosis: Validation of the Body Image Disturbance Questionnaire--Scoliosis Version. J Bone Joint Surg . 2014;96(8):e61. doi:10.2106/JBJS.L.00867. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Liang W, Yu B, Wang Y, et al. Comparison of posterior correction results between Marfan syndrome scoliosis and adolescent idiopathic scoliosis \u2013 a retrospective case-series study. J Orthop Surg Res . 2015;10:73. doi:10.1186/s13018-015-0210-z.  (C)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Aulisa AG, Girodano M, Falciglia F, Marzetti E, Poscia A, Guzzanti V. Correlation between compliance and brace treatment in juvenile and adolescent idiopathic scoliosis: SOSORT 2014 award winner. Scoliosis. 2014;9:6. doi:10.1186/1748-7161-9-6.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Lou EH, Chan AC, Donauer A, Tilburn M, Hill DL. Ultrasound-assisted  brace casting for adolescent idiopathic scoliosis, IRSSD best research paper 2014. Scoliosis. 2015;10:13. doi:10.1186/s13013-015-0037-8.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Kuroki H, Inomata N, Hamanaka H, Higa K, Chosa E, Tajima N. Predictive factors of Osaka Medical College (OMC) brace treatment in patients with adolescent idiopathic scoliosis. Scoliosis. 2015;10:11. doi:10.1186/s13013-015-0038-7.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Monticone M, Ambrosini E, Cazzaniga D, Rocca B, Ferrante S. Active self-correction  and task-oriented  exercises reduce spinal deformity and improve quality of life in subjects with mild adolescent idiopathic scoliosis. Results of a randomised controlled trial. Eur Spine J . 2014;23(6):1204-1214.  doi:10.1007/s00586-014-3241-y.  (RCT)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Linek P, Saulicz E, Wolny T, Mysliwiec A, Gogola A. Ultrasound evaluation of the symmetry of abdominal muscles in mild adolescent idiopathic scoliosis. J Phys Ther Sci . 2015;27(2):465-468.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Zhang Y, Gu Z, Qiu G. The association study of calmodulin 1 gene polymorphisms with susceptibility to adolescent idiopathic scoliosis. Biomed Res Int . 2014;2014:168106. doi:10.1155/2014/168106. (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Lee DK, Chun EM, Suh SW, Yang JH, Shim SS. Evaluation of postoperative change in lung volume in adolescent idiopathic scoliosis: Measured by computed tomography. Indian J Orthop . 2014;48(4):360-365.  doi:10.4103/0019-5413.136223.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Kuru T, Yeldan I, Dereli EE, Ozdincler AR, Dikici F, Colak I. The efficacy of three-dimensional  Schroth exercises In adolescent idiopathic scoliosis: A randomized controlled clinical trial. Clin Rehabil . 2016;30(2):181-190.  (RCT)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Theroux J, Stomski N, Losco C, et al. Spinal manipulative therapy for adolescent idiopathic scoliosis: A systematic review. J Manipulative Physiol Ther . 2017;40(6):452-458. doi:10.1016/j.jmpt.2017.03.009. (SR)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Kim DK, Kim CY, Lee BK, Seo D. A comparison of ultrasonography measurement on the abdominal muscle thickness between adolescent idiopathic scoliosis and healthy subjects. J Back Musculoskeletal Rehabil . 2018;31(1):65-74.  doi:10.3233/BMR-169667.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Zacharia B, Subramanivam D, Padinharepeediyekkal S. A retrospective analysis of health-related  quality of life in adolescent idiopathic scoliosis children treated by anterior instrumentation and fusion. Scoliosis Spinal Disord . 2018;13(1):15. doi:10.1186/s13013-018-0162-2.  (RV)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Liu Y, Pan A, Hai Y, Li W, Yin L, Guo R. Asymmetric biomechanical characteristics of the paravertebral muscle in adolescent idiopathic scoliosis. Clin Biomech . 2019;65:81-86. doi:10.1016/j.clinbiomech.2019.03.013. (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Xavier VB, Avanzi O, de Carvalho BDMA, Alves VLDS. Combined aerobic and resistance training improves respiratory and exercise outcomes more than aerobic training in adolescents with idiopathic scoliosis: a randomized trial. J Physiother . 2020;66(1):33-38.  doi:10.1016/j.jphys.2019.11.012. (RCT)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Zapata KA, Sucato DJ, Jo CH. Physical therapy scoliosis-specific  exercises may reduce curve progression in mild adolescent idiopathic scoliosis curves. Pediatr Phys Ther . 2019;31(3):280-285.  doi:10.1097/PEP.0000000000000621. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Schroth method for scoliosis. Johns Hopkins Medicine Web site. https://www.hopkinsmedicine.org/health/conditions-and-diseases/scoliosis/schroth-method-for-scoliosis . Accessed November 9, 2020. (GI)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Zheng Y, Dang Y, Yang Y, et al. Whether orthotic management and exercise are equally effective to the patients with adolescent idiopathic scoliosis in mainland China? A randomized controlled trial study. Spine. 2018;43(9):e494-e503.  doi:10.1097/BRS.0000000000002412. (RCT)"
+        },
+        {
+            "number in article": 29,
+            "reference": "LeFever D, Menger RP. Infantile and juvenile scoliosis. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Menger RP, Sin AH. Adolescent and idiopathic scoliosis. StatPearls . Treasure Island, FL: StatPearls Publishing; 2020. (GI)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Romano M, Negrini A, Parzini S, et al. SEAS (Scientific Exercises Approach to Scoliosis): a modern and effective evidence based approach to physiotherapic specific scoliosis exercises. Scoliosis. February 5, 2015;10:3. doi:10.1186/s13013-014-0027-2.  (RV)"
+        }
+    ]
+}

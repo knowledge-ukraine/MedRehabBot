@@ -1,0 +1,420 @@
+{
+    "metadata": {
+        "title": "Auditory Neuropathy Spectrum Disorder in Adults",
+        "synonyms": [
+            "auditory neuropathy spectrum disorder (ansd)",
+            "neuropathy/dyssynchrony, auditory, in adults",
+            "dyssynchrony/neuropathy, auditory, in adults",
+            "neuropathy/spectrum disorder, auditory, in adults",
+            "spectrum disorder/neuropathy, auditory, in adults"
+        ],
+        "anatomical location body part affected": [
+            "Inner hair cells, the synaptic juncture between the inner hair cells and the auditory nerve, or the auditory nerve itself"
+        ],
+        "area of specialty": [
+            "hearing impairment"
+        ],
+        "description": [
+            "Prior to 2008, there was no consensus regarding the terminology for auditory neuropathy/dyssynchrony. The terms auditory neuropathy and auditory dyssynchrony were used interchangeably in research studies to refer to the potential neural involvement as well as the lack of synchrony in the auditory system.(1) However, in 2008, a group of audiologists, hearing scientists, medical geneticists, neonatologists, and neurologists met in Como, Italy, for the Consensus Conference on Auditory Neuropathy/ Dyssynchrony. This panel recommended the term auditory neuropathy spectrum disorder (ANSD) to refer to the continuum of hearing impairment in which a patient\u2019s otoacoustic emissions (OAEs) are (or were at some time) present and the auditory brainstem response (ABR) is absent or abnormal.(2) ANSD includes hearing loss caused by damage to the hair cells (sensory hearing loss), damage to the spiral ganglion cells/VIIIth cranial nerve (auditory neuropathy), and hearing loss caused by damage to the central auditory pathway, which includes the cochlear nucleus, inferior colliculus, medial geniculate body, and auditory cortex (central hearing loss)(2,3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "389.8": "other specified form of hearing loss"
+        },
+        "ICD-10 codes": {
+            "H90.5": "unspecified sensorineural hearing loss _ (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for procedure will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Patients with ANSD are heterogeneous but characteristically demonstrate difficulty understanding speech, particularly in environments with competing auditory stimuli.(2,4) Behavioral audiometric functions are variable and range from normal to profound hearing loss. Patients have normal outer hair cell function, as indicated by preserved OAEs, but an absence of neural synchrony, as indicated by absent middle ear muscle reflexes (MEMRs) and absent or irregular ABR.(2,4) ANSD can be present from birth or acquired postnatally.(5) Adults can develop ANSD later in life due to a hereditary sensory motor neuropathy",
+            "Patients with ANSD present with one or more of the following symptoms:(6) \u2013Reduced speech perception, particularly in the presence of noise.(6) Speech perception is often worse than what would be expected based on audiogram results(2,3) \u2013Abnormal temporal processing(2,6) \u2013Normal OAEs(2,7) \u2013Absent MEMRs(2,7) \u2013Absent or abnormal ABRs(2,7) \u2013Behavioral audiogram results varying from normal to profound hearing loss(7) \u2013Unexplained fluctuations in hearing(7) \u2013Absent masking level differences(7) \u2013Absent or abnormal acoustic stapedial reflexes(7) \u2013Accompanying behavioral characteristics might include difficulty understanding speech, particularly in noisy environments, and difficulty communicating orally(2,6)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Precautions will vary according to the age of the patient, the degree of hearing loss, and the severity of accompanying language, cognitive, and motor symptoms. The patient\u2019s medical records should be reviewed thoroughly prior to evaluation to determine the etiology of ANSD",
+            "A patient\u2019s culture and native language should be considered to determine the appropriateness of examination questions and materials. Some adults might not be able to complete standardized tests or answer questions regarding medical history due to neurological or communication impairments. In these cases, it is recommended that a family member be involved in all assessment procedures(12)",
+            "An audiologist is the primary diagnostician for patients with ANSD"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  patients with ansd are heterogeneous and vary with respect to age of onset, presence or absence of neurological abnormalities, and unilateral or bilateral involvement.   the prevalence of ansd among the diagnosed deaf population has": [],
+        "pathogenesis:  the pathogenesis of ansd has not been conclusively established. possible structures involved in ansd include inner hair cells, the synaptic juncture between the inner hair cells and auditory nerve, and the auditory nerve": [],
+        "risk factors": [
+            "Hyperbilirubinemia(9)",
+            "Perinatal jaundice(9)",
+            "Prematurity(9)",
+            "Low birth weight(9,10)",
+            "Anoxia(9)",
+            "Exposure to ototoxic medications such as vancomycin(10,11)",
+            "Genetics(9,52)",
+            "Hydrocephalus (for detailed information on hydrocephalus, see Clinical Review\u2026Hydrocephalus, Normal Pressure ;CINAHL Topic ID Number: T709056)(9)",
+            "Friedreich\u2019s ataxia(9)",
+            "Spinocerebellar degeneration(9)",
+            "Infant respiratory distress syndrome (IRDS)(11)",
+            "Meningitis(11)",
+            "Brain tumor(48)",
+            "Hereditary sensory motor neuropathy (Charcot-Marie-Tooth  disease [for detailed information on Charcot-Marie-Toothdisease, see Clinical Review\u2026Charcot-Marie-Tooth  Disease in Adults ; CINAHL Topic ID Number: T708624])(9)\u2013Neurologic aspects of this disorder might not manifest until puberty(7)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Precautions will vary according to the age of the patient, the degree of hearing loss, and the severity of accompanying language, cognitive, and motor symptoms. The patient\u2019s medical records should be reviewed thoroughly prior to evaluation to determine the etiology of ANSD",
+            "A patient\u2019s culture and native language should be considered to determine the appropriateness of examination questions and materials. Some adults might not be able to complete standardized tests or answer questions regarding medical history due to neurological or communication impairments. In these cases, it is recommended that a family member be involved in all assessment procedures(12)",
+            "An audiologist is the primary diagnostician for patients with ANSD"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Review medical history and document the etiology of the ANSDA written case history, interview, and the administration of a self-assessment inventory can determine the nature of the communication problems that an adult is experiencing. A medical history should identify the etiology of the hearing loss as well as any factors that might influence hearing loss and speech perception (e.g., head injury). The following questions are examples of those that might be asked by an audiologist during -When do you think your hearing loss began? When did you first notice it?(13)  -Are both ears affected or just one ear?(13) -Have you experienced gradual or sudden hearing loss?(13) -Do you have any ringing in your ears?(13) -Do you have any prior history of hearing loss or ear infection?(13) -Have you noticed any pain or discharge in your ears?(13) -Have you experienced any dizziness?(13) -Do any members of your family have hearing loss?(13) -Do you have greater difficulty hearing certain types of voices (e.g., men\u2019s vs. women\u2019s)?(13) -Does your family/spouse/partner comment on the volume of your television?(13) -Have you ever been told that you talk too loudly?(13) -Do you often have to ask people to repeat what they say?(13) -Do you hear people speaking but have a difficult time understanding what is being said?(13) -Do you have any history of noise exposure?(13) -Are there environments or situations in which it is particularly difficult for you to follow conversation (e.g., restaurants, airplanes)?(13)",
+                "course of treatment": {
+                    "medical management": "Medical management will vary significantly depending upon the underlying cause of ANSD and additional complicating factors",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  ANSD is diagnosed by an audiologist. The speech-language  pathologist (SLP) should note the results of audiological tests (see Diagnostic measures , below) as well as the results of any neurological (MRI, CT scan), neuropsychological, or psychological/cognitive tests that have been completed"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had speech, occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Does the patient have vision problems? -Does the patient have difficulty with mobility? -Does the patient speak another language? -Does the patient have any cognitive deficits?",
+                "body chart": "",
+                "nature of symptoms": "Document nature of speech, language, and hearing symptoms",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "Document symptoms patient is experiencing that would affect speech, language, or cognitionPatients with ANSD sometimes experience vestibular impairment,especially in cases of damage to the VIIIth cranial nerve.(14,45) Refer to the physician for further evaluationPatients with ANSD often report tinnitus unilaterally or bilaterally; in a study conducted in India with 149 patients with ANSD, 95 of the patients were found to have tinnitus(54)",
+                "respiratory status": "Note use of supplemental oxygen, tracheostomy tube, or history of mechanical ventilationInquire about symptoms of depression/anxiety and refer to a neuropsychologist or clinical psychologist when symptoms are present (e.g., loss of interest in daily activities, problems sleeping, feelings of sadness and hopelessness) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe___________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting) \u2022Audiological assessment: Review the results of the patient\u2019s complete audiological assessment, which should be completed by an audiologist prior to a speech-language  evaluation. The purpose of assessment is to determine the presence of ANSD and to assess the patient\u2019s language, listening, and speech abilities if necessary. The primary diagnostic features  of ANSD are: 1) normal outer hair cell function as demonstrated by preserved OAEs, 2) an absence of neural synchrony as shown by absent MEMRs, 3) absent or irregular ABRs, and 4) poor speech perception, particularly in the presence of noise.(4) The audiologist is also responsible for monitoring the use of amplification (if applicable) and evaluating the need for a cochlear implant. The SLP is responsible for assessing language, speech, and listening abilities and providing aural rehabilitation when needed. A neurologist might provide assessment input on other peripheral neuropathies.(15)The following audiological diagnostic assessments are performed by a qualified audiologist \u2013Diagnostic measures -ABR:  An ABR test measures brain wave activity in the acoustic centers of the brain in response to a brief external stimulus. An ABR test should be performed with click stimuli at reasonably high levels (70\u201380dB nHL), comparing averages collected to a positive polarity versus a negative polarity click.(7,9) Patients with ANSD exhibit no response or abnormal morphology ABR at elevated levels starting with wave 1.(16) However, a lack of ABR does not necessarily mean an absence of hearing sensitivity, and there are documented cases of patients who have had few problems learning language who had no recordable ABRs(7) -In a study conducted in India with 149 subjects with ANSD, researchers found that having a preserved ABR was associated with better speech perception in both noisy and quiet environments. In this study, the ABR was preserved in only 12.5% of the ears assessed(51) -OAEs:  An OAE is a release of sound energy in the cochlea and can indicate normal outer hair cell function. The diagnosis of ANSD is confirmed if OAEs are present in combination with an absent ABR. However, in some patients with ANSD, OAEs disappear for no apparent reason, and ANSD cannot be completely ruled out when there are no OAEs.(9) Middle ear problems can prevent measurement of OAEs because the low-amplitude  signal might be blocked or reduced(4) -Cochlear microphonics (CMs):  In the presence of middle ear problems, it might not be possible to use OAEs. In this case, CMs might be used to evaluate outer hair cell function. Electrodes are used to measure electrical response after presentation of an external acoustic stimulus. These electrodes are attached to the scalp and therefore bypass the middle ear system.(4) CMs should be present at 90 and 80 dBnHL(17) -Standard pure-tone  and speech audiometry:  A complete peripheral hearing evaluation should evaluate hearing thresholds. Patients with ANSD vary greatly with respect to type and degree of hearing loss, ranging from normal hearing sensitivity to profound hearing loss.(2,16) The loss usually is bilateral, but some unilateral cases have been described.(18) Most patients with ANSD will have poor speech recognition results even if the pure-tone  audiometric results are not poor; accuracy of speech recognition in noise will likely be worse than in quiet(2,9) -Otoscopic exam:  An otoscopic evaluation should be performed to examine the external ear canal and tympanic membrane for any abnormalities. It is critical to rule out middle ear pathologies that might affect test outcomes(16) -MEMRs:  The acoustic reflex is important for differential diagnosis of ANSD. Ipsilateral and contralateral MEMRs should be absent in patients with ANSD. If these reflexes are present, ANSD should be ruled out; however, the absence of a reflex does not definitively confirm the diagnosis of ANSD(4) -Auditory steady-state  response:  Evoked by a binaural multifrequency (500, 1000, 2000, and 4000 Hz) paradigm in which 4 electrodes are used (a positive electrode high on the forehead, a ground electrode on the lower forehead, and 2 negative electrodes on the mastoids) to record the auditory steady-state  response; monaural tests can be performed if there is no response to binaural stimulation.(19) The auditory steady-state  response will be present in most patients with ANSD and can be an important diagnostic measure, especially in the absence of ABRs(19,20) -Cortical auditory evoked potentials (CAEPs):  CAEPs are a subtype of event-related  potentials (ERPs) (brain responses to some type of event; e.g., sound). CAEPs are very small electrical voltage potentials (2\u201310  microvolts) that originate from the brain in response to an auditory stimulus (e.g., tones, speech sounds). Recorded by electrodes on the scalp, CAEPs are not routinely used in diagnostics with individuals with ANSD; however, a growing body of research indicates they would be a useful clinical tool(21,22) \u2013Other measures -Auditory performance (hearing handicap assessments):  There are several patient self-assessment  measures that can be used to establish baseline auditory performance and quality of life as well as to assess therapy outcomes. The following are some examples:  -Hearing Handicap Inventory for Adults (HHIA): A self-assessment  tool designed to quantify any posttreatment change in psychosocial perceptions related to hearing loss. This might be used for adults of all ages, including those who are still working(23) -Hearing Handicap Inventory for the Elderly (HHIE): A self-administered questionnaire to assess the emotional and social effects of hearing loss. It can be used to assess posttreatment attitude change toward hearing loss(24) -HHIE-SO:  Assesses the effects of hearing loss from the perspective of a family member(25) -Speech and language assessments:  To be completed by the SLP; assess for speech and language impairments as needed. Use standardized and nonstandardized assessments to evaluate comprehension and production of language in oral, signed, or written modalities. Assess communication strategies, speech reading, and listening skills as indicated(26)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [],
+            "general": "A patient\u2019s personal communication goals, culture, and native language should be"
+        },
+        "diagnosis need for treatment": "The specialists involved in the diagnosis and treatment will vary with the etiology of the ANSD but can include an otologist, audiologist, neurologist, SLP, ophthalmologist, and a medical geneticist.(6) Auditory rehabilitation services are warranted if the patient\u2019s ability to communicate is impaired and there is an expectation of benefit from treatment",
+        "rule out": "The audiologist will rule out sensorineural hearing loss, conductive hearing loss, mixed hearing loss (ANSD and sensorineural hearing loss), and central auditory processing disorder (CAPD). In ANSD, the ABR and MEMRs are absent, but these tests typically are normal in CAPD",
+        "prognosis": [],
+        "referral to other disciplines": "An audiologist will be primarily involved in hearing assessment, but the patient might also be referred to an otologist, medical geneticist, and ophthalmologist to evaluate the etiology of the condition and other potential associated conditions(27) Refer to an occupational therapist and/or physical therapist as needed, particularly for patients with vestibular involvement",
+        "other considerations": [],
+        "treatment summary": [
+            "Amplification: Because ANSD involves significant processing dysfunction, amplification may or may not be helpful for patients with ANSD. Case studies provide preliminary support for use of hearing aids in children with ANSD, but adults have shown little to no perceptual advantage with amplification.(29) A trial can be initiated with loaned hearing aids when available \u2013In a study conducted in India, researchers examined the effect of hearing aid use in 64 adult participants with late-onset ANSD (i.e., postlingual). The extent to which ANSD affected each participant varied, and there were cases of bilateral, asymmetrical, and unilateral hearing loss. Researchers tested the effects of amplification in both ears of those with bilateral loss and in the better or unaffected ears of those with asymmetrical or unilateral loss, for a total of 104 ears. Researchers found that hearing aids resulted in improved speech perception for 39 of the 104 ears and the degree of improvement ranged from 4% to 52%. In the other 65 participants and in 5 subjects who had congenital ANSD, there was no improvement from hearing aid use(49) \u2013In a study conducted in India involving 12 adult patients with auditory neuropathy, researchers found that envelope enhancement of the speech signal (a means of enhancing some speech sounds, e.g., consonants, while compressing  others, e.g., vowels) resulted in improved speech recognition for those patients with mild, moderate, and severe auditory neuropathy; those with profound auditory neuropathy did not benefit(30) -Researchers concluded that the use of hearing aids that utilize envelope enhancement technology might result in better speech recognition for patients with mild, moderate, and severe auditory neuropathy(30) \u2013In a study conducted in India with 8 subjects with ANSD, researchers found that when they manipulated the temporal aspects of speech, this resulted in significantly improved speech perception. Using a computer to stretch speech signals by different amounts (25%, 35%, 50%), researchers found that stretching the signal by 25% (but not beyond this) resulted in significantly improved consonant and vowel perception by the individuals with ANSD. Researchers suggested that this information could be used to develop a software algorithm to program hearing aids for persons with ANSD that would improve speech perception(53)",
+            "Clear speech:  Two studies conducted in the United States have shown that the use of \u201cclear speech\u201d by a conversational partner increases the speech recognition by persons with hearing loss of varied etiologies.(31,32) Simply instructing a conversational partner to \u201cspeak clearly\u201d has led to better ability to write or repeat sentences that are presented to subjects with hearing loss. Additionally, in a study conducted in Canada, researchers found that specific instructions to a patient\u2019s partner (45 min/1 session) on how to produce clear speech by slowing speech rate, pausing, key word identification, and placing acoustic stress on key words led to more consistent use of clear speech even in postintervention follow-up  sessions (1 month) when compared to another subject who was simply instructed to \u201cspeak clearly.\u201d(33) In a study conducted in the United States with 13 participants with ANSD, researchers investigated the effects of clear speech on understanding and found an overall clear-speech  advantage for a wide range of listening conditions and modes.(34) Other compensatory techniques include facing the patient directly to ensure his/her attention, speaking at a normal volume while clearly enunciating (without using exaggerated lip movement), avoiding covering mouth with hand, and making sure that hearing aids are in place and that eyeglasses are worn, if appropriate(35)",
+            "Cochlear implant:  Many children with ANSD who have received cochlear implants have shown improvement in speech perception abilities; however, adults with ANSD who have received cochlear implants have demonstrated mixed results in speech perception outcomes(7,36) \u2013Few studies have systematically investigated the effects of cochlear implants in adults with ANSD. In a retrospective analysis study conducted in South Korea with 11 adult patients with ANSD and 9 with sensorineural hearing loss without neural pathology, researchers found that even when it was impossible to use electrical stimulation to generate a sufficiently synchronized signal for eliciting evoked auditory brainstem response, a cochlear implant did provide at least some measurable auditory benefit in ANSD.(42) An anecdotal report by one researcher indicated that 2 patients in whom ANSD was diagnosed in their 20s received benefit from cochlear implantation.(6) The authors of a case study of adults with and without cochlear implants concluded that implant users with ANSD performed better on speech recognition tasks than nonimplant users(34) \u2013Authors of a systematic review including 27 studies investigating the effect of cochlear implants on speech recognition skills in children with ANSD found that the current evidence is compatible with favorable outcomes, but this evidence is weak and further investigation is necessary.(46) In a study conducted in the United States with 9 children (ages 7\u201318 years) with ANSD who were experienced cochlear implant users, researchers found consistent improvement in speech recognition thresholds (SRTs) with the use of a contralateral hearing aid for amplification.(37) In a retrospective chart review study conducted in the United States that included 26 pediatric cochlear implant users with the diagnosis of auditory neuropathy, researchers found that children with a diagnosis of auditory neuropathy alone performed comparably to their peers with cochlear hearing loss, but the presence of a comorbid cognitive or developmental disorder was associated with significantly poorer outcomes with the cochlear implant.(41) In a retrospective chart review study conducted in the United States with 26 patients over a 14-year  period, researchers found that children with ANSD who failed to develop auditory skills while using a hearing aid were able to develop auditory skills comparable to those of children with ANSD who were successful with hearing aid use after receiving either unilateral or bilateral cochlear implants.(43) In a study conducted in the United States with children with ANSD, researchers compared data from a current and previous study on cochlear implantation in ANSD and determined that abnormal cortical responses were seen in patients with ANSD who were fitted with hearing aids, but not with cochlear implants, suggesting that cochlear implants are more effective for providing the auditory stimulation necessary for central auditory maturation in children  with severe disruptions in neural synchrony.(47) In a case study with a male child aged 11 years, 7 months with a unilateral cochlear implant, authors described improved spatial hearing after the child received a second cochlear implant(44) \u2013In a case study with two patients with postlingual ANSD, researchers found that after 6 months with a cochlear implant, both patients demonstrated improvement in hearing ability. One patient, a 28-year-old  female, made significant progress in speech recognition scores in quiet and in noise. The other patient, a 15-year-old  male, improved slightly in single-word recognition, but continued to have poor sentence recognition scores in both quiet and noisy environments(50)",
+            "Auditory training:  Auditory training is a process to train a person with hearing loss to make use of his or her residual hearing by using activities that focus on increasing the recognition, identification, and interpretation of sound. There is no experimental research on the efficacy of auditory training in adults with ANSD, but the research on adults with other types of hearing loss suggests that auditory training might be beneficial in increasing awareness of acoustic differences and recognizing fine acoustic distinctions(38,39) . Problem Goal Intervention Expected Progression Home Program Difficulty understanding speech in various environmentsEnhance the listening environment to improve access to information in all necessary environments (e.g., the workplace, home, school)Reduce adverse acoustic conditions _ Home and/or work modifications that might help to enhance listening include use of barrier walls for working independently, use of sound-absorbing materials such as carpet and draperies, acoustic ceiling tiles, tennis balls on chair legs in rooms without carpet, and seating away from noise sources (e.g., air conditioners, overhead projectors, doorways, windows)(27)N/A For adults, counseling of the patient and family members is considered critical in implementing environmental modifications Difficulty understanding conversational partnerImprove understanding of conversational partner (e.g., spouse of person with hearing loss) by instructing partner on the use of \u201cclear speech\u201dClear speech _ Instruct patient\u2019s family and other conversational partner(s) to learn and use aspects of \u201cclear speech\u201d that include slowing speech rate, pausing, key word identification, and placing acoustic stress on key words(31,32,33,34) _ _ See Treatment summary , aboveSLP guides the patient and conversational partners through clear speech at the word level, then phrase, sentence, and conversation levelsPatient\u2019s conversational partner(s) should use clear speech at home and within the community  Difficulties in expressive/receptive language and readingImprove the individual\u2019s ability to communicate more effectively in everyday environments (e.g., school, work)Auditory training _ See Treatment summary , aboveGradual progression from training the patient to listen to small amounts of information up to participation in conversational speechContinue prescribed exercises at home as indicated ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved functional hearing ability": [],
+        "perceived benefit of cochlear implant or hearing aids  unaided hearing ability vs. aided hearing ability": [],
+        "patient satisfaction with hearing ability": [],
+        "improved quality of life": [
+            "HHIA",
+            "HHIE",
+            "HHIE-SO"
+        ]
+    },
+    "maintenance or prevention": [
+        "The audiologist should regularly monitor the patient\u2019s hearing ability and the functionality of the amplification system to ensure continual access to optimal sound signal"
+    ],
+    "patient education": [
+        "See information provided by the National Institute on Deafness and Other Communication Disorders, https://www.nidcd.nih.gov/health/auditory-neuropathy Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on October 14, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Grimes AM. Auditory neuropathy (dys-synchrony).  Semin Hear . 2002;23(3):181-249,  C1-C7. (X)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Berlin CI, Hood LJ, Morlet T, et al. Multi-site diagnosis and management of 260 patients with auditory neuropathy/dys-synchrony  (auditory neuropathy spectrum disorder). Int J Audiol. 2010;49(1):30-43.  (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Rapin I, Gravel JS. Auditory neuropathy: a biologically inappropriate label unless acoustic nerve involvement is documented. J Am Acad Audiol . 2006;17(2):147-150.  (X)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Hood LJ, Berlin CI, Morlet T, Brashears S, Rose K, Tedesco S. Considerations in the clinical evaluation of auditory neuropathy/auditory dys-synchrony.  Semin in Hear . 2002;23(3):201-208,  C1-C7. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Cone-Wesson  B. Auditory neuropathy: evaluation and habilitation of a hearing disability. Infants Young Child . 2004;17(1):69-81.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Shallop JK. Auditory neuropathy/dys-synchrony  in adults and children. Semin Hear . 2002;23(3):215-223.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Berlin CI, Li L, Hood LJ, Morlet T, Rose K, Brashears S. Auditory neuropathy/dys-synchrony:  after the diagnosis, then what? Semin Hear . 2002;23(3):209-214.  (GI)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Jeong SW, Kim LS, Kim BY, Bae WY, Kim JR. Cochlear implantation in children with auditory neuropathy: outcomes and rationale. Acta Otolaryngol . 2007;Suppl(558):36-43. (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Sininger YS. Identification of auditory neuropathy in infants and children. Semin Hear . 2002;23(3):193-200.  (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Xoinis K, Weirather Y, Mavoori H, Shaha SH, Iwamoto LM. Extremely low birth weight infants are at high risk for auditory neuropathy. J Perinatol . 2007;27(11):718-723.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Coenraad S, Goedegebure A, van Goudoever JB, Hoeve LJ. Risk factors for auditory neuropathy spectrum disorder in NICU infants compared to normal-hearing  NICU controls. Laryngoscope . 2011;121(4):852-855.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Practice Portal: Dementia. American Speech-Language-Hearing  Association Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Dementia/ . Accessed January 28,"
+        },
+        {
+            "number in article": 2018,
+            "reference": " (G)"
+        },
+        {
+            "number in article": 13,
+            "reference": "American Speech-Language  Hearing Association. Hearing screening and testing. American Speech-Language-Hearing  Association Web site. http://www.asha.org/public/ hearing/testing/assess.htm . Accessed January 28, 2018. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Sazgar AA, Yazdani N, Rezazadeh N, Yazdi AK. Vestibular evoked myogenic potential (VEMP) in patients with auditory neuropathy: auditory neuropathy or audiovestibular neuropathy? Acta Otolaryngol . 2010;130(10):1130-1134.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Stredler-Brown  A. Developing a treatment program for children with auditory neuropathy. Semin Hear . 2002;23(3):239-249,  C1-C7. (G)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Scott TM. Auditory neuropathy in children. ASHA Lead . 2003;17-18.  (G)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Koley MA. The importance of establishing a protocol for diagnosis of auditory neuropathy. Perspect Hear Hear Disord Child . 2002;12(2):19-24.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Sininger YS, Trautwein P. Electrical stimulation of the auditory nerve via cochlear implants in patients with auditory neuropathy. Ann Otol Rhinol Laryngol Suppl . 2002;189:29-31.  (GI)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Emara AA, Gabr TA. Auditory steady state response in auditory neuropathy. J Laryngol Otol . 2010;124(9):950-956.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Jafari Z, Malayeri S, Ashayeri H, Farahani MA. Adults with auditory neuropathy: comparison of auditory steady-state  response and pure-tone  audiometry. J Am Acad Audiol . 2009;20(10):621-628.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Cardon G, Sharma A. Cortical auditory evoked potentials in auditory neuropathy spectrum disorder: clinical implications. Perspect Hear Hear Disord Child . 2011;21(1):31-37. (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Sharma A, Cardon G, Henion K, Roland P. Cortical maturation and behavioral outcomes in children with auditory neuropathy spectrum disorder. Int J Audiol . 2011;50(2):98-106.  doi:10.3109/14992027.2010.542492. (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Newman CW, Weinstein BE, Jacobson GP, Hug GA. The Hearing Handicap Inventory for adults: psychometric adequacy and audiometric correlates. Ear Hear. 1990;11(6):430-433.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Weinstein BE, Ventry IM. Audiometric correlates of the Hearing Handicap Inventory for the elderly. J Speech Hear Disord . 1983;48(4):379-384.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Newman CW, Weinstein BE. Judgments of perceived hearing handicap by hearing impaired elderly men and their spouses. J Acad Rehabil Audiol . 1988;19:109-115.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "American Speech-Language-Hearing  Association. Preferred practice patterns for the profession of speech-language  pathology. http://www.asha.org/policy/PP2004-00191/ . Published November 2004. Accessed January 28, 2018. (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Simmons J, McCreery R. Auditory neuropathy/dys-synchrony:  trends in assessment and treatment. ASHA Lead . 2007;12(8):11-15.  (GI)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Hood LJ. Auditory neuropathy: what is it and what can we do about it? Hearing J . 1998;51(8):10-18.  (GI)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Rance G, Barker EJ. Speech perception in children with auditory neuropathy/dyssynchrony managed with either hearing aids or cochlear implants. Otol Neurotol . 2008;29(2):179-182.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Narne VK, Vanaja CS. Perception of speech with envelope enhancement in individuals with auditory neuropathy and simulated loss of temporal modulation processing. Int J Audiol. 2009;48(10):700-707.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Helfer KS. Auditory and auditory-visual  perception of clear and conversational speech. J Speech Lang Hear Res . 1997;40(2):432-443.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Payton KL, Uchanksi RM, Braida LD. Intelligibility of conversational and clear speech in noise and reverberation for listeners with normal and impaired hearing. J Acoust Soc Am. 1994;95(3):1581-1592.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Caissie R, Campbell MM, Frenette WL, Scott L, Howell I, Roy A. Clear speech for adults with a hearing loss: does intervention with communication partners make a difference? J Am Acad Audiol . 2005;16(3):157-171.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Zeng FG, Liu S. Speech perception in individuals with auditory neuropathy. J Speech Lang Hear Res . 2006;49(2):367-380.  (C)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Wallhagen MI, Pettengill E, Whiteside M. Sensory impairment in older adults: part 1: hearing loss. Am J Nurs . 2006;106(10):40-49.  (GI)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Breneman AI, Gifford RH, Dejong MD. Cochlear implantation in children with auditory neuropathy spectrum disorder: long-term  outcomes. J Am Acad Audiol . 2012;23(1):5-17. doi:10.3766/jaaa.23.1.2. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Runge CL, Jensen J, Friedland DR, Litovsky RY, Tarima S. Aiding and occluding the contralateral ear in implanted children with auditory neuropathy spectrum disorder. J Am Acad Audiol . 2011;22(9):567-577.  doi:10.3766/jaaa.22.9.2. (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Fu QJ, Galvin JJ. Computer-assisted  speech training for cochlear implant patients: feasibility, outcomes, and future directions. Semin Hear . 2007;28(2):142-150.  (RV)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Ertmer DJ, Leonard JS, Pachuilo ML. Children with cochlear implants: two case studies. Lang Speech Hear Serv Sch . 2002;33:205-217.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "McCarthy P, Schau N. Adult audiologic rehabilitation: a review of contemporary practices. Contemp Issues Commun Sci Disord . 2008;35:168-177.  (GI)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Budenz CL, Telian SA, Arnedt C, et al. Outcomes of cochlear implantation in children with isolated auditory neuropathy versus cochlear hearing loss. Otol Neurotol . 2013;34(3):477-483.  doi:10.1097/MAO.0b013e3182877741. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Jeon JH, Bae MR, Song MH, Noh SH, Choi KH, Choi JY. Relationship between electrically evoked auditory brainstem response and auditory performance after cochlear implant in patients with auditory neuropathy spectrum disorder. Otol Neurotol . 2013;34(7):1261-1266.  doi:10.1097/MAO.0b013e318291c632. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Pelosi S, Wanna G, Hayes C, et al. Cochlear implantation versus hearing amplification in patients with auditory neuropathy spectrum disorder. Otolaryngol Head Neck Surg . 2013;148(5):815-821.  doi:10.1177/0194599813478575. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Johnstone PM, Yeager KR, Noss E. Spatial hearing in a child with auditory neuropathy spectrum disorder and bilateral cochlear implants. Int J Audiol . 2013;52(6):400-408. doi:10.3109/14992027.2013.779755. (C)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Sinha SK, Barman A, Singh NK, Rajeshwari G, Sharnya R. Vestibular test findings in individuals with auditory neuropathy: review. J Laryngol Otol . 2013;127(5):448-451. doi:10.1017/S0022215113000406. (RV)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Humphriss R, Hall A, Maddocks J, Macleod J, Sawaya K, Midgley E. Does cochlear implantation improve speech recognition in children with auditory neuropathy spectrum disorder? A systematic review. Int J Audiol . 2013;52(7):442-454.  doi:10.3109/14992027.2013.786190. (SR)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Cardon G, Sharma A. Central auditory maturation and behavioral outcome in children with auditory neuropathy spectrum disorder who use cochlear implants. Int J Audiol . 2013;52(9):577-586.  doi:10.3109/14992027.2013.799786. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Kottapalli S, Madden C. Acquired auditory neuropathy spectrum disorder in a child with a brain tumour. Hear Balance Commun . 2013;11(1/2):47-51. doi:10.3109/21695717.2012.756217. (C)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Jijo PM, Yathiraj A. Audiological findings and aided performance in individuals with auditory neuropathy spectrum disorder (ANSD) \u2013 A Retrospective Study. Journal of Hearing Science. 2013;3(1):18-26.  (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Li F, Li JN, Hong MD, Wang Q, Yang SM. Preliminary performance of cochlear implants in post-lingual  patients with auditory neuropathy. Acta Otolaryngol . 2014;134(3):280-5. doi:10.3109/00016489.2013.852689. (C)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Chandan HS, Prabhu PP. Speech perception abilities in individuals with auditory neuropathy spectrum disorder with preserved temporal synchrony. Journal of Hearing Science . 3(2):16-21.  (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Morlet T, Rabinowitz MR, Looney LR, et al. A homozygous SLITRK6 nonsense mutation is associated with progressive auditory neuropathy in humans. Laryngoscope . 2014;124(3):E95-E103.  doi:10.1002/lary.24361. (R)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Pottackal Mathai J, Yathiraj A. Effect of temporal modification and vowel context on speech perception in individuals with auditory neuropathy spectrum disorder (ANSD). Hearing, Balance & Communication . 2013;11(4):198-207.  doi:10.3109/21695717.2013.817064. (R)"
+        },
+        {
+            "number in article": 54,
+            "reference": "Chandan HS, Prabhu P, Deepthi M. Prevalence and characteristics of tinnitus in individuals with auditory neuropathy spectrum disorder. Hearing, Balance & Communication . 2013;11(4):214-217.  (R)"
+        }
+    ]
+}

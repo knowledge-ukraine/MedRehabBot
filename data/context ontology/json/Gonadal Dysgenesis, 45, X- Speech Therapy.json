@@ -1,0 +1,402 @@
+{
+    "metadata": {
+        "title": "Turner Syndrome  Speech Therapy",
+        "synonyms": [
+            "bonnevie ullrich syndrome  speech therapy",
+            "gonadal dysgenesis, 45,x speech therapy",
+            "gonadal dysgenesis, xo: speech therapy",
+            "monosomy x: speech therapy",
+            " ullrich turner syndrome: speech therapy"
+        ],
+        "anatomical location body part affected": [
+            "Sex organs; endocrine system; may also affect kidneys, heart, ears"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders",
+            "learning disabilities"
+        ],
+        "description": [
+            "Turner syndrome (TS) is a congenital genetic disorder resulting from the complete or partial deletion of the second sex chromosome, either X or Y .(1,2) Subsequently, all patients with TS will present clinically as female.(1) The pattern of symptoms associated with TS includes short stature, premature ovarian failure, loose nuchal skin (skin at the nape of the neck) or webbing at the neck and the absence of spontaneous puberty(1,2)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "Q96.0": "karyotype 45,X",
+            "Q96.1": "karyotype 46,X iso (Xq)",
+            "Q96.2": "karyotype 46,X with abnormal sex chromosome, except iso (Xq)",
+            "Q96.3": "mosaicism, 45,X/46,XX or XY",
+            "Q96.4": "mosaicism, 45,X/other cell line(s) with abnormal sex chromosome",
+            "Q96.8": "other variants of Turner's syndrome",
+            "Q96.9": "Turner's syndrome, unspecified (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Swallowing G-code set": {
+                "G8996": "Swallowing functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G8997": "Swallowing functional limitation, projected goal status, at initial therapy treatment/outset and at discharge from therapy",
+                "G8998": "Swallowing functional limitation, discharge status, at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information have been identified regarding reimbursement"
+        ],
+        "presentation signs and symptoms": [
+            "Cardiovascular abnormalities (especially left-sided)(1,3,4,32) \u2013Coarctation (narrowing of the aorta)(1)  \u2013Aortic valvular disease(1,3) \u2013Aortic dissection(1,3,32)",
+            "Cubitus valgus (increased carrying angle of the elbow)(1,2,3)",
+            "Deep-set  hyperconvex nails(1)",
+            "Delayed or absent menses (amenorrhea); lack of spontaneous puberty (hypogonadism)(2,3,4,5)",
+            "Edema in the hands and feet (in infants)(1,5)",
+            "Learning disabilities(2) \u2013Impaired spatial perception; impaired spatial language abilities(2,36,37)",
+            "Loose nuchal skin (in infants)(2)",
+            "Low hairline(4)",
+            "Kidney complications (pelvic kidney or horseshoe kidneys)(2,5)",
+            "Micrognathia (abnormally small jaw)(1,4)",
+            "Poor visual-motor  integration(2)",
+            "Protruding and/or deep-set  ears(1,3)",
+            "Relatively impaired nonverbal intelligence(6)",
+            "Short stature(2,4,5)",
+            "Webbed neck(1,2,3,4,5)",
+            "Widely spaced nipples(1,2,5)",
+            "Vision problems (strabismus, colorblindness)(3) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Patients with TS are at an elevated risk for depression and emotional disorders due to their chronic medical problems, social isolation,and physical differences.(4,6) A speech-language  pathologist (SLP) must proceed with sensitivity during evaluations of speech, language, cognition, and swallowing and refer to psychiatry or psychology as needed "
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  in typically developing humans, men and women have two sex chromosomes each, xy and xx, respectively. ts is caused by the complete or partial deletion of the second sex chromosome, either x or y ,": [],
+        "pathogenesis:  a complete or partial deletion of the second sex chromosome occurs in %  of all fetuses.  of these fetuses, % will spontaneously abort and result in miscarriage": [],
+        "risk factors": [
+            "Family history of chromosome translocations involving the X chromosome(1)",
+            "No association between TS and advanced maternal age(4)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "When was the patient diagnosed with TS? -Review history and physical from the patient\u2019s pediatrician or primary care physicianFor pediatric patients -Was the child a quiet or vocal infant? -Did the child coo, babble, or imitate sounds as an infant? -At what age did these behaviors begin? -When did the child say his or her first word? -At what age did the child begin to name objects or people? -At what age did the child start to put words together (e.g., \u201cDaddy up\u201d)? -Were the child\u2019s first words easy or difficult to understand? -Currently, what specific sounds does the child make? -Which sounds or words are hard to understand?For pediatric patients -Did the child\u2019s mother have any illnesses, accidents, or complications while pregnant with the child? -Did the mother take any medications during the pregnancy? -What was the length of the pregnancy with the child? -What was the duration of the delivery? -What was the child\u2019s weight at birth? -Were there any complications or unusual circumstances during birth or shortly after? -What were the Apgar scores?",
+                "course of treatment": {
+                    "medical management": "Multiple specialists are typically involved in the medical management of patients with TS.(34) Specialists must communicate with each other to ensure medical treatments are not contraindicated or redundant(2) Surgery to remove gonads is recommended in TS patients with an X/XY mosaicism (a condition in which cells within the same individual have a different genetic makeup) to prevent complications(1)",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken? Androgen replacement therapy(8) A study conducted in the United States with a randomized, double-blind,  placebo-controlled design, noted significant improvements in working memory skills of patients with TS on androgen replacement therapy(7) Calcium supplement(4) Estrogen replacement therapy (ERT)(2,6,30) Can begin in early adolescence (ages 1214 years)(1,2,6) The goal of ERT is to initiate and normalize the pace of puberty(1,30) Other benefits of ERT appear to include improved bone mass, as well as optimization of cognitive and motor function(1,6) Recombinant growth hormone (GH) therapy(1,4,5,6) Typically initiated when the patient\u2019s height is outside of2 standard deviations below the norm OR by 8 years of age;(1) however. The optimal age for GH treatment as well as its appropriate duration in patients with TS is debated among medical professionals and in medical literature.(27) Per Clinical Guidelines developed at the 2016 Cincinnati International Turner Syndrome Meeting and endorsed by the American Academy of Pediatrics, recommendation is the early initiation of GH, by ages 4  6 years, if the child exhibits a growth failure or is already considerably short for her age(36,37) Use of GH might increase the risk of otitis media and joint disorders(6) Can be given in combination with androgen replacement(5,6) Multiple studies have found that the combination of androgen replacement therapy and GH replacement therapy will lower the frequency of the voice in patients with TS  In a cross-sectional  study conducted in Sweden of 117 women with TS who were controlled for karyotype and age, researchers found that androgen and GH replacement therapies normalized a highpitched  voice in these patients(8) In a multicenter, randomized, placebo-controlled,  double-blind  study conducted in the Netherlands including girls with TS aged 812  years, researchers found that the addition of oxandrolone (a synthetic derivative of testosterone) to a treatment regimen of GH lowered the frequency of the voice in girls with TS into the normal range(9) The voice frequency was lowered in a dose-dependent  manner; hence, if the resulting vocal pitch was found to be abnormally low, the dose of oxandrolone was reduced(9)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Per Clinical Guidelines developed at the 2016 Cincinnati International Turner Syndrome Meeting and endorsed by the American Academy of Pediatrics, clinicians should consider the TS diagnosis in phenotypic females with a karyotype having one X chromosome and complete or partial absence of the second sex chromosome who display at least one clinical feature of TS. Additionally, genetic testing for TS should be performed in females who exhibit the typical signs of TS(36,37)",
+                        "Diagnosis of TS is confirmed by molecular DNA testing(2)",
+                        "Giemsa banding staining technique(2)",
+                        "TS may be discovered during chorionic villus sampling (CVS) or amniocentesis which is performed for another reason (i.e., advanced maternal age)",
+                        "Early diagnosis and medical intervention improves functional outcomes for girls with TS(3,4)",
+                        "Cardiac evaluation: cardiac complications are common in patients with TS(1,2,34)",
+                        "Blood pressure(1)",
+                        "Echocardiogram(4)",
+                        "Electrocardiogram (EKG/ECG)(1,2)",
+                        "Endocrine evaluation(2,4)",
+                        "Due to the lack of the second sex chromosome, patients with TS may have hormonal deficits(2)",
+                        "Thyroid function testing(1)",
+                        "Neurological evaluation",
+                        "MRI/CT scan of the brain(2)",
+                        "Neuropsychological evaluation(2)",
+                        "To be completed by a qualified psychiatrist or neuropsychologist",
+                        "Might include IQ testing (Stanford-Binet; Wechsler Intelligence Scale for Children: revised edition [WISC-R])",
+                        "Tests for learning disabilities(2)",
+                        "Girls with TS typically present with normal global intelligence",
+                        "Verbal intelligence is generally strong in patients with TS(9)",
+                        "Renal ultrasound(1,2)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help or not",
+                    "previous therapy": "Document whether the patient has had speech, occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Are there certain times of day that the patient\u2019s speech is better or worse? -Does the patient speak more clearly with certain people or teachers? -Are there specific situations in which the patient\u2019s speech is more or less understandable? -Highly social situations can increase social anxiety behaviors in TS patients(10)",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "Document other symptoms patient is experiencing which could exacerbate the condition and/or symptoms that could be indicative of a need to refer to the physician",
+                "respiratory status": "Does the patient require supplemental oxygen? Nasal cannula? Does the patient have a tracheostomy tube? Does the patient require ventilator support?Document any history of psychosocial disturbance  -Patients with TS are at elevated risk for depression and emotional disorders due to their chronic medical problems, social isolation, and physical differences(4,6)Document hearing abilities, including presence and severity of hearing loss as well as the use of hearing aids -Prevalence of hearing loss in women with TS appears greater than in that of the general population(11,12,13) -In a study conducted in Brazil with 52 patients with TS, researchers found that those patients with a 45,X karyotype and isochromosomes with loss of the p-arm  of the X chromosome had a higher risk of developing hearing loss than patients with mosaicism(25) -Cholesteatoma (an abnormal skin growth within the middle ear) occurs with higher frequency in patients with TS compared to the general population. Cholesteatoma can cause conductive hearing loss and when left untreated can result in serious medical complications (e.g., brain abscess, meningitis)(29)Document history of ear infections in all patients with TS.(1) Children with chronic middle ear infections have increased risk for speech and language delays.(14)Per Clinical Guidelines developed at the 2016 Cincinnati International Turner Syndrome Meeting and endorsed by the American Academy of Pediatrics, ear infections should be treated aggressively in children with TS using antibiotics and placement of myringotomy tubes if necessary.(36,37) -How long did the ear infections last? -How frequently did the child have ear infections? -Does the child presently have an ear infection? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Family history of same/similar diagnosis Is there a family history of TS? Is there a family history of any genetic or congenital disorders?",
+                    "comorbid diagnoses": "Ask patient or parent/caregiver about other problems including frequent otitis media, hearing impairment, diabetes, emotional disorders, depression, and orthopedic disorders Common comorbidities include frequent otitis media (ear infections),(1) hearing impairment,(11,12,13) cardiovascular anomalies,(1) ADHD,(4,6) renal abnormalities,(1,3,5) autoimmune diseases,(31) hypertension,(1,5) glucose intolerance,(1,3) hyperlipidemia,(1) and hypothyroidism(1,3) Although pregnancy is possible through in vitro technology (via egg donation) for a greater percentage of patients with TS, there is a high risk of maternal mortality due to cardiac complications(1,28) Pregnant TS patients must be monitored very closely throughout the pregnancy due to cardiac complication risk(1,28) Although extremely rare, spontaneous pregnancy (without egg donation) has been documented in patients with TS(26,28)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs) Medications might have been prescribed for comorbid conditions such as cardiac issues, renal problems, thyroid deficiencies, or diabetes(3)",
+                    "other symptoms": "Ask the patient or family/caregiver about other symptoms patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": " Vocation/avocation and associated repetitive behaviors, if any -What interests, hobbies, or other activities does the pediatric patient have? -What type of interests, hobbies, employment, or other activities does the adult patient have?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -Does the patient use a walker, wheelchair, and leg braces? -Does the patient have a hearing loss? Does the patient require/wear hearing aids or have cochlear implants? -Does the patient require/wear glasses? -Does the patient use an assistive or augmentative communication device?",
+                "living environment": "With whom does the patient live (e.g., caregivers, family members)? -Identify if there are barriers to independence in the home and any modifications are necessary? -Is the patient exposed to any other languages at home or school? -What percentage of time is each language spoken around/to the patient?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "Patients with TS sometimes have speech and/or language disorders. Speech and language deficits are common in girls with TS; however, the deficits are often subtle and therefore can remain undiagnosed.(22) A full speech/language evaluation to include standardized tests of speech and language may be performed at the discretion of an SLP \u2013A survey (given to patients or their parents) of 128 Belgian females with TS ranging in age from 2.4 to 58.8 years revealed that 24% of the patients were receiving or had received speech/language treatment for at least one of the -Articulation disorders(15) -Delayed language development(15) -Stuttering(15)Assess speech production and intelligibility with formal and informal measures of articulation -For detailed information on assessment and treatment of children with articulation disorders, see Clinical Review\u2026Articulation Disorders, Functional ; CINAHL Topic ID NumberArticulation Disorders, Organic ; CINAHL Topic ID Number  \u2013Language -In a research study conducted in Mexico that compared 15 girls with TS to 15 healthy controls, researchers demonstrated that girls with TS had more difficulty in complex syntactic comprehension compared to healthy controls(10) -The researchers also concluded that the subjects with TS had more impulsivity when compared to typically developing peers(19) -In a research study conducted in the United Kingdom comparing 19 girls with TS to 20 healthy controls, researchers demonstrated a statistically significant difference in the oral fluency skills of girls with TS as compared to typically developing females(23) -Oral fluency was assessed over 3 trials by asking participants to say as many words as they could think of in 60 seconds that began with the letter \u201cf,\u201d then \u201ca,\u201d then \u201cs\u201d(23) -Total words generated by patients with TS was 23.00 vs 34.95 for healthy group(23) -Oral fluency can also be informally assessed by asking the patient to say as many animal names as he or she can think of in 60 secondsA connected speech sample is an appropriate assessment tool for patients with TS. Speech samples are obtained during an evaluation session by using a conversational or play format. Researchers have used wordless picture books to assist patients in generating connected speech. It is best to video or audiotape the sample so that it may be analyzed at a later time(23)can be used as a gross measure of syntactic development(23) -An utterance is a unit of speech surrounded by silence; may also use intonation contours as a guide to determine what constitutes an utterance -Ratio for MLU is calculated by dividing total number of words by the number of utterancesTo be determined by the evaluating SLP; tests utilized in research with TS patients include(23) standardized test of confrontation-naming ability(23) normed for persons aged 2\u00bd\u201390 years old; standardized test for receptive vocabulary -V ocabulary skills appear to be a strength for girls with TS(22)Briefly assess vocal function, including vocal quality, loudness, pitch, and endurance; if there are specific concerns regarding voice, refer to an otolaryngologist for a complete workup to rule out laryngeal pathologies before completing a full evaluation -Girls with TS might experience voice changes as a result of hormone therapy(15)Patients with TS sometimes have fluency disturbances.(9,15)For detailed information on disorders of fluency, see the series of the Clinical Reviews on this topicWhen developmentally appropriate, include a brief assessment of reading ability in the evaluation. In the school setting, the special education teacher or reading specialist will most like be responsible for the direct teaching of reading and writing skills. However, the SLP might play a support role in assessing and treating the child for reading difficulties",
+            "neurological examination": "",
+            "oral structure and oral motor function": "An oral mechanism examination should be completed with all TS patients.(15,24)Is the face symmetrical at rest? Is the face symmetrical while making movements (smiling, raising the eyebrows, closing the eyes)? Are there any abnormal movements (twitching, spasms, grimacing)? Is the patient drooling or mouth breathing?Are the lips symmetrical at rest? Are the lips symmetrical during movements? Is ROM normal? Is the strength normal? Is the lip tissue healthy? Is there any scarring or cleft?Is the tongue normal in appearance? Any atrophy? Any discolorations? Any bleeding? Is the range of motion normal? Is the strength normal?Is the hard palate intact? Any signs of fistulas, fissures, scarring? Are the height and width normal? Any prostheses present? Is the coloration normal? -Girls with TS often present with a high-arched palate(5) \u2013Soft palate -Is the coloration normal (should be pink and white)?  -Any signs of cleft or bifid uvula? Does the patient sound hyper-  or hyponasal during conversational speech? -Place a small mirror under the patient\u2019s nose during production of nonnasal sounds; if fogging or clouding occur this might indicate nasal emission, which would indicate the need for a referral to the otolaryngologistAre there any missing teeth? Are the teeth in good repair? Does the patient wear braces or retainers? Is there a significant overbite or underbite? Common differences related to the teeth in patients with TS include micrognathia (abnormally small jaw) and retrognathic maxilla and mandible (abnormal posterior positioning of the facial and jaw bones)(1,4,33)",
+            "perception": "",
+            "arousal attention cognition": "Patients with TS often present with impaired executive functioning, resulting in impaired attention, concentration, problem-solving  skills, organization, visuospatial working memory, and impulsivity(4,6,19,20,21,22) \u2013Some studies suggest that, in girls with TS, cognitive impairments are exacerbated by estrogen deficiency(6) \u2013Refer to neuropsychological testing for more information regarding patient-specific  cognitive-linguistic  strengths and weaknesses",
+            "aac assessment": "",
+            "swallow examination": "Assess swallowing as indicated \u2013Infants with TS might present with suck/swallow deficits and feeding or swallowing problems.(4) If the caregiver reports symptoms of dysphagia, a bedside (or \u201cchairside\u201d) swallowing evaluation may be performed by the SLP initially; however, may require a modified barium swallow study as per the therapist\u2019s discretion. Infant feeding and disorders of infant and child swallowing are specialized areas of speech pathology. Referral should be made to an SLP, outpatient clinic, or hospital that specializes in infant feeding problems. (For additional information on assessment and treatment of dysphagia, see the series of Clinical Reviews on this topic)",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below. Rehabilitation professionals should always use their professional judgment",
+                "Patients with TS may be at risk for falls due to impaired gait; follow facility protocols for fall prevention and post fall prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall prevention strategies. Discharge criteria should include independence with fall prevention strategies",
+                "Patients with this diagnosis might be at risk for dysphagia; follow recommended protocols for swallowing safety and post feeding instructions at the bedside, if inpatient. Ensure that the patient and family/caregivers are aware of the potential for dysphagia and educated about safe feeding strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Speech therapy for patients with TS can focus on speech, language, and/or cognitive-linguistic  and/or feeding/swallowing deficits as determined following a thorough evaluation by a licensed and certified SLP. Speech therapy should be one aspect of a multidisciplinary approach to treating an individual with TS Per Clinical Guidelines developed at the 2016 Cincinnati International Turner Syndrome Meeting and endorsed by the American Academy of Pediatrics, children with TS should be referred for physical, occupational, and speech therapy as early as possible and upon the start of formal education if developmental delays are observed due to the increased risk for motor and communication impairment(36,37)",
+        "rule out": "To provide the best possible treatment, the patient\u2019s medical team will attempt to rule out the following diagnoses before making a diagnosis of TS: GH deficiency(1) Klippel-Feil  anomaly(1) L\u00e9ri-Weill  syndrome(1) Multiple pterygium syndrome(1) Noonan syndrome(1) Polycystic ovary syndrome (PCOS)(1) Pseudo hypoparathyroid syndrome(1)",
+        "prognosis": [
+            "One to two percent of women will spontaneously conceive(1,4) \u2013In vitro fertilization and other infertility treatments might be available to allow women with TS to reproduce(1)"
+        ],
+        "referral to other disciplines": "The following referrals might be appropriate for patients with TS Refer to physical and occupational therapy if the patient has reduced mobility or difficulty with ADLs  Refer to a neurologist if the patient has not already undergone neurological and/or neuropsychological examination Refer to an ophthalmologist if vision problems are noted or reported by the patient during the examination(3) Refer to an audiologistand/or otolaryngologist if the patient fails hearing screening and/or appears to have difficulty hearing during the evaluation(11) \u2013Girls with TS are at an increased risk of both conductive and sensorineural hearing loss when compared to the general population(13) Refer to learning disabilities specialist if parents of a child with TS report difficulty in school subjects(1) Due to the unique challenges of caring for a daughter with TS, parents sometimes have difficulty coping with stress resulting in depression and/or anxiety \u2013Referral to a psychiatrist, psychologist, or family counseling might be appropriate if patient and/or the patient\u2019s parents describe difficulty coping with stress, hopeless thoughts, and/or depression(6)",
+        "other considerations": [],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {
+        "improved articulation increased speech intelligibility": [
+            "Formal and informal measures of articulation"
+        ],
+        "improved receptive and expressive language skills": [
+            "Formal and informal measures of language abilities",
+            "MLU"
+        ],
+        "improved executive functioning skills": [],
+        "improved fluency of speech": [],
+        "improved pragmatic skills": [],
+        "improved swallowing skills": [
+            "Swallow examination"
+        ],
+        "the progress of school-aged  children with ieps will be measured quarterly to yearly using goals set by the iep team": []
+    },
+    "maintenance or prevention": [
+        "There is no way to prevent TS",
+        "Early diagnosis and medical/hormonal intervention improves functional outcomes for girls with TS(3,4)",
+        "Patients with TS should have cardiac evaluations every 3 to 4 years because of the increased risk of cardiovascular abnormalities(5)"
+    ],
+    "patient education": [
+        "Information, education, research, and other resources available online at the Turner Syndrome Society of the United States, https://www.turnersyndrome.org/",
+        "The Magic Foundation, a support group for families of children with GH deficiencies, (Major Aspects of Growth In Children [MAGIC]), https://www.magicfoundation.org/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Goldstein R, Roberts M. Turner syndrome. In: Domino FJ, Baldor RA, Golding J, Grimes JA, eds. The 5-Minute Clinical Consult Standard 2015 . 23rd ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Wilkins; 2015:1224-1225.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Andolina LM, Alvero R. Turner's syndrome. In: Ferri FF, ed. 2018 Ferri's Clinical Advisor: 5 Books in 1 . Philadelphia, PA: Mosby Elsevier; 2018:1312. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Ardary DA. Increasing school nurse awareness of Turner syndrome. J Sch Nurs . 2007;23(1):28-33.  (C)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Tyler C, Edman JC. Down syndrome, Turner syndrome, and Klinefelter syndrome: primary care throughout the life span. Prim Care . 2004;31(3):627-648,  x-xi. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Fitzgerald PA. Endocrine disorders. In: McPhee SJ, Papadakis MA, Rabow MW, eds. Current Medical Diagnosis & Treatment 2018 . 57th ed. New York, NY: McGraw-Hill Medical; 2018:1218-1221.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kesler SR. Turner syndrome. Child Adolesc Psychiatr Clin N Am . 2007;16(3):709-722.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Ross JL, Roeltgen D, Stefanatos GA. Androgen-responsive  aspects of cognition in girls with Turner syndrome. J Clin Endocrinol Metab . 2003;88(1):292-296.  (RCT)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Andersson-Wallgren  G, Ohlsson AC, Albertsson-Wikland  K, Barren\u00e4s ML. Growth promoting treatment normalizes speech frequency in Turner syndrome. Laryngoscope . 2008;118(6):1125-1130.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Menke LA, Sas TC, van Koningsbrugge SH. The effect of oxandrolone on voice frequency in growth hormone-treated  girls with Turner syndrome. J Voice. 2011;25(5):602-610. (RCT)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Lesniak-Karpiak  K, Mazzocco MM, Ross JL. Behavioral assessment of social anxiety in females with Turner or fragile X syndrome. J Autism Dev Disord . 2003;33(1):55-67.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Hederstierna C, Hultcrantz M, Rosenhall U. Estrogen and hearing from a clinical point of view; characteristics of auditory function in women with Turner syndrome. Hear Res . 2009;252(1-2):3-8.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "King KA, Makishima T, Zalewski CK. Analysis of auditory phenotype and karyotype in 200 females with Turner syndrome. Ear Hear. 2007;28(6):831-841.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Roush J, Davenport ML, Carlson-Smith  C. Early-onset  sensorineural hearing loss in a child with Turner syndrome. J Am Acad Audiol . 2000;11(8):446-453.  (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Zargi M, Boltezar IH. Effects of recurrent otitis media in infancy on auditory perception and speech. Am J Otolaryngol . 1992;13(6):366-372.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Van Borsel J, Dhooge I, Verhoye K, Derde K, Curfs L. Communication problems in Turner syndrome: a sample survey. J Commun Disord . 1999;32(6):435-444.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Murphy MM, Mazzocco MM. Mathematics learning disabilities in girls with fragile X or Turner syndrome during late elementary school. J Learn Disabil . 2008;41(1):29-46.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Erg\u00fcr AT, Ocal G, Berberoglu M. Paternal X could relate to arithmetic function; study of cognitive function and parental origin of X chromosome in Turner syndrome. Pediatr Int . 2008;50(2):172-174.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Skuse DH, Morris JS, Dolan RJ. Functional dissociation of amygdala-modulated  arousal and cognitive appraisal, in Turner syndrome. Brain. 2005;128(pt 9):2084-2096.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Inozemtseva O, Matute E, Zarabozo D, Ram\u00edrez-Due\u00f1as  L. Syntactic processing in Turner's syndrome. J Child Neurol . 2002;17(9):668-672.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Cornoldi C, Marconi F, Vecchi T. Visuospatial working memory in Turner's syndrome. Brain Cogn . 2001;46(1-2):90-94.  (C) "
+        },
+        {
+            "number in article": 21,
+            "reference": "Hart SJ, Davenport ML, Hooper SR, Belger A. Visuospatial executive function in Turner syndrome: functional MRI and neurocognitive findings. Brain. 2006;129(pt 5):1125-1136.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Murphy MM. Language and literacy in Turner syndrome. Top Lang Disord . 2009;29(2):187-194.  (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Temple CM. Oral fluency and narrative production in children with Turner's syndrome. Neuropsychologia . 2002;40(8):1419-1427.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Skahan SM, Watson M, Lof GL. Speech-language  pathologists' assessment practices for children with suspected speech sound disorders: results of a national survey. Am J Speech Lang Pathol . 2007;16(3):246-259.  (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Oliveira CS, Ribeiro FM, Lago R, Alves C. Audiological abnormalities in patients with Turner syndrome. Am J Audiol . 2013;22(2):226-232. doi:10.1044/1059-0889(2013/11-0027).  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Cabanes L, Chalas C, Christin-Maitre  S, et al. Turner syndrome and pregnancy: clinical practice. Recommendations for the management of patients with Turner syndrome before and during pregnancy. Eur J Obstet Gynecol Reprod Biol . 2010;152(1):18-24.  doi:10.1016/j.ejogrb.2010.05.019. (RV)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Castelo-Branco  C. Management of Turner syndrome in adult life and beyond. Maturitas. 2014;79(4):471-475.  doi:10.1016/j.maturitas.2014.08.011. (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Levitsky LL, Luria AH, Hayes FJ, Lin AE. Turner syndrome: update on biology and management across the life span. Curr Opin Endocrinol Diabetes Obes . February 2015;22(1):65-72.  doi:10.1097/MED.0000000000000128. (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Lim DB, Gault EJ, Kubba H, Morrissey MS, Wynne DM, Donaldson MD. Cholesteatoma has a high prevalence in Turner syndrome, highlighting the need for earlier diagnosis and the potential benefits of otoscopy training for paediatricians. Acta Paediatr . 2014;103(7):e282-e287.  doi:10.1111/apa.12622. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Quigley CA, Wan X, Garg S, Kowal K, Cutler GB, Jr, Ross JL. Effects of low-dose estrogen replacement during childhood on pubertal development and gonadotropin concentrations in patients with Turner syndrome: Results of a randomized, double-blind,  placebo-controlled  clinical trial. J Clin Endocrinol Metab . 2014;99(9):E1754-1764. doi:10.1210/jc.2013-4518.   (RCT)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Goldacre MJ, Seminog OO. Turner syndrome and autoimmune diseases: record-linkage  study. Arch Dis Child . 2014;99(1):71-73.  doi:10.1136/archdischild-2013-304617.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Lawson SA, Urbina EM, Gutmark-Little  I, Khoury PR, Gao Z, Backeljauw PF. Vasculopathy in the young Turner syndrome population. J Clin Endocrinol Metab . 2014;99(10):E2039-2045.  doi:10.1210/jc.2014-1140.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Svanberg C, Norevall LI, Ekman B, Wahlberg J, B\u00e5gesund M. Cephalometric analysis of adults with Turner syndrome. Swed Dent J . 2016;40(1):33-41.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Mason A, Smyth A, Wong SC. Cardiovascular assessment in girls and women with Turner syndrome: a survey of current practice in the UK. Arch Dis Child . March 2016;101(3):294-5.  doi:10.1136/archdischild-2015-310106.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Baker JM, Reiss AL. A meta-analysis  of math performance in Turner syndrome. Dev Med Child Neurol . February 2016;58(2):123-30.  doi:10.1111/dmcn.12961. (M)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Gravholt CH, Andersen NH, Conway GS, et al. Clinical practice guidelines for the care of girls and women with Turner syndrome: proceedings from the 2016 Cincinnati International Turner Syndrome Meeting. Eur J Endocrinol . 2017;177(3):G1-G170.  (G)"
+        },
+        {
+            "number in article": 37,
+            "reference": "American Academy of Pediatrics. Clinical Practice Guidelines for the Care of Girls and Women With Turner Syndrome. Pediatrics . 2017;140(5):e2072626. doi:10.1542/peds.2017-2626.  (G)"
+        }
+    ]
+}

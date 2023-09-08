@@ -1,0 +1,473 @@
+{
+    "metadata": {
+        "title": "Depression  Occupational Therapy (Adults)",
+        "synonyms": [
+            "occupational therapy (adults)  depression",
+            "unipolar depression  occupational therapy (adults)",
+            "unipolar mood disorder: occupational therapy (adults)",
+            "mood disorder, unipolar: occupational therapy (adults)"
+        ],
+        "anatomical location body part affected": [
+            "Symptoms are emotional, psychological, cognitive, and physical; the entire individual is affected by depression"
+        ],
+        "area of specialty": [
+            "acute care",
+            "home health"
+        ],
+        "description": [
+            "Depression is a common psychological condition, affecting up to 30% of primary care patients.(1) Depression is a primary mood disorder.(3) Diagnosis of depression is made when the symptoms (e.g., difficulty with concentration, fatigue, feelings of guilt or helplessness, loss of interest in once-pleasurable  activities, persistent sadness or anxiety, suicidal ideation or attempts) are present every day during a 2-week period and contribute to a change from prior level of functioning.(4)",
+            "There are four major classifications of depression/depressive disorders(1) \u2013Adjustment disorder with depressed mood(1) -Depression occurring in reaction to some identifiable stress or difficult life situation (e.g., divorce, loss of job, death of a loved one) -Onset of this type of depression occurs within 3 months of the incident or event; the depression causes significant decline in social and/or occupational functioning \u2013Depressive disorders -Major depressive disorder (MDD)(1) -Involves at least one episode of serious mood depression that occurs at any time of life(1) -Symptoms will vary significantly across patients; however, common complaints include loss of interest and/or pleasure (anhedonia), withdrawal from activities, and feelings of guilt(1,3) -Subcategories include MDD with atypical features; major depression with seasonal onset (seasonal affective disorder [SAD]); and major depression with postpartum onset (usually occurs within 2 weeks to 6 months postpartum)(1) -Dysthymia(1) -Chronic depressive disturbance -Symptoms include sadness, loss of interest in and withdrawal from activities over a period of 2 or more years with a relatively persistent course -Symptoms are milder but longer lasting than in MDD(1) -Premenstrual dysphoric disorder(1) -Depressive symptoms occur during the late luteal phase (last 2 weeks) of the patient\u2019s menstrual cycle \u2013Bipolar disorder -Depressive disorder that consists of episodic mood shifts between mania, major depression, hypomania, and mixed mood states(1) -Bipolar I \u2013 both depressive and manic episodes  -Bipolar II \u2013 depressive and hypomanic episodes, but without mania -Bipolar III \u2013 person experiences mania when treated with antidepressants -High rate of substance abuse comorbidity(1) -Mania(1) -Mania is characterized by an episode of mood state involving elation, hyperactivity, over-involvement  in activities, increased irritability, flight of ideas, easy distractibility, and minimal sleep(1) -Spring and summer are the peak periods of mania(1) -Manic episodes typically are shorter than depressive episodes(1) -The patient with bipolar disorder often has difficulty maintaining relationships due to the volatility of his or her mood(1) -Patients with four or more discrete episodes of mood disturbance in 1 year are referred to as \u201crapid cyclers\u201d(1) -Cyclothymic disorders(1) -Chronic mood disturbances with episodes of depression and hypomania(1) -Symptoms last at least 2 years and are milder than those occurring in depressive and manic episodes(1) -Symptoms may escalate to full manic and depressive episodes(1) \u2013Depressive disorders secondary to illness and drugs(1) -Any type of illness, ranging from mild to severe, can cause significant depression -Drug-induced  depression has been documented with use of antihypertensive medications, corticosteroids, and oral contraceptives, as well as alcohol, sedatives, opiates, and psychedelic drugs"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "F32": {
+                "base": "depressive episode",
+                "F32.0": "mild depressive episode",
+                "F32.1": "moderate depressive episode",
+                "F32.2": "severe depressive episode without psychotic symptoms",
+                "F32.3": "severe depressive episode with psychotic symptoms",
+                "F32.8": "other depressive episodes",
+                "F32.9": "depressive episode, unspecified"
+            },
+            "F33": {
+                "base": "recurrent depressive disorder",
+                "F33.0": "recurrent depressive disorder, current episode mild",
+                "F33.1": "recurrent depressive disorder, current episode moderate",
+                "F33.2": "recurrent depressive disorder, current episode severe without psychotic symptoms",
+                "F33.3": "recurrent depressive disorder, current episode severe with psychotic symptoms",
+                "F33.4": "recurrent depressive disorder, currently in remission",
+                "F33.8": "other recurrent depressive disorders",
+                "F33.9": "recurrent depressive disorder, unspecified"
+            },
+            "F31": {
+                "base": "bipolar affective disorder",
+                "F31.3": "bipolar affective disorder, current episode mild or moderate depression",
+                "F31.4": "bipolar affective disorder, current episode severe depression without psychotic symptoms",
+                "F31.5": "bipolar affective disorder, current episode severe depression with psychotic symptoms",
+                "F31.6": "bipolar affective disorder, current episode mixed",
+                "F31.7": "bipolar affective disorder, currently in remission"
+            },
+            "F34.1": "dysthymia",
+            "F38": {
+                "base": "other mood (affective) disorders",
+                "F38.0": "other single mood (affective) disorders",
+                "F38.1": "other recurrent mood (affective) disorders",
+                "F38.8": "other specified mood (affective) disorders"
+            },
+            "F39": "unspecified mood (affective) disorder",
+            "F51.0": "nonorganic insomnia",
+            "F51.1": "nonorganic hypersomnia (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "The following symptoms can be present in patients with depression",
+            "Anorexia with unintentional weight loss(1,3,4) \u2013Some patients with depression have significant weight gain, although this is not as common(2,3)",
+            "Anxiety(1)",
+            "Cognitive dysfunction: especially impairment of thought processing, including inability to concentrate, rumination, and indecisiveness(1,3)",
+            "Crying spells(2)",
+            "Irritability(2,3)",
+            "Loss of interest in previously pleasurable activities, marked by a lack of involvement in work and recreational activities(1,3)",
+            "Mood ranges from mild unhappiness to extreme feelings of guilt, worthlessness, and hopelessness(1,2,3,4)",
+            "Constant negative or pessimistic thinking(2,3)",
+            "Physical symptoms such as headaches; disrupted, diminished, or excessive sleep; loss of energy and/or chronic fatigue; change in appetite; decreased sex drive; constipation(1,2,3,4)",
+            "Severe depression can result in the following symptoms: \u2013Delusions of a hypochondriacal or persecutory nature(1,2) \u2013Psychomotor retardation or agitation(1,3) \u2013Severe agitation with psychotic ideation(1) \u2013Somatic symptoms with major severity(1) \u2013Recurrent thoughts of death and/or suicide(1,2,3,4) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "It is important that the occupational therapist (OT) develop a trusting and respectful relationship with the patient to help increase the patient\u2019s motivation for therapy; when listening to the patient discuss his or her medical history as well as his or her thoughts and beliefs about depression, the OT must fully attend and not dismiss the patient\u2019s feelings because of the underlying depression.(7) Patients with depression may provoke irritation and frustration versus sympathy from clinicians and caregivers(1)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: depression is caused by impaired synthesis or increased metabolism of neurotransmitters  primarily serotonin and norepinephrine .   although the exact etiology of depression is unknown, genetic and environmental factors as well as": [],
+        "pathogenesis": [
+            "Outward symptoms of depression result from changes in the receptor-neurotransmitter relationship in the limbic system(3)\u2013Serotonin and norepinephrine are the primary neurotransmitters involved in depression; dopamine, acetylcholine, andy-aminobutyric  acid (GABA) have also been documented to be involved in depression(3)\u2013As an action potential is passed on, the neurotransmitter is(3)-either reabsorbed into the neuron, where it is either destroyed by an enzyme or its activity is removed by a reuptakepump and stored until needed, OR-destroyed by monoamine oxidase (MAO) in the mitochondria\u2013Symptoms are related to decreased levels of norepinephrine (dullness and lethargy) and serotonin (irritability, hostility,and suicidal ideation)(3)"
+        ],
+        "risk factors": [
+            "Age\u2013Onset is usually between 15 and 30 years of age; earlier for women than men(1,3)\u2013Common among older adults (age 65+)(3,6)",
+            "Domestic abuse or violence(3)",
+            "Sex (females are at higher risk, with a 2:1 ratio)(3,4)",
+            "Hearing loss, especially in women and when the loss is moderate in severity(36)",
+            "Visual impairment(38)",
+            "History of behavioral disorders(3)",
+            "Peptic ulcer disease(3)",
+            "Postpartum women(6)",
+            "Personal history of depression(6)",
+            "Presence of chronic illness(s)(3,6)\u2013Diabetes(39)",
+            "Recent myocardial infarction/stroke(3,6)",
+            "Single, divorced, or unhappily married(3)",
+            "Strong family history of psychological conditions (including depression, bipolar disorder, suicide, alcohol use disorder[AUD], other substance abuse)(3,6)",
+            "Stress (e.g., losses, unemployment)(1,3)",
+            "Substance abuse and dependence(3)",
+            "Frailty in older adults(23)",
+            "Blood cadmium levels\u2013The findings of a cross-sectional  study of 2,892 U.S. adults (20\u201339  years old) showed that increased levels of bloodcadmium, regardless of smoking status, was associated with the presence of depressive symptoms(40)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The most significant complication in patients with depression is suicide; all verbal expressions of suicidal threat or intent should be taken seriously(1,2) A group at especially high risk for suicide is patients with severe depression or psychotic illness with comorbid medical illness(1) Although anxiety, panic, and fear are commonly associated with suicidal behavior, a patient may seem to make dramatic improvements immediately prior to a suicide attempt, because the decision to commit suicide has lifted his or her depression(1) Risk factors for suicide include use of alcohol, hopelessness, delusional thoughts, complete (or nearly complete) loss of interest in activities, a previous suicide attempt, family history of suicide, medical or psychiatric illness, male sex, older age, contemplation of violent methods and/or access to firearms, history of childhood abuse, unemployment, panic attacks, a humiliating social stress, and substance abuse(1,2) If a patient presents with risk factors for suicide or describes suicidal thoughts, immediately contact the patient\u2019s psychiatric professional (psychologist or psychiatrist) for evaluation; inpatient psychiatric treatment may be indicated(1)",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/Plan"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Review medical history, including date of diagnosis, presenting symptoms, psychological and/or neuropsychological tests and reports, drug regimen, history of drug or alcohol abuse, suicide attempt(s), and medical, behavioral, and social management of depression to date",
+                "course of treatment": {
+                    "medical management": "Medical management of depression will vary significantly(1) Patients with depression often present with physical complaints such as headache or chronic fatigue followed by a negative medical workup prior to the diagnosis of depression(1)  Psychotherapy combined with pharmacological intervention is often the most effective treatment for depression(3) Drug therapy for depression might not be indicated for patients with mild symptoms or for patients with depression associated with adjustment disorder(1) These patients are often managed with psychotherapy alone(1,2,3) Electroconvulsive therapy (ECT) causes a generalized CNS seizure(1,2,3) Often used in cases of refractory depression or for patients in whom antidepressant drugs are contraindicated (e.g., pregnancy)(1,6) Can be effective for all types of depression and is very effective for severe depression and for resolving manic episodes(1) Memory loss is a common side effect of ECT(1,2) Phototherapy(1) Used for patients with major depression with seasonal onset (SAD)(1) Involves exposure to a light source of 2,050 lux for 2 hours a day(1)",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken as prescribed? Does the patient feel that the medication(s) are effectively controlling his or her symptoms? Pharmacotherapy is often recommended for patients with significant symptoms of depression and for patients whose symptoms have lasted more than a few weeks(1) Also indicated for patients with a personal history of MDD or a family history of MDD in a first-degree  relative(1) It is not uncommon for a patient\u2019s physician to switch drugs several times throughout treatment for depression prior to finding a drug or combination of drugs that successfully manages the patient\u2019s symptoms(2) Medications prescribed for depression often have side effects; note the possible side effects when reviewing the patient\u2019s current medication list(3,6) Antidepressants SSRIs(1,3) Bupropion(1,3) Selective serotonin-norepinephrine  reuptake inhibitors (SSNRIs)(1) Mirtazapine(1) Duloxetine(3) Tricyclic antidepressants (TCAs)(1,3) Monoamine oxidase inhibitors (MAOIs)(1) Other drugs used in the treatment of depressive disorders Neuroleptics(1) Clonazepam(1) Lithium (prophylactic drug for bipolar disorder)(1) Valproic acid(1) Carbamazepine(1) Lamotrigine(1) Calcium channel blockers(1)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Diagnostic tests completed for patients with depression are usually intended to rule out other diagnoses as the underlying cause of symptoms(3)",
+                        "Diagnostic tests often include blood work, thyroid panel, ECG(3)",
+                        "Neuroimaging tests (CT scan, MRI) to rule out organic brain disease(3)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether they help  St. John\u2019s wort is an herbal supplement commonly taken for depression; however, randomized clinical trials have shown minimal to no benefit of St. John\u2019s wort when compared to placebo(2) Long-term  studies of St. John\u2019s wort have found that it has a profound effect on the liver and therefore impacts the way in which other drugs are metabolized(2) Ecotherapy, animal therapy, and water therapy have been utilized in research studies for treatment of depression(2) A study conducted through a psychiatric outpatient treatment center in the United States with 18 adult patients with depression found that shortterm  group art therapy was effective in reducing depressive symptoms in this group(8)",
+                    "previous therapy": "Document whether patient has had psychotherapy, occupational therapy, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Are there certain situations in which the patient has more difficulty or an exacerbation of symptoms? -Are there activities that seem to alleviate or lessen symptoms?",
+                "body chart": "",
+                "nature of symptoms": "Document nature of both physical symptoms (if present  constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling) and cognitive/emotional symptoms. Decreased energy, tiredness, and fatigue are commonly reported.(24)In patients with mild intellectual disability, questionnaires completed by both the patient (e.g., Self-reported  Depression Questionnaire [SRDQ]) and caregivers (e.g., Glasgow Depression ScaleCaregiver  Supplement [CGDS]) can provide useful information related to depressive symptoms(41)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if  pain   is present now and how much )",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": " Sleep disturbance -Insomnia, hypersomnia, and other disturbances of sleep are common in patients with depression(1,3) -Document number of awakenings/night, if occurring -Document sleep aids and frequency of use -Document amount of sleep the patient gets each night -Does the patient sleep during the day? If so, how many hours?",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician",
+                "respiratory status": "Note respiratory status as appropriate -Does the patient require supplemental oxygen? -Does the patient become short of breath? If so, when? Standing? Walking? With exercise? Are there any barriers to learning? Yes__ No__ -If Yes, describe  _________________________ -Many individuals with depression report impaired ability to think, concentrate, or make decisions(24)"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Does the patient have a previous history of depression or other mental illness or suicide attempt? Fifty percent of patients with a single episode will have a relapse of depression(3)",
+                    "comorbid diagnoses": "Depression often co-occurs  with a serious medical illness.(1,4) Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, other psychiatric disorders, and orthopedic disorders schizophrenia/schizoaffective disorders(3) anxiety disorders(3) psychophysiological disorders(3) AUD(3) heart disease and depression are common and frequently coexisting conditions in women(9)  Increased risk of heart disease in adult patients with MDD(10)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "What is the patient\u2019s occupation and role(s) within his or her family? How does the patient describe his/her role function? -Is he or she currently employed? If not, does the patient want to return to work? -Depression often co-occurs  with work-related  injuries; the presence of depression reduces the likelihood that the patient will return to work post injury(12) -What activities and hobbies did the patient enjoy prior to the onset of depression?(11) -It is important to determine what activities are/were important to the patient to motivate the patient to participate in therapy -A patient/caregiver interview may be helpful to gain insight into the patient\u2019s hobbies, family/community roles, interests, prior work status, and home responsibilities",
+                "functional limitations assistance with ADLs adaptive equipment": "What current assistive or adaptive equipment is available to the patient at home? Can it still be utilized based on patient\u2019s current level of functioning? -Document both high-  and low-tech  adaptations and equipment",
+                "living environment": "With whom does the patient live? Does the patient require caregivers or is the patient a caregiver?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Note BMI \u2013Patients with depression can have changes in appetite, resulting in either significant weight gain or loss; often results in a change of > 5% of body weight in a period of 1 month(3)",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for and/or use of assistive and adaptive devices \u2013Mobility aids \u2013Toileting and showering equipment \u2013ADL/IADL aids",
+            "balance": "Evaluate static and dynamic balance functionally during ADLs involving weight shifting as necessary using standardized assessments (e.g., Tinetti Balance Scale, Berg Balance Scale, functional reach test)",
+            "cardiorespiratory function and endurance": [
+                "Assess heart rate, blood pressure, and respiratory rate regularly pre/during/post activity; use Borg Rating of Perceived Exertion (RPE) Scale if indicated",
+                "Objective measure of endurance may be obtained using 6-minute  walk for distance test (6MWT) \u2022Ergonomics/body mechanics:  Complete ergonomics assessment as appropriate. Patients may complain of physical discomfort;(1) assessment may be appropriate in patients who complain of difficulty/discomfort in work environments \u2022Functional mobility  (including transfers, etc.): Assess as necessary based on patient presentation",
+                "Test static and dynamic activities",
+                "Timed Up & Go (TUG) test: a measurement of mobility; includes tasks such as standing from a seated position, walking, turning, stopping, and sitting down, all of which are important for independent mobility(15) ",
+                "FIM  an 18-item,  7-level  ordinal scale assessing functional mobility, ADLs, language skills, and cognition(16)"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "Observe patient\u2019s gait and ability to climb stairs (assisted or unassisted) \u2013Note use of orthoses or ambulatory aids for walking \u2013If the patient presents with impaired gait, referral to physical therapy may be appropriate \u2013Assess preferred walking speed using 10-meter  walk test (10MWT) -Slowed gait speed is strongly associated with depressive symptoms(25) -Decline in walking speed could result in stress, which may trigger a depressive disorder(25)Assess fine and gross motor function of the upper extremities; describe the quality of movement \u2013Psychomotor symptoms of depression can include agitation (e.g., inability to sit still, pacing, hand wringing) and slowed speech or body movements",
+            "muscle strength": "Assess muscle strength \u2013Manual muscle testing (MMT) to evaluate strength in both upper extremities, including the shoulder, elbow, forearm, wrist, and fingers; do not perform MMT with contracted muscles or muscles with tone and coordination issues \u2013Dynamometer to evaluate hand strength bilaterally \u2013Assess grip force in functional tasks \u2013Assess pinch strength",
+            "observation inspection palpation including skin assessment": [
+                "Ocular motor screening includes tracking through all planes, visual accommodation, and clarity of vision",
+                "Document complaints of double vision, optic pain, or visual field cuts",
+                "Document use of eye patching",
+                "Recommend referral to ophthalmology or neuro-ophthalmology  is appropriate if symptoms of visual disturbances are noted during evaluation -For additional information on assessment and treatment of patients with visual impairments, see  Clinical Review\u2026 Visual Dysfunction: Occupational Therapy  ; CINAHL Topic ID Number: T708963"
+            ],
+            "posture": "Poor posture can impact the ability of the patient to complete many occupational tasks such as feeding, dressing, oral care, transfers, and meal preparation \u2013Document static/dynamic posture in both sitting/standing throughout a variety of tasks \u2013Note posture with/without adaptive equipment -Slouched posture has been linked to increased depressive symptoms and to decreased energy levels(26)",
+            "range of motion": "Assess active range of motion (AROM) and passive range of motion (PROM) of both upper extremities, including the shoulder, elbow, forearm, wrist, and fingers \u2013Note pain response with any active movement or stretchingAssess safety and ability to perform ADLs hair, dressing upper and lower extremities, managing clothing, using the toilet, applying makeup or shaving the face, bathing, eating \u2013Acute episodes of depression can impair the patient\u2019s ability to complete activities of self-care,  including feeding and grooming, due to lack of motivation, reduced appetite, and lethargy(11,13) \u2013For community-dwelling  and other high-functioning  patients, assess IADLs such as driving (car transfers), meal preparation, shopping, and housework(11) -Lawton and Brody Instrumental Activities of Daily Living Scale -Includes items related to using the telephone, taking public transportation, shopping, meal preparation, housework, and medication and money management -Depressive disorders among community-dwelling  older adults are highly correlated with IADLs(25) -Greater impairment in IADLs correlates with an increase in depression(25) \u2013For patients with postpartum depression, observe the mother and child interacting in everyday situations such as playtime or feeding sessions as a baseline for parent-child  interactions(17) -In typical mother-child  interactions, the mother is reinforced positively when playing with the child by smiles and other signs of affection(17)  -Mothers with depression have difficulty sustaining attention and staying engaged during interactions with their children; additionally, these mothers tend to respond more negatively, both expecting and expressing less pleasure from these interactions, when compared to mothers without depression(17) \u2013The FIM, the Physical Self-Maintenance  Scale (PSMS), the Assessment of Motor and Process Skills (AMPS), the Kohlman Evaluation of Living Skills (KEHLS), the Scorable Self-Care  Evaluation, and the Barthel Activities of Daily Living Index are appropriate standardized measures for ADLs(4,11)",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Screen for changes in sensation \u2013Examine for sensory impairment bilaterally; pinprick, temperature, pressure, proprioception, vibration",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013QOL can be measured with a variety of tools, including the Short Form Health Survey (SF-36)(42) \u2013The Canadian Occupational Performance Measure (COPM) evaluates function through evaluation at baseline and status throughout treatment utilizing the patient\u2019s direct input in the scale(4,11,13) -The COPM allows patients to identify goals in therapy that are personally meaningful; useful for client-centered approach to therapy(13) \u2013The Beck Depression Inventory (BDI) is a useful tool for patients with depression(4,18) -21-item  self-report  inventory -Designed for patients aged 13 years and older -The Beck Depression Inventory\u2013Fast  Screen (BDI\u2013Fast  Screen) is designed for use in a medical population and can be administered in less than 5 minutes \u2013Guidelines for screening for depression in adults recommend use of 2 questions, known as the Whooley questions, as the first stage in identifying depression(27) -The Whooley questions ask about feelings of depression and lack of interest in activities in the last month -A validation study of the Whooley questions and the BDI found that the BDI is valid for diagnosis of depression in older adults and that as a screening tool the optimum cutoff score should be 11 or higher. The sensitivity of the Whooley questions was not found to be high enough to be used as a screening scale among older adults \u2013Routine screening for depression is not recommended by the Canadian Task Force on Preventive Health Care for adults with average risk of depression(28) \u2013The Coping Orientation to Problems Experienced (COPE) questionnaire is a multidimensional scale used to assess how persons respond to stress(29) -Factor analyses of the primary subscales of the COPE show that factors vary across different populations, likely due to different populations endorsing different coping strategies",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Patients with depression can have cognitive dysfunction, especially impairment of thought processing, including inability to concentrate, rumination, and indecisiveness(1,3) \u2013Cognitive dysfunction in patients with depression can impair ability to complete tasks for work and/or pleasure(13) \u2013A brief cognitive assessment such as the Mini-Mental  State Examination (MMSE) is appropriate for patients with depression(14) \u2013For patients with significant cognitive impairment, referral to neuropsychology is appropriate for extensive assessment and input regarding cognitive intervention",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis might be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "The OT will determine the need for intervention after a comprehensive evaluation; the OT must consider the patient\u2019s risk factors and deficits to determine if the patient is an appropriate candidate for therapy. Patients with depression might be apathetic or lack motivation to participate in therapy; this can have a negative impact on overall rehabilitation, especially for patients with comorbid deficits.(7) It may be necessary to address the symptoms of depression prior to treating other needs in order for the patient to receive maximal benefit from therapy in general(7)",
+        "rule out": "The patient\u2019s medical team will rule out or diagnose other diseases and psychological disorders prior to making a diagnosis of depression. The differential diagnosis of depression often includes adrenal disease(3,6)  anxiety disorders(6) cancer(3) chronic fatigue syndrome(3) dementia(6) eating disorders(6) endocrine and thyroid dysfunction and disorders(3,6) liver/renal failure(3) lupus(3) medications (abuse, side effects, overdose)(3,6) metabolic abnormalities(3) nutritional deficiencies (vitamin B12 deficiency, pernicious anemia, pellagra)(3,6) organic brain diseases(3) psychotic disorders(6) substance abuse, dependence, and/or withdrawal(3,6)",
+        "prognosis": [
+            "In patients with a single depressive episode, 50% will have a recurrent episode(3) \u2013Management of depression is long-term  and multifaceted(3)",
+            "Episodes of adjustment disorder with depression mood are generally time-limited  and the prognosis is good(1)",
+            "Major affective disorders frequently respond well to appropriate drug therapy(1)",
+            "Mania and bipolar disorder have a good prognosis with appropriate treatment(1)",
+            "In a longitudinal research study conducted in Finland, researchers found that depressive symptoms moderately decreased over the time period of adolescence andearly adulthood to middle age (between 30-45  years old) and that the rate of that decrease was dependent on the patient\u2019s initial level of depression; those with more severe depression at initial diagnosis had a slower rate of decrease in symptoms into adulthood(19)",
+            "Depressive episodes in persons with chronic or disabling illnesses are more likely to become chronic than are depressive episodes in medically healthy persons(24)",
+            "In a study conducted in the United States, researchers who analyzed data from 11,369 persons over the course of 7 years found that major depression was associated with 2.68 times the risk of death from cardiovascular disease compared to those without cardiovascular disease or depression at baseline and 1.82 times the risk of death from cardiovascular disease compared to those without depression but with cardiovascular disease at baseline(34)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Referral to physical therapy if the patient has difficulty with gait, balance, transfers, or weight-bearing  or has reduced cardiovascular or muscular endurance Referral to recreational or vocational therapist for returning to activities of leisure and employment Referral to psychiatry, psychology, or social work if patient with depression is not currently under the care of a mental health professional and/or may benefit from assistance with issues such as facility placement Youth and family services if a child of a mother with a postpartum depression is at risk Physician or emergency services if there is a high or imminent suicide risk",
+        "other considerations": [
+            "Depression is a complicated disorder that is most effectively managed with a combination of medical, psychological, social, and behavioral treatments(1)",
+            "It is important that the OT develop a trusting and respectful relationship with the patient to help increase the patient\u2019s motivation for therapy; when listening to the patient discuss his or her thoughts and beliefs, the OT must be fully attentive and not dismiss the patient\u2019s feelings because of the underlying depression(7) \u2013The OT can also promote social connections and support as well as encourage/facilitate the patient\u2019s reengagement in the activities he or she once enjoyed, as these connections are important components of recovery from depression(7) ",
+            "OTs can educate patients and family members on prevention of depression in all patients they treat,especially children. The Canadian 24-hour  Movement Guidelines for Children and Youth recommend at least 60 minutes of moderate to vigorous physical activity, less than 2 hours of recreational screen time, and sufficient sleep(9\u201311  hours for children and 8\u201310  hours for adolescents) each day(49) \u2013Authors of a systematic review studied the associations of physical activity, sedentary time, and sleep duration with depressive symptoms and overall mental health in children and adolescents(49) -The review concluded that adherence to the Canadian 24-hour  Movement Guidelines is associated with better mental health status",
+            "Having a family member with depression can be extremely stressful for the patient\u2019s loved ones, caregiver(s), spouse/ partner, etc.(4) \u2013Consider the entire family/support network during evaluation and treatment of the patient with depression; refer for marriage and family therapy and counseling if appropriate(4)",
+            "Experts have argued that new healthcare models are needed to meet the needs of the aging population, in whom depression is more common(30) \u2013It has been noted that OTs are often underutilized in the rehabilitation of older adults. Expansion of the OT\u2019s role with older adults from a focus on ADLs and home and environmental adaptation into more mental health treatment has been proposed(30) -In a study conducted in the United States to assess 75 occupational therapists\u2019 mental health knowledge, attitudes, and clinical practices before and after an educational program, researchers found that DVD-based training can significantly improve mental health practice(30) \u2013Older adults with depression are less physically active compared to their peers without depression. The barriers to physical exercise is not well understood.(50)More research is needed, but OTs can encourage participation in exercise programs for their older patients"
+        ],
+        "treatment summary": [
+            "The following are occupational therapy practice guidelines for adults with serious mental illness developed by the American Occupational Therapy Association: \u2013General recommendations about working with adults with serious mental illness: -It is possible for persons with serious mental illness to manage their symptoms and lead healthy, meaningful lives. Part of an occupational therapy plan of care should be identifying specific areas of training and education that are necessary for the patient to succeed in the desired areas of occupation(35) -Occupational therapy needs to address both primary and secondary prevention of mental illness. Primary prevention methods include education on various topics to prevent unhealthy conditions (e.g., increased physical activity, smoking cessation, weight management). Secondary prevention focuses on the impact of depression on persons\u2019 function and QOL. Both are key to the resumptomion of occupational participation in persons with depression(35) -Occupational therapy should take a client-centered  approach, accounting for the person\u2019s own life goals(35) -Occupational therapy interventions should focus on building new skills, enhancing existing skills, and modifying environments both at home and work to increase participation. OTs need to considerpersons\u2019 individual strengths, routines, and existing emotional regulation strategies(35)",
+            "Recommendations based on evidence from studies in patients with serious mental illness (all types of mental disorders were included in these studies, including depression)(35) \u2013There is strong evidence that occupation-based  interventions can increase social and occupational participation(35) -Occupational therapy intervention may increase employment rates, help patients find jobs quicker and keep them longer, and improve QOL \u2013There is strong evidence that psychoeducational interventions can improve ADL and IADL performance(35) \u2013There is mixed evidence for skill training interventions(35) \u2013There is strong evidence for cognition-based  interventions combined with social interaction and/or skill training to improve social participation and QOL(35) \u2013There is insufficient evidence for technology-supported  interventions to improve IADL performance(35) ",
+            "Therapy might focus on improving medication/time management, ADLs/IADLs, community mobility and/or reentry, reestablishing daily routines, social integration, functional behavior training, and restoring motor and/or cognitive functioning(4) \u2013Occupational therapy programs for patients with depression should be tailored to the needs, goals, prior level of function, coping strategies, and motivational factors of the patient(20)",
+            "Occupational therapy goals for patients with depression should be small and achievable, changing frequently to reflect the patient\u2019s current needs and abilities; if the goals are too difficult to achieve in a reasonable amount of time, the patient may give up, feeling that his or her belief that he or she is incompetent or worthless is accurate(7,11)",
+            "Return to work/work-related  occupational therapy programs \u2013In an RCT conducted in the Netherlands, 62 adults with depression and frequent absenteeism from work (mean of 242 days missed) were randomized into two groups: treatment as usual (TAU) and TAU + occupational therapy(21) -The TAU group was treated according to the American Psychiatric Association guidelines in an outpatient treatment program; patients were prescribed medicines appropriate for their specific diagnosis and medical history and were seen by psychiatric residents for psychotherapy 2\u20133 times per week -The TAU + occupational therapy group received the same psychiatric treatment as well as occupational therapy sessions (4 once-weekly occupational therapy diagnostic sessions followed by 24 weekly 2-hour  group sessions and 12 individual sessions; also included a 20-week  follow-up  phase during which time the subjects were seen for 3 individual sessions) -Occupational therapy included preparation for work reintegration, contacting the subject\u2019s place of work, initiating workforce reentry when appropriate, analyses of the relationship between work and depression, discussions about work-related  problems, and support as the subject returned to work -Conclusions of the study -Adding occupational therapy to the TAU protocol did not accelerate recovery from depression; however, the addition of occupational therapy did accelerate return to work -The subjects in the TAU + occupational therapy group who returned to work sooner did not report increased work stress -Additionally, fewer patients in the TAU + occupational therapy group required hospital admission for intensive treatments; these numbers trended toward significance but did not reach a statistically significant level -The TAU + occupational therapy intervention was also found to be more cost-effective  than the TAU intervention; however, to be more cost-effective,  an hour of the subject\u2019s work would need to be valued at ~$10 \u2013In an RCT conducted in the Netherlands by the same group of investigators, designed to assess the effectiveness of adjuvant occupational therapy (as described above) in a population of persons who were highly impaired due to major depression, the authors found that the addition of occupational therapy did not improve work participation, but did improve long-term  depression recovery and long-term  return to work(37)",
+            "Cognitive behavioral therapy (CBT) and mindfulness-based  meditation(4) \u2013An OT can be trained and qualified to use CBT to aid in the rehabilitation of patients with depression(4) -In general, the principle that guides CBT is that a person\u2019s thoughts and beliefs regarding a particular situation change the way in which that person acts in the situation(17,18) -When a person expects failure or difficulty, failure or difficulty is more likely; when the person expects to succeed in a situation or activity, success is more likely(17) -CBT aims to help patients identify situations that trigger their depressed moods or negative thoughts, with the goal of preventing recurrence(18) -When an OT uses the principles of CBT in occupational therapy for treatment of a patient with depression, the OT helps the patient: -alter his or her negative self-view,  in which the patient may see himself or herself as useless, undesirable, or inept(18) -change the way in which the patient interprets the world (e.g., as difficult and defeating) as well as his or her life experiences (failures, punishments, etc.)(18) -revise the patient\u2019s view of the future, in which the patient may expect to have only disappointment, adversity, and suffering(18) -Goals of CBT are accomplished through education as well as activities designed by the OT to facilitate success and foster a sense of self-sufficiency  for the patient(18)  \u2013Authors of a 2018 systematic review and meta-analysis  compared the effect of CBT combined with exercise to either CBT or exercise alone on several factors, including depression,in patients with chronic illness(43) -30 studies were included -CBT with exercise is effective for decreasing depression, but there is not an additive effect of CBT with exercise compared to each condition alone \u2013CBT is an effective treatment for adult depression and is the most studied psychotherapy for depression(31) -Authors of a 2013 meta-analysis  of CBT alone in comparison with other treatments found that although evidence indicates that CBT is effective, a considerable number of lower-quality  studies has probably led to an overestimation of its effectiveness(31) -There was no difference in efficacy between CBT and pharmacotherapy -CBT was no more or less effective than other psychotherapies, including nondirective supportive therapy, behavioral activation therapy, psychodynamic psychotherapy, interpersonal psychotherapy, and problem-solving  therapy \u2013There are different approaches to mindfulness-based  meditation, but the goal of all of them is to calm the mind. The American Academy of Family Physicians\u2019 recommendations state that although evidence is inconsistent, these approaches seem to be an effective treatment for depression. These therapies are safe and therefore recommended to try as an adjunctive therapy(44)",
+            "ADLs/IADLs(13) \u2013Developing plans and routines to successfully complete ADLs/IADLs is important for patients with depression for them to feel empowered, motivated, and independent(7) -An important role for the OT is developing routines for medication management and to reinforce the need to take antidepressant medications as prescribed by the physician; remind the patient that initially the medicines can take up to 3\u20134 weeks to take full effect(7) \u2013Allow increased time for patients to complete ADLs/IADLs; provide patient and caregiver education regarding extended time to complete self-care  routines where appropriate \u2013If needed, the OT can help the patient select and then can train the patient to use assistive devices to increase independence in ADLs/IADLs",
+            "Tree theme method (TTM)(52) \u2013A client-centered  occupational therapyfor patients with depression and/or anxiety disorders that takes place over 5 sessions with an OT. It is a type of art therapy that involves patients telling their life story. The aim is to increase patients\u2019 abilities to cope with and to enhance their everyday lives \u2013Authors of a study compared the TTM intervention with regular OT treatment in patients with depression and/or anxiety disorders(52) -Patients in the TTM group received 5 sessions of the defined TTM. For consistency, the OT group received 5 sessions as well, even though typical OT treatmentconsists of more than 5 sessions. The OT group received regular OT treatments to help them cope with and increase satisfaction with their everyday lives (e.g., dialogues and activities to maintain activities and structure in everyday life, learning to prioritize among various activities, prescription of assistive devices for cognitive impairments, and creative activities to handle anxiety and stress) -No significant differences were found between the TTM group and the regular OT group in psychological symptoms, health-related  areas, or intervention-related  aspects -Both groups showed improvements from before treatment to after treatment. Therefore, TTM may be an effective treatment for patients with depression and/or anxiety disorders since it had similar outcomes to regular OT treatment practices. More studies are needed to evaluate this method",
+            "Exercise \u2013Exercise interventions are a promising alternative for treating depression, as they do not have adverse side effects or high cost often associated with medications and psychotherapy(46) \u2013Based on several systematic reviews and meta-analysis  showing positive effects of exercise on depression, the American Academy of Family Physicians recommends its use as an adjunctive intervention. Yoga, tai chi, and qi gong may also have positive effects on depression(44) \u2013Authors of a 2019 systematic review evaluated the effect of physical exercise for the treatment of depression. They found that adding exercise to pharmacological therapy resulted in a greater reduction in depressive symptoms than pharmacological therapy alone(45)  \u2013Authors of a Cochrane Review of exercise for patients with depression concluded that although it is reasonable to recommend exercise for patients with depression, it was not possible to determine how effective exercise is as a treatment method(22) -The review authors found that exercise had a moderate effect size on depressive symptoms in patients with a diagnosis of depression when compared to no treatment; however, it is likely that the results are biased toward exercise for methodological reasons. In addition, it was unclear if the benefits persist after exercise has stopped \u2013Physical activity, even of light intensity, may be beneficial for older adults with depression(32,33) -Results of a longitudinal repeated-measures  study conducted in Canada indicate that depressive symptoms predict reduced walking frequency later. Higher depressive symptoms tended to precede reduced walking and so are more likely a cause of reduced walking than a result(32) -In a study involving 708 older adults conducted in the United States, researchers found that light-intensity  exercise and moderate-to-vigorous intensity exercise were inversely associated with depression(33) -For every 60-minute  increase in light-intensity  physical activity, participants were 20% less likely to be depressed(33) \u2013Authors of a meta-analysis  of RCTs examined the efficacy of resistance exercise training for reducingdepressive symptoms(46) -33 RCTs were included -Resistance exercise training was associated with a significant reduction in depressive symptoms regardless of age, sex, or health statusand regardless of the program duration,exercise intensity, and frequency of sessions -The evidence supports resistance exercise training as an alternative and/or adjunctive treatment for depression \u2013Authors of a systematic review and meta-analysis  evaluated the effectiveness of aerobic exercise for reducing postpartum depressive symptoms(47) -13 RCTs were included -Exercise significantly reduced depressive symptoms in postpartum women -Group exercise, participant-chosen  exercise, and exercise with co-interventions  may all be effective choices \u2013Authors of a systematic review and meta-analysis  aimed to determine the effectiveness of tai chi on QOL and depressive symptoms in older adults with chronic disease(48) -13 RCTs were included -Tai chi can improve QOL and depressive symptoms -The authors recommend tai chi as a supplementary therapy for managing chronic disease in older adults \u2013For detailed information about exercise and depression, see Clinical Review  Clinical Review ... Depression and Exercise ; CINAHL Topic ID Number: T709199",
+            "Group therapy/support group(5) \u2013Educate patients about coping skills(5) \u2013Provide consultation, health promotion, restoration and remediation, prevention of further disability through psychoeducation, social skills training, referral to appropriate disciplines or resources, and case management(5) \u2013The group setting can empower patients to manage their depression(5) . Problem Goal Intervention Expected Progression Home Program  Depression: physical, emotional, and cognitive symptoms associated with depressionReduce symptoms of depressionTherapeutic modalities _ Therapeutic exercise program _ _ CBT _ _ Group therapy _ _ TTM _ _ See Treatment summary , aboveThe OT sets up tasks and supported environments in which the patient is likely to succeed; once the patient achieves his or her initial short- term goals, the OT can progress the goals as appropriate given the specific needs and abilities of the patientProvide home-based exercise program for the patient to complete independently _ _ CBT home program: patients are given graded homework assignments, role- playing tasks, and scheduled pleasurable activities as part of the therapy program Depression; impairment of ADLs/IADLsIncreased independence with ADLs/IADLsFunctional training _ ADL/IADL training _ _ CBT _ _ See Treatment summary , aboveThe OT sets up tasks and supported environments in which the patient is likely to succeed; once the patient achieves his or her initial short- term goals, the OT can progress the goals as appropriate given the specific needs and abilities of the patientCBT home program: patients are given graded homework assignments, role- playing tasks, and scheduled pleasurable activities as part of the therapy program Depression; missed workdays; difficulty returning to workFewer missed days of work; returning to work in full- or part-time capacityFunctional training _ Work-based occupational therapy program _ _ CBT _ _ See Treatment summary, aboveInitially, the patient is educated about strategies for returning to work, identifying stressful triggers, etc. Once the patient understands the principles, the OT can guide him or her through tasks in a supported environment with the goal of returning to workCBT home program: patients are given graded homework assignments, role- playing tasks, and scheduled pleasurable activities as part of the therapy program ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "resolution or improvement of motor impairment associated with depression": [
+            "TUG test",
+            "MMT",
+            "Improved functional independence\u2013COPM(13)\u2013Lawton and Brody Instrumental Activities of Daily Living Scale\u2013FIM\u2013Barthel Activities of Daily Living Index",
+            "Decreased depressive symptoms\u2013BDI\u2013BDI\u2013Fast  Screen",
+            "Improved QOL\u2013SF-36"
+        ]
+    },
+    "maintenance or prevention": [
+        "Maintenance of occupational and cognitive functioning for patients with depression involves long-term  management of the symptoms of depression through pharmacotherapy and psychotherapy as prescribed by the patient\u2019s treating physician(3) Prevention of suicide in this patient population requires that all professionals be aware of suicide risk factors and that all verbal expressions of suicidal threat or intent be taken seriously(1,2) Maintaining exercise programs is essential. Authors of a systematic review found that ceasing regular exercise increased depressive symptoms in healthy adults. Their results suggest that this could be also be true for patients already experiencing depression(51)"
+    ],
+    "patient education": [
+        "Educating patients and their families/caregivers is an important part of occupational therapy for depression; patients are more likely to adhere to recommendations when they understand the rationale for treatment protocols(7)",
+        "Patient education resources are available at: National Institute of Mental Health website, \u201cDepression,\u201d https://www.nimh.nih.gov/health/topics/depression/index.shtml American Psychological Association website, Psychology Help Center, https://www.apa.org/topics/crisis-hotlines Depression and Bipolar Support Alliance, http://www.dbsalliance.org/site/PageServer?pagename=home International Foundation for Research and Education on Depression, http://www.ifred.org Role of occupational therapy in depression, https://www.aota.org/About-Occupational-Therapy/Professionals/MH/Articles/Depression.aspx Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Williams N, DeBattista C. Psychiatric disorders. In: Papadakis MA, McPhee SJ, eds. 2016 Current Medical Diagnosis & Treatment . 55th ed. New York, NY: McGraw-Hill Education; 2016:1033-1070.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Shoemaker NC. Clients with psychosocial and mental health concerns. In: Black JM, Hawks JH, eds. Medical-Surgical  Nursing: Clinical Management for Positive Outcomes . 8th ed. St. Louis, MO: Saunders Elsevier; 2009:421-431.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Bramson R, Brown ML, Shurtz S. The 5-Minute Clinical Consult Standard 2021. In: Domino FJ, Baldor RA, Golding J, Stephens MB, eds. 29th ed. Philadelphia, PA: Wolters Kluwer; 2020:280-281.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Sotelo D. Mood disorders: Depression and bipolar disorder. In: Boyt Schell BA, Gillen G, Scaffa ME, Cohn ES, eds. Willard & Spackman's Occupational Therapy . 12th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Wilkins; 2014:1153-1156.  (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Costa DM. Depression: an equal opportunity illness. OT Pract. 2008;13(21):16-20.  (X)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Fancer T, McCarron RM, Kukoyi O, Bourgeois JA. Mood disorders - depression. In: McCarron RM, Xiong GL, Bourgeois JA, eds. Lippincott's Primary Care: Psychiatry . Philadelphia, PA: Wolters Kluwer Health/Lippincott, Williams & Wilkins; 2009:17-37.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Costas DM. Intervention for clients with depression. Home Community Health Spec Interest Sect Q . 2006;13(4):1-3,  4. (X)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Chandraiah S, Ainlay Anand S, Avent LC. Efficacy of group art therapy on depressive symptoms in adult heterogeneous psychiatric outpatients. Art Ther. 2012;29(2):80-86.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Mehta L. Cardiovascular disease and depression in women. Heart Fail Clin . January 2011;7(1):39-45.  doi:10.1016/j.hfc.2010.08.005. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Niranjan A, Corujo A, Ziegelstein RC, Nwulia E. Depression and heart disease in US adults. Gen Hosp Psychiatry . 2012;34(3):254-261.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Bent MA. Is occupation the key for women with depression?. OT Pract. 2005;10(15):16-20.  (X)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Lloyd C, Waghorn G, McHugh C. Musculoskeletal disorders and comorbid depression: implications for practice. Aust Occup Ther J . 2008;55(1):23-29.  (RV)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Waters D. Recovering from a depressive episode using the Canadian Occupational Performance Measure. Can J Occup Ther . 1995;62(5):278-282.  (C) "
+        },
+        {
+            "number in article": 14,
+            "reference": "Folstein MF, Folstein SE, McHugh PR. \"Mini-Mental  State\". A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res . 1975;12(3):189-198. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Podsiadlo D, Richardson S. The timed \"up & go\": a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc . 1991;39(2):142-148.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Kidd D, Stewart G, Baldry J, et al. The Functional Independence Measure: a comparative validity and reliability study. Disabil Rehabil . 1995;17(1):10-14. doi:10.3109/09638289509166622.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Olson L. When a mother is depressed: supporting her capacity to participate in co-occupation  with her baby - a case study. Occup Ther Ment Health . 2006;22(3-4):135-152.  (C)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Yakobina Y, Yakobina S, Tallant BK. I came, I thought, I conquered: cognitive behaviour approach applied in occupational therapy for the treatment of depressed (dysthymic) females. Occup Ther Ment Health . 1997;13(4):59-73.  (X)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Elovainio M, Pulkki-R\u00e5back  L, Jokela M, et al. Socioeconomic status and the development of depressive symptoms from childhood to adulthood: a longitudinal analysis across 27 years of follow-up in the Young Finns study. Soc Sci Med . 2012;74(6):923-929.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Creek J. Living with depression: function, activity and participation. Ment Health Occup Ther . 2006;11(2):47-49.  (X)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Schene AH, Koeter MW, Kikkert MJ, Swinkels JA, McCrone P. Adjuvant occupational therapy for work-related  major depression works: randomized trial including economic evaluation. Psychol Med . 2007;37(3):351-362.  (RCT)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Cooney GM, Dwan K, Greig CA, et al. Exercise for depression. Cochrane Database Syst Rev . September 12, 2013;(9). Art No: CD004366. doi:10.1002/14651858.CD004366.pub6.   (M)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Feng L, Nyunt MSZ, Feng L, Yap KB, Ng TP. Frailty predicts new and persistent depressive symptoms among community-dwelling  older adults: findings from Singapore longitudinal aging study. J Amer Med Dir Assoc . 2014;15(1):76.e7. doi:10.1016/j.jamda.2013.10.001. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "American Psychiatric Association. Depressive disorders. In: Diagnostic and statistical manual of mental disorders . 5th ed. Arlington, VA: The American Psychiatric Association; 2013:155-171.  (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Lee D, Ko T, Han S. Effects of community-dwelling  older adults\u2019 demographics and social, mental, and physical functions on depressive disorder. J Phys Ther Sci . 2013;25(4):463-466.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Peper E, Lin IM. Increase or decrease depression: how body postures influence your energy level. Biofeedback . 2012;40(3):125-130.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Suija K, Rajala U, Jokelainen J, et al. Validation of the Whooley questions and the Beck Depression Inventory in older adults. Scand J Prim Health Care . 2012;30(4):259-264. doi:10.3109/02813432.2012.732473. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Joffres M, Jaramillo A, Dickenson J, et al. Recommendations on screening for depression in adults. CMAJ. 2013;185(9):775-782.  (G)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Pang J, Strodl E, Oei T-P. The factor structure of the COPE questionnaire in a sample of clinically depressed and anxious adults. J Psychopathol Beh Ass . 2013;35(2):264-272. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Lysack C, Leach C, Russo T, Paulson D, Lichtenberg PA. DVD training for depression identification and treatment in older adults: a two-group,  randomized, wait-list control study. AM J Occup Ther . 2013;67(5):584-593.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Cuijpers P, Berking M, Andersson G, Quigley L, Kleiboer A, Dobson KS. A meta-analysis  of cognitive-behavioral  therapy for adult depression, alone and in comparison with other treatments. Canadian J Psychiatr . 2013;58(7):376-385.  (M)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Julien D, Gauvin L, Richard L, Kstens Y, Payette H. Longitudinal associations between walking frequency and depressive symptoms in older adults: results from the VoisiNuAge study. J Amer Geriatr Soc . 2013;61(12):2072-2078.  doi:10.1111/jgs.12546. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Loprinzi PD. Objectively measured light and moderate-to-physical  activity is associated with lower depression levels among older US adults. Aging Mental Health . 2013;17(7):801-805.  doi:10.1080/13607863.2013.801066. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Saint Onge JM, Krueger PM, Rogers RG. The relationship between major depression and nonsuicide mortality for U.S. adults: the importance of health behaviors. J Gerontol B Psychol Sci Soc Sci . July 2014;69(4):622-32.  doi:10.1093/geronb/gbu009. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Noyes S, Lannigan EG. In: Occupational therapy practice guidelines for adults with serious mental illness . Bethesda,MD: American Occupational Therapy Association, Inc. (AOTA); 2012:115p. (G)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Li CM, Zhang X, Hoffman HJ, Cotch MF, Themann CL, Wilson MR. Hearing impairment associated with depression in US adults, National Health and Nutrition Examination Survey 2005-2010.  JAMA Otolaryngol Head Neck Surg . April 2014;140(4):293-302.  doi:10.1001/jamaoto.2014.42. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Hees HL, de Vries G, Koeter MW, Schene AH. Adjuvant occupational therapy improves long-term  depression recovery and return-to-work  in good health in sick-listed employees with major depression: results of a randomised controlled trial. Occup Environ Med . April 2013;70(4):252-60.  doi:10.1136/oemed-2012-100789.  (RCT)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Giloyan A, Harutyunyan T, Petrosyan V. Visual impairment and depression among socially vulnerable older adults in Armenia. Aging Ment Health . 2015;19(2):175-181. doi:10.1080/13607863.2014.920298. (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Hasan S, Mamun A, Clavarino A, Dairuz T. Incidence and risk of depression associated with diabetes in adults: evidence from longitudinal studies. Community Ment Health J . 2015;51(2):204-210.  doi:10.1007/s10597-014-9744-5.  (M)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Scinicariello F, Buser MC. Blood cadmium and depressive symptoms in young adults (aged 20-39 years). Psychol Med . 2015;45(4):807-815.  doi:10.1017/ S0033291714001883. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Mileviciute I, Hartley SL. Self-reported  versus informant-reported  depressive symptoms in adults with mild intellectual disability. J Intellect Disabil Res . 2015;59(2):158-169. doi:10.111/jir.12075. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Sivertsen H, Bjorklof GH, Selbaek G, Helvik AS. Depression and quality of life in older persons: a review. Dement Geriatr Cogn Discord . 2015;40:311-339. doi:10.1159/000437299. (SR)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Bernard P, Romain AJ, Caudroit J, et al. Cognitive behavior therapy combined with exercise for adults with chronic diseases: Systematic review and meta-analysis.  Health Psychol. 2018;37(5):433-450.  doi:10.1037/hea0000578. (M)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Saeed SA, Cunningham K, Bloch RM. Depression and anxiety disorders: benefits of exercise, yoga, and meditation. Am Fam Physician . 2019;99(10):620-627.  (RV)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Gomes A, Ramos S, Ferreira AR, Montalv\u00e3o J, Ribeiro I, Lima F. The effectiveness of physical exercise in the treatment of depression. Portuguese J Ment Health Nurs . 2019;(22):58-64.  doi:10.19131/rpesm.0264. (SR)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Gordon BR, McDowell CP, Hallgren M, Meyer JD, Lyons M, Herring MP. Association of efficacy of resistance exercise training with depressive symptoms: Meta-analysis  and meta-regression  analysis of randomized clinical trials. JAMA Psychiatry . 2018;75(6):566-576.  doi:10.1001/jamapsychiatry.2018.0572. (M)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Pritchett RV, Daley AJ, Jolly K. Does aerobic exercise reduce postpartum depressive symptoms? a systematic review and meta-analysis.  Br J Gen Pract . 2017;67(663):e684-e691.  doi:10.3399/bjgp17X692525. (M)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Choo YT, Jiang Y, Hong J, Wang W. Effectiveness of tai chi on quality of life, depressive symptoms and physical function among community-dwelling  older adults with chronic disease: A systematic review and meta-analysis.  Int J Nurs Stud . 2020;111:103737. doi:10.1016/j.ijnurstu.2020.103737. (M)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Sampasa-Kanyinga  H, Colman I, Goldfield GS, et al. Combinations of physical activity, sedentary time, and sleep duration and their associations with depressive symptoms and other mental health problems in children and adolescents: a systematic review. Int J Behav Nutr Phys Act . June 5, 2020;17(1):72. doi:10.1186/s12966-020-00976-x.  (SR)"
+        },
+        {
+            "number in article": 50,
+            "reference": "You E, Goh AMY, Bryant C, Lautenschlager NT, Ellis KA. Depression and physical activity research in older age: An important gap to fill. Psychol Sport Exerc . 2019;43(1-3). doi:10.1016/j.psychsport.2018.12.014. (RV)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Morgan JA, Olagunju AT, Corrigan F, Baune BT. Does ceasing exercise induce depressive symptoms? A systematic review of experimental trials including immunological and neurogenic markers. J Affect Disord . 2018;234:180-192.  doi:10.1016/j.jad.2018.02.058. (SR)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Birgitta Gunnarsson A, Wagman P, Hedin K, H\u00e5kansson C. Treatment of depression and/or anxiety - outcomes of a randomised controlled trial of the tree theme method\u00ae versus regular occupational therapy. BMC Psychol . 2018;6(1):25. doi:10.1186/s40359-018-0237-0.  (RCT)"
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "metadata": {
+        "title": "Cri du chat Syndrome",
+        "synonyms": [
+            "5p deletion syndrome",
+            "5-p syndrome",
+            "cat cry syndrome"
+        ],
+        "anatomical location body part affected": [
+            "Many systems may be affected in cri du chat syndrome, including the brain and the skeletal, cardiovascular, gastrointestinal, and respiratory systems(1,2)"
+        ],
+        "area of specialty": [
+            "pediatric genetic and/or neurological disorders"
+        ],
+        "description": [
+            "Cri du chat syndrome (CdCS) is a genetic disorder in which an infant presents with a high-pitched  cry, microcephaly (small head circumference), delayed communication development, broad nasal bridge, epicanthal folds (folds of skin in the inner eye corners), abnormal dermatoglyphics (e.g., fingerprints, palm prints), severe psychomotor deficits, and, often, intellectual disability.(1,2,3) Behavioral characteristics of CdCS include self-injurious  behavior, obsessive attachment to objects, hyperacusis (hypersensitivity to sound), stubbornness, and clumsiness.(4) Neonatal problems include low birth weight, asphyxia (inability to breathe), cyanotic crises (bluish color of skin due to deoxygenated hemoglobin), impaired sucking ability, and hypotonia (low tone).(3) Recurrent respiratory and intestinal infections are also common in infancy. The following malformations often are present: cardiac, neurological, and renal abnormalities; preauricular tags (small skin tag in front of ear); syndactyly (e.g., fused fingers); hypospadias (abnormally placed urinary meatus); and cryptorchidism (absence of one or both testes from the scrotum)(3)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {
+            "758.31": "Cri du chat syndrome"
+        },
+        "ICD-10 codes": {
+            "Q93.4": "deletion of short arm of chromosome 5 [Cri du chat syndrome] (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Swallowing G-code set": {
+                "G8996": "Swallowing functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G8997": "Swallowing functional limitation, projected goal status, at initial therapy treatment/outset and at discharge from therapy",
+                "G8998": "Swallowing functional limitation, discharge status, at discharge from therapy/ end of reporting on limitation"
+            },
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Communication abilities of patients with CdCS vary from person to person and are influenced by the patient\u2019s age, the severity of the patient\u2019s motor impairment, the presence or absence of a vision or hearing loss, and/or the degree of cognitive impairment. Speech production is characterized by substitutions, omissions and distortions, limited consonant speech sound inventories, restricted syllable shapes, variable vowel production, and reduced ability to sustain phonation.(5) Individuals with CdCS have severely delayed expressive language skills and reduced mean length of utterance (MLU) and vocabulary. Cognitive abilities range from average ability to severely impaired(6) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Patients with CdCS have complex and varied medical conditions, including, but not limited to, cardiovascular conditions, respiratory conditions, sleep disturbances, gastrointestinal conditions, inattention, hyperactivity, and self-injurious  behaviors.(1) The speech-language  pathologist (SLP) should be aware of the exact nature of the patient\u2019s medical condition before initiating assessment or treatment"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "CdCS is a genetic disorder that results from the deletion of the short arm of chromosome 5 (5p-).(3) Incidence estimatesrange from 1 in 15,000 to 1 in 50,000 live births(3)\u2013Genetic inheritance (10\u201315%  familial translocations)(1)\u2013Mutation of the egg or sperm (de novo deletion) with no known risk factors(3)"
+        ],
+        "pathogenesis": [
+            "CdCS is caused by gene mutation or inheritance of a genetic translocation(1,3)"
+        ],
+        "risk factors": [
+            "Family history of translocations(1)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The symptoms associated with CdCS vary significantly, and precautions will vary according to the individual patient and the severity of accompanying language, cognitive, cardiac, and/or motor impairments. CdCS is usually diagnosed in infants; therefore, evaluation precautions will also be determined by the patient\u2019s age and family concerns. It is recommended that parents and/or caregivers be involved in all assessment procedures due to the typical age of patient at diagnosis and the degree of intellectual disability associated with this syndrome. In addition, family priorities for treatment should be considered when deciding upon assessment procedures(7)",
+        "A patient\u2019s medical records should be reviewed thoroughly prior to the evaluation. During the evaluation, it is of utmost importance to be aware of a patient\u2019s level of attention, fatigue, and frustration",
+        "Development of an individualized family service plan (IFSP) or an individual education plan (IEP) in collaboration with the parents and school personnel is essential for children with CdCS to address learning, language, and cognitive problems as well as feeding and motor problems in the home and school environment. In addition, such a plan can assist school personnel in modifying activities that might otherwise be harmful or unsafe for the child",
+        "Hyperactivity and distractibility are common among persons with CdCS and can adversely affect test performance(3)",
+        "A patient\u2019s family, culture, and native language should also be considered to determine the appropriateness of examination questions and materials. In addition, assessment data from multiple settings should be gathered to determine the influence of contextual factors on functioning (e.g., NICU, clinic, home)(8)",
+        "It is particularly important to include an assessment of the child in a \u201cnatural environment\u201d (e.g., a familiar room in school/ daycare, at the child\u2019s house)(8)",
+        "When evaluating very young children, patients with severe communication impairments, patients with significant motor impairments, or patients with cognitive impairments, standardized assessment measures may need to be supplemented or replaced by nonstandardized, parent interview, and observation-based  methods(8) ",
+        "If a patient uses an AAC device, those systems and/or other preferred modes of communication should be made available during a communication assessment(8)"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document the steps to diagnosis of CdCS",
+                "course of treatment": {
+                    "medical management": "Document all previous and current medical management",
+                    "surgical management": [],
+                    "medications": "Determine what medications the physician has prescribed; are they being taken? The concurrent use of multiple medications is common among children who have complex medical conditions, and the side effects of these medications may adversely affect cognitive and communicative functioning. Contact a pharmacist or physician regarding questions about medication interactions and side effects",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition are the following:",
+                        "Diagnosis of CdCS is made by a physician based on the presence of characteristic physical features (e.g., facial",
+                        "dysmorphism, transverse flexion creases, hypotonia and \"catlike\"  cry) and a karyotype analysis(3,9)",
+                        "Diagnosis can be further confirmed by a genetic specialist by FISH (fluorescence in situ hybridization) for a precise diagnosis of the 5p deletion(3)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., special diet) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational, physical, or speech-language  therapy for this or for other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Speech and language symptoms of CdCS are variable and are influenced by the patient\u2019s age, the severity of the patient\u2019s motor impairment, the presence or absence of a vision or hearing loss, and/or the degree of cognitive impairment -sound substitutions, omissions, and distortions(10) -small consonant inventories(10) -restricted syllable shapes(10) -variable vowels(10) -reduced ability to sustain phonation(5) -extremely reduced language with shortened sentence length and limited vocabulary(10) -better receptive than expressive language(10) -cognitive abilities can range from normal intellectual abilities to severe intellectual deficits(6) -hearing and vision deficits(10) -short attention span(10) -hyperactivity(10) -stereotyped aggressive or self-injurious  behaviors(10)",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "Document any abnormalities in the patient\u2019s sleep patterns. Patients with CdCS often have atypical sleep patterns that can be challenging for school schedules and for caregivers\u2019 sleep routines.(1) In a case-control  study conducted in the Netherlands, researchers found that snoring was a common feature of sleep disturbances in children with CdCS and other syndromes associated with intellectual disability(30) ",
+                "other symptoms": "Document other symptoms the patient is experiencing that could exacerbate the condition and/or -Medical symptoms -Low birth weight(1) -Cardiac conditions and complications(1) -Respiratory conditions and complications(1) -Gastrointestinal conditions (reflux) and structural differences(1) -Susceptibility to middle ear infections(1) -Constipation(1) -Orthopedic differences, including scoliosis, developmental dysplasia of the hip, and foot deformities(1,9) -Slow growth rate(1) -Organ differences(1) -Malocclusions(1) -Laryngeal structure differences(1) -Hyperacusis (hearing hypersensitivity)(1) -Colic(1) -Jaundice(1) -Susceptibility to pneumonia(1) -Susceptibility to dehydration(1) -Phenotypical symptoms -Dysmorphic craniofacial features(1) -High-pitched,  single pitch cry(1) -Small head circumference (microcephaly)(1) -Actual or appearance of wide-spaced  eyes (hypertelorism)(1) -Folds of skin in the inner eye corners (epicanthal folds)(1) -Imbalance in eye muscles (strabismus)(1) -Webbing or deflection of fingers(1) -Dental occlusion differences(1,33) -Eyes that slant downwards(1) -Flat, wide nasal bridge(1) -Small upturned nose(1) -Small chin(1) -Low set and partially rotated ears(1) -Skin tags near ears (preauricular tags)(1) -Single transverse palmar crease(1) -Incurved 5th finger(1) -Narrow, high-arched  palate(1) -Physiological symptoms -Low muscle tone (hypotonia)(1) -Tight or high muscle tone (hypertonia)(1) -Limited range of motion in some joints(1) -Round face in early infancy(1) -Long face in later childhood and adulthood(1)  -Feeding difficulties due to weak suck and regurgitation(1) -Behavioral symptoms -Friendly and happy disposition(1) -Affectionate(1) -Enjoys social interaction(1) -Restless/hyperactive(1) -Short attention span(1) -Obsessive attachment to objects(3) -Self-stimulatory  behavior(1) -Self-injurious  behavior(1) -Hypersensitivity to sounds(3) -Open-mouthed  expression(1) -Sleep problems(1,11) -Aggressive behavior(11) -Repetitive movements(11) -Repetition of sounds(11) -Developmental symptoms -Severe to profoundly delayed cognitive, motor, and communication development(1) -Relatively good self-help  skills as compared to other areas(1) -Coordination problems(1) -Receptive language exceeds expressive language(1) -Balance and motor-planning  difficulties(1)",
+                "respiratory status": "Document any respiratory difficulties of patientDocument psychosocial status and behaviors that might necessitate referral to a behavioral specialist. Patients with CdCS can be very friendly and affectionate, with happy dispositions; however, these patients also sometimes engage in self-stimulatory,  self-injurious,  or aggressive behavior(1,11) -In a study conducted in the United Kingdom with 19 children with CdCS (as well as 19 children with Angelman syndrome [AS] and 15 children with Cornelia de Lange syndrome [CdLS]), researchers found that significantly more participants with either AS (18/19) or CdLS (15/15) scored above the cutoff for autism spectrum disorder (ASD) (as measured by the Social Communication Questionnaire [SCQ], previously known as the Autism Screening Questionnaire) than children with CdCS (12/19).(31) Communication skills of the participants with CdCS that were used to initiate social interaction were much less impaired and were used more frequently than in the participants with the other two diagnoses.(31) Individuals with CdCS in the study scored higher than children with the other two diagnoses for motivation for interaction with familiar adults (i.e., the children with CdCS were highly motivated to interact with familiar adults)(31) -Families of children with CdCS have reported high levels of stress resulting from the presence of maladaptive behaviors. When possible, social support groups should be encouraged to provide assistance and support(1,6)Document hearing impairment and/or loss as well as history of chronic ear infections -Hyperacusis (hearing hypersensitivity) can occur in patients with CdCS.(1) Refer to audiologist for diagnostic evaluation and intervention Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document the nature of developmental delay in all areas",
+                    "comorbid diagnoses": "Ask patient\u2019s family about other problems, including vision impairment, hearing impairment, attentiondeficit/hyperactivity  disorder (ADHD), seizure disorder, musculoskeletal problems, neurological impairments, cardiopulmonary problems, gastrointestinal/nutritional problems, or urinary problems(1,7,34)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter drugs)",
+                    "other symptoms": "Ask patient and/or parent or caregiver about other symptoms that the patient is experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Things to consider include receive intervention services? If so, are they home-,  school-,  or clinic-based?  Does the patient attend daycare, school, or work? If the patient attends school, what support services are in place? Does the patient participate in recreational sports or hobbies?",
+                "functional limitations assistance with ADLs adaptive equipment": "Obtain information on adaptive equipment the patient is using, such as assistive/alternative communication devices, wheelchairs, walkers, hearing aids, or glasses",
+                "living environment": "Stairs, number of floors in home, with whom patient lives (e.g., caregivers, family members). Identify if there are barriers to age-appropriate  independence in the home; any necessary modifications"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Document the presence of any characteristic facial features that are associated with CdCS, including facial dysmorphism and malocclusion",
+            "assistive and adaptive devices": "While conducting an augmentative and alternative communication (AAC) assessment, an SLP should observe a patient\u2019s posture and fine and gross motor skills. Patient use of any adaptive and/or orthotic equipment should be noted (e.g., hearing aids, wheelchair). The ways in which AAC will support the patient\u2019s participation in activities of daily living should be considered. As part of an ongoing assessment, the patient should be given access to a range of AAC systems for trial in controlled and natural contexts(8)",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Document the results of audiological testing and ensure that the patient has had an audiological evaluation prior to a communication evaluation. Many patients with CdCS have been reported to have a hearing loss(1,3,7)",
+            "special tests specific to diagnosis": "Test protocols and tasks can be used to further explore the language skills of patients with CdCS; however, given the multiple physical and cognitive disabilities associated with CdCS, scores from standardized speech and language tests will not be valid. Examples of tests to examine speech and language skills in children with CdCS(10)(20) Measures receptive and expressive language skills in children aged 1 to 6;11 years(21) Measures English vocabulary for individuals aged 2 to 18 years(22) Measures receptive vocabulary in standard English for ages 2.5 to 90 years(23) Measures communication skills with norm-referenced  parent checklists for children 8 months to 30 months old(24) Measures developmental skills and behaviors gross motor, fine motor, social, and self-help(25) Measures communication skills in infants and toddlers ",
+            "speech and language examination": "Document the mode(s) of communication used at home and in the educational setting (if applicable). Patients with CdCS exhibit variation in their communication development, but all have delayed speech and language development. Some patients will communicate by gesture, sign language, or using AAC while others can communicate in single words or short multiword sentences. Some patients with CdCS never develop spoken language.(10) Receptive language skills have been noted to be stronger than expressive language skills(10)Patients with CdCS often exhibit articulation that is imprecise and sometimes unintelligible.(10) Substitutions, omissions, and distortions of consonants and vowels are frequent. Consonant inventories and syllable shapes are restricted and vowels are variable.(10,13)Because articulation skills can be so impaired, some researchers have noted that nonverbal communication skills (e.g., facial expression) are a relative strength for patients with CdCS.(31) Articulation skills can be assessed using standardized assessments and/or by obtaining and analyzing a speech sample. The speech sample may have to be restricted to the elicitation of functional words that the child knows due to a reduced  vocabulary and lack of spontaneous utterances.(14) For some young, shy children, documentation of a consonant inventory might rely on parent report -In a study conducted in Norway with 8 children with CdCS (ages 4;6 to 12;3), researchers examined consonant production and speech intelligibility of these children.(32) To elicit consonant productions, researchers utilized a noun elicitation task; the stimuli for each child were not the same because of the heterogeneity of the sample, but researchers chose target words that elicited consonant productions in the initial, medial, and final positions. In this sample of children, all spoke an eastern variety of Norwegian except 1 child, who spoke a southern dialect of Norwegian. All elicitations were recorded and transcribed to evaluate articulation errors and estimate intelligibility. Analysis of speech samples revealed extensive variation in consonant inventories as well as speech intelligibility. Of the 8 children in the study, 1 was rated as \u201chigh\u201d for speech intelligibility, 2 as \u201cmedium,\u201d and 5as \u201clow.\u201d Researchers also noted that labial stops were present for all children, and rhotic sounds and sibilants occurred infrequently(32)Document the presence or absence of echolalia or any other repetition of words, phrases, or sounds. Echolalia is common among patients with CdCS(4,11)Assess the patient\u2019s receptive and expressive language skills using standardized language tests or language sampling, as appropriate. The impact of cognitive and motor impairments on a patient\u2019s ability to respond to test questions should be taken into consideration. Language sampling, parent report, and observation of play might be the most helpful language assessment procedures for children with CdCS. Language of children with CdCS has been characterized as having a reduced mean length of utterance (MLU), a high percentage of one-word  utterances, a large number of word omissions, incorrect word order, and use of rote phrases.(15) Expressive language skills are usually weaker than receptive language skills; however, there is also great variability among individuals -Authors of a case study of a child with CdCS indicated that in this child a small portion of utterances were complex and there was considerable lexical diversity(15) -Authors of a case study of a 14-year-old  Norwegian child with CdCS found that although her phonological and syntactic skills were poor, she had mastered some aspects of morphology. She inflected words of different classes with 98% accuracy in obligatory contexts, and the errors she did make were incorrect gender in nominal forms of the word and occasional use of inaccurate verb form. In a past-tense  elicitation task, however, the child performed poorly and her score was worse than what would have been expected from a typically developing 4-year-old  learning Norwegian(16)Assess interaction patterns of a child with CdCS and parent(s)/caregiver(s). Document positioning that is/is not facilitative to communication, the existence or absence of communication opportunities, and the ability of the parent/caregiver to respond to the child\u2019s communicative signals. Research has shown that children with CdCS demonstrate high levels of distractibility and a low level of object-directed behavior during play(17)Document any feeding difficulties the child has. Children with CdCS often have feeding difficulties and gastroesophageal reflux(3)Document any abnormal muscle function that may affect communication. Children with CdCS often have hypotonia at a young age and then hypertonia as they mature(3)Document any abnormalities in oral motor function, velopharyngeal function, and laryngeal function. The high vocal pitch is most likely due to the malformation of the larynx, which is small, narrow, and diamond shaped. In addition, the epiglottis is small and hypotonic.(3) Patients with CdCS often present with malocclusion, hyper-  and hypotonia, and delayed motor development, all of which may affect oral motor function.(10) In addition, some patients have been noted to have problems with velopharyngeal function.(10) Use informal or formal assessment to record any deficits in oral mechanism form or function and their effect on speech communication \u2013In a descriptive study conducted in Spain with 33 patients (ages 2\u201335,  average age 14.65) with CdCS, researchers found -Weak sucking ability(18) -Hypotonia of the perioral muscles(18) -Epicanthus (vertical fold of skin on either side of the nose, sometimes covering the inner canthus; i.e., the area where the upper and lower eyelids meet)(18) -Hypertelorism (abnormally increased distance between organs; in this case, the separation typically was noted between the patients\u2019 eyes)(18)  -Short philtrum (the vertical groove in the middle area of the upper lip)(18) -Low-set  ears(18) -Facial asymmetry(18) -Strabism (crossed eyes)(18) -High-arched  palate(18) -Malocclusions -Convex profile with maxillary mandibular retrognathism (abnormal posterior positioning of the jaw bones)(18) -Anterior open bite(18) -Other dental abnormalities (e.g., enamel deficiencies, transposed teeth)(18,33)Document any results of vision examinations. Myopia and cataracts often are reported in patients with CdCS. In addition, vision can be affected by hypersensitivity of the pupil due to a defect of the pupil dilator muscle(3)The absence of functional communication can significantly impact an individual\u2019s ability to participate in activities of daily living. During an assessment, the SLP should consider ways to support a patient\u2019s participation in activities of daily living (e.g., eating, playing, getting dressed). This should be done in collaboration with the patient, family/caregiver, other medical personnel, and school/work staff.(8) Standardized parent interviews of child\u2019s daily living skills (e.g., Vineland Adaptive Behavior Scales) can provide information in a variety of domains(19)",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Most children with CdCS present with significant intellectual disability but researchers have indicated that cognitive abilities can range from normal intellectual abilities to severe intellectual deficits.(6) In a study of 26 children with CdCS in the United Kingdom, researchers found that IQ varied from below 40 (n = 4) to between 40 and 57 (n = 22) (mean of 48).(12) The evaluating or treating SLP should note the results of any neurological (MRI, CT), neuropsychological, or psychological/cognitive tests that have been completed. Cognitive abilities, such as attention, perception, memory, reasoning, problem solving, and executive functioning, should also be evaluated.(8) Cognitive testing should be done by a neuropsychologist with experience working with persons with CdCS since IQ tests that depend upon fine motor responses and verbal communication are not valid for this population due to the presence of communication delay and fine and gross motor deficits",
+            "aac assessment": "",
+            "swallow examination": "Patients with CdCS often have dysphagia and feeding problems in infancy.(18) If the patient and/or caregiver report symptoms of dysphagia, a bedside (or \u201cchairside\u201d) swallowing evaluation (BSE) should be performed by the SLP initially; however, a modified barium swallow study may be required per therapist discretion \u2013For detailed information on assessment and treatment of dysphagia, see the series of Clinical Reviews on this topic",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve. For detailed information on assessment of patients with tracheostomies, see ClinicalChildren with Tracheostomy ; CINAHL Topic ID NumberT709084.For detailed information on assessment of a tracheostomy tube and use of a speaking valve, see Clinical Review\u2026Passy-Muir  Tracheostomy & Ventilator Swallowing and SpeakingT708919"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "To ensure relevance and appropriateness of the treatment program, decisions about goals and course of therapy should be made in collaboration with the patient (if age-appropriate),  the caregivers, other healthcare professionals, and/or educational professionals(26)",
+                "Provision of early intervention services can have an impact on later development, and families should be encouraged to seek these services when appropriate(1)",
+                "Precautions will vary according to the individual patient and the severity of accompanying language, cognitive, and/or motor symptoms",
+                "As with any evaluation, it is important to thoroughly review a patient\u2019s medical records prior to any treatment",
+                "A patient and family\u2019s culture and language preference should also be considered to determine the appropriateness of treatment goals, objectives, and materials",
+                "Patients who present with gross motor difficulties are at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria for inpatients should include fall-prevention  strategies",
+                "Patients with CdCS can also have feeding or swallowing difficulties that place them at risk for aspiration. When appropriate, monitor the patient for aspiration and educate the family and caregivers regarding the risks of aspiration and strategies to reduce risk",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Diagnosis of CdCS is made by a physician based on typical physical characteristics and a karyotype analysis.(3) The need for speech therapy as well as the specific treatment goals will be determined by communication evaluation results and family priorities(7) treatment .",
+        "rule out": "The clinical features of CdCS form a distinct syndrome, allowing for early accurate diagnosis and confirmation by karyotype analysis of blood(3)",
+        "prognosis": [],
+        "referral to other disciplines": "The patient\u2019s family might benefit from services from a genetic counselor to determine the risk of occurrence of CdCS in future offspring. The patient might also receive services from an occupational therapist and physical therapist to assist with gross and fine motor skills. Other specialists should be consulted regarding any physical malformations that interfere with communication (e.g., prosthodontist).(3) A behavioral psychologist may assist with the development of appropriate social behaviors (e.g., play behavior) and the elimination of inappropriate and harmful behaviors(17)",
+        "other considerations": [],
+        "treatment summary": [
+            "Treatment based on parent priorities:  An analysis of 54 surveys completed by parents to identify educational priorities for their children with CdCS indicated that parent priorities for intervention were not based on the child's strengths but instead, based upon emergent skills and areas of weakness.(7) Most of the nine areas identified as high educational priorities were communication skills: \u2013Personal safety (e.g., awareness of stranger danger) \u2013Toileting  \u2013Ability to describe feelings and events \u2013Ability to follow directions \u2013Ability to respond to questions \u2013Ability to listen to the teacher \u2013Asking for information when needed \u2013Pedestrian safety skills \u2013Ability to express wants and needs",
+            "Use of sign language:  Receptive language has been found to be stronger than expressive language for individuals with CdCS; in addition, many individuals (23\u201350%)  never develop functional oral language.(4) For those individuals who have unintelligible speech, sign language should be explored as a way to support communication. Authors of a case study of two children with CdCS found that the use of both speech and sign language together led to an increase in intelligibility over speech or sign alone. The two children demonstrated some hand-shapes  that deviated from the target hand-shape  in formation of signs; however, their production of signs was consistent(13)",
+            "Operant learning principles/graduated guidance: In a multiple baseline study conducted in the United States, researchers examined the effects of a parent-delivered  treatment based upon operant learning principles. One child with CdCS was taught two functional skills: eating and ball rolling.(28) Parent-implemented  procedures included principles of graduated guidance as described by Lovaas.(29) Graduated guidance is a technique involving physical prompting to lead a patient through a series of behaviors to achieve a target behavior. Prompts used in this case study included hand-over-hand guidance, hand-to-elbow  guidance, and a shadow prompt (parents\u2019 hand above the child\u2019s without touching). The last level was a \u201cno prompt\u201d condition. At baseline, the child was unable to demonstrate appropriate ball rolling or eating skills. After treatment, the child showed significant improvements in both tasks, and at 1-year follow-up the child maintained results with 100% accuracy in eating performance (able to eat independently with all meals) and 90% in ball rolling (able to roll ball to mother). Results are promising for the use of operant principles for children with CdCS but preliminary due to the limited evidence of one case study . Problem Goal Intervention Expected Progression Home Program Delayed communicationIncrease the child\u2019s communication and interaction with caregiversEarly intervention _ Early intervention for children with CdCS might include parent training on communication facilitation activities, such as imitation, following the child\u2019s intent and lead, use of extended turn-taking in play, use of picture exchange or sign language to facilitate communication, and use of gestures(1) _ _ For detailed information on language intervention for infants, toddlers, and preschoolers, see the series of Clinical Reviews on this topicThe child will increase communicative interaction with parent/ caregiverParents and caregivers should participate in early intervention goal setting and treatment  Delayed communication and delayed daily living skillsIncrease communication ability while increasing functional daily living skillsOperant learning principles _ Operant learning principles have been found to be successful for teaching children with severe and multiple disabilities.(28) Techniques include using reinforcers (e.g., food) and graduated guidance, which involves a series of prompts that are gradually faded. Parents can be instructed to implement these principles at home to target daily living skills in context (e.g., eating). For more information on these techniques, see references(29)The child will increase use of functional communication and daily living skillsParents and caregivers should participate in goal setting and"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved communication and interaction": [
+            "Reynell Developmental Language Scales",
+            "Expressive One Word Picture V ocabulary Test",
+            "Peabody Picture V ocabulary Test\u20134th  Edition",
+            "MacArthur Communicative Development Inventories",
+            "HELP Checklist (Hawaii Early Learning Profile)",
+            "Rossetti Infant-Toddler  Language Scale"
+        ],
+        "increased speech intelligibility": [
+            "Speech sample"
+        ],
+        "provision of aac": [],
+        "increased performance on daily living skills  e.g., play, eating": [],
+        "parent education and support": []
+    },
+    "maintenance or prevention": [
+        "The child\u2019s communication should be monitored regularly and goals adjusted according to progress",
+        "Genetic testing can determine risk of CdCS in future offspring"
+    ],
+    "patient education": [
+        "Parents of children with rare syndromes are at high risk for stress and depression as compared with parents of children who are typically developing. The SLP can assist by informing the parent about aspects of the syndrome and referring the parent to support groups, social services, and other resources(27) In a study conducted in the United Kingdom investigating the social and medical care experiences of mothers of adults with rare syndromes, researchers identified four major themes:  \u2013The rarity of their offspring's syndrome led to parents' feelings of uncertainty about the prognosis and future. In addition, lack of public awareness of the syndrome led to negative reactions among the public. Because there are no physical features that clearly distinguish a child over the age of 2 with CdCS, the child's behaviors often are misperceived as being deliberately rude \u2013Many mothers received uneven medical and social services due to perceived prejudice against individuals with intellectual disabilities \u2013Mothers expressed frustration at the difficulty in accessing the appropriate social services \u2013Mothers reported that they had to continually advocate for themselves and press for adequate social services",
+        "See information series and support group at UK Cri Du Chat Syndrome Support Group Web site: http://criduchat.org.uk/",
+        "See information about cri du chat, including information about annual meetings/conferences and links to support networks, at 5P Minus Society Web site: https://fivepminus.org/ Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on October 28, 2018 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Baird SM, Campbell D, Ingram R, Gomez C. Young children with cri-du-chat:  genetic, developmental and behavioral profiles. Infant Toddler Interv . 2001;11(1):1-14.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Hills C, Miller JH, Finkelstein M, Lohr J, Schimmenti L. Cri du chat syndrome and congenital heart disease: a review of previously reported cases and presentation of an additional 21 cases from the pediatric cardiac care consortium. Pediatrics . 2006;117(5):e924-e927.  (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Mainardi PC. Cri du chat syndrome. Orphanet J Rare Dis . 2006;1(33):33-41.  (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Cornish KM, Pigram J. Developmental and behavioral characteristics of cri du chat syndrome. Arch Dis Child . 1996;75(5):448-450.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Meyerson M. The effect of syndrome diagnosis on speech remediation. Birth Defects Orig Artic Ser . 1985;21(2):47-68.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Cornish K, Bramble D. Cri du chat syndrome: genotype-phenotype  correlations and recommendations for clinical management. Dev Med Child Neurol . 2002;44(7):494-497. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Pituch KA, Green VA, Didden R, et al. Educational priorities for children with Cri-du-Chat  syndrome. J Dev Phys Disabil . 2010;22(1):65-81.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "American Speech-Language-Hearing  Association. Preferred practice patterns for the profession of speech-language  pathology. 2004. American Speech-Language-Hearing Association Web site. http://www.asha.org/policy/PP2004-00191/ . Published November 2004. Accessed January 28, 2018. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Cuming L, Diamond D, Amirfeyz R, et al. Cri du chat syndrome. Orthop Trauma . 2009;24(2):164-166.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Kristoffersen KE. Speech and language development in cri du chat syndrome: a critical review. Clin Linguistics Phonetics . 2008;22(6):443-457.  (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Teixeira MCTV, Emerich DR, Orsati FT, et al. A description of adaptive and maladaptive behaviour in children and adolescents with cri-du-chat  syndrome. J Intellect Disabil Res. 2011;55(Part 2):132-137.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Cornish KM, Bramble D, Munir R, Pigram J. Cognitive functioning in children with typical cri du chat (5p-) syndrome. Dev Med Child Neurol . 1999;41(4):263-266.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Erlenkamp S, Kristoffersen KE. Sign communication in cri du chat syndrome. J Commun Disord . 2010;43(3):225-251.  (C)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Kristoffersen KE. Consonants in Cri du chat syndrome: a case study. J Commun Disord . 2008;41(3):179-202.  (C)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Kristoffersen KE. Grammatical constructions in cri du chat syndrome - findings from a case study. Clin Linguistics Phonetics . 2009;23(12):858-871.  (C)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Kristoffersen KE. Inflectional morphology in cri du chat syndrome \u2013 a case study. Clin Linguist Phon . 2012;26(2):120-134.  (C)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Sarimski K. Early play behavior in children with 5p- (Cri-du-chat)  syndrome. J Intellect Disabil Res . 2003;47(2):113-120.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Rodriguez-Caballero  A, Torres-Lagares  D, Y\u00e1\u00f1ez-Vico  RM, Guti\u00e9rrez-P\u00e9rez  JL, Machuca-Portillo  G. Assessment of orofacial characteristics and oral pathology associated with cri-du-chat  syndrome. Oral Dis. 2012;18(2):191-197.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Sparrow SS, Cicchetti DV, Balla DA. Vineland Adaptive Behavior Scales . 2nd ed. San Antonio, TX: Pearson; 2008. (PP)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Reynell JK, Gruber CP. Reynell Developmental Language Scales . Los Angeles, CA: Western Psychological Services; 1990. (PP)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Brownell R. Expressive One-Word  Picture Vocabulary Test . Novato, CA: Academic Therapy Publications; 2001. (PP)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Dunn LM, Dunn DM. Peabody Picture Vocabulary Test-4. 4th ed. Bloomington, MN: Pearson; 2007. (PP)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Fenson L, Dale PS, Reznik JS, et al. MacArthur Communicative Development Inventories . San Antonio, TX: The Psychological Corporation; 1993. (PP)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Furuno S, O'Reilly KA, Hosaka CM, Inatsuka TT, Zeisloft Falbey B, Allman T. HELP Checklist: Hawaii Early Learning Profile . Palo Alto, CA: VORT Corporation; 1988. (PP)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Rossetti L. The Rossetti Infant-toddler  Language Scale: A Measure of Communication and Interaction . East Moline, IL: LinguiSystems; 1990. (PP)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Simmons-Mackie  N, Kagan A. Application of the ICF in aphasia. Semin Speech Lang . 2007;28(4):244-253.  (G)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Griffith GM, Hastings RP, Nash S, et al. \"You have to sit and explain it all, and explain yourself.\" Mothers' experiences of support services for their offspring with a rare genetic intellectual disability syndrome. J Genetic Couns . 2011;20(2):165-177.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Denny M, Marchand-Martella  N, Martella RC, Reilly JR, Reilly JF, Cleanthous CC. Using parent-delivered  graduated guidance to teach functional living skills to a child with Cri du chat syndrome. Edu Treat Child . 2001;23(4):441-454.  (C)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Lovaas OI. Teaching Individuals with Developmental Delays: Basic Intervention Techniques . Austin, TX: Pro-Ed; 2003. (G)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Maas AP, Didden R, Korzilius H, Curfs LM. Exploration of differences in types of sleep disturbance and severity of sleep problems between individuals with Cri du Chat syndrome, Down's syndrome, and Jacobsen syndrome: a case control study. Res Dev Disabil . 2012;33(6):1773-1779.  doi:10.1016/j.ridd.2012.04.017. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Moss J, Howlin P, Hastings RP, et al. Social behavior and characteristics of autism spectrum disorder in Angelman, Cornelia de Lange, and Cri du Chat syndromes. Am J Intellect Dev Disabil . July 2013;118(4):262-283.  doi:10.1352/1944-7558-118.4.262.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Kristoffersen KE, Garmann NG, Simonsen HG. Consonant production and intelligibility in cri du chat syndrome. Clin Linguist Phon . October 2014;28(10):769-84. doi:10.3109/02699206.2014.904442. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Hall C, Hallett K, Manton D. The association between Cri du chat syndrome and dental anomalies. J Dent Child (Chic) . 2014;81(3):171-177.  (RV)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Lodi M, Rebessi E, Parente E, et al. Eating epilepsy characterised by late-onset  epileptic spasms in a case of Cri du chat syndrome. Seizure. November 2015;32:49-51. doi:10.1016/j.seizure.2015.09.005. (C)"
+        }
+    ]
+}

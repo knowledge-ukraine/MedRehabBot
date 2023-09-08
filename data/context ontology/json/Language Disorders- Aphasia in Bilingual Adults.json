@@ -1,0 +1,354 @@
+{
+    "metadata": {
+        "title": "Language Disorders  Aphasia in Bilingual Adults",
+        "synonyms": [
+            "aphasia in bilingual adults  language disorders"
+        ],
+        "anatomical location body part affected": [
+            "Aphasia is caused by focal damage to the language control centers of the brain, typically in the left hemisphere.(1,2) For information on the specific anatomical locations affected in the various types of aphasia, please see the series of Clinical Reviews on aphasia"
+        ],
+        "area of specialty": [
+            "adult neurological disorders"
+        ],
+        "description": [],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "I69.020": "aphasia following nontraumatic subarachnoid hemorrhage",
+            "I69.021": "dysphasia following nontraumatic subarachnoid hemorrhage",
+            "I69.120": "aphasia following nontraumatic intracerebral hemorrhage",
+            "I69.121": "dysphasia following nontraumatic intracerebral hemorrhage",
+            "I69.220": "aphasia following other nontraumatic intracranial hemorrhage",
+            "I69.221": "dysphasia following other nontraumatic intracranial hemorrhage",
+            "I69.320": "aphasia following cerebral infarction",
+            "I69.321": "dysphasia following cerebral infarction",
+            "I69.820": "aphasia following other cerebrovascular disease",
+            "I69.821": "dysphasia following other cerebrovascular disease",
+            "I69.920": "aphasia following unspecified cerebrovascular disease",
+            "I69.921": "dysphasia following unspecified cerebrovascular disease",
+            "R47.01": "aphasia",
+            "R47.02": "dysphasia _ (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Variations in signs and symptoms:  Signs and symptoms of aphasia will vary greatly depending upon the specific location of brain injury, the type of aphasia, the severity of aphasia, and the amount of time that has passed since the initial brain injury.(1,2) Patients with aphasia can also have dysarthria, apraxia, and/or dysphagia, which will lead to further variations in patient presentation.(1) For detailed information, please see the series of Clinical Reviews on dysarthria, acquired apraxia, and dysphagia. Cognitive deficits in the areas of attention, perception, pattern detection, categorization, dual-processing, problem solving, and/or memory can also be present in aphasia. When a bilingual person is affected by aphasia, it is highly likely that language impairments will be present in both (or all) of his or her languages and that the type of aphasia will  be the same in both languages (e.g., the patient will demonstrate expressive aphasia in English and Spanish) even if the severity is not.(2,5) Specific manifestation of symptoms will vary between the patient\u2019s languages due to differences in form and structure of those languages. For example, symptoms of agrammatism will vary according to each language\u2019s syntax.(2,6) For detailed information on symptoms associated with specific types of aphasia, see the series of Clinical Reviews on aphasia",
+            "Recovery patterns: The recovery pattern of bilingual patients with aphasia may be quite variable (often termed \u201cdifferential recovery\u201d). Recovery patterns typically seen among bilingual patients during the acute recovery phase (i.e., up to 4 weeks after aphasia begins) include: 1) dramatic improvements across both of the patient\u2019s languages, 2) notably different levels of recovery between the patient\u2019s two languages, and 3) periods of improvement in both languages mixed with periods of greater recovery in one language.(7) The terms \u201cparallel recovery\u201d and \u201cnonparallel recovery\u201d are also used to describe language skills and recovery in bilingual patients with aphasia. In parallel recovery, following brain injury a patient\u2019s relative abilities in language 1 and 2 (L1 and L2) are the same as his or her abilities in those languages prior to aphasia. For example, if a patient was more fluent in Hmong than English prior to the onset of aphasia, he or she will remain so following the onset of aphasia. In nonparallel recovery, one of a patient\u2019s languages is more impacted by aphasia than the other and the proficiency in one language relative to the other may be different than before the onset of aphasia(2)",
+            "Translation abilities: A patient\u2019s translation abilities often are affected by aphasia. Translation impairments include 1) inability to translate (patient is unable to translate to or from either language), 2) spontaneous translation (patient translates messages involuntarily and is unable to refrain from translating his or her own utterances or the utterances of others), 3) translation without comprehension (patient is able to perform translations quickly but does not comprehend the meaning of the message), and 4) paradoxical translation (patient is able to translate in one language but not the other)(6)",
+            "Language mixing : Following the onset of aphasia, bilingual patients may exhibit unintentional language mixing. Although code switching is an appropriate mixing of two languages frequently used by nonaphasic bilingual persons, in aphasia the patient sometimes mixes languages in a more random, undesirable way, possibly due to decreased cognitive control of language output.(2,7,29)Additionally, code switching might be used by patients with nonfluent aphasia to improve fluency and grammaticality.(32) Recovery varies across language process (e.g., syntax, semantics, phonology) and modalities (e.g., spoken language, gesture).(7) Code switching should not be discouraged when it allows the patient to maximize communication abilities with multiple communication partners(26) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Precautions related to the examination of all patients with aphasia: Depression and anxiety are common among persons with aphasia and can adversely affect test performance, making patients seem more impaired than they are.(12) It is important that SLPs be knowledgeable of symptoms of depression (e.g., loss of interest in daily activities, problems sleeping, feelings of sadness and hopelessness) and refer to a neuropsychologist or clinical psychologist when signs are present.(13) During a speech-language evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance and level of frustration. The time of day and the number of previous evaluations can affect the patient\u2019s alertness and  performance. Patients with aphasia may not be able to complete tests or answer questions regarding medical history. It is recommended that the caregiver/family be involved in all assessment procedures",
+            "Precautions specific to bilingual patients with aphasia:  In order to perform a complete assessment of bilingual patients and to create relevant intervention plans, the patient\u2019s language abilities in all of his or her languages must be considered as well as the social, educational, and/or vocational functions each language serves. This will help ensure the inclusion of all languages a patient uses to maintain social ties, express wants and needs, and share/receive information in intervention activities(2)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes: approximately , persons in the united states acquire aphasia each year; a total of about  million persons are affected. stroke is the most common cause of brain injury leading to aphasia. other causes include traumatic brain injury,": [],
+        "pathogenesis:  aphasia is caused by damage to one or more of the language centers of the brain, often in the left cerebral hemisphere ,": [],
+        "risk factors": [
+            "Risk factors for stroke\u2013Advanced age (risk doubles each decade after age 55; peak incidence at 80\u201384  years of age)(9)\u2013Sex (more common in women than men)(9)-Use of birth control pills and pregnancy further increase risk of stroke in women(9)\u2013Family history of stroke(9)\u2013History of stroke, heart attack, or transient ischemic attack (TIA)(9)\u2013Cigarette smoking(9)\u2013Hypertension (normal blood pressure \u2264 120/80 mm Hg)(9)\u2013Diabetes mellitus(9)\u2013Carotid or other artery disease (including peripheral artery disease)(9)\u2013Excess weight(9)\u2013Hyperlipidemia (LDL cholesterol > 100 mg/dL)(9)\u2013Physical inactivity(9)\u2013Alcohol and/or drug abuse(9)\u2013Atrial fibrillation or other heart disease(9)\u2013Sickle cell disease(9)\u2013Poor diet high in fat(9)\u2013Geographical location (in the United States, strokes are more common in the Southeast)(9)\u2013Socioeconomic factors (some evidence suggests strokes are more common among persons of low income)(9)\u2013For detailed information on assessment and treatment of patients with stroke, see Clinical Review\u2026Stroke Rehabilitation:Speech Therapy ; CINAHL Topic ID Number: T708774"
+        ],
+        "risk factors for traumatic brain injury  tbi": [
+            "Children, specifically newborns through age 4 years(10)",
+            "Teenagers and young adults, especially those 15\u201324  years of age(10)",
+            "Adults over age 75(10)",
+            "Male sex(10)",
+            "For detailed information on TBI, see the series of Clinical Reviews on this topic"
+        ],
+        "risk factors for brain tumor": [
+            "Exposure to ionizing radiation(11)",
+            "Family history of brain tumor or genetic syndrome associated with brain tumors(11)",
+            "For detailed information on brain tumors, see the series of Clinical Reviews on this topic"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Speech-language  pathologists (SLPs) who work with linguistically and culturally diverse patients and families must continuously work to develop clinical cultural competence. Kohnert suggests four characteristics of culturally competent clinicians: Simultaneously appreciates cultural patterns and individual variation(2) Engages in cultural self-scrutiny  (i.e., what are the SLP\u2019s cultural beliefs and personal biases?)(2) Embraces principles of evidence-based  practice(2) Considers language disorders within the social context of the patient(2)",
+        "The assessment and treatment of bilingual patients often requires a team approach. If the SLP does not share the patient/ family\u2019s linguistic or cultural background, translators, interpreters, and/or cultural mediators will likely be needed to participate in the assessment and intervention process.(2) Following a brain injury, team members might also include the patient\u2019s physician, a neurologist, a surgeon, a nutritionist, a physical therapist (PT), an occupational therapist (OT), a social worker, and other professionals as necessary",
+        "The assessment and treatment of patients with aphasia should integrate a medical model of care (focusing on healthcare delivery, individual treatment, and provision of professional care) and a social model of care (focusing on functional limitations resulting from aphasia, environmental barriers to independence, and the patient\u2019s ability to participate in family and community events)(2)",
+        "SLPs should complete a review of a patient\u2019s medical history prior to conducting an assessment or intervention See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Precautions related to the examination of all patients with aphasia: Depression and anxiety are common among persons with aphasia and can adversely affect test performance, making patients seem more impaired than they are.(12) It is important that SLPs be knowledgeable of symptoms of depression (e.g., loss of interest in daily activities, problems sleeping, feelings of sadness and hopelessness) and refer to a neuropsychologist or clinical psychologist when signs are present.(13) During a speech-language evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance and level of frustration. The time of day and the number of previous evaluations can affect the patient\u2019s alertness and  performance. Patients with aphasia may not be able to complete tests or answer questions regarding medical history. It is recommended that the caregiver/family be involved in all assessment procedures",
+            "Precautions specific to bilingual patients with aphasia:  In order to perform a complete assessment of bilingual patients and to create relevant intervention plans, the patient\u2019s language abilities in all of his or her languages must be considered as well as the social, educational, and/or vocational functions each language serves. This will help ensure the inclusion of all languages a patient uses to maintain social ties, express wants and needs, and share/receive information in intervention activities(2)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Review patient\u2019s medical history for site and extent of brain injury. Document language-acquisition  history as well as current language needs. Which language was learned first? How much did the patient communicate in each language prior to the brain injury (e.g., was the patient communicating in each language 50% of the time? Was the patient communicating in one language 90% of the time and speaking another only with a certain family member or group of friends?). The dynamic nature of language dominance, including factors such as age of acquisition and level of mastery, should be considered when determining the extent of impairment in each of the patient\u2019s languages as well as when deciding which language(s) to treat(26,28,30)",
+                "course of treatment": {
+                    "medical management": "What type of medical treatment has the patient received following his or her brain injury?",
+                    "surgical management": [],
+                    "medications": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs). The concurrent use of multiple medications is common among older adults who have complex medical conditions, and the side effects of these medications can adversely affect cognitive and communicative functioning.(13) Contact a pharmacist or physician regarding questions about side effects(13)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed: Note the results of any neurological (MRI, CT), neuropsychological, or psychological/ cognitive tests that have been completed"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had speech-language,  occupational, or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors -Are there times of day when the patient has more/less difficulty communicating? -Are there specific situations in which it is more/less difficult for the patient to communicate? -Is the patient aware of communication difficulties? Is the patient frustrated by communication difficulties?",
+                "body chart": "Use a body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (constant vs. intermittent, more severe in one language or the other, more difficulty comprehending or expressing language, exacerbated by fatigue or increased cognitive demand?)",
+                "rating of symptoms": "",
+                "pattern of symptoms": "Document whether symptoms present only in L1, only in L2, or in both languages",
+                "sleep disturbance": "",
+                "other symptoms": "Document other symptoms patient is experiencing that could exacerbate the condition and/or symptoms. Examples include depression, motor deficits, dysphagia, apraxia, and poor overall health status",
+                "respiratory status": "Document any respiratory difficulties the patient is experiencing (e.g., use of supplemental oxygen, mechanical ventilator)The SLP can collaborate with the psychologist to determine the appropriate evaluation with respect to the patient\u2019s language abilities. Cultural sensitivity is called for when addressing psychosocial issues, as these issues might be described or addressed differently from culture to cultureScreening for vision and hearing should always precede screening for aphasia. An audiologist should check for impacted cerumen prior to a pure-tone  audiometric screening and word recognition testing.(13) Informal assessment of vision is required if patient intends to support communication with visual methods (e.g., writing, gestures, pictures) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If yes, describe _________________________ Barriers to information/services -Are there linguistic or cultural barriers to accessing information or healthcare services? Yes__ No__ -If yes, describe _________________________ "
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any previous communication difficulties or cognitive deficits",
+                    "comorbid diagnoses": "Refer to medical charts and ask patient or patient\u2019s family about other problems, including hearing loss, vision deficits, diabetes, cancer, heart disease, and psychiatric disorders",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Document presence of other symptoms associated with apraxia, dysarthria, or dysphagia"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient work? Does the patient participate in language-based  recreational activities? Does the patient regularly use a computer and/or telephone? Document patient\u2019s premorbid language use in his or her work and recreational environment(s). Which language(s) did the patient use in these settings and with what level of proficiency?(30)",
+                "functional limitations assistance with ADLs adaptive equipment": "Document if the patient uses any adaptive equipment to communicate (e.g., pen/paper)",
+                "living environment": " Living environment -With whom does patient live? Which language(s) are used in the home? What types of messages does patient need to convey at home (e.g., social intimacy, information transfer, needs and wants)? What was the patient\u2019s premorbid proficiency in each of the languages used in his or her home?(30) -How does the patient\u2019s communication impairment affect the family\u2019s access to information and services in the community? If the patient was the family member most fluent in the majority language, how does that affect the family\u2019s functioning within the community? Is the patient/family able to access health care and information on aphasia?(2)"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Note if patient wears hearing aids or glasses and determine if hearing aids are in working order. Note use of wheelchair, walker, and/or communication devices",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisBecause the linguistic environment can considerably impact communication in individuals who are bilingual, it is important for the clinician to consider the context in which communication occurs and take some type of environmental inventory. The environment can be considered in terms of 1) factors that inhibit patient participation in family and community events and factors that support patient participation and 2) which language(s) is/are used to fulfill which communicative intentions. An SLP will focus on factors that inhibit or support the patient\u2019s ability to communicate in a variety of environments and contexts. These factors include 1) products and technology (e.g., an AAC device), 2) support and relationships (e.g., family members who speak the patient\u2019s L1 and L2), and 3) attitude (e.g., the patient\u2019s/family\u2019s view of the communication impairment and the patient\u2019s role in family/community events).(2) When considering communication intention, the SLP must consider which language(s) the patient used to communicate needs and wants, transfer information, establish and maintain social closeness, and convey social etiquette(2,19)Gather information on the patient\u2019s premorbid use of language -Obtain information about order of acquisition of each language and language history (e.g., languages used as a child in school and in the home)(20) -Which language is used in different situations (e.g., work, home, with relatives, with friends)?(20) -What modalities are used in each language (e.g., reading, speaking, writing)?(20) -Premorbid proficiency in each language can be compared to present proficiency using a 7-point scale (e.g., 1 = not fluent, 7 = native proficiency)(4)If a patient was proficient in more than one language, he or she should complete spoken and written translations as part of the language assessment. Results of translation activities will provide information on the integrity of cross-linguistic links and the degree of cognitive control maintained over the patient\u2019s language system (i.e., is the patient able to prevent unintentional code-switching?)(2) ",
+            "speech and language examination": "In order to assess the presence of unintentional code-switching (which can indicate poor cognitive control of the patient\u2019s language system or executive functioning impairment), the patient should be observed conversing with another person who is fluent in both of the patient\u2019s languages(2,14)A motor speech evaluation should be performed of patients with aphasia. Careful consideration should be given to whether or not apraxia of speech (AOS) or dysarthria is a comorbid condition. For detailed information on theT708586. For detailed information on the evaluation of dysarthria, please see the series of Clinical Reviews on dysarthria \u2013Language -Areas of language that should be tested when aphasia is suspected include auditory comprehension, language production, reading, writing, confrontation naming, automatic speech production, and repetitions of words and sentences. These language domains should be assessed in each language that the patient previously used. Performance on measures of word retrieval in bilingual patients with aphasia is influenced by premorbid language proficiency.(30)Naming accuracy will be higher for a bilingual person with aphasia in the language in which he or she was more proficient prior to the onset of aphasia.(31) The following tests might be appropriate to use with patients witha test that measures the functional communication skills of adults with communication disorders such as aphasia. Areas assessed include social communication; communication of basic needs; reading, writing, and number concepts; and daily planning.(15) Since the ASHA FACS is available only in English and has been field-tested  only on English-speaking  subjects, the SLP would need to adapt this subjective measure for use with bilingual patients(2) allows subjective comparison of a patient\u2019s current proficiency in L1 and L2 to premorbid levels of proficiency in each language. A 5-point  scale is used to rate auditory comprehension, language production, confrontation naming, repetition, reading, writing, automatic speech tasks, translating into L1/ L2, and speech intelligibility. Functional code-switching  and unintentional language switching are also assessed subjectively(2)tests a wide range of language skills (e.g., spontaneous speech, verbal auditory discrimination, word repetition, naming, reading of words and sentences) and has been adapted (rather than translated) for use in dozens of languages(16)authors of a study conducted in South Africa with 10 bilingual individuals with aphasia (and 19 controls) found that combining the Comprehensive Aphasia Test (CAT) with a non-verbal  assessment of executive functioning was helpful for determining an appropriate treatment plan. Bilingual individuals with aphasia who have lasting executive functioning deficits often have more severe communication impairment. Additionally, determining the extent of executive functioning impairment will inform the treating SLP\u2019s plan of care(33)Assess vocal quality and other appropriate voice parameters (such as intensity, pitch, and range); neurological impairment can affect vocal quality; if necessary, refer to otolaryngologist (ENT) to rule out laryngeal pathologyDocument the presence of stuttering; neurological impairment can result in stuttering behaviors and has been reported in bilingual patients with aphasia(17) -For detailed information on stuttering and disorders of fluency, see the series of Clinical Reviews on this topicAssess reading skills as part of a comprehensive evaluation of language abilities; assess in both languages and note any differences. Standardized assessments of reading are included in many of the assessments of aphasia -Some bilingual individuals are fluent in more than one spoken language; however, they never learned to read and write in more than one language. It is important to document the patient\u2019s prior abilities in each language with respect to reading and writing before assessing his or her current reading and writing abilities(18) -Some subtests of language tests include a reading or phonological awareness component; for patients who were nonliterate in a specific language prior to the onset of aphasia, performance in these subtests can make a patient appear more impaired than he or she actually is(18)",
+            "neurological examination": "",
+            "oral structure and oral motor function": "An oral motor and oral peripheral exam should be conducted to evaluate the patient\u2019s oral motor skills during nonspeech and speech tasksNote any history of visual and/or perceptual disturbances",
+            "perception": "",
+            "arousal attention cognition": "Patients with aphasia can have cognitive impairments that range from severe to subtle, especially in comparison to their communication impairment.(2) Refer to psychological and cognitive evaluations to assist in informing course of treatment and providing a prognosis for therapy. Note that scores on tests normed on monolingual individuals as well as tests requiring verbal responses might not be valid",
+            "aac assessment": "",
+            "swallow examination": "Dysphagia often co-occurs  with aphasia; assess swallowing function as indicated \u2013For detailed information on assessment and treatment of dysphagia, see the series of Clinical Reviews on this topic",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients who have had a brain injury may be at risk for falls; follow facility protocols for fall prevention and post fall-prevention  instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention  strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital or school and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Patients who have experienced an injury to the brain are at risk for dysphagia; follow facility protocols and treatment plan for dysphagia management. Post dysphagia management strategies, if inpatient. Inform patient and family/caregivers of the potential for aspiration, if appropriate, and educate about safe eating/feeding strategies. Please see the series of Clinical Reviews on dysphagia for more information",
+                "When treating a bilingual patient with aphasia, it is necessary to consider all the patient\u2019s communication needs in his or her daily life. Speech and language intervention must target communication in each/all of the patient\u2019s languages so that the patient does not become isolated from any domain of his or her daily life. Therefore, intervention must not focus on one language to the exclusion of the patient\u2019s other language(s)(2)"
+            ]
+        },
+        "diagnosis need for treatment": "The clinical diagnosis of aphasia is made collaboratively with the patient\u2019s family and other professionals (e.g., physician, neuropsychologist, OT, SLP, PT) using a combination of measures, including CT scan, MRI, standardized tests, and standardized measures, to diagnose the type and severity of aphasia.(1) Bilingual patients with aphasia can show a greater degree of language impairment in one language versus another; rarely will a patient have the same degree of aphasia across both (or all, in the case of patients who are fluent in three or more) languages(21,22)",
+        "rule out": "When assessing patients with aphasia, the following conditions must be ruled out or identified dysphagia, and/or dementia",
+        "prognosis": [
+            "Size and site of the brain lesion(23)",
+            "Psychological factors such as depression, premorbid personality, fatigue, and paranoia(24)",
+            "Intervention soon after onset of aphasia is recommended, but authors of a literature review of 23 treatment studies involving patients with aphasia found that patients can still make progress in therapy if intervention starts after 1 year post onset of aphasia(25)",
+            "Complete recovery from aphasia is rare, and a primary goal would be to improve the patient\u2019s ability to use residual verbal skills in conjunction with contextual cues and nonverbal means to achieve effective communication in social situations(23)"
+        ],
+        "referral to other disciplines": "Refer to OT for assistance with daily living skills if needed. Refer to a psychologist or counselor for depression or anxiety. Refer to translation services if patient or family needs assistance accessing information that is not available in their primary language",
+        "other considerations": [],
+        "treatment summary": [
+            "In an effort to determine the effectiveness of aphasia therapy for the bilingual patient, authors of a review reported on 15 articles (2 of which were systematic reviews) that addressed the topic.(28) Findings from this review were: \u2013Language production in both healthy and aphasic bilingual individuals is affected by cross-linguistic  transfer (i.e., each language in the patient\u2019s system influences the production of the other languages). For this reason, cross-linguistic transfer concepts are incorporated into bilingual aphasia therapy. Although the effects of cross-linguistic  transfer do not appear to be universal, there is some evidence that when cognates and clangs are targeted in one language during bilingual aphasia therapy for word retrieval, there can be generalization to the other language. Cognates are phonologically similar words with the same meaning (e.g., \u201ctiger\u201d in English and \u201ctigre\u201d in French) and clangs are phonologically similar words with different meanings (e.g., \u201cbell\u201d in English is a metal instrument that makes a ringing sound when hit,and \u201cbelle\u201d in French means beautiful).There is conflicting evidence about whether training of noncognates, which are words with the  same meaning but different pronunciation (e.g., \u201cbutterfly\u201d in English is \u201cpapillon\u201d in French), in bilingual persons with aphasia results in cross-linguistic generalization.(28)Review authors also reported evidence for cross-linguistic  transfer effects when there is considerable overlap between syntactic elements (e.g., pronoun and gender agreement) of a bilingual patient\u2019s languages(28) \u2013The evidence for determining in which language therapy should be provided is mixed. In multiple studies reviewed, authors found evidence to support cross-linguistic  therapy effects when aphasia therapy was provided in the language in which the patient was less proficient prior to onset of aphasia (i.e., generalization of therapeutic gains to the more proficient, but untreated, language).(28) In other studies, findings supported targeting the language in which the patient is more proficient after the onset of aphasia (i.e., less severely impaired by aphasia)(28) \u2013Using translation from one of the patient\u2019s languages to the other as a therapy task might enhance the overall effects of bilingual aphasia therapy, especially in cases in which the patient\u2019s cognitive control mechanism is damaged(28) \u2013Semantic Feature Analysis (SFA) and phonological cueing appear to enhance the effects of cross-linguistic  transfer in anomia therapy for bilingual patients with aphasia.(28) For detailed information on anomia therapy, see Clinical Review\u2026 Anomia Associated with Aphasia ; CINAHL Topic ID Number: T708611",
+            "Aphasia treatment models \u2013Medical model: Treatment focuses on the individual patient\u2019s communication deficits. Therapy activities target recovering, relearning, or compensating for impaired communication abilities(2) \u2013Social model: Intervention focuses on examining the ways in which a patient\u2019s environment facilitates or inhibits his or her ability to communicate. Persons, places, and things typically present in the patient\u2019s environment are incorporated into treatment activities(2) \u2013In order to maximize treatment outcomes, elements of the medical and social models should be combined(2) \u2013Decisions about which language to target in treatment should respect the linguistic context and personal goals of the patient. If it is important that patient maintain bilingual communication abilities, aphasia therapy should incorporate both (or all) languages in which the patient previously communicated(2)",
+            "Language-based  intervention \u2013None of the patient\u2019s languages should be excluded from therapy, for several reasons: -Without the ability to use one or more languages, the patient may become isolated from his or her family and home community. Therefore, both the majority language (often spoken by the SLP) and the patient\u2019s home language(s) should be targeted during intervention(2) -Published research indicates that lexical-semantic links between a patient\u2019s two languages can be used to strengthen skills in both languages during aphasia treatment. When treatment incorporates elements shared by both of the patient\u2019s languages (e.g., cognates, word pairs that are similar in form and meaning, such as English \u201ctelephone\u201d and Spanish \u201ctelefono\u201d), treatment gains can be maximized(2) -Bilingual patients with aphasia who unintentionally mix languages might be exhibiting difficulty with the underlying cognitive control of language rather than a linguistic or pragmatic impairment. Therefore, when a patient mixes two languages within an utterance, the utterance should be examined for meaning (rather than analyzed for linguistic form) and recast in a meaningful way(2)",
+            "In a study of 3 bilingual patients with aphasia conducted in the United States, researchers found that cross-linguistic generalization occurs following treatment focusing on semantic naming.(4) Patients received semantic training in English or Spanish. Following the period of treatment, patients demonstrated improved naming abilities in both languages; however, the patients showed different patterns of generalization. When patients received treatment in the language they were most proficient in premorbidly, they displayed improvements in naming on tasks in that language but not in the other language. When patients received semantic training in their less proficient language, naming skills improved in that language as well as in their most proficient language 4)",
+            "Cognitive-based  treatment approaches \u2013When viewed from a cognitive perspective, the symptoms of aphasia are considered to result from damage to underlying cognitive processes such as attention, perception, pattern detection, categorization, problem solving, and memory. Therefore, it is believed that intervention focused on strengthening these cognitive skills will directly lead to improved language or will strengthen the cognitive underpinnings required for language use(5)  \u2013In a case study based upon a cognitive perspective, researchers studied the effects of nonlinguistic information tasks on gains in language performance in one bilingual English-Spanish  patient (a 62-year-old  man with transcortical motor aphasia and accompanying cognitive weakness). Treatment focusing on nonverbal skills occurred over a 2-month  period; consisted of 14 1-hour  sessions; and included visual scanning, card sorting, and math computation activities. Following treatment, the patient exhibited significant gains on cognitive tasks and modest gains in both languages(5)",
+            "Environment-based  treatment approaches \u2013Although informational material on aphasia is widely available in English, it may be difficult to obtain in other languages. Therefore, families who are not proficient in English might have difficulty understanding the patient\u2019s impairment and its effect on communication and/or cognition. Part of the SLP\u2019s role might be finding aphasia resources in the family\u2019s home language or educating a translator/interpreter about aphasia so that they can then communicate this information to the family. The SLP should also ensure that the family is educated about the risk of depression in patients with aphasia and the effect that depression can have on therapy progress(2) \u2013SLPs should educate other healthcare workers on the nature of language mixing in bilingual patients with aphasia. Healthcare providers unfamiliar with bilingual aphasia might at times believe the patient is using jargon when he or she is mixing languages and attempting to convey a meaningful message(2) \u2013A bilingual Ilocano/English-speaking  man with aphasia and his wife participated in \u201cConducting Conversation\u201d (CC) aphasia therapy in a case study. In CC therapy, interactions between the patient and his wife were targeted, rather than interactions between the patient and the SLP. During treatment sessions, the patient and his wife were taught techniques to use to improve communication and activities were conducted in English; however, daily 20-minute  practice sessions were done in Ilocano, a language spoken in the Philippines. Following 8 weeks of treatment and home practice, the patient showed improvements in verbal output and coherence plus decreased need for conversational repair. Although home practice was conducted in Ilocano, results were obtained only on changes in English conversation(26) . Problem Goal Intervention Expected Progression Home Program  Bilingual aphasia Improve communication skills in all patient\u2019s languagesSupport use of languages used prior to onset of aphasia and those currently needed by patient _ _ 1.Target the language used by the majority community (e.g., English in the United States) as well as the patient\u2019s home language to support communication in a variety of settings(2) 2.Incorporate shared elements of each language into treatment activities in order to maximize treatment gains(2) 3.Identify the meaning of utterances containing language mixing and reshape them into syntactically and pragmatically appropriate utterances(2)Improved communication in both/all of patient\u2019s languagesEncourage use of home language(s) Impaired cognitive control of language outputImprove cognitive skills that support language skillsCognitive-based treatment approach _ Research indicates that addressing cognitive impairments in bilingual patients with aphasia produces modest gains in language performance. Cognitive tasks included in treatment sessions may include card sorting, visual scanning, and math computations(5)Improved cognitive skills will support gains in language skillsNone specified  Environmental factors inhibit communicationPersons in the patient\u2019s environment will make changes in order to support the patient\u2019s communicationEnvironment-based intervention _ _ 1.SLP should find information on aphasia in the family\u2019s home language or to educate a translator/interpreter about aphasia in order to educate the patient and his or her family(2) 2.SLP should educate other healthcare providers on language mixing in bilingual patients with aphasia as well as on the potential for noncompliance resulting from communication breakdowns(2) 3.Conducting Conversation (CC) therapy has been shown to be effective in improving conversational skills in a bilingual patient with aphasia. This approach focuses on conversation between the patient and someone other than the SLP. Communication strategies taught through CC include use of gestures, use of circumlocution when experiencing word retrieval difficulty, and use of requests for clarification when misunderstandings occur(26)Persons in the patient\u2019s environment will become more supportive of patient\u2019s communicationTo be implemented in a variety of environments encountered by the"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved receptive and expressive language abilities": [
+            "Bilingual Aphasia Language Summary Form",
+            "BAT"
+        ],
+        "improved functional communication": [
+            "ASHA FACS"
+        ],
+        "reduced perseverations and echolalia": [],
+        "increased participation in social, vocational, and avocational activities": [],
+        "increased independence": [],
+        "increased communication with external support": [],
+        "effective external modifications": [],
+        "better understanding of aphasia and how to communicating more effectively with the patient among friends and family members": [],
+        "increased patient awareness of language deficits": [],
+        "improved quality of life": []
+    },
+    "maintenance or prevention": [
+        "Clinic-based  treatment should eventually be transferred to home-based routines so that the patient and caregivers can continue treatment independently"
+    ],
+    "patient education": [
+        "The following Web sites have information on aphasia in languages other than English: American Speech-Language-Hearing  Association (Spanish), https://www.asha.org/public/speech/disorders/La-Afasia/ Family Caregiver Alliance (English, Spanish, Chinese, Korean, Vietnamese), https://www.caregiver.org/fact-sheets National Institute on Deafness and Other Communication Disorders (Spanish), https://www.nidcd.nih.gov/es/espanol/afasia Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Aphasia. American Speech-Language  Hearing Association Web site. http://www.asha.org/public/speech/disorders/Aphasia.htm . Accessed April 6, 2018. (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Kohnert K. Language Disorders in Bilingual Children and Adults . San Diego, CA: Plural Publishing; 2007. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Aphasia frequently asked questions. National Aphasia Association Web site. http://www.aphasia.org/content/aphasia-faq . Accessed April 6, 2018. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Edmonds LA, Kiran S. Effect of semantic naming treatment on crosslinguistic generalization in bilingual aphasia. J Speech Lang Hear Res . 2006;49(4):729-748.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Kohnert K. Cognitive and cognate-based  treatments for bilingual aphasia: a case study. Brain Lang . 2004;91(3):294-302.  (C)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Fabbro F. The bilingual brain: bilingual aphasia. Brain Lang . 2001;79(2):201-210.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Lorenzen B, Murray LL. Bilingual aphasia: a theoretical and clinical review. Am J Speech Lang Pathol . 2008;17(3):299-317.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Aphasia. National Institute on Deafness and Other Communication Disorders Web site. http://www.nidcd.nih.gov/health/voice/pages/aphasia.aspx . Accessed April 6, 2018. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "American Heart Association. Stroke risk factors. American Heart Association Web site. http://www.strokeassociation.org/STROKEORG/AboutStroke/UnderstandingRisk/Understanding-Risk_UCM_308539_SubHomePage.jsp . Accessed April 6, 2018. (GI)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Mayo Clinic staff. Traumatic brain injury. Mayo Clinic Web site. http://www.mayoclinic.org/diseases-conditions/traumatic-brain-injury/basics/risk-factors/con-20029302 . Accessed April 6, 2018. (GI)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Mayo Clinic staff. Brain tumor. Mayo Clinic Web site. http://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/dxc-20117134 . Accessed April 6, 2018. (GI)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Brumfitt S. Psychosocial aspects of aphasia: speech and language therapists' views on professional practice. Disabil Rehabil . 2006;28(8):523-534.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "American Speech-Language-Hearing  Association. Dementia. American Speech-Language-Hearing  Association Web site. http://www.asha.org/Practice-Portal/Clinical-Topics/Dementia/ . Accessed April 6, 2018. (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Penn C, Frankel T, Watermeyer J, Russell N. Executive function and conversational strategies in bilingual aphasia. Aphasiology . 2010;24(2):288-308.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Frattali C; American Speech and Hearing Association. Functional Assessment of Communication Skills for Adults (ASHA FACS) . Rockville, MD: ASHA; 1995. (PP)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Paradis M, Libben G. The Assessment of Bilingual Aphasia . Hillsdale, NJ: Lawrence Erlbaum Associates; 1987. (PP)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Ardila A, Ramos E, Barrocas R. Patterns of stuttering in a Spanish/English bilingual: a case report. Clin Linguist Phon . 2011;25(1):23-36.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Tsegaye MT, De Bleser R, Iribarren C. The effect of literacy on oral language processing: implications for aphasia tests. Clin Linguist Phon . 2011;25(6-7):628-639.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Light J. Interaction involving individuals using augmentative and alternative communication systems: state of the art and future directions. Augment Altern Commun . 1988;4(2):66-82.  (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Mu\u00f1oz ML, Marquardt TP, Copeland G. A comparison of the codeswitching patterns of aphasic and neurologically normal bilingual speakers of English and Spanish. Brain Lang. 1999;66(2):249-274.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Koumanidi Knoph MI. Language assessment of a Farsi-Norwegian  bilingual speaker with aphasia. Clin Linguist Phon . 2011;25(6-7):530-539.  (C)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Green DW, Ruffle L, Grogan A. Parallel recovery in a trilingual speaker: the use of the Bilingual Aphasia Test as a diagnostic complement to the Comprehensive Aphasia Test. Clin Linguist Phon . 2011;25(6-7):449-512.  (C)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Bakheit AMO, Shaw S, Carrington S, Griffiths S. The rate and extent of improvement with therapy from the different types of aphasia in the first year after stroke. Clin Rehabil . 2007;21(10):941-949.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Sarno MT, Galgano J. Neurogenic disorders of speech and language. In: O'Sullivan SB, Schmitz TJ, Fulk GD, eds. Physical Rehabilitation . 6th ed. Philadelphia, PA: F. A. Davis; 2014:1271-1279.  (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Moss A, Nicholas M. Language rehabilitation in chronic aphasia and time postonset: a review of single-subject  data. Stroke. 2006;37(12):3043-3051.  (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Boles L. Aphasia therapy in a bilingual speaker: treatment in language one, with spousal support in language two. Asia Pac J Speech Lang Hear . 2000;5(2):137-142.  (C)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Simmons-Mackie  N, Threats TT, Kagan A. Outcome assessment in aphasia: a survey. J Commun Disord . 2005;38(1):1-27.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Ansaldo AI, Saidi LG. Aphasia therapy in the age of globalization: cross-linguistic  therapy effects in bilingual aphasia. Behav Neurol . Advance online publication. 2014;2014:603085. doi:10.1155/2014/603085. (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Dash T, Kar BR. Bilingual language control and general purpose cognitive control among individuals with bilingual aphasia: evidence based on negative priming and flanker tasks. Behav Neurol . Advance online publication. 2014;2014:679706. doi:10.1155/2014/679706. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Kiran S, Balachandran I, Lucas J. The nature of lexical-semantic  access in bilingual aphasia. Behav Neurol . Advance online publication. 2014;2014:389565. doi:10.1155/2014/389565. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Kendall D, Edmonds L, Van Zyl A, Odendaal I, Stein M, Van der Merwe A. What can speech production errors tell us about cross-linguistic  processing in bilingual aphasia? Evidence from four English/Afrikaans bilingual individuals with aphasia. S Afr J Commun Disord . 2015;62(1):E1-E10.  doi:10.4102/sajcd.v62i1.111. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Neumann Y, Walters J, Altman C. Codeswitching and discourse markers in the narratives of a bilingual speaker with aphasia. Aphasiology . 2017;31(2):221-240. doi:10.1080/02687038.2016.1184222. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Penn C, Barber N, Fridjhon P. Early recovery profiles of language and executive functions after left hemisphere stroke in bilingualism. Aphasiology . 2017;31(7):741-764. doi:10.1080/02687038.2016.1258538. (R)"
+        }
+    ]
+}

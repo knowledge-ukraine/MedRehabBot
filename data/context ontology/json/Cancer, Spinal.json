@@ -1,0 +1,307 @@
+{
+    "metadata": {
+        "title": "Spinal Tumor",
+        "synonyms": [
+            "spinal cancer",
+            "tumor, spinal",
+            "cancer, spinal"
+        ],
+        "anatomical location body part affected": [
+            "Vertebral bodies, lamina, intraforaminal spaces, spinal cord (extradural, intradural, or intramedullary), or nerve roots of any spinal level"
+        ],
+        "area of specialty": [
+            "acute care",
+            "oncology",
+            "neurological rehabilitation",
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "A spinal tumor is a growth that develops within or near the spinal cord or within the bones of the spine. A spinal tumor can affect the nerves in the area surrounding it, which can lead to pain, neurological impairments, and disability",
+            "Spinal tumors can be classified as extradural, intradural intramedullary, and intradural extramedullary (16) \u201355-60%  of spinal tumors are extradural tumors and are usually metastatic from other sites. They are considered secondary spinal tumors -60\u201370%  of extradural tumors occur in the thoracic spine, 20\u201330%  in the lumbar spine, and 10% in the cervical spine(17) -Thirty percent of patients with metastases will have tumors in more than one area of the spine(17) \u201320\u201330%  of spinal tumors are intradural intramedullary -Gliomas make up 80% of intramedullary tumors. Gliomas are further subdivided into astrocytomas and ependymomas \u2013Of the remaining spinal tumors, most are intradural extramedullary -This type is found most often in the thoracic region \u2013Living environment:  Stairs, number of floors in home, with whom the patient lives, caregivers, etc. Identify if there are barriers to independence in the home; any modifications necessary?"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "C41.2": "malignant neoplasm of vertebral column, excluding sacrum and coccyx",
+            "C79.4": "secondary malignant neoplasm of other and unspecified parts of nervous system",
+            "C79.5": "secondary malignant neoplasm of bone and bone marrow",
+            "D16.6": "benign neoplasm of vertebral column, excluding sacrum and coccyx",
+            "D48.0": "neoplasm of uncertain or unknown behavior of bone and articular cartilage",
+            "ICD": "codes are provided for the reader\u2019s reference, not for billing purposes"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Pain is the most common presenting symptom of spinal tumors(6) \u2013Insidious, intractable spinal pain \u2013Pain can be local, radicular, or referred \u2013Pain is typically worse at night and with rest \u2013Pain is often worse in the supine position \u2013Thoracic spinal cord tumors can cause chronic abdominal pain \u2013Intradural tumors are associated with radicular pain and nocturnal pain(3) ",
+            "Unexplained weight loss \u2013Tumor growth leads to excess metabolism of nutrients, leading to unexplained weight loss and pathologic fracture of vertebrae",
+            "Progressive musculoskeletal deformities \u2013Tumors in the cervical and thoracic spine may cause paraplegia if there is a collapse of a vertebral body with subsequent compression of the cord",
+            "Approximately 1 in 20 patients with malignant spinal tumors can develop spinal cord compression, also known as metastatic spinal cord compression (MSCC).(6) Tumors that involve the nerve roots or spinal column lead to motor, sensory, and functional impairments. Distribution of neurological deficits is based on the location of the lesion(6) \u2013Motor dysfunctions include weakness, fatigue, spasticity, exaggerated deep tendon reflexes, and extensor plantar response (Babinski reflex) \u2013Sensory dysfunctions include numbness and paresthesias",
+            "Loss of bowel and bladder function or difficulty walking may be noted Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Primary malignancies that most commonly metastasize to the spine are lymphoma, multiple myeloma, and lung, breast,prostate, kidney, and colon tumors(6)\u2013Ten percent of all patients with cancer will develop symptomatic spinal metastases; of these, 50% will develop pain andneurologic deficits(4)",
+            "Primary malignant neoplasms of the spine are rare, accounting for < 5% of spinal tumors; they include:(4)\u2013multiple myeloma, plasmacytoma, osteoblastoma\u2013chordoma (mid-vertebral  body; destructive and rare)",
+            "Benign neoplasms are also rare\u2013Types of benign neoplasms include osteoid osteoma, eosinophilic granuloma, aneurysmal bone cyst, giant cell tumor,ependymoma, neurofibroma, schwannoma, lipoma, and meningioma-Neurofibromas and schwannomas arise from Schwann cells of the nerve roots(6)-Multiple neurofibromas indicate the increased likelihood of neurofibromatosis(6)-Ependymomas arise from cells lining the central canal; nearly all are benign(6)",
+            "Intradural spinal tumors are rare\u2014annual incidence is 2\u20134/1,000,000(3)"
+        ],
+        "pathogenesis": [
+            "Abnormal cell growth in the spinal cord or vertebral column occurs from either primary or secondary sources(16)\u2013A spinal tumor is primary when the spine is the original site of abnormal growth\u2013Secondary spinal tumors are metastatic growths of abnormal cells from another area in the body spreading to the vertebralcolumn",
+            "Spinal cord tumors result in compression and traction of the spinal cord, spinal nerve roots, and vertebral arteries, and havean effect on cerebrospinal fluid (CSF) circulation"
+        ],
+        "risk factors": [
+            "The greatest risk factor is the presence of existing malignant cells in the body that can metastasize to the spine\u2013The most common sources are the breast, myeloma, colon, lung, lymphoma, prostate, and kidney(6,17)",
+            "Other risk factors\u2013Family history of cancer\u2013Exposure to carcinogenic material\u2013Smoking\u2013Meningiomas occur more often in females(6)\u2013Age: certain tumors are more likely to occur in childhood or adulthood-Ependymomas are more common in adults(6)-Astrocytomas are more common in children(6)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Medical intervention is required for this condition. If this condition is suspected (and patient does not yet have a formal diagnosis or is being seen through direct access), the patient should immediately be referred to a physician for further testing",
+        "Follow physician\u2019s orders and/or protocol; obtain clear instructions regarding acceptable activities",
+        "Monitor patient for signs and symptoms of serious complications of medical treatment (e.g., DVT) and contact physician immediately should they develop Please see Clinical Review\u2026Deep Vein Thrombosis: Exercise ; CINAHL Topic ID Number: T708457 for more information on signs and symptoms and prevention",
+        "Activity should begin only after patient is medically stable, spinal stability has been restored, and patient has been medically cleared(1)",
+        "Follow the facility\u2019s guidelines regarding evaluation and treatment guidelines for the pediatric population",
+        "Any treatment that increases the proliferation rate of tumor cells must be avoided with this patient population. These include the use of therapeutic or electromagnetic modalities or use of massage techniques prior to medical management of the cancer",
+        "MSCC is considered an emergency and can result in paralysis and associated loss of independence. Symptoms include pain in back or neck (including radiating pain), numbness in toes and fingers, difficulty walking, very little urine output, bowel and bladder incontinence, and constipation(17)",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Etiology of illness -Is this tumor primary or secondary? If secondary, where is the primary tumor? -When was the tumor diagnosed? -Intradural tumors grow slowly(6) -Intramedullary tumors are more insidious and progress slowly over weeks or months(6)",
+                "course of treatment": {
+                    "medical management": " Medical management Who makes up the medical team? Radiation oncologist, medical oncologist, spine surgeon, pain management specialist, radiologist, psychiatrist, nursing, and case worker are key members of the patient\u2019s medical team What medical intervention has occurred (e.g., surgery, chemotherapy, radiation therapy)? Any complications following medical intervention? Radiation therapy is directed at the tumor and started as early as possible in cases of metastatic disease External beam radiation therapy (EBRT) can cause significant pain or increase the patient\u2019s risk for developing a pathological fracture or spinal cord compression. It is used primarily as palliative care(5) Stereotactic body radiation therapy (SBRT) is considered for spinal metastases as primary treatment, postoperative treatment, or salvage treatment after EBRT or spinal cord decompression(5) Surgical treatment options vary depending on whether the tumor is a primary or secondary lesion(4) Spinal tumors are surgically removed through decompression of neurological elements and stabilization of the spinal column to preserve neurological function(4) Surgical decompression with laminectomy is rarely performed or needed as radiation is effective in most cases of compressive metastatic tumors. Minimally invasive surgery is a treatment option for patients with neurological deficits, pain, and spinal instability(6) Surgical removal of primary tumors Surgery is the treatment of choice for most extramedullary tumors, which usually are benign(6) Intramedullary tumors are surgically removed(6) Ependymomas are often clearly demarcated and able to be completely removed(6)  Astrocytomas can be surgically removed; however, if there is evidence of malignancy or removal is incomplete, postoperative radiation typically is required(6)",
+                    "surgical management": [],
+                    "medications": "Current American College of Radiology guidelines recommend the following interventions for spinal bone metastases(5) Systemic chemotherapy and/or hormonal therapy and osteoclast inhibitors are administered when asymptomatic bone metastases are first diagnosed(5) Radiopharmaceuticals are generally considered in patients with persistent multifocal sites of pain or recurrence of pain in a previously irradiated site(5) Corticosteroids are prescribed to ameliorate neurological symptoms, reduce edema, and reduce pain(6) If not contraindicated, steroids are recommended for any patient with neurological deficits who is suspected of having or is confirmed to have metastatic extradural spinal cord compression, but there is no consensus on the dosage Steroids generally are continued until radiation therapy is complete and then gradually tapered Patients with compression but no neurologic deficits generally do not require steroids Opioid analgesics can be prescribed for pain management",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Testing may include:",
+                        "Serum protein electrophoresis (SPEP), CBC, ESR, calcium, phosphate, AP, acid phosphatase, PSA, CEA, TSH, CT(6)",
+                        "MRI  optimal choice for spinal tumors(6)",
+                        "Can provide excellent visualization of tumor and involved structures(6)",
+                        "Able to differentiate tumors from other masses such as abscesses and hematomas(6)",
+                        "Gadolinium-enhanced  and non-contrast-enhanced MRI sequences are standard(6)",
+                        "Chemical shift MRI can be a useful tool in differentiating benign lesions from malignant spinal lesions and has a sensitivity of 91.7% and specificity of 73.3%(15)",
+                        "X-rays  are unable to identify a substantial percentage of the tumors(6)",
+                        "Bone scan (Tc-99m)  screening test(6)",
+                        "Mammogram",
+                        "Biopsy(6)",
+                        "Bone marrow aspiration(6)",
+                        "Tissue biopsy to identify the primary source of tumor if spinal metastasis is suspected(6)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before the symptoms come on or are eased) -Pain typically is relieved with activity and more noticeable with rest and at night(6) -Pain usually is worse in the supine position(6) -Pain that worsens with coughing and sneezing suggests vertebral metastasis(6)",
+                "body chart": "Use body chart to document location and/or nature of symptoms -Meningiomas are often located posterior to the spinal cord in the thoracic region or near the foramen magnum(6) -Ependymomas are most commonly located in the cervical cord or near the cauda equina and filum terminale(6) -Astrocytomas are most often located in the cervical cord(6)",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling). Symptoms include intractable spinal pain (radicular or local), numbness, and paresthesias. Pain can be referred -Pain typically is unremitting(6) -Local tenderness typically is present on palpation(6) ",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, on average, and at the moment (specifically address if pain is present now and how much). The Oucher Scale can be used for pediatric patients",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night -Pain usually is worse at night and interferes with sleep",
+                "other symptoms": "Document other symptoms the patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, fatigue, bowel/bladder/sexual dysfunction, saddle anesthesia, progression of neurological symptoms) -Recommend patient complete a quality of life assessment tool such as the SF-36  or SF-12",
+                "respiratory status": "Is there any respiratory compromise? If so, does the patient require ventilator assistance? Does the patient require oxygen supplementation? If so, how much? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _______________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document history of cancer, spinal injuries, or other musculoskeletal or neurological conditions",
+                    "comorbid diagnoses": "Ask the patient about other medical conditions, including diabetes, heart disease, asthma/ respiratory compromise, complications of pregnancy, psychiatric disorders, and orthopedic disorders In a study conducted in Switzerland, back/neck pain as a leading symptom and coexisting degenerative spine disease in adjacent spinal segments was present in 27/58 (47%) of the patients with intradural spinal tumor(3)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient work or attend school? What type of work? Is the patient not able to do any of his or her favorite activities because of pain?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document any noted limitations and equipment in",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Medical intervention is required for this condition. If this condition is suspected (and the patient does not yet have a formal diagnosis), the patient should immediately be referred to a physician for further testing. Activity should begin only after the patient is medically stable and spinal stability has been restored(1)",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies.  Follow physician\u2019s orders and/or protocol regarding rehabilitation",
+                "Patients with unstable spinal lesions are, in most cases, immobilized due to the risk of pathological fracture and the associated risk of spinal cord compression(10)"
+            ]
+        },
+        "diagnosis need for treatment": "Physical therapy is recommended for patients who present with pain, fatigue, decreased functional mobility, decreased independence with ADLs, reduced cardiorespiratory endurance, and decreased strength and ROM. Physical therapy is also indicated for patients in order to reduce the effects of fatigue and disability associated with medical treatments such as chemotherapy, radiation therapy, and surgical interventions. Physical therapy may also be prescribed for palliative intervention",
+        "rule out": " Rule out Multiple sclerosis Amyotrophic lateral sclerosis (ALS) Herniated disk Syringomyelia Cauda equina syndrome Spinal stenosis Ankylosing spondylitis Rheumatoid arthritis Osteoarthritis Pott disease(13) Osteoporosis Pathological fracture Herniation of nucleus pulposus (pain worse with activity)",
+        "prognosis": [
+            "In an investigation into the preoperative factors associated with primary spinal tumor mortality, researchers from Hungary concluded that patient age, spinal region, tumor grade, spinal pain, motor deficit, and myelopathy/cauda equine syndrome were significantly associated with poor survival(11) \u2013From this, the authors developed the Primary Spinal Tumor Mortality Score (PSTMS), where lower scores (0-2)were significantly associated with low mortalityand higher scores (5+) associated with high mortality in this study of 323 consecutive patients with primary spinal tumors treated surgically over an 18-year  period",
+            "The most important prognostic factor is the histology of the spinal tumor(7)",
+            "Early diagnosis may lead to better outcomes(7)",
+            "The 5-year  survival rate for patients with benign or low-grade  spinal cord neoplasms is greater than 90%(7)",
+            "In a series study of patients with ependymomas, the tumor recurrence rate was 7%; however, patients with astrocytoma, a more aggressive and less common tumor type, had a recurrence rate of 48%(7)",
+            "The Oswestry Spinal Risk Index is a tool that predicts survival in patients with MSCC. Lower scores on the OSRI predict longer survival rates in patients with MSCC(14) \u2013Authors of a systematic review on quality of life of patients with MSCC found that a significant percentage of patients are distressed, butalso found low levels of distress and good quality of life in general in over 50% of patients(18)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Referral back to oncologist if advancement of symptoms is noted Referral to an occupational therapist (OT) for formal ADL and self-care  evaluation and adaptive equipment Referral to social worker to assist with community resources Referral to clinical psychologist  Referral to an orthotist for bracing and a nurse for bowel and bladder training may be warranted",
+        "other considerations": [
+            "Surgical decompression may be more effective than radiotherapy in the treatment of patients with MSCC presenting with myelopathy; however, complications need to be considered(19) \u2013Based on a retrospective study conducted in Japan of 56 patients, 20 who had received radiotherapy and 36 who had received decompression and stabilization surgery with and without radiotherapy \u2013Seven patients in the radiotherapy-only  group required surgery eventually. Of the remaining 13 patients, one patient showed improvement in neurological symptoms.Thirty-four  patients in the surgery group showed improvement \u2013One patient in the radiotherapy group and 21 patients in the surgery group were ambulatory after treatment \u2013Surgery-related  complications occurred in nine patients and six required re-operation.  No major complications were seen in the radiotherapy group"
+        ],
+        "treatment summary": [
+            "A consensus opinion from experts and a literature search indicated that patients with malignant or benign spinal tumor causing spinal cord dysfunction should be admitted to specialist spinal rehabilitation units (SRUs)(20) \u2013Respondents indicated that 83% of patients with benign tumors are admitted to SRUs, but only 45% of patients with malignant tumors",
+            "Physical therapy interventions will vary significantly based on the level of neurologic dysfunction, stage of disease, and life expectancy",
+            "Physical therapy is indicated for patients who present with decreased functional mobility, impaired ADLs, pain, loss of strength, decreased ROM, and deconditioning",
+            "Results of a randomized controlled trial in Germany that examined the effects of exercises for strengthening paravertebral muscles in patients with spinal bone metastases indicate that isometric resistance training is safe and feasible,(8) can improve pain relief, and can improve functional capacity, reduce fatigue, and enhance quality of life(10) \u2013While undergoing radiotherapy, 60 patients were randomized into a group receiving isometric resistance training or a group receiving passive physical therapy \u2013There were no measurable side effects in the exercise group(8) \u2013Patients in the exercise group improved in pain score over the course of the intervention and pain scores were significantly better after 3 months \u2013Measures targeting quality of life, fatigue, and emotional distress were significantly improved after 3 months and 6 months in the resistance exercise group(10) \u2013The survival of patients with spinal bone metastases is poor. Six patients died within 6 months of radiotherapy due to tumor progression. The effects of resistance training became apparent and significant after 6 months, which indicates a higher benefit for survivors(9) \u2013Further study is warranted",
+            "There is insufficient evidence regarding patient positioning and bracing for pain relief and spinal stability for patients with MSCC(2) \u2013Based on a 2012 systematic Cochrane review that evaluated the effects of positioning and bracing in individuals with metastatic cord compression and spinal instability who were not candidates for surgical intervention \u2013Of 1,611 potentially relevant studies, there were no studies that met the inclusion criteria. Many studies identified the importance of patient positioning/mobilization, but there were no RCTs studying the effects of bracing for this patient population \u2013Researchers concluded there is no evidence to guide clinicians in the use and efficacy of bracing for reducing pain or improving quality of life. In addition, there is a lack of evidence to guide clinicians on how to correctly position and when to mobilize these patients \u2013Authors of a 2015 update to this Cochrane review came to the same conclusion, stating that no new studies were found and their conclusions remain unchanged(12) . Problem Goal Intervention Expected Progression Home Program  Patient has decreased knowledge regarding orthotics and ability to manage orthoticsPatient/caregiver will be independent in management of orthoticsPatient/caregiver"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "restored ability to complete adls": [],
+        "increased functional mobility and transfers without pain following medical management of the condition": [
+            "FIM, WeeFIM, gait analysis"
+        ],
+        "increased cardiorespiratory endurance": [
+            "6MWT, Borg RPE Scale"
+        ],
+        "improved static and dynamic balance": [
+            "BBS, PBS"
+        ],
+        "reduced pain": [
+            "V AS, Oucher"
+        ],
+        "increased functional strength": [
+            "Manual muscle testing, ROM"
+        ],
+        "improved self-reported  quality of life": [
+            "SF-36,  SF-12"
+        ]
+    },
+    "maintenance or prevention": [
+        "Patients should follow the recommendations and any home exercise program provided by the therapist and clinical care team",
+        "Patients should be monitored closely by a multidisciplinary team of healthcare professionals for local tumor recurrence and symptom management"
+    ],
+    "patient education": [
+        "Information on spinal cord tumors can be found at Macmillan Cancer Support, http://www.macmillan.org.uk/information-and-support/spinal-cord-tumours",
+        "The National Cancer Institute\u2019s website on the treatment of brain and spinal cord tumors in children is found at https://www.cancer.gov/types/brain/patient/child-brain-treatment-pdq",
+        "American Cancer Society\u2019s information on brain and spinal cord tumors in adults is available at https://www.cancer.org/cancer/brain-spinal-cord-tumors-adults.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Moinzadeh L, Patti S. Rehabilitation in patients with tumors of the spinal column. In: McLain RF, Lewandrowski KU, Markman M, Bukowski RM, Macklis R, Benzel EC, eds. Current Clinical Oncology: Cancer in the Spine: Comprehensive Care . Totowa, NJ: Humana Press, Inc; 2006:343-347.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Lee SH, Cox KM, Grant R, Kennedy C, Kilbride L. Patient positioning (mobilisation) and bracing for pain relief and spinal stability in metastatic spinal cord compression in adults. Cochrane Database Syst Rev. 2012. Art No: CD007609. doi:10.1002/14651858.CD007609.pub2.  (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Bellut D, Mutter UM, Sutter M, Eggspuehler A, Mannion AF, Porchet F. Back pain in patients with degenerative spine disease and intradural spinal tumor: what to treat? When to treat?. European Spine J . 2014;23(4):821-829.  doi:10.1007/s00586-013-3137-2.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Clarke MJ, Vrionis FD. Spinal tumor surgery: management and the avoidance of complications. Cancer Control: J Moffitt Cancer Center . 2014;21(2):124-132.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Lo SS, Lutz ST, Chang ET, et al. Expert Panel on Radiation Oncology-Bone  Metastases. ACR Appropriateness Criteria: Spinal Bone Metastases . Reston, VA: American College of Radiology (ACR); 2012. (G)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Sabharwal S. Essentials of Spinal Cord Medicine. In. New York, NY: Demos Medical Publishing; 2014:112-114.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Karikari IO, Nimjee SM, Hodges TR, et al. Impact of tumor histology on resectability and neurological outcome in primary intramedullary spinal cord tumors: a single-center experience with 102 patients. Neurosurgery . January 2011;68(1):188-97.  doi:10.1227/NEU.0b013e3181fe3794. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Reif H, Omlor G, Akbar M, et al. Feasibility of isometric spinal muscle training in patients with bone metastases under radiation therapy \u2013 first results of a randomized pilot trial. BMC Cancer . 2014;14:67. doi:10.1186/1471-2407-14-67.  (RCT)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Reif H, Welzel T, Omlor G, et al. Pain response of resistance training of the paravertebral musculature under radiotherapy in patients with spinal bone metastases \u2013 a randomized trial. BMC Cancer . 2014;14:485. doi:10.1186/1471-2407-14-485.  (RCT)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Rief H, Akbar M, Keller M, et al. Quality of life and fatigue of patients with spinal bone metastases under combined treatment with resistance training and radiation therapy \u2013 a randomized pilot trial. Rad Onc. 2014;9:151. doi:10.1186/1748-717X-9-151.  (RCT)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Szoverfi Z, Lazary A, Bozsodi A, Klemencsics I, Elters PE, Varga PP. Primary Spinal Tumor Mortality Score (PSTMS): a novel scoring system for predicting poor survival. Spine Journal. 2014;14(11):2691-2700.  (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Lee SH, Grant R, Kennedy C, Kilbride L. Positioning and spinal bracing for pain relief in metastatic spinal cord compression in adults. Cochrane Database Syst Rev . September 24, 2015;9. Art No: CD007609. doi:10.1002/14651858.CD007609.pub3.  (SR)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Houten JK, Kobets AJ, Yassari R. A rare case of panspinal Pott disease simulating metastatic disease. Spine J. 2016;16(1):e39. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Whitehouse S, Stephenson J, Sinclair V, et al. A validation of the Oswestry Spinal Risk Index. Eur Spine J . 2016;25(1):247-251.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Douis H, Davies A, Jeys L, Sian P, Davies AM. Chemical shift MRI can aid in the diagnosis of indeterminate skeletal lesions of the spine. Eur Radiol . 2016;26(4):932-940.  (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Samartzis D, Gillis CC, Shih P, O'Toole JE, Fessler RG. Intramedullary spinal cord tumors: part I- epidemiology, pathophysiology, and diagnosis. Global Spine J . 2015;5(5):425-435.  doi:10.1055/s-0035-1549029.  (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Spinal cord compression. Canadian Cancer Society Web site. https://www.cancer.ca/en/cancer-information/diagnosis-and-treatment/managing-side-effects/spinal-cord-compression/?region=on . Accessed May 8, 2020. (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Harris M. Quality of life in patients with malignant spinal cord compression: a review of evidence-based  literature. Int J Palliat Nurs . 2016;22(1):37-43.  doi:10.12968/ ijpn.2016.22.1.37. (SR)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Iida K, Matsumoto Y, Setsu N, et al. The neurological outcome of radiotherapy versus surgery in patients with metastatic spinal cord compression presenting with myelopathy. Arch Orthop Trauma Surg . 2018;138(1):7-12.  doi:10.1007.s00402-017-2817-5.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "New PW, Marshall R, Stubblefield MD, Scivoletto G. Rehabilitation of people with spinal cord damage due to tumor: literature review, international survey and practical recommendations for optimizing their rehabilitation. J Spinal Cord Med . 2017;40(2):213-221.  doi:10.1080/10790268.2016.1173321. (RV)"
+        }
+    ]
+}

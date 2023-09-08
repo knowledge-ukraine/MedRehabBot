@@ -1,0 +1,385 @@
+{
+    "metadata": {
+        "title": "Kidney Disease, Chronic, in Children and Adolescents",
+        "synonyms": [
+            "chronic renal failure (crf)",
+            "chronic renal insufficiency (cri)",
+            "end-stage renal disease (esrd)",
+            "end-stage  kidney disease (eskd)",
+            "end-stage  renal failure (esrf)"
+        ],
+        "anatomical location body part affected": [
+            "Primarily the renal system, but due to the progressive nature of the disease and its chronicity, it has the potential to affect multiple organ systems, including but not limited to the cardiopulmonary, musculoskeletal, and gastrointestinal systems"
+        ],
+        "area of specialty": [
+            "pediatric rehabilitation",
+            "acute care",
+            "cardiopulmonary rehabilitation"
+        ],
+        "description": [
+            "Chronic kidney disease (CKD), previously referred to as chronic renal failure (CRF), is a clinical syndrome characterized by a progressive decline in kidney function such that the kidneys\u2019 ability to adequately excrete waste products and to contribute to the constancy of the body\u2019s homeostatic function becomes progressively impaired.(1,2) CKD is described as 3 or more months of laboratory results indicating structural or functional abnormalities of the kidney, except in infants < 3 months of age.(2) Lab results typically include abnormal blood or urine tests showing damage to the kidneys",
+            "The Kidney Disease: Improving Global Outcomes (KDIGO) organization developed updated Clinical Practice Guidelines on Evaluation and Management of CKD in 2012 based on systematic reviews to provide comprehensive guidance through the entire CKD pathway (early identification through ESRD or end-of-life  care). These guidelines were published in 2013(10,12)",
+            "CKD classification is based on cause, glomerular filtration rate (GFR) category, and albuminuria category. The classification system has been revised to encompass cause and severity to better predict outcomes and guidance for cause-specific  treatments. Severity is expressed by the level of GFR and albuminuria(10) \u2013KDIGO defines CKD as:(2,10) -GFR of < 60 mL/min/1.73 m2 for 3 months with or without the evidence of kidney damage -Kidney damage as evidenced by \u2265 1 of the following: -Albuminuria -Urine sediment abnormalities -Electrolyte or other abnormalities due to tubular disorders -Abnormal histology -Abnormal kidney structure or function -History of kidney transplantation",
+            "CKD staging(10,12) \u2013Stage I:  kidney damage with normal or supranormal GFR (GFR \u2265 90 mL/min/1.73 m2) \u2013Stage II:  kidney damage with mild reduction in GFR (GFR 60\u201389  mL/min/1.73 m2) \u2013Stage IIIa:  kidney damage with moderate reduction in GFR (GFR 45\u201359  mL/min/1.73 m2)  \u2013Stage IIIb:  kidney damage with moderate reduction in GFR (GFR 30\u201344  mL/min/1.73 m2) \u2013Stage IV:  kidney damage with severe reduction in GFR (GFR 15\u201329  mL/min/1.73 m2) \u2013Stage V/ESRD:  kidney failure or on dialysis (GFR < 15 mL/min/1.73 m2) -Defined as the complete failure of the kidneys to function (less than 10% of normal kidney functioning). This term is often used in the United States to indicate Medicare eligibility coverage for dialysis and kidney transplantation \u2013For the ages 2\u201318  years, GFR should be calculated using a pediatric-specific  GFR scale -For children under age 2, GFR is calculated with serum creatinine for improved accuracy with this age group(12)",
+            "CKD defined by albuminuria categories(12) \u2013A1: Normal to mildly increased (< 30 mg/g) \u2013A2: Moderate (30\u2013300  mg/g) \u2013A3: Severe (> 300 mg/g)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "N18": {
+                "base": "chronic kidney disease",
+                "N18.0": "end-stage kidney disease",
+                "N18.1": "Chronic kidney disease, stage 1",
+                "N18.2": "Chronic kidney disease, stage 2 (mild)",
+                "N18.9": "chronic renal failure, unspecified",
+                "N18.8": "other chronic kidney disease, such as",
+                "G63.8": " G63.8 polyneuropathy in other diseases classified elsewhere [use for uremic neuropathy]",
+                "I32.8": " I32.8 pericarditis in other diseases classified elsewhere [use for uremic pericarditis]"
+            },
+            "I12": {
+                "base": "hypertensive renal disease",
+                "I12.0": "hypertensive renal disease with renal failure",
+                "I12.9": "hypertensive renal disease without renal failure",
+                "ICD-10-CA": "modification in Canada: fourth character extensions were deleted to allow for use of dual classification for",
+                "I12": " I12"
+            },
+            "N25.8": "other disorders resulting from impaired renal tubular function",
+            "N25.9": "disorder resulting from impaired renal tubular function, unspecified (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage. No specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "CKD may be asymptomatic when kidney damage is mild; however, as GFR decreases and kidney damage progresses, the patient becomes symptomatic and presents with the following: malaise, poor appetite, vomiting, nausea, bone pain, headaches, polyuria, polydipsia, cognitive deficits, and/or edema",
+            "In children who have developmentally reduced kidney function and are unable to concentrate the urine, polyuria and dehydration are more likely to be problems than fluid overload. Urine output gradually diminishes as kidney failure progresses to end stage; however, some children can continue to produce generous amounts of urine but not of good quality even though they require dialysis. They are also at risk for salt-wasting(5)",
+            "Children who develop CKD due to glomerular disease or renal injury will characteristically retain sodium and water and develop hypertension(5) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "If a patient is undergoing dialysis, it is important to know where his/her catheter insertion line is placed so that precautions can be taken when assisting the patient with functional mobility skills. Typical vascular access is through an A V graft, A V fistula, tunneled internal jugular double-lumen  dialysis catheter, or tunneled peritoneal catheter in the anterior abdominal wall(1) \u2013Never evaluate and/or monitor a patient\u2019s blood pressure on the arm that has the A V graft or A V fistula"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "Prevalence: According to the U.S. CDC, in 2019 CKD affected 15% of U.S. adults, or approximately37 million persons(children and adults).(30)The exact prevalence of childhood CKD is unknown, but is estimated to be 82 cases per millionand about 15 ESRD cases per million based on data from various national registries(29)\u2013In 2019,23,401 kidney transplants were performed in children and adults in the United States(31)",
+            "Typical causes of CKD(2)\u201360% of cases of childhood CKD are due to congenital abnormalities of the kidney and urinary tract. They include thefollowing:(2)-Renal dysplasia/hypoplasia-Obstructive uropathy (posterior urethral valves, prune belly syndrome)\u2013Other causes include the following:-Cystic and hereditary disorders\u2014autosomal recessive and dominant polycystic kidney disease, juvenilenephronophthisis (cystic), Alport syndrome, cystinosis, oxalosis, congenital nephrotic syndrome (hereditary)-Glomerular diseases\u2014focal segmental glomerulosclerosis, hemolytic uremic syndrome, systemic lupus erythematosus,IgA nephropathy\u2013Commonly associated conditions include DiGeorge syndrome,Alagille syndrome, branchio-oto-renal  syndrome,Townes-Brocks  syndrome, and Bardet-Biedl  syndrome"
+        ],
+        "pathogenesis": [
+            "Progressive decline in kidney function in individuals with CKD is variable and depends on both the cause of the underlyinginsult and patient-specific  factors(1)\u2013Early stages: insidious effects on target organs may be manifested. Patients may have mild to moderate hypertension, mildanemia, left ventricular hypertrophy, and subtle changes in bone structure due to kidney osteodystrophy(1)\u2013By the time GFR is 10\u201330  mL/min/1.73 m2, hypertension is usually present and subtle biochemical and hematologicabnormalities become evident, such as mild hyperkalemia, mild hypobicarbonatemia (from uremic acidosis), and anemiaof chronic disease(1)\u2013By the time GFR is 10\u201315  mL/min/1.73 m2, hemolytic-uremic  syndrome is present(1)-Uremia reflects the accumulation of metabolic toxins that influences a variety of multisystem functions within the body-The need for kidney transplantation or dialysis is imminent and required to sustain life(1)\u2013Indications for kidney transplantation or dialysis include severe refractory abnormalities in biochemistry (severehyperkalemia and acidosis), severe pulmonary edema, bleeding, metabolic encephalopathy, pericarditis, malnutrition, andsevere disability (lethargy, fatigue)(1)\u2013Dialysis or transplantation is indicated when the patient\u2019s GFR level is < 10 mL/min/1.73 m2 and the patient isexperiencing fatigue, poor school performance, or weight loss due to severe dietary restriction(2)"
+        ],
+        "risk factors": [
+            "Genetic and environmental risk factors for congenital renal disease include maternal diabetes and exposure to medicationssuch as ACE inhibitors/NSAIDs(2)",
+            "Low birth weight, prematurity, and rapid weight gain in early childhood(2)",
+            "Many common conditions in children and adolescents predispose them to CKD as they age. These conditions are additivein nature(19)\u2013Diabetes mellitus\u2013Hypertension\u2013Congenital heart disease\u2013Sickle cell disease and trait\u2013Severe obesity\u2013Cancer chemotherapy and other drug toxicities\u2013Systemic situations that may cause acute kidney injury such as sepsis or extracorporeal membrane oxygenation therapy",
+            "The most common cause of CKD in adults is type 1 or 2 diabetes mellitus(12)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Infants with CKD who develop gastroenteritis may be prone to dehydration because they have obligatory polyuria due to a concentrating defect(2)",
+        "Patients with uremia may become irritable and develop seizures, deliriums, confusion, and psychosis. Seizures are a complication caused by dialysis disequilibrium syndrome, erythropoiesis-stimulating  agents, anddialysis dementia(1)  During a seizure: \u2013Stay with the patient and protect his or her head and neck from further injury \u2013Remove dangerous objects from the area \u2013Release restrictive clothing, as indicated \u2013Do not hold down extremities/restrain the patient \u2013Do not put anything in the patient\u2019s mouth \u2013Roll the patient to his or her side and rotate head to side, assess airway, and wait for tonic-clonic  activity to cease before administering artificial respiration, if indicated",
+        "Anemia (normochromic and normocytic) is one of the most common complications of CKD and is due to decreased renal erythropoietin synthesis(1)",
+        "Patients who have undergone arteriovenous (A V) graft or A V fistula prior to dialysis are at risk for thrombosis. It is important to proceed with caution during evaluation and treatment and to immediately contact the primary physician if the patient complains of the following:(1) Pain in one or both legs, which may occur only while standing and walking Swelling in one or both legs Increased skin temperature in the affected leg Redness or discoloration along the skin in the affected leg Muscle fatigue",
+        "Patients with CKD are at an increased risk for fractures due to the development of renal osteodystrophy(5) Disturbances in calcium (hypocalcemia and hyperparathyroidism), phosphorus (hyperphosphatemia), and vitamin D metabolism (decreased kidney production of calcitriol) due to CKD lead to renal osteodystrophy In 2013, the National Institute for Health and Care Excellence in the United Kingdom published clinical guidelines for the management of hyperphosphatemia in patients with stage IV and stage VCKD \u2013In accordance with the United States National Kidney Foundation\u2013Kidney  Disease Outcomes Quality Initiative and European guidelines, individuals under 18 years of age with stage IVCKD should maintain serum phosphate levels within age-appropriate  limits. For those with stage VCKD and those on dialysis, serum phosphate levels should be maintained at 1.3\u20131.9  mmol/l for those 1\u201312  years of age and at 1.1\u20131.8 mmol/l for those > 13 years of age(#)",
+        "Be aware of the following red flags associated with CKD:(6) Failure to thrive (poor growth, fatigue, anorexia, nausea, gastroesophageal reflux, vomiting) Chronic anemia (normochromic, normocytic, unresponsive to medication) Complicated enuresis (daytime frequency, urgency, incontinence, chronic constipation, encopresis, infrequent voiding, straining to void, recurrent UTIs) Prolonged, unexplained vomiting or nausea (especially in the morning), anorexia, weight loss without diarrhea Hypotension Unusual bone disease (renal osteodystrophy, valgus deformity, fracture with minor trauma) Poor school performance, inattention, withdrawal from family activity Headaches and fatigue, inattention, withdrawal from family activity Tremors: asterixis, a bilateral flapping tremor of the wrists associated with azotemia and metabolic encephalopathies"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "If a patient is undergoing dialysis, it is important to know where his/her catheter insertion line is placed so that precautions can be taken when assisting the patient with functional mobility skills. Typical vascular access is through an A V graft, A V fistula, tunneled internal jugular double-lumen  dialysis catheter, or tunneled peritoneal catheter in the anterior abdominal wall(1) \u2013Never evaluate and/or monitor a patient\u2019s blood pressure on the arm that has the A V graft or A V fistula"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "What stage of CKD? Has the patient developed cardiovascular disease secondary to CKD? What is the current reason for referral? ",
+                "course of treatment": {
+                    "medical management": "Is the patient currently undergoing dialysis (peritoneal dialysis or hemodialysis)? Is the patient a candidate for kidney transplantation? A multidisciplinary team approach is best with the patient\u2019s primary pediatrician, pediatric nephrologist, and possibly additional members such as a geneticist, pediatric cardiologist, dietician, social worker, physical therapist, and family counselor If patient is not currently a candidate for dialysis, the medical treatment focuses on slowing the progression of CKD and managing any complications that arise due to CKD(1) Peritoneal dialysis (home-based)  and hemodialysis provide life-saving  treatment. Success is measured by how active the child can remain in dayto-day  activities and school attendance(5) Even though peritoneal dialysis is technically less efficient than hemodialysis, hemodynamic stability and metabolic control can be better sustained because this treatment can be applied on a relatively continuous basis(5) the need for rapid removal of toxins if the size of the patient makes hemodialysis less technically cumbersome and hemodynamically well tolerated if there are impediments to efficient peritoneal dialysis such as an ileus or adhesions Transplantation is considered for a majority of children and adolescents with stage V CKD; potential contraindications for transplantation are cardiopulmonary disease that places the patient at risk during surgery, malignancy, active infection, active intravenous drug abuse, and inability to comply with medication regimen(1) Guidelines for managing CKD from the National Kidney Foundation (Kidney Disease Outcomes Quality Initiative) are(1) Use of an angiotensin-converting  enzyme (ACE) inhibitor or an angiotensin receptor blocker (ARB) Optimal management of hypertension; targeting a mean arterial blood pressure of 92 mm Hg (120/80 mm Hg), particularly for patients who have CKD associated with significant proteinuria Strategies to reduce proteinuria Judicious use of low-protein,  high-calorie diet Use of a hypolipidemic agent and early treatment of anemia with recombinant erythropoietin",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken?(2) Phosphate binders (calcium carbonate, calcium acetate, sevelamer) 1,25-dihydroxy  vitamin D Alkali therapy (e.g., sodium bicarbonate/citrate) Antihypertensive therapy (ARB) ACE inhibitors (renoprotection) Recombinant erythropoietin Ferrous sulfate (if iron deficient) Recombinant human growth hormone (rhGH) Diagnostic tests completed  (1,2) Diagnostic testing is used to monitor the progression of CKD and assess the degree of complications associated with CKD(1) GFR is the best indicator of kidney function and the basis for staging CKD(29) Cystatin C alone or in combination GFR measurement improves the accuracy in staging CKD(11) Serum level of creatinine is a reliable indicator of GFR since it is not as affected by variable factors such as nitrogen intake, dehydration, and corticosteroid use. In small children, normal serum creatinine is < 0.8 mg/dL and typical adolescents have creatinine levels > 1.0 mg/dL(5)if serum creatinine increases from 0.5 mg/dL to 1.0 mg/dL, this indicates a 50% decline in GFR(5)assess for azotemia, hyperkalemia, acidemia, hypocalcemia, hyperphosphatemia, hypermagnesemia, and elevated alkaline phosphatase.These electrolyte abnormalities are associated with stage IV CKD and GFR < 30 mL/min/1.73 m(1,2)creatine is normally 10 is decreased, as in urinary tract obstruction or dehydration(5) anemia is an early and easily recognized complication of CKD(1) Erythropoietin is produced primarily by the kidneys\u2019 interstitial cells and to a minor degree by the liver Erythropoietin production is markedly reduced in individuals with CKD, resulting in anemia Other causes of anemia in CKD include direct marrow suppression by uremic toxins, shortened length of red cell survival, increased blood loss, and iron deficiency Measurement of iron stores and parathyroid hormone is recommended every 3 months, or more frequently if the patient is unstable or there is active treatment modificationassess for isosthenuria, proteinuria(1) 24-hour  urine collection to measure GFR and assist with differentiating among prerenal, postrenal, intrinsic renal (acute), and intrinsic renal (chronic). In small children, a 12hour daytime specimen is acceptable(1,5) Assess creatinine and urea clearance; proteinuria varies with etiology(1) As kidney function declines, creatinine clearance tends to underestimate the GFR impairment and urea clearance tends to overestimate the GFR impairment(1)to assess for elevated levels(1)to assess for pulmonary edema or cardiomegaly(1)to assess for the presence of renal osteodystrophy, osteomalacia, osteitis fibrosa, delayed bone age, and acute periarthritis(1) Bone effects may range from abnormally high to abnormally low bone turnover(1) Renal osteodystrophy is characterized by increased osteoclast and osteoblast activity coupled with peritrabecular fibrosis(1)assess for decreased kidney size(2) with increased echogenicity, cystic kidneys, hydronephrosis, osteodystrophy(1)may be indicated to determine cause of CKD if genetic causes are suspected(1) Renal markers such as N-acetyl-beta-D-glucosaminidase  (NAG) and kidney injury molecule-1  (KIM-1)  can be used as a screening method for early detection of renal damage in obese children(14)",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture, herbal supplements, or reflexology) and whether they change symptoms",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments affected symptomatology"
+                },
+                "aggravating easing factors": " Aggravating/easing factors  (and length of time each item is performed before symptoms come on or are eased)",
+                "body chart": "Use body chart to document location and nature of symptoms. It is important to note if patient is experiencing any bone pain(2)",
+                "nature of symptoms": "Document nature of pain (constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling, specific vs. nonspecific)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)self-report  pain V AS developed for children aged 312  years -Minimum clinically significant difference in V AS for children aged 815  years is 1 cm -FLACC scale if child is nonverbal -V AS for pain rating (010  line)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other mechanical variables such as prolonged sitting, standing, or walking",
+                "sleep disturbance": "Document number of wakings per night due to pain or discomfort -Authors of a systematic review found consistent evidence for the prevalence of sleep disturbances among children with CKD, which was associated with reduced health-related  quality of life (HRQOL)(15) -The most common disorder was found to be restless legs syndrome",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician, including loss of appetite, dry cough, unexplained  weight loss, dizziness, bowel/bladder dysfunction, saddle anesthesia, bone tenderness, edema, change in cognitive status, or loss of functional skills",
+                "respiratory status": "Does the patient report shortness of breath during daily activities? Does the patient require the use of supplemental oxygen during the day? Is so, how much? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________ -Cognitive functioning declines as kidney damage becomes more severe. This is usually due to anemia, kidney osteodystrophy, and the onset of uremic syndrome associated with the progressive nature of CKD(1)"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Ask primary caregiver questions pertaining to pregnancy, labor, and delivery. Gestational age? Prematurity and, if so, number of weeks and duration of stay in NICU, if applicable? Were there any complications, specifically oligohydramnios or single umbilical artery? Low birth weight? Ask about child\u2019s developmental milestone history. Usually, the onset of CKD is insidious and is associated with poor growth, delayed puberty, renal osteodystrophy, polyuria, and anemia(1,2)",
+                    "comorbid diagnoses": "Ask patient and/or parent/primary caregiver about other problems, including anemia, diabetes, cancer, heart disease, hypertension, hyperlipidemia, failure to thrive, pulmonary disease, vitamin D deficiency, hyperparathyroidism, psychiatric disorders, and orthopedic disorders. Is there a family history of renal disease?(2)",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing, including edema, polyuria, polydysplasia, headaches, decreased appetite, unexplained weight loss, halitosis, nausea, confusion, apathy, lethargy, cheilosis, stomatitis, vomiting, malaise, and pruritus(1,2,5)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports; if so, have those activities been limited due to the patient\u2019s current condition? Does the patient attend school, or is the patient being home schooled? What is the primary mode of transportation to school and activities? How often is physical education (PE) conducted at school, and has the patient stopped participating in PE or other forms of exercise? Does the patient have hobbies or special interests? Does the patient participate in peer group activities such as a church group or Boy/Girl Scouts? Does the patient have a job? If so, what are his or her work duties? -The treatment burden for children with CKD from medication side effects, lifestyle restrictions, dialysis, and hospitalizations limits their ability to attend school, participate in sports, spend time with friends, and travel. This all impairs their overall QOL and mental health(26)",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient currently use any assistive devices for ambulation and/or ADLs, such as grab bars in the bathroom or an elevated toilet seat? Does the patient use a wheelchair for household/community mobility?",
+                "living environment": "With whom does the patient live (family members, caregivers, etc.)? Does primary caregiver/s work full-time?  Does primary caregiver/s exercise; if so, how often and what type? How much time is spent watching TV , playing videos games, and/or using the computer on a daily basis? Does the adolescent or anyone in the home smoke? Identify if there are any barriers to independence in the home"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": " \u2013Growth retardation is common in children with CKD(13,20)  -Understanding of growth retardation and advancements in treatment have increased in the past few years. However, 40% of children with ESRD have reduced final height (below the 3rd percentile) compared with that of healthy age-matched  and sex-matched  controls(20) -Short stature decreases QOL and self-esteem(20) -Growth retardation is particularly severe when children develop CKD in the first year of life(2) -Potential causes of growth retardation are multifactorial and include(20) -intrauterine growth restriction, malnutrition, mineral and bone disorder, metabolic acidosis, loss of electrolytes,and disturbances of the somatotropic and gonadotropic hormone axes \u2013Forty-six  percent of children with glomerular CKD were found to have a high BMI and were classified as overweight or obese(13) \u2013Note the presence of genu valgus or varus, excessive hip external rotation in standing; indicative of renal osteodystrophy(1)does the patient appear very thin, anorexic, or gaunt?(1)",
+            "assistive and adaptive devices": "If already in use, assess the level of independence the patient has with use of assistive and/or adaptive devices such as walker or cane, long-handled  reacher, and grab bars. Determine the need for any additional devices or adaptations that may be needed to make the patient as safe and independent as possible within the home and community",
+            "balance": "Assess patient\u2019s static and dynamic balance with one or more of the following tests as deemed appropriate for the \u2013Peabody Developmental Motor Scales, Second Edition (PDMS-2) stationary section, Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)  balance subscale, Pediatric Balance Scale (PBS) \u2013Due to time constraints, parts of the PBS such as the Romberg, Sharpened Romberg, and Single Leg Stance may be performed",
+            "cardiorespiratory function and endurance": [
+                "Decreased cardiorespiratory endurance and increased fatigue levels may be present. There is an increased risk of cardiovascular disease with CKD, most likely due to multiple traditional and nontraditional kidney-specific  risk factors(1,2) -Abnormalities in both cardiovascular structure and function are observed early in the course of CKD(29) -Studies indicate that patients with CKD have increased left ventricular mass (LVM) compared to healthy controls(29) -Patients receiving dialysis had greater LVM compared to those who were in the pre-dialysis stage of CKD -Increased LVM and sympathetic activity contribute to the diastolic dysfunction that is common in children with CKD -Cardiovascular disease may be associated with anemia, hypertension, hyperlipidemia, hyperhomocysteinemia, left ventricular hypertrophy (LVH), poor GFR, and hyperparathyroidism(1,2,29) -Cardiovascular endurance in children with CKD is limited, most often by anemia, hypertension, and lack of physical activity(24,29) -Due to chronic anemia, oxygen-carrying  capacity of the blood is decreased, resulting in decreased VO2max. Patients with CKD have decreased VO2max compared to the general population(24) -Progressive loss of nephrons in CKD results in decreased production of erythropoietin and anemia(18) -The risk for anemia increases with CKD as the stage advances. The prevalence of anemia in stage III is 73%, stage IV is 87%, and stage V is 93%. Despite the increased availability of recombinant human erythropoietin (rHuEPO), which has made a significant difference in treating anemia of CKD, patients on rHuEPO still demonstrate low hemoglobin levels (at least 20% of patients in stage IV and at least 40% in stage V)(18) ",
+                "Proper blood pressure cuff size is very important when measuring BP; the inflatable bladder needs to completely encircle the upper arm, with the cuff bladder width ~ 40% of upper arm circumference, midway between olecranon and acromion -Do not place BP cuff on the arm with an A V graft or fistula(1)",
+                "-Cuff bladder length should cover ~ 80100%  of the upper arm circumference -BP is overestimated if cuff size is too small and underestimated if cuff size is too large",
+                "-BP measurement should be measured at least 2x and after 35 minutes of seated rest with the arm supported at heart level",
+                "On auscultation, there may be rales present due to extracellular fluid overload (elevated jugular venous pressure, pulmonary venous congestion) as well as the presence of a pericardial rub, which is highly suggestive of uremic pericarditis(1,2)",
+                "Use the 6-minute  walk for distance test (6MWT) or a progressive exercise treadmill test to assess functional exercise capacity(7,8,25) -These tests are self-paced,  submaximal exercise tests that can establish the patient\u2019s baseline functional exercise capacity(7) -These tests are valid and reliable in their ability to estimate physical fitness in children with severe cardiopulmonary disease(7) -Reference values and prediction equations from healthy children have been published to determine the predicted 6MWT values for specific ages(7) -Utilize the Borg Scale of Perceived Exertion and/or Dyspnea Scale while performing the 6MWT(3)",
+                "May also evaluate cardiorespiratory endurance with VO2max, if appropriate in clinical setting. If the patient is young or cannot tolerate the VO2max test, the VO2peak test can be performed(8,24)"
+            ],
+            "circulation": "Check for upper extremity (UE) (brachial) and lower extremity (LE) (femoral) pulse. Be aware of orthostatic hypotension due to some antihypertensive medicationsPerform dermatomal/myotomal testing for UE and LE as indicated, and note any asymmetry or abnormality \u2013Peripheral neuropathy is rare, since most patients have started dialysis treatment before a neuropathy can develop(1)Assess basic mobility as indicated and note if any assistive device may be beneficial. WeeFIM for objective measurement of functional tasks",
+            "functional mobility": "",
+            "gait locomotion": "Assess patient\u2019s gait and note any asymmetry/abnormality, most likely due to renal osteodystrophy, muscle weakness, or muscle fatigue. May also measure patient\u2019s gait speed, which can be used as part of the patient\u2019s outcome measures(3)Assess UE and LE joint integrity. Are there any joint capsule or fascial restrictions? Is the patient at risk and/or already developing UE or LE joint contractures due to lack of physical activity?Assess UE and LE muscle tone and coordination as indicated; note any asymmetry; may present with hypotonia",
+            "muscle strength": "Perform bilateral UE and LE manual muscle testing as well as back extensor and abdominal strength if age appropriate. Note any asymmetry \u2013Handheld dynamometryuses a dynamometer held in the hand of a tester and applied to the body of the patient being tested. If available, may use to test lower body strength (i.e., quadriceps strength) and upper body strength (i.e., elbow flexor and extensors). A handheld dynamometer can also be used to assess grip strength.(25) Note any asymmetry \u2013Muscle weakness is common. Proximal muscle weakness may be an early sign of kidney osteodystrophy(1) \u2013The accumulation of metabolic waste products in CKD patients causes changes that resemble those of aging. There is a progressive loss of skeletal muscle mass and strength. One goal of hemodialysis is to prevent some of the waste accumulation and in turn prevent the strength losses(22) -Inadequate nutrition, protein loss, catabolic state, and physical inactivity all contribute to skeletal muscle wasting(3)Have parent/primary caregiver complete gross and fine motor checklist (i.e., age at which skills such as sitting upright, rolling, ambulating independently, feeding self, and writing were acquired) to establish patient\u2019s baseline motor development \u2013Isolated gross or fine motor skills may be performed to assess age-appropriate  functional level (e.g., rolling, reciprocal creeping, jumping, bilateral coordination, throwing/catching) as indicated  \u2013May utilize formal gross motor assessment tools such as the PEDI, PDMS-2,  or BOT-2  depending on the child\u2019s age and functional level \u2013Children with CKD have an increased risk of developmental delay. Children with CKD have poor educational outcomes compared to healthy peers(2,26)",
+            "observation inspection palpation including skin assessment": [
+                "Assess graft/fistula site for infection",
+                "Note any skin abnormalities such as pallor, bruising, and/or calciphylaxis",
+                "Note if there are any amyloid accumulations or tumors in the skin, which often occur in patients with dialysis-associated amyloidosis(1) \u2022Palpation:  Note if patient complains of any tenderness to palpation such as light touch on the skin vs. deeper (bone tenderness sensation)",
+                "Bone pain is the single most common manifestation of kidney osteodystrophy; mostly occurs in the hips, lumbosacral spine, and legs. It is usually nonspecific in nature(1)"
+            ],
+            "posture": "Visual inspection of patient\u2019s posture which may contribute to poor use of accessory muscles for breathing and impact cardiopulmonary function. Note if patient stands with excessive genu valgus/varus",
+            "range of motion": "Assess AROM/PROM of UE and LE and note any asymmetry/functional limitation. Indicate whether limitation is due to pain, muscle guarding, or decreased muscle length",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess bilateral C5, C6, C7, L4, and S1 and note any abnormality",
+            "sensory testing": "Perform light touch, sharp-dull,  and joint proprioception testing for bilateral UEs and LEs as indicated and note any asymmetry",
+            "special tests specific to diagnosis": "HRQOL measures should be included in the evaluation of children with CKD due to the potential physical, psychological, and social impact on these children. This can also provide the therapist with more insight into the patient\u2019s and/or primary caregiver\u2019s psychosocial status and the potential need for referral \u2013Research shows that life participation is a critically important outcome, yet it is often inconsistently measured in studies. Authors of a systematic review published in 2020 identified 63 different measures from 128 studies used to assess life participation in children with CKD. Only 19 of these measures had validation measures from the pediatric population with CKD(26) -The most common measuresused were the PedsQL, PedsQL ESRD, SF-36,  and CHQ-PF50(26) -Measures thathad validation from the pediatric population with CKD include(26) -16D is a HRQOL questionnaire for adolescents.It was adapted from its adult counterpart, the 15D. One study found that children in the kidney transplant waitlist sample reported lower 16D scores than the control -CHIP-AE  is 153-item  self-report  that measures six domains of health status (discomfort, satisfaction, disorders, achievements, resilience, and risks). Validity was demonstrated by adolescents with CKD reporting lower satisfaction and physical activity and higher emotional discomfort, family involvement, home safety, and health and social problem-solving  compared with the control group -PedsQL is a 23-item  generic health status questionnaire assessing five domains (physical, psychosocial, emotional, social, and school functioning) in children and adolescents aged 2\u201318 years. It has demonstrated validity with both child and parent-reported  scores. The scores differ by disease status and treatment modality -PROMIS pediatric measures (including depression, anxiety, fatigue, mobility, pain interference, peer relations, and upper extremity function). These measuresshow validity by demonstrating that patients who scored worse had a more advanced stage of CKD, higher disease activity, greater comorbidity, and greater history of hospital admission -The Test of Quality of Life in Children with Kidney Disease measure is adapted from other childhood HRQOL measures. It has demonstrated high internal consistency -SF-36consists  of 36 questions that evaluate functional status, well-being,  and perceptions of health status in 8 scales. It has shown validity in a pediatric CKD population. SF-36  scores varied across treatment modalities. The pediatric patients on dialysis had worse health scores than those with any stage of CKD who had received transplants -KIDSCREEN-52  is an additional multidimensional questionnaire. Authors of a Greek study utilizing the KIDSCREEN-52  found that both QOL and the dimension of physical well-being  were dramatically lower in children with CKD when compared to a control group(17) ",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Assess patient\u2019s ability to follow multiple-step commands and cognitive level based on the chronological age and/or other diagnoses. Indicate level of alertness and orientation. Discuss with primary caregiver if there have been any significant changes in mental status such as confusion, delirium, or loss of cognitive skills. Obtain speech-language  pathologist and psychologist reports \u2013Longer duration of CKD,and not estimated GFR,was found to be associated with poor performance on the Continuous Performance Test\u2013II  Errors of Commission, a test of inhibitory control and attention, in 340 pediatric patients (age 6\u201321) with mild-to-moderate  CKD in a study through the Chronic Kidney Disease in Childhood cohort in North America(16)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "0.55  years old < 11.0 g/dl, 512  years old < 11.5 g/dl, 1215  years old < 12.0 g/dl, male > 15 years old <1 3.0 g/dl, and female > 15 years old < 12.0 g/dl",
+                "Signs and symptoms associated with hypertension, such as headaches, visual disturbances, flushing, and palpitations, are red flags and should immediately be reported to the referring physician"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Depending on the clinical setting, it would be prudent to know the most current hematocrit and hemoglobin levels because exercise capacity in children with CKD is most often limited by anemia. WHO\u2019s age-specific  hemoglobin thresholds for defining anemia are:(18)",
+                "Hypertension is another significant limiting factor in exercise capacity in children with CKD, so HR and BP should be monitored at rest, during exercise, and post exercise. Follow the guidelines of the patient\u2019s clinic/hospital/primary care physician as indicated",
+                "When evaluating and treating children, it is extremely important to be knowledgeable of their developmental/chronological age. This is pivotal for maximizing treatment interventions as well as patient compliance. In order to gain the child\u2019s trust and active participation, the therapist should be knowledgeable about the stages of child development and how to interact with the child using suitable toys/play and verbal commands/directions",
+                "Exercise is contraindicated in CKD patients with a systolic BP > 200 mm Hg or a diastolic BP > 110 mm Hg, electrolyte abnormalities, recent myocardial infarction, or recent changes in electrocardiogram(3)",
+                "Moist heat may be used as a treatment modality. It is contraindicated when active infection or acute inflammation is present",
+                "Patients with CKD most often present with muscle atrophy and decreased muscle strength; therefore, they are at an increased risk for injury(3)",
+                "Clinicians should follow the guidelines of their clinic/hospital and the physician\u2019s orders. The summary presented below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Functional limitations in individuals with CKD depend on the degree of lethargy, fatigue, and neuropsychological symptoms present. Muscle weakness and fatigue are compounding factors that can significantly affect a patient\u2019s mobility status. Those patients with comorbidities will likely be more limited in their mobility status(1)",
+        "rule out": "It is important to rule out acute kidney injury from CKD. Usually CKD has an insidious onset and is associated with poor growth, delayed puberty, rickets, polyuria, and anemia in children(2)",
+        "prognosis": [
+            "Specialized care is indicated as early as possible. For adolescents under 14 years old on dialysis,remaining life is approximately 20 years(29)",
+            "In children, prognosis is dependent on cause of CKD. Prognosis is excellent for children receiving renal replacement therapy, with a 5-year  survival rate > 85%.(2)",
+            "Kidney transplantation \u2013Authors of 2018 evidence-based  clinical practice guidelines for CKD recommend that preemptive kidney transplantation should be considered for pediatric patients with CKD. Evidence shows that the likelihood of graft survival is higher than that after dialysis has been implemented(32) \u2013In the United States, children and adults receiving a living-related  kidney transplant have a survival rate of 90% at 1 year, 85% at 2 years, and 75% at 5 years. For children and adults in the United States receiving cadaver transplants, the survival rate is 76% at 1 year, 71% at 2 years, and 62% at 5 years(5) \u2013The overall (adults and children) mortality rate is 4% for recipients of living-related  donors and 6.8% for recipients of cadaver transplants. These percentages are affected by the increased mortality, reported to be as high as 75%, in infants younger than 1 year of age, primarily due to technical issues and complications of immunosuppression(5) \u2013Body weight of at least 15 kg is associated with a significantly higher survival rate(5)  \u2013The most common complications of transplantation are early nonfunction, acute rejection, mechanical issues (such as obstruction of the allograft), and chronic allograft rejection(1) -Depending on the underlying kidney disease, recurrent disease in the allograft may be manifested",
+            "Children with CKD are at an increased risk for lower psychosocial and cognitive functioning. They exhibit lower educational and vocational outcomes compared to healthy peers(26)",
+            "Immunosuppressive treatment is necessary following kidney transplantation. This often includes a calcineurin inhibitor (e.g., cyclosporine, FK506), mycophenolate mofetil (CellCept), and prednisone. Transplant rejection treatment may involve pulsing with methylprednisolone acutely and a \u201crescue\u201d strategy with either muromonab-CD3  (Orthoclone OKT3) or anti-thymocyte globulin(1)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Speech-language  pathologist (SLP) Cognitive psychologist A registered dietician should be part of the multidisciplinary medical team to address dietary restrictions, specifically potassium, phosphate, protein, and sodium, as well as fluid intake (indicated in conditions related to oliguria). They also screen and monitor for malnutrition(#,1,2) \u2013Typically, the diet often prescribed is a high-calorie, low-protein  diet; however, current research is not conclusive. Some studies have indicated that a diet too low in protein may be detrimental to the patient(1) \u2013Patients may benefit from avoidance of phosphate-rich  foods, in particular foods with high phosphate content per gram of protein, as well as food and drinks with high levels of phosphate additives. If nutritional supplements are needed to maintain protein intake in those with hyperphosphatemia, they should contain low phosphate levels(#) \u2013Vitamin D deficiency and secondary hyperparathyroidism are the major factors leading to bone disease in children with CKD(2) Genetic counseling should be provided if a genetic cause of CKD is diagnosed in the patient(4) Depending on the setting, a social worker may play a key role in coordinating care, especially if the patient is being discharged to home and in need of multiple rehabilitative services (nursing, PT, OT, dietician, counseling)(1) Patient and family/caregivers may benefit from psychosocial counseling due to the chronic nature of the disease and the potential difficulties that may arise over time due to the complexity of CKD. Peer relationships can be compromised as a result of social isolation.(26) A specialized palliative care team may be beneficial for patients with multiple comorbidities for both conservative treatments and acute life-threatening complications(27)",
+        "other considerations": [
+            "Authors of a literature review in 2019 examined the perceptions of persons with CKD towards exercise. They found that despite the widely recognized benefits of exercise in patients with CKD, most remain inactive. In one study involving 24,210 hemodialysis patients, 400 kidney transplant recipients, and 340 home dialysis patients across five U.S. states, only 13.2% achieved the recommended intensity, frequency, and duration of physical activity(28)",
+            "Another finding from the authors of a literature review in 2019 is that CKD requires complex care and results in high healthcare costs. Access to this care varies across countries. Low to middle income countries struggle to provide adequate care to CKD patients. These countries lack financial resources and health infrastructure. They stated that in 2010at least half of the 4.9 million persons requiring renal replacement therapy worldwide died prematurely because they did not have access to treatment(51)",
+            "Dialysis requires a great amount of time, typically 3 days a week, every week, for 3\u20134 hours per dialysis session. This can become a tremendous burden on the patient as well as the primary caregivers. Exercise during dialysis is a time-effective option. It provides patients with an opportunity to participate in exercise while receiving their hemodialysis treatment. However, concerns regarding safety of exercise during dialysis are a major drawback to its implementation. More guidelines need to be established(28)"
+        ],
+        "treatment summary": [
+            "The main considerations in planning an exercise program for children and adolescents with CKD are anemia, poor muscle mass, cardiovascular changes, and limited activity.These all contribute to exercise intolerance(21,23,29) ",
+            "Exercise has been shown to improve oxygen uptake, improve cardiac adaptations, increase muscle strength, increase endurance, and increase exercise tolerance. It has also been shown to decrease depression, anxiety, mood swings, irritability, and fatigue and to increase QOL for those with CKD(36,40,53) (21,23,29) \u2013Authors of a 2019 systematic review sought to determine if exercise could improve aerobic capacity, BP, and hemodialysis efficiency of adult patients on hemodialysisfor ESRD. They also wanted to determine what type of exercise \u2014aerobic training, resistance training, or combined aerobic and resistance training\u2014would be best(21) -In the 33 RCTs evaluated it was determined that aerobic training and combined training significantly increased aerobic capacity. Combined training significantly decreased blood pressure. In all three types of exercise there was less effect on hemodialysis efficiency -The authors concluded that there is a broad consensus from previous research and from their systematic review that exercise training promotes beneficial effects in patients with CKD. However, it is not as routinely included in treatment as it should be \u2013In a 2019 systematic review of 13 RCTs, investigators found that exercise in adult patients with ESRD improves fatigue, anxiety, depression, physical activity, and QOL(23)",
+            "Research on the benefits of exercise for adults with CKD is more abundant than research on exercise for children and adolescents. However, the positive results should be expected to carry over to them.(24) Findings of a 2019 review of exercise prescription for children with CKD include:(24) \u2013Patients with CKD have decreased VO2 max compared to the general population. Several studies have shown that aerobic training improves VO2max in both adults and children with CKD \u2013Children with CKD are inactive because of fear of sports injury, anemia, limitations from vascular catheter or arteriovenous fistula, and hemodialysis \u2013Children with CKD are at risk for osteoporosis from renal osteodystrophy and using glucocorticoids before and after transplant. There is limited evidence for recommendations for the optimal type of bisphosphonate dosage and duration. Exercise can be a safe way for children to effectively reduce the riskfor osteoporosis \u2013Aerobic exercise in hypertensive childrendecreases BP",
+            "Exercise may be possible to perform during hemodialysis. Children receiving hemodialysis spend an enormous amount of their waking hours during the week receiving treatment. A pilot study involving 10 children at Texas Children\u2019s Hospital was conducted to study the effects of completing an exercise program while simultaneously undergoing hemodialysis. Children performed 30\u201360  minutes of exercise 2 times a week during their hemodialysis treatment. After 3 months of participation,all patients showed some improvement in the 6MWT and lower extremity strength(9)",
+            "Education on the benefits of physical activity for children with CKD is important for both children and their primary caregivers. There is often an unfounded fear that exercise will cause increased fatigue and pain that will impede their ability to perform daily activities.(9)Providing games to make exercise more enjoyable is needed to increase the amount of physical activity in children with CKD(24,28)",
+            "Establish an exercise training program including aerobic exercise, resistance exercise, and flexibility exercise to improve outcomes in children and adolescents with CKD.(24)Recommendations regarding frequency, intensity, and duration of exercise vary. Initiation of exercise program should be done under supervision \u2013Authors of a review of literature in 2019 recommend exercise prescription for pediatric patients with CKD is very similar to that for healthy children and adults. The progression may need to be slower. They recommend following American College of Sports Medicine recommendations of:(24) -Aerobic exercise should be done at least 3 to 5 times per week, at a moderate intensity (40% to 59% of patient\u2019s oxygen uptake reserve [VO2R] or a rate of perceived exertion of 11\u201314  on a scale of 6\u201320). Each exercise session should last about 20 to 60 minutes -Resistance training should be performed with an interval of at least 48 hours between sessions of the same muscle groups and no more than 3 days per week -Flexibility exercise for all major muscle groups should be done at least 3 days per week \u2013KDIGO recommends physical exercise for 30 minutes 5 times a week(10) \u2013The Renal Association Clinical Practice Guidelines on hemodialysis recommend 30 minutes of moderate intensity exercise during every dialysis session and encourages exercise on non-dialysis  days also(22)",
+            "Neuromuscular electrical stimulation (NMES) may be an effective alternative for patients with CKD who have difficulty with exercising or are not motivated to perform voluntary exercise. NMES has positive effects on the muscle architecture,  strength, and functional capacity of deconditioned patients. Authors of a systematic review in 2020 evaluated the effect of NMES on muscle strength, functional capacity, and QOL in adultpatients with CKD on hemodialysis(25) \u2013Ten RCTs were included in the systematic review. All 10 found an increase in lower-body  muscle strength (quadriceps strength). A meta-analysis  on seven of the studies that all measured quadriceps strength by dynamometry found that NMES increased isometric quadriceps muscle strength when compared with the control group (MD = 1.19; 95% CI, 0.85-1.53; I2:8%; P < .0001) \u2013Four of the studies evaluated upper-body  strength by manual dynamometry. Three showed an increase in strength after NMES(MD = 10.02 kgF; 95% CI, 0.78-19.27; I2:97%; P = .03) \u2013Seven studies evaluated functional capacity through the 6MWT. A meta-analysis  on five of the studies showed an increase in the distance walked after NMES(MD = 30.11m; 95% CI, 15.57-44.65; I2:0%; P < .0001) \u2013Four studies evaluated QOL. They used different measurement tools, making it difficult to analyze.However, three of the four studies found a positive effect for NMES on QOL \u2013. Problem Goal Intervention Expected Progression Home Program  Decreased cardiorespiratory function and overall physical activity level _ _ Increased complaints of fatigue _ _ Lack of education regarding contraindications and precautions for physical activity and the benefits of incorporating daily physical activityImprove cardiorespiratory function as measured by 6MWT and/or gait speed _ _ Patient and/or primary caregivers are educated regarding the importance of daily physical activity as well as the contraindications and precautions for physical activity/ exerciseTherapeutic activities (3,7,9,21,23,24,29) _ Implement a cardiorespiratory endurance program, allowing for adequate warm-up and cool- down periods in conjunction with a variety of functional, age-appropriate resistance exercises, weight-bearing activities, and stretching _ _ Exercise regimens may be performed at an outpatient clinic on non-dialysis days, during hemodialysis, and at home. If during hemodialysis treatment, exercise is preferred during the first half of dialysis session to avoid hypotensive episodes(3,9) _ _ Appropriate warm- up and cool-down activities including stretching, yoga, diaphragmatic breathing, and/or meditation as part of a comprehensive fitness program as indicated _ _ Utilize 6MWT for baseline and treatment intervention and may also assess gait speed(7) _ _ UE/LE cycle ergometer and/or the treadmill can be used depending on the clinical setting. May also incorporate a walking program to gradually increase patient\u2019s cardiorespiratory endurance(3) _ _ Typical exercise programs should consist of 3\u20135 days per week of moderate intensity (using the Modified Borg Scale \u2013 Rate of Perceived Exertion 11\u201313), with each session 20\u201360 minutes. If patient cannot tolerate 20\u201340 minutes of continuous aerobic exercise, attempt 10\u2013minute intervals over a 20- to 60-minute period(3,24) _ _ Sustained low-intensity activities are more appropriate initially, with a gradual increase in intensity overtime _ _ Monitor HR, BP, rate of perceived level of exertion, and/or oxygen saturation pre and post activity _ _ May create a reward chart for the patient with target short- and long-term goals. Once goals are met, a reward is given to the patient. Include the patient and the family/primary caregivers in goal setting and rewards in order to further motivate the patient _ _ Patient/primary"
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "maximize muscle strength and endurance": [
+            "MMT"
+        ],
+        "improve balance": [
+            "PBS, Balance subscale of BOT-2,  Stationary section of PDMS-2"
+        ],
+        "improve cardiorespiratory endurance": [
+            "Monitor HR and BP, Modified Borg Scale, VO2 max, 6MWT"
+        ],
+        "promote and restore independent functional age-appropriate  skills": [
+            "PDMS-2,  BOT-2,  PEDI"
+        ],
+        "improve self- reported qol": [
+            "HRQOL measures: 16D, CHIP-AE,  PedsQL, PROMIS pediatric measure, Test of Quality of Life in Children with KidneyDisease Measure, SF-36, and KIDSCREEN-52"
+        ]
+    },
+    "maintenance or prevention": [
+        "Prevention strategies for CKD include control of hypertension and diabetes mellitus (if present) and avoidance of unnecessary potentially nephrotoxic drugs, especially NSAIDs",
+        "The efficacy of erythropoietin in the treatment of anemia in patients with CKD is well established in the literature. Recombinant erythropoietin improves patients\u2019 sense of well-being,  enhances cognitive function, reduces LVH, improves sleep pattern, and reduces hospitalizations(1)",
+        "Once a patient develops stage V CKD, the preferred option is transplantation; however, this may not be feasible. A patient may have comorbidities that preclude transplantation, there may be no readily available living related or unrelated donor, and the patient may have to wait 3\u20134 years or more for a cadaver kidney. Therefore, the decision for dialysis is made. Rigorous counseling should be provided to the patient and family/caregivers about the choices available for dialysis access(1,27) Children will have a much better chance at improving their growth, life expectancy, and overall QOL if they are able to undergo kidney transplantation rather than receive ongoing dialysis(31)",
+        "Regular aerobic and resistance exercise improves exercise tolerance, cardiovascular function, muscle function, ability to engage in daily physical activities, and QOL(3) It is important to educate both the patient and the family/primary caregivers on the benefits of daily physical activity in order to maximize the patient\u2019s compliance with the exercise program(9,28) Primary caregivers need to play a key role in motivating the patient and assisting him or her to comply with the exercise program(9,28)",
+        "In pediatric populations, urinary screening at 3 years of age and throughout school age is considered to contribute to the discovery of CKD at an early stage, thus facilitating early management and improving the renal prognosis(31)",
+        "Routine screening for complications of CKD is important to reduce morbidity and mortality Children with CKD require follow-up  every 1\u20133 months, depending on level of GFR, to monitor BP, growth, and lab test values 2)",
+        "For high-risk  patients, the following may be necessary(1) Annual echocardiography is increasingly being recommended to assess for early development of LVH. An electrocardiography study may also be used, but its sensitivity is limited, particularly for early detection Testing for serum total cholesterol, low-density  lipoprotein (LDL) cholesterol, high-density  lipoprotein (HDL) cholesterol, triglycerides, and homocysteine levels is recommended because nearly 50% of individuals with stage V CKD die of cardiovascular disease Regular evaluation by a dietician to screen for malnutrition Screening for fecal occult blood and measurement of iron stores and serum folate",
+        "Regarding sports participation, a transplanted kidney is relatively more prone to injury because of its location in the abdomen. Contact sports, such as football, wrestling, martial arts, and boxing, should be avoided. Other activities associated with high-grade  renal injuries are sledding, skiing, and rollerblading(3) Individuals with a kidney transplant have successfully participated in many sports at national and international levels, including track and field, swimming, golf, volleyball, bowling, badminton, tennis, table tennis, running, and cycling",
+        "There are many camps in the United States that have been created for children with chronic diseases, including children with CKD and/or status post transplantation. The age range for participation varies, as do cost and dates (many are during the summer). These camps are designed to provide children with chronic illnesses an opportunity to have fun, and participate in a variety of sporting activities (hiking, horseback riding, swimming, fishing, tennis, etc.) as well as crafts, music, and the arts in a safe, stress-free,  emotionally supportive environment with their peers. Many of these camps are associated with the National Kidney Foundation and operated in conjunction with state YMCA programs"
+    ],
+    "patient education": [
+        "Patients may qualify for special education services. Encourage the primary caregiver to discuss this with the referring physician and/or social worker",
+        "General medical information, support groups, current research, etc. \u2013https://www.kidney.org/",
+        "General medical information, clinical trials, resources \u2013 https://www.niddk.nih.gov/health-information/kidney-disease "
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Singh AK. Chronic kidney disease. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . 2nd ed. Philadelphia, PA: Saunders Elsevier; 2008:643-649.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Pradhan M, Furth SL. Chronic kidney disease. In: Cabana MD, ed. The 5-minute Pediatric Consult Standard . 7th ed. Philadelphia, PA: Wolters Kluwer; 2015:196-197.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Patel DR, Raj VM, Torres A. Chronic kidney disease, exercise, and sports in children, adolescents, and adults. Phys Sportsmed . 2009;37(3):11-19.  (RV)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Icard PF, Hower SJ, Kuchenreuther AR, Hooper SR, Gipson DS. The transition from childhood to adulthood with ESRD: educational and social challenges. Clin Nephrol . 2008;69(1):1-7.  (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Cadnapaphornchai MA. Kidney & urinary tract. In: Hay WW Jr, Levin MJ, Deterding RR, Abzug MJ, eds. Current diagnosis & treatment: Pediatrics . 23rd ed. New York, NY: McGraw Hill Education; 2016:723-724.  (GI)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Gaylord NM, Starr NB. Genitourinary disorders. In: Burns CE, Brady MA, Dunn AM, Starr NB, Blosser CG, eds. Pediatric Primary Care . 4th ed. St Louis: Saunders Elsevier; 2009:881. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Takken T, Engelbert R, van Bergen M. Six-minute  walking test in children with ESRD: discrimination validity and construct validity. Pediatr Nephrol . 2009;24(11):2217-2223.  (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Clapp EL, Bevington A, Smith AC. Exercise for children with chronic kidney disease and end-stage  renal disease. Pediatr Nephrol . 2012;27(2):165-172.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Goldstein SL, Montgomery LR. A pilot study of twice-weekly  exercise during hemodialysis in children. Pediatr Nephrol . 2009;24(4):833-839.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Stevens PE, Levin A. Evaluation and management of chronic kidney disease: synopsis of the kidney disease: improving global outcomes 2012 clinical practice guideline. Ann Intern Med . 2013;158(11):825-30.  doi:10.7326/0003-4819-158-11-201306040-00007.  (G)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Shilpak MG, Matsushita K, Arnlov J, et al. Cystatin C versus creatinine in determining risk based on kidney function. New Eng J Med . 2013;369(10):932-43.  doi:10.1056/ NEJMoa1214234. (M)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Najm U, Siddiqui NH. Chronic kidney disease. In: Domino FJ, ed. The 5-minute clinical consult standard 2017 . 25th ed. Philadelphia, PA: Wolters Kluwer Health; 2017:198-199. (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Rodig NM, McDermott KC, Schneider MF, et al. Growth in children with chronic kidney disease: a report from the Chronic Kidney Disease in Children Study. Pediatr Nephrol . 2014;29(10):1987-1995.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Goknar N, Oktem F, Ozgen I, et al. Determination of early urinary renal injury makers in obese children. Pediatr Nephrol . 2015;30(1):139-144.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Stabouli S, Papadimitriou E, Printza N, Dotis J, Papachristou F. Sleep disorders in pediatric chronic kidney disease patients. Pediatr Nephrol . 2016;31(8):1221-1229.  (SR)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Mendley SR, Matheson MB, Shinnar S, et al. Duration of chronic kidney disease reduces attention and executive function in pediatric patients. Kidney Int . 2015;87(4):800-806. (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Dotis J, Pavlaki A, Printza N, et al. Quality of life in children with chronic kidney disease. Pediatr Nephrol . 2016;31(12):2309-2316.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Atkinson MA, Warady BA. Anemia in chronic kidney disease. Pediatric Nephrology . 2018;33(2):227-238.  doi:10.1007/s00467-017-3663-y.   (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Primcak W, Kleeman S, Boineau F, Jernigan S. Are my pediatric patients at increased risk of developing chronic kidney disease? Clin Pediatr (Phila) . 2020;59(8):801-808. doi:https://doi. org/10.1177/0009922820920015. (RV)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Drube J, Wan M, Bonthuis M, et al. Clinical practice recommendations for growth hormone treatment in children with chronic kidney disease. Nat Rev Nephrol . 2019;15(9):577-589.  doi:https://doi.org/10.1038/s41581-019-0161-4.  (RV)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Scapini KB, Bohlke M, Moraes OA, et al. Combined training is the most effective training modality to improve aerobic capacity and blood pressure control in people requiring haemodialysis for end-stage  renal disease: systematic review and network meta-analysis.  J Physiother . 2019;65(1):4-15.  doi:https://doi.org/10.1016/j.jphys.2018.11.008. (SR)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Hendriks FK, Smeets JSJ, van der Sande FM, Kooman JP, van Loon LJC. Dietary protein and physical activity interventions to support muscle maintenance in end-stage  renal disease patients on hemodialysis. Nutrients. 2019;11(12):2972. doi:https://doi.org/10.3390/nu11122972. (RV)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Zhao QG, Zhang HR, Wen X, et al. Exercise interventions on patients with end-stage  renal disease: a systematic review. Clin Rehabil . 2019;33(2):147-156.  doi:https:// doi.org/10.1177/0269215518817083. (SR)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Nejati P, Sobouti B, Angoorani H. Exercise prescription for children with chronic kidney disease. Asian J Sports Med . 2019;10(1):e82358. doi:https://doi.org/10.5812/ asjsm.82358. (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Schardong J, Stein C, Della M\u00e9a Plentz R. Neuromuscular electrical stimulation in chronic kidney failure: A systematic review and meta-analysis.  Arch Phys Med Rehabil . 2020;101(4):700-711.  doi:https://doi.org/10.1016/j.apmr.2019.11.008. (SR)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Kerklaan J, Hannan E, Baumgart A, et al. Patient- and parent proxy-reported  outcome measures for life participation in children with chronic kidney disease: a systematic review. Nephrol Dial Transplant . Advance online publication. August 2, 2020;2020:gfaa132. doi:https://doi.org/10.1093/ndt/gfaa132. (SR)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Thumfart J, Reindl T, Rheinlaender C, M\u00fcller D. Supportive palliative care should be integrated into routine care for paediatric patients with life-limiting  kidney disease. Acta Paediatr. 2018;107(3):403-407.  doi:https://doi.org/10.1111/apa.14182. (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Zhang J, Bennett PN. The perception of people with chronic kidney disease towards exercise and physical activity: a literature review. Renal Soc Australas J . 2019;15(3):97-104.  doi:https://doi.org/10.33253/rsaj.15.3.97-104.  (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Master Sankar Raj V, Patel DR, Ramachandran L. Chronic kidney disease and sports participation by children and adolescents. Transl Pediatr . 2017;6(3):207-214.  doi:https:// doi.org/10.21037/tp.2017.06.03. (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "CDC. Chronic kidney disease in the United States, 2019. https://www.cdc.gov/kidneydisease/publications-resources/2019-national-facts.html . Published October 29, 2020. (GI)"
+        },
+        {
+            "number in article": 31,
+            "reference": "United Network for Organ Sharing (UNOS). Transplant trends. https://unos.org/data/transplant-trends/ . Accessed October 29, 2020. (GI)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Okada H, Yasuda Y, Kashihara N, et al. Essential points from Evidence-based  Clinical Practice Guidelines for Chronic Kidney Disease 2018. Clin Exp Nephrol . 2019;23(1):1-15.  doi:https://doi.org/10.1007/s10157-018-1648-1.  (G)"
+        }
+    ]
+}

@@ -1,0 +1,495 @@
+{
+    "metadata": {
+        "title": "Low Back Pain in Children",
+        "synonyms": [
+            "back pain",
+            "low back syndrome",
+            "nonspecific low back pain",
+            "postural low back pain",
+            "lumbar sprain",
+            "lumbar strain",
+            "lumbar dysfunction",
+            "lumbago",
+            "sciatica"
+        ],
+        "anatomical location body part affected": [
+            "Spinal column and/or sacroiliac joint, musculoskeletal system, nervous system"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "pediatric rehabilitation"
+        ],
+        "description": [
+            "Low back pain (LBP), which may be acute or chronic in nature, affecting the musculoskeletal regions of the lumbosacral spine. The focus of this Clinical Review is primarily acute mechanical LBP in children (defined as individuals under the age of 18)(30)",
+            "Acute LBP: report complaints or pain and/or other symptoms for < 6 weeks",
+            "Subacute LBP: report complaints of pain and/or other symptoms for 6 weeks to 3 months",
+            "Chronic LBP: report complaints of pain and/or other symptoms for > 3 months"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M54": {
+                "base": "dorsalgia",
+                "M54.1": "radiculopathy",
+                "M54.3": "sciatica",
+                "M54.4": "lumbago with sciatica",
+                "M54.5": "low back pain",
+                "M54.6": "pain in thoracic region",
+                "M54.8": "other dorsalgia",
+                "M54.9": "dorsalgia, unspecified"
+            },
+            "M48": {
+                "base": "other spondylopathies",
+                "M48.3": "traumatic spondylopathy",
+                "M48.4": "fatigue fracture of vertebrae",
+                "M48.5": "collapsed vertebrae, not elsewhere classified",
+                "M48.8": "other specified spondylopathies",
+                "M48.9": "spondylopathy, unspecified"
+            },
+            "M53": {
+                "base": "other dorsopathies, not elsewhere classified",
+                "M53.2": "spinal instabilities",
+                "M53.3": "sacrococcygeal disorders, not elsewhere classified",
+                "M53.8": "other specified dorsopathies",
+                "M53.9": "dorsopathy, unspecified"
+            },
+            "Optional": {
+                "base": "subclassification for site involvement for M60, M79",
+                "0": "multiple sites",
+                "5": "pelvic and thigh region",
+                "8": "other",
+                "9": "site unspecified"
+            },
+            "M51": {
+                "base": "other intervertebral disc disorders",
+                "M51.0": "lumbar and other intervertebral disc disorders with myelopathy",
+                "M51.1": "lumbar and other intervertebral disc disorders with radiculopathy",
+                "M51.2": "other specified intervertebral disc displacement",
+                "M51.3": "other specified intervertebral disc degeneration",
+                "M51.4": "Schmorl\u2019s nodes",
+                "M51.8": "other specified intervertebral disc disorders",
+                "M519": "intervertebral disc disorder, unspecified"
+            },
+            "M60.9": "myositis, unspecified",
+            "M79.1": "myalgia",
+            "M96.1": "postlaminectomy syndrome, not elsewhere classified",
+            "M96.3": "postlaminectomy kyphosis",
+            "S33": {
+                "base": "dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",
+                "S33.0": "traumatic rupture of lumbar intervertebral disc",
+                "S33.1": "dislocation of lumbar vertebra",
+                "S33.2": "dislocation of sacroiliac and sacrococcygeal joint",
+                "S33.3": "dislocation of other and unspecified parts of lumbar spine and pelvis",
+                "S33.5": "sprain and strain of lumbar spine",
+                "S33.6": "sprain and strain of sacroiliac joint",
+                "S33.7": "sprain and strain of other unspecified parts of lumbar spine and pelvis"
+            },
+            "S39": {
+                "base": "other and unspecified injuries of abdomen, lower back, and pelvis",
+                "S39.0": "injury of muscle and tendon of abdomen, lower back, and pelvis",
+                "S39.7": "other multiple injuries of abdomen, lower back, and pelvis",
+                "S39.8": "other specified injuries of abdomen, lower back, and pelvis",
+                "S39.9": "unspecified injury of abdomen, lower back, and pelvis"
+            },
+            "G55.1": "nerve root and plexus compression in intervertebral disc disorders",
+            "G55.3": "nerve root and plexus compression in other dorsopathies",
+            "F45.4": "persistent somatoform pain disorder (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on individual insurance contract coverage Causes, Pathogenesis, & Risk Factors"
+        ],
+        "presentation signs and symptoms": [
+            "Varies greatly depending on the cause of LBP. Patients may present with pain, dysfunctional posture, decreased strength, decreased ROM, impaired function, and/or diminished reflexes and sensation. See History , below, for aggravating/easing factors, nature of pain, location of pain, and pattern of pain(13)"
+        ],
+        "contraindications precautions to test": [
+            "Clinicians should follow the guidelines of their clinic/hospital and the patient\u2019s physician orders regarding any specific pre- and postoperative protocols (e.g., status post idiopathic scoliosis surgical correction, laminectomy, spinal fusions, tumor removal)",
+            "Children < 4 years of age with LBP complaints should be referred to a physician immediately(1)",
+            "Red flags: LBP at night/disruption of sleep to LBP, fever, malaise, abdominal pain, weight loss, dysuria, changes in bowel or bladder habits, abnormal neurological findings > 1 month, very limited spinal motion, and irritability are usually associated with tumors or infections. Nighttime pain warrants immediate physician evaluation(3,22)",
+            "Any neurologic dysfunction including gait changes, weakness, numbness, and bowel and bladder changes warrants further evaluation and referral to physician(39)",
+            "It is important to respect the patient\u2019s subjective complaints of pain during evaluation",
+            "Positive straight leg raise (SLR) test that reproduces patient\u2019s complaint of radicular pain indicates herniated disk and/or discitis(4) \u2013Discitis and/or vertebral osteomyelitis are commonly associated with fever, weight loss, malaise, severe stiffness, and irritability in children younger than 10 years. Children 1\u20133 years of age may also present with loss of motor skills (e.g., walking). Refer to physician for additional lab work and assessment ( Staphylococcus aureus  is most commonly associated with discitis)",
+            "Caution when assessing lumbar extension ROM (active/passive) in patients in whom spondylolysis, spondylolisthesis, or ankylosing spondylitis is diagnosed. Lumbar extension motion will most likely exacerbate the patient\u2019s complaint of pain and other symptoms"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "LBP can result from a variety of causes involving the bony or muscular structures of the back, intervertebral disks, spinalcord, or peripheral nerves(1)",
+            "Most cases are idiopathic; other cases may be categorized as the following:(1,2,33)\u2013Mechanical-Overuse syndromes (e.g., muscle strain, ligament sprain, capsular sprain)-Herniated nucleus pulposus-Slipped vertebral apophysis/apophyseal ring fracture-Postural disorders-Vertebral compression fractures-Vertebral stress fractures-Spondylolysis and spondylolisthesis (acquired)-Several studies have identified muscle length and neural mobility imbalances between right and left sides that oftenoccur during growth spurts and are a primary cause of LBP in children\u2013Developmental or congenital-Spondylolysis and spondylolisthesis (developmental)-Scheuermann kyphosis-Idiopathic scoliosis (for more information on adolescent idiopathic scoliosis, see Clinical Review\u2026Adolescent IdiopathicScoliosis ; CINAHL Topic ID Number: 5000007552)-Tethered cord-Spina bifida-Syringomyelia\u2013Inflammatory and/or infectious-Discitis and vertebral osteomyelitis-Intervertebral disk calcification-Enteropathic arthritis-Rheumatological conditions, including ankylosing spondylitis and reactive spondyloarthropathies such as Reitersyndrome-Sickle cell disease and sickle cell pain crisis-Epidural abscess\u2013Neoplastic-Bony: osteoid osteoma, osteoblastoma, osteosarcoma, Ewing sarcoma, aneurismal bone cyst-Metastatic, leukemia, lymphoma, eosinophilic granuloma, glioma, neuroblastoma, rhabdomyosarcoma-Psychogenic",
+            "Can also categorize child LBP into three categories (muscular, bone-related,  discogenic \u2013 see below)(2)",
+            "Prevalence of LBP increases with age; by age 15, prevalence approaches that in adults(1,2,4,5,6,25)\u2013Reported prevalence rates vary widely, with estimates ranging from 1.1% to 66% due to differences among the studies\u2013In a meta-analysis  on the prevalence of LBP in children and adolescents by researchers in Spain, results supported thatprevalence rate increases with age. Higher lifetime prevalence rates were reported in the most recent studies, suggestingthat LBP is an increasing problem in childhood and adolescence(25)-Research published through April 2011\u2013Spondylolysis is the most common (13\u201347%)  overuse injury of the low back in adolescent athletes (vs. approximately 6%in general population)(6,7)\u2013Recurrent/chronic LBP reported in 8% of adolescents"
+        ],
+        "pathogenesis:  pathogenesis varies greatly due to the underlying mechanism cause of injury. in general, there is an acute injury to the vertebrae and or soft tissues that activates the nociceptors  i.e., pain receptors  present in the disk, muscles, and": [],
+        "risk factors": [
+            "Female sex (5)",
+            "Adolescence(39)",
+            "Poor physical fitness/sedentary lifestyle/poor posture(9)",
+            "Obesity \u2013 possible association; however, inconsistent evidence(22)\u2013Overweight/obesity is associated with increased risk of LBP in adolescents and adults based on a systematic review of 33studies; however, there was inadequate assessment of trial quality",
+            "Intense exercise/physical activity (e.g., athletes performing repetitive motions, especially lumbar extension)(6,7)",
+            "Inadequate muscle strength and endurance in back-stabilizing muscles(9,11)",
+            "Decreased lower extremity muscle flexibility (primarily hamstrings)(9)",
+            "Carrying backpacks has been implicated, but no statistical relationship has been found between relative backpack weightand incidence of LBP; however, a strong association exists between overall time carrying a backpack and LBP(2)\u2013Backpack loads of 4kg and 8kg are associated with compression of the L5-S1  intervertebral disk. There is a correlation ofincreased backpack load with increased pain, but load size has no effect on lumbar lordosis or lumbar deformity(26)",
+            "Lumbar spine X-ray  abnormalities (spondylolysis, narrowed disk space, spinal instability, Schmorl node)",
+            "Psychosocial, emotional, and/or behavioral problems(34)\u2013Psychological factors have been found to play an important role in the development, persistence, and exacerbation ofchronic LBP(12)\u2013Based on cross-sectional  study of 1,446 children 11\u201314  years of age using completed questionnaire and diary, there is astrong association between LBP and emotional problems and LBP and conduct problems(31)",
+            "Family history of LBP(9)",
+            "Repetitive activities and movements near end ranges of motion may be a mechanism in LBP(38)\u2013Adolescent tennis players who perform a large volume of ground strokes may be at increased risk for developing LBP"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Clinicians should follow the guidelines of their clinic/hospital and the patient\u2019s physician orders regarding any specific pre- and postoperative protocols (e.g., status post idiopathic scoliosis surgical correction, laminectomy, spinal fusions, tumor removal)",
+            "Children < 4 years of age with LBP complaints should be referred to a physician immediately(1)",
+            "Red flags: LBP at night/disruption of sleep to LBP, fever, malaise, abdominal pain, weight loss, dysuria, changes in bowel or bladder habits, abnormal neurological findings > 1 month, very limited spinal motion, and irritability are usually associated with tumors or infections. Nighttime pain warrants immediate physician evaluation(3,22)",
+            "Any neurologic dysfunction including gait changes, weakness, numbness, and bowel and bladder changes warrants further evaluation and referral to physician(39)",
+            "It is important to respect the patient\u2019s subjective complaints of pain during evaluation",
+            "Positive straight leg raise (SLR) test that reproduces patient\u2019s complaint of radicular pain indicates herniated disk and/or discitis(4) \u2013Discitis and/or vertebral osteomyelitis are commonly associated with fever, weight loss, malaise, severe stiffness, and irritability in children younger than 10 years. Children 1\u20133 years of age may also present with loss of motor skills (e.g., walking). Refer to physician for additional lab work and assessment ( Staphylococcus aureus  is most commonly associated with discitis)",
+            "Caution when assessing lumbar extension ROM (active/passive) in patients in whom spondylolysis, spondylolisthesis, or ankylosing spondylitis is diagnosed. Lumbar extension motion will most likely exacerbate the patient\u2019s complaint of pain and other symptoms"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -Nonspecific LBP is the most common diagnosis among pediatric patients reporting pain(4) -Understanding mechanism of injury through patient\u2019s history can assist with differential diagnosis of LBP; however, it is often unknown(2) -May be a direct cause, such as trauma or injury during single athletic event (e.g., football game) or vague(7) -Trauma causes one third of herniated disks(1) -Has the patient recently (< 6 months) had a growth spurt? -Adolescent growth spurts increase the risk of musculotendinous strain(1) -Etiology varies and may be categorized as muscular/ligamentous, bone-related,  discogenic, or other(2)Resulting from sports injury, overuse, or poor posture. Typically acute and presenting as muscular sprain, ligamentous strain, vertebral facet sprain, and/or capsular strain Accounts for 2550%  of cases of LBP among adolescents and especially common in athletes, generally related to repetitive extension or hyperextension in sports such as gymnastics, ballet, volleyball, football, and figure skating(15) -Diagnoses in this category are spondylolysis, spondylolisthesis, slipped vertebral apophysis (apophyseal ring fracture), neoplasms (bone tumors, spinal cord tumors), and acute leukemia (may cause vertebral collapse) -Discogenic (nerve-related)(15)Infections (e.g., discitis and vertebral osteomyelitis), rheumatologic disease (e.g., spondyloarthropathy/ ankylosing spondylitis), Scheuermann kyphosis, idiopathic scoliosis, and psychogenic pain",
+                "course of treatment": {
+                    "medical management": "Unlike in adults, a definable cause for LBP can be found in > 50% of pediatric patients, yet most children with complaint of back pain do not present for medical attention (2) Thorough medical history and physical examination should occur prior to physical therapy (PT) referral in order to determine that LBP is not a result of an underlying pathology such as a tumor or infection",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken? NSAIDs are typically prescribed(13,22) Antibiotics necessary to treat discitis due to presence of S. aureus  (IV and/or oral)(2)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Generally, children and adolescents without significant physical findings/absence of red flags, short duration of pain (< 3\u20134 weeks), and/or history of minor injury can be treated conservatively; radiographic or laboratory studies are not necessary. Plain radiographs are often normal(1,3)",
+                        "Abnormal physical examination, history of red flags (see above), neurological symptoms, or persisting pain lasting > 3 weeks to 1 month \u2013lumbar spine radiography ordered (anteroposterior, lateral, and/or bilateral oblique views). Oblique views taken if spondylolysis is suspected(6)",
+                        "Spondylolysis presents with a classic appearance on oblique radiograph described as a \u201cScottie dog\u201d with a \u201ccollar\u201d (3)",
+                        "Two-view  lateral plain film radiographs are often diagnostic and oblique views do not add significant value for diagnosing spondylolisthesis. Advanced imaging (bone scan and CT scan) increases diagnostic accuracy but adds significant cost and considerable radiation exposure (3)",
+                        "Single-photon  emission computed tomography (SPECT) helps make an accurate diagnosis, assess pars interarticularis defect, and determine potential for healing in children suspected of having spondylolysis (3)",
+                        "SPECT scan is most sensitive; CT scan is highly specific and useful after SPECT imaging for staging and treatment stratification",
+                        "Plain film anteroposterior and lateral standing radiographs are used to diagnose scoliosis(16)",
+                        "MRI is ordered if herniated disk, infection, or tumor is suspected; however, MRI requires general anesthesia in young children. It is the preferred examination for suspected neurologic or disk injury(1,3)",
+                        "Bone scan if spondylolysis, infection, or a tumor is suspected and as an alternative to MRI in younger children",
+                        "Standing radiographs of entire spine are typically ordered to diagnose Scheuermann kyphosis",
+                        "Radiographic findings of vertebral wedging of 5\u00b0 or more on three adjacent vertebral bodies, end-plate  changes, narrowing disk space, and Schmorl nodes (invagination of disk material into the vertebral body)(2)",
+                        "Discitis may present with normal radiographs early on (< 3 weeks after pain begins)(6)",
+                        "Later disk-space  narrowing and end-plate changes",
+                        "Laboratory studies such as CBC, erythrocyte sedimentation rate (ESR), urinalysis, serum protein electrophoresis",
+                        "(SPEP), Creactive protein, and HLA-B27  measurement may be indicated in cases of suspected inflammatory condition, infection, or malignancy(3,6)",
+                        "Bacterial cultures via needle aspiration or open biopsy to rule out discitis are positive in only 2550%;  thus not routinely recommended; Staphylococcus  species most common(1)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice, heating pad, massage, spa tub, lavender packs) or alternative/complementary therapies (e.g., acupuncture, herbal supplements) and whether they helped relieve patient\u2019s symptoms",
+                    "previous therapy": "Document whether patient has had any therapy (PT, massage, chiropractic, etc.) for this condition and what specific treatments seemed helpful or not helpful "
+                },
+                "aggravating easing factors": "What positions/activities seem to make symptoms worse or better? How long has the patient reported pain prior to the initial PT evaluation? Document length of time prior to exacerbating/alleviating symptoms -Certain prolonged postures such as sitting are classically associated with discogenic pain, whereas pain relief with standing can be associated with sacroiliac pain(35) -Patient\u2019s report of precipitating trauma/motion is often associated with muscular sprain and/or ligamentous strain(35) -Pain with repetitive lumbar extension motion is associated with spondylolysis, spondylolisthesis, and ankylosing spondylitis; pain is typically greater with rest vs. activity(1,2,7,13)",
+                "body chart": "Use body chart to document location and nature of symptoms. Location of pain may help indicate source of pain -Discogenic LBP may be felt centrally, unilaterally, or bilaterally with/without radiating pain to buttock region, thigh, behind the knee, calf, and/or foot -May have localized tenderness in sciatic notch -Radiating pain down legs may be associated with herniated disk, spondylolisthesis, epidural abscess, or osteoid osteoma(1) -Pain localized to one side may indicate muscle strain, facet joint sprain, spondylolysis, or sacral iliac sprain -Bilateral symptoms may be due to spinal cord tumors -Sacroiliac pain is located in the lumbosacral-buttock region sometimes with referral to the leg and/or groin region(13)",
+                "nature of symptoms": "Document nature of symptoms (e.g., constant vs. intermittent, sharp, dull, aching, burning, numbness, tingling, radiating) -Spinal pain may be referred. Consider abdominal examination and referral to physician if any gynecological issues are suspected(39) -Radiation of pain into legs(1,22) -L3-L4  nerve root  anterior thigh -L5 nerve root  lateral thigh, anterior shin, dorsal foot -S1 nerve root  posterior thigh, sole of foot -Severe back pain in children is more likely associated with a pathological condition vs. mechanical/muscular sprain(2) -Writhing pain  suggests intraabdominal condition -Unrelenting/constant pain  suggests tumor/infectious process",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)self-report  pain V AS developed for children aged 312 -Minimum clinically significant difference in V AS for children aged 815  is 1 cm(5) -V AS for pain rating (010  line) -Minimum clinically significant difference in numerical rating scale is 20%, regardless of initial pain severity(13) -Oswestry Disability Index for Back Pain(15) -Total score given as a percentage and categorized by amount of disability (e.g., minimal, moderate, severe) due to LBP -Meaningful clinical difference = 6 points -High test-retest  reliability (r = 0.99)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables (e.g., prolonged sitting at school, standing in line)",
+                "sleep disturbance": "Document number of wakings per night, if any. LBP primarily at night with disruption of sleep is usually associated with tumor. Refer to physician(6,34)",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/orweight loss, bowel/bladder change, saddle anesthesia, etc.) -Gastrointestinal complications, such as peptic ulcer disease, may arise if patient is taking NSAIDs(13) LBP at night/disruption of sleep due to LBP, fever, malaise, abdominal pain, weight loss, dysuria, changes in bowel or bladder habits, abnormal neurological findings > 1 month, very limited spinal motion, and irritability are usually associated with tumors or infections. Nighttime pain warrants immediate physician evaluation (3)",
+                "respiratory status": "Patients with very severe adolescent idiopathic scoliosis, thoracic curves (> 50\u00b0), found to be at a greater risk for decreased pulmonary function(16) Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Has the patient complained of LBP in the past? If so, how often? Was LBP diagnosed in the patient before? What course of treatment was provided?",
+                    "comorbid diagnoses": "Ask the patient/caregiver about other problems, including diabetes, cancer, heart disease, psychiatric disorders, musculoskeletal injuries, and orthopedic disorders. In addition, inquire whether there is a family history of rheumatological disease or arthritis, including back stiffness",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient and/or primary caregiver about other symptoms he/she may be experiencing. The abdominal and pelvic organs are potential sources of referred pain to the spine and erector spinae muscles(13)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? If so, have those activities been limited due to patient\u2019s current condition? Does the patient attend school? Has the patient stopped participating in physical education or other forms of exercise? Does the patient have hobbies or special interests? Does the patient participate in group activities such as Boy/Girl Scouts, etc.? Does the patient have a job? If so, what are his/her work duties?",
+                "functional limitations assistance with ADLs adaptive equipment": "Does the patient currently require the use of any assistive devices or equipment, such as a walker, cane, or reachers, in order to perform self-care  activities? -Health-related  quality of life measures should be included in the evaluation of children with LBP due to the potential impact physically, psychologically, and socially on these children -Oswestry Disability Index is one of the most common -SF-36  and SF-12  Health Surveys -Meaningful clinical difference for SF-36/SF-12 is 7.31(15)",
+                "living environment": "With whom does the patient live (e.g., family members, caregivers)? Identify if there are any barriers in the home to patient independence -Are caregivers and/or family supportive?Stairs? If so, number of floors in home? Location of bedroom and bathroom? Entrance to the home? Shower vs. bathtub?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting) \u2022Anthropomorphic characteristics:  Assess patient\u2019s height and weight and calculate BMI",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Does the patient need an assistive device such as a cane to alleviate symptoms?",
+            "balance": "Assess patient\u2019s static and dynamic balance with one or more of the following tests as deemed appropriate per \u2013Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)  balance subscale, Pediatric Balance Scale (PBS) \u2013Due to time constraints, parts of the PBS such as Romberg, Sharpened Romberg, and Single Leg Stance may be performed",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "May palpate distal pulses (dorsalis pedis and tibialis posterior arteries) Neural dynamic testing of sciatic nerve may be indicated in patients who report neurogenic pain (numbness, tingling, radiating pain). Be extremely cautious when performing this assessment since this test will most likely reproduce patient\u2019s subjective pain/symptoms \u2013See Special tests below for description of neural dynamic testingAssess patient\u2019s ability to properly perform body mechanics such as squatting, lifting, etc.Complete a functional assessment as indicated",
+            "functional mobility": "",
+            "gait locomotion": "Assess patient\u2019s gait and note any significant deviations as well as any foot drop(40)Posterior-anterior pressure can be applied centrally over the spinous process or unilaterally over the facet joint to assess motion/pain provocation \u2013Attention to tissue response with applied pressure is important; note muscle guarding, referred pain patterns, level of discomfort with pressure, and if the primary pain complaint is reproduced with assessment \u2013Spondylolysis and/or spondylolisthesis may present with localized tenderness at involved segments \u2013Compression and distraction at the SI joints, along with special testing, can help differentiate between low back and sacroiliac origin(39)",
+            "muscle strength": "Perform bilateral myotomal testing for lower extremity. Patient with complaints of pain, muscular weakness, numbness, and tingling within that particular nerve root pattern likely has a discogenic problem. These symptoms may be accompanied by sensory impairment in a dermatomal distribution(2,13)weakness upon resisted ankle dorsiflexionweakness upon resisted hallucis longusweakness upon resisted ankle eversion \u2013Hip abduction weakness may be present in patients with sacroiliac joint tenderness or spondylitis. Follow up with additional sacroiliac joint special tests (see below)(35)Based on the child\u2019s age, it may be beneficial to assess gross motor development. This can be performed formally with an age-appropriate  standardized test such as the Peabody Developmental Motor Scales, Second Edition (PDMS-2),  the BOT-2,  or a screen such as the Battelle Development Inventory Screening or the Ages and Stages Questionnaire",
+            "observation inspection palpation including skin assessment": [
+                "Indicate presence of increased soft tissue texture/muscle spasm",
+                "Patients with discitis or other infections may be tender to palpate over affected vertebrae(2)",
+                "Tenderness over sciatic notch/piriformis is common, especially in patients with radicular pain(35)",
+                "Localized L5 and S1 tenderness may be present in patients with spondylolysis and spondylolisthesis and at the kyphotic apex in patients with Scheuermann kyphosis(2)",
+                "Iliolumbar ligament often tender to palpate",
+                "Patients with severe spondylolisthesis may present with a palpable step-off  deformity of the lumbar spine(7)"
+            ],
+            "posture": "Visual inspection of patient\u2019s standing posture (anterior, posterior, and lateral view of patient)Assess scapular and hip heights, pelvic asymmetry(2) -If pelvic or hip asymmetry is noted, further assessment may be warranted. Note if there is a lateral trunk shiftAssess for excessive kyphosis, excessive/diminished lumbar lordosis, and scoliosis(1) -Patients with Scheuermann kyphosis present with sharp, rigid kyphosis; best viewed laterally with the patient flexed(2) -Patients with spondylolysis and spondylolisthesis may present with hyperlordosis(6,7) -Especially prominent spinous process may be present with spondylolisthesis(35) -Perform forward bend scoliosis test (sit/stand position may be used) and use scoliometer to quantify degree of curvature; if curve is greater than or equal to 7\u00b0, referral to an orthopedic (pediatric) specialist is warranted(17) \u2013Also assess for rounded shoulders, forward head, genu varus/valgus, knee hyperextension, calcaneal varus/valgus",
+            "range of motion": "Assess active ROM for lumbar spine. Assess passive ROM for end range using slight overpressure. Note if any of these motions reproducesthe child\u2019s primary complaints and/or is limited by pain. In addition, it is also important to assess hip and knee ROM and note any limitations or reproducible pain most children should be able to reach within 15 cm of their toes(2) -Often reproduces discogenic pain -Deviation to one side with forward flexion indicates posterolateral disk bulgebe cautious with overpressure when suspecting spondylolysis/spondylolisthesis(2,6) -Often alleviates discogenic pain -Pain with side bending and extension may indicate a facet syndromeamount of motion should be symmetrical \u2013Be aware for any aberrant signs such as Gower\u2019s sign (use of hands to walk up thighs to return from forward flexion in standing)(14)",
+            "self-care activities of daily living": "",
+            "reflex testing": "Assess bilateral patellar and Achilles reflexes, noting any abnormality/asymmetry. May also test for Babinski sign if neurological condition is suspected(2) \u2013L3-L4  disk herniation \u2013 diminished patellar reflex (L4 nerve root) \u2013L5-S1  disk herniation \u2013 diminished Achilles reflex (S1 nerve root)Gently rub a blunt instrument (i.e., back of reflex hammer) across the plantar aspect of the foot from the calcaneus along the lateral border to the forefoot -Normal response \u2013 no response at all or curve inward together -Abnormal response \u2013 great toe extends while the other toes plantar flex and splay",
+            "sensory testing": "Perform bilateral dermatomal testing for lower extremities. Complaints of pain, numbness, and tingling within that particular nerve root pattern are associated with a discogenic problem. These symptoms may be accompanied by motor weakness in a myotomal distribution(13)",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisOften measured in supine. Use cloth tape to measure from ASIS to medial malleolus as well as from the umbilicus to the medial and lateral malleoli for both legs. However, literature reports that leg-length  measurements recorded with cloth tape are unreliable(18)(Be cautious with this test. Respect patient\u2019s symptoms at all times.) Patient is supine. Flex the hip and knee of the nontesting leg with the sole of the foot resting on the table. Slowly flex the hip of the other leg (testing side) while keeping the knee fully extended(2) -Pain occurring when the angle between the back of the thigh and the table is < 60\u00b0 is an unequivocal indication of nerve root involvement -Pain occurring > 60\u00b0 may also be caused by decreased hamstring muscle length. To exclude muscle irritability, raise the leg to the point of pain, lower the leg 5\u00b0, and then dorsiflex the foot. This will stretch the sciatic nerve, resulting in pain if it is not of muscular involvement. This would be a positive result -Patients with spondylolysis and spondylolisthesis often present with decreased straight leg raise due to hamstring tightness and/or spasm(6) -Minimal clinically important difference is > 12\u00b0(15) \u2013Crossed-straight  leg raise test(13) -Perform straight leg raise (as described above in SLR test) on the uninvolved leg -Positive test if pain is reproduced on the involved leg -It is highly correlated with a herniated disk \u2013Femoral nerve stretch test(2) -Place patient prone with knees extended -Passively flex one of the knees towards patient\u2019s posterior thigh -Positive test results in patient reporting anterior and/or medial thigh pain radiating into the anterior thigh, indicating a probable L2, L3, L4 nerve root irritation \u2013Modified Thomas test/hip flexor flexibility(4) -Place patient supine on table with his or her pelvis level and in line with his or her trunk; patient moves down the table until knees are approximately 4 inches over the edge -Stabilize the pelvis by placing your hand under the patient's lumbar spine. Patient flexes both hips and knees, bringing thighs up onto trunk -Patient holds one leg to his or chest and lets other leg down until it is flat on the table  -If the thigh rises off the table, attempt to flex the knee on that side. If the knee flexes with ease, the test is positive for tight iliopsoas -If you are unable to flex the knee, or resistance is felt, positive test for tight rectus femoris \u2013Prone instability test(13) -Monitor patient\u2019s symptoms and work within patient\u2019s comfort level; do not aggravate patient\u2019s pain -Place patient prone with legs over the edge of the examining table and feet resting on the floor -Perform passive intervertebral motion testing on the lumbar spine and note any provocation of pain -Have patient extend the legs (i.e., lift legs off the floor) while holding onto table and perform passive intervertebral motion testing again to segments identified as painful -Positive test results when pain is provoked during the first part of the test (feet resting on floor) but is eliminated when the test is repeated with the legs actively extending (feet off the floor). This tests for isolated lumbar spinal segment instability -Proven to be highly reliable K = 0.87 (95% CI) \u2013FABER test(40) -Patient is supine, placing foot of the affected side on the opposite knee (i.e., hip is flexed, abducted, and externally rotated) -Press firmly down on the flexed knee while stabilizing the opposite anterior superior iliac spine -Groin pain most likely indicates hip problem vs. low back -Pain in the sacroiliac area may indicate a sacroiliac joint problem \u2013Sacroiliac joint provocation tests(19) -Pain provocation for 3 or more out of the 6 sacroiliac joint provocation tests or any 2 of 4 selected tests has the best predictive power as positive source of pain -If all 6 tests are negative, the sacroiliac joint can be ruled out as the cause of LBP -All tests have good to excellent interrater reliability ( K = 0.52\u20130.88) -Gaenslen\u2019s test -Place patient supine near the edge of the table, having one leg hang over the edge of the table and the opposite hip and knee flexed towards the chest -Apply firm pressure to the knee being flexed towards the patient\u2019s chest and a counterpressure applied to the knee of the leg hanging towards the floor -Perform this technique on both sides -The presumed action is a posterior rotation force to the sacroiliac joint of the side of the flexed hip and knee, and an anterior rotation force of the sacroiliac joint on the side of the hanging leg -Sacral thrust -Place patient prone -Apply a vertical force downward to the center of the sacrum -Presumed action is an anterior shearing force of the sacrum on both ilia -Compression -Place patient in side-lying  with hips and knees flexed to ~ 90\u00b0 -Kneel on the table and apply a force vertically downward on the uppermost iliac crest -The presumed action is a compression force to both sacroiliac joints -Thigh thrust/posterior shear -Place patient supine with one hip and knee flexed to 90\u00b0 and slightly adducted and the other fully extended -Cup the sacrum with one hand and use the other arm and hand to wrap around the flexed knee -Apply pressure directed dorsally along the line of the vertically oriented femur -Perform this technique on both sides -Presumed action is a posterior shearing force to the sacroiliac joint of that side -Sacroiliac joint distraction -Place patient supine with legs fully extended -Apply a posteriorly directed force to both anterior superior iliac spines -Presumed effect is a distraction of the anterior aspects of the sacroiliac jointtests for nonorganic pain; these tests should not elicit severe pain(2) Patient is seated. Gently apply downward pressure on the patient\u2019s head. Patient may collapse if nonorganic painGently palpate erector spinae musculaturePlace patient\u2019s arms at his/her side and gently rotate body from side to side (shoulders and pelvis moving together as a unit)Exaggerated painful response to a stimulus (e.g., sensory testing, MMT testing) that is not reproduced when the same stimulus is given at a later time -May not truly discriminate between organic and nonorganic pain/problems -Associated with poorer treatment outcomes and greater pain levels -Current studies have some methodological problems",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "May indicate patient\u2019s ability to follow multistep commands based on age and/or other diagnoses (e.g., ADD, ADHD, sensory integration dysfunction)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Step-off  deformity and bony tenderness warrant further examination(39)"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s referring physician. All patients should be referred to their physician immediately for any worsening symptoms(1)",
+                "The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "It is extremely important to be in direct communication with the referring physician regarding the patient\u2019s course of treatment if the patient is not responding to typical treatment intervention and/or if his or her condition worsens (e.g., neurologic deficits evolve, increasing pain [especially at night], or other red flags)",
+                "Contraindications to cold therapy  include Raynaud\u2019s syndrome, medical instability, cryoglobulinemia, cold urticaria, and paroxysmal cold hemoglobinuria. Avoid applying cold over superficial nerves, areas of diminished sensation or poor circulation, or slow-healing  wounds(20)",
+                "Contraindications to heat therapy  include decreased sensation and poor local circulation. Be cautious with patients who have medical comorbidities, especially heart disease(20)",
+                "Contraindications to manual therapy  in general include cancer and organ disease(20)",
+                "Contraindications to joint mobilization  include joint effusion, hypermobility, inflammation, infection, joint or bone instability, joint fusion, recent fracture, bone-on-bone  end feel, malignancy, bone disease, corticosteroid use, systemic connective tissue diseases, and advanced osteoporosis(20)",
+                "Contraindications to massage  include infection and skin lesions(20)",
+                "Ultrasonography is contraindicated in children and adolescents who are skeletally immature"
+            ]
+        },
+        "diagnosis need for treatment": "Children with LBP are often seen first by their primary care physician and/or orthopedist If there are no red flags, the duration of pain is short, and/or there is a history of minor injury, the child with LBP can be referred to PT prior to unnecessary testing (i.e., radiographs or laboratory studies)(13) \u2013Early referral to PT may assist in determining appropriate, patient-specific  treatment intervention based on clinical findings during the PT evaluation(14) Chronic LBP in the pediatric population often does not have a definitive cause such as spondylosis, Scheuermann\u2019s disease, or herniated disk(32) Literature reviews report strong evidence that therapeutic exercise and back schools/postural education are effective in treating patients with LBP(4,13,23,24) Consensus is that children with LBP and abnormal physical findings, constant pain, nighttime pain, or radicular pain should receive further evaluation(2,3,13,14) Consensus is that radiographs should be performed when evaluating patients",
+        "rule out": "Rule out possible underlying causes of persistent LBP that would warrant medical attention in children and adolescents who report the following: Nighttime pain, pain with fever or other generalized symptoms, malaise, weight loss \u2013 possible tumor or infection(3)  Acute pain with radicular pain and positive SLR \u2013 possible herniated disk, slipped apophysis, spondylolysis(3) Acute pain associated with trauma and/or neurologic loss \u2013 possible vertebral fracture(3) Acute pain associated with muscle soreness/stiffness, no radicular pain \u2013 possible muscle strain and/or facet sprain(3) Pain with spinal extension and/or hamstring tightness \u2013 possible spondylolysis, spondylolisthesis, injury to vertebral pedicle or lamina(3) Chronic pain with morning stiffness and/or sacroiliac joint tenderness \u2013 possible inflammatory spondyloarthropathies(3)diskitis, vertebral osteomyelitis, spinal epidural abscess, pyelonephritis, pancreatitis, psoas abscess(39)Juvenile RA, Reiter syndrome, ankylosing spondylitis, psoriatic arthritis(39)Hip/pelvic anomalies, herniated nucleus pulposus, overuse syndromes, stress fractures, upper cervical instability(39)vertebral tumors, leukemia, lymphoma, spinal cord tumors(39) Other pathologies of intrabdominal or pelvic origin(39)",
+        "prognosis": [
+            "Varies depending on the underlying cause. When the condition is promptly diagnosed and treated, the majority of children with LBP do well and do not experience significant sequelae(1)",
+            "Acute injuries (e.g., muscle strain, ligament sprain, facet joint/capsular sprain) should resolve within 4\u20138 weeks(2)",
+            "Patients with spondylolysis generally report symptom resolution and good outcomes (return to sports without pain) within 2\u20136 months of initial complaints. This varies depending on the degree of injury and importance of limiting activity(2,6)",
+            "Current studies support the hypothesis that patients with the greatest pain, disability, and psychological distress levels have the poorest chance of recovery from LBP(10)",
+            "Most acute LBP, especially associated with muscular strain, resolves in 2 months(2)",
+            "Longitudinal research suggests that recurrent LBP during late childhood may lead to increased recurrence of LBP, medical consequences, and decreased work capacity during adulthood(11)",
+            "Studies indicate that educating school-aged  children on preventing back problems decreases the prevalence of LBP and continues to have a positive influence after 1 year(8)",
+            "Most athletes with spondylolysis respond to conservative treatment and return to full activity 2\u20136 months after diagnosis(2,6) \u2013The key to success is early detection and treatment \u2013otherwise patients are at greater risk for complete pars fracture and spondylolisthesis with prolonged disability"
+        ],
+        "referral to other disciplines": "If the patient\u2019s subjective complaints do not appear to coincide with objective physical findings, it is prudent to refer back to the referring physician and/or recommend mental health evaluation Some patients\u2019 improvements in strength and flexibility do not always reduce their primary complaint of LBP. This may be due to psychosocial/psychosomatic factors not addressed by an exercise program(9)",
+        "other considerations": [],
+        "treatment summary": [
+            "There is limited consensus on the best evidence-based  treatment intervention when treating children with nonspecific LBP \u2013Spanish researchers conducted a meta-analysis  to determine the effectiveness of PT treatments for LBP in children(23) -Studies in English, Spanish, Portuguese, French, and Italian that were published before March 2011 were included in the search -Eight articles met their selection criteria -The combination of therapeutic physical conditioning and manual therapy is the most effective -However, the small number of studies and control groups and the methodological limitations in this meta-analysis prevented the researchers from definitive conclusions regarding the efficacy of PT treatments for children with LBP \u2013If there are no warning signs, conservative management with activity modification, ice, moist heat, acetaminophen or ibuprofen, PT, and close follow-up  is appropriate(1)",
+            "Key for a complete recovery with PT is prevention of reoccurrence of acute LBP or the transference of acute LBP to chronic LBP. This can be achieved through a regular spine stabilization program that should begin immediately after the patient\u2019s pain begins to improve(13,14)  \u2013A program consisting of stretching, mobility, and strengthening exercises improves pain, function, and mobility in children with LBP(11) \u2013Ability to participate in PT may be limited due to pain, and therapy may need to be delayed until pain begins to subside(13) \u2013Stabilization exercises that target the lumbar multifidus muscles and correct lumbar multifidus asymmetry result in a reduction in pain and overall improvements in functional disability scores(28)",
+            "Bed rest is no longer recommended for longer than 1\u20132 days(1) \u2013A longer period of bed rest is contraindicated because it can result in complications such as depression, decreased muscle tone, loss of flexibility, and lower extremity blood clots \u2013Accepted initial treatment for patients with spondylolysis is relative rest from offending activity such as competitive sports(6)",
+            "Some physicians advise patients to combine PT with behavioral cognitive training as a means of addressing the social and psychological factors that often play a large role in causing or maintaining back pain (2)",
+            "Exercise is often the treatment of choice for patients with LBP \u2013Exercise can release endorphins, which block pain signals from reaching the brain as well as reduce the anxiety and depression that often accompany chronic LBP (2) \u2013Exercise can help patients learn to be responsible for their health as well as develop healthy exercise habits, helping to alleviate LBP(5) \u2013Appropriate prescribed exercises could help promote optimal spinal alignment, spinal loading, and enhance back function in order to minimize injury during growth spurts(5) \u2013Regular exercise has the potential to teach fearful patients that careful spinal movements can relieve rather than create pain \u2013Proprioceptive neuromuscular facilitation and neuromuscular joint facilitation techniques that target the transverse abdominis muscle can reduce chronic symptoms of LBP(29) \u2013Reduction in pain intensity and childhood physical risk factors of LBP can occur with participation in an 8-week structured exercise program(5,11)",
+            "Researchers in the United Kingdom conducted a randomized controlled study investigating the efficacy of a specific 8-week  exercise program in adolescents (grades 9 and 10) with recurrent LBP(11) \u2013Treatment intervention: structured group sessions for 30 mins 2x week for 8 weeks.All children progressed through the school-based  exercise program at the same rate, with specific number of exercises and repetitions completed \u2013Results indicated a significant decrease in pain intensity but no significant difference in number of self-reported pain episodes compared to the control group \u2013Number of school absences decreased from an average of 1.1 to 0.1 in the exercise group; researchers concluded that this was likely a result of decreased pain intensity or an increase in the participants\u2019 confidence to carry out everyday physical activities \u2013Significant increases in lumbar flexion/extension ROM, hip flexibility (sit-and-reach  test and hip ROM), and trunk-muscle  endurance (number of sit-ups)  occurred, which coincides with research on exercise-based  rehabilitation in adults",
+            "Research results for spinal manipulation are conflicting, but spinal manipulation may improve patient satisfaction as seen in adults. Spinal manipulation should be avoided in children who are still skeletally immature",
+            "Massage therapy intervention may be beneficial for mild acute LBP(1)",
+            "Mobilization techniques such as the Mulligan sustained natural apophyseal glides (SNAGs) can result in decreased pain and improved function decreased pain and improved function in persons with acute low back pain(27) \u2013Case report of an 18-year-old  male with low back pain as a result of a motor vehicle accident \u2013Objective measures include the Oswestry Disability Questionnaire (ODI) and Fear-Avoidance  Beliefs Questionnaire Work subscale (FABQ) \u2013Patient reported 10/10 pain and presented with a score of 48% on the ODI and an FABQ score of 12 \u2013Clinician performed a central SNAG at the L3-L4  and right sided unilateral SNAG at L3-L4  and followed standard protocols for performing SNAGs \u2013Results at the end of the 3rd session showed a 4/10 pain scale, 18% on the ODI, and FABQ score of 0 ",
+            "Generally, back corsets/braces for LBP are not prescribed due to the potential for muscle wasting and exacerbating the condition, except for the following:(1,2) \u2013Spondylolytic stress fractures(2,6,7) -Early immobilization with an antilordotic brace/brace that maintains lumbar lordosis and limiting physical activity are the most effective nonsurgical treatments -Immobilization is continued until pain-free  lumbar extension and rotation are achieved and repeat CT shows progressive bony healing -PT generally follows this period of immobilization with gradually increasing activity, including but not limited to abdominal strengthening, hamstring stretching, and spinal stabilization exercises \u2013Patients with spondylolisthesis (< 50% slippage) also respond to nonsurgical treatment, including restricted physical activity, short-term  bracing, and PT with close monitoring of slippage(2) \u2013Patients with spondylolisthesis (> 50% slippage) have a high success rate with in situ fusion and with postoperative PT intervention(2)",
+            "Case study involving an elite 14-year-old  male gymnast with an 18-month  history of LBP and bilateral lumbar pars interarticularis fracture at L5 per CT scan demonstrated complete bony union of the pars defect after 12-week  intervention using an external pulsed electromagnetic field (PEMF) bone stimulator for 4 hours/day and a warm-and-form-type lumbosacral orthotic brace worn 24 hours/day(7) \u2013Noninvasive device with external coils placed along the back, above the fracture site, producing a magnetic field and inducing an electrical field in the tissue \u2013Patient was pain-free  2 years later, training regularly, and competing on an international level \u2013May be good alternative intervention to spinal fusion surgery for persistent nonunion pars fracture/chronic pseudoarthrosis \u2013Bone stimulation is not approved for use in chronic nonunion pars defects; however, stimulator is routinely used in patients with pseudarthrosis status post lumbar fusion surgeries as well as nonunion extremity fractures . Problem Goal Intervention Expected Progression Home Program  Pain with AROM and/ or PROM of the spine and/or LBP at restMinimal pain with all planes of motion to allow ADLs (dressing, bathing, etc.)Therapeutic exercises (11,13,15) _ Hamstring, quadriceps, iliopsoas, gastrocsoleus, hip adductors, piriformis, and lumbar spine stretches are often prescribed to patients with LBP. They are patient specific depending on the results of flexibility testing _ _ Physical agent/ modalities   (4) _ Therapeutic agents (hot or cold packs), TENS may be utilized as adjuncts to therapeutic exercises; however, evidence of their effectiveness is insufficient _ _ Cryotherapy (ice/ cold packs) may be beneficial within the first 3 days of an acute injury and should be applied for 15-20 mins, 3-4x day(2)Modalities should be gradually reduced over the patient\u2019s course of treatment; as the patient\u2019s acute pain subsides, so should the need for adjunct physical agents and modalitiesProvide written instructions regarding home use of cryotherapy and for performing stretches  Decreased core strength and/or lumbar stabilityReturn to normal physical activity and/or sports-specific skillsTherapeutic exercises (2,11,13,15) _ As soon as possible, instruct patient in spinal stabilization exercise program, including patient-specific LE and trunk muscle stretching and/or strengthening within a pain-free range. These selected exercises should provide optimum physical challenge with minimal joint loading _ _ Some common back stabilization/ strengthening exercises are supine knee to chest, prone alternating leg lifts, pelvic tilts, bridging, star drill (single-leg stance dynamic strengthening activity) _ _ May also progress balance exercises from static to dynamic in order to maximize core strength and stability (e.g., single-leg stance on level surface to dynamic surface such as wobble board, Bosu ball, 1/2 foam roll)The intensity and duration of exercises should be gradually progressed as patient increases flexibility and strength _ _ Exercises should be modified to patient\u2019s abilities (e.g., increase number of repetitions and/or sets, increase resistance)Instruct patient with an individualized therapeutic home program. These should be performed as part of daily routine per therapist-specific recommendations _ _ Patient and/or primary caregiver must demonstrate independence when performing home program  Radicular pain and other neurogenic complaints (e.g., tingling, burning, numbness)Resolution of radicular complaintsPhysical agent/ modalities   (4) _ Therapeutic agents (hot or cold packs) and TENS may be utilized as adjuncts to therapeutic exercises; however, evidence of their effectiveness is insufficient _ _ Therapeutic exercises (15) _ Sciatic nerve neurodynamic flossing/ technique for 30-60\u00b0 as instructed and demonstrated to the patient and/or primary caregiver _ _ Sciatic nerve flossing can be performed in sitting or in supine _ _ Sitting in a chair with hips and knees at 90\u00b0, flex the neck and then slowly extend the knee. If there is no pain, gradually plantar flex the ankle while further flexing the neck. Slowly dorsiflex the foot and extend the neck and alternate this motion within a pain- free range _ _ If supine, begin by flexing the hip and knee to 90\u00b0. Patient supports the leg with his/her hands underneath the knee. Slowly extend the knee to end range and then gradually alternate between ankle plantarflexion and dorsiflexion _ _ See Treatment summary , aboveModalities should be gradually reduced over the patient\u2019s course of treatment; as the patient\u2019s acute pain subsides, so should the need for adjunct physical agents and modalities _ _ The intensity and duration of sciatic nerve flossing should be gradually progressed as patient increases pain-free neural flexibilityInstruct patient in sciatic nerve flossing to be performed at home as part of daily routine per therapist-specific recommendations _ _ Patient and/or primary caregiver must demonstrate independence when performing home program _ _ Patient may use heat, warm compress/wrap or cold (ice pack) therapy intervention at home as per therapist recommendation  Lack of knowledge and/or improper use of body mechanics with basic activities such as lifting and carrying as well as poor sitting posture for studyingIndependently demonstrate proper body mechanics/ ergonomics for basic activities such as lifting and carrying heavy objects as well as sitting posture in an effort to educate and prevent children from developing LBPPatient education (1,21) _ Comprehensive back care/postural education program provided by the clinician _ _ Written and verbal discussion regarding the risk factors for back injuries, clinician demonstration regarding proper body mechanics such as lifting and carrying heavy objects and proper sitting posture, and patient demonstrating proper ergonomic techniques _ _ Back care education is important in order to prevent future back injuries and disability _ _ Some common back education recommendations are:(1,2,21) Never bend at the waist; bend at the hips and knees When standing for long periods, if possible, place 1 foot up on a step stool to reduce low back strain Never lift heavy objects higher than your waist and always keep the load close to your body when carrying or lifting heavy objects Turn feet vs. twisting at your back when carrying heavy objects It may be best to sleep on your side with hips and knees bent vs. prone to reduce strain on your lumbar spine depending on the underlying cause of pain When sitting for prolonged periods of time, forearms should be supported on the table, feet flat on the ground and hips/knees at 90\u00b0Patient and/or primary caregivers should be able to independently demonstrate proper ergonomic techniques (e.g., lifting and carrying heavy objects, sitting posture for studying) without the need for verbal cuesProvide the patient and/ or primary caregivers with comprehensive written instructions (pictures ideally) regarding proper body mechanics for activities such as lifting and carrying heavy objects _ _ These techniques should be incorporated into the patient\u2019s daily routine in order to provide optimal benefit  Facet joint hypomobility limiting ROMRestore normal, pain- free spinal and/or sacroiliac joint mobility and normalize soft tissue textureTherapeutic modalities   (36) _ Perform manual therapy treatment intervention such as but not limited to posterior- anterior mobilizations centrally and/or unilaterally, muscle energy techniques, and osteopathic manual therapy as indicated per evaluation _ _ Patients may also benefit from soft tissue massage to address any increased tissue tightness/ muscle spasms of the trunk and/or hip such as iliopsoas, piriformis, erector spinae, multifidusOnce isolated spinal/ sacroiliac joint mobility and soft tissue texture are restored to normal, there is no need for further treatment intervention of this kindN/A ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "decreased pain": [
+            "Oucher Pain Scale, V AS, Oswestry Low Back Pain Disability Index (ODI)"
+        ],
+        "improved functional mobility": [
+            "BOT-2,  PDMS-2"
+        ],
+        "improved gross motor skills": [
+            "BOT-2,  PDMS-2"
+        ],
+        "improved lower extremity and trunk muscle flexibility": [],
+        "improved lower extremity and trunk muscle strength": [
+            "MMT, Pediatric Balance Scale"
+        ],
+        "improved cardiorespiratory endurance": [
+            "6MWT"
+        ],
+        "improved quality of life": [
+            "SF-36,  SF-12",
+            "Return to normal, age-appropriate  activity is an important outcome measure because physical inactivity dictated by LBPtends to lead to further deconditioning and aggravation of the initial problem(11)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Patient should followup with referring physician as recommended, especially if repeat imaging and laboratory studies are indicated (e.g., for spondylolisthesis, idiopathic scoliosis)",
+        "Any specific limitations or concerns regarding return to sports and/or physical education must be thoroughly discussed with the patient prior to discharge from PT",
+        "The high prevalence of LBP in children and the predictive value that childhood LBP has for adults have led to preventive PT treatment programs(23)  Preventive treatments include postural education, therapeutic exercises, and physical activity(23) General prevention recommendations are for maintaining a healthy lifestyle: regular physical fitness, weight management, smoking cessation, stress reduction, and proper body mechanics(22)",
+        "Include patient\u2019s parents in patient education and home exercise program as well as overall awareness of the condition. Researchers conducting a study in Zimbabwe found that while recurrent nonspecific LBP is common among adolescents, most parents were unaware of their children\u2019s back pain(37)",
+        "Back education program may be designed and marketed to the community (schools, community centers, etc.) to help educate many children, teachers, and primary caregivers at once vs. waiting to educate one-on-one  in a clinical setting once the injury has occurred(21) More cost-effective  in a group setting with peer support and opportunities for discussions that may not occur in an individualized session; however, this same information should be reviewed and demonstrated with each patient with chronic LBP referred to PT on a patient-specific,  age-appropriate  basis Topics to be included (but not limited to): \u2013Dressing -Avoid excessive flexion (e.g., sit while putting on pants vs. leaning over, slip on shoes vs. laces) -Avoid rotation by placing belt through loop prior to placing pants on \u2013Bathing -Take a shower vs. bath in order to avoid excessive flexion getting in and out of tub \u2013Bed mobility -Perform log roll vs. supine to sitting straight up in/out of bed -Pillows should support the neck and head in neutral -Can placed pillow underneath knees when lying supine or between knees when lying on side \u2013Computer use/studying -Monitor should be at eye level and ~1 arm\u2019s distance away -Forearms should be parallel and supported on table with elbows at 90\u00b0 -Chairs with back support providing for hips and knees at 90\u00b0 with feet supported on floor or footrest -Use document holders to position text at eye level so as not to frequently need to rotate trunk -Encourage taking frequent rest breaks, stretch and change positions \u2013Education regarding basic spinal anatomy and physiology \u2013Body mechanics for proper lifting, bending, and carrying objects (e.g., wide base of support, use legs to lift vs. back, keep objects close to body, push vs. pull)",
+        "Despite inconclusive evidence, experts generally recommend backpack loads to be no more than 10% of the child\u2019s body weight(24) Children make postural adjustments carrying these heavy loads and frequently lift and lower the loads throughout the day, potentially causing repetitive stress to their spines Children should be encouraged to balance the backpack load over both shoulders or use a rolling pack if the backpack appears to continue to cause pain(2) Attempt to implement an education program within the schools and community in order to educate children and their primary caregivers in the importance of back pain prevention"
+    ],
+    "patient education": [
+        "American College of Physicians and American Pain Society joint guidelines for diagnosis and treatment of LBP, http://annals.org/aim/article/736814/diagnosis-treatment-low-back-pain-joint-clinical-practice-guideline-from",
+        "American Family Physician  handout on acute LBP, http://www.aafp.org/afp/20000315/1789ph.html",
+        "\u201cSpondylolysis and Spondylolisthesis,\u201d http://www.gillettechildrens.org/conditions-and-care/spondylolysis-and-spondylolisthesis/  Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Berz K, Logan K. Back pain. In: Cabana MD, ed. The 5-Minute Pediatric Consult 2019 . Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2019:96-97.  (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Achar S, Yamanaka J. Back pain in children and adolescents. Am Fam Physician . 2020;102(1):19-28.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Booth TN, Iyer RS, Falcone RA, et al. ACR Appropriateness Criteria Back Pain\u2014Child. J Am Coll Radiol . 2017;14(5S):S13-S24.  doi:10.1016/j.jacr.2017.01.039. (G)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Kosseim M, Rein R, McShane C. Implementing evidence-based  physiotherapy practice for treating children with low back pain: are we there yet?. Pediatr Phys Ther . 2008;20(2):179-184.  (SR)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Strikovic V, Krasnik R, Zvekic-Svorcan  J, et al. Potential risk factors for back pain in children. J Back Musculoskeletal Rehabil . 2019;32(5):749-754.  doi:10.3233/BMR-181380. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Cassas KJ, Cassettari-Wayhs  A. Childhood and adolescent sports-related  overuse injuries. Am Fam Physician . 2006;73(6):1014-1022.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Vrable A, Sherman AL. Elite male adolescent gymnast who achieved union of a persistent bilateral pars defect. Am J Phys Med Rehabil . 2009;88(2):156-160.  (C)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Wheeler AH. Low back pain and sciatica. Medscape Reference Web site. http://emedicine.medscape.com/article/1144130-overview . Accessed December 28, 2016. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Ahlqwist A, Hagman M, Kjellby-Wendt  G, Beckung E. Physical therapy treatment of back complaints on children and adolescents. Spine. 2008;33(20):E721-E727.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Geraci MC, Brown W, Velasquez JR. Low back pain adolescent athletes: diagnosis, rehabilitation, and prevention. Athletic Ther Today . 2005;10(5):6-16,  39-39, 76. (RV)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Jones M, Stratton G, Reilly T, Unnithan V. The efficacy of exercise as an intervention to treat recurrent nonspecific low back pain in adolescents. Pediatr Exerc Sci . 2007;19(3):349-359.  (RCT)"
+        },
+        {
+            "number in article": 12,
+            "reference": "\u00d8ster\u00e5ts N, Ljunggren EL, Gould KS, W\u00e6sted M, Veiersted KB. Muscle pain, physical activity, self-efficacy,  and relaxation ability in adolescents. Adv Physiother . 2006;8(1):33-40.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "El Abd O, Amadera JED. Low back strain or sprain. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, and Rehabilitation . Philadelphia, PA: Saunders Elsevier; 2019:264-268.  (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Magrum E, McMurray M. Thoracolumbar strain. In: Miller MD, Hart JA, MacKnight JM, eds. Essential Orthopaedics . Philadelphia, PA: Saunders Elsevier; 2020:444-448.  (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Balla J, George SZ. The use of a modified treatment based classification system to treat an adolescent with imaging evidence of a herniated disc. Orthop Practice . 2008;20(3):176-181.  (C)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Calloni SF, Huisman TA, Poretti A, Soares BP. Back pain and scoliosis in children: When to image, what to consider. Neuroradiol J . 2017;30(5):393-404. doi:10.1177/1971400917697503. (RV)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Grivas TB, Vasiliadis ES, Koufopoulos G, Segos D, Triantafyllopoulos G, Mouzakis V. Study of trunk asymmetry in normal children and adolescents. Scoliosis. 2006;1(19):1-8. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Clarke GR. Unequal leg length: an accurate method of detection and some clinical results. Rheumatol Phys Med . 1972;11(8):385-390.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Laslett M, Aprill CN, McDonald B, Young SB. Diagnosis of sacroiliac joint pain: validity of individual provocation tests and composites of tests. Man Ther . 2005;10(3):207-218. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Prentice WE, Quillen W, Underwood F, eds. Therapeutic Modalities for Musculoskeletal Injuries . 5th ed. Champaign, IL: Human Kinetics. (GI)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Pendleton HM, Schultz-Krohn  W. In: Pendelton HM, Schultz-Krohn  W, eds. Pedretti's Occupational Therapy - E-Book : Practice Skills for Physical Dysfunction . 7th ed. St. Louis, MO: Mosby; 2017:1091-1109.  (GI)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Channell MK. Back pain, low. In: Domino FJ, ed. The 5-Minute Clinical Consult 2016 . 24th ed. Philadelphia, PA: Wolters Kluwer Health/Lippincott Williams & Wilkins; :104-105. (GI)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Calvo-Munox  I, Gomez-Conesa  A, Sanchez-Meca  J. Physical therapy treatments for low back pain in children and adolescents: A meta-analysis.  BMC Musculoskelet Disord . 2013;14(55). doi:10.1186/1471-2474-14-55.   (M)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Yamato TP, Maher CG, Traeger AC, Williams CM, Kamper SJ. Do schoolbags cause back pain in children and adolescents? A systematic review. Br J Sports Med . 2018;52(19):1241-1245.  doi:10.1136/bjsports-2017-098927.  (SR)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Calvo-Mu\u00f1oz  I, G\u00f3mez-Conesa  A, S\u00e1nchez-Meca  J. Prevalence of low back pain in children and adolescents: a meta-analysis.  BMC Pediatr . 2013;13:14. doi:10.1186/1471-2431-13-14.  (M)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Shymon SJ, Yaszay B, Dwek JR, Proudfoot JA, Donohue M, Hargens AR. Altered disc compression in children with idiopathic low back pain: An upright magnetic resonance imaging backpack study. Spine. 2014;39(3):243-248.  doi:10.1097/BRS.0000000000000114. (RV)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Eusea J, Nasypany A, Seegmiller J, Baker R. Utilizing mulligan sustained natural apophyseal glides within a clinical prediction rule for treatment of low back pain in a secondary school football player. Int J Athletic Ther Train . 2015;20(1):18-24.  doi:10.1123/ijatt.2014-0094.  (C)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Scott IR, Vaughn AR, Hall J. Swiss ball enhances lumbar multifidus activity in chronic low back pain. Phys Ther Sport . 2015;16(1):40-44.  doi:10.1016/j.ptsp.2014.02.007. (RV)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Huang Q, Li D, Zhang Y, Rui G, Huo M, Maruyama H. The intervention effects of different treatments for chronic low back pain as assessed by the thickness of the musculus transversus abdominis. J Phys Ther Sci . 2014;26(9):1383-1385.  doi:10.1589/jpts.26.1383. (RV)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Bhatia NN, Chow G, Timon SJ, Watts HG. Diagnostic modalities for the evaluation of pediatric back pain: a prospective study. J Pediatr Orthop . 2008;28(2):230-233. doi:10.1097/BPO.0b013e3181651bc8. (RV)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Watson KD, Papageorgiou AC, Jones GT, et al. Low back pain in schoolchildren: The role of mechanical and psychosocial factors. Arch Dis Child . 2003;88(1):12-17.  (RV)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Bhatia NN, Chow G, Timon SJ, Watts HG. Diagnostic modalities for the evaluation of pediatric back pain: a prospective study. J Pediatr Orthop . 2008;28(2):230-233. doi:10.1097/BPO.0b013e3181651bc8. (RV)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Kinkade S. Evaluation and treatment of acute low back pain. Am Fam Physician . 2007;75(8):1181-1188.  (RV)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Koes BW, van Tulder MW, Thomas S. Diagnosis and treatment of low back pain. BMJ. 2006;332:1430. doi:10.1136/bmj.332.7555.1430. (RV)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Simpson R, Gemmell H. Accuracy of spinal orthopaedic tests: a systematic review. Chiropr Osteopat . 2006;14:26. (SR)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Rubinstein SM, Terwee CB, Assendelft WJ, de Boer MR, van Tulder MW. Spinal manipulative therapy for acute low-back pain. Cochrane Database Syst Rev . 2012; (9):CD008880. doi:10.1002/14651858.CD008880.pub2.  (SR)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Chiwaridzo M, Naidoo N. Are parents and adolescents in agreement on reporting of recurrent non-specific  low back pain in adolescents? A cross-sectional  descriptive study. BMC Pediatr . 2015;15(203):1-7.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Campbell A, Straker L, Whiteside D, O'Sullivan P, Elliot B, Reid M. Lumbar mechanics in tennis groundstrokes: difference in elite adolescent players with and without low back pain. J Appl Biomech . 2016;32(1):32-39.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "The Spine. In: Nelson Textbook of pediatrics . Philadelphia, PA: Elsevier; 2020:3633-3648.  (GI)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Clark DN, Chira P. Back Pain. The 5 minute pediatric consult standard . 7th ed. Philadelphia, PA: Wolters Kluwer; 2015. (GI) "
+        }
+    ]
+}

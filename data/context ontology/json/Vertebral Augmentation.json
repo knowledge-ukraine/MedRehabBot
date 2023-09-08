@@ -1,0 +1,382 @@
+{
+    "metadata": {
+        "title": "",
+        "synonyms": [
+            "percutaneous vertebral augmentation, vertebroplasty, or kyphoplasty",
+            "cement augmentation",
+            "vertebroplasty",
+            "balloon kyphoplasty"
+        ],
+        "anatomical location body part affected": [
+            "Thoracic-lumbar  spinal column (can be at multiple levels)"
+        ],
+        "area of specialty": [
+            "orthopedic rehabilitation",
+            "geriatric rehabilitation",
+            "oncology"
+        ],
+        "description": [
+            "Vertebral augmentation (V A) is a minimally invasive procedure using percutaneous injection of bone cement for rebuilding closed vertebral compression fractures. There are approximately 700,000\u2013750,000  cases of vertebral compression fractures reported per year in the United States.(26,28)In most cases, V A follows several weeks of failed conservative treatment for unremitting pain, often in older patients with osteoporotic collapse of anterior body of vertebra(1) or in patients with cancer-related vertebral compression fractures(21)",
+            "V A attempts to restore the height of the collapsed anterior vertebral body and thereby reduce a kyphotic deformity(1) \u2013In vertebroplasty, bone cement (typically polymethylmethacrylate [PMMA])(21,26)s injected, with a syringe, directly into the fracture site (usually anterior body) \u2013In kyphoplasty, bone cement is injected into a cavity created with a balloon catheter,(2,3)which is proposed to increase vertebral body height and allow the PMMA to enter the space better(26) \u2013When performed together, vertebroplasty and kyphoplasty are referred to as vertebral augmentation procedures(26) \u2013Vertebral body stenting is a promising new minimally invasive V A procedure(4)",
+            "A newer technique called Kiva VCF uses a small spiral coil implant and reservoir to contain the bone cement(27) \u2013In a 2015 randomized controlled trial, the Kiva Safety and Effectiveness Trial (KAST) compared balloon kyphoplasty with the Kiva coil and implant \u2013Kiva was shown to be \u201cnon-inferior\u201d  compared to balloon kyphoplasty in reducing pain and improving functional outcomes at 30 days, 6 months, and 12 months postoperatively \u2013Of the 300 subjects, none reported complications due to cement",
+            "Interventions after V A may involve continued pain management; therapeutic exercise training to increase trunk stability, strength, and endurance; specific back exercises; and functional training to improve mobility, balance, posture, and gait"
+        ],
+        "indications": [
+            "To relieve back pain from osteoporotic or cancer-related  vertebral compression fractures",
+            "To reinforce the vertebral body in the presence of progressive spinal bone loss and lesions that weaken the vertebral body, such as in osteoporosis, osteolytic neoplasm, multiple myeloma, hemangioma, and osteomalacia",
+            "Based on the best evidence, V A should be limited to selected patients who fail conservative medical management(21)",
+            "Only about one-third  of osteoporotic vertebral compression fractures result in medical attention. Most are asymptomatic or result in mild acute back pain symptoms that respond to conservative treatment(21)",
+            "It is unclear which subset of patients with osteoporotic fractures benefit more from V A versus conservative therapy, based on a 2014 meta-analysis(18)",
+            "The patient population receiving V A typically has:(7) \u2013failed to achieve satisfactory pain relief with conservative treatment \u2013fluoroscopic evidence of vertebral compression fracture \u2013continuing disability",
+            "Appropriate patient selection for V A, is based on clinical history, physical examination, and imaging that often includes:(21) \u2013spontaneous collapse of one or more thoracic or lumbar vertebral bodies \u2013collapse of anterior vertebral body that produces a wedge deformity and is associated with increased back pain and kyphosis, in most cases without new neural compromise (i.e., increased sensory deficits or motor weakness is uncommon) \u2013low bone mineral density associated with osteoporosis \u2013low-impact  trauma (e.g., fall from standing, riding in a vehicle over speed bump)",
+            "Increased prevalence of osteoporotic compression fractures is associated with:(5) \u2013female sex \u2013age 50 years or over \u2013White or Asian ancestry \u2013small skeletal frame with low body weight (under 127 pounds or 57.6 kg) \u2013personal or family history of multiple broken bones \u2013comorbidities with overall poor health and frailty \u2013heavy smoking or drinking alcohol \u2013long-term  corticosteroid use  \u2013low-calcium  diet \u2013prior vertebral fracture\u2014once a vertebral fracture has occurred there is a 20% risk of another within 12 months(21)"
+        ],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "M48.4": "fatigue fracture of vertebra",
+            "M80.8": "osteoporosis with pathological fracture (vertebral column) (ICD codes are provided for the readers\u2019 reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Depends on insurance contract coverage; no specific reimbursement issues are known regarding physical therapy after V A "
+        ],
+        "presentation signs and symptoms": [
+            "Most patients are older (> 65 years of age) women with spinal osteoporosis \u2013History of persistent mid-back  pain despite conservative therapy (analgesic medications, spinal orthosis/bracing, activity modification, short-term  bed rest, physical therapy) \u2013Sudden onset of localized, disabling mid-back  pain and increased kyphotic deformity, often with more than 6 cm loss in height, is indicative of acute vertebral compression fracture(5) -Increased difficulty standing, walking, and performing ADLs -Kyphotic deformity contributes to: -reduced mobility, rounded shoulders, forward head, decreased upper extremity ROM -decreased lung inspiratory capacity -malnutrition secondary to early satiety (i.e., kyphotic compression restricts abdominal volume) \u2013Generalized weakness with muscle atrophy, especially after prolonged bed rest/inactivity \u2013Loss of independence \u2013Decreased balance secondary to change in the center of gravity. The patient may present with an assistive device, such as a walker, because of forward posture and fear of falling \u2013Back pain",
+            "Signs/symptoms following V A \u2013Significant pain relief, although underlying lumbar facet joint and/or sacroiliac pain can persist(6) \u2013Tenderness and stiffness around surgical site \u2013Improved mobility/physical function \u2013Partial correction of kyphotic deformity Surgical Indications, Contraindications, & Complications"
+        ],
+        "contraindications precautions to test": [
+            "Contraindications to evaluation include: \u2013a lack of specific consent from the patient and referring physician to perform the back examination \u2013inability of the patient to comprehend procedure because of cognitive impairment \u2013unresolved inflammation, infection, or severe hematoma at the surgical site",
+            "Refer back to the physician if the patient presents with any symptoms indicative of potential cement embolism including: dyspnea, tachycardia, chest pain, hemoptysis, and cardiac arrest (33)",
+            "Stop the exam and notify referring physician in the event of red flags such as radicular signs of spinal cord/nerve root compression",
+            "Follow surgeon\u2019s orders and protocol including any limits placed on spinal motion; clarify orders regarding examination procedures (including manual muscle tests)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {},
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Take special precautions to prevent falls, especially during functional training to improve posture, balance, and gait (e.g., use gait belt, parallel bars, or the assistance of another therapist as indicated). See  Clinical Review ... Falls in Older Adults  ; CINAHL Topic ID Number: T708541",
+        "Select therapeutic exercises carefully to prevent activity-related  fractures, as the risk of bone fragility is high in this population",
+        "Avoid trunk flexion (e.g., sit-ups,  crunches, and other dynamic abdominal exercises) due to risk of osteoporotic spinal fracture",
+        "Exercise in patients with deep vein thrombosis (DVT) is contraindicated until cleared by physician",
+        "Report any sudden increase in back pain or new back pain to the physician as it may indicate a new fracture",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Contraindications to evaluation include: \u2013a lack of specific consent from the patient and referring physician to perform the back examination \u2013inability of the patient to comprehend procedure because of cognitive impairment \u2013unresolved inflammation, infection, or severe hematoma at the surgical site",
+            "Refer back to the physician if the patient presents with any symptoms indicative of potential cement embolism including: dyspnea, tachycardia, chest pain, hemoptysis, and cardiac arrest (33)",
+            "Stop the exam and notify referring physician in the event of red flags such as radicular signs of spinal cord/nerve root compression",
+            "Follow surgeon\u2019s orders and protocol including any limits placed on spinal motion; clarify orders regarding examination procedures (including manual muscle tests)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "The mechanism of vertebral collapse is almost always related to bone loss in the vertebral body,usually due to osteoporosis",
+                "course of treatment": {
+                    "medical management": "Document current medical management for back pain and comorbidities. What conservative treatments to improve mobility has the patient received? How did the pain respond to treatments? Did the patient require bed rest before V A, and if so for how long? Was a spinal orthosis prescribed?",
+                    "surgical management": [
+                        "Surgical management:  What was the date of surgery? Which V A procedure was used? A new V A technique uses a KIV A implant for fresh osteoporotic vertebral wedge fractures.(19) Which vertebral level(s) received V A? How long was the hospital stay? When did the patient start ambulation? Were there any complications, such as local infection or bleeding, cement leakage, or spinal cord (rarely) or nerve root compression?"
+                    ],
+                    "medications": "Common analgesic medications prescribed for this condition include oral NSAIDs, including aspirin, ibuprofen, naproxen, and meloxicam; topical NSAIDs (salicylate, diclofenac); and mild opiates (meperidine [Demerol], hydrocodone). Is the patient taking the prescribed medications? Does the patient feel they are effective?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Ask about pre- and postoperative findings on spinal X-rays  or other imaging studies for",
+                        "osteoporosis testing, such as dualenergy  X-ray  absorptiometry (DEXA)",
+                        "Patients with cement embolism are asymptomatic and therefore require chest radiographs to confirm it or rule it out(33)"
+                    ],
+                    "alternative therapies": "Before the surgery, did the patient receive acupuncture, homeopathic treatments, or try spinal brace for pain?",
+                    "previous therapy": "Document whether the patient had preoperative occupational or physical therapy for back pain or other musculoskeletal conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Focus on the degree of postoperative back pain related to each factor and the time before the symptoms are aggravated or eased",
+                "body chart": "What areas of the back are affected? Are the neck and upper back involved? Use body chart to document location and nature of symptoms Associated symptoms -Numbness -Stiffness -Edema -Pain around the rib cage -Difficulty taking a deep breath -Neck or shoulder pain -Radicular signs/symptoms of compression of the spinal cord or nerve root",
+                "nature of symptoms": "",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment. Specifically, address if pain is the primary symptom and whether it is present now and how much",
+                "pattern of symptoms": "Document whether there are changes in symptoms throughout the day and night (i.e., A.M., mid-day,  P.M., night) ",
+                "sleep disturbance": "Document number of wakings/night related to spinal symptoms. Inquire about sleeping positions, use of pillows, type of mattress",
+                "other symptoms": "Document other symptoms that the patient may be experiencing, such as neck pain. Do these symptoms exacerbate the condition? Are these related to compensatory movements? Also document any symptoms that could be indicative of a need to refer to the physician (e.g., bowel or bladder changes, saddle anesthesia) Barriers to learning -Does cognitive impairment limit the communication/education of the patient?",
+                "respiratory status": "Is there any respiratory compromise secondary to pulmonary restriction from kyphotic deformity?"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Are there other medical problems, such as degenerative disk disease, diabetes, cancer, heart disease, dementia, psychiatric disorders, or movement dysfunction? History of other pathological fracture (e.g., hip)? Does the patient smoke? Was the patient inpatient in the hospital before the surgery?",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask the patient about the symptoms experienced other than back pain (e.g., groin, hip, or extremities)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient able to participate in desired occupational, recreational, or social activities?",
+                "functional limitations assistance with ADLs adaptive equipment": "Do symptoms interfere with ADLs or use of adaptive equipment?",
+                "living environment": "Are there barriers in the home that restrict access such as stairs; are any modifications needed?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "Document height, weight, and BMI. Is the patient underweight or overweight?",
+            "assistive and adaptive devices": "Assess the patient\u2019s need for ambulatory or adaptive device. If a device has been prescribed, is it appropriate and being used correctly?",
+            "balance": "There is no gold-standard  screening testA score below 45 (14 items, each scored on a 4-point  scale) is associated with increased risk of falling, with a sensitivity of 91% and specificity of 82%(9)More than 30 seconds is associated with the need for assistance with mobility tasks.(10) Twenty seconds or less is considered functionalA difference of less than 7 inches at loss of balance is associated with limitations in ADLs, balance, and mobility(8)Does the patient use proper body mechanics when performing functional activities or ADLs?",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "Assess distal pulses in lower extremities. Assess blood pressure in supine, sitting, and standing positions. Document symptoms of postural hypotensionAssess safety, ability, and need for adaptive equipment in general mobility. Assess level of assistance needed and the ability to log roll. Use FIM for objective assessment",
+            "functional mobility": "",
+            "gait locomotion": "Note preferred walking speed, step length, step symmetry, and gait abnormalities (e.g., limp, shuffle, contact between swing foot and stance foot). A score of 22 or less on the Functional Gait Assessment (10 items scored on a 0 to 3 scale, 30 points possible) was found effective for classifying fall risk in older adults.(12)May also use the Dynamic Gait Index (DGI) for gait assessment",
+            "muscle strength": "Assess the gross functional strength of upper and lower extremities, with special attention to quadriceps strength. Use manual muscle testing (MMT) in the absence of hypertonicity. Assess back-extensor  strength (prone or sitting position) by surgeon\u2019s orders. Weakness in the spinal extensors may contribute to forward lean. Assess functional strength to lift, hold, and carry weights appropriate to patient\u2019s age and ADLs. In a 2018 study conducted in Taiwan, the relationship between muscle strength and fall episodes among older adult community residents was evaluated. Authors found muscle strength, measured by average grip strength of both hands, was the most significant factor in one-year fall incidence with significant differences in hand strength identified among the fall group compared to the non-fall  group(13)",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Assess posture in standing and for postural instability. Patients typically have a forward head position and thoracic kyphosis. Assess spinal alignment (posterior and lateral views) as well as the posture of the head, neck, shoulders, trunk, pelvis, and lower extremities. Is the kyphosis structural and/or postural? Forward head position and thoracic kyphosis contribute to postural sway. Is the pelvis rotated anteriorly and lumbar lordosis exaggerated? Are other spinal deformities present, such as scoliosis? Is there a leg-length  discrepancy?",
+            "range of motion": "Assess ROM of the thoracolumbar spine and, if involved, the neck, with careful regard to contraindications and precautions regarding spinal motion. Kyphosis typically restricts trunk extensionAssess ability to accomplish daily tasks",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosisDefined as curvature of the thoracic spine measuring 45\u00b0 or greater on X-ray.  Signs on inspection -head bent forward compared to the trunk (which effectively lowers the eyes) -may be restricted to the local area of vertebral compression fracture -patient unable to flatten kyphotic area with back hyperextension and scapular retractionDefined as correctable by the patient with coaching and responsive to exercises for posture re-education.  Patients may present with compensated postural kyphosis, as indicated by the anterior shift of the upper body above the site of V A(3)Anterior pelvic rotation may compensate for thoracic kyphosis, but it can lead to excessive lumbar lordosis and hamstrings contracture. Assess with Thomas or modified Thomas testA 10-item  questionnaire for the effect of back symptoms on ADLs",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Raynaud\u2019s syndrome",
+                "Medical instability",
+                "Cryoglobulinemia",
+                "Cold urticaria",
+                "Paroxysmal cold hemoglobinuria",
+                "Avoid applying cold over superficial nerves, areas of diminished sensation, poor circulation, or slow-healing  wounds",
+                "Use caution with patients who are hypertensive, as cold can cause a transient increase in blood pressure; discontinue treatment if there is an elevation in blood pressure",
+                "Use caution with patients who are hypersensitive to cold",
+                "Avoid aggressive treatment with cold modalities over an acute wound",
+                "Use of cryotherapy with patients who have an aversion to cold to promote muscle relaxation and decrease pain may be counterproductive",
+                "Stimulation through or across the chest",
+                "Cardiac pacemakers",
+                "Implanted stimulators",
+                "Over carotid sinuses",
+                "Uncontrolled hypertension/hypotension",
+                "Peripheral vascular disease",
+                "Thrombophlebitis",
+                "Pregnancy",
+                "Over phalangeal area",
+                "Diminished sensation",
+                "Acute inflammation",
+                "Seizure history",
+                "Confused patients",
+                "Immature patients",
+                "Obesity",
+                "Osteoporosis",
+                "Used close to diathermy treatment"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Cryotherapy contraindications(14)",
+                "Cryotherapy precautions(14)",
+                "Electrotherapy  contraindications/precautions (in some cases, when approved by the treating physician , electrotherapy may be used under some of the circumstances listed below when benefits outweigh the perceived risk(14)"
+            ]
+        },
+        "diagnosis need for treatment": " Diagnosis/need for treatment \u2013medical referral for therapeutic exercise and functional training, to restore general physical functioning appropriate for patient\u2019s age and comorbidities; improve posture, strength, flexibility, general mobility, and gait; reduce the risk of falls; and decrease residual pain \u2013history of reduced mobility/ambulation \u2013signs and symptoms of associated musculoskeletal pain \u2013assessing response to rehabilitation program",
+        "rule out": "N/A",
+        "prognosis": [
+            "Functional mobility improves in most cases after V A(5)",
+            "In a 2014 study, vertebroplasty was found to decrease pain in 90% of patients, half of whom were pain-free  within 12 hours post-surgery(32) \u2013The results were similar at the 24-month  follow-up.  At 2 years post-surgery over 80% of patients reported they were highly satisfied with the surgery",
+            "The evidence is lacking to favor V A over conservative therapy, either for primary outcomes (pain and disability) or secondary outcomes (quality of life, use of analgesics, etc.)(15)  \u2013For example, a prospective study (N = 259) found no differences in outcomes for pain (V AS) or function (ODI) at 3, 6, or 12 months after balloon kyphoplasty vs conservative management(16) \u2013In a 2017 meta-analysis  of 12 RCTs (n = 1231), authors evaluated the efficacy and safety of percutaneous vertebroplasty (PVP) vs conservative treatment (CT) in the management of osteoporotic vertebral fractures(15) -Outcome measures included pain relief using the visual analog scale (V AS) measured at one week, one month, 3 months and 6 months, quality of life measures including: the Roland Morris Disability Questionnaire (RDQ), EuroQol-5 dimensions (ED-5Q),  and Quality of Life Questionnaire of the European Foundation for Osteoporosis (QUALEFFO) and rate of adjacent vertebral fracture -Authors found PVP was associated with higher pain relief than CT at one week, one month, and 6 months and improvement in QOL as measured by the QUALEFFO. No statistical differences were found between groups at 3 months in pain relief, QOL measures on the RDQ and ED-5Q,  and rate of adjacent vertebral fracture",
+            "Positive functional outcomes of therapeutic exercise after V A depend mainly on exercise tolerance and adherence(16)",
+            "Strength training exercises are effective in reducing bone loss in the spine and wrist(11)",
+            "The risk of fracture in the adjacent vertebral body after vertebral augmentation remains controversial (2)",
+            "Authors of a retrospective study in China investigated risk factors and the incidence of new vertebral compression fractures (NVCFs) after V A (n = 290) compared toCT (n = 270)(34) \u2013The investigators divided the patients into 2 groups (NVCFs and non-NVCFs)  and followed up on a monthly basis by telephone for 2 years. Authors found PVP did not increase incidence of NVCFs; osteoporosis was the primary risk factor for NVCFs",
+            "In a 2017 meta-analysis  that compared new vertebral fractures after vertebral augmentation or conservative VCF, investigators found no significant differences between the two intervention methods (35) \u2013Risk factors for new VCF included low lumbar bone mineral density and total number of preexisting VCFs(2)",
+            "Although authors of a retrospective study in the United States found that post-V A fracture is not associated with different levels of physical activity, patients should be counseled to use extreme care when engaging in moderate physical activity(17) \u2013Adjacent-level  vertebral fracture after vertebral augmentation can occur with osteoporosis, low bone mineral density, and with increased age(28)",
+            "A pooled analysis of published case series examining the efficacy of V A in patients with vertebral fractures due to multiple myeloma demonstrated that V A is effective in reducing pain scores and analgesic drug use(22) \u2013The benefit was immediate and sustained for the duration of the follow-up periods (up to 4 years)",
+            "Based on a meta-analysis  of 27 studies of vertebroplasty or kyphoplasty for V A:(18) \u2013Intervention within the first 7 weeks after the fracture may yield more pain relief \u2013Spontaneous recovery may occur in fractures less than 2 weeks old \u2013Patients with thoracic fractures or severely deformed vertebrae tend to report inferior results of V A",
+            "In a prospective study in South Korea that compared balloon kyphoplasty (n = 82) to conservative treatment (n = 149) for osteoporotic vertebral compression fractures, researchers found no significant differences in pain or ODI scores between groups at 3-, 6-, and 12-month  follow-up(20)",
+            "Authors of a 2015 study comparing vertebral compression fracture patients who received either balloon kyphoplasty or vertebroplasty versus no operation found decreased mortality and morbidity in the surgical patients(28)",
+            "Authors of a 2014 study of adverse effects found that 10.8% of 850 patients were readmitted to the hospital within 30 days after vertebral augmentation surgery. History of lung disease, smoking, and inpatient status before the surgery were found to be associated with readmission(29) \u2013Thirty-day  mortality rate was found to be 1.5%, which is similar to rates for other spinal surgical procedures \u2013No long-term  differences were found between vertebroplasty and kyphoplasty"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Physician for medication review, especially if the patient is taking benzodiazepines, antidepressants, anticonvulsants, diuretics, or other medications that may cause dizziness or postural hypotension Physician, if vestibular disorders are suspected Pulmonary therapist if decreased respiratory function is noted with exercise therapy or ADLs Occupational therapist for assessment of performance-based  ADLs  Acupuncturist or pain management specialist for intractable pain",
+        "other considerations": [
+            "Patients should be counseled to optimize medical therapy for osteoporosis prevention to reduce fracture risk",
+            "Adequate intake of calcium and vitamin D enhances the effectiveness of anti-osteoporotic  drugs and reduces fall risk(11)",
+            "Home assessment for fall-risk  factors and the need for assistive/adaptive devices as indicated",
+            "Transition to a supervised community-based  exercise program if appropriate for patient\u2019s condition and approved by the physician",
+            "Exercises that improve balance such as tai chi can reduce falls in high-risk populations(11)"
+        ],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes": [
+            "Reduced pain\u2013V AS",
+            "Improved strength\u2013MMT",
+            "Improved ROM\u2013Goniometry",
+            "Improved posture\u2013Postural assessment",
+            "Improved functional mobility/dynamic balance\u2013Berg Balance Scale\u2013TUG test\u2013Functional Reach Test",
+            "Improved gait pattern with reduced fall risk\u2013Functional Gait Assessment\u20136MWT",
+            "Improved Functional Mobility\u2013ODI"
+        ]
+    },
+    "maintenance or prevention": [
+        "Targeted back-extensor  exercises may decrease the risk of re-fracture(5)",
+        "A community-based  exercise program appropriate for older women may reduce risk factors for falls(11) "
+    ],
+    "patient education": [
+        "North American Spine website, \u201cVertebral Augmentation Surgery,\u201d https://northamericanspine.com/treatments/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Noriega DC, Rodr#guez-Monsalve  F, Ramajo R, S\u00e1nchez-Lite  I, Toribio B, Ardura F. Long-term  safety and clinical performance of kyphoplasty and SpineJack\u00ae procedures in the treatment of osteoporotic vertebral compression fractures: a pilot, monocentric, investigator-initiated  study. Osteoporosis Int . 2019;30(3):637-645. doi:10.1007/s00198-018-4773-5.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Marcia S, Muto M, Hirsch JA. What is the role of vertebral augmentation for osteoporotic fractures? A review of the recent literature. Neuroradiology . 2018;60(8):777-783. doi:10.1007/s00234-018-2042-0.  (RV)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Wang B, Zhao CP, Song LX, Zhu L. Balloon kyphoplasty versus percutaneous vertebroplasty for osteoporotic vertebral compression fracture: a meta-analysis  and systematic review. J Orthop Surg Res . 2018;13(1):264. doi:10.1186/s13018-018-0952-5.  (SR)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Vanni D, Galzio R, Kazakova A, et al. Third-generation  percutaneous vertebral augmentation systems. J Spine Surg . 2016;12(1):13-20.  doi:10.21037/jss.2016.02.01. (RV)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Kendler DL, Bauer DC, Davison KS, et al. Vertebral fractures: clinical importance and management. Am J Med . 2016;129(2):221.e1-221.e10.  doi:10.1016/ j.amjmed.2015.09.020. (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Kamalian S, Bordia R, Ortiz AO. Post-vertebral  augmentation back pain: evaluation and management. AJNR Am J Neuroradiol . 2012;33(2):370-375.  (R)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Bousson V, Hamze B, Odri G, Funck-Bretano  T, Orcel P, Laredo JD. Percutaneous vertebral augmentation techniques in osteoporotic and traumatic fractures. Semin Intervent Radiol. 2018;35(4):309-323.  doi:10.1055/s-0038-1673639.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Rehabilitation Measures Database: Shirley Ryan Abilitylab Web site. https://www.sralab.org/rehabilitation-measures/functional-reach-test-modified-functional-reach-test . (G)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Rehabilitation Measures Database: Shirley Ryan Abilitylab Web site. https://www.sralab.org/rehabilitation-measures/berg-balance-scale . (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Rehabilitation Measures Database: Shirley Ryan Abilitylab Web site. https://www.sralab.org/rehabilitation-measures/timed-and-go . (G)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Dionyssiotis Y, Skarantavos G, Papagelopoulos P. Modern rehabilitation in osteoporosis, falls, and fractures. Clin Med Insights Arthritis Musculoskelet Disord . 2014;7:33-40. doi:10.4137/ CMaMd.s14077. (RV)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Margues LBF, Moreira BS, Ocarino JM, Sampaio RF, Bastone AC, Kirkwood RN. Construct and criterion validity of the functional gait assessment-Brazil  in community-dwelling older adults. Braz J Phys Ther . 2021;25(2):186-193.  doi:10.1016/j.bjpt.2020.05.008. (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Yang NP, Hsu NW, Lin CH, et al. Relationship between muscle strength and fall episodes among the elderly: the Yilan study, Taiwan. BMC Geriatr . 2018;18(90):1-7. doi:10.1186/s12877-018-0779-2.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Michlovitz SL, Bellew JW, Nolan TP Jr, eds. Michlovitz\u2019s Modalities for Therapeutic Intervention . Philadelphia, PA: FA Davis Company; 2016. (GI)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Xie L, Zhao ZG, Zhang SJ, Hu YB. Percutaneous vertebroplasty versus conservative treatment for osteoporotic vertebral compression fractures: An updated meta-analysis  of prospective randomized controlled trials. Int J Surg . 2017;47:25-32.  doi:10.1016/j.ijsu.2017.09.021. (M)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Lee HM, Park SY, Lee SH, Suh SW, Hong JY. Comparative analysis of clinical outcomes in patients with osteoporotic vertebral compression fractures (OVCFs): conservative treatment versus balloon kyphoplasty. Spine J. 2012;12(11):998-1005.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Rad AE, Gray LA, Sinaki M, Kallmes DF. Role of physical activity in new onset fractures after percutaneous vertebroplasty. Acta Radiol . 2011;52(9):1020-1023.  (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Papanastassiou D, Filis A, Aghayev K, Kokkalis ZT, Gerochristou MA, Vrionis FD. Adverse prognostic factors and optimal intervention time for kyphoplasty/vertebroplasty in osteoporotic fractures. Biomed Res Int 2014 . 2014;925683. doi:10.1155/2014/925683. (M)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Korovessis P, Vardakastanis K, Repantis T, Vitsas V. Balloon kyphoplasty versus KIVA vertebral augmentation\u2014comparison of 2 techniques for osteoporotic vertebral body fractures: a prospective randomized study. Spine. 2013;38(4):292-299.  doi:10.1097/BRS.0b013e31826b3aef. (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Lee HM, Park SY, Lee SH, Suh SW, Hong JY. Comparative analysis of clinical outcomes in patients with osteoporotic vertebral compression fractures (OVCFs): conservative treatment versus balloon kyphoplasty. Spine J. 2012;12(11):998-1005.  doi:10.1016/j.spinee.2012.08.024. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Chandra RV, Meyers PM, Hirsch JA, et al. Vertebral augmentation: report of the Standards and Guidelines Committee of the Society of NeuroInterventional Surgery. J NeuroIntervent Surg . 2014;6(1):7-15.  doi:10.1136/neurintsurg-2013-011012.  (G)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Khan OA, Brinjikji W, Kallmes DF. Vertebral augmentation in patients with multiple myeloma: a pooled analysis of published case series. ANJR. 2014;35(1):207-210. doi:10.3174/anjr.A3622. (SR)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Xie W, Jin D, Ma H, et al. Cement leakage in percutaneous vertebral augmentation for osteoporotic vertebral compression fractures: analysis of risk factors. J Spinal Disord Tech. Advance online publication. 2014. doi:10.1097/BSD.0000000000000229. (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Blasco J, Martinez-Ferrer  A, Macho J, et al. Effect of vertebroplasty on pain relief, quality of life, and the incidence of new vertebral fractures: a 12-month  randomized follow-up, controlled trial. J Bone Miner Res . 2012;27(5):1159-66.  doi:10.1002/jbmr.1564. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Wang YT, Wu XT, Chen H, Wang C, Mao ZB. Adjacent-level  symptomatic fracture after percutaneous vertebral augmentation of osteoporotic vertebral compression fracture: A retrospective analysis. J Ortho Sci . 2014;19(6):868-876.  doi:10.1007/s00776-014-0610-7.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Smieliauskas F, Lam S, Howard DH. Impact of negative clinical trial results for vertebroplasty on vertebral augmentation procedure rates. J Am Coll Surg . 2014;219(3):525-533.e1.  doi:10.1016/j.jamcollsurg.2014.03.047. (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Tutton SM, Pflugmacher R, Davidian M, Beall DP, Facchini FR, Garfin SR. KAST study: The Kiva system as a vertebral augmentation treatment \u2013 a safety and effectiveness trial: A randomized, noninferiority trial comparing the Kiva system with balloon kyphoplasty in treatment of osteoporotic vertebral compression fractures. Spine. 2015;40(12):865-875.  doi:10.1097/BRS.0000000000000906. (RCT)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Edidin AA, Ong KL, Lau E, Kurtz SM. Morbidity and mortality after vertebral fractures: Comparison of vertebral augmentation and nonoperative management in the Medicare population. 2015;40(15):1228-1241.  doi:10.1097/BRS.0000000000000992. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Toy JO, Basques BA, Grauer JN. Morbidity, mortality, and readmission after vertebral augmentation: Analysis of 850 patients from the American College of Surgeons National Surgical Quality Improvement Program database. Spine. 2014;39(23):1943-1949.  doi:10.1097/BRS.0000000000000563. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Xie W, Jin D, Wan C, et al. The incidence of new vertebral fractures following vertebral augmentation: A meta-analysis  of randomized controlled trials. Medicine. 2015;94(37):e1532. doi:10.1097/MD.0000000000001532. (SR)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Cruz JP, Sahgal A, Whyne C, Fehlings MG, Smith R. Tumor extravasation following a cement augmentation procedure for vertebral compression fracture in metastatic spinal disease. J Neuosurg Spine . 2014;21(3):372-377.  doi:10.3171/2014.4.SPINE13695. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Saracen A, Kotwica Z. Treatment of multiple osteoporotic vertebral compression fractures by percutaneous cement augmentation. Int Orthop . 2014;38(11):2309-2312. doi:10.1007/s00264-014-2470-3.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Chai T, Shroff GS. Cement pulmonary embolism after percutaneous vertebral augmentation in a patient with pathologic lumbar fracture from metastatic breast cancer. PM R. 2016;8(5):488-490.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Yang W, Yang J, Liang M. Percutaneous vertebroplasty does not increase the incidence of new fractures in adjacent and nonadjacent vertebral bodies. Clin Spine Surg . 2019;32(2):E99-E106.  doi:10.1097/BSD.0000000000000734. (RV)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Zhang H, Xu C, Zhang T, Gao Z, Zhang T. Does percutaneous vertebroplasty or balloon kyphoplasty for osteoporotic vertebral compression fractures increase the incidence of new vertebral fractures? A meta-analysis.  Pain Physician . 2017;20(1):13-28.  (M)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Zhu S, Su Q, Zhang Y, Sun Z, Yin P, Hai Y. Risk factors of cemented vertebral refracture after percutaneous vertebral augmentation: a systematic review and meta-analysis. Neuroradiology . 2020;62(11):1353-1360.  doi:10.1007/s00234-020-02495-9.  (SR)"
+        }
+    ]
+}

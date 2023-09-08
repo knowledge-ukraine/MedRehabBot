@@ -1,0 +1,397 @@
+{
+    "metadata": {
+        "title": "Communication Disorders  Angelman Syndrome",
+        "synonyms": [
+            "angelman syndrome  communication disorders",
+            "communication impairment angelman syndrome",
+            "language disorder: angelman syndrome",
+            "language impairment: angelman syndrome"
+        ],
+        "anatomical location body part affected": [
+            "Angelman syndrome (AS) affects the brain, specifically the cerebellum and hippocampus"
+        ],
+        "area of specialty": [
+            "swallowing and swallowing disorders",
+            "pediatric genetic and/or neurological disorders",
+            "learning disabilities",
+            "infant feeding and feeding disorders"
+        ],
+        "description": [
+            "AS is a rare (approximately 1/15,000) neurogenetic disorder characterized by intellectual disability, seizures, jerky/puppet-like  movements, inappropriate laughter, specific facial traits, and communication deficits.(1,2,3) AS accounts for 6% of all cases of epilepsy and severe intellectual disability in children(4)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {
+            "Swallowing G-code set": {
+                "G8996": "Swallowing functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G8997": "Swallowing functional limitation, projected goal status, at initial therapy treatment/outset and at discharge from therapy",
+                "G8998": "Swallowing functional limitation, discharge status, at discharge from therapy/ end of reporting on limitation"
+            },
+            "Motor Speech G-code set": {
+                "G8999": "Motor speech functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9186": "Motor speech functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9158": "Motor speech functional limitation, discharge status at discharge from therapy/ end of reporting on limitation"
+            },
+            "Spoken Language Comprehension G-code set": {
+                "G9159": "Spoken language comprehension functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9160": "Spoken language comprehension functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9161": "Spoken language comprehension functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Spoken Language Expressive G-code set": {
+                "G9162": "Spoken language expression functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9163": "Spoken language expression functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9164": "Spoken language expression functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Attention G-code set": {
+                "G9165": "Attention functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9166": "Attention functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9167": "Attention functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Memory G-code set": {
+                "G9168": "Memory functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9169": "Memory functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9170": "Memory functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Voice G-code set": {
+                "G9171": "V oice functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9172": "V oice functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9173": "V oice functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            },
+            "Other Speech Language Pathology G-code set": {
+                "G9174": "Other speech language pathology functional limitation, current status at time of initial therapy treatment/episode outset and reporting intervals",
+                "G9175": "Other speech language pathology functional limitation, projected goal status at initial therapy treatment/outset and at discharge from therapy",
+                "G9176": "Other speech language pathology functional limitation, discharge status at discharge from therapy/end of reporting on limitation"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Newborns with AS typically have no symptoms of the disorder, and studies have indicated that prenatal and birth history typically is normal.(5) There might be feeding problems in early infancy. AS usually is diagnosed in late infancy, when developmental delay becomes apparent. Seizures typically begin before the age of 3 years(5) ",
+            "Consistent features \u2013 100% consistent (all affected persons have these features)(6) \u2013Movement or balance disorder, including ataxia and slow, lurching, jerky, or unsteady limb movements(6,7,30) -Might be expressed as motor problems such as uncoordinated movements, delayed motor development, asymmetric motor function, and/or trunk weakness(8) -Children with AS have delayed development of motor skills. On average, they sit at about 12 months, crawl at about 18-24  months, and walk at about 4 years(5) \u2013Frequent laughing and smiling behavior is one of the most salient features of the disorder and is increased (in frequency and duration) during social interactions(7) \u2013Stereotypies, including whole body movements or focal movements such as head shaking, finger wiggling, or hand flapping(6,9) \u2013Severe to profound intellectual disability(10,11) \u2013Hypermotor behavior that tends to decrease with age(9) \u2013Significant speech impairment, absent speech(6)",
+            "Frequent features \u2013 80% consistent \u2013Microcephaly by age 2 years due to delayed head growth(6) \u2013Seizures usually starting before age 3 years, onset between ages 1 and 5 years(12) -As many as 90% of individuals with AS have epilepsy(4)",
+            "Associated features \u2013 20-80%  consistent \u2013Dysmorphic facial features(13) -Prognathia (i.e., jaw protrusion)(6) -Wide mouth and wide-spaced  teeth(6) -Protruding tongue(6) -Almond-shaped  eyes(12) \u2013Feeding problems -Tongue thrusting/suck and swallowing disorder -Gastroesophageal reflux disease (GERD) might develop, leading to aspiration risk and poor weight gain(12) -Frequent drooling -Excessive chewing -Abnormal food behaviors (e.g., eating nonfood items) -Low birth weight, poor weight gain in first year(5) \u2013Constipation(12,40) \u2013Obesity in older children and adults with AS(12,40) \u2013Strabismus (i.e., abnormal alignment of eyes)(6) \u2013Hypopigmentation of the skin, light hair and eye color(6) \u2013Hyperactive lower extremity deep tendon reflexes(6) \u2013Uplifted, flexed arm position(6) \u2013Wide gait with pronated ankles (foot rolls inward)(6) \u2013Increased sensitivity to heat(6) \u2013Sleep disturbances(40) \u2013Scoliosis \u2013Behavioral characteristics -Individuals with AS exhibit increased behavioral flexibility(i.e., closer to that of typically developing children) as compared to those with nonspecific intellectual disability or autism spectrum disorder (ASD)(14) -Behaviors that have been documented in individuals with AS include aggression, noncompliance, mouthing of objects, tantrums, and stereotypical behavior(11)  -Inattention, difficulty staying focused(1) -Fascination with water, shiny objects, and crinkly items(6,15) -Autistic features such as attention deficit, hyperactivity, and impaired nonverbal communication patterns(9,12) -Impulsivity is less prevalent than in Down syndrome or nonspecific intellectual disability(14)",
+            "Many clinical features change as a child with AS grows older(4) \u2013Hyperactivity lessens/improves(4) \u2013Impairment in sleep patterns improves(4) \u2013Seizures might decrease in frequency as the individual ages, with seizure remission often occurring in the late teen and early adulthood years;(4,40) however, epilepsy is the most common cause of hospitalization among individuals with AS across the lifespan.(40) Some studies have documented recurrence of seizures in the third and fourth decades of life(40) \u2013EEG abnormalities are less obvious(4) \u2013Facial features become more distinctive(4) \u2013Adults are at risk for developing obesity(4) \u2013Scoliosis and GERD sometimes worsen with age in individuals with AS(4)",
+            "Patients with a mutation on chromosome 15 that is inherited only from the paternal side (2-3%  of total cases of AS) exhibit some variation in signs and symptoms of the disorder, including:(12) \u2013Less severe seizures \u2013Higher overall functioning \u2013More verbal language (over 3 words) \u2013Lower incidence of hypopigmentation and microcephaly \u2013High body mass index (BMI)",
+            "Mild forms of the disease often go undiagnosed(5)",
+            "Speech and language impairments in AS \u2013There is a wide range of speech and language abilities in patients with AS. In most cases of AS, there is a severe speech and language impairment with minimal (i.e., up to 5 or 6 words) to no expressive speech(6) \u2013Language comprehension has been found to be significantly better than language expression and most patients understand basic commands(1,12) \u2013While many individuals with AS are completely nonverbal, some studies show improved language expression skills with age, with a maximum vocabulary of 2-3 words in most patients(1) \u2013Patients with milder forms of the disease might have expressive speech but might still struggle with understanding complex directions and abstract thought(9) \u2013Of all the communicative functions, \u201cmanding\u201d (i.e., requesting and rejecting) is the most developed in individuals with AS \u2013Children with AS have most difficulty with imitative behavior.(16) Individuals with AS demonstrate less frequent imitative behavior than individuals with severe mental impairment of other etiologies(16) \u2013Communicative impairment is most severe in individuals with AS who experiencea seizure disorder as well as those with profound intellectual disabilities (as compared to those with more moderate intellectual disabilities)(17) \u2013Studies have indicated that the highest age-equivalent  scores on standardized language tests for children aged 2-15 years is 22 months receptive age equivalent and 14 months expressive age equivalent. Many children tested, however, scored lower on these measures and received as low as 9 month receptive age equivalent and 6 months expressive age equivalent(18) \u2013The severe language disorder might be due to cognitive impairment in conjunction with poor oral motor skills(4) \u2013Intelligibility is often reduced due to speech sound errors caused by oral motor weakness and poor coordination(4) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "History and testing measures might differ according to the specific age, needs, developmental level, and living environment of the patient",
+            "Standardized measures should be interpreted with caution as they have not been standardized on individuals with AS",
+            "Family members/caregivers should be involved in both assessment and treatment of patients with AS because they have a unique perspective and can provide information about the patient that cannot be obtained through formal or informal measures",
+            "Development of an individualized family services plan (IFSP; ages 0-3) or individualized education plan (IEP;school-aged) in collaboration with the parents/caregivers and school personnel is essential to address communication and/or swallowing problems in the home or school environment"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "AS is a genetic disorder most often caused by defects on chromosome 15. Specifically, AS can be caused by:\u2013A deletion of the UBE3A  gene on chromosome 15 or deletion of the OCA2  gene. AS is usually (70-75%  of cases) causedby a chromosome 15 deletion or mutation inherited from the mother(7,9,11,12,19)\u2013In other cases, patients with clinically diagnosed AS are found to have uniparental disomy (UPD), in which thechromosome defect is inherited from the father.(10) Paternal uniparental chromosome 15 disomy accounts for only 2-3%of cases(3)\u2013AS can also be due to an imprinting defect on the UBE3A  gene(7)\u2013In 12-15%  of cases, individuals diagnosed with AS do not have a chromosome 15 abnormality and the cause of thedisease is unknown(3,7)",
+            "The type of genetic mutation has not been found to significantly correlate to severity of symptoms such as epilepsy andseizures(3,10)"
+        ],
+        "pathogenesis": [
+            "When the maternal contribution of the UBE3A  gene on chromosome 15 is deleted, the functions of the hippocampus andcerebellum are affected, as the maternal allele is the one that is usually expressed in those areas. This has been found tocause seizures and cognitive abnormalities in mice with maternally inherited UBE3A  mutations or deletions(2)",
+            "In addition, abnormal or inhibitory phosphorylation (when a phosphate group is added to a protein or other organicmolecule) of calcium/calmodulin-dependent  kinase type 2 can be the cause of neurological deficits seen in patients withAS(2)"
+        ],
+        "risk factors": [
+            "Genetic inheritance\u2013Depending on genetic cause of disease, recurrence risk in families with 1 child with AS can vary. If a child has ade novo (i.e., first occurrence) deletion, risk is only 1%, but if AS is due to a chromosomal rearrangement or smallinherited interstitial deletion, the risk can be as high as 50%. Fluorescent in situ hybridization (FISH) analysis of thegenes associated with AS in the mother of the affected individual can determine risk in future pregnancies.(17) If AS isinherited due to (paternal) UPD affecting chromosome 15, risk might be as low as 1/200, but if it is due to paternal 15;15Robertsonian translocation (a chromosomal rearrangement), risk can be as high as 100%(17)\u2013Genetic counseling should be provided to the families of AS patients to determine risk of reoccurrence in children fromsubsequent pregnancies",
+            "Advanced maternal age\u2013Increased risk of UPD AS associated with advanced maternal age(6)",
+            "Assisted reproductive technologies (ART)\u2013Procedures such as in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSD) have also been associated withAS (due to imprinting errors)(6)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "The speech-language  pathologist (SLP) must be aware of the cultural and linguistic backgrounds of the patient and the patient\u2019s family, as these can affect assessment and treatment protocol",
+        "The SLP should involve family/caregivers as well as the patient\u2019s teachers and other therapists in the assessment and treatment process in order to obtain more accurate information and the best results",
+        "The SLP should observe the patient in a variety of settings as well as conduct interviews with family and caregivers to become aware of the patient\u2019s level of communicative functioning and to develop appropriate communication and language goals",
+        "Constant supervision is crucial as patients with AS have a high tolerance for pain, reduced sense of danger, and preoccupation with water and shiny objects, putting them at risk for drowning and other hazards(13) The SLP must be aware of patient\u2019s pain and tolerance level as well as attention span, anxiety levels, and any other behavioral issues during assessment and treatment",
+        "The SLP should complete a thorough review of medical history prior to conducting a speech-language  evaluation or treatment",
+        "See specific  Contraindications/precautions to examination   and  Contraindications/precautions   under Assessment/"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "History and testing measures might differ according to the specific age, needs, developmental level, and living environment of the patient",
+            "Standardized measures should be interpreted with caution as they have not been standardized on individuals with AS",
+            "Family members/caregivers should be involved in both assessment and treatment of patients with AS because they have a unique perspective and can provide information about the patient that cannot be obtained through formal or informal"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "",
+                "course of treatment": {
+                    "medical management": "",
+                    "surgical management": [],
+                    "medications": "",
+                    "diagnostic tests completed": [],
+                    "alternative therapies": "",
+                    "previous therapy": ""
+                },
+                "aggravating easing factors": "",
+                "body chart": "",
+                "nature of symptoms": "",
+                "rating of symptoms": "",
+                "pattern of symptoms": "",
+                "sleep disturbance": "",
+                "other symptoms": "",
+                "respiratory status": ""
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "",
+                    "medications previously prescribed": "",
+                    "other symptoms": ""
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "",
+                "functional limitations assistance with ADLs adaptive equipment": "",
+                "living environment": ""
+            }
+        },
+        "relevant tests and measures": {
+            "general": "",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "",
+            "balance": "",
+            "cardiorespiratory function and endurance": [],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": []
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "",
+        "prognosis": [],
+        "referral to other disciplines": "",
+        "other considerations": [],
+        "treatment summary": []
+    },
+    "desired outcomes outcome measures": {
+        "improved functional communication": [
+            "Repeat assessment of speech, language, and communication with measures from initial assessment",
+            "IFSP/IEP review"
+        ],
+        "increased caregiver response to prelinguistic communication acts": [],
+        "improved and safer swallowing": [
+            "Bedside swallow examination",
+            "Instrumental examination of swallowing"
+        ],
+        "reduced caregiver stress": [
+            "Caregiver feedback"
+        ]
+    },
+    "maintenance or prevention": [
+        "AS is a lifelong condition for which there is no cure. However, therapy can reduce and manage symptoms and improve quality of life",
+        "Parents of a child with AS should be offered genetic counseling before and/or during subsequent pregnancies"
+    ],
+    "patient education": [
+        "See the Angelman Syndrome Foundation website, https://www.angelman.org/ Note",
+        "Recent review of the literature has found no updated research evidence on this topic since previous publication on October 21, 2016 Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Clayton-Smith  J. Angelman syndrome: evolution of the phenotype in adolescents and adults. Dev Med Child Neurol . 2001;43(7):476-480.  (R)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Narasimhan K. Unraveling the mechanisms of Angelman syndrome. Nat Neurosci . 2007;10(3):275. (R)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Kara B, Karaman B, Ozmen M. Angelman syndrome: clinical findings and follow-up data of 14 patients. Turk J Pediatr . 2008;50(2):137-142.  (R)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Guerrini R, Carrozzo R, Rinaldi R, Bonanni P. Angelman syndrome: etiology, clinical features, diagnosis, and management of symptoms. Pediatr Drugs . 2003;5(10):647-661. (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Paprocka J, Jamroz E, Szwed-Bialozyt  B, Jezela-Stanek  A, Kopyta I. Angelman syndrome revisited. Neurologist . 2007;13(5):305-312. doi:10.1097/01.nrl.0000253067.32759.aa. (R)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Williams CA, Beaudet AL, Clayton-Smith  J. Angelman syndrome 2005: Updated consensus for diagnostic criteria. Am J Met Genet . 2006;140(5):413-418.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Horsler K, Oliver C. The behavioural phenotype of Angelman syndrome. J Intellect Disabil Res . 2006;50(pt 1):33-53. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Beckung E, Steffenburg S, Kyllerman M. Motor impairments, neurological signs, and developmental level in individuals with Angelman syndrome. Dev Med Child Neuro . 2004;46(4):239-243.  (R)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Pelc K, Cheron G, Bernard D. Behavior and neuropsychiatric manifestations in Angelman syndrome. Neuropsychiatr Dis Treat . 2008;4(3):577-584.  (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Sankar R. Angelman syndrome: need for further illumination in the theater of the happy puppet. Epilepsy Curr . 2005;5(6):220-222.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Summers JA, Allison DB, Lynch PS, Sandler L. Behavior problems in Angelman syndrome. J Intellect Dis Res . 1995;39(pt 2):97-106.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Wilkerson R, Northington LS, Fisher W. Angelman syndrome: an underdiagnosed disorder. Am J Nurse Pract . 2005;9(4):55-62.  (GI)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Clayton-Smith  J, Laan L. Angelman syndrome: a review of the clinical and genetic aspects. J Med Genet . 2003;40(2):87-95.  (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Didden R, Sigafoos J, Green VA. Behavioural flexibility in individuals with Angelman syndrome, Down syndrome, non-specific  intellectual disability and autism spectrum disorder. J Intellect Disabil Res . 2008;52(pt 6):503-509.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Diddin R, Korzilius H, Kamphuis A, Sturmey P, Lancioni G, Curfs LM. Preferences in individuals with Angelman syndrome assessed by a modified Choice Assessment Scale. J Intellect Disabil Res . 2005;50(pt 1):54-60. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Paprocka J, Jamroz E, Kalina M. Angelman syndrome and hypothyroidism-coincidence  or unique correlation. Neuro Endocrinol Lett . 2007;28(5):545-546.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Van Buggenhout GV, Fryns JP. Angelman syndrome. Eur J Hum Genet . 2009;17(11):1367-1373.  (GI)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Achenbach TM, Edelbrock CS. Child Behavior Checklist (CBCL) . Burlington, VT: University Medical Education Associates, University of Vermont Department of Psychology;"
+        },
+        {
+            "number in article": 1983,
+            "reference": " (GI) "
+        },
+        {
+            "number in article": 19,
+            "reference": "Angelman Syndrome Foundation. Facts about Angelman syndrome. Angelman Syndrome Foundation Web site. https://www.angelman.org/what-is-as/facts-about-angelman-syndrome/ . Accessed March 19, 2018. (GI)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Goldman SE, Bichell TJ, Surdyka K, Malow BA. Sleep in children and adolescents with Angelman syndrome: association with parent sleep and stress. J Intellect Disabil Res . 2012;56(6):600-608.  (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Bayley N. The Bayley Scales of Infant and Toddler Development . 3rd ed. San Antonio, TX: Harcourt Assessment; 2006. (GI)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Jolleff N, Ryan MM. Communication development in Angelman's syndrome. Arc Dis Child . 1993;69(1):148-150.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Alvares RL, Downing SF. A survey of expressive communication skills in children with Angelman syndrome. Am J Speech-Lang  Path. 1998;7(2):14-24.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Didden R, Sigafoos J, Korzilius H. Form and function of communicative behaviours in individuals with Angelman syndrome. J Appl Res Intellect Disabil . 2009;22(6):526-537. (R)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Didden R, Korzilius H, Duker P, Curfs LMG. Communicative functioning in individuals with Angelman syndrome: a comparative study. Disabi Rehabil . 2004;26(21/22):1263-1267.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Peters SU, Horowitz L, Barbieri-Welge  R, Taylor JL, Hundley RJ. Longitudinal follow-up of autism spectrum features and sensory behaviors in Angelman syndrome by deletion class. J Child Psychol Psychiatry . 2012;53(2):152-159.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Jedele KB. The overlapping spectrum of Rett and Angelman syndromes: a clinical review. Semin Pediatr Neurol . 2007;14(4):108-117.  (RV)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Calculator S. Use of enhanced natural gestures to foster interactions between children with Angelman syndrome and their parents. Am J Speech Lang Path . 2002;11(4):340-355.  (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Lav\u00e5s J, Slotte A, Jochym-Nygren  M, van Doorn J, Engerstr\u00f6m IW. Communication and eating proficiency in 125 females with Rett syndrome: the Swedish Rett Center Survey. Disabil Rehabil . 2006;28(20):1267-1279.  (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Salmon MS, Lee EJ, Tjahjadi A, Chodirker BN. The epidemiology of intermittent and chronic ataxia in children in Manitoba, Canada. Dev Med Child Neurol . 2013;55(4):341-347.  doi:10.1111/dmcn.12081. (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Calculator SN. Parents' reports of patterns of use and exposure to practices associated with AAC acceptance by individuals with Angelman syndrome. Augment Altern Commun. 2013;29(2):146-158.  doi:10.3109/07434618.2013.784804. (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Summers J. Neurodevelopmental outcomes in children with Angelman syndrome after 1 year of behavioural intervention. Dev Neurorehabil . 2012;15(4):239-252. doi:10.3109/17518423.2012.676101. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "Radstaake M, Didden R, Giesbers S, et al. Incontinence in individuals with Angelman syndrome: a comparative study. Res Dev Disabil . November 2013;34(11):4184-93. doi:10.1016/j.ridd.2013.09.007. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Calculator SN. Use and acceptance of AAC systems by children with Angelman syndrome. J Appl Res Intellect Disabil . November 2013;26(6):557-67.  doi:10.1111/jar.12048. (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Hyppa Martin J, Reichle J, Dimian A, Chen M. Communication modality sampling for a toddler with Angelman syndrome. Lang Speech Hear Serv Sch . October 2013;44(4):327-36.  doi:10.1044/0161-1461(2013/12-0108).  (C)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Gilboa T, Gross-Tsur  V. Epilepsy in Prader-Willi  syndrome: experience of a national referral centre. Dev Med Child Neurol . September 2013;55(9):857-61.  doi:10.1111/ dmcn.12182. (R)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Moss J, Howlin P, Hastings RP, et al. Social behavior and characteristics of autism spectrum disorder in Angelman, Cornelia de Lange, and Cri du Chat syndromes. Am J Intellect Dev Disabil . July 2013;118(4):262-283.  doi:10.1352/1944-7558-118.4.262.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Radstaake M, Didden R, Peters-Scheffer  N, Sigafoos J, Korzilius H, Curfs L. Educational Priorities for Individuals with Angelman Syndrome: A Study of Parents\u2019 Perspectives. J Dev Phys Disabil . 2014;26(3):299-316.  doi:10.1007/s10882-013-9365-x.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Radstaake M, Didden R, Lang R, et al. Functional Analysis and Functional Communication Training in the Classroom for Three Children with Angelman Syndrome. J Dev Phys Disabil. 2013;25(1):49-63.  doi:10.1007/s10882-012-9302-4.  (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Larson AM, Shinnick JE, Shaaya EA, Thiele EA, Thibert RL. Angelman syndrome in adulthood. Am J Med Genet A . February 2015;167A(2):331-44.  doi:10.1002/ajmg.a.36864. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "de Carlos Isla M, Baixauli Fortea I. Parent-implemented  Hanen program More than words in Angelman syndrome: A case study. Child Lang Teach Ther . 2016;32(1):35-51. doi:10.1177/0265659014567784. (C)"
+        }
+    ]
+}

@@ -1,0 +1,561 @@
+{
+    "metadata": {
+        "title": "Dysphagia  Patients with Head and Neck Cancer",
+        "synonyms": [
+            "swallowing disorder  patients with head and neck cancer",
+            "deglutition disorder: patients with head and neck cancer",
+            "oral dysphagia: patients with head and neck cancer",
+            "pharyngeal dysphagia: patients with head and neck cancer",
+            "esophageal dysphagia: patients with head and neck cancer",
+            "difficulty swallowing: patients with head and neck cancer",
+            "dysphagia, oral: patients with head and neck cancer",
+            "dysphagia, pharyngeal: patients with head and neck cancer",
+            "dysphagia, esophageal: patients with head and neck cancer",
+            "swallowing difficulty: patients with head and neck cancer",
+            "head and neck cancer, patients with: dysphagia",
+            "head and neck cancer, patients with: swallowing disorder",
+            "head and neck cancer, patients with: deglutition disorder",
+            "head and neck cancer, patients with: oral dysphagia",
+            "head and neck cancer, patients with: pharyngeal dysphagia",
+            "head and neck cancer, patients with: esophageal dysphagia",
+            "head and neck cancer, patients with: difficulty swallowing",
+            "cancer, head and neck, patients with: dysphagia",
+            "cancer, head and neck, patients with: deglutition disorder",
+            "cancer, head and neck, patients with: oral dysphagia",
+            "cancer, head and neck, patients with: pharyngeal dysphagia",
+            "cancer, head and neck, patients with: esophageal dysphagia",
+            "cancer, head and neck, patients with: difficulty swallowing"
+        ],
+        "anatomical location body part affected": [
+            "Mouth, lips, oropharynx, pharynx, larynx"
+        ],
+        "area of specialty": [
+            "swallowing and swallowing disorders"
+        ],
+        "description": [],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "C00": {
+                "base": "malignant neoplasm of lip",
+                "C00.0": "external upper lip",
+                "C00.1": "external lower lip",
+                "C00.2": "external lip, unspecified",
+                "C00.3": "upper lip, inner aspect",
+                "C00.4": "lower lip, inner aspect",
+                "C00.5": "lip, unspecified, inner aspect",
+                "C00.6": "commissure of lip",
+                "C00.8": "overlapping lesion of lip",
+                "C00.9": "lip, unspecified"
+            },
+            "C01": "malignant neoplasm of base of tongue",
+            "C02.0": {
+                "base": "dorsal surface of tongue",
+                "C02.1": "border of tongue",
+                "C02.2": "ventral surface of tongue",
+                "C02.3": "anterior two-thirds of tongue, part unspecified",
+                "C02.4": "lingual tonsil",
+                "C02.8": "overlapping lesion of tongue",
+                "C02.9": "tongue, unspecified"
+            },
+            "C03": {
+                "base": "malignant neoplasm of gum",
+                "C03.0": "upper gum",
+                "C03.1": "lower gum",
+                "C03.9": "gum, unspecified"
+            },
+            "C04": {
+                "base": "malignant neoplasm of floor of mouth",
+                "C04.0": "anterior floor of mouth",
+                "C04.1": "lateral floor of mouth",
+                "C04.8": "overlapping lesion of floor of mouth",
+                "C04.9": "floor of mouth, unspecified"
+            },
+            "C05": {
+                "base": "malignant neoplasm of palate",
+                "C05.0": "hard palate",
+                "C05.1": "soft palate",
+                "C05.2": "uvula",
+                "C05.8": "overlapping lesion of palate",
+                "C05.9": "palate, unspecified"
+            },
+            "C06": {
+                "base": "malignant neoplasm of other and unspecified parts of mouth",
+                "C06.0": "cheek mucosa",
+                "C06.1": "vestibule of mouth",
+                "C06.2": "retromolar area",
+                "C06.8": "overlapping lesion of other and unspecified parts of mouth",
+                "C06.9": "mouth, unspecified"
+            },
+            "C07": "malignant neoplasm of parotid gland",
+            "C08": {
+                "base": "malignant neoplasm of other and unspecified major salivary glands",
+                "C08.0": "submandibular gland",
+                "C08.1": "sublingual gland",
+                "C08.8": "overlapping lesion of major salivary glands",
+                "C08.9": "major salivary gland, unspecified"
+            },
+            "C09": {
+                "base": "malignant neoplasm of tonsil",
+                "C09.0": "tonsillar fossa",
+                "C09.1": "tonsillar pillar (anterior)(posterior)",
+                "C09.8": "overlapping lesion of tonsil",
+                "C09.9": "tonsil, unspecified"
+            },
+            "C10": {
+                "base": "malignant neoplasm of oropharynx",
+                "C10.0": "vallecula",
+                "C10.1": "anterior surface of epiglottis",
+                "C10.2": "lateral wall of oropharynx",
+                "C10.3": "posterior wall of oropharynx",
+                "C10.4": "branchial cleft",
+                "C10.8": "overlapping lesion of oropharynx",
+                "C10.9": "oropharynx, unspecified"
+            },
+            "C11": {
+                "base": "malignant neoplasm of nasopharynx",
+                "C11.0": "superior wall of nasopharynx",
+                "C11.1": "posterior wall of nasopharynx",
+                "C11.2": "lateral wall of nasopharynx",
+                "C11.3": "anterior wall of nasopharynx",
+                "C11.8": "overlapping lesion of nasopharynx",
+                "C11.9": "nasopharynx, unspecified"
+            },
+            "C12": "malignant neoplasm of piriform sinus",
+            "C13": {
+                "base": "malignant neoplasm of hypopharynx",
+                "C13.0": "postcricoid region",
+                "C13.1": "aryepiglottic fold, hypopharyngeal aspect",
+                "C13.2": "posterior wall of hypopharynx",
+                "C13.8": "overlapping lesion of hypopharynx",
+                "C13.9": "hypopharynx, unspecified"
+            },
+            "C14": {
+                "base": "malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",
+                "C14.0": "pharynx, unspecified",
+                "C14.2": "Waldeyer ring",
+                "C14.8": "overlapping lesion of lip, oral cavity and pharynx"
+            },
+            "C32": {
+                "base": "malignant neoplasm of larynx",
+                "C32.0": "glottis",
+                "C32.1": "supraglottis",
+                "C32.2": "subglottis",
+                "C32.3": "laryngeal cartilage",
+                "C32.8": "overlapping lesion of larynx",
+                "C32.9": "larynx, unspecified"
+            },
+            "R13.0": "aphagia; inability to swallow",
+            "R13.10": "dysphagia, unspecified",
+            "R13.11": "dysphagia, oral phase",
+            "R13.12": "dysphagia, oropharyngeal phase",
+            "R13.13": "dysphagia, pharyngeal phase",
+            "R13.14": "dysphagia, pharyngoesophageal phase",
+            "R13.19": "other dysphagia (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific issues or information regarding reimbursement has been identified"
+        ],
+        "presentation signs and symptoms": [
+            "Dysphagia refers to a difficulty in swallowing due to an inability to move food efficiently during the oral, pharyngeal, or esophageal phases of swallowing. The oral phase includes sucking, chewing, and moving the food or liquid into the throat. The pharyngeal phase is the initiation of the swallowing reflex, when the food is squeezed down the throat and the airway is closed off to prevent aspiration (food or liquid entering the airway) or choking. In the esophageal phase, the openings at the top and bottom of the esophagus move the food or liquid to the stomach by relaxing and tightening.(1) Dysphagia can occur as a result of the disease itself and after patients have treatment for cancer of the head and/or neck that affects the lips, oral cavity, pharynx, or larynx. Radiotherapy, chemotherapy, and surgery or a combination of these procedures can result in some degree of dysphagia in the oral preparatory and/or the pharyngeal phases of the swallow.(2) Signs and symptoms of dysphagia associated with head and neck cancer vary according to the site and management of cancer",
+            "Dysphagia after tongue resection (glossectomy) (for more information on assessment and treatment of glossectomy, see Clinical Review\u2026Glossectomy ; CINAHL Topic ID Number: T708745) \u2013Prolonged oral preparatory time and oral transit time(2) \u2013Increased oral residue(2) \u2013Increased pharyngeal residue(2) \u2013Poor management of bolus of larger size and greater viscosity(2) \u2013Swallow function worsens as size of resection increases(2)",
+            "Dysphagia after tongue base resection \u2013Prolonged oral preparatory time and oral transit time(2) \u2013Increased oral residue(2) \u2013Increased pharyngeal residue(2) \u2013Increased pharyngeal transit time(2) \u2013Reduced oral-pharyngeal  swallow efficiency(2) \u2013Inability to trigger a pharyngeal swallow (in resections greater than 25% of tongue base)(2) \u2013Difficulty clearing bolus from pharynx(2) \u2013Aspiration(2) \u2013Difficulties increase with greater viscosity of bolus(2)",
+            "Dysphagia after mandibular resection \u2013Mandibular resection can result in reduced oropharyngeal swallow efficiency, increased oral residue, and prolonged mastication(2)",
+            "Dysphagia after supraglottic laryngectomy (procedure used for lesions involving the epiglottis and aryepiglottic folds)  \u2013Aspiration(2) \u2013For more information on assessment and treatment of patients who have undergone partial laryngectomy, see Clinical Review...Laryngectomy, Partial ; CINAHL Topic ID Number: T708836",
+            "Dysphagia after a hemilaryngectomy (also called vertical partial laryngectomy; procedure used for lesions involving the true vocal folds) \u2013Patients with hemilaryngectomy have fewer incidences of aspiration than patients who have undergone supraglottic laryngectomy(2) \u2013Risk of aspiration increases if the resection is extended posteriorly to include the arytenoid cartilage(2) \u2013For more information on assessment and treatment of patients who have undergone partial laryngectomy, see Clinical Review...Laryngectomy, Partial , referenced above",
+            "Dysphagia after total laryngectomy (for more information on assessment and treatment of patients who have undergone total laryngectomy, see Clinical Review...Laryngectomy, Total ; CINAHL Topic ID Number: T708744) \u2013Aspiration is usually not an issue unless there is leakage around the tracheoesophageal fistula created for voice production(2) \u2013Greater number of swallows needed(2) \u2013Discoordinated swallow(2) \u2013Reduced pharyngeal clearing force(2) \u2013Impaired bolus clearance through the oral cavity and pharyngo-cervical  esophagus(2)",
+            "Dysphagia after radiation therapy and surgery (radiotherapy refers to the use of high-energy  X-rays  to kill cancer cells) \u2013Increased oral and pharyngeal transit time(2) \u2013Greater pharyngeal residue(2) \u2013Lower oropharyngeal swallow efficiency(2) \u2013Shorter duration of cricopharyngeal opening(2) \u2013Xerostomia (dry mouth) and sores in mouth(2) \u2013Decreased appetite and nausea(3) \u2013Reduced forward and superior movement of the hyoid during swallowing(4)",
+            "Dysphagia after primary radiation therapy or chemoradiation (treatment that combines chemotherapy with radiation therapy) \u2013Reduced tongue control(2) \u2013Impaired bolus transit(2) \u2013Reduced pharyngeal contraction(2) \u2013Increased pharyngeal residue(2) \u2013Reduced laryngeal vestibule closure(2) \u2013Reduced true vocal cord closure(2) \u2013Impaired bolus formation(2) \u2013Reduced tongue-base  retraction(2) \u2013Reduced forward movement of the hyoid during swallowing(4) \u2013Increased pharyngeal residue in the valleculae and pyriform sinuses(2) \u2013Limited mobility of the tongue, tongue base, pharynx, and larynx due to radiation-induced  fibrosis (development of scarring)(2) \u2013Mucositis (injury to the oral or pharyngeal mucosa) as a result of radiation therapy(2) \u2013Stricture (narrowing or complete closure of the pharynx or esophagus) \u2013Xerostomia(2) \u2013Decreased appetite \u2013Nausea and vomiting(3)  Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Patients with dysphagia are at risk for depression and social isolation because of the inability to consume a meal in the usual manner.(13) It is important that SLPs be knowledgeable of symptoms of depression (e.g., loss of interest in daily activities, problems sleeping, feelings of sadness and hopelessness) and refer to a neuropsychologist or a clinical psychologist experienced with depression when signs are present",
+            "During a swallowing evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance, level of fatigue, and level of frustration; oropharyngeal pain is a common result of head and neck cancer and its medical treatments ",
+            "A patient\u2019s culture and native language should be considered to determine the appropriateness of examination questions and materials",
+            "Be aware of dietary restrictions and any food allergies when choosing food and liquid for use in swallowing assessment(s)",
+            "It is recommended that the caregiver/family be involved in all assessment procedures"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "The type and severity of the dysphagia in patients with head and neck cancer depends on the structures involved, thelocation of the tumor, the size of the tumor, and the treatment used"
+        ],
+        "pathogenesis": [
+            "Head and neck cancers usually begin with cells in the mucosal surfaces of the head and/or neck areas. These areas includethe oral cavity, the salivary glands, the paranasal sinuses and nasal cavity, the pharynx, the larynx, and the lymph nodesin the upper part of the neck.(3) Treatment for head and neck cancer often leads to dysphagia and its complications.Percutaneous endoscopic gastrostomy tube (G-tube) feeding might be required post treatment for the patient to maintainadequate nutrition. Severe mucositis (injury to the oral and/or pharyngeal mucosa), sepsis (severe inflammatory responseby the whole body), malnutrition, and death can occur during or after cancer treatment(5)\u2013In a retrospective review study conducted in the United States with data from 297 patients who were concurrently treatedfor head and neck cancer with intensity-modulated radiotherapy (IMRT) and chemotherapy, researchers found that theoverall risk for a need for a G-tube  (i.e., because of severe to profound dysphagia) was low. Of the patients in this study,128 did not receive a prophylactic G-tube  prior to cancer treatment, and of those 128 only 15 (11.7%) ended up requiringthe G-tube  during or within 3 months of chemoradiation. Researchers found that the following factors increased the riskof needing a G-tube  during or immediately after chemoradiation: BMI of less than 25, accelerated irradiation fractionation(described below), tumor T classification of 3 or higher, and a cumulative cisplatin (a chemotherapy drug) dose of 200mg/m2 or higher(43)\u2013Authors of a systematic review of literature that included 10 articles on swallowing disturbances after radiation treatmentfor head and neck cancer reported that the average dose of radiation to the pharyngeal constrictor muscles is the bestpredictor of late swallowing disturbances.(49)Recommendations for physicians based on the results from this systematicreview were to keep the radiation dose to the pharyngeal constrictor muscles as low as possible given the patient\u2019s cancerand response to radiation and to refrain from overdosage to this area. There were many methodological issues in thestudies included in this review which review authors reported kept them from drawing any further conclusions"
+        ],
+        "risk factors": [
+            "Risk factors for head and neck cancer\u2013Tobacco use (cigarette smoking and the use of other tobacco products)(6)\u2013Alcohol use(6)\u2013Combined alcohol and tobacco use (additive effect)(6)\u2013Age (more common in persons over age 40)(6)\u2013Presence of the human papillomavirus (HPV) (predominantly type 16)(6)\u2013Sun exposure (lips)(6)\u2013Radiation to the head and neck(3)\u2013Inhalation or exposure to industrial substances (wood dust, nickel, asbestos)(3)\u2013Epstein-Barr  virus infection(3)\u2013Marijuana use(6)\u2013Poor nutrition(6)\u2013GERD and laryngopharyngeal reflux disease(6)\u2013Poor oral health and dental caries(6)\u2013Weakened immune system(6)\u2013Prior history of head and neck cancer(6)",
+            "Risk factors for dysphagia in patients with head and neck cancer: In a review of literature on pretreatment (of the cancer)dysphagia assessments conducted by researchers in the United Kingdom, it was reported that several factors increase therisk that a patient with head and neck cancer will develop dysphagia posttreatment(8)\u2013Reduced pretreatment swallowing function(8)\u2013Type of cancer treatment; higher risk of posttreatment dysphagia when head and neck cancer is treated with:-higher doses of radiation therapy(8)-bilateral fields of radiation therapy(8)-larger treatment fields of radiation therapy(8)-In a study conducted in Italy, researchers found that the mean dose of radiation delivered to the pharyngeal constrictormuscles was related to long-term  dysphagia and reduced quality of life; greater doses of radiation to the pharyngealconstrictor muscles were correlated with more severe dysphagia and poorer quality of life(34)-accelerated fractionation (delivery of radiation at a rate of accumulation that is up to 50% faster than that of standarddelivery in order to reduce the duration of therapy and the potential for tumor repopulation)(8)-treatment by chemoradiation(8)-In a study conducted in the United States, researchers found that treatment of advanced oropharyngeal and supraglotticcancers by transoral robotic surgery plus adjuvant therapies (e.g., chemotherapy) resulted in better functional outcomeswith respect to swallowing than treatment primarily by chemoradiation(33)\u2013Use of a prophylactic G-tube(8,9)-In a study conducted in the United States with 74 patients with head and neck cancer, researchers found that the patientswho had reactive G-tube placement (i.e., after radiation treatment and development of dysphagia) required them forsignificantly fewer days than the patients who received prophylactic G-tubes.  There was no difference in weight loss oroncologic outcomes between the groups(50)-Late dependency on percutaneous endoscopic gastrostomy (PEG)tubes is associated with poorer overall survival rates.In a study conducted in the United States, patients who were dependent on the PEG for nutrition following curativetreatment for head and neck cancer had lower rates of overall survival as compared to patients who were not dependenton the PEG. Researchers recommended dysphagia rehabilitation to prevent PEG dependence in patients undergoingtreatment for head and neck cancer(9)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Before conducting a dysphagia evaluation, speech-language  pathologists (SLPs) must have graduate, postgraduate, or continuing education training specifically in dysphagia assessment and treatment(10)",
+        "The patient and family/caregivers should receive pretreatment counseling at the time of diagnosis to understand the full implications of all possible treatments. Patients should also be advised on the possibility of impaired swallow function and the rationale for dysphagia therapy after treatment for cancer. A pretreatment swallow assessment is indicated for all patients with head and neck cancer to identify those at high risk of posttreatment dysphagia; this assessment can guide the physician in treatment decisions (such as organ preservation versus resection)(11) Authors of a review of literature regarding the role of an SLP for patients with head and neck cancer reported that best evidence strongly supports an active role for the SLP beginning at the time of cancer diagnosis. With respect to pretreatment role, the SLP should perform a baseline instrumental swallow assessment to determine the most appropriate intervention plan.(40) The best evidence also supports the use of prophylactic swallowing treatment (i.e., before symptoms of dysphagia present) to help prevent dysphagia (or lessen its severity) and improve functional, long-term outcomes after cancer treatment",
+        "To perform a videofluoroscopic swallowing study (VFSS), SLPs must have established competencies in the use and storage of barium used in VFSSs(12)",
+        "Patients with dysphagia are at risk for aspiration and/or penetration of oral intake. Ensure that the patient and family/ caregivers are aware of potential aspiration risks and educated about strategies when appropriate",
+        "The patient\u2019s family/caregivers should be involved in all assessment and treatment procedures"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Patients with dysphagia are at risk for depression and social isolation because of the inability to consume a meal in the usual manner.(13) It is important that SLPs be knowledgeable of symptoms of depression (e.g., loss of interest in daily activities, problems sleeping, feelings of sadness and hopelessness) and refer to a neuropsychologist or a clinical psychologist experienced with depression when signs are present",
+            "During a swallowing evaluation, it is of utmost importance to be aware of a patient\u2019s pain tolerance, level of fatigue, and level of frustration; oropharyngeal pain is a common result of head and neck cancer and its medical treatments ",
+            "A patient\u2019s culture and native language should be considered to determine the appropriateness of examination questions and materials",
+            "Be aware of dietary restrictions and any food allergies when choosing food and liquid for use in swallowing assessment(s)",
+            "It is recommended that the caregiver/family be involved in all assessment procedures"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Refer to medical history and documentation for nature of treatment (e.g., surgical, radiation therapy, resection, chemotherapy) and areas affected",
+                "course of treatment": {
+                    "medical management": "Medical management of patients who have treatment for head and neck cancer is highly complex and variable. Document any medical management for dysphagia, including insertion of a nasogastric (NG) feeding tube or a Gtube Side effects of nonsurgical treatments (i.e., medications, chemotherapy, radiation therapy) for head and neck cancer include oral or pharyngeal mucositis (inflammation or ulceration of the oral or pharyngeal mucosa), xerostomia (dry mouth), dysgeusia (change in taste sensation), odynophagia (painful swallowing), changes in mucus/saliva, fatigue, and pharyngitis (inflammation of the pharynx), all of which can impair swallow functioning(47) In a study conducted in the United States with 130 patients undergoing aggressive radiation or chemoradiation(i.e., chemotherapy and radiation combined) for head and neck cancer, researchers found that a higher symptom burden was associated with older age, poorer baseline status, and chemoradiation (vs. radiation alone)(47) Medical intervention for dysphagia caused by head and neck cancer and cancer treatments might include esophageal dilatation or vocal fold medialization.(36) Although there is not strong evidence to support its use in this population, researchers are investigating hyperbaric oxygen (HBO) as a means of promoting oxygenation and increasing blood supply to areas of irradiated tissue.(36) In a study conducted in the Netherlands, researchers analyzed data from 434 patients with head and neck cancer who were treated with chemotherapy, radiation, and/or surgery between 2000 and 2008. The researchers developed a risk model and nomogram (a tool used by physicians to predict outcomes) that could be used by physicians to identify which patients would most likely benefit from HBO treatment, with the goal of preventing or improving dysphagia and xerostomia that result from the cancer treatments(48) In patients with recurrent, intractable aspiration pneumonia following treatment for nasopharyngeal cancer, modified laryngotracheal separation surgery has been used as an effective means to alleviate aspiration(39)",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  Usual tests for this condition may include the following:",
+                        "Complete patient history",
+                        "Clinical swallow examination (CSE)",
+                        "VFSS",
+                        "Fiberoptic endoscopic evaluation of swallowing (FEES)"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies (e.g., acupuncture) and whether they help Acupuncture has been shown to benefit patients with xerostomia, with low incidence of side effects(15)",
+                    "previous therapy": "Document whether patient has had occupational or speech therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "Does the patient exhibit greater swallowing difficulty with certain textures of foods or liquids? During certain times of day? Does the patient have a history of pneumonia or respiratory infections?",
+                "body chart": "Review patient\u2019s record for information on weight and weight history to determine any significant changes in weight.(16) Review medical chart for other evidence of malnutrition, such as poor wound healing or increased incidence of ulcers -In a study conducted in the United States, researchers analyzed discharge data from the Nationwide Inpatient Sample for 93,663 patients who underwent surgical treatment for malignant oral cavity, laryngeal, hypopharyngeal, or oropharyngeal neoplasms between 2003 and 2008 and found that weight loss was associated with increased medical and surgical complications, length of hospitalization, and hospital-related  costs. Researchers suggested that early identification and treatment of underlying dysphagia and malnutrition might reduce the medical and surgical complications associated with head and neck cancer treatment(45)",
+                "nature of symptoms": "Document nature of dysphagia symptoms; see Presenting signs/symptoms , above, for details ",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much)",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (A.M., mid-day,  P.M., night); document any history of coughing while eating",
+                "sleep disturbance": "Does xerostomia or difficulty swallowing saliva and/or secretions interfere with patient\u2019s ability to sleep? -Document number of wakings/night",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., coughing, chest congestion, difficulty with oral hygiene, dehydration, weakness, cognitive difficulties, fever)",
+                "respiratory status": "Document the respiratory status of the patient; include use of supplemental oxygen or mechanical ventilator. Aspiration pneumonia is a common and potentially fatal complication of head and neck cancer treatment-related  dysphagia.(31)Risk of aspiration pneumonia is higher in patients with more advanced disease, poorer oral care/health, and in patients treated with both radiation therapy and chemotherapy as compared to one or the other(31)Patients with head and neck cancer are at an increased risk of depression(13,17) -Pretreatment depression following the diagnosis of head and neck cancer is associated with poorer quality of life and increased incidence of dysphagia(17) -Quality of life assessmentAn outcome measure that includes patient self-ratings  of quality of life due to swallowing and eating ability(18)a validated and reliable self-administered questionnaire that was designed specifically for evaluating the effect of dysphagia on the quality of life of patients with head and neck cancer(32,33,37)a questionnaire developed by the European Organisation for Research and Treatment of Cancer to assess the quality of life of cancer patients; there is a subtest for head and neck cancer patients(37)Document hearing abilities Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe ________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "Document any previous swallowing difficulties, respiratory difficulties, communication difficulties, or cognitive deficits",
+                    "comorbid diagnoses": "Refer to medical charts and ask patient or patient\u2019s family about other problems, including depression, memory problems, hearing loss, vision problems, heart problems, and communication difficulties",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing (excessive throat clearing, coughing while eating)"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Is the patient employed? Does the patient participate in work-related  meals? Does the patient typically eat in restaurants or at home?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document if the patient uses any adaptive equipment to communicate (e.g., pen/paper) or to self-feed.  Does the patient feed self?",
+                "living environment": "Document with whom patient lives (e.g., caregivers, family members). Who prepares patient\u2019s food?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "",
+            "assistive and adaptive devices": "Does the patient use any adaptive devices for mobility, eating, or communication?",
+            "balance": "",
+            "cardiorespiratory function and endurance": [
+                "After radiotherapy or surgery, the patient may have limited ROMof the tongue and other structures due to fibrosis (scar tissue). In addition, check for evidence of oral mucositis and xerostomia(2) -Many changes to the oral and pharyngeal tissue (e.g., mucositis and xerostomia) can occur as late complications of",
+                "radiation therapy and chemotherapy (occurring 12 months after treatment has ended)(21) -Xerostomia typically results in decreased bolus lubrication and therefore increased oral transit time(21) -Oral Mucosa Rating Scale (OMRS): designed to rate the degree and severity of alterations to the oral mucosa related to erythema, ulceration, and edema(37) -Patient-Reported  Oral Mucositis Symptom (PROMS) scale: designed for and validated on patients undergoing bone marrow transplantation; however, the scale is useful for patients with head and neck cancer(37)",
+                "The patient might experience trismus (restricted mouth opening) after a resection involving the jaw or radiation of the muscles that control the jaw.(36) Trismus often results from late effects of radiation and can affect a patient\u2019s mastication abilities.(36) Mouth opening can be assessed with a ruler especially designed for this (normal mouth opening is at least 35 mm) or by using an informal measurement (asking the patient to open his or her mouth and measuring the opening with 3 fingers stacked vertically)(36)",
+                "An oral exam also allows for observation of the patient\u2019s ability to follow instructions and attention span(22)"
+            ],
+            "circulation": "",
+            "functional mobility": "",
+            "gait locomotion": "",
+            "muscle strength": "",
+            "observation inspection palpation including skin assessment": [],
+            "posture": "Note any posture abnormalities that may interfere with swallowing (e.g., head tilt, unilateral weakness). Refer to physical therapy as necessaryDocument if the patient is able to eat independently. Who prepares the patient\u2019s meals? Where and with whom does the patient eat most of his or her meals?",
+            "range of motion": "",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "Vision and hearing screening should be performed to determine any barriers to communication and patient\u2019s ability to follow treatment protocol. Ideally, referral to an audiologist to check for impacted cerumen should be made prior to hearing screening. If the patient has hearing aids and/or cochlear implants, they should be checked to be sure they are in working order",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "It is important to screen communication functioning before a swallow evaluation to determine the patient\u2019s ability to follow directions. Many patients who have had treatment for head and neck cancer have articulation and vocal production difficulties \u2013For detailed information on assessment and treatment of speech production in laryngectomy, see Clinical Review\u2026 Laryngectomy, Total , referenced above and Clinical Review...Laryngectomy, Partial , referenced above \u2013For detailed information on assessment and treatment of speech production in glossectomy, see Clinical Review\u2026 Glossectomy , referenced above",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Psychological and cognitive evaluations may assist in informing course of treatment and providing a prognosis for therapy for patients who may have accompanying cognitive issues  \u2013Is the patient aware of swallowing difficulties? A lack of awareness of dysphagic symptoms has been associated with more medical complications compared to patients with awareness of dysphagic symptoms.(19) Patients with head and neck cancer tend to underestimate the level of impairment to the swallowing mechanism.(19)In addition, patients who are unaware of the swallowing problem are less likely to modify their swallowing behavior(20) To assess cognitive status of adults. Sections include Orientation to Time, Orientation to Place, Registration, Attention and Calculation, Recall, Naming, Repetition, Comprehension, Reading, Writing, Drawing",
+            "aac assessment": "",
+            "swallow examination": "Whenever possible, a patient in whom head and neck cancer has been diagnosed should undergo an instrumental swallowing evaluation prior to and after receiving treatment for the cancer.(23) The pretreatment swallowing evaluation serves as a baseline for swallowing function and allows the SLP the opportunity to educate and counsel the  patient about possible changes to the swallow after cancer treatments.(23) The purpose of a swallow examination is to determine if the patient has dysphagia, to determine which function is disordered, and to establish any compensatory(10)A CSE is usually the first part of a comprehensive swallowing examination or is used as an initial screening to determine the need for further evaluation.(10) Historically, the lack of a gag reflex function was used as a measure of dysphagia, but this has been demonstrated as unreliable as the sole indicator of swallowing function.CSEs are poor at detecting silent aspiration or in determining the physiologic reason for a cough or a voice-quality change. Due to its limitations, a CSE should be used as a complement to other instrumental measures rather than in isolation.(17) Ingestion of food or fluid is not routinely included in a CSE; however, if oral intake is considered relatively safe, the patient can be observed swallowing different consistencies of food and water(22) -A comprehensive case history and review of medical records(10) -Assessment of oral structures and motor function. Note the appearance of the oral mucosa and any pooling of saliva in the oral cavity. An inability to swallow can cause the saliva to pool in the mouth. Evaluate dentition in terms of the presence or absence of dental prostheses, the number and appearance of teeth, and general dental care(10) -Assessment of speech and vocal quality(10) -Assessment of feeding and mealtime techniques used by patient and caregivers(10) -Observation of patient\u2019s skills for coordination of respiration and swallowing in a natural environment(10) -Observation of the effects of alterations in posture or other compensatory techniques to improve swallow(10) -Evaluation of the patient\u2019s ability to comprehend instructions and use compensatory strategies(16) -Evaluation of the patient\u2019s salivary function by visual inspection of the oral mucosa, medication review, and medicalT903434 -Yale Swallow Protocol(11)A tool to assist the clinician in describing the level of severity (7 levels) of dysphagia and in making recommendations for nutrition, diet, and independence(12)(14) Includes a pre-assessment checklist. If the patient passes the checklist, he or she is presented with teaspoon sips of water (3 times) and a half glass of waterIn-depth  Clinical SwallowT709037VFSS is performed in collaboration with a physician (radiologist or physiatrist) and an SLP or occupational therapist (OT) and is used as a diagnostic procedure for dysphagia.(10) The patient eats and drinks a variety of liquids and solids mixed with barium while images are recorded with videofluorography.(24) All patients should be examined in the lateral and frontal positions to gain information on movements of the swallow and symmetry of bolus flow and pharyngeal wall contraction. The SLP examines for the presence of aspiration and the effectiveness of modifying different food consistencies or of modifying posture.(10) In contrast to the CSE, VFSS provides critical information on the pharyngeal phase of the swallow.(22) Due to the levels of radiation involved, this procedure is not suitable to use frequently to monitor changes.(24) Given the unnatural surroundings, swallowing function observed during a VFSS is not necessarily identical to that used at mealtimes. Other variables that may influence swallowing function include pain, anxiety, fatigue, and medications. During the VFSS, the(16) -Lip closure (ability to contain a liquid bolus) -Lingual elevation (the back of the tongue is slightly elevated) -Tongue-to-palatal  seal -Bolus preparation/mastication -Bolus transport/movement of the tongue (movement of the bolus to the back of the oral cavity) -Initiation of the pharyngeal swallow (swallow should be initiated when the bolus reaches the region of the posterior oral cavity)  -Soft palate elevation and retraction -Laryngeal elevation -Anterior hyoid excursion -Laryngeal closure -Pharyngeal contraction -Pharyngoesophageal segment opening -Tongue base retraction -Epiglottic inversion -Esophageal clearanceModified Barium SwallowT709046FEES is performed to evaluate the anatomy and physiology of the pharynx and the larynx, pharyngeal swallow function, and the patient\u2019s ability to manage secretions as well as to swallow foods and liquids.(10) In addition, it can be used to explore a variety of diagnostic interventions, such as varying bolus consistency, varying posture, or making use of visual feedback for reinforcement.(25) After the insertion of the endoscope, the patient can self-feed during the evaluation. Food must be light in color to enhance visibility (e.g., milk, puddings, yogurt, bread). FEES is preferred over VFSS when patients have safety issues related to radiation exposure (e.g., pregnant women) and when patients need frequent retesting. In addition, FEES is less taxing than VFSS for patients who are weak and bedridden, patients with open wounds, patients who are morbidly obese, and patients who have quadriplegia or ventilator dependency(25) -For detailed information on endoscopic assessment of swallowing, see the series of Clinical Reviews on this topic \u2013Other instrumental procedures include ultrasonography to observe movement of the structures used for swallowing and surface electromyography to record the electrical activity of the swallowing muscles; however, these procedures are primarily used in research at this time(10) -For detailed information on assessment of swallowing with electromyography, see  Clinical Review\u2026Dysphagia",
+            "tracheostomy examination": "If present, assess tracheostomy tube and document date of placement, current respiratory status, and use of speaking valve; for information on assessment of patients with tracheostomies, see Clinical Review\u2026Adults with Tracheostomy ; Item Number use of a speaking valve, see Clinical Review\u2026Passy-Muir  Tracheostomy & Ventilator Swallowing and Speaking Valve ;T708919"
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Only those contraindications/precautions applicable to this diagnosis are mentioned below, including with regard to modalities. Rehabilitation professionals should always use their professional judgment",
+                "Eating is an important social activity, and physical changes in swallowing caused by head and neck cancer can have significant psychosocial consequences for the patient, patient\u2019s family, and caregivers",
+                "Patients with dysphagia are at risk for aspiration and penetration of oral intake. Ensure that the patient and family/ caregivers are aware of potential aspiration risks and are educated about strategies when appropriate",
+                "Clinicians should follow the guidelines of their clinic/hospital and what is ordered by the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Dysphagia diagnosis and management is based upon the results of a comprehensive assessment that is performed by an SLP in collaboration with a transdisciplinary team that may include a dietician, an OT, a PT, a respiratory therapist, an otolaryngologist, a radiologist, a social worker, a gastroenterologist, and a neurologist.(26) Each discipline will provide specific input and expertise on the patient\u2019s swallowing problems and the treatment plan(10)",
+        "rule out": "Swallowing difficulties caused by factors unrelated to head and neck cancer",
+        "prognosis": [
+            "In a study that included 123 data sets collected from outpatient clinics in two hospitals in England, researchers found that the majority of individuals included in the study exhibited some type of long-term  swallowing problem after treatment for head and neck cancer, regardless of the type of cancer treatment.(42) In this study, the worst swallowing outcomes were associated with treatment by laryngectomy and chemoradiation together(42)"
+        ],
+        "referral to other disciplines": "Refer to an OT, PT, registered dietician, respiratory therapist, social worker, neurologist, otolaryngologist, radiologist, or gastroenterologist as necessary. Some patients might be referred to a dentist and/or maxillofacial prosthodontist before and after treatment to preserve some teeth for functional chewing. Patient and caregiver depression and frustration sometimes result from altered social habits around eating (e.g., cessation of eating out, reduced desire to eat with friends or to invite friends to meals, longer duration of mealtimes, increased dependency on caregiver). Refer to support groups or counseling when signs of depression are present. Referral to a nutritionist or registered dietitian is appropriate for patients with head and neck cancer who are not meeting their nutritional/caloric needs(35)",
+        "other considerations": [],
+        "treatment summary": [
+            "Authors of a systematic review of 27 research articles on treatments for eating and drinking difficulties in head and neck cancer reported that all of the interventions were for swallowing and/or trismus. Despite their wide search criteria, these authors did not find any interventions for psychosocial/social aspects of dysphagia or management of taste problems.(41) The evidence did indicate that swallowing and trismus exercises were effective for improving functional outcomes in patients with head and neck cancer. The best outcomes were for those treatment programs initiated before cancer treatment started.(41) Because of the variety of interventions, outcome measures, and patient populations in the treatment studies, it was impossible to complete a formal meta-analysis(41)",
+            "In a prospective study conducted in China with 58 patients who had been treated (including surgery) for head and neck cancer that involved the tongue, researchers found that a swallow training protocol composed of direct and indirect therapeutic interventions resulted in improvements in swallow function, anxiety, and depression. The swallowing training protocol was individualized to each patient and included compensatory strategies, diet modifications, postural changes, swallow maneuvers, and exercises. Outcome measures were the water swallow test (WST) and the Zung Self-Rating  Depression Scale (SDS). Therapy took place in 30-minute sessions over the course of 10 days. At the end of the intervention, there were significant group improvements in WST and SDS scores, indicating improved swallowing and reduced depression and anxiety(51)",
+            "Swallow maneuvers: Swallow maneuvers include the supraglottic swallow, the super-supraglottic  swallow, the effortful swallow, the Mendelsohn maneuver, and the Masako maneuver. Research has documented specific changes in the oropharyngeal swallow due to these maneuvers; however, further research is needed to determine the amount of time that these maneuvers should be used. Patients may not be able to benefit from maneuvers if they are unable to follow instructions or remember to use the maneuver during each swallow  \u2013Supraglottic swallow: Breath is held before, during, and after the swallow so that the true vocal folds are closed.(28) The patient can also be instructed to cough after swallowing to clear the airway(2) \u2013Super-supraglottic  swallow: Breath is held while the patient swallows with extra effort.(28) The patient can be instructed to cough after swallowing to clear the airway(2) \u2013Effortful swallow: Patient contracts the muscles involved in swallowing with great effort(28) \u2013Mendelsohn maneuver: The Mendelsohn maneuver is designed to increase the movement of the larynx and hyoid during the pharyngeal swallow. The patient holds the larynx up by using the muscles of the neck or with the hand. This technique should not be considered a permanent solution to dysphagia and should be used only briefly while the swallow reflex returns to its original state(28) \u2013Masako maneuver: The patient holds the tongue, pulling it forward and anchoring it between the front teeth while swallowing. This might be effective for patients who have weak pharyngeal contraction(28) \u2013For detailed information on swallow maneuvers, see Clinical Review\u2026Dysphagia: Swallowing Therapy \u2013Swallowing Maneuvers \u2013 an Overview ; CINAHL Topic ID Number: T709042 and the series of Clinical Reviews on each specific maneuver",
+            "Postural treatment: Postural techniques include chin tuck, head back, head rotation, and head-tilt(10) \u2013Chin tuck (chin down): The chin-down  posture serves to narrow the distance between the tongue base and pharyngeal wall. This posture also widens the valleculae so that they can more easily capture the bolus during a delay in the pharyngeal swallow and prevent aspiration before swallowing.(27) This posture may be useful for patients who have had tongue-base  resections and also for patients who have had oral or laryngeal resections(2) \u2013Head back (chin elevated): This posture may be beneficial for patients who have difficulty moving the tongue or generating adequate lingual pressures to move the bolus from the mouth to the pharynx(27) \u2013Head rotation: This position may be useful when there is unilateral damage or weakness to the larynx or pharynx. The head should be rotated to the side of the damage so that the pharynx is closed on the weak side and the bolus is directed toward the stronger side(27) \u2013Head tilt: Tilting the head toward the stronger side can also direct the bolus down the stronger side. There are no studies on the use of this procedure in patients with head and neck cancer, but it may be useful for patients who have unilateral impairment of the mouth or pharynx(27) \u2013For detailed information on postural changes for dysphagia treatment, see Clinical Review\u2026Dysphagia: Swallowing Therapy \u2013 Compensatory ; CINAHL Topic ID Number: T709081",
+            "Diet modification:  Modification of bolus size and consistency might be effective in reducing aspiration in patients who have been treated for head and neck cancer. Effects of diet modification should be observed during the VFSS. Removal of specific food consistencies from the patient\u2019s diet should be carefully considered, as this can have negative effects on the patient\u2019s attitude towards food as well as the patient\u2019s nutritional status(2) \u2013For detailed information on diet modifications for dysphagia treatment, see Clinical Review\u2026Dysphagia: Swallowing Therapy \u2013 Compensatory , referenced above",
+            "Sensory stimuli:  Changing the taste, volume, temperature, or carbonation of the food or liquid has been used as a way to heighten sensation and assist with delayed oral onset and/or delayed pharyngeal swallow. More research is needed to validate these techniques to determine their effects on a variety of different types of patients.(28) There are currently no studies demonstrating the efficacy of sensory/thermal stimulation on the swallow function of patients who have been treated for head and neck cancer(2) \u2013For detailed information on sensory modifications for dysphagia treatment, see Clinical Review\u2026Dysphagia: Swallowing Therapy \u2013 Compensatory , referenced above",
+            "Exercise therapy \u2013Pretreatment exercise -In a case series with chart review study conducted in the United States, researchers found that a swallow preservation protocol (SPP) in which patients received swallow therapy before, during, and after radiation treatment was effective in maintaining swallow function in patients with head and neck cancer. Study sample included 85 patients with head and neck cancer who received either radiation therapy or chemoradiation therapy (CRT) between 2007 and 2012. The SPP included a pretreatment swallow evaluation and education session in which the researchers explained the rationale for pretreatment/continued swallow exercises and demonstrated the exercises. Protocol consisted of the following:  gargling liquid for 10 seconds 10 times, effortful swallow 10 times, Mendelsohn maneuver 10 times, \u201cchug-a-lug\u201d  3 ounces at once, tongue protrusion 10 times, tongue press 10 times, and Shaker exercise 3 times. The entire protocol was to be performed daily 3 times (except Shaker, which was only included once a day). Subjects were classified into 2 groups: compliant or noncompliant with SPP. Compliance was based on self-report  as documented by a tracking sheet brought to weekly sessions. In the weekly SPP sessions, the researchers documented the diet for each subject as regular (chewable), puree, liquid, or G-tube dependent, and documented compliance with the SPP. Outcome measures were taken at 1 and 2 months posttreatment, during which time subjects were instructed to continue exercises. At the conclusion of cancer treatments, 57 subjects were considered compliant and 28 were noncompliant with the SPP during their cancer treatment. The compliant group had a significantly higher percentage of subjects on a regular diet (54.4% vs 21.4%), a significantly lower rate of dependence on a G-tube  (22.8% vs 53.6%), and a significantly higher rate of maintaining or improving their diet (54.4% vs 25.0%) compared to noncompliant subjects(44) \u2013Shaker exercise (strengthening exercise for the suprahyoid muscle): Instruct the patient to lie flat on the bed or floor and perform 3 sustained head raisings for 1 minute in the supine position, separated by a 1-minute  rest period.(29) Instruct patient to then raise the head 30 consecutive times in the same supine position. The patient should be able to observe his or her toes without raising shoulders off the floor or bed. Patient should perform these exercises 3 times a day for 6 weeks \u2013For detailed information on exercises for dysphagia treatment, see Clinical Review\u2026Dysphagia: Swallowing Therapy, Facilitative ; CINAHL Topic ID Number: T709080 and Clinical Review\u2026Dysphagia: Swallowing Therapy, Indirect ; CINAHL Topic ID Number: T709045",
+            "Feeding tubes/enteral feeding:  Patients who have just had treatment for head or neck cancer may be unable to take adequate nutrition and hydration by mouth. In these cases, the use of a G-tube  may be indicated while the patient recovers. The SLP should educate the family or caregivers about the implications of feeding tube use as well as determine how complications should be addressed if they arise. The transition from a G-tube  to oral feeding is best facilitated by a transdisciplinary team that includes at minimum a registered dietician and an SLP \u2013There is a growing body of evidence that suggests placement/use of a prophylactic G-tube  in patients undergoing treatment for head and neck cancer is related to development of more severe dysphagia than in patients who do not receive a G-tube.(8,9)There is also research that indicates no difference in long-term  swallowing outcomes in cases of prophylactic placement of a G-tube.(46) When the medical team is determining if the patient is an appropriate candidate for a G-tube,  the patient\u2019s individual characteristics and risk factors should be considered",
+            "Intraoral prosthetics:  A prosthodontist may recommend a prosthetic for a patient who has had surgical resection in the oral cavity. The following are common prosthetics for patients who have had oral resections:(2) \u2013Maxillary reshaping prostheses: To reshape and recontour the palatal vault so that the tongue can make contact with the palate during speech and swallowing \u2013Obturators: To separate the oral and nasal cavities to prevent loss of food or liquid into the nasal cavity",
+            "Range of motion exercises:  ROM exercises have been designed to improve impaired swallow function after surgical treatment of cancer or fibrosis (scarring) after radiation. The purpose of these exercises is to extend the motion of the structure (e.g., tongue, jaw, lips) in a target direction as far as possible by holding the posture for 1 to 2 seconds and then releasing it \u2013The patient may experience trismus (restricted mouth opening) after a resection to the jaw or radiation.(36) Exercises include unassisted ROM exercises, finger-assisted jaw exercises, stacked tongue depressors (slowly adding one at a time to increase jaw opening), or a device that assists patient in performing exercises (TheraBite). Examples of unassisted jaw exercises include having the patient open the mouth as wide as possible, extending the jaw to one side as far as possible, and moving the lower jaw in a circular motion \u2013For detailed information on exercises for dysphagia treatment, see Clinical Review\u2026Dysphagia: Swallowing Therapy, Facilitative , referenced above and Clinical Review\u2026Dysphagia: Swallowing Therapy, Indirect , referenced above",
+            "Neuromuscular electrical stimulation (NMES) : NMES therapy is designed to deliver electrical stimulation to key muscles involved in swallowing for the purpose of retraining and strengthening these muscles, thereby improving swallow function. The electrical stimulation depolarizes the nerve at the neuromuscular junction, resulting in muscle contraction and increased blood flow to the muscles being stimulated. The evidence for NMES in patients with dysphagia is mixed. This therapy might not be appropriate depending on the underlying cause of dysphagia (i.e., stroke versus head and neck cancer). Authors of a 5-year,  16-site,  RCT conducted in the United States with 170 participants who had dysphagia resulting from head and neck cancer investigated the difference in outcomes between an electrical stimulation group and a sham electrical stimulation group. Participants in both groups were also assigned swallowing exercises. Researchers tracked whether the participants were compliant (performing prescribed exercises at least 10/12 times per week) or  noncompliant using checklists. Researchers found that, in the compliant group, participants in the exercise only (sham electrical stimulation) group had significantly better penetration-aspiration  scale (PAS) scores compared to the compliant electrical stimulation + exercise group. Overall, the compliant and noncompliant participants in each group did not have significantly different outcomes and researchers questioned whether exercises in patients with head and neck cancer were indicated as part of dysphagia treatment at all. Electrical stimulation resulted in worse outcomes regardless of compliance status(52)",
+            "Combination therapy : In a small RCT conducted in China, researchers found that the combination of traditional exercise therapy, NMES, and balloon dilatation (a procedure in which the physician inserts a ballooning endoscope into the throat to stretch a narrowed esophagus) resulted in superior outcomes compared to traditional exercise therapy alone.(38) Sixty patients who were treated for nasopharyngeal cancer with radiation therapy and in whom radiation-induced  dysphagia was diagnosed were included in the study. All patients were treated with lingual, pharyngeal, and laryngeal exercises performed 15 times each 3 times per day. In the treatment group, patients were also treated with NMES and balloon dilatation according to individual treatment protocols based on individual needs and swallowing abilities. After 4 months of therapy, the patients\u2019 swallowing function was reassessed by a therapist who did not take part in the rehabilitation of these patients. The WST and a VFSS were used as baseline and outcome measures. Outcome measures indicated that the total efficacy rate in the treatment group was significantly higher than in the control group (83.9% vs. 62.1%). However, there were 2 individuals in the treatment group whose swallowing deteriorated after treatment, and none in the control group experienced this. Additionally, because this was a very small study and the head and neck cancer population is so diverse, findings should be interpreted with caution. In order to more definitively determine the efficacy of this type of treatment, larger RCTs should be conducted(38)",
+            "Deep pharyngeal muscular stimulation: These stimulation techniques have not received adequate research to establish their efficacy or to support their use with patients with dysphagia . Problem Goal Intervention Expected Progression Home Program Oral and pharyngeal dysphagiaIngest food and liquids safely (without aspiration)Compensatory strategies _ Swallow maneuvers _ _ Postural treatment _ _ Diet modification _ _ Sensory stimuli _ _ See Treatment summary , aboveProgression of therapy tasks with and without compensatory strategies and specific types of food and liquid consistencies trialed will vary according to patient goalsPatient will need to use compensatory strategies during all meals and snacks Limited ROM of lips, tongue, jaw, and/or larynxIncrease ROM of structures needed for swallowingTherapeutic modalities _ ROM exercises _ _ See Treatment summary , aboveThe intensity and duration of exercises should be progressed as the patient is able to restore ROM of the swallowing musculaturePatient should be instructed to do the exercises for 5 to 10 minutes, 10 times daily  Dysphagia caused by reduced strength of the swallowing musculatureIngest food and liquids safely (without aspiration) by achieving improvement in swallowing musculature strengthTherapeutic modalities _ Strengthening exercises _ _ See Treatment summary , aboveThe intensity and duration of exercises should be progressed as the patient is able to restore the strength of the swallowing musculaturePatient should practice the strengthening exercises at home ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "the ultimate goals of treatment for dysphagia include improved nutrition and hydration and improved quality of life": [],
+        "improved nutrition and hydration outcome measures include fees and the following indicators of patient health status:": [
+            "Clinical signs and symptoms of aspiration(30)",
+            "Amount of oral intake(30)",
+            "Weight(30)",
+            "Patient\u2019s self-perception  of dysphagia and swallowing ability(30)",
+            "Presence of aspiration (measured by presence of fevers, X-rays)(30)"
+        ],
+        "improved quality of life": [
+            "SWAL-QOL:  An outcome measure that includes patient self-ratings  of quality of life related to swallowing and eatingability(18)"
+        ]
+    },
+    "maintenance or prevention": [
+        "When dysphagia is caused by treatment for head and neck cancer, periodic reevaluation and adjustment of goals and objectives is essential to meet changing needs of the patient",
+        "Ensuring that the patient and family/caregiver are well-educated  on all types of signs and symptoms of aspiration (including fevers, wet cough, watery eyes, nasal regurgitation) can help prevent complications of dysphagia such as weight loss/ malnutrition and pneumonia(19)"
+    ],
+    "patient education": [
+        "The SLP is responsible for educating the family and patient care staff about normal and abnormal swallowing function and the needs of the patient regarding swallow safety For information regarding the treatment of different types of head and neck cancers, see \u201cHead and Neck Cancer\u201d from the National Cancer Institute (U.S. National Institutes of Health) at https://www.cancer.gov/types/head-and-neck See \u201cSwallowing Disorders in Adults\u201d from the ASHA at https://www.asha.org/public/speech/swallowing/swallowing-disorders-in-adults/ Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Adult dysphagia. American Speech-Language-Hearing  Association Practice Portal Web site. https://www.asha.org/Practice-Portal/Clinical-Topics/Adult-Dysphagia/ . (GI)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Baijens LWJ, Walshe M, Aaltonen LM. European white paper: oropharyngeal dysphagia in head and neck cancer. Eur Arch Otorhinolaryngol . February 2021;278(2):577-616. doi:https://doi.org/10.1007/s00405-020-06507-5.  (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "National Cancer Institute. Head and neck cancers. National Cancer Institute Web site. http://www.cancer.gov/cancertopics/factsheet/Sites-Types/head-and-neck . (GI) "
+        },
+        {
+            "number in article": 4,
+            "reference": "Kraaijenga SA, van der Molen L, Heemsbergen WD, Remmerswaal GB, Hilgers FJ, van den Brekel MW. Hyoid bone displacement as parameter for swallowing impairment in patients treated for advanced head and neck cancer. Eur Arch Otorhinolaryngol . February 2017;274(2):597-606.  doi:https://doi.org/10.1007/s00405-016-4029-y.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Sroussi HY, Epstein JB, Bensadoun RJ, et al. Common oral complications of head and neck cancer radiation therapy: mucositis, infections, saliva change, fibrosis, sensory dysfunctions, dental caries, periodontal disease, and osteoradionecrosis. Cancer Med . December 2017;6(12):2918-2931.  doi:https://doi.org/10.1002/cam4.1221. (RV)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Head and neck cancer: risk factors and prevention. Cancer.net Web site. https://www.cancer.net/cancer-types/head-and-neck-cancer/risk-factors-and-prevention . Published October 2019. (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Beynon RA, Lang S, Schimanksy S, et al. Tobacco smoking and alcohol drinking at diagnosis of head and neck cancer and all-cause mortality: Results from head and neck 5000, a prospective observational cohort of people with head and neck cancer. Int J Cancer . September 1, 2018;143(5):1114-1127.  doi:https://doi.org/10.1002/ijc.31416. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Patterson J, Wilson JA. The clinical value of dysphagia preassessment in the management of head and neck cancer patients. Curr Opin Otolaryngol Head Neck Surg . 2011;19(3):177-181.  (RV)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Friedes C, Klingensmith J, Nimo N, Gregor J, Burri R. Late feeding tube dependency in head and neck cancer patients treated with definitive radiation therapy and concurrent systemic therapy. Cureus. April 15, 2020;12(4):e7683. doi:https://doi.org/10.7759/cureus.7683. (R)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Starmer H, Gourin C, Lua LL, Burkhead L. Pretreatment swallowing assessment in head and neck cancer patients. Laryngoscope . 2011;121(6):1208-1211.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Ward M, Skelley-Ashford  M, Brown K, Ashford J, Suiter D. Validation of the Yale Swallow Protocol in post-acute  care: a prospective, double-blind,  multirater study. Am J Speech Lang Pathol . November 12, 2020;29(4):1937-1943.  doi:https://doi.org/10.1044/2020_AJSLP-19-00147.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Zarkada A, Regan J. Inter-rater  reliability of the Dysphagia Outcome and Severity Scale (DOSS): effects of clinical experience, audio-recording  and training. Dysphagia . June 2018;33(3):329-336.  doi:https://doi.org/10.1007/s00455-017-9857-4.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Matsuo K, Plamer JB. Dysphagia. In: Frontera WR, Silver JK, Rizzo TD, eds. Essentials of Physical Medicine and Rehabilitation: Musculoskeletal Disorders, Pain, & Rehabilitation . Philadelphia, PA: Elsevier; 2019:724-727.  (GI)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Jiang JL, Fu SY, Wang WH, Ma YC. Validity and reliability of swallowing screening tools used by nurses for dysphagia: A systematic review. Tzu Chi Med J . April 2016;28(2):41-48.  doi:https://doi.org/10.1016/j.tcmj.2016.04.006. (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Garcia MK, Meng Z, Rosenthal DI, et al. Effect of true and sham acupuncture on radiation-induced  xerostomia among patients with head and neck cancer: a randomized clinical trial. JAMA Netw Open . December 2, 2019;2(12):e1916910. doi:https://doi.org/10.1001/jamanetworkopen.2019.16910. (RCT)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Rangarathnam B, McCullough G. Utility of a Clinical Swallowing Exam for Understanding Swallowing Physiology. Dysphagia . 2016;31(4):491-7. doi:10.1007/s00455-016-9702-1.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Krebbers I, Simon SR, Pilz W, Kremer B, Winkens B, Baijens LWJ. Patients with head-and-neck  cancer: dysphagia and affective symptoms. Folia Phoniatr Logop . July 3, 2020;1-8.  doi:https://doi.org/10.1159/000508367. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "McHorney CA, Bricker DE, Kramer AE, et al. The SWAL-QOL  outcomes tool for oropharyngeal dysphagia in adults: I. Conceptual foundation and item development. Dysphagia . 2000;15(3):115-121.  (R)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Tong MC, Lee KY, Yuen MT, Lo PS. Perceptions and experiences of post-irradiation  swallowing difficulties in nasopharyngeal cancer survivors. Eur J Cancer Care (Engl) . 2011;20(2):170-178.  (R)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Folstein MF, Folstein SE, Fanjiang G. Mini-Mental  State Examination: Clinical Guide . Lutz, FL: Psychological Assessment Resources; 2001. (PP)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Baudelet M, Van den Steen L, Tomassen P, et al. Very late xerostomia, dysphagia, and neck fibrosis after head and neck radiotherapy. Head Neck . October 2019;41(10):3594-3603.  doi:https://doi.org/10.1002/hed.25880. (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "McAllister S, Tedesco H, Kruger S, Ward EC, Marsh C, Doeltgen SH. Clinical reasoning and hypothesis generation in expert clinical swallowing examinations. Int J Lang Commun Disord . July 2020;55(4):480-492.  doi:10.1111/1460-6984.12531.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Guillen-Sola  A, Soler NB, Marco E, Pera-Cegarra  O, Foro P. Effects of prophylactic swallowing exercises on dysphagia and quality of life in patients with head and neck cancer receiving (chemo) radiotherapy: the Redyor study, a protocol for a randomized clinical trial. Trials. August 14, 2019;20(1):503. doi:https://doi.org/10.1186/s13063-019-3587-x. (RCT)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Martin-Harris  B, Canon CL, Bonilha HS, Murray J, Davidson K, Lefton-Greif  MA. Best practices in modified barium swallow studies. Am J Speech Lang Pathol . July 10, 2020;29(2S):1078-1093.  doi:10.1044/2020_AJSLP-19-00189.  (RV)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Langmore SE. History of fiberoptic endoscopic evaluation of swallowing for evaluation and management of pharyngeal dysphagia: changes over the years. Dysphagia . February 2017;32(1):27-38.  doi:https://doi.org/10.1007/s00455-016-9775-x.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Hansen K, Chenoweth M, Thompson H, Strauss A. Role of the speech-language  pathologist (SLP) in the head and neck cancer team. Cancer Treat Res . 2018;174:31-42. doi:https://doi.org/10.1007/978-3-319-65421-8_3.  (RV)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Byeon H. Effect of simultaneous application of postural techniques and expiratory muscle strength training on the enhancement of the swallowing function of patients with dysphagia caused by parkinson's disease. J Phys Ther Sci . 2016;28(6):1840-3.  doi:10.1589/jpts.28.1840. (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Balou M, Herzberg EG, Kamelhar D, Molfenter SM. An intensive swallowing exercise protocol for improving swallowing physiology in older adults with radiographically confirmed dysphagia. Clin Interv Aging . February 11, 2019;14:283-288.  doi:https://doi.org/10.2147/CIA.S194723. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Ohba S, Yokoyama J, Kojima M, et al. Significant preservation of swallowing function in chemoradiotherapy for advanced head and neck cancer by prophylactic swallowing exercise. Head Neck . April 1016;517-21.  doi:https://doi.org/10.1002/hed.23913. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Carnaby GD, LaGorio L, Silliman S, Crary M. Exercise-based  swallowing intervention (McNeill Dysphagia Therapy) with adjunctive NMES to treat dysphagia post-stroke:  A double-blind  placebo-controlled  trial. J Oral Rehabil . April 2020;47(4):501-510.  doi:https://doi.org/10.1111/joor.12928. (RCT)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Shirasu H, Yokota T, Hamauchi S, et al. Risk factors for aspiration pneumonia during concurrent chemoradiotherapy or bio-radiotherapy  for head and neck cancer. BMC Cancer. March 4, 2020;20(1):182. doi:https://doi.org/10.1186/s12885-020-6682-1.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Peng LC, Hui X, Cheng Z, et al. Prospective evaluation of patient reported swallow function with the Functional Assessment of Cancer Therapy (FACT), MD Anderson Dysphagia Inventory (MDADI) and the Sydney Swallow Questionnaire (SSQ) in head and neck cancer patients. Oral Oncol . September 2018;84:25-30.  doi:https:// doi.org/10.1016/j.oraloncology.2018.05.012. (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "More YI, Tsue TT, Girod DA, et al. Functional swallowing outcomes following transoral robotic surgery vs primary chemoradiotherapy in patients with advanced-stage oropharynx and supraglottis cancers. JAMA Otolaryngol Head Neck Surg . 2013;139(1):43-48.  doi:10.1001/jamaoto.2013.1074. (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Deantonio L, Masini L, Brambilla M, Pia F, Krengli M. Dysphagia after definitive radiotherapy for head and neck cancer. Correlation of dose-volume  parameters of the pharyngeal constrictor muscles. Strahlenther Onkol . 2013;189(3):230-236.  doi:10.1007/s00066-012-0288-8.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Silander E, Jacobsson I, Bert\u00e9us-Forslund  H, Hammerlid E. Energy intake and sources of nutritional support in patients with head and neck cancer--a  randomised longitudinal study. Eur J Clin Nutr . 2013;67(1):47-52.  doi:10.1038/ejcn.2012.172. (RCT)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Hutcheson KA. Late Radiation\u2013Associated  Dysphagia (RAD) in head and neck cancer survivors. Persp Swallowing Swallowing Dis . 2013;22(2):61-72.  doi:10.1044/ sasd22.2.61. (GI)"
+        },
+        {
+            "number in article": 37,
+            "reference": "Landera MA, Odlum J, Lundy DS. Swallowing evaluation of the patient with head and neck cancer. Perspect Swallowing Swallowing Disord (Dysphagia) . 2013;22(2):53-60. doi:10.1044/sasd22.2.53. (GI)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Long YB, Wu XP. A randomized controlled trail of combination therapy of neuromuscular electrical stimulation and balloon dilatation in the treatment of radiation-induced dysphagia in nasopharyngeal carcinoma patients. Disabil Rehabil . March 2013;35(6):450-454.  doi:10.3109/09638288.2012.697250. (RCT)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Lei W, Chai L, Guo J, et al. Modified laryngotracheal separation for intractable aspiration pneumonia in patients with nasopharyngeal carcinoma treated by radiotherapy. Auris Nasus Larynx . 2013;40(3):298-302.  doi:10.1016/j.anl.2012.10.002. (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Starmer HM, Gourin CG. Is speech language pathologist evaluation necessary in the nonoperative treatment of head and neck cancer?. Laryngoscope . 2013;123(7):1571-1572.  doi:10.1002/lary.23692. (RV)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Cousins N, MacAulay F, Lang H, MacGillivray S, Wells M. A systematic review of interventions for eating and drinking problems following treatment for head and neck cancer suggests a need to look beyond swallowing and trismus. Oral Oncol . 2013;49(5):387-400.  doi:10.1016/j.oraloncology.2012.12.002. (SR)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Burnip E, Owen SJ, Barker S, Patterson JM. Swallowing outcomes following surgical and non-surgical  treatment for advanced laryngeal cancer. J Laryngol Otol . 2013;127(11):1116-1121.  doi:10.1017/S0022215113002478. (R)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Strom T, Trotti AM, Kish J, et al. Risk factors for percutaneous endoscopic gastrostomy tube placement during chemoradiotherapy for oropharyngeal cancer. JAMA Otolaryngol Head Neck Surg . 2013;139(11):1242-1246.  doi:10.1001/jamaoto.2013.5193. (R)"
+        },
+        {
+            "number in article": 44,
+            "reference": "Duarte VM, Chhetri DK, Liu YF, Erman AA, Wang MB. Swallow preservation exercises during chemoradiation therapy maintains swallow function. Otolaryngol Head Neck Surg . 2013;149(6):878-884.  doi:10.1177/0194599813502310. (R)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Gourin CG, Couch ME, Johnson JT. Effect of weight loss on short-term  outcomes and costs of care after head and neck cancer surgery. Ann Otol Rhinol Laryngol . 2014;123(2):101-110.  doi:10.1177/0003489414523564. (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Prestwich RJ, Teo MT, Gilbert A, Williams G, Dyker KE, Sen M. Long-term  swallow function after chemoradiotherapy for oropharyngeal cancer: the influence of a prophylactic gastrostomy or reactive nasogastric tube. Clin Oncol (R Coll Radiol) . 2014;26(2):103-109.  doi:10.1016/j.clon.2013.10.005. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Shi Q, Mendoza TR, Gunn GB, Wang XS, Rosenthal DI, Cleeland CS. Using group-based  trajectory modeling to examine heterogeneity of symptom burden in patients with head and neck cancer undergoing aggressive non-surgical  therapy. Qual Life Res . November 2013;22(9):2331-9.  doi:10.1007/s11136-013-0380-2.  (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Teguh DN, Levendag PC, Ghidey W, van Montfort K, Kwa SL. Risk model and nomogram for dysphagia and xerostomia prediction in head and neck cancer patients treated by radiotherapy and/or chemotherapy. Dysphagia . September 2013;28(3):388-94.  doi:10.1007/s00455-012-9445-6.  (R)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Duprez F, Madani I, De Potter B, Boterberg T, De Neve W. Systematic review of dose--volume  correlates for structures related to late swallowing disturbances after radiotherapy for head and neck cancer. Dysphagia . September 2013;28(3):337-49.  doi:10.1007/s00455-013-9452-2.  (SR)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Kramer S, Newcomb M, Hessler J, Siddiqui F. Prophylactic versus reactive PEG tube placement in head and neck cancer. Otolaryngol Head Neck Surg . March 2014;150(3):407-12.  doi:10.1177/0194599813517081. (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Zhang L, Huang qZ, Wu H, Chen W, Huang Z. Effect of swallowing training on dysphagia and depression in postoperative tongue cancer patients. Eur J Oncol Nurs . December 2014;18(6):626-9.  doi:10.1016/j.ejon.2014.06.003. (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Krisciunas GP, Castellano K, McCulloch TM, et al. Impact of Compliance on Dysphagia Rehabilitation in Head and Neck Cancer Patients: Results from a Multi-center  Clinical Trial. Dysphagia . 2017;32:327-336.  doi:10.1007/s00455-016-9760-4.  (RCT)"
+        },
+        {
+            "number in article": 53,
+            "reference": "Starmer HM, Ayoub N, Byward C, et al. The impact of developing a speech and swallow rehab program: Improving patient satisfaction and multidisciplinary care. Laryngoscope . November 2017;127(11):2578-2581.  doi:10.1002/lary.26695. (R)"
+        }
+    ]
+}

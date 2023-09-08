@@ -1,0 +1,470 @@
+{
+    "metadata": {
+        "title": "Spina Bifida",
+        "synonyms": [
+            "myelomeningocele",
+            "meningomyelocele",
+            "meningocele",
+            "spinal dysraphism",
+            " rachischisis",
+            "dysraphism"
+        ],
+        "anatomical location body part affected": [
+            "Neural tube, majority of the time affecting the lumbar and sacral components of the spinal cord, nerve roots, and vertebrae; spina bifida (SB) can ultimately affect the entire body due to secondary impairments"
+        ],
+        "area of specialty": [
+            "pediatric orthopedic rehabilitation",
+            "neurologic rehabilitation"
+        ],
+        "description": [
+            "During embryonic development, the neural groove gradually deepens as the neural folds become elevated. The folds ultimately meet and coalesce in the midline, converting the neural groove into a closed tube known as the neural tube or neural canal. The neural tube is the embryo\u2019s precursor to the developing central nervous system (CNS), including the brain and spinal cord. In SB, there is incomplete closure of the vertebral arches surrounding the neural tube, exposing the developing spinal cord and nerves(42)",
+            "SB is a type of neural tube defect (NTD), also known as spinal dysraphism. NTDs are a group of serious birth defects that affect the developing nervous system and include SB, anencephaly, and encephalocele(6)",
+            "SB literally means \u201cspine split into two\u201d and is technically correct in describing any patient with an incomplete closure of the spinal column. The term SB is sometimes used nonspecifically in the literature with regard to all patients with NTDs. Epidemiologic studies of spinal dysraphism typically include both myelomeningocele (MMC) and meningocele (MC) collectively as SB. There is such a large degree of variation of anatomic malformations associated with such a condition and, therefore, more specific terminology is used(6)",
+            "In the United States, the incidence of SB is 3.4 per 10,000 live births(42)"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {
+            "Q05": {
+                "base": "spina bifida",
+                "Q05.0": "cervical spina bifida with hydrocephalus",
+                "Q05.1": "thoracic spina bifida with hydrocephalus",
+                "Q05.2": "lumbar spina bifida with hydrocephalus",
+                "Q05.3": "sacral spina bifida with hydrocephalus",
+                "Q05.4": "unspecified spina bifida with hydrocephalus",
+                "Q05.5": "cervical spina bifida without hydrocephalus",
+                "Q05.6": "thoracic spina bifida without hydrocephalus",
+                "Q05.7": "lumbar spina bifida without hydrocephalus",
+                "Q05.9": "spina bifida, unspecified"
+            },
+            "O35.0": "maternal care for (suspected) central nervous system malformation in fetus",
+            "Q76.0": "spina bifida occulta (ICD codes are provided for the reader\u2019s reference, not for billing purposes)"
+        },
+        "ICD-11": {},
+        "G-codes": {
+            "Mobility G-code set": {
+                "G8978": "Mobility: walking & moving around functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8979": "Mobility: walking & moving around functional limitation; projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8980": "Mobility: walking & moving around functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Changing & Maintaining Body Position G-code set": {
+                "G8981": "Changing & maintaining body position functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8982": "Changing & maintaining body position functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8983": "Changing & maintaining body position functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Carrying, Moving, & Handling Objects G-code set": {
+                "G8984": "Carrying, moving, & handling objects functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8985": "Carrying, moving, & handling objects functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8986": "Carrying, moving, & handling objects functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Self-Care G-code set": {
+                "G8987": "Self-care  functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8988": "Self-care  functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8989": "Self-care  functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Primary G-code set": {
+                "G8990": "Other physical or occupational primary functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8991": "Other physical or occupational primary functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8992": "Other physical or occupational primary functional limitation, discharge status, at discharge from therapy or to end reporting"
+            },
+            "Other PT/OT Subsequent G-code set": {
+                "G8993": "Other physical or occupational subsequent functional limitation, current status, at therapy episode outset and at reporting intervals",
+                "G8994": "Other physical or occupational subsequent functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting",
+                "G8995": "Other physical or occupational subsequent functional limitation, discharge status, at discharge from therapy or to end reporting"
+            }
+        },
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "No specific issues or information regarding reimbursement have been identified. In the U.S., patients may qualify for individual state-funded  therapy programs (birth-21)  through contracted therapy vendors and/or the school system. The qualifications are state specific"
+        ],
+        "presentation signs and symptoms": [
+            "There are three main classifications of SB",
+            "SB occulta \u2013Sometimes called \u201chidden spina bifida\u201dand the mildest form of SB(2) \u2013Typically spinal nerves are normal(2) \u2013There is no opening in the patient\u2019s back(2) \u2013Small defects can be seen in vertebrae visible upon x-ray(2) \u2013There is no protrusion of spinal cord through vertebrae(42) \u2013Individuals may develop mild neurologic decline, observed through slight sensory and/or motor impairment, later on during youth or even as an adult(2) \u2013An atypical collection of fat, a dimple, birthmark, or tuft of hair may be present on patient\u2019s back(3) \u2013May be diagnosed at any time during life; often missed at birth(2) \u2013Usually discovered on an x-ray  later in life when evaluating for a separate medical condition(3)",
+            "SB MC \u2013Is a rare form of SB(3) and refers to a protrusion of the meninges and cerebrospinal fluid (CSF) through a defect in the posterior elements of the spine into the tissue beneath the skin, without involvement of the functional neural elements(24) \u2013Typically no peripheral nerve or spinal cord damage(2) \u2013Patient may present with mild physical disabilities(2) \u2013Exacerbation of symptoms may occur as individual ages(2)",
+            "SBMMC \u2013Most severe type of SB; when individuals refer to SB they are usually speaking about this type(2) \u2013Spinal defect is present in conjunction with a cyst, comprised of meninges and cerebrospinal fluid, which protrudes through the defect in the posterior elements of the spine with involvement of the spinal cord or nerve roots(24) \u2013Risk of serious infections at birth due to nervous tissue exposure(3) \u2013Nerve damage is present(2) \u2013Severe disabilities including paralysis, incontinence, and seizures(3) \u2013Neurological impact above the site of the lesion is attributed to Arnold Chiari malformation and hydrocephalus. Impairments may be motor, cognitive, and perceptual in nature(4) \u2013A subgroup of MMC is known as hemimeningomyelocele(6) -Rare condition in which MMC and a split cord malformation (SCM) are seen -SCM \u2013 a \u201cspinal cord duplication\u201d -SCM type I \u2013 \u201cTwo hemicords, each contained within its own dural sheath, separated by a rigid osseocartilaginous median septum\u201d -SCM type II \u2013 \u201cTwo hemicords are housed in a single dural sheath with a nonrigid fibrous median septum\u201d -Just one hemicord is present in the MMC -Estimated 2\u20133%  of patients with SB have this type  -One lower extremity\u2019s function is intact while the other extremity is significantly compromised -Typically the patient is continent in the bladder -Severe scoliosis is present at birth leading to lateral trunk deviation, pelvic obliquity, elevated pelvis, and significant leg length discrepancy -In split cord malformations tethering of the spinal cord can occur and will be indicated by an increase in symptoms \u2013It is highly recommended that if MMC is identified, surgical management be performed in the perinatal period in order to prevent lethal complications from MMC(48)",
+            "The terms SB aperta and SB cystica can also be used to refer to both SB MC and SB MMC(24) \u2013SB cystica refers to a sac filled with cerebrospinal fluid protruding from the spinal column(24) \u2013SB aperta refers to a midline defect that communicates with the external environment(24)",
+            "Signs/symptoms of complications associated with SB vary greatly depending on the classification, level of the spinal defect, and severity of the condition \u2013Intellectual and cognitive disability(42) \u2013Hydrocephalus(24) -Approximately 15% of those with MMC are born with severe hydrocephalus and require immediate shunting -Presence of hydrocephalus correlates strongly with the level of the spinal defect. Thoracic lesions have a higher incidence than lumbar or cervical -Ventricular enlargement can occur prior to measurable change in head circumference -Delayed-onset  hydrocephalus can present with signs and symptoms of increased intracranial pressure (vomiting, headaches, irritability, somnolence) \u2013Seizures(24) \u2013Chiari malformation (also known as Arnold-Chiari malformation)(24) -Chiari II malformation is characterized by variable displacement of cerebellar tissue into the spinal canal, accompanied by caudal dislocation of the lower brainstem and fourth ventricle -Signs and symptoms -Intermittent obstructive or central apnea -Cyanosis -Bradycardia -Dysphagia -Nystagmus -Stridor -V ocal cord paralysis -Torticollis -Opisthotonos -Hypotonia -Upper extremity weakness -Spasticity -The combination of stridor, central apnea, and aspiration is also referred to as central ventilator dysfunction -Symptomatic Chiari II malformation is the leading cause of death for infants with MMC and operative mortality is relatively high (34% to 38%)(24) \u2013Other congenital anomalies associated with SB: congenital tumors, dermal sinus tract, neuroenteric cysts, diastematomyelia(46) -Hydromyelia: is the dilation of the center canal of the spinal cord and analogous to dilation of the ventricles in the brain(24) -It is very common in children with MMC. It is probably more common than reported because it is often asymptomatic. Symptoms may include: -increase in degree of scoliosis -spasticity -decreased strength or coordination of the upper or lower extremities  \u2013Tethered cord syndrome -Spinal cord can be fixed or \u201ctethered\u201d at one point, causing traction injury to the spinal cord. This can lead to progressive loss of urologic, neurologic, and musculoskeletal function. Tethered cord can develop as a result of adhesions and fibrosis between the intraspinal neural structures, the meninges, and the surrounding vertebral structures following MMC repair. Tethered cord often occurs at lower lumbar or sacral levels. Typical signs and symptoms are(24) -increased weakness -pain -worsening gait -scoliosis -new or worsening of musculoskeletal impairments -urologic dysfunction/sphincter disturbances -trophic ulcers \u2013Neurogenic bladder, often associated with recurrent urinary tract infections due to incomplete emptying of the bladder(24) -Urologic impairment is not correlated with the level of the lesion as in a traumatic spinal cord injury -More than 90% of infants with MMC will have a neurogenic bladder (partial or complete denervation of the bladder), associated with poor compliance and contractibility resulting in abnormal residual urine volume -Urethral sphincter is incompetent in 86% of individuals resulting in incontinence -Approximately one-third  of individuals with SB have detrusor-sphincter  dyssynergia, resulting in high intraluminal pressures -The external sphincter is typically partially functional -Aggressive urinary management during infancy can make a significant impact on the child\u2019s renal health and the ability to develop urinary continence -Hydronephrosis is found in 7% to 30% of infants and reflux occurs in ~20% of infants(24) \u2013Neurogenic bowel -Incontinence due to impaired rectal sensation, decreased internal anal sphincter tone (for those with lesion of L3 or greater), sphincter dysfunction, and altered colonic motility(24) -The presence of cutaneous or bulbocavernosus reflex has been associated with a greater likelihood of achieving bowel continence(24) -Severe chronic constipation(46) \u2013Musculoskeletal complications(24) -Only one-third  of individuals present with flaccid paralysis below the level of the lesion. Most have a combination of upper and lower motor neuron signs(24) -Many present with asymmetric motor and sensory impairments(24) -Decreased bone mineral density with potential for pathological fractures(17) -The hip joint is most often affected due to muscle imbalances at the hip accounting for most of the hip flexion deformity in addition to hip flexor spasticity and prolonged sitting in a wheelchair(24) -Hip subluxation develops due to muscle imbalances -Hip dislocation can occur congenitally or be acquired -Joint contractures at the hips, knees, or ankles(24) -Foot deformities are the most common and present in almost all children with SB -Foot deformities can be present from birth due to lack of intrauterine movement or muscle imbalance. They may also develop over time due to muscle imbalances and weight bearing forces -The most common foot deformities in children with SB are equinus, equinovarus, calcaneus cavus, and rocker bottom deformity(24) -Spinal deformities are more likely to occur in those with thoracic lesions (> 90% of patients with thoracic lesions develop scoliosis)(24) -Impaired gross motor skills and functional mobility, often requiring the need for assistive and adaptive devices \u2013Psychological and social issues(24) -Typically have lower IQ scores compared with typically developing peers  -Verbal IQ is generally greater than their performance IQ on the Wechsler Intelligence Scale for Children (WISC) -Often have more difficulty with math and visual perceptual skills -Children with thoracic lesions tend to have lower IQ scores than children with lumbar and sacral lesions -Tend to have better verbal skills than written skills -They are often described as having verbose but irrelevant conversations, often speaking off-topic and use many routine social phrases \u2013Lumbosacral cutaneous abnormalities, such as a tuft of hair, nevus, lipoma, abnormal blood vessels, dimple, or dermal sinus tract, may suggest the presence of SB but are not definitive signs of SB(46) -In a retrospective study of 54 children in France referred for congenital midline lumbosacral cutaneous lesions, 14 children were diagnosed with spinal dysraphism. Three children presented with one congenital midline lesion and 11 presented with two or more lesions(7) Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes": [
+            "SB occulta \u2013 The vertebral arch or arches do not fuse; the meninges and spinal cord are not negatively impacted.(5) Morecommon in males and younger patients(50)",
+            "SB cystica \u2013 The vertebral arch or arches, as well as the neural tube, do not close properly; the meninges alone or themeninges and the spinal cord project through the opening in the spine(5)",
+            "Lack of fusion (closure) is thought to be brought about by environmental (e.g., folic acid deficiency) and geneticelements(3)"
+        ],
+        "pathogenesis": [
+            "In the course of the first 4 weeks of pregnancy, the embryo\u2019s spine should fully close. In the case of a patient with SB, thisclosure does not occur in its entirety, leaving the spinal cord at risk for injury(8)",
+            "When the spinal cord and meninges are pushed through a defect in the spine, permanent nerve damage typically results(8)"
+        ],
+        "risk factors": [
+            "MMC, the most severe form of SB, occurs in ~ 1 in 1,500 births in the United States(9)\u2013In Brazil, the incidence of NTDs was 4.73 per 1,000 deliveries based on 18,807 deliveries in one Brazilian hospital duringthe period 1990\u20132000.  The incidence was 23.7 per 1,000 stillbirths and 4.16 per 1,000 live births(10)-Distribution: 47% diagnosed with MMC, 27% with anencephaly, 17% with encephalocele, 5.6% with meningocele, and3.4% combination(10)\u2013The incidence of NTDs was 6.57\u20138.21  per 1,000 deliveries in rural village clusters in India(43)",
+            "Maternal insulin-dependent  diabetes(2,3)",
+            "Prenatal exposure to some antiseizure medications (e.g., valproic acid)(1,2)",
+            "Prenatal exposure to antimalarial drugs during the first trimester may be associated with SB(11)\u2013Based on a case series, researchers reported 41 consecutive cases of SB seen over 44 months in one teaching hospital inNigeria in which all 41 mothers had ingested antimalarial drugs during the first trimester of pregnancy(11)",
+            "Maternal obesity(1,2)\u2013Based on a meta-analysis  of 12 studies, the risk of NTDs increased with increasing degree of obesity with an odds ratio of3.11 for NTDs in newborns of severely obese women(12)\u2013Higher maternal weight at 15\u201320  weeks\u2019 gestation was associated with a higher risk of open NTDs in a retrospectivecohort of 420,362 women in Ontario, Canada. Two hundred ninety-two  cases had open NTDs(12)",
+            "History of a prior delivery of offspring with an NTD increases risk(1,13)\u2013Based on a retrospective study of 271 mothers interviewed at a mean of 18 years after birth of a child with an NTD (SB oracephaly), there was a 4% overall recurrence rate. Previously, the reported recurrence rates were 3.0%\u20133.2%  in the UnitedStates and 2.2% in Alberta, Canada(13)",
+            "Higher body temperatures early on in pregnancy(2,3)",
+            "Exposure to chronic low-dose  radiation is associated with increased risk of NTDs(14)\u2013Based on a retrospective cohort study of 96,438 births in Rivne Province (area of Ukraine exposed to 1986 Chernobylnuclear power plant explosion) and in Polissa region (ongoing chronic low dose of radiation exposure due to highlycontaminated soil and food) compared to Europe during the period 2000\u20132006\u2013NTDs per 10,000 births: 22.2 overall vs. 9.43\u201315.34  in Europe based on European surveillance reports for the same years\u2013Twenty-seven  in Polissa vs. 18.3 in outside-Polissa regions",
+            "Lower socioeconomic status(2)",
+            "NTDs are seen more frequently in Hispanic women than in non-Hispanic women and in White women more frequently thanBlack women(1,2)",
+            "Greater number of female babies born with SB(1,2,3)",
+            "Vitamin B12 or maternal folic acid deficiency(3)\u2013Based on mid-level  evidence, retrospective analysis of three nested case-control  studies with baseline differences,researchers concluded that lower vitamin B12 levels during pregnancy may be associated with an increased risk ofNTDs(15)-Two hundred seventy-eight  pregnant women with a current or prior NTD-affected  pregnancy and 901 matched pregnantwomen in the control group had their blood levels of vitamin B12 measured at a median gestational age of 15 weeks-Mothers with fetuses that developed NTD had 13\u201319% lower vitamin B12 levels mothers with fetuses that did notdevelop an NTD. They also received little or no folic acid supplementation\u2013In the United States, the incidence of SB decreased from 1995 to 2002 based on an analysis of 11,078 births from 21states. This was during the period of transition to mandatory folic acid fortification(16)-Incidence of SB (per 10,000 births) decreased from 1995\u20131996  to 1998\u20132002  from 6.49 to 4.18 in Hispanic patients,from 5.13 to 3.37 in non-Hispanic Caucasian patients, and from 3.57 to 2.9 in non-Hispanic  African Americanpatients(16)-The incidence (per 10,000 births) further decreased in non-Hispanic  African American patients from 2.17 pre-2000to 1.74 in 2003\u20132005.  During this period, the incidence remained nearly constant for non-Hispanic  Caucasians andHispanics(16)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "There is a very high risk of latex sensitivity in individuals with SB(18) The incidence of latex allergy in the general population is estimated to be less than 2%; however, the prevalence among children with MMC ranges from 20% to 65%(24) An individual\u2019s response can vary from mild (e.g., watery eyes) to life-threatening  (anaphylaxis) symptoms It is widely recommended to avoid all products constructed with latex in this population Examples of products/strategies: Latex-free  wheel-chair  seat cushions, gloves can be worn when propelling w/c to avoid latex exposure from tire, and the use of weighted toys instead of Theraband",
+        "Shunt malfunction (observe for some of the potential signs and symptoms listed below) Swelling along the site of the shunt(5) Irritability(5) Bulging fontanels (soft spot) in infant(5) Headaches(2) Nausea(2) V omiting(2) Seizures(2) Change in intellect, performance, or personality(2)",
+        "The child\u2019s hips should not be ranged beyond neutral (adduction) as hip dislocations are common in this population(5)",
+        "Please also see Complications of SB , above",
+        "See specific  Contraindications/precautions   under Assessment/Plan of Care "
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": " Mechanism of injury or etiology of illness -What is the nature of current reason for evaluation? -What type of SB does the child/adult have? When was the individual diagnosed? -What is the lesion level? The level of neurologic impairment guides healthcare professionals\u2019 expectations for functional outcome, as well as future musculoskeletal deformities(24) -Does the patient have a shunt? If so, any complications? -Is the patient followed by physicians other than a neurologist and general practitioner?",
+                "course of treatment": {
+                    "medical management": " Medical management The infant will undergo surgical closure of the defect and to prevent infection soon after birth. Early closure (within 72neural plaque is returned to the canal, and the dura and arachnoid are reconstructed; a myofascial closure over the newly constructed neural tube is performed; and the skin is finally closed(24) Hydrocephalus often develops following repair of the open defect and some medical centers advocate simultaneously performing a ventriculoperitoneal (VP) shunt procedure(24) Some physicians have begun to repair the impacted site on the fetus during pregnancy(5) It is estimated that more than 400 fetuses worldwide have undergone in utero closure of MMC by open maternal-fetal surgery(24) Results from a U.S. randomized trial indicate that prenatal surgery for MMC can reduce the need for shunt replacement compared to postnatal repair(19) One hundred eighty-three  women whose fetuses had MMC were randomized to prenatal surgery before 26 weeks\u2019 gestation vs. standard postnatal repair Trial terminated early before recruitment of 200 planned patients after preplanned interim analysis demonstrated efficacy of prenatal surgery At the 12-month  follow-up,  158 women had participated in the survey. Results indicated better outcomes in all areas (necessity for shunt placement, respiratory distress development, hindbrain herniation, mortality rate) for those babies that underwent prenatal surgery vs. postnatal repair A shunt may be placed for the management of hydrocephalus due to associated Arnold-Chiari malformation(24) Surgical correction should be considered as early as possible to repair tethered cord syndrome to have the best possible outcomes. Delayed correction can result in irreversible loss of function(24) Data collected from 2,172 patients from ten specialized SB clinics participating in the U.S. National Spina Bifida Patient Registry (NSBPR) study indicate that a ventricular shunt was the most common surgery (65.7%)(45)",
+                    "surgical management": [],
+                    "medications": "Determine what medications physician has prescribed; are they being taken?",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed:  SB can be diagnosed during a woman\u2019s second trimester of pregnancy.(42) Blood tests,",
+                        "ultrasound, and/or amniocentesis may be utilized.(3) Xray  (performed for other reasons later in life) may identify vertebral defects indicative of SB occulta"
+                    ],
+                    "alternative therapies": "Document any use of home remedies (e.g., ice or heating pack) or alternative therapies (e.g., acupuncture) and whether they help any of the patient\u2019s symptoms or not",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": " Document any noted aggravating or easing factors",
+                "body chart": "Use body chart to document location and nature of symptoms ",
+                "nature of symptoms": "Document nature of symptoms. An estimated 3050%  of individuals with SB who have paraplegia experience shoulder pain. This is crucial as significant pain can lead to lost function(20)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much) -A U.S. study assessing pain frequency, duration, location, and intensity in children with SB found(21) -fifty-six  percent of children had pain at least 1x/week -ambulation abilities and level of lesion were not associated with certain types or locations of pain -younger children\u2019s pain was considerably underrated by their parents -the majority of children with pain were not being treated for their discomfort",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings/night",
+                "other symptoms": "Document other symptoms that could be indicative of a need to refer to a physician. Does the child have bowel and bladder control? Is the child catheterized for bladder function?(45)",
+                "respiratory status": "Is there any respiratory compromise present? Barriers to learning -Are there any barriers to learning? Yes__ No__ -If Yes, describe _________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": " Previous history Has the patient undergone any surgical procedures? Shunt placement? Shunt revisions? Recent hospital admissions? Infections?",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including overthe-counter  drugs)",
+                    "other symptoms": "Ask patient about other symptoms he or she may be experiencing"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports? Does the patient work or attend school?",
+                "functional limitations assistance with ADLs adaptive equipment": " Functional limitations/assistance with ADLs/adaptive equipment -What is the patient\u2019s primary mode of mobility within the home and community? -Does the child attend school? If so, what grade? What is the child\u2019s primary mode of mobility at school and within the classroom? -What is the patient\u2019s level of assistance for ADLs? -How does the patient manage bowel and bladder function? Independence with toileting in children is delayed more than all other self-care  tasks, regardless of intelligence. Most children achieve independent control of bowel and bladder function by 4 years of age, although some might not achieve this goal until 10 to 15 years of age due to the level of paralysis, intelligence, impaired visuospatial skills, kyphoscoliosis, parental support, sensation, sphincter control, and bladder perception. Children can be taught to perform clean intermittent catheterization as early as 5 years of age(24) -Does the family feel they have necessary support in place to assist with the patient? -Is the older patient living independently? Does the patient work? If so, describe the job duties. How does the patient access the community (drive, public transportation, car rides)?",
+                "living environment": "Number of floors within the home and number of stairs to enter the home? With whom does patient live (e.g., siblings, caregivers)? Identify if there are barriers to independence in the home; any modifications necessary? Complete a home assessment as indicated"
+            }
+        },
+        "relevant tests and measures": {
+            "general": " \u203aRelevant tests and measures (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting): ",
+            "anthropometric characteristics": " Anthropometric characteristics \u2013Assess for a leg length discrepancy. If present, is it functional or a true leg length discrepancy? Document patient\u2019s height, weight, and body mass index (BMI) and compare to age and gender normative data",
+            "assistive and adaptive devices": " Assistive and adaptive devices \u2013What equipment is currently used? \u2013Is equipment appropriate in fit? Is it in need of repair? \u2013Has the child\u2019s growth necessitated height adjustments on equipment?",
+            "balance": " Balance \u2013Assess static and dynamic balance reactions, protective extension, and righting reactions in sitting and standing \u2013The Pediatric Balance Scale (PBS), the balance section of the Peabody Developmental Motor Scales, Second Edition (PDMS-2), or the Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)  can be used \u2013If available, use a Balance System to quantify a patient\u2019s balance impairments -Researchers in Sweden conducted a controlled study involving 15 children with MMC (and 20 typically developing peers) to determine if seated postural sway differences could be measured using a force plate. The study found significant differences during frequency analysis of the horizontal ground reaction force between the two groups. The authors concluded that this method of objective measurement can detect variations from normal that cannot be picked up on by visual observation alone(22)",
+            "cardiorespiratory function and endurance": [
+                "Document vital signs and include the Dyspnea Scale or Borg Rating of Perceived Exertion (RPE) Scale for fatigue level. Consider using the Wheelchair Perceived Exertion Scale (WHEEL SCALE) as an alternative to the Borg RPE Scale. The WHEEL SCALE was developed to assess RPE for individuals with impaired lower extremities with mild cognitive or perceptual impairments(41)",
+                "Note distance patient is able to ambulate or propel w/c prior to fatigue. The 6-minute  walk for distance test (6MWT) can be used"
+            ],
+            "circulation": " Circulation \u2013Assess bilateral radial and pedal pulses \u2013Authors of a small controlled Dutch study of individuals with SB and acquired spinal cord injuries (SCIs) reported that vascular properties, including decreased blood flow, small diameter, and high shear stress, were present in SB and SCI groups (more significant differences were noted in the SB group when compared to the control subjects). This study demonstrated that individuals with SB may have abnormalities in their vascular system and these differences may be even greater than what is observed in individuals with acquired SCI(23) Coordination \u2013Researchers in Sweden conducted a controlled study to assess individuals\u2019 ability to program and execute reaching movements. Results of the study indicate that precision and coordination during the task of reaching are the most challenging elements of reaching for these individuals to control(4) \u2013Use the BOT-2  bilateral coordination subscale for children aged 4 to 14 years Cranial/peripheral nerve integrity \u2013Assess bilateral upper and lower extremity myotomes and note any asymmetries Functional mobility  (including transfers, etc.) \u2013Assess basic functional mobility such as sit to stand, stand pivot transfers, stair negotiation, and bed mobility. If patient is not independent, assess caregivers independence with assisted functional mobility skills and note any ergonomic concerns",
+            "functional mobility": "",
+            "gait locomotion": " Gait/locomotion \u2013Complete a gait evaluation as indicated. Note the use of assistive devices. Note any gait abnormalities or asymmetries \u2013It is important to note that hip flexion contracture \u2265 20\u00b0 will impede gait(24) Joint integrity and mobility \u2013Assess bilateral upper and lower extremities for joint mobility, noting any asymmetry or abnormality  \u2013Joint contractures can develop at the hips, knees, or ankles. Hip flexor contractures are most common. At the knee, flexion or extension contractures can develop(24) -A patient may still be able to ambulate with \u2264 20\u00b0 knee flexion contracturescongenital or acquired. Acquired hip dislocations can occur as a result of unopposed hip flexor and adductor muscle strength or tone \u2013The posterior glenohumeral joint capsule is often found to be shortened in patients who primarily utilize w/c\u2019s(20) \u2013The most common foot deformities in children with SB are equinus, equinovarus, calcaneus cavus, and rocker bottom deformity(24) \u2013Assess for any joint contractures; hip flexor contractures are common(24) Motor function (motor control/tone/learning) and neuromotor development \u2013Assess child\u2019s ability to move through the developmental sequence as able and appropriate(5)(5) -Alberta Infant Motor Scale (AIMS); can be implemented up to 18 months -PDMS-2;  can be used from birth to age 6 years to assess development -Bayley Scales of Infant Development, Third Edition is a comprehensive assessment tool and can be used up to 42 months of age -BOT-2;  standardized for ages 4\u201314  years",
+            "muscle strength": " Muscle strength \u2013Manual muscle test (MMT) for bilateral upper and lower extremities and trunk should be formally tested and charted as indicated. MMT can determine the level of the lesion based on specific charts(5) \u2013In small children, strength can be assessed through mobility or spontaneous movement(6) \u2013The strength of certain key muscles has a tremendous impact on the potential for independent ambulation. Those muscles include iliopsoas, gluteus medius, gluteus maximus, quadriceps, medial hamstring, and anterior tibialis(13)",
+            "observation inspection palpation including skin assessment": [
+                "Assess tone throughout trunk and extremities",
+                "Note the presence of any skin ulcers or pressure sores. If present, note location, size, color, and odor. Patients with SB are at an increased risk for poor wound healing and the development of pressure ulcers secondary to decreased circulation and lack of sensation(23) \u2022Perception  (e.g., visual field, spatial relations)",
+                "Standardized tests should be implemented as indicated and appropriate to assess perception; examples include(8) -Beery-Buktenica  Developmental Test of Visual-Motor Integration (Beery-VMI) -Motor-Free  Visual Perception Test-3  (MVPT-3) -Test of Visual Perceptual Skills, Non-Motor,  Revised (TVPS-[n-m]-R)"
+            ],
+            "posture": " Posture \u2013Assess posture in sitting and standing as indicated, with and without braces \u2013Eighty-five  percent of children with MMC will develop foot deformities(24) \u2013Hip flexion contractures can cause anterior pelvic tilt causing increased lumbar lordosis(24) \u2013Common spinal postures include scoliosis, kyphosis, and excessive lordosis. Scoliosis is a typical comorbidity with thoracic lesions(24) \u2013Fifty percent of children with MMC will experience a subluxed or dislocated hip.(24) Test for developmental hip dysplasia with the Galeazzi sign, Ortolani or Barlow maneuvers",
+            "range of motion": " Range of motion \u2013Assess active and passive ROM for upper and lower extremities \u2013Individuals who utilize w/c\u2019s as their primary method of locomotion typically develop tightness in the pectoralis, biceps, and trapezius muscle groups(20) \u2013Hip dislocation is often associated with a hip adduction contractures(24) \u2013Approximately 70% of children will develop a knee flexion contracture by age 8 (with a lesion of L3 or above)(24)",
+            "self-care activities of daily living": " Self-care/activities  of daily living \u2013In a Dutch study measuring functional independence in young adults with SB, results indicated that the majority of patients without hydrocephalus were independent in all categories on the FIM assessment tool with the exclusion of sphincter control. For 165 individuals with SB and hydrocephalus, assistance requirements were correlated to the level of the lesion. The higher the lesion (L2 or above) the greater the requirement for assistance according to the FIM(25) \u2013Based on retrospective review of 24 South Korean children with MMC who underwent intravesical electrical stimulation (a medical intervention where a transurethral electro-catheter  is inserted into the bladder) for neurogenic bladder, researchers concluded there was a significant improvement in bowel and bladder continence(26) \u2013Researchers in the U.S. conducted a cross-sectional  study of individuals with SB and concluded that bowel and bladder incontinence was associated with SB aperta, hydrocephalus, and a lesion level of L5 or above. Furthermore, the majority of subjects in the study reported increased social-emotional feelings of having bowel and bladder incontinence(27)",
+            "reflex testing": " Reflex testing \u2013Assess bilateral deep tendon reflexes for ankle, knee, and elbow  \u2013Assess for the presence of primitive reflexes such as Babinski, asymmetric tonic neck reflex(5)",
+            "sensory testing": " Sensory testing \u2013Assess bilateral upper and lower extremity dermatomes, as well as sharp-dull  and light touch(5)",
+            "special tests specific to diagnosis": "",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": " Arousal, attention, cognition (including memory, problem solving) \u2013Is the child alert and oriented X 4? Does the patient make good eye contact? \u2013Can the child/adult follow commands? How many steps? Is the patient able to focus and attend to task? Does the patient need frequent redirection to complete a task? \u2013Use the Neonatal Behavioral Assessment Scale for newborns(5)",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall prevention strategies. Discharge criteria should include independence with fall prevention strategies",
+                "Clinicians should follow the guidelines of their clinic/hospital and what the patient\u2019s physician orders. The summary listed below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols"
+            ]
+        },
+        "diagnosis need for treatment": "Physical therapy is critical for a child born with SB. The facets of intervention are many and include the prevention of deformity, maximizing strength and functional independent mobility, and patient and caregiver education. Treatment intervention will vary depending on the patient\u2019s age and level of lesion. Treatment intervention is often long term, but with periods of no intervention depending on the patient\u2019s functional levels, surgical intervention, and/or new injuries that may arise",
+        "rule out": "",
+        "prognosis": [
+            "Almost all children with SB are able to achieve some degree of independent mobility. Ambulation can become highly inefficient and time-consuming;  however, it is a goal that is desired to be achieved. Many teenagers and young adults will choose wheelchair mobility when given the opportunity due to high energy cost that ambulation demands. The ability for a child to become ambulatory and maintain ambulatory function is multifactorial. It is determined by the level of the lesion, cognitive ability, motivation, musculoskeletal complications, growth, age, and BMI(24) \u2013Most patients with lumbar lesions will achieve some level of ambulation but lose this skill as they enter growth spurts and adolescence(24)",
+            "Based on a retrospective cohort study of 5,165 infants with SB born between 1979 and 2003 in the United States, there has been an overall improved survival rate \u2013From 88% to 96% in Whites, 79% to 88% in Blacks, and 88% to 93% in Hispanics(28)",
+            "Two main determinants of outcome in a patient with SB are the level of the lesion and if the patient has hydrocephalus(25,28) \u2013The higher the level of the lesion, the more impairments and functional limitations an individual will have(9,25) \u2013Based on a U.S. retrospective study of 36 children diagnosed with SB at a mean age of 27 weeks\u2019 gestation and then assessed at a mean age of 3.2 years(29) -An increasing degree of cerebellar herniation on MRI was found to be associated with an increased risk of childhood seizures, high-risk  bladder dysfunction, and inability to ambulate independently(29)",
+            "Infants who have perineal sensation may have a better prognosis than patients without it in cases of open SB(30) \u2013Based on a U.K. prospective cohort study of 117 patients with open SB whose backs were closed nonselectively at birth between 1963 and 1971  \u2013Twenty-eight  percent of the individuals had perineal sensation (within 2 days of birth) defined as \u201cintact sensation to pinprick in at least one dermatome on one side in the saddle area (S2-4)\u201d \u2013Results when comparing infants with perineal sensation vs. without -70% vs. 32% of individuals survived -0 vs. 23% died from renal causes -43% vs. 4% of survivors had bladder continence -78% vs. 33% of survivors had bowel continence -48% vs. 19% survivors were able to walk a minimum of 50 meters",
+            "Sensation present over a greater proportion of the body at birth is associated with improved mobility and reduced need for daily care in adulthood in patients with open SB(31) \u2013Based on a prospective cohort study in the U.K. of 117 consecutive patients with open SB and surgical repair within 48 hours of birth who were then followed for up to 43 years. Sixty-one  percent of those who participated had a sensory level of L3 at birth and 17% had a sensory level of T1 at birth \u2013Researchers reported at a mean of 40 years follow-up -Sensation beginning at a higher level was associated with an increased ability to walk and reduced the need for daily care. Comparing sensory level L3 vs. T1: 61% were able to walk vs. 0% and the need for daily care was 22% vs. 71% -No significant associations between sensation level and ability to live independently, to drive a car, or to be employed -Those individuals who did not have a shunt or those with a shunt but without a revision were associated with an increased ability to walk, live independently, drive a car, and not require daily care compared to those who underwent shunt revisions",
+            "Swedish researchers conducted a study to determine the effects of MMC on health-related  quality of life (HRQOL)(38) \u2013Child Health Questionnaire-50,  Parent Form (CHQ-PF50)  was completed by the parents of 62 children, as well as a physical examination of the lower extremities and review of medical history \u2013Nonambulatory children with MMC had significantly more frequent spasticity in the lower extremities, joint contractures, hip dislocation, or spinal deformities compared to ambulatory children with MMC \u2013Thirty-two  percent of the ambulators managed without wheelchair use \u2013All nonambulators were wheelchair users, of which 60% used both a manual and a powered wheelchair \u2013Children with SB reported lower HRQol on all subscales of the CHQ-PF50  compared with a control group of children without medical issues \u2013Physical function was significantly higher in ambulatory children with MMC compared with nonambulatory children with MMC",
+            "Due to medical advances in the management of SB, the number of adults living with SB has increased dramatically over the past decades. Seventy-five  percent to 85% of individuals with SB survive into early adulthood.(24) Young adults with SB have a multitude of health issues requiring collaborative care within their healthcare team(40) \u2013Results from a 2010 systematic review suggest that adults with SB report health concerns stemming from the long-term effects of hydrocephalus, neuromuscular weakness, neurogenic bowel and bladder, and musculoskeletal disorders(39) \u2013Young adults with SB report difficulties with full community participation, as evidenced by poor rates of employment and independent living and by limited peer relationships(40) \u2013Several studies have observed significant differences in QOL scores between young adults with SB and their typically developing peers(40) \u2013Individuals who develop chronic pain are at even greater risk of reporting significantly lower QOL scores(40) \u2013Up to 10% of adults with VP shunts develop chronic idiopathic headaches(24)",
+            "Maternal fetal MMC surgery is associated with improved functional outcomes in infants with SB MMC(49) \u2013Authors collected information from 42 patients who underwent fetal MMC surgery \u2013At 10-years  follow-up,  79% (n = 33) of the patients were community ambulators, 9% (n = 3) were household ambulators, and 14% (n = 6) were wheelchair dependent \u2013Only 26% had normal bladder function \u2013Children who underwent fetal MMC surgery had deficits in executive function in three Behavior Rating Inventory of Executive Function (BRIEF) indices compared with population norms "
+        ],
+        "referral to other disciplines": " Referral to other disciplines \u2013Capsulotomy or soft tissue release may be necessary in a patient with high lesion level who presents with chronic seating malalignments(24) \u2013Patients older than age 10 with a low level lesion may present with deteriorating ambulation and require a subtrochanteric extension osteotomy(24) \u2013A radical hip release may be indicated in patients with hip flexion, abduction, and external rotation contractures(24) \u2013*Note: efficacy was not reported on the above described procedures Authors of a small prospective study of 12 Italian patients with SB found that a lower disability score (increased independence) was associated with increased psychological suffering; the patients who were independent with mobility but had urologic dysfunction required more psychological support than patients with more severe disabilities(32) Refer to occupational or speech therapy as indicated Referral to pain management team(24) Referral to social work, counselor, or psychiatry as indicated for patient and/or caregivers \u2013U.S. researchers conducted a study to assess HRQOL in 159 individuals aged 5 to 20 years with SB (125 with MMC, 25 with lipomyelomeningocele, and 9 with other dysraphisms). Patients with MMC had significantly lower overall HRQOL scores than patients with closed spinal dysraphism. Younger patients with MMC had overall higher HRQOL scores. Those with impaired bowel continence had lower overall HRQOL(47)",
+        "other considerations": [],
+        "treatment summary": [
+            "Therapeutic exercises \u2013In a U.S. noncomparative study of six children (three had MMC) who underwent circuit training for 8 weeks to improve w/c propulsion, statistically significant improvements were found in muscle strength testing and the 12-minute  distance testing. There was not a significant improvement seen in the 50 meter test(33) \u2013Authors of a U.S. controlled clinical trial assessing an 8-week  upper body exercise program in patients with SCI and SB who had shoulder pain found the intervention reduced pain and improved satisfaction and function in these individuals(20) -Forty-one  subjects who were primary manual wheelchair users participated in the study -Subjects in the intervention group were instructed in a home exercise program consisting of stretching and strengthening exercises for the shoulder girdle -Subjects in the control group who reported no pain and did not present with shoulder impingement symptoms received no intervention -Strengthening was focused on the serratus anterior, middle and lower trapezius, and rotator cuff -Stretching was primarily to the upper trapezius, pectoralis muscles, and posterior capsule -Subjects in the intervention group had significant improvement in reported pain (Wheelchair User\u2019s Shoulder Pain Index) and function (Shoulder Rating Questionnaire) following the 8-week  program. There was no change in the control group \u2013An intensive progressive resistance exercise (PRE) program can improve gait, endurance, and lower extremity strength individuals with SB(51) -Based on an 8-week  case study of a 14-year-old adolescent with MMC -Intervention consisted of exercises that targeted the \u201cpower-  generating\u201d and stabilizing muscles of the lower extremity, as well as a cardiopulmonary endurance training program",
+            "Functional training \u2013U.S. researchers conducted a controlled study to assess body-weight-supported  treadmill stepping in infants with SB compared with a control group of 12 infants with typical development(34) -Infants were tested on the treadmill at age 1, 3, 6, 9, and 12 months with no treadmill training between test sessions. Infants were supported on the treadmill for twelve 20-second  trials with digital camera analysis -Results indicated that as time passed (first year of life) infants with SB were observed taking less steps than the control group. Responsiveness was affected by the lesion level but varied markedly among infants. Infants responded greater to a moving treadmill than a nonmoving treadmill -The authors concluded that early body-weight-supported  treadmill stepping has the potential to foster ambulation earlier in infants\u2019 development and assist in counteracting the motor delay that appears to be present from very early on  \u2013Authors of a study conducted in the U.S. have found positive benefits to the use of an in-home  body weight support system in order to improve functional mobility and ambulation in a child with SB(52) -Based on a 10-week  study of a 5-year-old  boy with SB. The child used the device for 2.7 days/ week for up to 67 minutes/ day while participating in self-selected activities",
+            "Orthoses \u2013General recommended criteria for implementation of reciprocating gait orthosis (RGO) in the literature(35) -Lumbar level lesion -Access to treatment center -Parental collaboration -Symmetric motor function and upper extremity strength -Lean body mass -Absence of mental retardation -Mild lower extremity contractures -Mild scoliosis \u2013In a study of 70 Israeli children with MMC at level L3 or above(35) -Seventy percent of children were successful and prescribed their own RGO -Neurological level and parental cooperation were significant factors in predicting success with a RGO -Researchers recommended \u201cpre-prescription\u201d  trial to avoid financial waste as many kids are not successful with RGOs even though they meet the general recommended and vastly accepted criteria. Children who may not meet the generally accepted inclusion criteria are provided a trial with the device (as indicated and appropriate) to allow for potential success -The duration of ambulation with the RGO was positively correlated to ease of access to a treatment center",
+            "Alternative interventions \u2013Authors of a U.S. case series explored the impact w/c dancing had on children with MMC. Four subjective social-emotional findings were noted(36) -\u201cUnconditional Acceptance\u201d \u2013 described as a \u201cbond,\u201d \u201csense of belonging,\u201d and \u201cacceptance\u201d from other children who could relate to them -\u201cA dream come true\u201d \u2013 reportedly the children experienced their bodies in a \u201cjoy filled and skillful manner\u201d -\u201cBeyond the W/C\u201d \u2013 the w/c was used in a creative manner and the children described a feeling of freedom -\u201cA stronger self\u201d \u2013 children found themselves in positions of leadership and developed new skills . Problem Goal Intervention Expected Progression Home Program  Pain Reduce/eliminate pain Therapeutic strategies _ Manage contractures and other musculoskeletal deformities as indicated and appropriate; refer to an orthotist as indicated _ _ Implement proper w/ c seating system with pressure-relieving cushion _ _ Implement position changing schedule as indicated _ _ Refer back to physician for further pain management as indicatedN/A Recommend strategies for the home which assist in pain management  Reduced ROM/ contractures _ _ Musculoskeletal deformities, hip subluxation/dislocationImprove ROM/prevent contractures as able _ _ Prevent/manage deformity as indicatedPrescription, application of devices and equipment _ The child\u2019s hips should not be ranged beyond neutral (adduction) as hip dislocations are frequent in this population(5) _ _ Therapeutic exercise _ Initiate a ROM and stretching program as indicated _ _ Positioning _ Change position often; prone is a great position to stretch out tight hip flexors or for general maintenance of hip ROM _ _ (See Treatment summary , above)Progress each unique patient as appropriate and indicatedImplement a home program as indicated which addresses ROM and potential for contractures Muscle imbalance and reduced muscle strengthImprove strength and muscle balance as ableTherapeutic exercise _ Prescribe a progressive exercise program as indicated and appropriate _ _ In the younger population strengthening can be accomplished through function or purposeful play _ _ _ _ (See Treatment summary , above)Progress each unique patient as appropriate and indicatedImplement a home program as indicated which addresses reduced muscle strength  Atypical muscle tone Normalize muscle tone as ableTherapeutic interventions _ Implement therapeutic strategies to assist in normalizing muscle tone (e.g., slow rocking to reduce spasticity)N/A Implement a home program as indicated which addresses atypical muscle tone Impaired balance reactionsImprove balance reactionsBalance training _ Challenge balance reactions in sit and stance as indicated and appropriate _ _Progress each unique patient as appropriate and indicatedImplement a home program as indicated which assists in maintaining achieved gains in balance Decreased sensation and overall position sense _ _ Skin breakdownIncrease patient/parent/ caregiver knowledge on potential complications associated with impaired sensation _ _ Prevent skin breakdownTherapeutic interventions _ Implement visual, tactile, and auditory stimulation in a modulated fashion(6) _ _ Integumentary repair and protection techniques _ Children with MMC should be taught how to inspect and care for their skin in an effort to prevent skin breakdownImproved awareness of sense of selfSkin checks should be part of the home program. Patient and primary caregiver should be instructed and demonstrate independence with this aspect of the home program  Reduced mobility, impaired gait, inability to ambulateMaximize functional mobility and gait as ableFunctional training _ Move the child through the developmental sequence as able; provide necessary equipment _ _ Prescription, application of devices and equipment _ (Examples of assistive and adaptive devices a clinician may utilize are listed below) _ _ Shoe lifts are indicated in the treatment of patients with hemimeningomyelocele(6) _ _ _ _Implement gait training as indicated and appropriateImplement a home program to facilitate improving gait. Primary caregiver should be properly instructed for gait training assistance Decreased endurance Improve endurance Therapeutic exercise _ Implement endurance training as indicated and appropriate (e.g., swimming, walking, upper extremity ergometer)Progress each unique patient as appropriate and indicatedImplement a program for home which addresses impaired endurance ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "desired outcomes  outcome measures": [
+            "Reduced/eliminated pain\u2013V AS, Oucher scale, Wong-Baker  FACES scale",
+            "Improved ROM\u2013ROM goniometry, PROM/ AROM",
+            "Improved strength\u2013MMT",
+            "Prevented/managed deformity and contracture",
+            "Improved endurance\u2013Dyspnea scale, Borg Rate of Perceived Exertion\u20136MWT\u2013WHEEL SCALE",
+            "Prevented skin breakdown",
+            "Improved coordination\u2013Alberta Infant Motor Scale (AIMS)\u2013Bayley Scales of Infant Development, Third Edition (BSID-III)\u2013Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)\u2013Motor-Free  Visual Perception Test-3  (MVPT-3)(6)\u2013Test of Visual Perceptual Skills, Non-Motor,  Revised (TVPS-[n-m]-R)(6)\u2013Beery-Buktenica  Developmental Test of Visual-Motor Integration (Beery-VMI)(6)",
+            "Improved mobility/gait\u2013FIM or WeeFIM\u20136MWT",
+            "Normalized muscle tone as able",
+            "Improved balance reactions\u2013Peabody Developmental Motor Scales, Second Edition (PDMS-2)\u2013Bruininks-Oseretsky  Test of Motor Proficiency, Second Edition (BOT-2)"
+        ]
+    },
+    "maintenance or prevention": [
+        "Folic acid supplementation recommendations The American Academy of Pediatrics supports U.S. Public Health Service, American College of Medical Genetics, and American College of Obstetricians and Gynecologists recommendations: \u2013All women planning or capable of becoming pregnant ingest 400mcg of folic acid/day to prevent NTDs. This may be in the form of a multivitamin, fortified foods, or a combination. This is particularly important prior to conception and during the first trimester(1) \u2013Women who have previously had a NTD-affected  pregnancy, who were themselves diagnosed with an NTD, have a first- or second-degree  relative with an NTD, or who have diabetes mellitus, type 1 (DM1) may be advised to take 4mg starting 3 months prior to conception, if planning to conceive and continuing throughout the first trimester. Genetic counseling is advised to determine their occurrence or recurrence risks, pregnancy management, and the appropriate folic acid intake. The U.S. Centers for Disease Control and Prevention (CDC) recommends increasing intake of folic acid to 4mg/day beginning at least 1 month prior to conception and continuing through the first trimester(1) -Based on a Cochrane systematic review of five randomized and quasi-randomized  trials evaluating daily periconceptual folic acid supplements with or without other vitamins and minerals in 6,105 women(44) -Compared to placebo/control, daily periconceptual folic acid supplementation through 12 weeks\u2019 gestation was associated with a significant reduction in overall NTDs and NTDs in women with a previous history of NTD-affected pregnancy(44) The Society of Obstetricians and Gynecologists in Canada issued its practice guidelines(1) \u2013Education for all women of reproductive age about the importance of folic acid supplementation \u2013Women of reproductive age should maintain a healthy diet \u2013Consumption of a daily, recommended multivitamin \u20135mg of folic acid ingested to not only prevent recurrence of NTDs but also cleft lip/palate, heart defects, limb defects, urinary tract abnormalities, and hydrocephalus \u20135mg of folic acid will not mask vitamin B12 deficiency \u2013Primary prevention could be accomplished with: 1-4 mg/day of folic acid from supplements and/or fortified food or 5mg for high-risk  groups In 1998, the United States, Canada, and several other countries instituted folic acid fortification of foods, with the U.S. policy of fortifying enriched grain products with 140mcg/100g of folic acid as a mandate(1) \u2013This was implemented because nearly half of all pregnancies are unplanned and because folic acid supplementation compliance has been found to be fairly poor in various published studies(1) \u2013As of 2011, Finland did not permit folic acid fortification of food, citing as the reason the need to determine possible risks of fortification(1) -The main risk of increased folic acid is the masking of megaloblastic anemia caused by a vitamin B12 deficiency. This is generally not an issue for women of reproductive age but rather for women > 65 years of age(1) Folic acid fortification is associated with a reduction in incidence of NTDs based on observational studies in Canada(37) \u2013Food fortification with folic acid was mandated in Canada in 1998  \u2013Incidence of NTDs per 1,000 births decreased from 1.58 prior to fortification to 0.86 during full-fortification  period. This was based on a national study of 1,909,741 births from seven Canadian provinces during the period 1993\u20132002 \u2013American College of Medical Genetics states there is no evidence to support increasing fortification of foods with folic acid greater than the current levels since studies have produced conflicting or inconclusive results about the risks and benefits of increasing fortification of foods(1) Prenatal screening allows for the diagnosis of the majority of cases of MMC before birth(24) \u2013Recommendations for initial screening of pregnant women (maternal serum alpha-fetoprotein  and acetylcholinesterase levels) at 15\u201320  weeks postconception who are at high risk include maternal age > 35 years or prior if mother has a history of NTD-affected  pregnancy, positive family history, or known exposure to teratogenic agents. Based on these results, a patient-specific  risk can be calculated and repeat testing of serum levels as indicated(24) \u2013Routine second trimester high-resolution  ultrasound has a 95% sensitivity rate. However, if the images are of poor quality due to maternal obesity or other factors, amniocentesis can be performed to obtain amniotic fluid alpha-fetoprotein  and acetylcholinesterase levels at 14\u201318  weeks postconception(24) \u2013Prenatal detection of SB is important to educate the patient and family regarding the diagnosis and management options. Genetic counseling should also be provided. Early detection allows for the medical team to prepare for a safe delivery in a medical center that can perform surgical repair to the neonate(24) It is important for individuals with SB to be transitioned to a multidisciplinary adult healthcare team that is capable of managing adults with SB. Some patients may choose to be followed by their pediatric providers into adulthood if there is not an appropriate adult care team in their vicinity(24) \u2013Adults with SB remain at risk of developing neurologic complications such as VP shunt infections and malfunctions, syringomyelia, and symptomatic type II Chiari malformation \u2013Ideally, adolescents and young adults with SB can be transitioned from a pediatric SB clinic to a multidisciplinary adult spinal cord injury clinic. The long term health care needs of individuals with SB are similar to those with spinal cord injuries, such as bowel and bladder management, personal hygiene, self-management  skills, mobility, vocational planning, and sexual adaptation(46) -U.S. researchers conducted a study to assess the effectiveness of transitioning 24 adolescents and young adults with SB from a pediatric SB clinic to an adult spinal cord injury clinic. Interviews were conducted with 24 subjects and 16 parents. The overwhelming majority of participants (82%) were very pleased with the transition despite having initial concerns regarding the transition. They reported having the unexpected benefit of being \u201ctreated like an adult and were the focus of the care\u201d"
+    ],
+    "patient education": [
+        "Spina Bifida Association, http://spinabifidaassociation.org/",
+        "Spina Bifida \u2013 General Information, https://www.ninds.nih.gov/Disorders/All-Disorders/Spina-Bifida-Information-Page",
+        "Guidelines and Recommendations for Folic Acid, https://www.cdc.gov/ncbddd/folicacid/index.html Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Toriello HV. Policy statement on folic acid and neural tube defects. Genetics in Medicine . 2011;13(6):593-596.  (G)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Spina bifida. Spina Bifida Association Web site. http://www.spinabifidaassociation.org/ . Accessed December 9, 2018. (GI)"
+        },
+        {
+            "number in article": 3,
+            "reference": "Mayo Clinic staff. Spina bifida. Mayo Clinic . August 27, 2014. http://www.mayoclinic.com/health/spina-bifida/DS00417 . Accessed December 9, 2018. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Norrlin S, Dahl M, R\u00f6sblad B. Control of reaching movements in children and young adults with myelomeningocele. Dev Med Child Neurol . 2004;46(1):28-33.  (R)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Connolly BH, Kasser RJ. Rehabilitation of a child with a split cord malformation and hemimeningomyelocele. Pediatr Phys Ther . 2002;14(4):208-213.  . (C)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Krosschell KJ, Pesavento MJ. Spina Bifida: a congenital spinal cord injury. In: Umphred DA, Burton GU, Lazaro RT, Roller ML, eds. Umphred\u2019s Neurologic Rehabilitation . 6th ed. St. Louis, MO: Mosby; 2013:419-458.  (GI)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Guggisberg D, Hadj-Rabia  S, Viney C, et al. Skin markers of occult spinal dysraphism in children: a review of 54 cases. Arch Dermatol . 2004;140(9):1109-1115.  (RV)"
+        },
+        {
+            "number in article": 8,
+            "reference": "NINDS Spina Bifida Information Page. National Institute of Neurological Disorders and Stroke Web site. https://www.ninds.nih.gov/Disorders/All-Disorders/Spina-Bifida-Information-Page . Accessed December 9, 2018. (GI)"
+        },
+        {
+            "number in article": 9,
+            "reference": "American College of Obstetricians and Gynecologists. ACOG Committee opinion no. 550: maternal-fetal  surgery for myelomeningocele. Obstet Gynecol . 2013;121(1):218-219. doi:10.1097/01.AOG.0000425666.02754.46. (G)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Aguiar MJB, Campos AS, Aguiar R, Lana A, Magalh\u00e3es RL, Babeto LT. Neural tube defects and associated factors in liveborn and stillborn infants. J Pediatr (Rio J) . 2003;79(2):129-134.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Emejulu JK, Okwaraoha BO. Peculiarities in cases of spina bifida cystica managed recently in south-east  Nigeria: could antimalarial drugs be a major but unrecognized etiologic factor? Pediatr Neurosurg . 2011;47(2):194-197.  doi:10.1159/000334255. (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Rasmussen SA, Chu SY, Kim SY, Schmid CH, Lau J. Maternal obesity and risk of neural tube defects: a metaanalysis. Am J Obstet Gynecol . 2008;198(6):611-619. doi:10.1016/j.ajog.2008.04.021. (M)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Farley TL. A reproductive history of mothers with spina bifida offspring \u2013 : new look at old issues. Cerebrospinal Fluid Res . 2006;3:10. (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Shin M, Besser LM, Siffel C. Prevalence of spina bifida among children and adolescents in 10 regions in the United States. Pediatrics . 2010;126(2):274-279. doi:10.1542/peds.2009-2084.  (R)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Molloy AM, Kirke PN, Troendle JF. Maternal vitamin B12 status and risk of neural tube defects in a population with high neural tube defect prevalence and no folic acid fortification. Pediatrics . 2009;123(3):917-923.  doi:10.1542/peds. (R)"
+        },
+        {
+            "number in article": 16,
+            "reference": "CDC. Racial/ethnic differences in the birth prevalence of spina bifida \u2013 United States, 1995-2005.  MMWR. 2009;57(53):1409-1413.  (R)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Quan A, Adams R, Ekmark E, Baum M. Bone mineral density in children with myelomeningocele. Pediatrics . 1998;102(3):E34. (R)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Scoggin AE, Parks KM. Latex sensitivity in children with spina bifida: implications for occupational therapy practitioners. Am J Occup Ther . 1997;51(7):608-611.  (RV)"
+        },
+        {
+            "number in article": 19,
+            "reference": "Adzick NS, Thom EA, Spong CY, et al. A randomized trial of prenatal versus postnatal repair of myelomeningocele. New England Journal of Medicine . 2011;364(11):993-1004. doi:10.1056/NEJMoa1014379. (RCT)"
+        },
+        {
+            "number in article": 20,
+            "reference": "Nawoczenski DA, Ritter-Soronen  JM, Wilson CM, Howe BA, Ludewig PM. Clinical trial of exercise for shoulder pain in chronic spinal injury. Phys Ther . 2006;86(12):1604-1618. (R)"
+        },
+        {
+            "number in article": 21,
+            "reference": "Clancy CA, McGrath PJ, Oddson BE. Pain in children and adolescents with spina bifida. Dev Med Child Neurol . 2005;47(1):27-34.  (R)"
+        },
+        {
+            "number in article": 22,
+            "reference": "Karlsson A, Norrlin S, Silander HC, Dahl M, Lanshammar H. Amplitude and frequency analysis of force plate data in sitting children with and without MMC. Clin Biomech (Bristol, Avon) . 2000;15(7):541-545.  (R)"
+        },
+        {
+            "number in article": 23,
+            "reference": "Boot CR, van Langen H, Hopman MT. Arterial vascular properties in individuals with spina bifida. Spinal Cord . 2003;41(4):242-246.  (R)"
+        },
+        {
+            "number in article": 24,
+            "reference": "Ayyangar RR, Davis RD, Law C. Myelomeningocele and other spinal dysraphisms. In: Braddom RL, Cifu DX, eds. Physical Medicine and Rehabilitation . 5th ed. Philadelphia, PA: Saunders; 2016:1073-1093.  (GI)"
+        },
+        {
+            "number in article": 25,
+            "reference": "Verhoef M, Barf HA, Post MW, van Asbeck FW, Gooskens RH, Prevo AJ. Functional independence among young adults with spina bifida, in relation to hydrocephalus and level of lesion. Dev Med Child Neurol . 2006;48(2):114-119.  (R)"
+        },
+        {
+            "number in article": 26,
+            "reference": "Han SW, Kim MJ, Kim JH, Hong CH, Kim JW, Noh JY. Intravesical electrical stimulation improves neurogenic bowel dysfunction in children with spina bifida. J Urol. 2004;171(6 Pt 2):2648-2650.  (R)"
+        },
+        {
+            "number in article": 27,
+            "reference": "Verhoef M, Lurvink M, Barf HA, et al. High prevalence of incontinence among young adults with spina bifida: description, prediction and problem perception. Spinal Cord . 2005;43(6):331-340.  (R)"
+        },
+        {
+            "number in article": 28,
+            "reference": "Shin M, Kucik JE, Siffel C, et al. Improved survival among children with spina bifida in the United States. J Pediatr . 2012;161(6):1132-1137.  doi:10.1016/j.jpeds.2012.05.040. (R)"
+        },
+        {
+            "number in article": 29,
+            "reference": "Chao TT, Dashe JS, Adams RC, Keefover-Hicks  A, McIntire DD, Twickler DM. Central nervous system findings on fetal magnetic resonance imaging and outcomes in children with spina bifida. Obstet Gynecol . 2010;116(2 Pt 1):323-329.  doi:10.1097/AOG.0b013e3181e666e8. (R)"
+        },
+        {
+            "number in article": 30,
+            "reference": "Oakeshott P, Hunt GM, Whitaker RH, Kerry S. Perineal sensation: an important predictor of long-term  outcome in open spina bifida. Arch Dis Child . 2007;92(1):67-70.  (R)"
+        },
+        {
+            "number in article": 31,
+            "reference": "Oakeshott P, Hunt GM, Poulton A, Reid F. Open spina bifida: birth findings predict long-term  outcome. Arch Dis Child . 2012;97(5):474-476. doi:10.1136/archdischild-2011-300624.  (R)"
+        },
+        {
+            "number in article": 32,
+            "reference": "Padua L, Rendeli C, Rabini A, Girardi E, Tonali P, Salvaggio E. Health-related  quality of life and disability in young patients with spina bifida. Arch Phys Med Rehabil . 2002;83(10):1384-1388.  (R)"
+        },
+        {
+            "number in article": 33,
+            "reference": "O'Connell DG, Barnhart R. Improvement in wheelchair propulsion in pediatric wheelchair users through resistance training: a pilot study. Arch Phys Med Rehabil . 1995;76(4):368-372.  (R)"
+        },
+        {
+            "number in article": 34,
+            "reference": "Smith BA, Moerchen VA, Ulrich BD. Body-weight  support treadmill stepping in infants with spina bifida. [abstract]. Pediatr Phys Ther . 2006;18(1):104-105.  (R)"
+        },
+        {
+            "number in article": 35,
+            "reference": "Katz-Leurer  M, Weber C, Smerling-Kerem  J, Rottem H, Meyer S. Prescribing the reciprocal gait orthosis for myelomeningocele children: a different approach and clinical outcome. Pediatr Rehabil . 2004;7(2):105-109.  (R)"
+        },
+        {
+            "number in article": 36,
+            "reference": "Goodwin DL, Krohn J, Kuhnle A. Beyond the wheelchair: the experience of dance. Adapt Phys Activity Q . 2004;21(3):229-247.  (C)"
+        },
+        {
+            "number in article": 37,
+            "reference": "De Wals P, Tairou F, Van Allen MI, et al. Reduction in neural-tube  defects after folic acid fortification in Canada. N Engl J Med . 2007;357(2):135-142.  (R)"
+        },
+        {
+            "number in article": 38,
+            "reference": "Bartonek A, Saraste H, Danielsson A. Health-related  quality of life and ambulation in children with myelomeningocele in a Swedish population. Acta Paediatrica . 2012;101(9):953-956.  doi:10.1111/j.1651-2227.2012.02742.x.  (R)"
+        },
+        {
+            "number in article": 39,
+            "reference": "Webb TS. Optimizing health care for adults with spina bifida. Dev Disabil Res Rev . 2010;16(1):76-81.  doi:10.1002/ddrr.99. (R)"
+        },
+        {
+            "number in article": 40,
+            "reference": "Bellin MH, Dicianno BE, Osteen P, Dosa N, Aparicio E. Family satisfaction, pain, and quality-of-life  in emerging adults with spina bifida: a longitudinal analysis. Am J Phys Med Rehabil. 2013;92(8):641-55.  doi:10.1097/PHM.0b013e31829b4bc1. (R)"
+        },
+        {
+            "number in article": 41,
+            "reference": "Crytzer TM, Dicianno BE, Robertson RJ, Yu-Ting C. Validity of a wheelchair perceived exertion scale (WHEEL SCALE) for arm ergonometry exercise in people with spina bifida. Perceptual and Motor Skills . 2015;120(1):304-322.  doi:10.2466/15.08.PMS.120v12x8. (R)"
+        },
+        {
+            "number in article": 42,
+            "reference": "Tappit-Emas  E. Spina Bifida. In: Tecklin JS, ed. Pediatric Physical Therapy . 5th ed. : Lippincott, Williams, & Wolters; 2015:247-299.  (GI)"
+        },
+        {
+            "number in article": 43,
+            "reference": "Bhide P, Sagoo GS, Moorthie S, Burton H, Kar A. Systematic review of birth prevalence of neural tube defects in India. Birth Defects Res A Clin Mol Teratol . July 2013;97(7):437-43.  doi:10.1002/bdra.23153. (SR)"
+        },
+        {
+            "number in article": 44,
+            "reference": "De-Regil LM, Fernandez-Gaxiola  AC, Dowswell T, Pena-Rosas  JP. Effects and safety of periconceptional folate supplementation for preventing birth defects. Cochrane Database of Systematic Reviews . 2010;(10):CD007950. doi:10.1002/14651858.CD007950.pub2.  (SR)"
+        },
+        {
+            "number in article": 45,
+            "reference": "Sawin KJ, Liu WE, Thibadeau J, Schechter MS, Soe MM, Walker W. The National Spina Bifida Patient Registry: profile of a large cohort of participants from the first 10 clinics. J Pediatrics . 2015;166(2):444-50.  doi:10.1016/j.peds.2014.09.039. (R)"
+        },
+        {
+            "number in article": 46,
+            "reference": "Sawin KJ, Rauen K, Bartelt T, et al. Transitioning adolescents and young adults with spina bifida to adult healthcare: initial findings from a model program. Rehabilitation Nursing: The Official J Ass Rehabil Nurses . 2015;40(1):3-11.  doi:10.1002/rnj.140. (R)"
+        },
+        {
+            "number in article": 47,
+            "reference": "Rocque BG, Bishop ER, Scogin MA, et al. Assessing health-related  quality of life in children with spina bifida. J Neurosurg Pediatr . 2015;15(2):144-149. doi:10.3171/2014.10.PEDS1441. (R)"
+        },
+        {
+            "number in article": 48,
+            "reference": "Godzik J, Ravindra VM, Ray WZ, Eskandari R, Dailey AT. Primary repair of open neural tube defect in adulthood: case example and review of management strategies. Spine Journal. 2015;15(11):e57. (C)"
+        },
+        {
+            "number in article": 49,
+            "reference": "Danzer E, Thomas NH, Thomas A, et al. Long-term  neurofunctional outcome, executive functioning, and behavioral adaptive skills following fetal myelomeningocele surgery. American Journal of Obstetrics & Gynecology . 2016;214(2):269.e1. (R)"
+        },
+        {
+            "number in article": 50,
+            "reference": "Urrutia J, Cuellar J, Zamora T. Spondylolysis and spina bifida occulta in pediatric patients: prevalence study using computed tomography as a screening method. European Spine Journal . 2016;25(2):590-595.  (R)"
+        },
+        {
+            "number in article": 51,
+            "reference": "Baym CL, Hedgecock JB, Rapport MJK. Functional mobility after intensive progressive resistance exercise in an adolescent with spina bifida. Pediatr Phys Ther . 2018;30(2):E1-E7.  doi:10.1097/PEP.0000000000000497. (R)"
+        },
+        {
+            "number in article": 52,
+            "reference": "Kokkoni E, Logan SW, Stoner T, Peffley T, Galloway JC. Use of an in-home body weight support system by a child with spina bifida. Pediatr Phys Ther . 2018;30(3):E1-E6. doi:10.1097/PEP.0000000000000516. (R)"
+        }
+    ]
+}

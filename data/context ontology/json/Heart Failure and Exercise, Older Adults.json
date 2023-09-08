@@ -1,0 +1,328 @@
+{
+    "metadata": {
+        "title": "Heart Failure and Exercise, Older Adults",
+        "synonyms": [
+            "congestive heart failure (chf) and exercise, older adults",
+            "left ventricular (lv) dysfunction and exercise, older adults",
+            "left ventricular failure and exercise, older adults"
+        ],
+        "anatomical location body part affected": [
+            "Heart/cardiovascular system, cardiopulmonary system"
+        ],
+        "area of specialty": [
+            "cardiovascular rehabilitation",
+            "home health",
+            "geriatric rehabilitation"
+        ],
+        "description": [
+            "Heart failure (HF) refers to the condition of impaired left and/or right ventricular pumping capacity. HF becomes more prevalent with increasing age, especially in persons with diseases that damage the myocardium, and is the leading cause of hospitalization in adults over 65 years of age(1)",
+            "Exercise intolerance due to exertional fatigue and shortness of breath reduces physical activity and health-related  quality of life (HRQoL) in older adults with HF(6)",
+            "Moderate evidence indicates that patients with chronic HF can safely undergo symptom-limited  cardiopulmonary graded exercise testing and participate in supervised aerobic exercise training(6,7)",
+            "Exercise training is associated with improved functional capacity and HRQoL in persons with HF(2,17,18)",
+            "This Clinical Review focuses on exercise-based  cardiac rehabilitation for improving aerobic endurance and strength in older persons with stable chronic HF. See Clinical Review\u2026Heart Failure ; Item Number: T708726 for a general review of symptoms, pathophysiology, and patient management in HF ICD-10  codes or application of equipment  . Desired Outcomes/Outcome Measures"
+        ],
+        "indications": [],
+        "ICD-9 codes": {},
+        "ICD-10 codes": {},
+        "ICD-11": {},
+        "G-codes": {},
+        "CPT codes": {},
+        "HCPCS codes": {},
+        "reimbursement": [
+            "Reimbursement for therapy will depend on insurance contract coverage; no specific special agencies are applicable for this condition"
+        ],
+        "presentation signs and symptoms": [
+            "Older person ",
+            "Stable, compensated, chronic HF \u2013Increased fluid retention \u2013Increased end diastolic volume (EDV) \u2013Ventricular hypertrophy",
+            "Prescription for exercise-based  cardiac rehabilitation to improve physical functioning",
+            "Dyspnea with fatigue during ADLs",
+            "Exertional intolerance",
+            "Reduced ADLs and HRQoL due to poor functional capacity",
+            "Lower extremity/dependent edema Causes, Pathogenesis, & Risk Factors"
+        ],
+        "contraindications precautions to test": [
+            "Terminate exam and notify physician if any new severe cardiac or breathing symptoms are reported",
+            "Consult with physician regarding guidelines for restricting exercise based on BP readings for each patient",
+            "Exercise and exercise testing are contraindicated when SBP is greater than 200 mmHg and/or diastolic BP (DBP) is greater than 110 mmHg(3)"
+        ],
+        "psychometric properties": [],
+        "potential complications adverse effects": [],
+        "test preparation materials required": [],
+        "test procedure": [],
+        "test scoring interpretation": []
+    },
+    "causes & risk factors": {
+        "causes:  common causes of hf in older adults": [
+            "Age-related  diastolic dysfunction",
+            "Coronary artery disease (CAD)(15)\u2013Myocardial infarction (MI)\u2013Chronic myocardial ischemia",
+            "Hypertensive heart disease/hypertensive hypertrophic cardiomyopathy(15)",
+            "Valvular heart disease/abnormal heart valves(15)\u2013Aortic stenosis or insufficiency\u2013Mitral stenosis or insufficiency\u2013Prosthetic valve malfunction\u2013Infective endocarditis",
+            "Heart muscle disease(15)\u2013Dilated cardiomyopathy\u2013Hypertrophic cardiomyopathy\u2013Inflammation (myocarditis)",
+            "Pericardial disease/constrictive pericarditis",
+            "High cardiac output syndromes\u2013Chronic anemia\u2013Thiamine deficiency\u2013Hyperthyroidism\u2013Arteriovenous shunting"
+        ],
+        "pathogenesis of exertional intolerance in older adults with hf": [
+            "Left-ventricular  myocardial performance is usually assessed as the ejection fraction (EF), which is stroke volume (SV)divided by the EDV times 100. Impaired EF results from reduced SV with increased EDV . It is not uncommon, however,for older adults with HF-related exercise intolerance to have poor myocardial performance despite preserved EF(7)",
+            "The physiological correlate of aerobic capacity on cardiopulmonary exercise testing and single best outcome measure ofaerobic training effects is peak oxygen consumption (VO 2peak), expressed as milliliters O 2 per kilogram body weight perminute (ml/kg/min). VO 2peak is associated with aerobic endurance capacity and can be assessed using the 6-minute  walkfor distance test (6MWT)(3)",
+            "The determinants of VO 2peak are cardiac output (Q) and arterial-mixed  venous O 2 difference (A-VO 2D)\u2013VO2peak = Q x A-VO 2D\u2013Consequently, reduced age-related  VO 2peak in HF may be due to decreased Q and/or A-VO 2D",
+            "Decreased Q response to peak exercise in older patients with HF may result from\u2013reduced peak heart rate (HR peak), which may occur secondary to-decreased number of sinus node pacemaker cells and sinus node dysfunction-diminished responsiveness to neurohumoral stimuli; e.g., sympathetic nerve stimulation, circulating epinephrine-leg fatigue that occurs during exercise before full cardiac response\u2013reduced SV , which may occur secondary to-increased vascular stiffness/impedance to ventricular ejection-increased end-systolic  volume (ESV)-impaired LV diastolic relaxation and compliance-increased EDV-reduced EF-altered myocardial energy metabolism-reduced contractility",
+            "Reduced A-VO 2D in patients with HF may result from\u2013decreased arterial O 2 content; in some cases, secondary to chronic anemia\u2013increased mixed-venous  O2 content; i.e., reduced peripheral O 2 extraction-reduced microvascular circulation in the exercised muscles-reduced mitochondrial activity in the exercised muscles",
+            "The proposed peripheral pathophysiological mechanisms of reduced VO 2peak and exercise intolerance in HF include(7,8)\u2013endothelial dysfunction secondary to deficient bone-marrow-derived  endothelial progenitor cells; reduced endothelialrepair\u2013skeletal muscle wasting/sarcopenia, possibly due to adiponectin resistance to insulin\u2013insufficient muscle perfusion secondary to decreased capillary density",
+            "Authors of a cohort study (N = 65; mean age 70 years) in the United States found that compared to healthy controls, thelower VO 2peak in patients with HF was associated with reduced type I oxidative muscle fibers and capillary-to-fiber ratio(8)"
+        ],
+        "risk factors": [
+            "Dietary sodium excess",
+            "Medication noncompliance",
+            "Excess fluid intake; self-induced  or iatrogenic",
+            "Arrhythmias; especially atrial fibrillation and bradycardia due to sick sinus syndrome",
+            "Persistent high fever that impairs heart function",
+            "Infections; especially pneumonia or sepsis",
+            "Renal insufficiency",
+            "Excessive daily alcohol intake",
+            "Thiamine deficiency",
+            "Pulmonary embolism",
+            "Hypoxemia due to chronic lung disease",
+            "Drugs/medications\u2013Beta-adrenergic  blockers\u2013Calcium channel blockers\u2013Antiarrhythmic agents\u2013NSAIDs\u2013Glucocorticoids\u2013Mineralocorticoids\u2013Estrogen preparations\u2013Certain antihypertensive medications (e.g., clonidine, minoxidil)"
+        ]
+    },
+    "indications for procedure": [],
+    "overall contraindications precautions": [
+        "Patients should be cleared and referred for exercise-based  cardiac rehabilitation by their cardiologist",
+        "Physician-supervised  cardiopulmonary exercise testing is useful for individualizing the therapeutic exercise program",
+        "Monitor vital signs and general symptoms before, during, and after exercise",
+        "Follow specific precautions or contraindications from the physician at all times",
+        "Absolute contraindications to exercise(3) Recent significant change in the resting electrocardiogram suggesting significant ischemia, recent myocardial infarction (within 2 days), or other acute cardiac event Unstable angina Uncontrolled cardiac dysrhythmias causing symptoms of hemodynamic compromise Symptomatic severe aortic stenosis Uncontrolled symptomatic heart failure  Acute pulmonary embolus or pulmonary infarction Acute myocarditis or pericarditis Suspected or known dissecting aneurysm Acute systematic infection, accompanied by fever, body aches, or swollen lymph glands Other absolute contraindications \u2013Signs and symptoms of congestion, unstable HF, or New York Heart Association (NYHA) functional class IV \u2013Indicators of excessive exercise -Myocardial ischemia -Hypotension -Nonsustained or sustained ventricular tachycardia \u2013Active inflammatory disease \u2013Cerebrovascular or musculoskeletal disease preventing exercise testing or training \u2013Severe obstructive lung disease leading to arterial oxygen desaturation \u2013Thyroid dysfunction, hypo-  or hyperkalemia, or hypovolemia",
+        "Relative contraindications to exercise Left main coronary stenosis Moderate stenotic valvular heart disease Electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia) Severe arterial hypertension (i.e., systolic blood pressure (SBP) of > 200 mm Hg and/or a diastolic BP (DBP) of > 110 mm Hg) at rest Tachydysrhythmia or bradydysrhythmia Hypertrophic cardiomyopathy and other forms of outflow tract obstruction Neuromotor, musculoskeletal, or rheumatoid disorders that are exacerbated by exercise High-degree  atrioventricular block Ventricular aneurysm Uncontrolled metabolic disease (e.g., diabetes, thyrotoxicosis, or myxedema) Chronic infectious disease (e.g., HIV) Mental or physical impairment leading to inability to exercise adequately Heart rate (HR) over 100 beats/min (bpm) in supine at rest Ventricular arrhythmia Class IV NYHA functional class HF; i.e., patient has discomfort with any physical activity and at rest; there are signs of cardiac insufficiency Body mass increase more than 4 pounds over course of 1 to 3 days, indicating retention of body water SBP decrease during exercise"
+    ],
+    "contraindications precautions to procedure": {},
+    "guidelines for use of procedure": {},
+    "examination": {
+        "contraindications precautions to examination": [
+            "Terminate exam and notify physician if any new severe cardiac or breathing symptoms are reported",
+            "Consult with physician regarding guidelines for restricting exercise based on BP readings for each patient",
+            "Exercise and exercise testing are contraindicated when SBP is greater than 200 mmHg and/or diastolic BP (DBP) is greater than 110 mmHg(3)"
+        ],
+        "history": {
+            "history of present illness": {
+                "mechanism of injury or etiology of illness": "Document date of HF diagnosis and NYHA functional classification (IIV).(4) Document date(s) of any cardiac events requiring hospitalization; note hospital course and any complications",
+                "course of treatment": {
+                    "medical management": "Document any dietary prescriptions (e.g., low-sodium  diet, alcohol restriction); use of ventricular assistive device, portable oxygen; stent placement, resynchronization pacemaker implant, cardioverter/ defibrillator implant, other cardiac surgery (e.g., valve replacement, coronary artery bypass)",
+                    "surgical management": [],
+                    "medications": "Determine what medications clinician has prescribed; are they being taken and are they effective?  Medications commonly used in the treatment of HF Angiotensin-converting  enzyme (ACE) inhibitors(16) Angiotensin-II  blockers (ARBs)(16) Beta-blockers(16) Diuretics(16) Nitrates Mineralocorticoid receptor antagonists (MRA), formerly aldosterone antagonists(16) Digoxin Medications contraindicated in HF(16) Thiazolidinediones (glitazones) CCB (excluding amlodipine and felodipine) NSAIDs, COX-2  inhibitors Adding an ARB to an ACE inhibitor and an MRA Dronedarone (for control of frequency and rhythm in AF) Class I antiarrhythmic agents Combination of ivabradine, ranolazine, and nicorandil Combination of nicorandil and nitrates Moxonidin Alpha blockers Testosterone therapy was shown to provide improvements in functional capacity and quality of life in patients with HF(8)",
+                    "diagnostic tests completed": [
+                        "Diagnostic tests completed",
+                        "Blood tests, urinalysis, and chest radiograph",
+                        "ECG can be used to evaluate for heart enlargement, ischemia, tachycardia, arrhythmia, or atrial fibrillation",
+                        "Echocardiogram can be used to calculate ejection fraction and detect valvular abnormalities",
+                        "Pulmonary artery and capillary wedge pressures to assess for elevated pulmonary pressures",
+                        "VO2peak to determine baseline aerobic capacity and appropriate exercise intensity for training",
+                        "Maximal or submaximal cardiopulmonary exercise (typically on treadmill or stationary bicycle) testing to evaluate the ECG, HR, BP, pulmonary ventilation, and O 2 saturation"
+                    ],
+                    "alternative therapies": "Document any use of home remedies or alternative therapies and whether or not they help",
+                    "previous therapy": "Document whether patient has had occupational or physical therapy for this or other conditions and what specific treatments were helpful or not helpful"
+                },
+                "aggravating easing factors": "(and length of time each item is performed before the symptoms come on or are eased), with particular attention to physical activity factors",
+                "body chart": "Use body chart to document location and nature of symptoms",
+                "nature of symptoms": "Document nature of symptoms (e.g., breathing discomfort, chest pressure/tightness)",
+                "rating of symptoms": "Use a visual analog scale (V AS) or 010  scale to assess symptoms at their best, at their worst, and at the moment (specifically address if pain is present now and how much). The Borg Rating of Perceived Exertion (RPE) Scale may be used to assess subjective exercise intensity",
+                "pattern of symptoms": "Document changes in symptoms throughout the day and night, if any (a.m., mid-day,  p.m., night); also document changes in symptoms due to weather or other external variables",
+                "sleep disturbance": "Document number of wakings per night. Sleep disturbance is a common symptom in HF that may be related to anxiety, depression, and comorbidities",
+                "other symptoms": "Document other symptoms patient may be experiencing that could exacerbate the condition and/or symptoms that could be indicative of a need to refer to physician (e.g., dizziness, bowel/bladder/sexual dysfunction, saddle anesthesia)",
+                "respiratory status": "Does the patient require the use of portable oxygen during physical activity because of respiratory symptoms or O 2 desaturation indicated by pulse oximetry? Document any orthopnea or sleep apnea Barriers to learning -Are there any barriers to learning? Yes __ No __  -If Yes, describe ____________________________"
+            },
+            "medical history": {
+                "past medical history": {
+                    "previous history of same similar diagnosis": "",
+                    "comorbid diagnoses": "Ask patient about other problems, including diabetes, cancer, heart disease, complications of pregnancy, psychiatric disorders, orthopedic disorders, etc.",
+                    "medications previously prescribed": "Obtain a comprehensive list of medications prescribed and/or being taken (including OTC drugs)",
+                    "other symptoms": "Ask patient about other symptoms such as depression or sleep disturbance"
+                }
+            },
+            "social and occupational history": {
+                "patient\u0432\u0402\u2122s goals": "",
+                "vocation avocation and associated repetitive behaviors, if any": "Does the patient participate in recreational or competitive sports?",
+                "functional limitations assistance with ADLs adaptive equipment": "Document as indicated",
+                "living environment": "Document number of stairs and floors in home; with whom does patient live (e.g., caregivers, family members)? Identify if there are barriers to independence in the home; any modifications necessary?"
+            }
+        },
+        "relevant tests and measures": {
+            "general": "(While tests and measures are listed in alphabetical order, sequencing should be \u203aRelevant tests and measures: (While tests and measures are listed in alphabetical order, sequencing should be appropriate to patient medical condition, functional status, and setting)",
+            "anthropometric characteristics": "BMI. Patients may be instructed to monitor their weight and body swelling daily to recognize signs of fluid retention. Rapid weight gain (> 4 pounds in 2 days) with increase in girth measurements is an early sign of edema/fluid retention",
+            "assistive and adaptive devices": "Assess if equipment is needed; if patient has equipment, assess for proper fit and use",
+            "balance": "Patients with reduced mobility may have poor balance and be at increased risk for falls. Use Tinetti Scale, Functional Reach Test, or Berg Balance Scale, as indicated",
+            "cardiorespiratory function and endurance": [
+                "Assess BP and HR",
+                "Assess using objective measures such as the Borg RPE, Sit to Stand Test, or 6MWT -Determine appropriateness of administering the 6MWT test",
+                "Monitor ECG for abnormal heart rhythm or ischemic changes, as indicated",
+                "Monitor O 2 saturation with pulse oximeter",
+                "Auscultate as indicated for pulmonary rales/crackles"
+            ],
+            "circulation": "Screen for the presence of peripheral pulses (radial/dorsalis pedis)Assess for appropriate lifting technique, appropriate breathing when lifting, and compliance with any weight-bearing  restrictions. Note use of energy-conservation  techniquesAssess independence in transfers and functional mobility. Monitor and document vital signs before, during, and after ADLs. Use FIM, Timed Up and Go (TUG) test, as appropriate",
+            "functional mobility": "",
+            "gait locomotion": "Assess need for assistive device. Document any shortness of breath, pallor, cyanosis, or diaphoresis during ambulation. Provide immediate rest if these should occur. Document vital signs during and immediately following ambulation. Also, document time until normal resting values are recovered. Assess gait safety using Dynamic Gait Index (DGI)",
+            "muscle strength": "Assess gross strength in upper and lower extremities and trunk to identify weakness using resisted manual muscle testing (MMT)",
+            "observation inspection palpation including skin assessment": [
+                "duration, using a scale of 1 to 4 (1 = 01/4  inch, disappears rapidly; 4 = > 1 inch, still present after 5 minutes)"
+            ],
+            "posture": "Document any obvious malalignment that may interfere with good posture during exercise program",
+            "range of motion": "Assess flexibility at all major joints to identify any limitations that may impact body mechanics during exerciseIdentify tasks patient reports are difficult; determine if decreased strength or endurance may limit ADLs ",
+            "self-care activities of daily living": "",
+            "reflex testing": "",
+            "sensory testing": "",
+            "special tests specific to diagnosis": " Special tests specific to diagnosis \u2013Kansas City Cardiomyopathy Questionnaire (KCCQ) to assess patient\u2019s HRQoL \u2013Borg RPE Scale to rate the patient\u2019s subjective intensity of exercise \u2013Dutch Heart Failure Knowledge Scale to assess the patient\u2019s understanding of HF, as appropriate",
+            "speech and language examination": "",
+            "neurological examination": "",
+            "oral structure and oral motor function": "",
+            "perception": "",
+            "arousal attention cognition": "Document patient\u2019s orientation to time, place, and situation. Is patient alert or lethargic? Onset of confusion, restlessness, dizziness, or lightheadedness may be symptoms of worsening HF, requiring medical attention",
+            "aac assessment": "",
+            "swallow examination": "",
+            "tracheostomy examination": ""
+        }
+    },
+    "assessment plan of care": {
+        "contraindications precautions": {
+            "cryotherapy contraindications": [],
+            "cryotherapy precautions": [],
+            "contraindications precautions": [
+                "Ask physician about precautions for patients with electrical implants (pacemaker, defibrillator) or LV mechanical assist devices",
+                "Ask physician about the safety of aquatic exercise training or swimming \u203aDiagnosis/need for exercise training:  HF/reduced aerobic capacity (i.e., VO 2peak) and endurance; reduced muscle strength; reduced physical functioning in ADLs with increased risk for falls"
+            ],
+            "superficial heat is contraindicated with": [],
+            "electrotherapy contraindications precautions include": [],
+            "other": [
+                "Patients with this diagnosis are at risk for falls; follow facility protocols for fall prevention and post fall-prevention instructions at bedside, if inpatient. Ensure that patient and family/caregivers are aware of the potential for falls and educated about fall-prevention  strategies. Discharge criteria should include independence with fall-prevention strategies",
+                "Only those contraindications/precautions applicable to diagnosis of HF are mentioned below. Rehabilitation professionals should always use their professional judgment and follow the guidelines of their clinic/hospital and orders of the patient\u2019s physician. The summary below is meant to serve as a guide, not to replace orders from a physician or a clinic\u2019s specific protocols",
+                "Confirm that the patient\u2019s cardiologist has approved individualized exercise training and ascertain whether any specific exercise guidelines/precautions have been ordered for this patient",
+                "Typically, patients referred for exercise training will have undergone physician-supervised  cardiopulmonary exercise testing and specific training guidelines for the patient (e.g., exercise intensity) prescribed based on the results",
+                "Confer with physician for approval of exercise prescription based on Relevant tests and measures , above",
+                "Monitor patient for signs of overexertion: dyspnea that prevents completing a sentence; shortness of breath that does not get better when activity is decreased; dizziness or lightheadedness; chest pain or tightness; pain in arms, shoulders, neck, or jaw; irregular pulse; extreme fatigue; severe sweating; and nausea or vomiting. Educate the patient on ways to avoid overexertion",
+                "Absolute and relative contraindications to exercise are outlined above (see Overall Contraindications/Precautions )",
+                "Special considerations"
+            ],
+            "general": "HF/reduced aerobic capacity (i.e., VO 2peak) and endurance; reduced muscle"
+        },
+        "diagnosis need for treatment": "",
+        "rule out": "Confirm that physician has excludedasthma, chronic lung diseases, arrhythmia, infection, anemia, pulmonary embolismacute or chronic renal failure, liver disease, hyperproteinemia, venous insufficiency, pregnancy, endocrine disease, medications, lymphedema",
+        "prognosis": [
+            "In patient with HF, exercise training may reduce hospitalizations related to HF and is associated with a small decrease in long term all-cause  mortality(2)",
+            "Following a generalized exercise program can result in improvements in ejection fraction which can improve overall quality of life(9)"
+        ],
+        "referral to other disciplines": " Referral to other disciplines Back to the physician for worsening symptoms during intervention Smoking cessation program, if applicable Nutritionist for dietary intervention Mental health professional for depression, psychological symptoms Sleep specialist, as indicated Aquatic therapist for water-based  exercise training",
+        "other considerations": [
+            "Patients with heart failure can improve physical and functional capacities with resistance training exercises, but do not gain any additional benefits from ingesting branched chain amino acid supplementation(13) ",
+            "Patients with chronic heart failure may benefit from exercise training combined with repeated sauna therapy in order to improve left ventricular ejection fraction (LVEF), Barthel Index score, ambulation capacity, and NYHA functional scores(14) \u2013Based on an RCT in Japan involving 54 patients with chronic heart failure \u2013Patients were randomized to either the repeated sauna therapy and exercise group or repeated sauna therapy only group \u2013Both groups performed their intervention once a day for 5 days \u2013Results show that both groups improved significantly in LVEF and NYHA functional scores; however, those in the combined therapy group showed significantly more improvements in the Barthel Index score and ambulation capacity"
+        ],
+        "treatment summary": [
+            "Physical functioning commonly declines in patients with chronic HF, probably due in part to exertional fatigue and dyspnea as well as reduced daily physical activity. A primary functional goal of exercise training is, therefore, to increase the ability for daily physical activity with reduced symptoms",
+            "Moderate evidence supports individualized aerobic exercise training for improving functional capacity in patients with HF.(7)A graded, symptom-limited  exercise test may be required to assess exertional responses and individualize the exercise prescription to avoid exercise-related  complications",
+            "Prescription of aerobic exercise \u2013Guidelines: Specific exercise guidelines based on NYHA class that target patients with HF are lacking. Exercise standards for testing and training patients with heart conditions in general have been published by the American College of Sports Medicine(3) \u2013Medical supervision: A physician or clinical exercise therapist should write the exercise prescription and supervise the exercise program. A medical response protocol should be developed and rehearsed to manage various problems or emergencies that may occur during the exercise session \u2013Patient monitoring: HR, BP, and ECG monitoring during the exercise sessions may be necessary or prescribed by the referring physician on an individual patient basis \u2013Warm-up:  A patient should be given a warm-up  of at least 15 minutes of gentle exercise, which may include light calisthenics and stretching, prior to starting exercise in the prescribed aerobic intensity zone \u2013Patient orientation: The initial 2 weeks of the training program should be used to habituate the patient to the exercise modes at \u201clight\u201d or \u201ceasy\u201d RPE intensity, with the session relatively short in duration (15 to 20 minutes) \u2013Types of exercise: Stationary leg cycling, arm ergometry, and slow walking on a treadmill have been used successfully in research studies. Ambulatory patients with questionable gait safety assessed by DGI may require standby assistance when walking for exercise \u2013Exercise intensity: Avoid exercise-induced  symptoms such as muscle pain or dyspnea that may limit exercise duration. The upper limit of exercise intensity during the stimulus phase of training (in the absence of untoward symptoms) is 60% to 70% of heart-rate  reserve (calculated as the resting HR + peak HR \u2013 exercise HR) determined on graded exercise testing. This intensity is commonly perceived as \u201csomewhat hard\u201d (13 on Borg RPE Scale of 6 to 20) \u2013Exercise session duration: Target 40 minutes after the initial orientation period \u2013Exercise frequency: Target 3 to 4 times per week \u2013Exercise program duration: The duration of training can vary. In many studies the duration is approximately 12 weeks(10,11,12) \u2013Patients with ischemic heart failure with an implantable defibrillator can benefit from a 12-week  aerobic interval program to improve quality of life and depressive symptoms(11) -Based on a study in Norway that included 31 patients with ischemic heart failure with an implantable cardioverter defibrillator -Patients exercised 3x/week for 60 minutes using a cycle ergometer or treadmill. Exercise sessions were broken down into 15-minute  warm-ups,  followed by performing 4 high-intensity  intervals (85% of max HR or a 15\u201317  Borg Scale), and ending with a 20-minute cool-down  and stretching \u2013Aerobic interval training can improve diastolic function and cardiac power index in patients with heart failure with a reduced ejection fraction(12) -Based on a study of 120 patients with HF conducted in Taiwan. Patients were divided into the heart failure with preserved ejection fraction, heart failure with reduced ejection fraction, or general healthcare groups -Patients performed aerobic interval training at 3-minute  intervals at 40% and 80% VO2peak for 30 minutes a day, 3x/ week for 12 weeks ",
+            "Based on a 2018 systematic review and meta-analysis,  exercise significantly improves physical function and quality of life in patients with chronic heart failure(18) \u2013Data from 5411 patients with chronic heart failure from 40 studies were included in the analysis. The studies all included an outpatient or community-based  structured exercise program as the sole intervention \u2013The authors concluded that participation in exercise is more important than the type of exercise performed",
+            "Dance exercise may improve exercise tolerance in patients with HF. Authors of an RCT (N = 51 men; mean age 67.1 years) in Greece found that traditional Greek dancing (60 minutes, 3 times a week for 8 months) improved aerobic functional capacity similar to conventional exercise training compared to controls, but the dance group had greater intrinsic motivation and attendance than the formal exercise group(5) \u2013The dancing group performed 10minutes of warming up followed by 40 minutes of basic, low-impact  steps, gradually progressing to more physically demanding dance steps \u2013The formal exercise group performed 10 minutes of warm-up followed by 20 minutes of aerobic and/or stationary bike exercise, followed by 20 minutes of resistance training of the upper and lower extremities",
+            "Based on an RCT in Sweden, both yoga and hydrotherapy significantly improve exercise capacity and decrease anxiety in patients with heart failure(19) \u2013Forty patients with heart failure were randomized into two groups: hydrotherapy or yoga training \u2013Both groups performed interventions 45\u201360  minutes, twice a week for 12 weeks \u2013Both yoga and hydrotherapy interventions equally affected quality of life, exercise capacity, clinical outcomes, and symptoms of anxiety and depression",
+            "Modified high-intensity  training (mHIT) can improve peak cardiac output and increase ventilation efficiency during exercise while reducing cardiac afterload for patients with heart failure(10) \u2013Researchers in Taiwan studied 68 patients (35 in mHIT group and 33 in control group) with heart failure for 12 weeks \u2013mHIT group performed moderate continuous training during the first 12 sessions followed by 24 HIT sessions. Intensity level was set at 40\u201360%  of VO 2 reserve. HIT activities consisted of a 6-minute  warm-up  at 20% VO 2 reserve followed by seven 3-minute  exercise intervals at 80% of VO2 reserve and finishing with a 5-minute cool-down  at 20% VO2 reserve. Sessions lasted a total of 50 minutes \u2013Patients in the control group received only medical treatment throughout the study \u2013Results at the end of the study show that those in the mHIT group had significant improvements in minute ventilation (VE/VO 2), heart rate, rate pressure product, and stroke volume compliance and elevated stroke volume and cardiac output",
+            "Resistance training without additional intervention is effective for increasing aerobic capacity, muscle strength, and quality of life in patients with heart failure(17) \u2013Based on a meta-analysis  which included 10 studies and 240 participants ranging in age from 48 to 76 years \u2013Training durations in the selected studies ranged from 8 to 24 weeks. Intensity of resistance training was up to 80% 1RM . Problem Goal Intervention Expected Progression Home Program Reduced physical activity due to impaired aerobic capacity; reduced HRQoLImproved aerobic exercise tolerance and HRQoLTherapeutic exercise See Treatment summary , aboveThe intensity and duration of exercises should be progressed in the final phase to restore activity toleranceProvide the patient with simple written instructions for safe, independent aerobic exercise Functional decline Maximize functional mobility and ability to perform ADLsFunctional training Posture, balance, functional mobility, and gait training, as indicatedThe difficulty of functional activities/ tasks should be progressed to achieve desired outcomesProvide patient and family/ caregivers with written instructions regarding functional activities that can be performed at home and correct use and/ or application of equipment  ."
+        ]
+    },
+    "desired outcomes outcome measures": {
+        "improved exercise tolerance": [
+            "Functional capacity assessed during treadmill or cycle ergometer graded exercise test, 6MWT"
+        ],
+        "improved aerobic endurance": [
+            "6MWT, Borg RPE"
+        ],
+        "reduced episodes of hf-related  symptoms in daily activities": [
+            "KCCQ"
+        ],
+        "increased functional mobility and ability to perform adls": [
+            "6MWT, FIM, TUG test, DGI"
+        ]
+    },
+    "maintenance or prevention": [
+        "Reduce lifestyle-related  cardiac risk factors as indicated: normalize weight; decrease dietary cholesterol, saturated fat, and sodium intake; no smoking",
+        "Continue prescribed aerobic training",
+        "Maintain regular physical activity"
+    ],
+    "patient education": [
+        "Heart Failure Society of America website, \u201cLearn about Heart Failure\u201d http://www.hfsa.org/patient/learn/",
+        "Patient.co.uk website, \u201cCongestive Heart Failure,\u201d https://patient.info/health/heart-failure-leaflet Coding Matrix References are rated using the following codes, listed in order of strength: MPublished meta-analysis SRPublished systematic or integrative literature review RCTPublished research (randomized controlled trial) RPublished research (not randomized controlled trial) CCase histories, case studies GPublished guidelinesRVPublished review of the literature RUPublished research utilization report QIPublished quality improvement report LLegislation PGRPublished government report PFRPublished funded reportPPPolicies, procedures, protocols XPractice exemplars, stories, opinions GIGeneral or background information/texts/reports UUnpublished research, reviews, poster presentations or other such materials CPConference proceedings, abstracts, presentation"
+    ],
+    "references": [
+        {
+            "number in article": 1,
+            "reference": "Diez-Villanueva  P, Alfonso F. Heart failure in the elderly. J Geriatr Cardiol . 2016;13(2):115-117.  doi:10.11909/j.issn.1671-5411.2016.02.009.  (RV)"
+        },
+        {
+            "number in article": 2,
+            "reference": "Long L, Mordi IR, Bridges C, et al. Exercise-based  cardiac rehabilitation for adults with heart failure. Cochrane Database Syst Rev . 2019;(1):CD003331. doi:10.1002/14651858.CD003331.pub5.  (SR)"
+        },
+        {
+            "number in article": 3,
+            "reference": "American College of Sports Medicine. ACSM\u2019s Guidelines for Exercise Testing and Prescription . 10th ed. Philadelphia: Lippincott Williams and Wilkins; 2017. (GI)"
+        },
+        {
+            "number in article": 4,
+            "reference": "Classes of heart failure. American Heart Association Web site. https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure . Published May 31, 2017. Accessed June 20, 2019. (GI)"
+        },
+        {
+            "number in article": 5,
+            "reference": "Kaltsatou AC, Kouidi EI, Anifanti MA, Douka SI, Deligiannis AP. Functional and psychosocial effects of either a traditional dancing or a formal exercising training program in patients with chronic heart failure: a comparative randomized controlled study. Clin Rehabil . 2014;28(2):128-138.  doi:10.1177/0269215513492988. (RCT)"
+        },
+        {
+            "number in article": 6,
+            "reference": "Fleg JL, Cooper LS, Borlaug BA, et al; Results from a National Heart, Lung, and Blood Institute Working Group. Exercise training as therapy for heart failure: current status and future directions. Circ Heart Fail . 2015;8(1):209-20.  (RV)"
+        },
+        {
+            "number in article": 7,
+            "reference": "Kitzman DW, Nicklas B, Kraus WE, et al. Skeletal muscle abnormalities and exercise intolerance in older patients with preserved ejection fraction. Am J Physiol Heart Circ Physiol. 2014;306(9):H1364-70.  doi:10.1152/ajpheart.00004.2014. (R)"
+        },
+        {
+            "number in article": 8,
+            "reference": "Mirdamadi A, Garakyaraghi M, Pourmoghaddas A, Bahmani A, Mahmoudi H, Gharipour M. Beneficial effects of testosterone therapy on functional capacity, cardiovascular parameters, and quality of life in patients with congestive heart failure. Biomed Res Int . 2014;2014:392432. doi:10.1155/2014/392432. (RCT)"
+        },
+        {
+            "number in article": 9,
+            "reference": "Hassanpour Dehkordi A, Khaledi Far A. Effects of exercise training on the quality of life and echocardiography parameter of systolic function in patients with chronic heart failure: A randomized trial. Asian J Sports Med . 2015;6(1):e22643. doi:10.5812/asjsm.22643. (RCT)"
+        },
+        {
+            "number in article": 10,
+            "reference": "Huang SC, Wong MK, Lin PJ, et al. Modified high-intensity  interval training increases peak cardiac power output in patients with heart failure. European with Eur . 2014;114(9):1853-1862.  doi:10.1007/s00421-014-2913-y.  (R)"
+        },
+        {
+            "number in article": 11,
+            "reference": "Isaksen K, Munk PS, Giske R, Larsen AI. Effects of aerobic interval training on measures of anxiety, depression and quality of life in patients with ischaemic heart failure and an implantable cardioverter defibrillator: a prospective non- randomized trial. J Rehabil Med . 2016;48(3):300-306.  (R)"
+        },
+        {
+            "number in article": 12,
+            "reference": "Fu TC, Yang NI, Wang CH, et al. Aerobic interval training elicits different hemodynamic adaptations between heart failure patients with preserved and reduced ejection fraction. Am J Phys Med Rehabil . 2016;95(1):15-27.  (R)"
+        },
+        {
+            "number in article": 13,
+            "reference": "Pineda-Juarez  JA, Sanches-Ortiz  NA, Castillo-Martinez  L, et al. Changes in body composition in heart failure patients after a resistance exercise program and branched chain amino acid supplementation. Clin Nutr. 2016;35(1):41-47.  (R)"
+        },
+        {
+            "number in article": 14,
+            "reference": "Haseba S, Sakakima H, Kubozono T, Nakao S, Ikeda S. Combined effects of repeated sauna therapy and exercise training on cardiac function and physical activity in patients with chronic heart failure. Disabil Rehabil . 2016;38(5):409-415.  (RCT)"
+        },
+        {
+            "number in article": 15,
+            "reference": "Causes of heart failure. American Heart Association Web site. https://www.heart.org/en/health-topics/heart-failure/causes-and-risks-for-heart-failure/causes-of-heart-failure . Published May 31, 2017. Accessed June 24, 2019. (GI)"
+        },
+        {
+            "number in article": 16,
+            "reference": "Berliner D, Bauersachs J. Current drug therapy in chronic heart failure: the new guidelines of the European Society of Cardiology (ESC). Korean Circ J . 2017;47(5):543-554. doi:10.4070/kcj.2017.0030. (G)"
+        },
+        {
+            "number in article": 17,
+            "reference": "Giuliano C, Karahalios A, Neil C, Allen J, Levinger I. The effects of resistance training on muscle strength, quality of life and aerobic capacity in patients with chronic heart failure\u2014a meta-analysis.  Int J Cardiol . 2017;227:413-423.  doi:10.1016/j.ijcard.2016.11.023. (M)"
+        },
+        {
+            "number in article": 18,
+            "reference": "Palmer K, Bowles KA, Paton M, Jepson M, Lane R. Chronic heart failure and exercise rehabilitation: a systematic review and meta-analysis.  Arch Phys Med Rehabil . 2018;99(12):2570-2582.  doi:10.1016/j.apmr.2018.03.015. (SR)"
+        },
+        {
+            "number in article": 19,
+            "reference": "H\u00e4gglund E, Hagerman I, Dencker K, Str\u00f6mberg A. Effects of yoga versus hydrotherapy training on health-related  quality of life and exercise capacity in patients with heart failure: a randomized controlled study. Eur J Cardiovasc Nurs . 2017;16(5):381-389.  doi:10.1177/1474515117690297. (RCT)"
+        }
+    ]
+}
