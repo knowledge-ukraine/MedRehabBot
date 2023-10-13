@@ -2,10 +2,12 @@
 
 🤖 Interactive reference system for Physical Rehabilitation &amp; Telerehabilitation Therapists, Students, and Patients support
 
-## Data for "Fundamentals of the Integrated Use of Neural Network and Ontolinguistic Paradigms: A Comprehensive Approach" paper
+**This repository is the data for articles:**
+ - "Natural Language-Driven Dialogue Systems for Support in Physical Medicine and Rehabilitation".
+ - "Fundamentals of the Integrated Use of Neural Network and Ontolinguistic Paradigms: A Comprehensive Approach".
 
 ## How to cite
 
-Palagin, O., Kaverinskiy, V., Petrenko, M., & Malakhov, K. (2023).
+TODO
 
 ------
