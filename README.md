@@ -22,6 +22,8 @@ This study would not have been possible without the financial support of the [Na
 
 - Development of the cloud-based platform for patient-centered telerehabilitation of oncology patients with mathematical-related modeling, application ID: 2021.01/0136.
 
+![alt text](https://github.com/knowledge-ukraine/MedRehabBot/blob/main/logo_nrfu_eng.png?raw=true)
+
 ## Read more
 
 - [Letter to the Editor–Update from Ukraine: Development of the Cloud-based Platform for Patient-centered Telerehabilitation of Oncology Patients with Mathematical-related Modeling](https://doi.org/10.5195/ijt.2023.6562).
